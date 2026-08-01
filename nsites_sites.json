@@ -21,9 +21,17 @@
                        "ssh": "oracle-micro-2"},
     "local_m4":       {"role": "Gate-1 GGUF/Metal runs", "gpu": "metal", "cost": "owned", "status": "live"},
     "groq_openrouter":{"role": "score ~50 families via API", "gpu": false, "cost": "free API", "status": "live"},
-    "kaggle":         {"role": "one-off probes ONLY (P100 lottery)", "gpu": true, "cost": "30h/wk lottery", "status": "manual"},
+    "kaggle":         {"role": "one-off probes ONLY (P100 lottery)", "gpu": true, "cost": "30h/wk lottery", "status": "live",
+                       "flag": "nicktempleman/csoai-corpus-baselines PUBLIC 2026-08-01; 3 legacy SOV datasets",
+                       "note": "comp scan: all current windows missed; standing watch in Monday N-site cron"},
     "colab":          {"role": "notebook prototyping only", "gpu": true, "cost": "sporadic T4", "status": "manual"},
-    "runpod":         {"role": "novel-probe measurement bursts", "gpu": "A100", "cost": "$1.39/hr", "status": "paid-lane"}
+    "runpod":         {"role": "novel-probe measurement bursts", "gpu": "A100", "cost": "$1.39/hr", "status": "paid-lane"},
+    "cerebras":       {"role": "fast free inference — new board family", "gpu": "WSE", "cost": "free tier", "status": "BLOCKED",
+                       "blocked_on": "keystone CEREBRAS_API_KEY stale (401). Nick: one-click login at cloud.cerebras.ai, mint fresh key"},
+    "zenodo":         {"role": "DOI minting for ProvBench publish (gate Aug 14)", "gpu": false, "cost": "free", "status": "BLOCKED",
+                       "blocked_on": "browser not logged in. Nick: one-click GitHub OAuth at zenodo.org, then master mints API token"},
+    "openrouter_free": {"role": "extend board via :free model variants", "gpu": false, "cost": "free API", "status": "post-gate",
+                       "note": "key works; adding subjects now dilutes coverage before Aug 14 — queue post-gate"}
   },
   "jobs": {
     "airbench_snapshot": {
