@@ -16,16 +16,26 @@ jobs:
         with: { python-version: '3.11' }
       - name: watch EU AI Act (EUR-Lex CELLAR, 113 articles)
         run: python watcher/run_watch.py --authority eur-lex --subset ai-act-113 --out drift_events.jsonl
+      - name: watch EU CRA (EUR-Lex CELLAR, 71 articles)
+        run: python watcher/run_watch.py --authority eur-lex --subset cra-articles --out drift_events.jsonl
       - name: watch UK GDPR (legislation.gov.uk, core articles)
         run: python watcher/run_watch.py --authority legislation.uk --subset uk-gdpr-core --out drift_events.jsonl
       - name: watch DPA 2018 (legislation.gov.uk, ss.1-3)
         run: python watcher/run_watch.py --authority legislation.uk --subset dpa-2018-s123 --out drift_events.jsonl
       - name: watch NIS Regulations (legislation.gov.uk, core regs)
         run: python watcher/run_watch.py --authority legislation.uk --subset nis-regs-core --out drift_events.jsonl
-      - name: commit corpus + drift deltas
+      - name: generate signed delta report
+        env:
+          CORPUS_SIGN_KEY: ${{ secrets.CORPUS_SIGN_KEY }}
+        run: python scripts/delta_report.py --events drift_events.jsonl --state corpus_state.json --outdir reports --key "$CORPUS_SIGN_KEY"
+      - name: emit watcher status snapshot
+        env:
+          CORPUS_SIGN_KEY: ${{ secrets.CORPUS_SIGN_KEY }}
+        run: python scripts/status.py --state corpus_state.json --events drift_events.jsonl --key "$CORPUS_SIGN_KEY" > reports/status.json
+      - name: commit corpus + drift deltas + reports
         run: |
           git config user.name  "corpus-watcher"
           git config user.email "watcher@users.noreply.github.com"
-          git add corpus_state.json drift_events.jsonl || true
+          git add corpus_state.json drift_events.jsonl reports/ || true
           git commit -m "corpus watch $(date -u +%FT%TZ)" || echo "no change"
           git push || echo "nothing to push"

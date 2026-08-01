@@ -11,18 +11,10 @@ except Exception:
     # in the deployed repo the watcher sits alongside; fall back to local copy
     from run_watch_lib import check_provision, NORMALISER_VERSION  # type: ignore
 
-# CELEX ids per instrument (the EU AI Act = 32024R1689). Provision-level fetch resolves the act, then the watcher
-# hashes the whole normalised text (provision-level slicing is a later refinement; act-level drift is the coarse signal).
-_CELEX = {"EU-AI-ACT": "32024R1689"}
-
-# legislation.gov.uk instruments — byte-stable /data.xml, provision-level (verified live 2026-07-29:
-# repeated fetches byte-identical, no per-request nonce — the property EUR-Lex HTML lacks).
-# path templates: {p} = provision number
-_LEGUK = {
-    "UK-GDPR":   "eur/2016/679/article/{p}/data.xml",      # UK GDPR (retained EU 2016/679)
-    "DPA-2018":  "ukpga/2018/12/section/{p}/data.xml",     # Data Protection Act 2018
-    "NIS2-UK":   "uksi/2018/506/regulation/{p}/data.xml",  # NIS Regulations 2018 (UK NIS1)
-}
+# CELEX ids per instrument (the EU AI Act = 32024R1689; Cyber Resilience Act proposal = 32024R2847).
+# Provision-level fetch resolves the act, then the watcher hashes the whole normalised text
+# (provision-level slicing is a later refinement; act-level drift is the coarse signal).
+_CELEX = {"EU-AI-ACT": "32024R1689", "EU-CRA": "32024R2847"}
 def fetch_leguk(instrument, provision):
     """legislation.gov.uk per-provision /data.xml. Returns None on any failure -> UNKNOWN (fail-closed)."""
     import urllib.request, urllib.error
@@ -37,11 +29,24 @@ def fetch_leguk(instrument, provision):
         return None                      # fail-closed
     if len(body) < 200 or b"<html" in body[:200].lower(): return None  # error page, not statute XML
     return body.decode("utf-8", "replace")
+
 def _is_law_text(b: bytes) -> bool:
-    """Guard (CC lane finding): reject the JS/cookie-challenge page. Real law text has article/regulation/annex/whereas."""
-    low = b[:4000].lower()
-    if len(b) < 8000 and b"context" in low and b"article" not in low: return False  # challenge page
-    return any(k in low for k in (b"article", b"regulation", b"annex", b"whereas"))
+    """Guard: reject the JS/cookie-challenge page. Real EU law text has many 'Article N' / 'Regulation N' / 'Annex' markers
+    scattered through the body; the JS challenge page does not. The CRA proposal puts the table of contents in the first
+    ~4kB and the article bodies later — counting markers across the WHOLE body catches it without false-rejecting a real
+    instrument. Threshold 5 is conservative for any EU act (smallest AI-Act-adjacent instrument has dozens of articles)."""
+    import re as _re
+    full = b.decode("utf-8", "replace")
+    count = sum(len(_re.findall(pat, full)) for pat in (r"\bArticle\s+\d+", r"\bRegulation\s+\d+", r"\bAnnex\b"))
+    return count >= 5
+# legislation.gov.uk instruments — byte-stable /data.xml, provision-level (verified live 2026-07-29:
+# repeated fetches byte-identical, no per-request nonce — the property EUR-Lex HTML lacks).
+# path templates: {p} = provision number
+_LEGUK = {
+    "UK-GDPR":   "eur/2016/679/article/{p}/data.xml",      # UK GDPR (retained EU 2016/679)
+    "DPA-2018":  "ukpga/2018/12/section/{p}/data.xml",     # Data Protection Act 2018
+    "NIS2-UK":   "uksi/2018/506/regulation/{p}/data.xml",  # NIS Regulations 2018 (UK NIS1)
+}
 def fetch_eurlex(instrument, provision):
     """VERIFIED CELLAR content-negotiation path (FOREST_82): publications.europa.eu XHTML manifestation returns REAL
     law text (no JS challenge, unlike the eur-lex.europa.eu HTML page). Returns None on any failure/challenge -> UNKNOWN."""
@@ -69,6 +74,7 @@ def main():
     # subsets: instrument, fetch_fn, provision list. Start small, prove normalisation before scaling (N-sites §4.1).
     SUBSETS = {
         "ai-act-113":   ("EU-AI-ACT", fetch_eurlex, [f"Art.{n}" for n in range(1, 114)]),
+        "cra-articles": ("EU-CRA",    fetch_eurlex, [f"Art.{n}" for n in range(1, 72)]),   # CRA: 71 articles (provision-level slicing = 1 fetch per Art., coarse hash per Art.)
         "uk-gdpr-core": ("UK-GDPR",   fetch_leguk,  [f"Art.{n}" for n in (5, 6, 13, 25, 32, 33, 35)]),
         "dpa-2018-s123":("DPA-2018",  fetch_leguk,  ["s.1", "s.2", "s.3"]),
         "nis-regs-core":("NIS2-UK",   fetch_leguk,  [f"reg.{n}" for n in (1, 10, 11, 14)]),
