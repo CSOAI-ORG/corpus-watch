@@ -14,6 +14,29 @@ except Exception:
 # CELEX ids per instrument (the EU AI Act = 32024R1689). Provision-level fetch resolves the act, then the watcher
 # hashes the whole normalised text (provision-level slicing is a later refinement; act-level drift is the coarse signal).
 _CELEX = {"EU-AI-ACT": "32024R1689"}
+
+# legislation.gov.uk instruments — byte-stable /data.xml, provision-level (verified live 2026-07-29:
+# repeated fetches byte-identical, no per-request nonce — the property EUR-Lex HTML lacks).
+# path templates: {p} = provision number
+_LEGUK = {
+    "UK-GDPR":   "eur/2016/679/article/{p}/data.xml",      # UK GDPR (retained EU 2016/679)
+    "DPA-2018":  "ukpga/2018/12/section/{p}/data.xml",     # Data Protection Act 2018
+    "NIS2-UK":   "uksi/2018/506/regulation/{p}/data.xml",  # NIS Regulations 2018 (UK NIS1)
+}
+def fetch_leguk(instrument, provision):
+    """legislation.gov.uk per-provision /data.xml. Returns None on any failure -> UNKNOWN (fail-closed)."""
+    import urllib.request, urllib.error
+    tmpl = _LEGUK.get(instrument)
+    if not tmpl: return None
+    num = provision.split(".")[-1]
+    url = "https://www.legislation.gov.uk/" + tmpl.format(p=num)
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "csoai-corpus-watch/1.0"})
+        body = urllib.request.urlopen(req, timeout=30).read()
+    except Exception:
+        return None                      # fail-closed
+    if len(body) < 200 or b"<html" in body[:200].lower(): return None  # error page, not statute XML
+    return body.decode("utf-8", "replace")
 def _is_law_text(b: bytes) -> bool:
     """Guard (CC lane finding): reject the JS/cookie-challenge page. Real law text has article/regulation/annex/whereas."""
     low = b[:4000].lower()
@@ -43,12 +66,20 @@ def main():
     a = ap.parse_args()
     state_path = "corpus_state.json"
     state = json.load(open(state_path)) if os.path.exists(state_path) else {"normaliser": NORMALISER_VERSION, "hashes": {}}
-    # subset = the 113 AI Act provisions (start small, prove normalisation before scaling — N-sites §4.1)
-    provisions = [f"Art.{n}" for n in range(1, 114)] if a.subset == "ai-act-113" else []
+    # subsets: instrument, fetch_fn, provision list. Start small, prove normalisation before scaling (N-sites §4.1).
+    SUBSETS = {
+        "ai-act-113":   ("EU-AI-ACT", fetch_eurlex, [f"Art.{n}" for n in range(1, 114)]),
+        "uk-gdpr-core": ("UK-GDPR",   fetch_leguk,  [f"Art.{n}" for n in (5, 6, 13, 25, 32, 33, 35)]),
+        "dpa-2018-s123":("DPA-2018",  fetch_leguk,  ["s.1", "s.2", "s.3"]),
+        "nis-regs-core":("NIS2-UK",   fetch_leguk,  [f"reg.{n}" for n in (1, 10, 11, 14)]),
+    }
+    if a.subset not in SUBSETS:
+        sys.exit(f"unknown subset: {a.subset} (have: {', '.join(SUBSETS)})")
+    instrument, fetch_fn, provisions = SUBSETS[a.subset]
     events, unknown, unchanged = [], 0, 0
     for p in provisions:
-        key = f"EU-AI-ACT::{p}"
-        r = check_provision("EU-AI-ACT", p, state["hashes"].get(key), fetch_eurlex)
+        key = f"{instrument}::{p}"
+        r = check_provision(instrument, p, state["hashes"].get(key), fetch_fn)
         if r["status"] == "DRIFT":
             events.append(r); state["hashes"][key] = r["hash_after"]
         elif r["status"] == "UNKNOWN":
