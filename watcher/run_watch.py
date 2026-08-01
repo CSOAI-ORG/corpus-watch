@@ -55,6 +55,7 @@ def main():
             unknown += 1
         else:
             unchanged += 1
+            state["hashes"][key] = r["hash_after"]  # seed/update baseline — else first run never seeds and drift can never fire
     json.dump(state, open(state_path, "w"), indent=1)
     with open(a.out, "a") as f:
         for e in events: f.write(json.dumps(e) + "\n")
