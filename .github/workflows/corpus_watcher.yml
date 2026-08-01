@@ -1,0 +1,26 @@
+name: corpus-watcher
+# The drift product's engine — free, on a cron. Polls authorities, re-hashes provisions, emits drift events.
+on:
+  schedule:
+    - cron: '11 3 * * *'        # daily 03:11 UTC (low-traffic window)
+  workflow_dispatch: {}          # manual trigger for testing
+permissions:
+  contents: write                # to commit updated corpus hashes + drift events back to the repo (portable state = Git)
+jobs:
+  watch:
+    runs-on: ubuntu-latest       # CPU only — no GPU needed
+    timeout-minutes: 20          # short by design
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - name: run watcher (fail-closed)
+        run: |
+          python watcher/run_watch.py --authority eur-lex --subset ai-act-113 --out drift_events.jsonl
+      - name: commit corpus + drift deltas
+        run: |
+          git config user.name  "corpus-watcher"
+          git config user.email "watcher@users.noreply.github.com"
+          git add corpus_state.json drift_events.jsonl || true
+          git commit -m "corpus watch $(date -u +%FT%TZ)" || echo "no change"
+          git push || echo "nothing to push"
