@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "canon": {
+    "gate_date": "2026-08-17",
+    "gate_note": "G0 freeze -> T-14 -> ProvBench public publish 2026-08-17 (Monday). Canon 2026-08-01; override only via Nick.",
+    "contract": "pull -> run -> push -> FAIL CLOSED. A worker that cannot complete records INCOMPLETE, never pass.",
+    "tos_rule": "One account per site, published free allowance only. No multi-accounting. ToS gaming = moat gone."
+  },
+  "state_stores": {
+    "hf_datasets": {"kind": "huggingface", "repo": "csoai/provbench-manifest-survival", "repo_type": "dataset"},
+    "hf_ledger_space": {"kind": "huggingface", "repo": "csoai/csoai-measurement-ledger", "repo_type": "space"},
+    "git": {"kind": "git", "remote": "origin", "branch": "main"},
+    "cloudflare_d1": {"kind": "d1", "note": "C-space index, registry, drift events — via wrangler"}
+  },
+  "sites": {
+    "github_actions": {"role": "corpus watcher crons", "gpu": false, "cost": "free", "status": "live"},
+    "hf_datasets":    {"role": "honey bank (versioned)", "gpu": false, "cost": "free", "status": "growing"},
+    "hf_spaces":      {"role": "ledger + leaderboard", "gpu": false, "cost": "free", "status": "live"},
+    "cloudflare":     {"role": "sites, registry, drift API", "gpu": false, "cost": "free tier", "status": "live"},
+    "oracle_micro_2": {"role": "harvester + crons", "gpu": false, "cost": "always-free", "status": "live",
+                       "ssh": "oracle-micro-2"},
+    "local_m4":       {"role": "Gate-1 GGUF/Metal runs", "gpu": "metal", "cost": "owned", "status": "live"},
+    "groq_openrouter":{"role": "score ~50 families via API", "gpu": false, "cost": "free API", "status": "live"},
+    "kaggle":         {"role": "one-off probes ONLY (P100 lottery)", "gpu": true, "cost": "30h/wk lottery", "status": "manual"},
+    "colab":          {"role": "notebook prototyping only", "gpu": true, "cost": "sporadic T4", "status": "manual"},
+    "runpod":         {"role": "novel-probe measurement bursts", "gpu": "A100", "cost": "$1.39/hr", "status": "paid-lane"}
+  },
+  "jobs": {
+    "airbench_snapshot": {
+      "site": "oracle_micro_2",
+      "schedule": "43 */6 * * *",
+      "pull": ["env:~/.airbench_env"],
+      "run": "/usr/bin/python3 ~/airbench/snapshot_pipe.py",
+      "push": [],
+      "push_note": "snapshot_pipe.py on the oracle box uploads to hf_ledger_space itself; runner must not double-push",
+      "status": "live"
+    },
+    "corpus_watch": {
+      "site": "github_actions",
+      "schedule": "11 3 * * *",
+      "pull": ["git:main"],
+      "run": "python3 sov_corpus_watcher.py",
+      "push": ["git:main", "signed_delta_report"],
+      "status": "live"
+    }
+  }
+}
