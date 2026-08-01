@@ -1,8 +1,8 @@
 {
   "version": 1,
   "canon": {
-    "gate_date": "2026-08-17",
-    "gate_note": "G0 freeze -> T-14 -> ProvBench public publish 2026-08-17 (Monday). Canon 2026-08-01; override only via Nick.",
+    "gate_date": "2026-08-14",
+    "gate_note": "G0 freeze -> T-14 -> ProvBench public publish 2026-08-14. Canon 2026-08-01 per Nick (dragon memo, stated twice). Supersedes delegated 08-17 pick.",
     "contract": "pull -> run -> push -> FAIL CLOSED. A worker that cannot complete records INCOMPLETE, never pass.",
     "tos_rule": "One account per site, published free allowance only. No multi-accounting. ToS gaming = moat gone."
   },
