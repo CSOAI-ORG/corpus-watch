@@ -1,0 +1,75 @@
+{
+  "report": "delta-2026-08-02.md",
+  "report_sha256": "642b6e2b28e64e081bc75a92ef8571d776925b7583b611f4b3be8b78d096397a",
+  "manifest": {
+    "date": "2026-08-02",
+    "normaliser": "norm-v2",
+    "provisions_watched": 198,
+    "instruments": [
+      "DPA-2018",
+      "EU-AI-ACT",
+      "EU-CRA",
+      "NIS2-UK",
+      "UK-GDPR"
+    ],
+    "events": [
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.5",
+        "status": "DRIFT",
+        "hash_after": "a6c04c566265ebed54d7d222749f77d535d76bb12b2b058b24600702f65d12eb",
+        "hash_before": "68fd3f0c79f49051022beac5f9d2ffb85bc99cfccb9578f331f0bc1814befd41",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.13",
+        "status": "DRIFT",
+        "hash_after": "cc1f952ec256c05e4b17433b8c9d74ef5cb207b4a97903ac86de66dac4b2acc3",
+        "hash_before": "fa02807b2ebb7702986e11c174a619801d6fc7f77af9647ae91fd8db66304f68",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.33",
+        "status": "DRIFT",
+        "hash_after": "a8ffce1bb9b48b8e026c24dfad053ef9013491a41cbb975a9830edf2d3a8cdc1",
+        "hash_before": "0be1e040bf8f0ee7913f46345990d93824e0c143ff34007b9c905ebc5ffc84ae",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.35",
+        "status": "DRIFT",
+        "hash_after": "4fb0c83d4cdc19e1ec765217bc857feb30c2b55e4efb315c7262ec121b14c88a",
+        "hash_before": "7ab92e052c8d7ea35a78379247dceef87af25c2cf824f0365878d2e3d8c57789",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "DPA-2018",
+        "provision": "s.1",
+        "status": "DRIFT",
+        "hash_after": "e32370cad6bd5e7d5e9dd7f163e5039722902a1f8f6d7a89f615eaffb2cdb097",
+        "hash_before": "910808620708b96f00511bae08945a3781a971d04a3d44d8c170962cb85dcda5",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "DPA-2018",
+        "provision": "s.2",
+        "status": "DRIFT",
+        "hash_after": "18f7bebc193f1208d6a330beaccb0690798d883ce49b05f1bdcfe19c1f5b5b21",
+        "hash_before": "9d9b14fc6fa414cb23ad68d2d3ebd2d22ef004cb3dba1fcd46b0527e0aa8a368",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "NIS2-UK",
+        "provision": "reg.14",
+        "status": "DRIFT",
+        "hash_after": "0f41905a9c150b493a0d214bfa3cde1a38e83a534260af851c9042e27b62bf62",
+        "hash_before": "1be84efae90d5ec320b8db59347b03eff2efd97d581c3f696fe569199317c8a8",
+        "normaliser": "norm-v2"
+      }
+    ]
+  },
+  "alg": "unsigned"
+}
