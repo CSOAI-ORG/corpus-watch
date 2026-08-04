@@ -1,5 +1,5 @@
 {
-  "issued_at": "2026-08-03T06:37:26.677929+00:00",
+  "issued_at": "2026-08-04T06:07:53.045751+00:00",
   "instruments": [
     {
       "id": "DPA-2018",
@@ -19,17 +19,17 @@
     {
       "id": "NIS2-UK",
       "provisions": 4,
-      "last_hash_sha256_prefix": "8d61c26e3b01"
+      "last_hash_sha256_prefix": "c630b44c4b59"
     },
     {
       "id": "UK-GDPR",
       "provisions": 7,
-      "last_hash_sha256_prefix": "68fd3f0c79f4"
+      "last_hash_sha256_prefix": "a6c04c566265"
     }
   ],
   "provisions_watched_total": 198,
-  "events_pending": 14,
-  "drift_events_total": 14,
+  "events_pending": 21,
+  "drift_events_total": 21,
   "normaliser": "norm-v2",
   "status": "complete",
   "alg": "unsigned"
