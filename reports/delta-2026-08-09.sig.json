@@ -1,0 +1,435 @@
+{
+  "report": "delta-2026-08-09.md",
+  "report_sha256": "766e33f97eba6f2ec14274eb2bcc7a32be17a4c6c0d94ff12eda4d47f194e71b",
+  "manifest": {
+    "date": "2026-08-09",
+    "normaliser": "norm-v2",
+    "provisions_watched": 198,
+    "instruments": [
+      "DPA-2018",
+      "EU-AI-ACT",
+      "EU-CRA",
+      "NIS2-UK",
+      "UK-GDPR"
+    ],
+    "events": [
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.5",
+        "status": "DRIFT",
+        "hash_after": "a6c04c566265ebed54d7d222749f77d535d76bb12b2b058b24600702f65d12eb",
+        "hash_before": "68fd3f0c79f49051022beac5f9d2ffb85bc99cfccb9578f331f0bc1814befd41",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.13",
+        "status": "DRIFT",
+        "hash_after": "cc1f952ec256c05e4b17433b8c9d74ef5cb207b4a97903ac86de66dac4b2acc3",
+        "hash_before": "fa02807b2ebb7702986e11c174a619801d6fc7f77af9647ae91fd8db66304f68",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.33",
+        "status": "DRIFT",
+        "hash_after": "a8ffce1bb9b48b8e026c24dfad053ef9013491a41cbb975a9830edf2d3a8cdc1",
+        "hash_before": "0be1e040bf8f0ee7913f46345990d93824e0c143ff34007b9c905ebc5ffc84ae",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.35",
+        "status": "DRIFT",
+        "hash_after": "4fb0c83d4cdc19e1ec765217bc857feb30c2b55e4efb315c7262ec121b14c88a",
+        "hash_before": "7ab92e052c8d7ea35a78379247dceef87af25c2cf824f0365878d2e3d8c57789",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "DPA-2018",
+        "provision": "s.1",
+        "status": "DRIFT",
+        "hash_after": "e32370cad6bd5e7d5e9dd7f163e5039722902a1f8f6d7a89f615eaffb2cdb097",
+        "hash_before": "910808620708b96f00511bae08945a3781a971d04a3d44d8c170962cb85dcda5",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "DPA-2018",
+        "provision": "s.2",
+        "status": "DRIFT",
+        "hash_after": "18f7bebc193f1208d6a330beaccb0690798d883ce49b05f1bdcfe19c1f5b5b21",
+        "hash_before": "9d9b14fc6fa414cb23ad68d2d3ebd2d22ef004cb3dba1fcd46b0527e0aa8a368",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "NIS2-UK",
+        "provision": "reg.14",
+        "status": "DRIFT",
+        "hash_after": "0f41905a9c150b493a0d214bfa3cde1a38e83a534260af851c9042e27b62bf62",
+        "hash_before": "1be84efae90d5ec320b8db59347b03eff2efd97d581c3f696fe569199317c8a8",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.5",
+        "status": "DRIFT",
+        "hash_after": "68fd3f0c79f49051022beac5f9d2ffb85bc99cfccb9578f331f0bc1814befd41",
+        "hash_before": "a6c04c566265ebed54d7d222749f77d535d76bb12b2b058b24600702f65d12eb",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.6",
+        "status": "DRIFT",
+        "hash_after": "2ac98045b780cc65f56e39bcd789c4ce804ae622626f08a5151f97819a4ef175",
+        "hash_before": "42e9ab28c9cce44b3ab3235f04fd79735bc44a89d501c9da8255339f86a2c32a",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.25",
+        "status": "DRIFT",
+        "hash_after": "5541f586d066119140bb34d3ce7d36ed12835ecb165f2ec8340587c8554d7518",
+        "hash_before": "11068a6d3d5b9d7363c8ccadd64de2f8c30918f8b4d16e107f1fac2732cd0c26",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.32",
+        "status": "DRIFT",
+        "hash_after": "399873b882156ec628bb180ea8b1044e1c8291c83f72546d9c3589413401dd0e",
+        "hash_before": "dbe05b7f327c8be1be4fa98cbdcbb0d7ae621dd7bf523e8a0cc551f50e3b3ca0",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "DPA-2018",
+        "provision": "s.1",
+        "status": "DRIFT",
+        "hash_after": "e1ca6c964914d454a0412dedcb002e7ebe6a46ab23d48067ae7c391cc8743f3b",
+        "hash_before": "e32370cad6bd5e7d5e9dd7f163e5039722902a1f8f6d7a89f615eaffb2cdb097",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "DPA-2018",
+        "provision": "s.3",
+        "status": "DRIFT",
+        "hash_after": "55d796cf898af64ba55be5b0ee90c73f6326d4511bcb6a66d7ba3aa0a011b669",
+        "hash_before": "14e08ae4dd5e9db95854c25e4a835d515ed9addd8eb9779724336f26bc68fa44",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "NIS2-UK",
+        "provision": "reg.1",
+        "status": "DRIFT",
+        "hash_after": "8d61c26e3b01f37a43d408b3fa0427b272d628474365cb44e05855cefeefdb84",
+        "hash_before": "c630b44c4b598963b33ade7f3cfe9858a5a98cc70dd765578db5cf7158cada04",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.5",
+        "status": "DRIFT",
+        "hash_after": "a6c04c566265ebed54d7d222749f77d535d76bb12b2b058b24600702f65d12eb",
+        "hash_before": "68fd3f0c79f49051022beac5f9d2ffb85bc99cfccb9578f331f0bc1814befd41",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.6",
+        "status": "DRIFT",
+        "hash_after": "42e9ab28c9cce44b3ab3235f04fd79735bc44a89d501c9da8255339f86a2c32a",
+        "hash_before": "2ac98045b780cc65f56e39bcd789c4ce804ae622626f08a5151f97819a4ef175",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.13",
+        "status": "DRIFT",
+        "hash_after": "f74b6d325b521c84104b69d617fc2774312d86783cc4be453a24d5ba90e22786",
+        "hash_before": "cc1f952ec256c05e4b17433b8c9d74ef5cb207b4a97903ac86de66dac4b2acc3",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.25",
+        "status": "DRIFT",
+        "hash_after": "11068a6d3d5b9d7363c8ccadd64de2f8c30918f8b4d16e107f1fac2732cd0c26",
+        "hash_before": "5541f586d066119140bb34d3ce7d36ed12835ecb165f2ec8340587c8554d7518",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.32",
+        "status": "DRIFT",
+        "hash_after": "dbe05b7f327c8be1be4fa98cbdcbb0d7ae621dd7bf523e8a0cc551f50e3b3ca0",
+        "hash_before": "399873b882156ec628bb180ea8b1044e1c8291c83f72546d9c3589413401dd0e",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "DPA-2018",
+        "provision": "s.3",
+        "status": "DRIFT",
+        "hash_after": "14e08ae4dd5e9db95854c25e4a835d515ed9addd8eb9779724336f26bc68fa44",
+        "hash_before": "55d796cf898af64ba55be5b0ee90c73f6326d4511bcb6a66d7ba3aa0a011b669",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "NIS2-UK",
+        "provision": "reg.1",
+        "status": "DRIFT",
+        "hash_after": "c630b44c4b598963b33ade7f3cfe9858a5a98cc70dd765578db5cf7158cada04",
+        "hash_before": "8d61c26e3b01f37a43d408b3fa0427b272d628474365cb44e05855cefeefdb84",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.5",
+        "status": "DRIFT",
+        "hash_after": "f83a7aabe2abd65b4a0c5e01574ecebd95f1ba1ee0e2d0d62a2bbbdfcf47c8f6",
+        "hash_before": "a6c04c566265ebed54d7d222749f77d535d76bb12b2b058b24600702f65d12eb",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.6",
+        "status": "DRIFT",
+        "hash_after": "5af46f9e514da94ea6c5c3188e24386b494a0575b96875c527e423e0a49c2ff4",
+        "hash_before": "42e9ab28c9cce44b3ab3235f04fd79735bc44a89d501c9da8255339f86a2c32a",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.25",
+        "status": "DRIFT",
+        "hash_after": "5b4832539c984e47a279266f9481f11f19bd8cf5a01db33c6a349c40ef43de3c",
+        "hash_before": "11068a6d3d5b9d7363c8ccadd64de2f8c30918f8b4d16e107f1fac2732cd0c26",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.32",
+        "status": "DRIFT",
+        "hash_after": "a7d48b8876fcdd4fd4ed931252a008097a8ecd9a706767b1757f93c0d39ea5bd",
+        "hash_before": "dbe05b7f327c8be1be4fa98cbdcbb0d7ae621dd7bf523e8a0cc551f50e3b3ca0",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.33",
+        "status": "DRIFT",
+        "hash_after": "d9afb8838aae9bf5307086d072f5eb6f6d0d91679ca7ab3a180199fd9843da2c",
+        "hash_before": "a8ffce1bb9b48b8e026c24dfad053ef9013491a41cbb975a9830edf2d3a8cdc1",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.35",
+        "status": "DRIFT",
+        "hash_after": "a77f37d3f15d326f6fb9955be9f14dbf07391853edc80ebcf724befbf5ef89ac",
+        "hash_before": "4fb0c83d4cdc19e1ec765217bc857feb30c2b55e4efb315c7262ec121b14c88a",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "DPA-2018",
+        "provision": "s.2",
+        "status": "DRIFT",
+        "hash_after": "8a2d4fe15747a949c7fc3599332d96670a2343ab0489b148b0c314fb3d090d06",
+        "hash_before": "18f7bebc193f1208d6a330beaccb0690798d883ce49b05f1bdcfe19c1f5b5b21",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "DPA-2018",
+        "provision": "s.3",
+        "status": "DRIFT",
+        "hash_after": "5d78575909301c0729388e1c1f048a96443f9af816bcf64fe6bc4d360b54fac6",
+        "hash_before": "14e08ae4dd5e9db95854c25e4a835d515ed9addd8eb9779724336f26bc68fa44",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "NIS2-UK",
+        "provision": "reg.1",
+        "status": "DRIFT",
+        "hash_after": "9422a8ff5bf0a99768ecea0d0dcee389a6a01f1ff9140e57da54ef7b560be148",
+        "hash_before": "c630b44c4b598963b33ade7f3cfe9858a5a98cc70dd765578db5cf7158cada04",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "NIS2-UK",
+        "provision": "reg.14",
+        "status": "DRIFT",
+        "hash_after": "98a41216bee83640cffade0706dc8a800ddf47982cdb7ec0eb590f259afb17db",
+        "hash_before": "0f41905a9c150b493a0d214bfa3cde1a38e83a534260af851c9042e27b62bf62",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.13",
+        "status": "DRIFT",
+        "hash_after": "8a83c291f49bbf90f6f4108bf8d14bc94b312213fa978d36c9bc2d60d5103a56",
+        "hash_before": "f74b6d325b521c84104b69d617fc2774312d86783cc4be453a24d5ba90e22786",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "DPA-2018",
+        "provision": "s.1",
+        "status": "DRIFT",
+        "hash_after": "bc5efb6ecb6629ca4b2799bbca3c7182cd4b9189c28031ca1cc2ce4eb448c988",
+        "hash_before": "e1ca6c964914d454a0412dedcb002e7ebe6a46ab23d48067ae7c391cc8743f3b",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "DPA-2018",
+        "provision": "s.2",
+        "status": "DRIFT",
+        "hash_after": "f8e446b2629c893b7e76ccf1da1c0375358d04e3fbd828f0bb1f3d45adab1838",
+        "hash_before": "8a2d4fe15747a949c7fc3599332d96670a2343ab0489b148b0c314fb3d090d06",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.13",
+        "status": "DRIFT",
+        "hash_after": "7f1ea06efc37603db44b569d217117738e7ce2848884ceb9aab8762d25db669a",
+        "hash_before": "8a83c291f49bbf90f6f4108bf8d14bc94b312213fa978d36c9bc2d60d5103a56",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.33",
+        "status": "DRIFT",
+        "hash_after": "963b6c7938b40dcb8c1d571d1f2529195da87ea6b1b8a49ac1f2305cfbc58cdc",
+        "hash_before": "d9afb8838aae9bf5307086d072f5eb6f6d0d91679ca7ab3a180199fd9843da2c",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "DPA-2018",
+        "provision": "s.1",
+        "status": "DRIFT",
+        "hash_after": "9c787f1707e90dab3c78a0d843acff3922e7cb4d9c0179b2591f62fad206aa78",
+        "hash_before": "bc5efb6ecb6629ca4b2799bbca3c7182cd4b9189c28031ca1cc2ce4eb448c988",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "DPA-2018",
+        "provision": "s.3",
+        "status": "DRIFT",
+        "hash_after": "70c3554ca0243dc91fe08eda9d305562852ea05b118731741b25d79e2a7a87dc",
+        "hash_before": "5d78575909301c0729388e1c1f048a96443f9af816bcf64fe6bc4d360b54fac6",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "NIS2-UK",
+        "provision": "reg.1",
+        "status": "DRIFT",
+        "hash_after": "51b6ccd4a0dc9af79a6474fdedc6a318fe1c3ffd1f87d1e8d8c053a914613ee7",
+        "hash_before": "9422a8ff5bf0a99768ecea0d0dcee389a6a01f1ff9140e57da54ef7b560be148",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.5",
+        "status": "DRIFT",
+        "hash_after": "4f3a4f9419f7c99e80e4343e94c4fc50715e8f4ffa0f9c3c74b896852c82861c",
+        "hash_before": "f83a7aabe2abd65b4a0c5e01574ecebd95f1ba1ee0e2d0d62a2bbbdfcf47c8f6",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.6",
+        "status": "DRIFT",
+        "hash_after": "108ab6fb835802869577534ae97c24d9697130e613e0d044423ecff52a945631",
+        "hash_before": "5af46f9e514da94ea6c5c3188e24386b494a0575b96875c527e423e0a49c2ff4",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.13",
+        "status": "DRIFT",
+        "hash_after": "f8e2f55a1da1c8991179d550fc41180262e6831b44c4bd79b1cec6698fe09ac4",
+        "hash_before": "7f1ea06efc37603db44b569d217117738e7ce2848884ceb9aab8762d25db669a",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.25",
+        "status": "DRIFT",
+        "hash_after": "d43d586e6a094b98a076eb6b6db4d2981f637be9697c236e27ca9dfb7680efa2",
+        "hash_before": "5b4832539c984e47a279266f9481f11f19bd8cf5a01db33c6a349c40ef43de3c",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.32",
+        "status": "DRIFT",
+        "hash_after": "f8295359854166953eef34fc9f15f06f963d6c25ac057b07f98cbe8296bbf365",
+        "hash_before": "a7d48b8876fcdd4fd4ed931252a008097a8ecd9a706767b1757f93c0d39ea5bd",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.35",
+        "status": "DRIFT",
+        "hash_after": "a14f9d2a05a0c5262264111dae477a81d3bad06e3cabc4b9ff7bd25e664b54bc",
+        "hash_before": "a77f37d3f15d326f6fb9955be9f14dbf07391853edc80ebcf724befbf5ef89ac",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "DPA-2018",
+        "provision": "s.2",
+        "status": "DRIFT",
+        "hash_after": "a0e020cb4b03467b8b667670c5665293c2ef2a3018ba6748ec2ff3e0554eb143",
+        "hash_before": "f8e446b2629c893b7e76ccf1da1c0375358d04e3fbd828f0bb1f3d45adab1838",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "NIS2-UK",
+        "provision": "reg.14",
+        "status": "DRIFT",
+        "hash_after": "b6f9483d5fee620c3c36fd98994b407bdc4b29d0837480c6d2c3ba409fb12d0b",
+        "hash_before": "98a41216bee83640cffade0706dc8a800ddf47982cdb7ec0eb590f259afb17db",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.5",
+        "status": "DRIFT",
+        "hash_after": "55c2e95b3e3fc645a3f838563fe5d3dbf23a6ade9cd90ddee36fa955d74ac3ec",
+        "hash_before": "4f3a4f9419f7c99e80e4343e94c4fc50715e8f4ffa0f9c3c74b896852c82861c",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "UK-GDPR",
+        "provision": "Art.33",
+        "status": "DRIFT",
+        "hash_after": "b2a213e44c640eafe207396db06b08041ce4cb8d1f902cfcc5831570fb5776fd",
+        "hash_before": "963b6c7938b40dcb8c1d571d1f2529195da87ea6b1b8a49ac1f2305cfbc58cdc",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "DPA-2018",
+        "provision": "s.1",
+        "status": "DRIFT",
+        "hash_after": "8fb069bed4c666f43b6d39e5cef66782e1ed5d4565cc7f6c61eea68c9410ecea",
+        "hash_before": "9c787f1707e90dab3c78a0d843acff3922e7cb4d9c0179b2591f62fad206aa78",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "DPA-2018",
+        "provision": "s.3",
+        "status": "DRIFT",
+        "hash_after": "efb3ffaaf37104e8240fd78fa88a19b7bb8e64ba1a7539349d03562d4a14757a",
+        "hash_before": "70c3554ca0243dc91fe08eda9d305562852ea05b118731741b25d79e2a7a87dc",
+        "normaliser": "norm-v2"
+      },
+      {
+        "instrument": "NIS2-UK",
+        "provision": "reg.1",
+        "status": "DRIFT",
+        "hash_after": "fb5b95fd10be75861cc1176c3e2ab09226e47a52d05a684d15214421feffadc0",
+        "hash_before": "51b6ccd4a0dc9af79a6474fdedc6a318fe1c3ffd1f87d1e8d8c053a914613ee7",
+        "normaliser": "norm-v2"
+      }
+    ]
+  },
+  "alg": "unsigned"
+}
