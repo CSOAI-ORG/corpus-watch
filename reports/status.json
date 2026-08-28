@@ -1,10 +1,10 @@
 {
-  "issued_at": "2026-08-27T14:12:48.274125+00:00",
+  "issued_at": "2026-08-28T15:24:15.907591+00:00",
   "instruments": [
     {
       "id": "DPA-2018",
       "provisions": 3,
-      "last_hash_sha256_prefix": "2fe10b1753b8"
+      "last_hash_sha256_prefix": "9db8c973c58a"
     },
     {
       "id": "EU-AI-ACT",
@@ -19,17 +19,17 @@
     {
       "id": "NIS2-UK",
       "provisions": 4,
-      "last_hash_sha256_prefix": "83b476486928"
+      "last_hash_sha256_prefix": "7a38fc8958f9"
     },
     {
       "id": "UK-GDPR",
       "provisions": 7,
-      "last_hash_sha256_prefix": "1514a0ebcd41"
+      "last_hash_sha256_prefix": "feaecc4f4f82"
     }
   ],
   "provisions_watched_total": 198,
-  "events_pending": 197,
-  "drift_events_total": 197,
+  "events_pending": 209,
+  "drift_events_total": 209,
   "normaliser": "norm-v2",
   "status": "complete",
   "alg": "unsigned"
