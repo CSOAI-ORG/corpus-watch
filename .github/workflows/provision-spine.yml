@@ -1,0 +1,52 @@
+name: provision-spine
+# Frozen to fluid, daily. Re-fetches every provision from the EU Publications Office
+# (CELLAR), proves the frozen 417 still reproduce, diffs against the latest consolidated
+# text, re-cuts DRAFT obligations, rebuilds the door data, and OPENS A PR when anything
+# moved. It never merges. A human (any reviewer on the roster) merges.
+on:
+  schedule:
+    - cron: '41 4 * * *'          # daily 04:41 UTC
+  workflow_dispatch: {}
+permissions:
+  contents: write
+  pull-requests: write
+concurrency: { group: provision-spine, cancel-in-progress: false }
+jobs:
+  spine:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - name: offline tests (fail-closed guards)
+        run: pip install pytest==8.* && PYTHONPATH=. pytest -q tests
+      - name: run the engine
+        id: run
+        run: |
+          set +e
+          ARGS=""
+          # Optional inputs: committed only after an owner licence/review decision.
+          [ -f data/inputs/provisions_europe_intl.jsonl ] && ARGS="$ARGS --extra-provisions data/inputs/provisions_europe_intl.jsonl"
+          [ -f data/inputs/obligation_register_eu_v0_draft.jsonl ] && ARGS="$ARGS --agent-register data/inputs/obligation_register_eu_v0_draft.jsonl"
+          PYTHONPATH=. python -m spine.pipeline --out data/spine $ARGS
+          code=$?
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          # exit 2 = an authority was unreachable or unstable: no PR, job goes red, nothing is called 'unchanged'
+          if [ "$code" = "2" ]; then echo "::error::source UNKNOWN or UNSTABLE; not reporting drift"; exit 1; fi
+          exit $code
+      - name: anything moved?
+        id: diff
+        run: |
+          # generated_at always changes; ignore it when deciding
+          if git diff --quiet -I'"generated_at"' -- data/spine; then echo "moved=false" >> "$GITHUB_OUTPUT"; else echo "moved=true" >> "$GITHUB_OUTPUT"; fi
+      - name: open PR for human review
+        if: steps.diff.outputs.moved == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: spine/daily
+          title: "spine: provisions moved (${{ github.run_id }})"
+          commit-message: "spine: daily fluid pass"
+          body-path: data/spine/report.md
+          labels: spine, needs-review
+          draft: false

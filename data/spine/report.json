@@ -1,0 +1,187 @@
+{
+ "generated_at": "2026-11-21T02:24:09+00:00",
+ "root_v1_matches_frozen": true,
+ "root_v2": "57959dd0b128a6939acc57996ded63a60ee6af204590884a0a6f9755449d972f",
+ "counts": {
+  "provisions": 424,
+  "source_state": {
+   "REPRODUCED": 417,
+   "INSERTED_BY_AMENDMENT": 7
+  },
+  "ladder": {
+   "HASH_ONLY": 0,
+   "SOURCE_RECOVERED": 83,
+   "OBLIGATIONS_DRAFTED": 290,
+   "CROSSWALK_ONLY": 38,
+   "RELATED_MEASURE": 12,
+   "PREDICATE": 1,
+   "CAPSULE_BOUND": 0
+  },
+  "evidence_kind_by_provision": {
+   "NONE": 85,
+   "SUBMITTED": 104,
+   "UNTRIAGED": 154,
+   "OBSERVED": 32,
+   "AUTHORITY": 49
+  },
+  "obligation_rows": 2180,
+  "obligation_rows_by_kind": {
+   "NONE": 85,
+   "SUBMITTED": 303,
+   "AUTHORITY": 733,
+   "UNTRIAGED": 1012,
+   "OBSERVED": 47
+  },
+  "truncated_in_v1": 11,
+  "capsules_bound_provisions": 0,
+  "by_jurisdiction": {
+   "EU": 424
+  },
+  "change_since_oj": {
+   "AMENDED": 54,
+   "UNCHANGED": 287,
+   "NOISE": 9,
+   "UNKNOWN": 67,
+   "INSERTED": 7
+  },
+  "extra_provisions_ingested": 0,
+  "extra_provisions_hash_failed": 0,
+  "agent_register_rows": 0,
+  "agent_rows_stale_amended": 0,
+  "two_method_agreement": {},
+  "predicate_shortlist": []
+ },
+ "drift": {
+  "baseline": true
+ },
+ "unknown_instruments": [],
+ "amendments": [
+  {
+   "celex": "32024R1689",
+   "consolidated": "02024R1689-20260727",
+   "gate": "STABLE",
+   "classes": {
+    "AMENDED": 39,
+    "INSERTED": 7,
+    "UNCHANGED": 80,
+    "NOISE": 7
+   }
+  },
+  {
+   "celex": "32016R0679",
+   "consolidated": "02016R0679-20160504",
+   "gate": "STABLE",
+   "classes": {
+    "UNCHANGED": 90,
+    "AMENDED": 9
+   }
+  },
+  {
+   "celex": "32024R2847",
+   "consolidated": "02024R2847-20241120",
+   "gate": "STABLE",
+   "classes": {
+    "UNCHANGED": 74,
+    "NOISE": 2,
+    "AMENDED": 3
+   }
+  },
+  {
+   "celex": "32022R2554",
+   "consolidated": "02022R2554-20221227",
+   "gate": "NO_XHTML",
+   "classes": {
+    "UNKNOWN": 64
+   }
+  },
+  {
+   "celex": "32022L2555",
+   "consolidated": "02022L2555-20221227",
+   "gate": "STABLE",
+   "classes": {
+    "UNCHANGED": 48,
+    "AMENDED": 1
+   }
+  },
+  {
+   "celex": "32022L2464",
+   "consolidated": "02022L2464-20260318",
+   "gate": "STABLE",
+   "classes": {
+    "AMENDED": 5,
+    "UNCHANGED": 3
+   }
+  }
+ ],
+ "amended_provisions": [
+  "32016R0679:37",
+  "32016R0679:41",
+  "32016R0679:42",
+  "32016R0679:43",
+  "32016R0679:57",
+  "32016R0679:64",
+  "32016R0679:65",
+  "32016R0679:69",
+  "32016R0679:70",
+  "32022L2464:1",
+  "32022L2464:2",
+  "32022L2464:3",
+  "32022L2464:5",
+  "32022L2464:6",
+  "32022L2555:19",
+  "32024R1689:-1",
+  "32024R1689:-8",
+  "32024R1689:1",
+  "32024R1689:10",
+  "32024R1689:108",
+  "32024R1689:11",
+  "32024R1689:111",
+  "32024R1689:113",
+  "32024R1689:17",
+  "32024R1689:2",
+  "32024R1689:25",
+  "32024R1689:27",
+  "32024R1689:28",
+  "32024R1689:29",
+  "32024R1689:3",
+  "32024R1689:30",
+  "32024R1689:4",
+  "32024R1689:40",
+  "32024R1689:42",
+  "32024R1689:43",
+  "32024R1689:5",
+  "32024R1689:50",
+  "32024R1689:56",
+  "32024R1689:57",
+  "32024R1689:58",
+  "32024R1689:6",
+  "32024R1689:60",
+  "32024R1689:63",
+  "32024R1689:64",
+  "32024R1689:69",
+  "32024R1689:70",
+  "32024R1689:72",
+  "32024R1689:75",
+  "32024R1689:76",
+  "32024R1689:77",
+  "32024R1689:95",
+  "32024R1689:96",
+  "32024R1689:97",
+  "32024R1689:99"
+ ],
+ "inserted_provisions": [
+  "32024R1689:-14",
+  "32024R1689:4a",
+  "32024R1689:60a",
+  "32024R1689:75a",
+  "32024R1689:75b",
+  "32024R1689:75c",
+  "32024R1689:75d"
+ ],
+ "files_sha256": {
+  "corpus_current.jsonl": "e255f9ed45bf76d47f52fa707e5a85bc8f82e89b6c08b01b00bca414471f9f74",
+  "corpus_v2.jsonl": "852b658bb4dc945eaa144a6a9af2c5277839f004044c169f98cf0778bbe3e38e",
+  "corpus_v1_reproduction.jsonl": "b4656a262f53c59fd24ab86dee30f5acfb42396d8a741364ee043b1753edcc08",
+  "obligations.jsonl": "28bd2c321ad3d2440515ffd039efd348f1ae5b0397b476b3508d5c71f1647dc0"
+ }
+}

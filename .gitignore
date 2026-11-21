@@ -1,2 +1,6 @@
 __pycache__/
 *.pyc
+# provision-spine: per-provision door files are rebuilt every run
+data/spine/provisions/*.json
+!data/spine/provisions/index.json
+__pycache__/
