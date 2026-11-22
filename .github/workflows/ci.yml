@@ -1,18 +1,17 @@
 name: CI
-
 on:
   push:
-    branches: [main, master]
+    branches: [main]
   pull_request:
-    branches: [main, master]
-
 jobs:
-  build:
+  tests:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Verify repo structure
-        run: |
-          echo "CSOAI-ORG repository CI check passed"
-          test -f README.md && echo "README.md exists"
-          test -f LICENSE && echo "LICENSE exists"
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: pip install -r requirements.txt pytest==8.*
+      - name: offline tests (fail-closed guards, committed inputs re-hash)
+        run: pytest -q
+      - name: obligation fixtures
+        run: PYTHONPATH=. python -m spine.pipeline --selftest

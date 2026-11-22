@@ -1,0 +1,105 @@
+name: provision-spine
+# Frozen to fluid, daily, for every frozen provision of every wave in data/inputs.
+#   plan      lists the authority adapters the inputs need (no code change per wave)
+#   shard     one job per adapter: fetch twice (determinism gate), re-split, re-hash.
+#             An unreachable or unstable authority exits 2: that job goes RED and uploads
+#             nothing, so nothing is ever reported as "unchanged" for it.
+#   aggregate merges the green shards (red shards carry their previous records forward,
+#             flagged carried_forward), re-runs the EU-six v1/v3 checks, re-cuts DRAFT
+#             obligations, and OPENS A PR on branch spine/daily when data/spine moved.
+# It never merges. A human reviewer merges.
+on:
+  schedule:
+    - cron: '41 4 * * *'          # daily 04:41 UTC
+  workflow_dispatch: {}
+permissions:
+  contents: write
+  pull-requests: write
+concurrency: { group: provision-spine, cancel-in-progress: false }
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      adapters: ${{ steps.p.outputs.adapters }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: pip install -r requirements.txt pytest==8.*
+      - name: offline tests (fail-closed guards)
+        run: PYTHONPATH=. pytest -q tests
+      - id: p
+        run: echo "adapters=$(PYTHONPATH=. python -m spine.engine --inputs data/inputs --out /tmp/plan --list-adapters)" >> "$GITHUB_OUTPUT"
+
+  shard:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    strategy:
+      fail-fast: false
+      matrix:
+        adapter: ${{ fromJson(needs.plan.outputs.adapters) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: pip install -r requirements.txt
+      - name: measure ${{ matrix.adapter }}
+        run: |
+          set +e
+          PYTHONPATH=. python -m spine.engine --inputs data/inputs --adapter "${{ matrix.adapter }}" --out "shards/${{ matrix.adapter }}"
+          code=$?
+          if [ "$code" = "2" ]; then echo "::error::${{ matrix.adapter }}: authority UNREACHABLE or UNSTABLE; provisions UNKNOWN, shard not published"; fi
+          exit $code
+      - uses: actions/upload-artifact@v4
+        if: success()
+        with:
+          name: shard-${{ matrix.adapter }}
+          path: shards/${{ matrix.adapter }}
+          retention-days: 7
+
+  aggregate:
+    needs: [plan, shard]
+    if: always() && needs.plan.result == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: pip install -r requirements.txt
+      - uses: actions/download-artifact@v4
+        with: { pattern: 'shard-*', path: shards-dl }
+      - name: collect shards
+        run: |
+          mkdir -p shards
+          for d in shards-dl/shard-*; do [ -d "$d" ] && mv "$d" "shards/${d#shards-dl/shard-}"; done
+          ls shards || true
+      - name: aggregate + EU-six v1/v3 + obligations + door data
+        run: |
+          ARGS=""
+          [ -f data/inputs/agent_register_index.jsonl ] && ARGS="--agent-register data/inputs/agent_register_index.jsonl"
+          # exit 2 here = CELLAR (EU-six) unreachable or unstable: red, no PR
+          PYTHONPATH=. python -m spine.pipeline --out data/spine --inputs data/inputs --shards shards $ARGS
+      - name: anything moved?
+        id: diff
+        run: |
+          # generated_at lives only in report/state/index; per-provision rows carry no timestamps
+          if git diff --quiet -I'"generated_at"' -- data/spine && [ -z "$(git ls-files --others --exclude-standard data/spine)" ]; then
+            echo "moved=false" >> "$GITHUB_OUTPUT"; else echo "moved=true" >> "$GITHUB_OUTPUT"; fi
+      - name: open PR for human review (never merges)
+        if: steps.diff.outputs.moved == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: spine/daily
+          title: "spine: provisions moved (${{ github.run_id }})"
+          commit-message: "spine: daily fluid pass"
+          body-path: data/spine/report.md
+          add-paths: data/spine
+          labels: spine, needs-review
+          draft: false
+      - name: red if any authority shard failed
+        if: needs.shard.result != 'success'
+        run: |
+          echo "::error::at least one authority shard failed (unreachable or unstable); see report.md missing_shards"
+          exit 1
