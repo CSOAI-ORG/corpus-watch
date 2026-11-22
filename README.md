@@ -51,6 +51,20 @@ Drop `data/inputs/registry_<wave>.jsonl` and `data/inputs/provisions_<wave>.json
 A new official host with its own rendering conventions needs an adapter only if its text
 does not re-split from the generic extraction.
 
+Registry precedence: the loader keeps the first FULL_TEXT row for an instrument, and otherwise the last row
+in filename order. When a later wave carries a full updated row for an instrument, remove the earlier row
+from its older registry file so that the update applies.
+
+### Waves added after the first pass
+
+- `apac_standards` (added 22 Nov 2026): 97 registry rows (20 jurisdiction codes) and 1,195 provision rows. Of
+  these, 642 carry text, 400 are hash-only (licence withheld; `recipe_hashonly` kept), and 153 are IDS_ONLY. 26
+  registry rows supersede earlier rows (12 in `registry_asia_pacific.jsonl`, 14 in `registry_europe_intl.jsonl`),
+  which were removed there. 10 provision rows repeat earlier ids with the same hash and dedupe. The offline plan
+  routes all 1,042 FULL_TEXT rows to `pinned_document` (48 documents) and the IDS_ONLY rows to `identifier_only`;
+  no new adapter is needed. **This wave has not been measured yet.** The engine pass needs the authorities'
+  routes, so the next daily run measures it. The first-pass figures below cover the 7 earlier waves only.
+
 ## Authority adapters (first pass, 21 Nov 2026, from this sandbox)
 
 | adapter | status 21 Nov 2026 | documents | provisions | route for current text |
@@ -105,17 +119,19 @@ On pinned routes (an enrolled bill, an effective-date version, a published PDF) 
 
 Code is MIT (`LICENSE`). Law text is committed **only** where the instrument's `text_licence`
 permits republication. The basis is recorded per instrument in `data/inputs/licence_basis.jsonl`:
-224 of 247 FULL_TEXT instruments carry text, under the following bases:
+239 of 272 FULL_TEXT instruments carry text, under the following bases:
 
 - US government edicts doctrine (Georgia v. Public.Resource.Org, 2020): 111 instruments
-- US federal government work, 17 U.S.C. 105: 41 instruments
+- US federal government work, 17 U.S.C. 105: 50 instruments
 - EU reuse Decision 2011/833/EU: 32 instruments
 - Open Government Licence v3.0: 11 instruments
 - PRC Copyright Law art. 5 (laws and official documents not protected): 8 instruments
 - CC-BY-4.0 (attribution in README): 3 instruments
+- Japan Public Data Terms of Use v1.0 (CC BY 4.0-compatible; attribution in README): 3 instruments
 - Korea Copyright Act art. 7 (statutes not protected): 3 instruments
 - Germany UrhG § 5 (official works not protected): 2 instruments
 - Spain LPI art. 13 (official acts not protected) + BOE reuse terms (attribution): 2 instruments
+- CC-BY-SA-4.0 (attribution + share-alike, see README): 2 instruments
 - Japan Copyright Act art. 13 (statutes not protected): 2 instruments
 - Taiwan Copyright Act art. 9 (laws not protected): 2 instruments
 - Brazil Lei 9.610/1998 art. 8 IV (official texts not protected): 1 instrument
@@ -125,10 +141,14 @@ permits republication. The basis is recorded per instrument in `data/inputs/lice
 - EDPB reuse notice (source acknowledgement, no distortion): 1 instrument
 - Finland Tekijänoikeuslaki 9 § (statutes not protected): 1 instrument
 - Hungary Szjt. 1. § (4) (legislation not protected): 1 instrument
+- Apache-2.0 (copyright notice + licence reference in README): 1 instrument
 
-Withheld (23 FULL_TEXT instruments, 956 provision rows): AR-Ley25326-datos-2000, CL-Ley21719-datos-2024, CoE-cets225-ai-convention-2024, HU-ai-act-implementation-act-2025, IE-ai-designation-regulations-2025, IE-regulation-of-ai-act-2026, INTL-au-continental-ai-strategy-2024, IT-dlgs-160-2026, IT-dlgs-179-2026, IT-legge-132-2025, LV-ai-centre-law-2025, MT-ai-regulations-2025, MU-dpa-2017, NG-ndpc-gaid-2025, PE-DS115-2025-PCM-AIreg-2025, PY-Ley7593-datos-2025, RW-dp-law-058-2021, SA-pdpl-2021, US-CA-CCR11-CCPA-RA-ADMT-2025, UY-Dec276-2025-sandboxIA-2025, UY-Dec414-2009-datos-2009, UY-Ley18331-datos-2008, UY-Ley20212-art74-75-IA-2023.
+Withheld (33 FULL_TEXT instruments, 1356 provision rows): AR-Ley25326-datos-2000, CL-Ley21719-datos-2024, CN-anthropomorphic-ai-interaction-measures-2026, CoE-cets225-ai-convention-2024, HK-pdpo-cap486, HU-ai-act-implementation-act-2025, IE-ai-designation-regulations-2025, IE-regulation-of-ai-act-2026, INTL-au-continental-ai-strategy-2024, IT-dlgs-160-2026, IT-dlgs-179-2026, IT-legge-132-2025, LV-ai-centre-law-2025, MT-ai-regulations-2025, MU-dpa-2017, NG-ndpc-gaid-2025, OECD-ai-recommendation-2019, PE-DS115-2025-PCM-AIreg-2025, PY-Ley7593-datos-2025, RW-dp-law-058-2021, SA-pdpl-2021, UN-ares-78-265-2024, UN-ares-78-311-2024, UN-ares-79-239-2024, UN-ares-79-325-2025, UN-ares-80-118-2025, UN-ares-80-58-2025, UN-global-digital-compact-2024, US-CA-CCR11-CCPA-RA-ADMT-2025, UY-Dec276-2025-sandboxIA-2025, UY-Dec414-2009-datos-2009, UY-Ley18331-datos-2008, UY-Ley20212-art74-75-IA-2023.
 For each of these the registry `text_licence` gives no verified republication basis: it says unknown,
-"not verified", "not stated" or "terms not re-read", or names no statute. Their rows carry
+"not verified", "not re-verified", "not stated" or "terms not re-read", or names no basis on the permitted list.
+The APAC-and-standards wave adds two such cases that need an owner decision rather than a code change:
+UN General Assembly texts (public domain under ST/AI/189/Add.9/Rev.2, which is not on the permitted list;
+7 instruments, 214 rows) and the OECD AI Recommendation (OECD terms allow unaltered reproduction but not sale). Their rows carry
 hashes, identifiers and a `recipe_hashonly` instead: a Rabin-Karp hash of the start anchor, the
 projection length and the projection sha256. That is enough to locate and verify the provision
 in today's official text, not enough to reconstruct it. A changed withheld provision is reported
@@ -141,6 +161,13 @@ Reproduction of Federal Law Order (SI/97-5); this copy is not an official versio
 endorsed by the Government of Canada. EU text is © European Union, reused under Decision
 2011/833/EU. Spanish text: source Agencia Estatal Boletín Oficial del Estado (BOE), reused under its open-data
 terms. EDPB text: source European Data Protection Board, reproduced without distortion.
+NIST publications (AI 100, AI 200, AI 700, AI 800, SP 800-218A) are works of the US Government
+(17 U.S.C. 105); source: National Institute of Standards and Technology, nvlpubs.nist.gov. MITRE ATLAS text:
+Copyright 2021-2026 The MITRE Corporation, from the atlas-data repository, licensed under the Apache License,
+Version 2.0 (https://www.apache.org/licenses/LICENSE-2.0). OWASP Top 10 for LLM Applications (2025, 2026):
+OWASP Foundation, GenAI Security Project, CC BY-SA 4.0. Those rows stay under CC BY-SA 4.0 (share-alike) and
+not under this repository's MIT code licence. G7 Hiroshima AI Process texts: source Ministry of Internal Affairs
+and Communications of Japan (soumu.go.jp), Public Data Terms of Use v1.0 (CC BY 4.0-compatible).
 `data/inputs/agent_register_index.jsonl` holds only identifiers and evidence-kind
 labels of the agent-drafted EU obligation register (no drafted prose); the register itself is
 not committed pending owner review.

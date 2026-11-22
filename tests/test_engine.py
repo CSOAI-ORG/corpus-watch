@@ -250,3 +250,31 @@ def test_ico_renderer_drops_ui_chrome():
             '<details><summary>Latest updates</summary><p>This guidance was updated on 15 March 2023.</p></details></main></body></html>')
     t = A.ICO().text({"bytes": html.encode()})
     assert "toggle" not in t and "Latest updates" not in t and "Search this document" not in t and "15 March 2023" in t
+
+
+def test_licence_basis_apac_standards_wave():
+    # bases added with the APAC-and-standards wave (owner-agreed permissive list)
+    assert I.licence_basis("Apache-2.0 (atlas-data LICENSE.txt, Copyright 2021-2026 MITRE)")["republish"]
+    assert I.licence_basis("CC-BY-SA-4.0 (repository README; share-alike applies)")["republish"]
+    assert I.licence_basis("Japan MIC site policy: content under the Public Data Terms of Use v1.0 (CC BY 4.0-compatible) unless otherwise noted")["republish"]
+    assert I.licence_basis("Public domain in the US (17 U.S.C. 105, work of the US Government); NIST asks for attribution")["republish"]
+    # 'not re-verified' withholds like 'not verified', whatever statute is cited
+    assert not I.licence_basis("Not subject to copyright (PRC Copyright Law art. 5: laws, regulations and administrative documents); stated from legal knowledge, not re-verified")["republish"]
+    # bases outside the permissive list stay withheld until the owner adds them
+    assert not I.licence_basis("Public domain: UN documents issued with a UN symbol (ST/AI/189/Add.9/Rev.2)")["republish"]
+    assert not I.licence_basis("HKSAR Government copyright (dc:rights); DoJ e-Legislation data released as open data on data.gov.hk under the DATA.GOV.HK terms of use")["republish"]
+    assert not I.licence_basis("ISO/IEC copyright - all rights reserved")["republish"]
+
+
+@pytest.mark.skipif(not os.path.isdir("data/inputs"), reason="committed inputs not present")
+def test_committed_licence_basis_matches_rules():
+    inp = I.load("data/inputs")
+    rows = {json.loads(l)["instrument_id"]: json.loads(l) for l in open("data/inputs/licence_basis.jsonl", encoding="utf-8")}
+    assert set(rows) == set(inp["registry"])
+    for iid, r in inp["registry"].items():
+        b = I.licence_basis(r.get("text_licence"))
+        assert rows[iid]["basis"] == b["basis"]
+        assert rows[iid]["republish_text"] == (b["republish"] and r.get("freeze_mode") == "FULL_TEXT")
+    for p in inp["provisions"]:
+        if p.get("text"):
+            assert I.licence_basis(inp["registry"][p["instrument_id"]].get("text_licence"))["republish"], p["provision_id"]

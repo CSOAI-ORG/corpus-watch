@@ -26,12 +26,15 @@ from . import corpus as C
 # Republication basis, decided per instrument from its registry text_licence. Order matters:
 # an explicit 'not verified' / 'unknown' always wins (withhold), whatever else the string says.
 LICENCE_RULES = [
-    ("WITHHOLD", r"not verified|not re-read|unknown|not separately verified|not stated|all rights reserved|proprietary|paywall", None),
+    ("WITHHOLD", r"not verified|not re-verified|not re-read|unknown|not separately verified|not stated|all rights reserved|proprietary|paywall", None),
     ("PERMIT", r"2011/833", "EU reuse Decision 2011/833/EU"),
     ("PERMIT", r"open government licence", "Open Government Licence v3.0"),
     ("PERMIT", r"17 u\.s\.c\. 105|us public domain", "US federal government work, 17 U.S.C. 105"),
     ("PERMIT", r"edicts doctrine|georgia v\. public\.resource", "US government edicts doctrine (Georgia v. Public.Resource.Org, 2020)"),
+    ("PERMIT", r"public data terms of use", "Japan Public Data Terms of Use v1.0 (CC BY 4.0-compatible; attribution in README)"),
+    ("PERMIT", r"cc-by-sa-4\.0|cc by-sa 4\.0", "CC-BY-SA-4.0 (attribution + share-alike, see README)"),
     ("PERMIT", r"cc-by-4\.0|cc by 4\.0", "CC-BY-4.0 (attribution in README)"),
+    ("PERMIT", r"apache-2\.0|apache license,? version 2\.0", "Apache-2.0 (copyright notice + licence reference in README)"),
     ("PERMIT", r"japan copyright act art\. 13", "Japan Copyright Act art. 13 (statutes not protected)"),
     ("PERMIT", r"korea copyright act art\. 7", "Korea Copyright Act art. 7 (statutes not protected)"),
     ("PERMIT", r"prc copyright law art\. 5", "PRC Copyright Law art. 5 (laws and official documents not protected)"),
