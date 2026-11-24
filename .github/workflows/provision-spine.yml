@@ -51,8 +51,10 @@ jobs:
           code=$?
           if [ "$code" = "2" ]; then echo "::error::${{ matrix.adapter }}: authority UNREACHABLE or UNSTABLE; provisions UNKNOWN, shard not published"; fi
           exit $code
+      # Publish the shard even when a document is UNREACHABLE/UNSTABLE: those provisions are recorded UNKNOWN
+      # (never UNCHANGED) and the job stays red, but the other documents' results are kept.
       - uses: actions/upload-artifact@v4
-        if: success()
+        if: always()
         with:
           name: shard-${{ matrix.adapter }}
           path: shards/${{ matrix.adapter }}

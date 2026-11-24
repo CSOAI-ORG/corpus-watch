@@ -278,3 +278,12 @@ def test_committed_licence_basis_matches_rules():
     for p in inp["provisions"]:
         if p.get("text"):
             assert I.licence_basis(inp["registry"][p["instrument_id"]].get("text_licence"))["republish"], p["provision_id"]
+
+
+def test_fetch_url_preferred_over_citation_url():
+    from spine import adapters as A
+    row = {"provision_sha256": "x", "source": {"url": "https://doi.org/10.6028/NIST.AI.100-1",
+                                              "fetch_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf"}}
+    assert A.source_url(row).startswith("https://nvlpubs.nist.gov/")
+    assert A.route(row).name == "pinned_document"
+    assert A.source_url({"source": {"url": "https://example.org/a"}}) == "https://example.org/a"
