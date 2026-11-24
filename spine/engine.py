@@ -97,8 +97,13 @@ def measure_doc(d: dict, gate: bool = True, fetch=None) -> dict:
                 t2 = ad.text(f2)
                 m2 = R.measure(d["rows"], t2)
     except A.Unreachable as exc:
-        rec.update(gate="UNREACHABLE", error=str(exc))
-        return {"doc": rec, "provisions": {r["provision_id"]: {"class": "UNKNOWN", "method": "source-unreachable",
+        # The authority itself refuses automated clients (HTTP 401/403/451 or a bot challenge):
+        # BLOCKED, a known route limit. Provisions stay UNKNOWN (never 'unchanged') and are
+        # reported, but a permanent refusal does not turn every daily run red.
+        blocked = bool(re.search(r"HTTP Error (?:401|403|451)\b|bot-challenge", str(exc)))
+        rec.update(gate="BLOCKED" if blocked else "UNREACHABLE", error=str(exc))
+        return {"doc": rec, "provisions": {r["provision_id"]: {"class": "UNKNOWN",
+                                                               "method": "source-blocked" if blocked else "source-unreachable",
                                                                "span_sha256": None} for r in d["rows"]}, "inserted": {}}
     except Exception as exc:          # parse/extract failure: fail closed, but this is a defect, not drift
         rec.update(gate="ERROR", error=f"{type(exc).__name__}: {str(exc)[:200]}")

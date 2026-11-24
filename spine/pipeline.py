@@ -409,7 +409,8 @@ def adapter_table(eng) -> list[dict]:
         g = {k: v for k, v in c.items() if not k.startswith("_")}
         status = ("NOT_FETCHED" if set(g) == {"NO_FETCH"} else
                   "REACHABLE" if set(g) <= {"STABLE", "SKIPPED", "NO_FETCH"} else
-                  "UNREACHABLE" if set(g) <= {"UNREACHABLE"} else "PARTIAL")
+                  "UNREACHABLE" if set(g) <= {"UNREACHABLE"} else
+                  "BLOCKED" if set(g) <= {"BLOCKED"} else "PARTIAL")
         out.append({"adapter": name, "status": status, "documents": sum(g.values()), "gates": g,
                     "provisions": c["_provisions"], **{k: desc.get(name, {}).get(k) for k in ("hosts", "latest_version", "insertion_detection", "note")}})
     return out

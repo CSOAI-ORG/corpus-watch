@@ -91,6 +91,14 @@ def test_unreachable_is_unknown_never_unchanged():
     assert res["provisions"]["GB-dpa-2018:s1"]["class"] == "UNKNOWN"
 
 
+def test_authority_refusal_is_blocked_and_unknown():
+    rows = [_row("GB-dpa-2018:s1", FROZEN_UK[0], "s1")]
+    res = E.measure_doc(_doc(rows), gate=True, fetch=_fetcher([A.Unreachable("HTTPError: HTTP Error 401: Unauthorized")]))
+    assert res["doc"]["gate"] == "BLOCKED"
+    assert res["provisions"]["GB-dpa-2018:s1"]["class"] == "UNKNOWN"
+    assert res["provisions"]["GB-dpa-2018:s1"]["method"] == "source-blocked"
+
+
 def test_unstable_text_between_fetches_is_unknown():
     rows = [_row("GB-dpa-2018:s1", FROZEN_UK[0], "s1")]
     a = UK_XML.format(stamp="x")
