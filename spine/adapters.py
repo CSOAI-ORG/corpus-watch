@@ -593,8 +593,10 @@ BY_NAME = {a.name: a for a in ADAPTERS + [IDS]}
 
 
 def source_url(row: dict) -> str:
+    """The address the engine fetches. `fetch_url` (the publisher's own host) wins over `url`, which stays the
+    citation (e.g. a DOI). doi.org answers 403 to automated clients; nvlpubs.nist.gov serves the same bytes."""
     s = row.get("source") or {}
-    return s.get("url") or s.get("manifestation") or ""
+    return s.get("fetch_url") or s.get("url") or s.get("manifestation") or ""
 
 
 def route(row: dict) -> Adapter:
