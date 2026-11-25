@@ -14,6 +14,8 @@ from __future__ import annotations
 import hashlib
 import json
 import re
+import socket
+import ssl
 import time
 import urllib.error
 import urllib.parse
@@ -28,15 +30,91 @@ class Unreachable(Exception):
     """The authority could not be read. Always UNKNOWN, never 'unchanged'."""
 
 
+# Retry schedule: bounded exponential backoff between tries (5, 15, 45 s for tries=4), so one
+# URL spends at most tries x timeout + 65 s before it is reported UNREACHABLE.
+BACKOFF_BASE = 5
+BACKOFF_FACTOR = 3
+BACKOFF_CAP = 60
+CONNECT_PROBE_TIMEOUT = 15
+
+# Hosts where, in this process, every try timed out AND a fresh TCP connect probe also timed
+# out. A later URL on such a host is reported UNREACHABLE at once (same verdict, provisions
+# stay UNKNOWN) instead of spending another tries x timeout on a network path already shown
+# to be down for this pass. A host that accepts TCP but answers slowly is never put here.
+_HOST_DOWN: dict[str, str] = {}
+
+
+def reset_host_state() -> None:
+    _HOST_DOWN.clear()
+
+
+def _backoff(i: int) -> int:
+    return min(BACKOFF_CAP, BACKOFF_BASE * BACKOFF_FACTOR ** i)
+
+
+def _is_timeout(exc: BaseException) -> bool:
+    reason = getattr(exc, "reason", exc)
+    return isinstance(reason, (socket.timeout, TimeoutError)) or "timed out" in str(reason)
+
+
+def failure_phase(exc: BaseException, during_read: bool = False) -> str:
+    """Where a fetch failed: http-<code>, dns, tls, open-timeout (TCP connect, TLS handshake or
+    response headers did not finish in time), read-timeout, connect-refused, connection-reset,
+    network or other. open-timeout is narrowed by `_probe_connect` to connect-timeout or
+    response-timeout."""
+    if isinstance(exc, urllib.error.HTTPError):
+        return f"http-{exc.code}"
+    reason = exc.reason if isinstance(exc, urllib.error.URLError) else exc
+    if isinstance(reason, socket.gaierror):
+        return "dns"
+    if _is_timeout(exc):
+        return "read-timeout" if during_read else "open-timeout"
+    if isinstance(reason, ssl.SSLError):
+        return "tls"
+    if isinstance(reason, ConnectionRefusedError):
+        return "connect-refused"
+    if isinstance(reason, ConnectionResetError):
+        return "connection-reset"
+    if isinstance(reason, OSError):
+        return "network"
+    return "other"
+
+
+def _probe_connect(url: str) -> str:
+    """After open-timeouts, tell a dropped network path from a slow server: one plain TCP
+    connect to the same host and port (no request sent). Skipped behind an HTTP(S) proxy,
+    where a direct connect says nothing about the route actually used."""
+    if urllib.request.getproxies():
+        return "open-timeout"
+    u = urllib.parse.urlsplit(url)
+    port = u.port or (443 if u.scheme == "https" else 80)
+    try:
+        socket.create_connection((u.hostname, port), timeout=CONNECT_PROBE_TIMEOUT).close()
+        return "response-timeout"
+    except (socket.timeout, TimeoutError):
+        return "connect-timeout"
+    except OSError:
+        return "open-timeout"
+
+
 def http_get(url: str, accept: str = "*/*", timeout: int = 90, tries: int = 4, lang: str | None = None) -> tuple[bytes, str]:
+    host = (urllib.parse.urlsplit(url).hostname or "").lower()
+    if host in _HOST_DOWN:
+        raise Unreachable(f"{_HOST_DOWN[host]} [phase=connect-timeout; host={host}; "
+                          f"skipped: TCP connect to this host already timed out in this pass]")
     last = None
+    phases: list[str] = []
+    n = 0
     for i in range(tries):
+        n = i + 1
+        during_read = False
         try:
             h = {"User-Agent": UA, "Accept": accept, "Accept-Encoding": "gzip"}
             if lang:
                 h["Accept-Language"] = lang
             with urllib.request.urlopen(urllib.request.Request(url, headers=h), timeout=timeout) as r:
                 final = r.geturl()
+                during_read = True
                 body = r.read()
                 if (r.headers.get("Content-Encoding") or "").lower() == "gzip":
                     import gzip
@@ -46,23 +124,33 @@ def http_get(url: str, accept: str = "*/*", timeout: int = 90, tries: int = 4, l
             return body, final
         except urllib.error.HTTPError as exc:
             last = exc
+            phases.append(failure_phase(exc))
             if exc.code in (400, 401, 403, 404, 406, 410):
                 break
-            wait = 3 * (i + 1)
+            wait = _backoff(i)
             if exc.code == 429:
                 try:
                     wait = min(60, int(exc.headers.get("Retry-After", "20")))
                 except ValueError:
                     wait = 20
-            time.sleep(wait)
+            if n < tries:
+                time.sleep(wait)
         except Unreachable:
             raise
         except Exception as exc:  # network / proxy / timeout
             last = exc
+            phases.append(failure_phase(exc, during_read))
             if "not on the allowlist" in str(exc) or "Tunnel connection failed: 403" in str(exc):
                 break
-            time.sleep(3 * (i + 1))
-    raise Unreachable(f"{type(last).__name__}: {str(last)[:200]}")
+            if n < tries:
+                time.sleep(_backoff(i))
+    phase = phases[-1] if phases else "other"
+    if phases and all(ph == "open-timeout" for ph in phases):
+        phase = _probe_connect(url)
+    msg = f"{type(last).__name__}: {str(last)[:200]}"
+    if phase == "connect-timeout" and host:
+        _HOST_DOWN[host] = msg
+    raise Unreachable(f"{msg} [phase={phase}; host={host}; tries={n}]")
 
 
 class Adapter:
