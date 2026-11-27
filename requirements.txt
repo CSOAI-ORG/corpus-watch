@@ -1,1 +1,2 @@
 pypdf==7.1.0   # only for pinned PDF documents (NIST, OMB, CPPA, Peru); extraction pinned for determinism
+cryptography==50.0.2   # pypdf needs it for AES-encrypted PDFs (G7 Hiroshima Code, soumu.go.jp document05_en.pdf)
