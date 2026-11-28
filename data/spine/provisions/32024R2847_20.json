@@ -1,0 +1,128 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R2847:20",
+ "label": "Cyber Resilience Act Art. 20",
+ "instrument": "Cyber Resilience Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "4557423b1962c2d68c0f9aa3854dad09c9e14980a9029947ec21ce17ec00232e",
+ "sha256_v1": "4557423b1962c2d68c0f9aa3854dad09c9e14980a9029947ec21ce17ec00232e",
+ "sha256_v2": "d19bf39fb1526272b41e513ac9761e4af61722bcfdb87dd8c57c8338e9efe7ae",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "d19bf39fb1526272b41e513ac9761e4af61722bcfdb87dd8c57c8338e9efe7ae",
+ "agent_register_kinds": [
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R2847:20/p1/s1",
+   "paragraph": "1",
+   "addressee": "distributor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When making a product with digital elements available on the market, distributors shall act with due care in relation to the requirements set out in this Regulation."
+  },
+  {
+   "obligation_id": "32024R2847:20/p2/s1",
+   "paragraph": "2",
+   "addressee": "distributor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Before making a product with digital elements available on the market, distributors shall verify that:"
+  },
+  {
+   "obligation_id": "32024R2847:20/p3/s1",
+   "paragraph": "3",
+   "addressee": "distributor",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where a distributor considers or has reason to believe, on the basis of information in its possession, that a product with digital elements or the processes put in place by the manufacturer are not in conformity with the essential cybersecurity requirements set out in Annex I, the distributor shall not make the product with digital elements available on the market until that product or the processes put in place by the manufacturer have been brought into conformity with this Regulation."
+  },
+  {
+   "obligation_id": "32024R2847:20/p3/s2",
+   "paragraph": "3",
+   "addressee": "distributor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Furthermore, where the product with digital elements poses a significant cybersecurity risk, the distributor shall inform, without undue delay, the manufacturer and the market surveillance authorities to that effect."
+  },
+  {
+   "obligation_id": "32024R2847:20/p4/s1",
+   "paragraph": "4",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Distributors who know or have reason to believe, on the basis of information in their possession, that a product with digital elements, which they have made available on the market, or the processes put in place by its manufacturer are not in conformity with this Regulation shall make sure that the corrective measures necessary to bring that product with digital elements or the processes put in place by its manufacturer into conformity, or to withdraw or recall the product, if appropriate, are taken."
+  },
+  {
+   "obligation_id": "32024R2847:20/p4/s2",
+   "paragraph": "4",
+   "addressee": "distributor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Upon becoming aware of a vulnerability in the product with digital elements, distributors shall inform the manufacturer without undue delay about that vulnerability."
+  },
+  {
+   "obligation_id": "32024R2847:20/p4/s3",
+   "paragraph": "4",
+   "addressee": "distributor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Furthermore, where the product with digital elements presents a significant cybersecurity risk, distributors shall immediately inform the market surveillance authorities of the Member States in which they have made the product with digital elements available on the market to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken."
+  },
+  {
+   "obligation_id": "32024R2847:20/p5/s1",
+   "paragraph": "5",
+   "addressee": "distributor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Distributors shall, further to a reasoned request from a market surveillance authority, provide all the information and documentation, in paper or electronic form, necessary to demonstrate the conformity of the product with digital elements and the processes put in place by its manufacturer with this Regulation in a language that can be easily understood by that authority."
+  },
+  {
+   "obligation_id": "32024R2847:20/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "cooperate",
+   "status": "DRAFT",
+   "text": "They shall cooperate with that authority, at its request, on any measures taken to eliminate the cybersecurity risks posed by a product with digital elements which they have made available on the market."
+  },
+  {
+   "obligation_id": "32024R2847:20/p6/s1",
+   "paragraph": "6",
+   "addressee": "distributor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the distributor of a product with digital elements becomes aware, on the basis of information in its possession, that the manufacturer of that product has ceased its operations and, as result, is not able to comply with the obligations laid down in this Regulation, the distributor shall inform, without undue delay, the relevant market surveillance authorities about this situation, as well as, by any means available and to the extent possible, the users of the products with digital elements placed on the market."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R2847:20",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

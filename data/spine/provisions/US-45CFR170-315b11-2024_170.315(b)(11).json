@@ -1,0 +1,286 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-45CFR170-315b11-2024:170.315(b)(11)",
+ "label": "US-45CFR170-315b11-2024 § 170.315(b)(11)",
+ "instrument": "US-45CFR170-315b11-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "03314662dcc7e4d89ff5ba0b0de3132d7cbc6060c4753dc5277072223cf48544",
+ "sha256_v1": "",
+ "sha256_v2": "03314662dcc7e4d89ff5ba0b0de3132d7cbc6060c4753dc5277072223cf48544",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "03314662dcc7e4d89ff5ba0b0de3132d7cbc6060c4753dc5277072223cf48544",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Interventions provided to a user must occur when a user is interacting with technology."
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Source attributes listed in paragraphs (b)(11)(iv)(A) and (B) of this section must be supported."
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "( 1 ) For evidence-based decision support interventions and Predictive Decision Support Interventions supplied by the health IT developer as part of its Health IT Module, the Health IT Module must enable a limited set of identified users to access complete and up-to-date plain language descriptions of source attribute information specified in paragraphs (b)(11)(iv)(A) and (B) of this section."
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "( 2 ) For Predictive Decision Support Interventions supplied by the health IT developer as part of its Health IT Module, the Health IT Module must indicate when information is not available for review for source attributes in paragraphs (b)(11)(iv)(B)( 6 );"
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "( 1 ) For evidence-based decision support interventions and Predictive Decision Support Interventions, the Health IT Module must enable a limited set of identified users to record, change, and access source attributes in paragraphs (b)(11)(iv)(A) and (B) of this section."
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "( 2 ) For Predictive Decision Support Interventions, the Health IT Module must enable a limited set of identified users to record, change, and access additional source attributes not specified in paragraph (b)(11)(iv)(B) of this section."
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "Intervention risk management practices must be applied for each Predictive Decision Support Intervention supplied by the health IT developer as part of its Health IT Module."
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Predictive Decision Support Intervention(s) must be subject to analysis of potential risks and adverse impacts associated with the following characteristics: validity, reliability, robustness, fairness, intelligibility, safety, security, and privacy."
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s9",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Predictive Decision Support Intervention (s) must be subject to practices to mitigate risks, identified in accordance with paragraph (b)(11)(vi)(A) of this section; and (C) Governance."
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s10",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Predictive Decision Support Intervention(s) must be subject to policies and implemented controls for governance, including how data are acquired, managed, and used."
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s11",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For each and every CQM for which the technology is presented for certification, the technology must be able to record all of the data that would be necessary to calculate each CQM."
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s12",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Data required for CQM exclusions or exceptions must be codified entries, which may include specific terms as defined by each CQM, or may include codified expressions of “patient reason,” “system reason,” or “medical reason.” (ii) Export."
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s13",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A user must be able to export a data file at any time the user chooses and without subsequent developer assistance to operate:"
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s14",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A user must be able to execute this capability at any time the user chooses and without subsequent developer assistance to operate."
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s15",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Technology must be able to:"
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s16",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Technology must be set by default to perform the capabilities specified in paragraph (d)(2)(i)(A) of this section and, where applicable, paragraphs (d)(2)(i)(B) and (d)(2)(i)(C) of this section."
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s17",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For each capability specified in paragraphs (d)(2)(i)(A) through (C) of this section that technology permits to be disabled, the ability to do so must be restricted to a limited set of users."
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s18",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Actions and statuses recorded in accordance with paragraph (d)(2)(i) of this section must not be capable of being changed, overwritten, or deleted by the technology."
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s19",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Technology must be able to detect whether the audit log has been altered."
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s20",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The requirements specified in one of the following paragraphs (that is, paragraphs (d)(7)(i) and (d)(7)(ii) of this section) must be met to satisfy this certification criterion."
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s21",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i) Technology that is designed to locally store electronic health information on end-user devices must encrypt the electronic health information stored on such devices after use of the technology on those devices stops."
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s22",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(A) Electronic health information that is stored must be encrypted in accordance with the standard specified in § 170.210(a)(2)."
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s23",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Technology must be set by default to perform this capability and, unless this configuration cannot be disabled by any user, the ability to change the configuration must be restricted to a limited set of identified users."
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s24",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(ii) If technology permits auditing to be disabled, the ability to do so must be restricted to a limited set of users."
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s25",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(iii) Actions recorded related to electronic health information must not be capable of being changed, overwritten, or deleted by the technology."
+  },
+  {
+   "obligation_id": "US-45CFR170-315b11-2024:170.315(b)(11)/p0/s26",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(iv) Technology must be able to detect whether the audit log has been altered."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-45CFR170-315b11-2024:170.315(b)(11)",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

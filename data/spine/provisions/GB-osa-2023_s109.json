@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s109",
+ "label": "GB-osa-2023 Section 109",
+ "instrument": "GB-osa-2023",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "3f00233ee92a4a5475f092cf7470cdbca803d0c5a5cece9f2de3bdc52cb1ff6d",
+ "sha256_v1": "",
+ "sha256_v2": "3f00233ee92a4a5475f092cf7470cdbca803d0c5a5cece9f2de3bdc52cb1ff6d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "3f00233ee92a4a5475f092cf7470cdbca803d0c5a5cece9f2de3bdc52cb1ff6d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s109/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s109",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,156 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:62",
+ "label": "EU-dsa-2022 Article 62",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6f6668d716387b8816f207f796f565cd35aab357241e63cf198fea003597fdde",
+ "sha256_v1": "",
+ "sha256_v2": "6f6668d716387b8816f207f796f565cd35aab357241e63cf198fea003597fdde",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "6f6668d716387b8816f207f796f565cd35aab357241e63cf198fea003597fdde",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:62/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Board shall be composed of Digital Services Coordinators who shall be represented by high-level officials."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:62/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The failure by one or more Member States to designate a Digital Services Coordinator shall not prevent the Board from performing its tasks under this Regulation."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:62/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Board shall be chaired by the Commission."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:62/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall convene the meetings and prepare the agenda in accordance with the tasks of the Board pursuant to this Regulation and in line with its rules of procedure."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:62/p2/s3",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When the Board is requested to adopt a recommendation pursuant to this Regulation, it shall immediately make the request available to other Digital Services Coordinators through the information sharing system set out in Article 85."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:62/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each Member State shall have one vote."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:62/p3/s2",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall not have voting rights."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:62/p3/s3",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Board shall adopt its acts by simple majority."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:62/p3/s4",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When adopting a recommendation to the Commission referred to in Article 36(1), first subparagraph, the Board shall vote within 48 hours after the request of the Chair of the Board."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:62/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall provide administrative and analytical support for the activities of the Board pursuant to this Regulation."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:62/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Board shall make the results of this cooperation publicly available."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:62/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Board may consult interested parties, and shall make the results of such consultation publicly available."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:62/p7/s1",
+   "paragraph": "7",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Board shall adopt its rules of procedure, following the consent of the Commission."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:62",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

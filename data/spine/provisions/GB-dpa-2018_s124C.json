@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s124C",
+ "label": "GB-dpa-2018 Section 124C",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "75b17fafbb24920eb8e48624c29b367f528855de25a0a01f3b653bdc5607fbf7",
+ "sha256_v1": "",
+ "sha256_v2": "75b17fafbb24920eb8e48624c29b367f528855de25a0a01f3b653bdc5607fbf7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "75b17fafbb24920eb8e48624c29b367f528855de25a0a01f3b653bdc5607fbf7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s124C/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Impact assessments for codes of practice\n(1)\nWhere a code is prepared under section 121, 122, 123, 124 or 124A, the Commission must carry out and publish an assessment of—\n(a)\nwho would be likely to be affected by the code, and\n(b)\nthe effect the code would be likely to have on them."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s124C",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

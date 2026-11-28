@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:10",
+ "label": "EU-dma-2022 Article 10",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "bebe69f7ac819db8cc7ed092e2cec34df5bc094d056bf387d5d61d6f665b80b1",
+ "sha256_v1": "",
+ "sha256_v2": "bebe69f7ac819db8cc7ed092e2cec34df5bc094d056bf387d5d61d6f665b80b1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "bebe69f7ac819db8cc7ed092e2cec34df5bc094d056bf387d5d61d6f665b80b1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:10/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall adopt the exemption decision within 3 months after receiving a complete reasoned request and shall provide a reasoned statement explaining the grounds for the exemption."
+  },
+  {
+   "obligation_id": "EU-dma-2022:10/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That implementing act shall be adopted in accordance with the advisory procedure referred to in Article 50(2)."
+  },
+  {
+   "obligation_id": "EU-dma-2022:10/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where an exemption is granted pursuant to paragraph 1, the Commission shall review its exemption decision if the ground for the exemption no longer exists or at least every year."
+  },
+  {
+   "obligation_id": "EU-dma-2022:10/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Following such a review, the Commission shall either wholly or partially lift the exemption, or decide that the conditions of paragraph 1 continue to be met."
+  },
+  {
+   "obligation_id": "EU-dma-2022:10/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In assessing the request referred to in paragraphs 1 and 4, the Commission shall take into account, in particular, the impact of the compliance with the specific obligation on the grounds in paragraph 3, as well as the effects on the gatekeeper concerned and on third parties."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:10",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

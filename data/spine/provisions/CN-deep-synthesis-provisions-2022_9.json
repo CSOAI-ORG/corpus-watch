@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-deep-synthesis-provisions-2022:9",
+ "label": "CN-deep-synthesis-provisions-2022 第九条",
+ "instrument": "CN-deep-synthesis-provisions-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7ba0d9502aacffb25eeed2d8ee84490b03cab7cc13155f7c54e1447e964c272c",
+ "sha256_v1": "",
+ "sha256_v2": "7ba0d9502aacffb25eeed2d8ee84490b03cab7cc13155f7c54e1447e964c272c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "7ba0d9502aacffb25eeed2d8ee84490b03cab7cc13155f7c54e1447e964c272c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-deep-synthesis-provisions-2022:9/s1",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "第九条 深度合成服务提供者应当基于移动电话号码、身份证件号码、统一社会信用代码或者国家网络身份认证公共服务等方式，依法对深度合成服务使用者进行真实身份信息认证，不得向未进行真实身份信息认证的深度合成服务使用者提供信息发布服务。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-deep-synthesis-provisions-2022:9",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

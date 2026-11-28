@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:59",
+ "label": "EU-mdr-2017 Article 59",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "78b77e362c7779d942b52b8179b6996081c183cb20d1fe9d8505acfeb9d3d086",
+ "sha256_v1": "",
+ "sha256_v2": "78b77e362c7779d942b52b8179b6996081c183cb20d1fe9d8505acfeb9d3d086",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": null,
+ "sha256_current": "78b77e362c7779d942b52b8179b6996081c183cb20d1fe9d8505acfeb9d3d086",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:59/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Member State shall inform the Commission and the other Member States of any decision to authorise the placing on the market or putting into service of a device in accordance with paragraph 1 where such authorisation is granted for use other than for a single patient. ▼M1 The Member State may inform the Commission and the other Member States of any authorisation granted in accordance with Article 9(9) of Directive 90/385/EEC or Article 11(13) of Directive 93/42/EEC before 24 April 2020. ▼B 3. ►M1 Following a notification pursuant to paragraph 2 of this Article, the Commission, in exceptional cases relating to public health or patient safety or health, may, by means of implementing acts, e"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:59/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 114(3). ◄ On duly justified imperative grounds of urgency relating to the health and safety of humans, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article 114(4)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:59",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

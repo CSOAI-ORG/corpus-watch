@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:6",
+ "label": "EU-dsa-2022 Article 6",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "418993ae996f2df271fef883838f99e33ff356d1f612835884acf11bb949dab4",
+ "sha256_v1": "",
+ "sha256_v2": "418993ae996f2df271fef883838f99e33ff356d1f612835884acf11bb949dab4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "418993ae996f2df271fef883838f99e33ff356d1f612835884acf11bb949dab4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:6/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where an information society service is provided that consists of the storage of information provided by a recipient of the service, the service provider shall not be liable for the information stored at the request of a recipient of the service, on condition that the provider:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:6/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This Article shall not affect the possibility for a judicial or administrative authority, in accordance with a Member State's legal system, to require the service provider to terminate or prevent an infringement."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:101",
+ "label": "EU-mica-2023 Article 101",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "911685bd5e125ea50ac604cad6a84b3d00e904f7e9a55f7a4062c7a1371c6a51",
+ "sha256_v1": "",
+ "sha256_v2": "911685bd5e125ea50ac604cad6a84b3d00e904f7e9a55f7a4062c7a1371c6a51",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "911685bd5e125ea50ac604cad6a84b3d00e904f7e9a55f7a4062c7a1371c6a51",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:101/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Data protection\nWith regard to the processing of personal data within the framework of this Regulation, competent authorities shall carry out their tasks for the purposes of this Regulation in accordance with Regulation (EU) 2016/679."
+  },
+  {
+   "obligation_id": "EU-mica-2023:101/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The processing of personal data by EBA and ESMA for the purposes of this Regulation shall be carried out in accordance with Regulation (EU) 2018/1725."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:101",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

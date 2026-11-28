@@ -1,0 +1,116 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:15",
+ "label": "EU-ehds-2025 Article 15",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9d54ec125396b2fdce87b7a8c9d8bc45f57c6a985fee1e178b1d6637cd8e982d",
+ "sha256_v1": "",
+ "sha256_v2": "9d54ec125396b2fdce87b7a8c9d8bc45f57c6a985fee1e178b1d6637cd8e982d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "9d54ec125396b2fdce87b7a8c9d8bc45f57c6a985fee1e178b1d6637cd8e982d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:15/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "By 26 March 2027, the Commission shall, by means of implementing acts, lay down the technical specifications for the priority categories of personal electronic health data referred to in Article 14(1), setting out the European electronic health record exchange format."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:15/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such format shall be commonly used, machine-readable and allow transmission of personal electronic health data between different software applications, devices and healthcare providers."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:15/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such format shall support transmission of structured and unstructured health data and shall include the following elements:"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:15/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The implementing acts referred to in the first subparagraph of this paragraph shall be adopted in accordance with the examination procedure referred to in Article 98(2)."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:15/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall, by means of implementing acts, provide regular updates of the European electronic health record exchange format to integrate relevant revisions of the healthcare coding systems and nomenclatures."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:15/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 98(2)."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:15/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 98(2)."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:15/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that the priority categories of personal electronic health data referred to in Article 14 are issued in the European electronic health record exchange format referred to in paragraph 1 of this Article."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:15/p4/s2",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where such data are transmitted by automated means for primary use, the receiving provider shall accept the format of the data and be able to read them."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:15",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

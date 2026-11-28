@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:65",
+ "label": "EU-ivdr-2017 Article 65",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "16997899d88e1686354ac22561d8f7c4b5a46b04fd1ddd5d0161659d3989df9c",
+ "sha256_v1": "",
+ "sha256_v2": "16997899d88e1686354ac22561d8f7c4b5a46b04fd1ddd5d0161659d3989df9c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "16997899d88e1686354ac22561d8f7c4b5a46b04fd1ddd5d0161659d3989df9c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:65/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that systems for compensation for any damage suffered by a subject resulting from participation in a performance study conducted on their territory are in place in the form of insurance, a guarantee, or a similar arrangement that is equivalent as regards its purpose and which is appropriate to the nature and the extent of the risk."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:65/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The sponsor and the investigator shall make use of the system referred to in paragraph 1 in the form appropriate for the Member State in which the performance study is conducted."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:65",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

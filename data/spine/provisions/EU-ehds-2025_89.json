@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:89",
+ "label": "EU-ehds-2025 Article 89",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "26db1c7bba3fcbf529014e818700f50f40b843fefd37f4f64b85728829d6e8f2",
+ "sha256_v1": "",
+ "sha256_v2": "26db1c7bba3fcbf529014e818700f50f40b843fefd37f4f64b85728829d6e8f2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "26db1c7bba3fcbf529014e818700f50f40b843fefd37f4f64b85728829d6e8f2",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:89/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Digital health authorities, health data access bodies, authorised participants in the cross-border infrastructures provided for in Articles 23 and 75 and health data users shall take all reasonable technical, legal and organisational measures, including contractual arrangements, in order to prevent the transfer of non-personal electronic health data held in the Union to a third country or an international organisation, including for governmental access in a third country, where such transfer would create a conflict with Union law or the national law of the relevant Member State."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:89/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any judgment of a third-country court or tribunal and any decision of a third-country administrative authority requiring a digital health authority, health data access body or health data users to transfer or give access to non-personal electronic health data within the scope of this Regulation held in the Union shall be recognised or enforceable in any manner only if based on an international agreement, such as a mutual legal assistance treaty, in force between the requesting third country and the Union, or any such agreement between the requesting third country and a Member State."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:89/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In the absence of an international agreement as referred to in paragraph 2, where a digital health authority, a health data access body or a health data user is the addressee of a decision or judgment of a third-country court or tribunal or of a decision of a third-country administrative authority requiring them to transfer or to give access to non-personal data within the scope of this Regulation held in the Union, and compliance with such a decision or judgment would risk putting the addressee in conflict with Union law or with the national law of the relevant Member State, the transfer to, or accessing of such data by, that third-country court, tribunal or administrative authority shall o"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:89/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the conditions laid down in paragraph 2 or 3 are met, a digital health authority, a health data access body or a data altruism organisation shall provide the minimum amount of data permissible in response to a request, based on a reasonable interpretation of the request."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:89/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The digital health authorities, health data access bodies and health data users shall inform the health data holder about the existence of a request of a third-country administrative authority to access its data before complying with that request, except where the request serves law enforcement purposes and for as long as compliance is necessary to preserve the effectiveness of the law enforcement activity."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:89",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

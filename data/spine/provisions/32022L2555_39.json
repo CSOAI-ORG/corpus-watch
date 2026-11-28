@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022L2555:39",
+ "label": "NIS2 Directive Art. 39",
+ "instrument": "NIS2 Directive",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "1fa5b646c4ce24e09742ce2a48b3331b306e19157d9a455f91141ce3f1a9e8f2",
+ "sha256_v1": "1fa5b646c4ce24e09742ce2a48b3331b306e19157d9a455f91141ce3f1a9e8f2",
+ "sha256_v2": "688a0ce64d8ac2b96eb0108696dc35321a1f9f86520afaf1212f1b75aa273b1c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "688a0ce64d8ac2b96eb0108696dc35321a1f9f86520afaf1212f1b75aa273b1c",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022L2555:39/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 39 committee procedure",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022L2555:39",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-gpsr-2023:8c",
+ "label": "EU-gpsr-2023 8c",
+ "instrument": "EU-gpsr-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": null,
+ "sha256_v1": "",
+ "sha256_v2": "",
+ "source_state": "INSERTED_BY_AMENDMENT",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "INSERTED",
+ "change_edits": 68,
+ "sha256_current": "66edd8511665a623baab6d3ec67c5c06a2102598736b5a86cfd77eb08215d77a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-gpsr-2023:8c/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall prioritise market surveillance activities for products covered by this Regulation that are listed in the implementing act referred to in Article 8a(1)."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:8c/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The market surveillance authorities of the Member States shall ensure that best efforts are made to provide assistance to other market surveillance authorities during an internal market emergency mode."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-gpsr-2023:8c",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

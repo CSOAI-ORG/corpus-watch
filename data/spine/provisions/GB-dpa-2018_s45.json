@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s45",
+ "label": "GB-dpa-2018 Section 45",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "70eee0ce0ae515ab928380d9a1e0401ed66262cac839ac40dac45b58391a8f6f",
+ "sha256_v1": "",
+ "sha256_v2": "70eee0ce0ae515ab928380d9a1e0401ed66262cac839ac40dac45b58391a8f6f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "70eee0ce0ae515ab928380d9a1e0401ed66262cac839ac40dac45b58391a8f6f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s45/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nWhere a data subject makes a request under subsection (1), the information to which the data subject is entitled must be provided in writing —\n(a)\nwithout undue delay, and\n(b)\nin any event, before the end of the applicable time period (as to which see section 54)."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s45/p0/s2",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "(5)\nWhere the rights of a data subject under subsection (1) are restricted under subsection (4), wholly or partly, the controller must inform the data subject in writing without undue delay and in any event before the end of the applicable time period (as to which see section 54)—\n(a)\nthat the rights of the data subject have been restricted,\n(b)\nof the reasons for the restriction,\n(c)\nof the data subject's right to make a request to the Commission under section 51,\n(ca)\nof the data subject’s right to make a complaint to the controller under section 164A,\n(d)\nof the data subject's right to lodge a complaint with the Commission under section 165, and\n(e)\nof the data subject's right to apply to"
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s45/p0/s3",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(7)\nThe controller must—\n(a)\nrecord the reasons for a decision to restrict (whether wholly or partly) the rights of a data subject under subsection (1) in reliance on subsection (4), and\n(b)\nif requested to do so by the Commission, make the record available to the Commission."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s45",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

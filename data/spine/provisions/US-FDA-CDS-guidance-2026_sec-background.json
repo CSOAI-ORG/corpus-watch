@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-FDA-CDS-guidance-2026:sec-background",
+ "label": "US-FDA-CDS-guidance-2026 Background",
+ "instrument": "US-FDA-CDS-guidance-2026",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "e1571d58f7768aeeb0be2a7e4f19450f3a4a8c51437ecda98474616ad4e4f8d2",
+ "sha256_v1": "",
+ "sha256_v2": "e1571d58f7768aeeb0be2a7e4f19450f3a4a8c51437ecda98474616ad4e4f8d2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 12,
+ "sha256_current": "e1571d58f7768aeeb0be2a7e4f19450f3a4a8c51437ecda98474616ad4e4f8d2",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-FDA-CDS-guidance-2026:sec-background/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-FDA-CDS-guidance-2026:sec-background",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

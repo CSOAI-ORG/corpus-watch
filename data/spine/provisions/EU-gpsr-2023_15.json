@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-gpsr-2023:15",
+ "label": "EU-gpsr-2023 Article 15",
+ "instrument": "EU-gpsr-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "79b8a06c7bd7e161aa8dfdd069174831073a83291d1c0b5b909430a1d1474e1b",
+ "sha256_v1": "",
+ "sha256_v2": "79b8a06c7bd7e161aa8dfdd069174831073a83291d1c0b5b909430a1d1474e1b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "79b8a06c7bd7e161aa8dfdd069174831073a83291d1c0b5b909430a1d1474e1b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-gpsr-2023:15/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "cooperate",
+   "status": "DRAFT",
+   "text": "Economic operators shall cooperate with market surveillance authorities regarding actions which could eliminate or mitigate risks that are presented by the products which they made available on the market."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:15/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "On request by a market surveillance authority, the economic operator shall provide all necessary information, in particular:"
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:15/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "On request, the economic operators shall also identify and communicate the following relevant traceability information for the product:"
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:15/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Economic operators shall be able to present the information referred to in paragraph 2 for a period of 10 years after they have been supplied with the product or after they have supplied the product, as applicable."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:15/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Economic operators shall be able to present the information referred to in paragraph 3 for a period of six years after they have been supplied with the product, or with a part, a component or any software embedded into the product, or after they have supplied the product, as applicable."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-gpsr-2023:15",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

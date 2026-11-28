@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-pipl-2021:45",
+ "label": "CN-pipl-2021 第四十五条",
+ "instrument": "CN-pipl-2021",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "113f5daaea2ee9c7f92a97257021e1285e5f0c71bc7bf387fec05c00b50bd0a9",
+ "sha256_v1": "",
+ "sha256_v2": "113f5daaea2ee9c7f92a97257021e1285e5f0c71bc7bf387fec05c00b50bd0a9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "113f5daaea2ee9c7f92a97257021e1285e5f0c71bc7bf387fec05c00b50bd0a9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-pipl-2021:45/s3",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "个人请求查阅、复制其个人信息的，个人信息处理者应当及时提供。"
+  },
+  {
+   "obligation_id": "CN-pipl-2021:45/s4",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "个人请求将个人信息转移至其指定的个人信息处理者，符合国家网信部门规定条件的，个人信息处理者应当提供转移的途径。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-pipl-2021:45",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

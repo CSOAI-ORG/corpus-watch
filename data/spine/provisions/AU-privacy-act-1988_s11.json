@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s11",
+ "label": "AU-privacy-act-1988 Section 11",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "5bcf2bb469c6027ea91a1bf013c3ebda2cdbbd60403eb9a7d4a7e461d0abff2c",
+ "sha256_v1": "",
+ "sha256_v2": "5bcf2bb469c6027ea91a1bf013c3ebda2cdbbd60403eb9a7d4a7e461d0abff2c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "5bcf2bb469c6027ea91a1bf013c3ebda2cdbbd60403eb9a7d4a7e461d0abff2c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s11/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "11  File number recipients\n(1)\tA person who is (whether lawfully or unlawfully) in possession or control of a record that contains tax file number information shall be regarded, for the purposes of this Act, as a file number recipient."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s11/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)\tin the course of the person’s employment in the service of or by an agency other than the Australian Federal Police; or\n(c)\tas a member, staff member or special member of the Australian Federal Police in the performance of his or her duties as such a member, staff member or special member;\nthen, for the purposes of this Act, the file number recipient in relation to that record shall be taken to be:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s11/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "(3)\tWhere a record that contains tax file number information is in the possession or under the control of a person for the purposes of the activities of, an unincorporated body, being a board, council, committee, subcommittee or other body established by or under a Commonwealth law, or a law of a State or Territory that applies in an external Territory, for the purpose of assisting, or performing functions connected with, an agency, that agency shall be treated, for the purposes of this Act, as the file number recipient in relation to that record."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s11",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

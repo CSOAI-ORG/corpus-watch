@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-12CFR1002-RegB-1977:supp1-1002.3",
+ "label": "US-12CFR1002-RegB-1977 Supplement I, Section 1002.3—Limited Exceptions for Certain Classes of Transactions",
+ "instrument": "US-12CFR1002-RegB-1977",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "d7478feddcd9523fbb23ba725c5123e3ed7fd452dbf58b087114c930773bfeac",
+ "sha256_v1": "",
+ "sha256_v2": "d7478feddcd9523fbb23ba725c5123e3ed7fd452dbf58b087114c930773bfeac",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d7478feddcd9523fbb23ba725c5123e3ed7fd452dbf58b087114c930773bfeac",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.3/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-12CFR1002-RegB-1977:supp1-1002.3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

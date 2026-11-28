@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-platform-work-2024:3",
+ "label": "EU-platform-work-2024 Article 3",
+ "instrument": "EU-platform-work-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "bcde2d9533a7cb0774e030f6a62695b6ec8aa9224a8baac25786d70b7c8f7e71",
+ "sha256_v1": "",
+ "sha256_v2": "bcde2d9533a7cb0774e030f6a62695b6ec8aa9224a8baac25786d70b7c8f7e71",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "bcde2d9533a7cb0774e030f6a62695b6ec8aa9224a8baac25786d70b7c8f7e71",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-platform-work-2024:3/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Intermediaries\nMember States shall take appropriate measures to ensure that, where a digital labour platform makes use of intermediaries, persons performing platform work who have a contractual relationship with an intermediary enjoy the same level of protection pursuant to this Directive as those who have a direct contractual relationship with a digital labour platform."
+  },
+  {
+   "obligation_id": "EU-platform-work-2024:3/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "To that end, Member States shall take measures, in accordance with national law and practice, to establish appropriate mechanisms, which shall include, where appropriate, joint and several liability systems."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-platform-work-2024:3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

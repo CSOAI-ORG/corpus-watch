@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:34",
+ "label": "EU-ccd2-2023 Article 34",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "752d5eade7d75f87e504b526f600d7d86570314f9e8f00ea548eda0ac412e872",
+ "sha256_v1": "",
+ "sha256_v2": "752d5eade7d75f87e504b526f600d7d86570314f9e8f00ea548eda0ac412e872",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "752d5eade7d75f87e504b526f600d7d86570314f9e8f00ea548eda0ac412e872",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:34/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall promote measures that support the education of consumers in relation to responsible borrowing and debt management, in particular in relation to credit agreements."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:34/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Clear and general information on the credit granting process shall be provided to consumers in order to guide them, in particular those who take out, particularly by means of digital tools, consumer credit for the first time."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:34/p1/s3",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In creating and promoting those measures, Member States shall consult relevant stakeholders, including consumer organisations."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:34/p1/s4",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall also ensure that information regarding the guidance that consumer organisations and national authorities may provide to consumers is disseminated."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:34/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall assess and publish a report on the financial education available to consumers in the Member States and identify examples of best practices which could be further developed in order to increase the financial awareness of consumers."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:34",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

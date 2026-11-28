@@ -1,0 +1,116 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB354-2026:SEC-2:791.15.",
+ "label": "US-CA-SB354-2026 SEC. 2. / 791.15.",
+ "instrument": "US-CA-SB354-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e0e4f9f70c75142436072b45d14d2acb79b6c71a9242d74986748207a8c17b68",
+ "sha256_v1": "",
+ "sha256_v2": "e0e4f9f70c75142436072b45d14d2acb79b6c71a9242d74986748207a8c17b68",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "e0e4f9f70c75142436072b45d14d2acb79b6c71a9242d74986748207a8c17b68",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.15./p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(a)Whenever the commissioner has reason to believe that a licensee, surplus line insurer, reinsurer, or third-party service provider has been or is engaged in conduct in this state that violates this article, in this state or outside this state that has an effect on a consumer residing in this state, the commissioner shall issue and serve upon the licensee, surplus line insurer, reinsurer, or third-party service provider a statement of charges and notice of hearing to be held at a time and place fixed in the notice."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.15./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The date for the hearing shall be not less than 30 days after the date of service."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.15./p0/s3",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)At the time and place fixed for the hearing, the licensee, surplus line insurer, reinsurer, or third-party service provider charged shall have an opportunity to answer the charges against it and present evidence on its behalf."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.15./p0/s4",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Upon good cause shown, the commissioner shall permit any adversely affected person to intervene, appear, and be heard at the hearing by counsel or in person."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.15./p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A stenographic record of the hearing shall be made upon the request of a party or at the discretion of the commissioner."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.15./p0/s6",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "If a stenographic record is not made and if judicial review is sought, the commissioner shall prepare a statement of the evidence for use on review."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.15./p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Hearings conducted under this section shall be governed by the same rules of evidence and procedure applicable to administrative proceedings conducted under the laws of this state."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.15./p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A copy of the statement of charges, notice, order, or other process shall be provided to the person or persons whose rights under this article have been allegedly violated."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.15./p0/s9",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A verified return setting forth the manner of service, the return postcard receipt in the case of registered mail, or signed receipt documentation, shall be sufficient proof of service."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB354-2026:SEC-2:791.15.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

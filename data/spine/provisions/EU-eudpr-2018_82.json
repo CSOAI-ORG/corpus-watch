@@ -1,0 +1,136 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:82",
+ "label": "EU-eudpr-2018 Article 82",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "43051e7812b02f8cddf88134fa489c822e0140ece82e6dbe52eab70f90ba6439",
+ "sha256_v1": "",
+ "sha256_v2": "43051e7812b02f8cddf88134fa489c822e0140ece82e6dbe52eab70f90ba6439",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "43051e7812b02f8cddf88134fa489c822e0140ece82e6dbe52eab70f90ba6439",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:82/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any data subject shall have the right to obtain from the controller without undue delay the rectification of inaccurate operational personal data relating to him or her."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:82/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Taking into account the purposes of the processing, the data subject shall have the right to have incomplete operational personal data completed, including by means of providing a supplementary statement."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:82/p2/s1",
+   "paragraph": "2",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller shall erase operational personal data without undue delay and the data subject shall have the right to obtain from the controller the erasure of operational personal data concerning him or her without undue delay where processing infringes Articles 71, 72(1) or 76, or where operational personal data must be erased in order to comply with a legal obligation to which the controller is subject."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:82/p3/s1",
+   "paragraph": "3",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Instead of erasure, the controller shall restrict processing where:"
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:82/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\nthe accuracy of the personal data is contested by the data subject and their accuracy or inaccuracy cannot be ascertained; or\n(b)\nthe personal data must be maintained for the purposes of evidence."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:82/p3/s3",
+   "paragraph": "3",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "Where processing is restricted pursuant to point (a) of the first subparagraph, the controller shall inform the data subject before lifting the restriction of processing."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:82/p3/s4",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Restricted data shall be processed only for the purpose that prevented their erasure."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:82/p4/s1",
+   "paragraph": "4",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "The controller shall inform the data subject in writing of any refusal of rectification or erasure of operational personal data or restrict processing and of the reasons for the refusal."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:82/p4/s2",
+   "paragraph": "4",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "The controller shall inform the data subject of the possibility of lodging a complaint with the European Data Protection Supervisor or seeking a judicial remedy from the Court of Justice."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:82/p5/s1",
+   "paragraph": "5",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The controller shall communicate the rectification of inaccurate operational personal data to the competent authority from which the inaccurate operational personal data originate."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:82/p6/s1",
+   "paragraph": "6",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller shall, where operational personal data has been rectified or erased or processing has been restricted pursuant to paragraphs 1, 2 or 3, notify the recipients and inform them that they have to rectify or erase the operational personal data or restrict processing of the operational personal data under their responsibility."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:82",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

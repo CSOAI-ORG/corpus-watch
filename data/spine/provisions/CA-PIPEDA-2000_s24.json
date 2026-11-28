@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CA-PIPEDA-2000:s24",
+ "label": "CA-PIPEDA-2000 Section 24",
+ "instrument": "CA-PIPEDA-2000",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "7f007acf412d3e4b44825ba2c1c386389d1ff3c2ee78f64799cb4100ccb4269b",
+ "sha256_v1": "",
+ "sha256_v2": "7f007acf412d3e4b44825ba2c1c386389d1ff3c2ee78f64799cb4100ccb4269b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CA",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "7f007acf412d3e4b44825ba2c1c386389d1ff3c2ee78f64799cb4100ccb4269b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CA-PIPEDA-2000:s24/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Promoting the purposes of the Part 24 The Commissioner shall (a) develop and conduct information programs to foster public understanding, and recognition of the purposes, of this Part;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CA-PIPEDA-2000:s24",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

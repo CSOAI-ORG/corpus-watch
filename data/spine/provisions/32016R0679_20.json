@@ -1,0 +1,59 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:20",
+ "label": "GDPR Art. 20",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5e786232a457917ce5ab7ac521d0fa2b41d2bb6d3361d6c82699cc3a298684ed",
+ "sha256_v1": "5e786232a457917ce5ab7ac521d0fa2b41d2bb6d3361d6c82699cc3a298684ed",
+ "sha256_v2": "538f17eca29be141e1113231056ec41575ae2c6fa4dfb8238eb8ff8088f6799e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "538f17eca29be141e1113231056ec41575ae2c6fa4dfb8238eb8ff8088f6799e",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:20/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The data subject shall have the right to receive the personal data concerning him or her, which he or she has provided to a controller, in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller without hindrance from the controller to which the personal data have been provided, where:"
+  },
+  {
+   "obligation_id": "32016R0679:20/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In exercising his or her right to data portability pursuant to paragraph 1, the data subject shall have the right to have the personal data transmitted directly from one controller to another, where technically feasible."
+  },
+  {
+   "obligation_id": "32016R0679:20/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The right referred to in paragraph 1 shall not adversely affect the rights and freedoms of others."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:20",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

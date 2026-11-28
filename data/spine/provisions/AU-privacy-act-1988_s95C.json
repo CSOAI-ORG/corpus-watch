@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s95C",
+ "label": "AU-privacy-act-1988 Section 95C",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3e6033e3b6daef673bd1135638d80d9a54a8a739758a63ab377461b91f0b8f92",
+ "sha256_v1": "",
+ "sha256_v2": "3e6033e3b6daef673bd1135638d80d9a54a8a739758a63ab377461b91f0b8f92",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "3e6033e3b6daef673bd1135638d80d9a54a8a739758a63ab377461b91f0b8f92",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s95C/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "95C  Disclosure of certain provisions of Commonwealth contracts\nIf a person asks a party to a Commonwealth contract to be informed of the content of provisions (if any) of the contract that are inconsistent with a registered APP code binding a party to the contract or with an Australian Privacy Principle, the party requested must inform the person in writing of that content (if any)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s95C",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

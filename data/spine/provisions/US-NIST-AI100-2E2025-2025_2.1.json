@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-NIST-AI100-2E2025-2025:2.1",
+ "label": "US-NIST-AI100-2E2025-2025 2.1",
+ "instrument": "US-NIST-AI100-2E2025-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "0dcd359f7bd9ea0eab2d91c5f823c5a09e1334e61d9fb7bede7a406b659a0b62",
+ "sha256_v1": "",
+ "sha256_v2": "0dcd359f7bd9ea0eab2d91c5f823c5a09e1334e61d9fb7bede7a406b659a0b62",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 11,
+ "sha256_current": "0dcd359f7bd9ea0eab2d91c5f823c5a09e1334e61d9fb7bede7a406b659a0b62",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-NIST-AI100-2E2025-2025:2.1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The capabilities that an adversary must leverage to achieve their objectives are shown in\nthe outer layer of the objective circles."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-NIST-AI100-2E2025-2025:2.1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

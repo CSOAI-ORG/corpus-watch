@@ -1,0 +1,39 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022R2554:61",
+ "label": "DORA Art. 61",
+ "instrument": "DORA",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "cfc64a80dee962ad7c9edc0ff10548e03b0de3860ec399dad5118efa76705433",
+ "sha256_v1": "cfc64a80dee962ad7c9edc0ff10548e03b0de3860ec399dad5118efa76705433",
+ "sha256_v2": "62949f0182ee1241d962bc62ffe3111b69f6ba2dce68f232c757828ab1d677b0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "62949f0182ee1241d962bc62ffe3111b69f6ba2dce68f232c757828ab1d677b0",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022R2554:61/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 61 amendments to",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022R2554:61",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

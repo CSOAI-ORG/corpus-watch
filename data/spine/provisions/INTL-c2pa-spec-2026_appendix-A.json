@@ -1,0 +1,2146 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-c2pa-spec-2026:appendix-A",
+ "label": "INTL-c2pa-spec-2026 Appendix A",
+ "instrument": "INTL-c2pa-spec-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "c14242d87f124f66e22627f3b0feef6f830ed5a329616a1fb699f690faff9e5c",
+ "sha256_v1": "",
+ "sha256_v2": "c14242d87f124f66e22627f3b0feef6f830ed5a329616a1fb699f690faff9e5c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "c14242d87f124f66e22627f3b0feef6f830ed5a329616a1fb699f690faff9e5c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Embedding manifests in multi-part assets\nWhen embedding a C2PA Manifest into a multi-part asset (\"multi-asset\"), there shall be a C2PA Manifest Store embedded into the primary part of the asset (which contains the active manifest), though additional parts may also contain their own C2PA Manifest Stores."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The active manifest of the primary part shall contain a multi-asset hash assertion that describes the location and hash of each part within the asset and should describe the provenance of the whole multi-part asset."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Embedding manifests into JPEG 1\nThe C2PA Manifest Store shall be embedded as the data contained in an APP11 marker segment as defined in ISO/IEC 18477-3."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Since a single marker segment in JPEG 1 cannot be larger than 64K bytes, it is likely that multiple APP11 segments will be required, and they shall be constructed as per the JPEG 1 standard and ISO 19566-5:2023, D.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When writing multiple segments, they shall be written in sequential order, and they shall be contiguous (i.e., one segment immediately following the next)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The same method described above shall also be applied to Exif compressed files(Exif, Section 3.2)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For CIPA Multi-Picture Format (MPF) assets, the C2PA Manifest Store shall be embedded as the data contained in an APP11 marker segment of the first individual image (i.e., Exif image)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Embedding manifests into PNG\nThe C2PA Manifest Store shall be embedded using an ancillary, private, not safe to copy, chunk type of 'caBX' (as per PNG, clause 5.4)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p0/s9",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The 'caBX' chunk shall precede the 'IDAT' chunks."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p0/s10",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The C2PA Manifest Store shall be embedded as the Base64-encoded value of a c2pa:manifest element in the metadata element of the SVG."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p18/s1",
+   "paragraph": "18",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When TTML is carried as a timed-text track inside a BMFF-based container (e.g., MP4 or IMF), the C2PA Manifest Store shall be embedded in the outer BMFF container as described in Section A.5, “Embedding manifests into BMFF-based assets”; the rules in this section do not apply to that case."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p18/s2",
+   "paragraph": "18",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The C2PA Manifest Store shall be embedded as the Base64-encoded value of a c2pa:manifest element that is a child of the tt:metadata element within the tt:head element of the TTML document (i.e., at the path /tt:tt/tt:head/tt:metadata/c2pa:manifest)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p18/s4",
+   "paragraph": "18",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The presence of a c2pa:manifest element within tt:metadata shall not be treated as a conformance error by a C2PA implementation, even when the asset uses a constrained TTML profile such as IMSC 1.x or EBU-TT-D."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p19/s1",
+   "paragraph": "19",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Example of a C2PA Manifest Store in a TTML document\nAn example of a C2PA Manifest Store in a TTML document (with the actual C2PA Manifest’s data left out).\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<tt:tt xml:lang=\"en\"\nxmlns:tt=\"http://www.w3.org/ns/ttml\"\nxmlns:c2pa=\"http://c2pa.org/manifest\">\n<tt:head>\n<tt:metadata>\n<c2pa:manifest>...Base64 data goes here...</c2pa:manifest>\n</tt:metadata>\n</tt:head>\n<tt:body>\n<tt:div>\n<tt:p begin=\"00:00:01.000\" end=\"00:00:04.000\">Example subtitle text.</tt:p>\n</tt:div>\n</tt:body>\n</tt:tt>\nA claim generator embedding a manifest in a standalone TTML file shall include a c2pa.hash.data assertion with a single exclusion range covering the c2pa:manifest element, re"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p19/s2",
+   "paragraph": "19",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The exclusion range shall span from the opening <c2pa:manifest> tag to the closing </c2pa:manifest> tag, inclusive."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p19/s3",
+   "paragraph": "19",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Embedding manifests into ID3\nThe C2PA Manifest Store shall be embedded into a ID3v2-compatible, compressed audio file (e.g., MP3 or FLAC) file as the Encapsulated object data of a General Encapsulated Object (GEOB) as defined in ID3."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p19/s4",
+   "paragraph": "19",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The GEOB’s MIME type field shall be present and shall use the value for the media type for JUMBF as described in Section 11.8, “External Manifests”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p19/s5",
+   "paragraph": "19",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "C2PA Manifest Store embedding\nThe C2PA Manifest Store shall be embedded as a Sequencer-Specific Meta Event (FF 7F) placed immediately before the End of Track event (FF 2F) in the designated track chunk:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p19/s6",
+   "paragraph": "19",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The data field of the FF 7F event shall begin with the 3-byte C2PA extended manufacturer identifier 0x00 0x43 0x32, immediately followed by the bytes of the C2PA Manifest Store."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p19/s7",
+   "paragraph": "19",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Only one FF 7F event with the C2PA extended manufacturer identifier (0x00 0x43 0x32) shall be present in the file."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p19/s8",
+   "paragraph": "19",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If more than one such event is encountered, the asset shall be treated as if no manifests were located."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p19/s9",
+   "paragraph": "19",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The inserted FF 7F event shall use a delta-time of 0x00."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p19/s10",
+   "paragraph": "19",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the End of Track event (FF 2F) that previously terminated the designated track had a non-zero delta-time (representing trailing silence or a defined track duration), that delta-time shall be transferred to the FF 2F event that follows the inserted manifest event, so that the total duration of the track is unchanged by manifest embedding."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p19/s11",
+   "paragraph": "19",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Locating the Manifest Store\nA validator shall locate the C2PA Manifest Store in a Standard MIDI File as follows:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p19/s12",
+   "paragraph": "19",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If no such event is found, the asset shall be treated as if no manifests were located."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p19/s13",
+   "paragraph": "19",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Data hash binding\nA claim generator embedding a manifest in a Standard MIDI File shall include a c2pa.hash.data assertion with a single exclusion range:\nstart: the byte offset within the file of the first byte of the C2PA Manifest Store (i.e., the byte immediately after the 0x00 0x43 0x32 extended manufacturer identifier within the FF 7F data field)\nlength: the byte length of the C2PA Manifest Store\nThe FF 7F status bytes, the variable-length <length> field of the FF 7F event, and the 3-byte extended manufacturer identifier are not part of the exclusion range and shall remain unchanged between write passes."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p19/s14",
+   "paragraph": "19",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The variable-length <length> field of the FF 7F event encodes the total byte length of the data field (including the 3-byte extended manufacturer identifier); its value and varint byte-length encoding shall remain unchanged between passes."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p19/s15",
+   "paragraph": "19",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Re-embedding a Manifest Store\nWhen a new C2PA Manifest Store of a different size is written into a file that already contains one, the existing FF 7F event cannot be patched in place — the designated track chunk’s 4-byte length field shall be updated to reflect the new byte layout."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p19/s16",
+   "paragraph": "19",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Because the designated track is identified structurally (the sole track for Format 0, the last track for Format 1, or the first track for Format 2) rather than by a fixed file offset, a claim generator shall:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p19/s17",
+   "paragraph": "19",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The C2PA Manifest Store shall be embedded in its own dedicated logical bitstream within the container."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p19/s18",
+   "paragraph": "19",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The C2PA Manifest Store shall be embedded into a TIFF-compatible file (i.e., Exif uncompressed file (Exif, Section 3.2), TIFF/EP, DNG or other TIFF-based RAW formats) as the data of a tag with ID 52545 (decimal) or 0xCD41 (hexadecimal), with a tag type of"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Although TIFF supports the concept of multiple pages or layers (via chaining main IFDs), there shall only be one C2PA Manifest Store for the entire asset - not one per IFD."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p7/s2",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As such, the C2PA IFD Entry shall always be located within the last IFD of the main-IFD chain in the asset."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p7/s3",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If only one single main IFD is present, the C2PA IFD Entry shall be located within that IFD or be the only entity within a new IFD following the existing single main IFD."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p7/s4",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Otherwise, the C2PA IFD Entry shall be the only entry in its IFD."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p7/s5",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The C2PA Manifest Store shall be embedded into a RIFF-compatible file (i.e., WAV, AVI or WebP) as the data of a chunk with an identifier of C2PA."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p7/s6",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For compatibility reasons, this C2PA chunk shall appear as the last sub-chunk of the first RIFF header chunk."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p7/s7",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Embedding manifests into GIFs\nThe C2PA Manifest Store shall be broken into chunks of a size no greater than 255 bytes and embedded into contiguous data sub-blocks (as per GIF, 15) within a C2PA-specialised Application Extension block (as per GIF, 26), specified below."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p7/s8",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "One\nThis block shall be embedded after the header and prior to the first image descriptor box."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p7/s9",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A JPEG XL file that uses the box structure shall contain at most one JUMBF (jumb) superbox (ISO/IEC 18181-2:2024, Clause 9.3) containing one C2PA Manifest JUMBF Box, which contains the C2PA Manifest Store as described in Section 11.5, “Serialization”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p7/s10",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The manifest store shall exist in its own top level JUMBF (jumb) and not shared with any other JUMBF boxes."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s1",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "C2PA Manifest Store embedding\nThe C2PA Manifest Store shall be embedded as the data of an extension block with the 4-byte ASCII type identifier C2PA (0x43 0x32 0x50 0x41)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s2",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Data hash binding\nThe c2pa.hash.data assertion shall reference the entire file with a single exclusion range covering the C2PA block data:\nstart: byte offset of the C2PA block data (immediately after the block’s 4-byte type and 4-byte length fields)\nlength: byte length of the C2PA block data\nA.3.13.4."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s3",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Only one C2PA block shall be present per file."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s4",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If more than one C2PA block is encountered, the asset shall be treated as if no manifests were located."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s5",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Manifest consumers shall ignore extension block types they do not recognize."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s6",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The C2PA Manifest Store shall therefore be Base64-encoded (per RFC 4648) and embedded as the value of a KeyValue entry in the key_value_metadata list of the footer’s FileMetaData, using a key of c2pa:manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s7",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Only one KeyValue entry with a key of c2pa:manifest shall be present per file."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s8",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If more than one such entry is encountered, the asset shall be treated as if no manifests were located."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s9",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Data hash binding\nA claim generator embedding a manifest in a Parquet file shall include a c2pa.hash.data assertion with a single exclusion range covering the Base64-encoded value bytes of the c2pa:manifest KeyValue entry within the serialized footer."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s10",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "C2PA Manifest Store embedding\nThe C2PA Manifest Store shall be Base64-encoded (per RFC 4648) and stored as the value of a StringStringEntryProto entry in the ModelProto.metadata_props list, using a key of c2pa:manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s11",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Only one entry with a key of c2pa:manifest shall be present per model file."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s12",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If more than one such entry is encountered, the asset shall be treated as if no manifests were located."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s13",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Data hash binding\nA claim generator embedding a manifest in an ONNX file shall include a c2pa.hash.data assertion with a single exclusion range covering the Base64-encoded value bytes of the c2pa:manifest entry within the serialized ModelProto."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s14",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Writing a Manifest Store\nTo embed a C2PA Manifest Store, a two-pass approach (as described for JPEG 1 and other formats) shall be used:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s15",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "C2PA Manifest Store embedding\nThe C2PA Manifest Store shall be Base64-encoded (per RFC 4648) and stored as the value of a c2pa:manifest key within the __metadata__ object of the SafeTensors JSON header."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s16",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Only one c2pa:manifest key shall be present in the __metadata__ object."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s17",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If more than one is encountered, the asset shall be treated as if no manifests were located."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s18",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Data hash binding\nA claim generator embedding a manifest in a SafeTensors file shall include a c2pa.hash.data assertion with a single exclusion range covering the Base64-encoded value bytes of the c2pa:manifest entry within the JSON header."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s19",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Writing a Manifest Store\nTo embed a C2PA Manifest Store, a two-pass approach (as described for JPEG 1 and other formats) shall be used:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s20",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Formats with a defined record schema that cannot accommodate an additional record, such as text/csv and text/tab-separated-values, shall not use this method."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s21",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such formats shall use an external manifest covering the complete file."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s22",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Structured text documents — source code, configuration files, Markdown, YAML, and similar formats written with comment or front-matter syntax — shall use Embedding Manifests into Structured Text instead, even when their media type is text/plain."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s23",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A file that carries checkpoints under this section shall not also carry a structured text manifest block as defined in Section A.9, “Embedding Manifests into Structured Text”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s24",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Sentinel line\nEach checkpoint shall be represented by exactly one sentinel line, appended immediately after the last line of the segment it covers, as a complete line terminated by the file’s line-ending convention."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s25",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The sentinel line shall either reference the C2PA Manifest Store by an external URI or embed it inline as a data:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s26",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A claim generator shall use one of the two forms for a given checkpoint, and a validator shall accept both."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s27",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For plain-text files, the sentinel line shall be delimited by the fixed ASCII armour-style delimiters -----BEGIN C2PA CHECKPOINT----- and -----END C2PA CHECKPOINT-----, with the manifest reference appearing between them:\n-----BEGIN C2PA CHECKPOINT----- <manifest-reference> -----END C2PA CHECKPOINT-----\nFor JSONL files, where each line is required to be a valid JSON value, the sentinel line shall instead be a complete JSON object on its own line, using a c2pa:checkpoint member:\n{\"c2pa:checkpoint\":\"<manifest-reference>\"}\nIn both forms, <manifest-reference> shall be one of:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s28",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Hard binding\nA claim generator creating a checkpoint shall include a c2pa.hash.segment assertion, which is the hard binding for the segment that checkpoint covers."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s29",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A checkpoint manifest shall not use a c2pa.hash.data assertion for this purpose."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s30",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Chain structure\nEach checkpoint manifest shall reference the immediately preceding checkpoint manifest as a parentOf ingredient."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s31",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The first checkpoint in a file has no predecessor and shall not include a parentOf ingredient for this purpose."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s32",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "External URI form\nBefore writing, the claim generator shall choose the URI at which this checkpoint’s manifest will be stored."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p12/s33",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The file shall not be modified again for the purposes of this checkpoint."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The sentinelLength field shall not be present."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The file shall not be modified again for the purposes of this checkpoint."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "General\nAll C2PA Manifest Stores shall be embedded using embedded file streams (ISO 32000, 7.11.4)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The file specification dictionary of the embedded file stream shall have an AFRelationship key (ISO 32000-2, 7.11.3) whose value is C2PA_Manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s5",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The embedded file stream dictionary (referenced by the EF key of the file specification dictionary) shall have a Subtype key whose value is application/c2pa."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s6",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a C2PA Manifest Store is embedded into an encrypted PDF, the embedded file stream shall use an Identity crypt filter (ISO 32000-2, 7.4.10)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s7",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Adding the Manifest to a PDF\nWhen adding a C2PA Manifest to the entire PDF, the document catalog dictionary shall contain an AF entry."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s8",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "One of the entries in the array value of AF shall be an indirect reference to the embedded file specification consisting of the C2PA Manifest Store containing the active manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s9",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Only that C2PA Manifest Store shall be listed there; earlier C2PA Manifest Stores may remain embedded in the PDF consistent with Special Considerations for PDF."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s10",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That embedded file specification shall also be referenced, via indirect object, either from the EmbeddedFiles name tree (ISO 32000-2, 7.7.4) or from a FileAttachment annotation (ISO 32000-2, 12.5.6.15)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s11",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The annotation approach shall be used when adding a C2PA Manifest Store to a PDF that already has an existing PDF certifying signature in order to avoid invalidating its DocMDP restrictions."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s12",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In this scenario, the C2PA Manifest Store found in the base PDF (the earliest PDF revision that contains a C2PA Manifest Store) shall be considered the initial manifest and the one in the most recent update, the active manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s13",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A C2PA Manifest Consumer shall process all C2PA Manifests in all C2PA Manifest Stores as if they were contained in a single C2PA Manifest Store."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s14",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Since the PDF signature will change the data of the PDF after the C2PA Manifest is signed, the size and location of the PDF signature dictionary’s Contents key shall be determined before C2PA signing."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s16",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The PDF signature shall be over the entire PDF, including the associated C2PA Manifest Store."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s17",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The value of the AF entry shall be an indirect reference to the embedded file specification containing the C2PA Manifest Store, embedded as described above."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s18",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When there is ambiguity about exactly which stream or dictionary may bear the AF entry, the manifest shall be attached as closely as possible to the object that actually stores the data resource described."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p20/s1",
+   "paragraph": "20",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The 'uuid' Box for C2PA\nAll BMFF-based C2PA assets, whether they are timed (e.g., videos with or without audio tracks), untimed (e.g., still photos) or mixed (e.g., live or animated photos) audiovisual media, shall use a 'uuid' box that adheres to the following syntax and semantics defined below."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p20/s2",
+   "paragraph": "20",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The valid values are as follows:\nmanifest\nThe C2PA Manifest Store\noriginal\nThe original C2PA Manifest Store when the asset has gone through an update workflow\nupdate\nThe supplementary C2PA Manifest Store containing one or more Update Manifests used when the asset has gone through an update workflow\nmerkle\nCBOR-encoded auxiliary information used to process Merkle-tree based validation\nThe first_merkle_aux_offset shall be set to the absolute file byte offset to the first ContentProvenanceBox with box_purpose set to merkle."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p20/s3",
+   "paragraph": "20",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the file contains no such boxes it shall be set to zero."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p20/s4",
+   "paragraph": "20",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A ContentProvenanceBox with box_purpose set to manifest or original shall be placed after the 'ftyp' box and positioned according to the asset’s structure:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p20/s5",
+   "paragraph": "20",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For assets with a 'moov' box\nIt shall appear either before the first 'mdat' or 'moov' box, or adjacent to the 'moov' box."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p20/s6",
+   "paragraph": "20",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For assets without a 'moov' box\nIt shall appear before the first 'mdat' box."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p20/s7",
+   "paragraph": "20",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A ContentProvenanceBox with a box_purpose of update shall be the last top-level box of the asset."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p20/s8",
+   "paragraph": "20",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a ContentProvenanceBox with a box_purpose of 'manifest' is not the last box of the asset, Update Manifests are supported by changing the box_purpose from manifest to original and the active manifest shall be stored within a new ContentProvenanceBox with a box_purpose of update."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p20/s9",
+   "paragraph": "20",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For fragmented MP4 (fMP4) files, for each initialization segment that may be present, an identical ContentProvenanceBox of type manifest shall be present for 'pull' (typical) usage; the C2PA Manifest Store shall be identical."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p20/s10",
+   "paragraph": "20",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For fragmented MP4 (fMP4) streams that are live media transmissions in a 'push' streaming scenario (e.g., over-the-air broadcast television without a pull mechanism), the manifest box need not be included in every initialization segment broadcast, but it shall be included in no fewer than one in every 10 initialization segments."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The portion of the manifest containing the BMFF Hash shall include the merkle field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Non-fragmented asset that can be validated piecewise\nIf the manifest contains a non-leaf row of the merkle tree, two or more ContentProvenanceBox with box_purpose set to 'merkle' as described below shall be included in the file."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If they exist, they shall follow the last 'mdat' box in the file."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The hash used for a given leaf node in the merkle tree shall be computed from the subset of payload of the 'mdat'."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s5",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The 'mdat' is divided into sizes defined by 'fixedBlockSize' or the array of 'variableBlockSizes' found in the merkle-map, and sum of the 'variableBlockSizes' shall be equal to size of the 'mdat' payload."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s6",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "All such ContentProvenanceBox boxes shall meet the following requirements."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s7",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "They shall be in the same sequence as the subsets they hash as specified by the 'variableBlockSizes' field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s8",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "They shall be grouped such that a single merkle tree’s ContentProvenanceBox boxes are sequential with no intervening boxes."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s9",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The location value in the first box shall be set to 0, in the second box shall be set to 1, and shall increase sequentially thereafter."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s10",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "One ContentProvenanceBox box with box_purpose set to 'merkle' as described below shall be included in each fragment file immediately preceding the 'moof' box."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s11",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The hash used for a given leaf node in the Merkle tree shall be over all data in its containing single fragment file except data excluded by the exclusion list."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s12",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "One ContentProvenanceBox box with box_purpose set to 'merkle' as described below shall be included immediately preceding each 'moof' box."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s13",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The hash used for a given leaf node in the Merkle tree shall be over that 'moof' box plus all data preceding the next 'moof' box or over all data through the end of the file if there is no further 'moof' box."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s14",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The hash shall not cover data excluded by the exclusion list."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s15",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If both forms are desirable, the second form shall consider the first form as an ingredient and the new manifest shall include both an ingredient assertion with relationship parentOf and an actions assertion that includes an action of type c2pa.repackaged."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s16",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Box containing the merkle auxiliary\nRegardless of how the asset is structured, the fields in the corresponding box described above shall be set as follows.\nbox_purpose\nFor an auxiliary 'uuid' C2PA box, this value shall be merkle.\ndata\nWhen box_purpose is merkle, this value shall contain raw CBOR bytes indicating how to validate a portion of the asset as defined as follows."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s17",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If there are multiple auxiliary 'uuid' C2PA boxes with box_purpose merkle for a given Merkle tree in a single file, each shall be followed by sufficient padding bytes (zero or more) to make all auxiliary 'uuid' C2PA boxes for that Merkle tree a fixed size."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s18",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The\n; algorithm used is determined using the `alg` field from the corresponding\n; entry in the `merkle` field array in the BMFF hash structure.\n? \"hashes\": [1* bstr],\n}\nAn example in CBOR diagnostic notation (RFC 8949, clause 8) is shown below:\n{\n\"hashes\": [\nb64'TWVub3JhaA=='\n],\n\"localId\": 4402,\n\"location\": 2203,\n\"uniqueId\": 1339\n}\nFor non-fragmented asset, the localId field in the bmff-merkle-map shall indicate the 'mdat' box."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s19",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For fragmented asset, the localId field in the bmff-merkle-map shall be set to the track_id field of the 'tkhd' box pertaining to the 'mdat' being hashed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s20",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As a result, such a server shall either hash said streams and create a C2PA Manifest each time the content is consumed or, if generation is deterministic, create and cache the hashes and C2PA Manifests once and then embed them at consumption time."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s21",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Exclusion List Requirements\nFor all c2pa.hash.bmff.v2 (deprecated) and c2pa.hash.bmff.v3 assertions, the entries in Example 20, “Always excluded boxes” shall always appear on the exclusion list."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p1/s22",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The entire 'uuid' C2PA box shall be excluded."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p20/s1",
+   "paragraph": "20",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Always excluded boxes\nxpath = \"/uuid\"\ndata = [ { offset = 8, data = b64'2P7D1hsOSDySl1goh37EgQ==' } ]\nThe entire 'mfra' box shall be excluded."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p20/s2",
+   "paragraph": "20",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For all c2pa.hash.bmff.v2 (deprecated) and c2pa.hash.bmff.v3 assertions where the bmff-hash-map includes both the hash field and merkle fields, the entry in Example 21, “Additional always excluded boxes” shall appear on the exclusion list."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p21/s1",
+   "paragraph": "21",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As indicated in the CDDL Definition above, a relative byte offset or relative byte offset plus length that exceeds the length of the box is permitted; bytes beyond the end of the box shall never bed hashed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p21/s2",
+   "paragraph": "21",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Timed-media streams that are neither audio nor video\nTimed-media streams that are neither audio nor video, such as text streams for captions, that the claim generator wishes to make tamper evident shall be handled the same way as audio and video streams."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p21/s3",
+   "paragraph": "21",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "External references\nExternally referenced content declared inside BMFF boxes, such as in a 'dref', 'url', or 'urn' box, that the claim generator wishes to make tamper evident shall not exclude the referencing box and shall include a separate cloud data assertion for each external reference to be hashed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p21/s4",
+   "paragraph": "21",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Hashing the Entries\nA ZIP-based file format shall be hashed using a collection data hash, where each entry contained in the ZIP (except the C2PA Manifest itself) shall be included."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p21/s5",
+   "paragraph": "21",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The hash algorithm used shall be specified in the alg field of the collection data hash structure."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p21/s6",
+   "paragraph": "21",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In order to prevent tampering with the ZIP Central Directory, such as adding new entries or modifying information about the existing entries, each \"central directory header\" in the ZIP Central Directory as well as the \"end of central directory record\" shall be hashed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p21/s7",
+   "paragraph": "21",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The hash shall be computed by sequentially processing each \"central directory header\" in its entirety, except for the one that contains the C2PA Manifest Store file, where its crc-32 field shall be skipped."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p21/s8",
+   "paragraph": "21",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Following the processing of the \"central directory headers\", the hash shall also include the entire \"end of central directory record\"."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p21/s9",
+   "paragraph": "21",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The resultant hash value shall be stored in the zip_central_directory_hash field of the collection data hash structure."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p21/s10",
+   "paragraph": "21",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "URN rather than by path (e.g., WARC-Record-ID in WARC files), per RFC 8141.\nrelative-url-type /= tstr .regexp \"urn:[a-zA-Z0-9][a-zA-Z0-9-]{0,30}[a-zA-Z0-9]:[a-zA-Z0-9()+,\\\\-./:=@;$_!*'&~%#]+\"\nBecause the ZIP file needs to be completed prior to the completion of the C2PA Manifest, a two pass approach (as described for JPEG 1, BMFF and PDF) shall be used."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p21/s11",
+   "paragraph": "21",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When creating the content_credential.c2pa file in the ZIP archive, it shall be stored (compression method 0) and not encrypted."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p21/s12",
+   "paragraph": "21",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Its general purpose bit flag shall be set to"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Placement of the Manifest Store\nThe C2PA Manifest Store shall be stored in the META-INF directory of the ZIP archive with a filename of content_credential.c2pa and a media type as recommended for external manifests."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The file shall be stored (compression method 0) and not encrypted."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "A claim generator embedding a C2PA Manifest Store in such a package shall ensure that [Content_Types].xml declares the media type application/c2pa for the C2PA Manifest Store, either with a Default element for the c2pa extension or with an Override element for the part name /META-INF/content_credential.c2pa."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Because [Content_Types].xml is an entry covered by the collection data hash, the claim generator shall make this change before computing the collection data hash."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As such, EPUB native signing shall take place before the introduction of the C2PA Manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As such, OOXML native signing shall take place before the introduction of the C2PA Manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "There shall be at most one C2PA Manifest Store association per HTML document."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Both methods place their element in the head, so the head element shall not contain more than one script element with type=\"application/c2pa\", and shall not contain both a script element and a link element referencing a C2PA Manifest Store."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p0/s9",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A matching element outside the head does not form an association and shall be ignored."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p0/s10",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a validator encounters multiple C2PA manifest elements in the head, the asset shall be treated as if no manifests were located."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p0/s11",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Embedded (inline) manifests\nWhen embedding the C2PA Manifest Store into the HTML document, it shall be embedded as the Base64-encoded (per RFC 4648, Section 4) content of a script element with type=\"application/c2pa\" placed in the head of the HTML document."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p0/s12",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When performing validation, the validator shall strip leading and trailing whitespace from the script element’s text content before Base64 decoding."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p22/s1",
+   "paragraph": "22",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "External (referenced) manifests\nWhen referencing the C2PA Manifest Store, a link element with an attribute of rel=\"c2pa-manifest\", placed in the head of the HTML document, shall be used to reference an external C2PA Manifest Store via its href attribute."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p22/s2",
+   "paragraph": "22",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The type=\"application/c2pa\" attribute should be included but is not required for discovery; the validator shall match on the rel attribute alone."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p22/s3",
+   "paragraph": "22",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The external manifest store shall contain a content binding as specified in Hard Binding."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p23/s1",
+   "paragraph": "23",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Hard Binding\nA claim generator embedding a C2PA Manifest Store in an HTML document shall include a c2pa.hash.data assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p23/s2",
+   "paragraph": "23",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For an embedded script element, the data hash assertion shall include a single exclusion range covering the entire element from the opening <script tag through the closing </script> tag, inclusive."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p23/s3",
+   "paragraph": "23",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The hash shall be computed over the document content with the exclusion range removed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p23/s4",
+   "paragraph": "23",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The data hash assertion shall have no exclusion range; the hash shall be computed over the entire document."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p23/s5",
+   "paragraph": "23",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Validator Behaviour\nA validator encountering an HTML document (text/html) shall perform the following steps:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p23/s6",
+   "paragraph": "23",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Treating the file as a series of bytes (vs. text), the validator shall parse the head element, searching for a script element with type=\"application/c2pa\" or a link element with rel=\"c2pa-manifest\"."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p23/s7",
+   "paragraph": "23",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If multiple matching elements are found, the document shall be treated as if no manifests were located."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p23/s8",
+   "paragraph": "23",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Once a C2PA Manifest Store is obtained, the validator shall validate it as per the normal validation process described in Locating and Validating the Claim."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p23/s9",
+   "paragraph": "23",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The C2PATextManifestWrapper Structure\nAll unstructured text assets that wish to embed a Content Credential shall do so using Unicode variation selectors that adhere to the following syntax and semantics defined below."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p23/s10",
+   "paragraph": "23",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "These bytes carry no semantic meaning and shall be ignored during decoding."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p23/s11",
+   "paragraph": "23",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Byte-to-Variation-Selector Conversion\nEach byte of the wrapped manifest shall be converted to a Unicode variation selector using the following algorithm:\nfunction byteToVariationSelector(byte b) {\nif (b >= 0 && b <= 15) {\nreturn U+FE00 + b;\n} else if (b >= 16 && b <= 255) {\nreturn U+E0100 + (b - 16);\n}\n}\nA.8.3.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p13/s1",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Placement Rules\nThe C2PATextManifestWrapper shall be embedded according to the following rules:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p13/s2",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The wrapper shall be embedded as a single, contiguous block of variation selectors."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p13/s3",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The wrapper shall be immediately preceded by a single Zero-Width No-Break Space (U+FEFF), which marks the start of the wrapper for detection (see Section A.8.4.2, “Detection Algorithm”)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p13/s4",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The wrapper shall not be split across multiple locations in the text."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p13/s5",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A validator that finds more than one valid C2PATextManifestWrapper shall treat the asset as if no manifests were located."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p13/s6",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The wrapper shall follow the rules above to maximize compatibility with parsers and detection tools."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p13/s7",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Detection Algorithm\nA validator processing a text asset shall use the following method to identify the C2PATextManifestWrapper:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p13/s8",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the magic number does not match, or the structure cannot be fully decoded and parsed, the candidate is not a valid wrapper and shall be ignored."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p13/s9",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Because the c2pa.hash.data exclusion must specify the wrapper’s byte range, and the hash value influences the manifest bytes, a circular dependency exists between the exclusion length and the wrapper byte length."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Validating a data hash\nTo validate a c2pa.hash.data assertion against unstructured text, a validator shall perform the standard checks for a data hash, with the following considerations:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The exclusions field in the assertion shall correspond to the location of the C2PATextManifestWrapper in the text."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The hash shall be computed by first removing the bytes specified by the exclusions field, then normalizing the remaining text to NFC and encoding it as UTF-8, as specified in Section 14.12.1.3.1, “Validating a text data hash”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s4",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The result shall match the hash value in the assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s5",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Normalization\nBoth producers and consumers shall normalize text to Unicode Normalization Form C (NFC) before calculating hashes (see UAX #15)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s6",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Implementations shall be careful to:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s7",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The following XML-based media types are excluded because they have their own embedding methods:\nimage/svg+xml — see Section A.3.3, “Embedding manifests into SVG”\napplication/ttml+xml — see Section A.3.4, “Embedding manifests into TTML”\nThe structured text method shall not be used for binary formats or formats without either a comment syntax or front matter convention (e.g., text/csv)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s8",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Files that are written only by appending complete lines to the end of the file, and whose earlier bytes are never rewritten — application logs, event logs and JSONL streams — shall not use this method."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s9",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Manifest Block Format\nWhere a file already contains a front matter section, the C2PA Manifest block shall appear inside it."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s10",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For formats without front matter, or for files that lack a front matter section, the manifest block shall be expressed as a single comment line where the format supports comments."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s11",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A claim generator shall not introduce a front matter section into a file that does not have one."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s12",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "There shall be at most one manifest block per structured text file processed under this section."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s13",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a validator detects more than one, the asset shall be treated as if no manifests were located."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s14",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When the first line of the file is reserved by the host format (e.g., a shebang line #!/…​ in scripts, or an XML declaration <?xml …​?> in XML documents), the manifest block shall be placed at the end of the file so that the -----END C2PA MANIFEST----- delimiter appears on the last line."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s15",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Front matter is more reliably preserved by format-specific toolchains than comments.\n---\n-----BEGIN C2PA MANIFEST-----\n<manifest-reference>\n-----END C2PA MANIFEST-----\n---\nThe delimiters shall each appear on their own line within the front matter."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s16",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Atom (Referenced)\nFor Atom feeds, as defined in RFC 4287, the manifest block is embedded as an XML comment placed immediately after the XML declaration and before the root feed element.\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<!-- -----BEGIN C2PA MANIFEST----- https://fabrikam.com/manifests/a1b2c3.c2pa -----END C2PA MANIFEST----- -->\n<feed xmlns=\"http://www.w3.org/2005/Atom\">\n<title>Example Feed</title>\n...\n</feed>\nFor XML-based formats that begin with an XML declaration (<?xml …​?>), the manifest block shall be placed immediately after the XML declaration on a separate line, before the root element."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s17",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The XML declaration shall be the first line of the file as required by the XML specification."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s18",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Manifest Blocks\nA claim generator embedding a manifest block in a structured text file shall include a c2pa.hash.data assertion with a single exclusion range covering the entire manifest block."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s19",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Files shall be read in binary mode to preserve the exact byte representation of line terminators."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s20",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Line terminators shall be either LF (0x0A) or CRLF (0x0D 0x0A)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s21",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such files shall be converted to LF or CRLF before embedding."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s22",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A claim generator shall not alter the line ending convention of the file content outside the manifest block."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s23",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Placement of the Manifest Store\nThe C2PA Manifest Store shall be stored as the block of a WARC record of a dedicated record type with the following header fields:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s24",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "WARC-Type: c2pa-provenance\nContent-Type: application/c2pa\nWARC-Date: the time at which the manifest was created\nContent-Length: the byte length of the C2PA Manifest Store\nThe remaining required and optional header fields (including WARC-Record-ID) shall conform to ISO 28500:2017."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s25",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The C2PA manifest record shall not carry a WARC-Target-URI."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s26",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Validators shall identify the C2PA manifest record by its WARC-Type value of c2pa-provenance together with its Content-Type value of application/c2pa."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s27",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "If a future revision of the WARC specification defines a record type for provenance, that type shall be used, and the value c2pa-provenance retained only for archives written under this provisional definition.\n\"C2PA manifest record\" throughout this section means the WARC record carrying the C2PA Manifest Store, and is distinct from any manifest or index that a WARC toolchain maintains for the archive itself."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s28",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "The C2PA manifest record shall be the last record in the WARC file, appended after all other records."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s29",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A WARC file shall contain at most one C2PA manifest record."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s30",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "To update the C2PA Manifest Store, a claim generator shall remove the existing C2PA manifest record, if present, and append the replacement as the new last record."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s31",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Hashing\nA WARC file shall be hashed using a collection data hash."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s32",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Every WARC record in the file other than the C2PA manifest record shall be included as a member of the collection."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s33",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The hash algorithm used shall be specified in the alg field of the collection data hash structure."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s34",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "The hash of each record shall be computed over the uncompressed bytes of that record, from the first byte of the version line through and including the two CRLF sequences that terminate the record, as defined by the warc-record production in ISO 28500:2017."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s35",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Where a record is stored compressed, it shall be decompressed before its hash is computed, so that the hash depends only on the record’s uncompressed content and not on its stored form."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s37",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "The uri field of each entry in the collection data hash shall be the value of the corresponding record’s WARC-Record-ID header field, without the enclosing angle brackets."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s38",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Validators shall match collection hash entries to WARC records by comparing the uri field to each record’s WARC-Record-ID."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s39",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "A claim generator shall verify that the WARC-Record-ID values of the records included in the collection are unique, and shall treat a duplicate as an error, since the uri field would otherwise not identify a single record."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s40",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Continuation records (segments of a record split across multiple WARC records) shall each be hashed as individual records."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-A/p3/s41",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "A claim generator producing a combined WARC file shall remove any pre-existing C2PA manifest records from constituent files and append a new C2PA manifest record covering all other records in the resulting file."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-c2pa-spec-2026:appendix-A",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

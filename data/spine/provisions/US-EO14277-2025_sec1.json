@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14277-2025:sec1",
+ "label": "US-EO14277-2025 Section 1",
+ "instrument": "US-EO14277-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3cc7a4c3deb369f787a4d42f102bf7ff08f87ab7ff7df6133cf1ff7fb313a926",
+ "sha256_v1": "",
+ "sha256_v2": "3cc7a4c3deb369f787a4d42f102bf7ff08f87ab7ff7df6133cf1ff7fb313a926",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "3cc7a4c3deb369f787a4d42f102bf7ff08f87ab7ff7df6133cf1ff7fb313a926",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14277-2025:sec1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "To ensure the United States remains a global leader in this technological revolution, we must provide our Nation's youth with opportunities to cultivate the skills and understanding necessary to use and create the next generation of AI technology."
+  },
+  {
+   "obligation_id": "US-EO14277-2025:sec1/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "To achieve this vision, we must also invest in our educators and equip them with the tools and knowledge to not only train students about AI, but also to utilize AI in their classrooms to improve educational outcomes."
+  },
+  {
+   "obligation_id": "US-EO14277-2025:sec1/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "While AI education in kindergarten through twelfth grade (K-12) is critical, our Nation must also make resources available for lifelong learners to develop new skills for a changing workforce."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14277-2025:sec1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

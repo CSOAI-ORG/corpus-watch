@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-ai-basic-act-enforcement-decree-2026:25",
+ "label": "KR-ai-basic-act-enforcement-decree-2026 제25조",
+ "instrument": "KR-ai-basic-act-enforcement-decree-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "14d19e031bdb3fe58938236954ed0302ee0ba8d4e3c7fe11b10d1e070c9f1980",
+ "sha256_v1": "",
+ "sha256_v2": "14d19e031bdb3fe58938236954ed0302ee0ba8d4e3c7fe11b10d1e070c9f1980",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "14d19e031bdb3fe58938236954ed0302ee0ba8d4e3c7fe11b10d1e070c9f1980",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:25/s1",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ko:internal-record",
+   "status": "DRAFT",
+   "text": "제25조(고영향 인공지능의 확인 절차 등) ① 인공지능사업자가 법 제33조제1항에 따라 고영향 인공지능에 해당하는지에 대하여 확인을 요청하려는 경우에는 별지 서식의 고영향 인공지능 확인 요청서에 다음 각 호의 서류를 첨부하여 과학기술정보통신부장관에게 제출해야 한다."
+  },
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:25/s6",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "② 제1항에 따른 요청을 받은 과학기술정보통신부장관은 다음 각 호의 사항을 고려하여 고영향 인공지능 해당 여부를 판단해야 한다."
+  },
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:25/s12",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "③ 과학기술정보통신부장관은 제1항에 따른 요청을 받은 경우에는 요청을 받은 날부터 30일 이내에 그 결과를 회신해야 한다."
+  },
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:25/s14",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ko:internal-record",
+   "status": "DRAFT",
+   "text": "④ 제3항에 따라 회신을 받은 인공지능사업자는 회신 결과에 이의가 있을 때에는 회신을 받은 날부터 10일 이내에 과학기술정보통신부장관에게 별지 서식의 고영향 인공지능 재확인 요청서에 다음 각 호의 서류를 첨부하여 과학기술정보통신부장관에게 제출해야 한다."
+  },
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:25/s17",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "⑤ 제4항에 따른 재확인 요청을 받은 과학기술정보통신부장관은 전문위원회의 자문을 받아 고영향 인공지능에 해당하는지를 재확인하고, 재확인 요청을 받은 날부터 30일 이내에 그 결과를 회신해야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-ai-basic-act-enforcement-decree-2026:25",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

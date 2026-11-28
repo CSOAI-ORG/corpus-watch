@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "ES-ai-sandbox-rd-817-2023:19",
+ "label": "ES-ai-sandbox-rd-817-2023 Artículo 19",
+ "instrument": "ES-ai-sandbox-rd-817-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5d7da547289a3b0a5504776a65db3f9d7ddd215e5bae7a34c8b25f0a8bff67ec",
+ "sha256_v1": "",
+ "sha256_v2": "5d7da547289a3b0a5504776a65db3f9d7ddd215e5bae7a34c8b25f0a8bff67ec",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "ES",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "5d7da547289a3b0a5504776a65db3f9d7ddd215e5bae7a34c8b25f0a8bff67ec",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:19/s2",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Si durante la ejecución del entorno controlado de pruebas se producen cambios sustanciales en el sistema de inteligencia artificial del proveedor IA participante en aspectos evaluados en la participación en el entorno, o respecto a la titularidad de la sociedad deberán comunicarse previamente a la Secretaría de Estado de Digitalización e Inteligencia Artificial quien decidirá si el proveedor IA participante continúa o no en el entorno y en qué condiciones.\n2."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=ES-ai-sandbox-rd-817-2023:19",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

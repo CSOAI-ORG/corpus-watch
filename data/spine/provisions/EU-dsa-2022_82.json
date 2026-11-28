@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:82",
+ "label": "EU-dsa-2022 Article 82",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "c2855033a1ae04d5ddb93a3e95d1a18476cdf0a56cff6bfcb990502020acc271",
+ "sha256_v1": "",
+ "sha256_v2": "c2855033a1ae04d5ddb93a3e95d1a18476cdf0a56cff6bfcb990502020acc271",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "c2855033a1ae04d5ddb93a3e95d1a18476cdf0a56cff6bfcb990502020acc271",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:82/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Prior to making such request to the Digital Services Coordinator, the Commission shall invite interested parties to submit written observations within a period that shall not be less than 14 working days, describing the measures it intends to request and identifying the intended addressee or addressees thereof."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:82/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When a national court rules on a matter which is already the subject matter of a decision adopted by the Commission under this Regulation, that national court shall not take any decision which runs counter to that Commission decision."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:82/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "National courts shall also avoid taking decisions which could conflict with a decision contemplated by the Commission in proceedings it has initiated under this Regulation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:82",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

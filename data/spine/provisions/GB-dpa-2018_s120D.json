@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s120D",
+ "label": "GB-dpa-2018 Section 120D",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "260d0196348faa10d8ed7b338de49cc9079e797debf923769fc5e0d7da451176",
+ "sha256_v1": "",
+ "sha256_v2": "260d0196348faa10d8ed7b338de49cc9079e797debf923769fc5e0d7da451176",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "260d0196348faa10d8ed7b338de49cc9079e797debf923769fc5e0d7da451176",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s120D/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Duty to consult other regulators\n(1)\nThe Commission must, at such times as the Commission considers appropriate, consult the persons mentioned in subsection (2) about how the manner in which the Commission exercises functions under the data protection legislation may affect economic growth, innovation and competition."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s120D",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

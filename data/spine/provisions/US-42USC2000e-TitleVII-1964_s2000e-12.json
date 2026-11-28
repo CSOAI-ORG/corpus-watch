@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-42USC2000e-TitleVII-1964:s2000e-12",
+ "label": "US-42USC2000e-TitleVII-1964 42 U.S.C. 2000e-12",
+ "instrument": "US-42USC2000e-TitleVII-1964",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "3a10011fd13399c90e8a9bb5675b7106a3d77f8085d6bf0af81dbbd017a3fc47",
+ "sha256_v1": "",
+ "sha256_v2": "3a10011fd13399c90e8a9bb5675b7106a3d77f8085d6bf0af81dbbd017a3fc47",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "3a10011fd13399c90e8a9bb5675b7106a3d77f8085d6bf0af81dbbd017a3fc47",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-42USC2000e-TitleVII-1964:s2000e-12/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Regulations; conformity of regulations with administrative procedure provisions; reliance on interpretations and instructions of Commission\n(a) The Commission shall have authority from time to time to issue, amend, or rescind suitable procedural regulations to carry out the provisions of this subchapter."
+  },
+  {
+   "obligation_id": "US-42USC2000e-TitleVII-1964:s2000e-12/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Regulations issued under this section shall be in conformity with the standards and limitations of subchapter II of chapter 5 of title 5."
+  },
+  {
+   "obligation_id": "US-42USC2000e-TitleVII-1964:s2000e-12/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(b) In any action or proceeding based on any alleged unlawful employment practice, no person shall be subject to any liability or punishment for or on account of (1) the commission by such person of an unlawful employment practice if he pleads and proves that the act or omission complained of was in good faith, in conformity with, and in reliance on any written interpretation or opinion of the Commission, or (2) the failure of such person to publish and file any information required by any provision of this subchapter if he pleads and proves that he failed to publish and file such information in good faith, in conformity with the instructions of the Commission issued under this subchapter re"
+  },
+  {
+   "obligation_id": "US-42USC2000e-TitleVII-1964:s2000e-12/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such a defense, if established, shall be a bar to the action or proceeding, notwithstanding that (A) after such act or omission, such interpretation or opinion is modified or rescinded or is determined by judicial authority to be invalid or of no legal effect, or (B) after publishing or filing the description and annual reports, such publication or filing is determined by judicial authority not to be in conformity with the requirements of this subchapter."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-42USC2000e-TitleVII-1964:s2000e-12",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

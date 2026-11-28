@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-data-act-2023:39",
+ "label": "EU-data-act-2023 Article 39",
+ "instrument": "EU-data-act-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "58e2aefa55064aadb104deb5a0ec0e86fbd6f4bda96968f739360b4d3df095f9",
+ "sha256_v1": "",
+ "sha256_v2": "58e2aefa55064aadb104deb5a0ec0e86fbd6f4bda96968f739360b4d3df095f9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "58e2aefa55064aadb104deb5a0ec0e86fbd6f4bda96968f739360b4d3df095f9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-data-act-2023:39/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Notwithstanding any administrative or other non-judicial remedy, any affected natural and legal person shall have the right to an effective judicial remedy with regard to legally binding decisions taken by competent authorities."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:39/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a competent authority fails to act on a complaint, any affected natural and legal person shall, in accordance with national law, either have the right to an effective judicial remedy or access to review by an impartial body with the appropriate expertise."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:39/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Proceedings pursuant to this Article shall be brought before the courts or tribunals of the Member State of the competent authority against which the judicial remedy is sought individually or, where relevant, collectively by the representatives of one or more natural or legal persons."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-data-act-2023:39",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:47",
+ "label": "EU-eudpr-2018 Article 47",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5b2ab3e16dce88911483f46b9f12b2ab82f9c97cd4432dff8724656b5dc78dc8",
+ "sha256_v1": "",
+ "sha256_v2": "5b2ab3e16dce88911483f46b9f12b2ab82f9c97cd4432dff8724656b5dc78dc8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "5b2ab3e16dce88911483f46b9f12b2ab82f9c97cd4432dff8724656b5dc78dc8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:47/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Union institutions and bodies shall inform the Commission and the European Data Protection Supervisor of cases where they consider that a third country, a territory or one or more specified sectors within a third country, or an international organisation in question does not ensure an adequate level of protection within the meaning of paragraph 1."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:47/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Union institutions and bodies shall take the necessary measures to comply with decisions taken by the Commission where it establishes, pursuant to Article 45(3) or (5) of Regulation (EU) 2016/679 or to Article 36(3) or (5) of Directive (EU) 2016/680, that a third country, a territory or one or more specified sectors within a third country, or an international organisation ensures or no longer ensures an adequate level of protection."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:47",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

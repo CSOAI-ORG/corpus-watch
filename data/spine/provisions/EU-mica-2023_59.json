@@ -1,0 +1,136 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:59",
+ "label": "EU-mica-2023 Article 59",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "522d9eb3e814fe7c362104084ca891f4589b60b0282456e377f594f1ff6dac50",
+ "sha256_v1": "",
+ "sha256_v2": "522d9eb3e814fe7c362104084ca891f4589b60b0282456e377f594f1ff6dac50",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "522d9eb3e814fe7c362104084ca891f4589b60b0282456e377f594f1ff6dac50",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:59/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A person shall not provide crypto-asset services, within the Union, unless that person is:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:59/p2/s1",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers authorised in accordance with Article 63 shall have a registered office in a Member State where they carry out at least part of their crypto-asset services."
+  },
+  {
+   "obligation_id": "EU-mica-2023:59/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "They shall have their place of effective management in the Union and at least one of the directors shall be resident in the Union."
+  },
+  {
+   "obligation_id": "EU-mica-2023:59/p3/s1",
+   "paragraph": "3",
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the purposes of paragraph 1, point (a), other undertakings that are not legal persons shall only provide crypto-asset services if their legal form ensures a level of protection for third parties’ interests equivalent to that afforded by legal persons and if they are subject to equivalent prudential supervision appropriate to their legal form."
+  },
+  {
+   "obligation_id": "EU-mica-2023:59/p4/s1",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers authorised in accordance with Article 63 shall at all times meet the conditions for their authorisation."
+  },
+  {
+   "obligation_id": "EU-mica-2023:59/p5/s1",
+   "paragraph": "5",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A person who is not a crypto-asset service provider shall not use a name, or a corporate name, or issue marketing communications or undertake any other process suggesting that it is a crypto-asset service provider or that is likely to create confusion in that respect."
+  },
+  {
+   "obligation_id": "EU-mica-2023:59/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Competent authorities that grant authorisations in accordance with Article 63 shall ensure that such authorisations specify the crypto-asset services that crypto-asset service providers are authorised to provide."
+  },
+  {
+   "obligation_id": "EU-mica-2023:59/p7/s1",
+   "paragraph": "7",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers shall be allowed to provide crypto-asset services throughout the Union, either through the right of establishment, including through a branch, or through the freedom to provide services."
+  },
+  {
+   "obligation_id": "EU-mica-2023:59/p7/s2",
+   "paragraph": "7",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers that provide crypto-asset services on a cross-border basis shall not be required to have a physical presence in the territory of a host Member State."
+  },
+  {
+   "obligation_id": "EU-mica-2023:59/p8/s1",
+   "paragraph": "8",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers seeking to add crypto-asset services to their authorisation as referred to in Article 63 shall request the competent authorities that granted their initial authorisation for an extension of their authorisation by complementing and updating the information referred to in Article"
+  },
+  {
+   "obligation_id": "EU-mica-2023:59/p62/s1",
+   "paragraph": "62",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The request for extension shall be processed in accordance with Article 63."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:59",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

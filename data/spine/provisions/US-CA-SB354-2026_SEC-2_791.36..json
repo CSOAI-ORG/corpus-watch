@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB354-2026:SEC-2:791.36.",
+ "label": "US-CA-SB354-2026 SEC. 2. / 791.36.",
+ "instrument": "US-CA-SB354-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e6cf0b995715dbef247a10cc2cd75775a8f5b47acf2146c41de05d5e45a65cb3",
+ "sha256_v1": "",
+ "sha256_v2": "e6cf0b995715dbef247a10cc2cd75775a8f5b47acf2146c41de05d5e45a65cb3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "e6cf0b995715dbef247a10cc2cd75775a8f5b47acf2146c41de05d5e45a65cb3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.36./p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(a)Any documents, materials, data, or information in the control or possession of the commissioner that are furnished by a licensee, surplus line insurer, reinsurer, or third-party service provider, or an employee or agent thereof acting on behalf of the licensee, surplus line insurer, reinsurer, or third-party service provider, pursuant to this article, or that are obtained by the commissioner in any investigation, or an examination pursuant to this article shall be confidential by law and privileged, shall not be subject to the California Public Records Act (Division 10 (commencing with Section 7920.000) of Title 1 of the Government Code), shall not be subject to subpoena, and shall not be"
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.36./p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(b)The commissioner or a person who receives documents, data, materials, or information while acting pursuant to the authority of the commissioner shall not be permitted or required to testify in a private civil action concerning confidential documents, materials, or information subject to this article."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.36./p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)May receive documents, data, materials, or information, including otherwise confidential and privileged documents, data, materials, or information, from the National Association of Insurance Commissioners, its affiliates, or subsidiaries and from regulatory and law enforcement officials of other foreign or domestic jurisdictions, and shall maintain as confidential or privileged the documents, data, materials, or information received with notice or the understanding that it is confidential or privileged pursuant to the laws of the jurisdiction that is the source of the documents, data, materials, or information."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.36./p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)Shall enter into a written agreement with a third-party consultant or vendor governing sharing and use of documents, data, materials, or information provided pursuant to this article, consistent with this subdivision that shall do all of the following:"
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.36./p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d)A waiver of any applicable privilege or claim of confidentiality in the documents, data, materials, or information shall not occur due to disclosure to the commissioner pursuant to this section or due to sharing as authorized in this article."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB354-2026:SEC-2:791.36.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

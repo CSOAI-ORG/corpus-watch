@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-AIActionPlan-2025:PII-08",
+ "label": "US-AIActionPlan-2025 Promote Mature Federal Capacity for AI Incident Response",
+ "instrument": "US-AIActionPlan-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f7380292af085420673323e655087a0eeacf1a62d1bbd86226d4730a5f9779be",
+ "sha256_v1": "",
+ "sha256_v2": "f7380292af085420673323e655087a0eeacf1a62d1bbd86226d4730a5f9779be",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 4,
+ "sha256_current": "f7380292af085420673323e655087a0eeacf1a62d1bbd86226d4730a5f9779be",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-AIActionPlan-2025:PII-08/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Promote Mature Federal Capacity for AI Incident Response The proliferation of AI technologies means that prudent planning is required to ensure that, if systems fail, the impacts to critical services or infrastructure are minimized and response is imminent."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-AIActionPlan-2025:PII-08",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

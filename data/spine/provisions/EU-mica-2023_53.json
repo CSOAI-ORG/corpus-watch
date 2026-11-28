@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:53",
+ "label": "EU-mica-2023 Article 53",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "27092411c311ba90da7e7fbf9c86196effea6898f09e5f7e415e614301d599d8",
+ "sha256_v1": "",
+ "sha256_v2": "27092411c311ba90da7e7fbf9c86196effea6898f09e5f7e415e614301d599d8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "27092411c311ba90da7e7fbf9c86196effea6898f09e5f7e415e614301d599d8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:53/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Marketing communications relating to an offer to the public of an e-money token, or to the admission to trading of such e-money token, shall comply with all the following requirements:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:53/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Marketing communications shall contain a clear and unambiguous statement that the holders of the e-money token have a right of redemption against the issuer at any time and at par value."
+  },
+  {
+   "obligation_id": "EU-mica-2023:53/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Marketing communications and any modifications thereto shall be published on the issuer’s website."
+  },
+  {
+   "obligation_id": "EU-mica-2023:53/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Competent authorities shall not require prior approval of marketing communications before their publication."
+  },
+  {
+   "obligation_id": "EU-mica-2023:53/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Marketing communications shall be notified to the competent authorities upon request."
+  },
+  {
+   "obligation_id": "EU-mica-2023:53/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "No marketing communications shall be disseminated prior to the publication of the crypto-asset white paper."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:53",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

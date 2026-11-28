@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-aiact-proceedings-2026:9",
+ "label": "EU-aiact-proceedings-2026 Article 9",
+ "instrument": "EU-aiact-proceedings-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "aa228680a913a98a8e67b53f438bd9ada97e85dd7876a3d671722119161113c8",
+ "sha256_v1": "",
+ "sha256_v2": "aa228680a913a98a8e67b53f438bd9ada97e85dd7876a3d671722119161113c8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "aa228680a913a98a8e67b53f438bd9ada97e85dd7876a3d671722119161113c8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:9/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Unless otherwise provided for in Regulation (EU) 2024/1689 or Article 8 of this Regulation, documents or other information obtained by the Commission for the purposes of proceedings opened pursuant to Article 5(1) of this Regulation shall not be disclosed or made accessible by the Commission in so far as they contain business secrets or other confidential information of any natural or legal person."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:9/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall inform natural or legal persons who are the originators of documents or other information obtained by the Commission for the purposes of proceedings opened pursuant to Article 5(1) of this Regulation that access to those documents or that information may be granted pursuant to Article 8 of this Regulation."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:9/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the Commission determines that certain information that is claimed to be confidential by a natural or legal person may be disclosed, either because this information does not constitute a business secret or other confidential information, or because there is an overriding interest in its disclosure, it shall inform the natural or legal person that it intends to disclose such information unless it receives objections within one week."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:9/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This date shall not be less than one week from the date of notification."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:9/p6/s3",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The decision shall be notified to the natural or legal person concerned."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-aiact-proceedings-2026:9",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

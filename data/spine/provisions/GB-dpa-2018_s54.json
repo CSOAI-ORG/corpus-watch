@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s54",
+ "label": "GB-dpa-2018 Section 54",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "39a8bd791e57e0983bf37cea670d47ad22af7c1e08a3c1a3503965907fc95532",
+ "sha256_v1": "",
+ "sha256_v2": "39a8bd791e57e0983bf37cea670d47ad22af7c1e08a3c1a3503965907fc95532",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "39a8bd791e57e0983bf37cea670d47ad22af7c1e08a3c1a3503965907fc95532",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s54/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3B)\nA notice under subsection (3A) must—\n(a)\nbe given before the end of the period of one month beginning with the relevant time, and\n(b)\nstate the reasons for the delay."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s54",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

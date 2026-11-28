@@ -1,0 +1,68 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R2847:44",
+ "label": "Cyber Resilience Act Art. 44",
+ "instrument": "Cyber Resilience Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "853143bc5defc202da63a68ecaf9df9d4bb6b7aa877bd852b9ee323a1892781a",
+ "sha256_v1": "853143bc5defc202da63a68ecaf9df9d4bb6b7aa877bd852b9ee323a1892781a",
+ "sha256_v2": "3955ca3b720be1c0ad1cd3d65c0bd54fb6bbd55d3aba4cfe99bd1c567953387d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "3955ca3b720be1c0ad1cd3d65c0bd54fb6bbd55d3aba4cfe99bd1c567953387d",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R2847:44/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall assign an identification number to a notified body."
+  },
+  {
+   "obligation_id": "32024R2847:44/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It shall assign a single such number even where the body is notified under several Union legal acts."
+  },
+  {
+   "obligation_id": "32024R2847:44/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall make publicly available the list of the bodies notified under this Regulation, including the identification numbers that have been allocated to them and the activities for which they have been notified."
+  },
+  {
+   "obligation_id": "32024R2847:44/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall ensure that that list is kept up to date."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R2847:44",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

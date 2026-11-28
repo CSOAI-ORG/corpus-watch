@@ -1,0 +1,126 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:54",
+ "label": "EU-mdr-2017 Article 54",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "af9bbeff104c9154ffe23dc735f94bfc0a127683636621f387bfb50c232993c5",
+ "sha256_v1": "",
+ "sha256_v2": "af9bbeff104c9154ffe23dc735f94bfc0a127683636621f387bfb50c232993c5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "af9bbeff104c9154ffe23dc735f94bfc0a127683636621f387bfb50c232993c5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:54/p1/s1",
+   "paragraph": "1",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "In addition to the procedures applicable pursuant to Article 52, a notified body shall also follow the procedure regarding clinical evaluation consultation as specified in Section 5.1 of Annex IX or as referred to in Section 6 of Annex X, as applicable, when performing a conformity assessment of the following devices:"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:54/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The procedure referred to in paragraph 1 shall not be required for the devices referred to therein:"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:54/p3/s1",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The notified body shall notify the competent authorities, the authority responsible for notified bodies and the Commission through the electronic system referred to in Article 57 of whether or not the procedure referred to in paragraph 1 of this Article is to be applied."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:54/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That notification shall be accompanied by the clinical evaluation assessment report."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:54/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall draw up an annual overview of devices which have been subject to the procedure specified in Section 5.1 of Annex IX and referred to in Section 6 of Annex X."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:54/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The annual overview shall include the notifications in accordance with paragraph 3 of this Article and point (e) of Section 5.1 of Annex IX and a listing of the cases where the notified body did not follow the advice from the expert panel."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:54/p4/s3",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall submit this overview to the European Parliament, to the Council and to the MDCG."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:54/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall by 27 May 2025 draw up a report on the operation of this Article and submit it to the European Parliament and to the Council."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:54/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The report shall take into account the annual overviews and any available relevant recommendations from the MDCG."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:54/p5/s3",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "On the basis of that report the Commission shall, if appropriate, make proposals for amendments to this Regulation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:54",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

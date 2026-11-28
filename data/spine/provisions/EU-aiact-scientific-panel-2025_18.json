@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-aiact-scientific-panel-2025:18",
+ "label": "EU-aiact-scientific-panel-2025 Article 18",
+ "instrument": "EU-aiact-scientific-panel-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "66d773cce2d0f6df7ec76b330ba323065ac9a562b13db46f1ab4abff0973de77",
+ "sha256_v1": "",
+ "sha256_v2": "66d773cce2d0f6df7ec76b330ba323065ac9a562b13db46f1ab4abff0973de77",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "66d773cce2d0f6df7ec76b330ba323065ac9a562b13db46f1ab4abff0973de77",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:18/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A decision by at least a simple majority of the members of the scientific panel shall be necessary to issue a qualified alert to the AI Office pursuant to Article 90(1) of Regulation (EU) 2024/1689."
+  },
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:18/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Qualified alerts shall be duly reasoned and contain at least the information set out in Article 90(3) of Regulation (EU) 2024/1689."
+  },
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:18/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The AI Office shall provide a dedicated interface for the secure transmission of qualified alerts."
+  },
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:18/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This interface shall contain at least the following functionalities:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-aiact-scientific-panel-2025:18",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

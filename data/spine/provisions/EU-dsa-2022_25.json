@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:25",
+ "label": "EU-dsa-2022 Article 25",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ec0507ac2fca7b0c3c8a15bb58c04987cc619de9a2cfc8b8e0d09cba3798bfb3",
+ "sha256_v1": "",
+ "sha256_v2": "ec0507ac2fca7b0c3c8a15bb58c04987cc619de9a2cfc8b8e0d09cba3798bfb3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "ec0507ac2fca7b0c3c8a15bb58c04987cc619de9a2cfc8b8e0d09cba3798bfb3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:25/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of online platforms shall not design, organise or operate their online interfaces in a way that deceives or manipulates the recipients of their service or in a way that otherwise materially distorts or impairs the ability of the recipients of their service to make free and informed decisions."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:25",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

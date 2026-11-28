@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:86",
+ "label": "EU-mica-2023 Article 86",
+ "instrument": "EU-mica-2023",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "9cf68a28ffcbeffaf2a4f0be7e59db0dbb1de9d98fdcde70e766c0871355f1e1",
+ "sha256_v1": "",
+ "sha256_v2": "9cf68a28ffcbeffaf2a4f0be7e59db0dbb1de9d98fdcde70e766c0871355f1e1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9cf68a28ffcbeffaf2a4f0be7e59db0dbb1de9d98fdcde70e766c0871355f1e1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:86/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:scope",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:86",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

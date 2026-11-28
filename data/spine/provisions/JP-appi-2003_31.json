@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:31",
+ "label": "JP-appi-2003 Article 31",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "47539098e1ad2e625d4cde5f70da6910522da2389f285a0baea89420a545627f",
+ "sha256_v1": "",
+ "sha256_v2": "47539098e1ad2e625d4cde5f70da6910522da2389f285a0baea89420a545627f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "47539098e1ad2e625d4cde5f70da6910522da2389f285a0baea89420a545627f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:31/s4",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "）を個人データとして取得することが想定されるときは、第二十七条第一項各号に掲げる場合を除くほか、次に掲げる事項について、あらかじめ個人情報保護委員会規則で定めるところにより確認することをしないで、当該個人関連情報を当該第三者に提供してはならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:31/s8",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "この場合において、同条第三項中「講ずるとともに、本人の求めに応じて当該必要な措置に関する情報を当該本人に提供し」とあるのは、「講じ」と読み替えるものとする。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:31/s10",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "この場合において、同条第三項中「の提供を受けた」とあるのは、「を提供した」と読み替えるものとする。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:31",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

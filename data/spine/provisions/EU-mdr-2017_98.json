@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:98",
+ "label": "EU-mdr-2017 Article 98",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "4607cc523945794db7b8ed1c7ffe8cd03143991038a15a699137da183066fed1",
+ "sha256_v1": "",
+ "sha256_v2": "4607cc523945794db7b8ed1c7ffe8cd03143991038a15a699137da183066fed1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "4607cc523945794db7b8ed1c7ffe8cd03143991038a15a699137da183066fed1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:98/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The Member State referred to in paragraph 1 shall immediately notify the Commission and all other Member States, giving the reasons for its decision, by means of the electronic system referred to in Article 100."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:98/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission, in consultation with the MDCG and, where necessary, the economic operators concerned, shall assess the national measures taken."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:98/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the absence of a Commission decision within six months of their notification, the national measures shall be considered to be justified."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:98/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 114(3)."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:98/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 114(3)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:98",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

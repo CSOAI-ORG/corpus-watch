@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s82",
+ "label": "AU-privacy-act-1988 Section 82",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ffc13f9b8cb378fce68ccdb8be42977c58a272d1847a341c5fa02fc8151cf67e",
+ "sha256_v1": "",
+ "sha256_v2": "ffc13f9b8cb378fce68ccdb8be42977c58a272d1847a341c5fa02fc8151cf67e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "ffc13f9b8cb378fce68ccdb8be42977c58a272d1847a341c5fa02fc8151cf67e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s82/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\tThe Advisory Committee shall consist of:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s82/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\tshall be appointed by the GovernorGeneral; and\n(b)\tshall be appointed as a parttime member."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s82/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(5)\tThe Commissioner shall be convenor of the Committee."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s82/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\tThe GovernorGeneral shall so exercise the power of appointment conferred by subsection (3) that a majority of the appointed members are persons who are neither officers nor employees, nor members of the staff of an authority or instrumentality, of the Commonwealth."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s82/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\tat least one must be a person who has had at least 5 years’ experience at a high level in industry or commerce; and\n(aa)\tat least one must be a person who has had at least 5 years’ experience at a high level in public administration, or the service of a government or an authority of a government; and\n(ab)\tat least one must be a person who has had extensive experience in health privacy; and\n(b)\tat least one must be a person who has had at least 5 years’ experience in the trade union movement; and\n(c)\tat least one must be a person who has had extensive experience in information and communication technologies; and\n(d)\tat least one must be appointed to represent general community interests, "
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s82",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

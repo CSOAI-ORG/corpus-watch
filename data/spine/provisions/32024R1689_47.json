@@ -1,0 +1,119 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:47",
+ "label": "EU AI Act Art. 47",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "c40816a40c97b45fff2e056e41cbff7afb455e735e6c4905489cf6f3bef5ddc3",
+ "sha256_v1": "c40816a40c97b45fff2e056e41cbff7afb455e735e6c4905489cf6f3bef5ddc3",
+ "sha256_v2": "c40816a40c97b45fff2e056e41cbff7afb455e735e6c4905489cf6f3bef5ddc3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "c40816a40c97b45fff2e056e41cbff7afb455e735e6c4905489cf6f3bef5ddc3",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:47/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "The provider shall draw up a written machine readable, physical or electronically signed EU declaration of conformity for each high-risk AI system, and keep it at the disposal of the national competent authorities for 10 years after the high-risk AI system has been placed on the market or put into service."
+  },
+  {
+   "obligation_id": "32024R1689:47/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The EU declaration of conformity shall identify the high-risk AI system for which it has been drawn up."
+  },
+  {
+   "obligation_id": "32024R1689:47/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A copy of the EU declaration of conformity shall be submitted to the relevant national competent authorities upon request."
+  },
+  {
+   "obligation_id": "32024R1689:47/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The EU declaration of conformity shall state that the high-risk AI system concerned meets the requirements set out in Section"
+  },
+  {
+   "obligation_id": "32024R1689:47/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The EU declaration of conformity shall contain the information set out in Annex V, and shall be translated into a language that can be easily understood by the national competent authorities of the Member States in which the high-risk AI system is placed on the market or made available."
+  },
+  {
+   "obligation_id": "32024R1689:47/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where high-risk AI systems are subject to other Union harmonisation legislation which also requires an EU declaration of conformity, a single EU declaration of conformity shall be drawn up in respect of all Union law applicable to the high-risk AI system."
+  },
+  {
+   "obligation_id": "32024R1689:47/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The declaration shall contain all the information required to identify the Union harmonisation legislation to which the declaration relates."
+  },
+  {
+   "obligation_id": "32024R1689:47/p4/s1",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "By drawing up the EU declaration of conformity, the provider shall assume responsibility for compliance with the requirements set out in Section"
+  },
+  {
+   "obligation_id": "32024R1689:47/p2/s1",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The provider shall keep the EU declaration of conformity up-to-date as appropriate."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:47",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

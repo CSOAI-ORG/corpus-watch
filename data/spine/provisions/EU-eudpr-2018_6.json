@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:6",
+ "label": "EU-eudpr-2018 Article 6",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f1e51089c9f2ee56d5cccab48d3ac854be40f7bd04f72a64a2b980e4da39bceb",
+ "sha256_v1": "",
+ "sha256_v2": "f1e51089c9f2ee56d5cccab48d3ac854be40f7bd04f72a64a2b980e4da39bceb",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "f1e51089c9f2ee56d5cccab48d3ac854be40f7bd04f72a64a2b980e4da39bceb",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:6/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Processing for another compatible purpose\nWhere the processing for a purpose other than that for which the personal data have been collected is not based on the data subject’s consent or on Union law which constitutes a necessary and proportionate measure in a democratic society to safeguard the objectives referred to in Article 25(1), the controller shall, in order to ascertain whether processing for another purpose is compatible with the purpose for which the personal data are initially collected, take into account, inter alia:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-ai-promotion-act-2025:11",
+ "label": "JP-ai-promotion-act-2025 Article 11",
+ "instrument": "JP-ai-promotion-act-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "023cdc79c7c7df58aef512547631266b3024a1080b65869ba58b7fca7fb86cf7",
+ "sha256_v1": "",
+ "sha256_v2": "023cdc79c7c7df58aef512547631266b3024a1080b65869ba58b7fca7fb86cf7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "023cdc79c7c7df58aef512547631266b3024a1080b65869ba58b7fca7fb86cf7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-ai-promotion-act-2025:11/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "国は、人工知能関連技術の基礎研究から実用化のための研究開発に至るまでの一貫した研究開発の推進、研究開発機関における研究開発の成果の移転のための体制の整備、研究開発の成果に係る情報の提供その他の施策を講ずるものとする。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-ai-promotion-act-2025:11",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

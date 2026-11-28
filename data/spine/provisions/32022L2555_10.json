@@ -1,0 +1,128 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022L2555:10",
+ "label": "NIS2 Directive Art. 10",
+ "instrument": "NIS2 Directive",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "3211706077a27430f4e7c5f63ddcdea43258fe4b9d95d23e627defb750c57822",
+ "sha256_v1": "3211706077a27430f4e7c5f63ddcdea43258fe4b9d95d23e627defb750c57822",
+ "sha256_v2": "725cf316b1f3cd1f37bf19e55d1dff3c46ec008e6abe3226460465b0d5b804db",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "725cf316b1f3cd1f37bf19e55d1dff3c46ec008e6abe3226460465b0d5b804db",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022L2555:10/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Each Member State shall designate or establish one or more CSIRTs."
+  },
+  {
+   "obligation_id": "32022L2555:10/p1/s2",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The CSIRTs shall comply with the requirements set out in Article 11(1), shall cover at least the sectors, subsectors and types of entity referred to in Annexes I and II, and shall be responsible for incident handling in accordance with a well-defined process."
+  },
+  {
+   "obligation_id": "32022L2555:10/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that each CSIRT has adequate resources to carry out effectively its tasks as set out in Article 11(3)."
+  },
+  {
+   "obligation_id": "32022L2555:10/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that each CSIRT has at its disposal an appropriate, secure, and resilient communication and information infrastructure through which to exchange information with essential and important entities and other relevant stakeholders."
+  },
+  {
+   "obligation_id": "32022L2555:10/p3/s2",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "To that end, Member States shall ensure that each CSIRT contributes to the deployment of secure information-sharing tools."
+  },
+  {
+   "obligation_id": "32022L2555:10/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The CSIRTs shall cooperate and, where appropriate, exchange relevant information in accordance with Article 29 with sectoral or cross-sectoral communities of essential and important entities."
+  },
+  {
+   "obligation_id": "32022L2555:10/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The CSIRTs shall participate in peer reviews organised in accordance with Article 19."
+  },
+  {
+   "obligation_id": "32022L2555:10/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure the effective, efficient and secure cooperation of their CSIRTs in the CSIRTs network."
+  },
+  {
+   "obligation_id": "32022L2555:10/p7/s1",
+   "paragraph": "7",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "As part of such cooperation relationships, Member States shall facilitate effective, efficient and secure information exchange with those third countries’ national computer security incident response teams, using relevant information-sharing protocols, including the traffic light protocol."
+  },
+  {
+   "obligation_id": "32022L2555:10/p9/s1",
+   "paragraph": "9",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Each Member State shall notify the Commission without undue delay of the identity of the CSIRT referred to in paragraph 1 of this Article and the CSIRT designated as coordinator pursuant to Article 12(1), of their respective tasks in relation to essential and important entities, and of any subsequent changes thereto."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022L2555:10",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

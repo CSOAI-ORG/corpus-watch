@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s95",
+ "label": "AU-privacy-act-1988 Section 95",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "9a4e848b32ed8482e7a8730a6adecb6d24fa215a24be775f90d702ec098210fb",
+ "sha256_v1": "",
+ "sha256_v2": "9a4e848b32ed8482e7a8730a6adecb6d24fa215a24be775f90d702ec098210fb",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "9a4e848b32ed8482e7a8730a6adecb6d24fa215a24be775f90d702ec098210fb",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s95/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\tThe Commissioner shall not approve the issue of guidelines unless he or she is satisfied that the public interest in the promotion of research of the kind to which the guidelines relate outweighs to a substantial degree the public interest in maintaining adherence to the Australian Privacy Principles."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s95/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(3)\tGuidelines shall be issued by being published in the Gazette."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s95/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\tbut for this subsection, an act done by an agency would breach an Australian Privacy Principle; and\n(b)\tthe act is done in the course of medical research and in accordance with guidelines under subsection (1);\nthe act shall be regarded as not breaching that Australian Privacy Principle."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s95",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

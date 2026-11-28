@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s215",
+ "label": "GB-osa-2023 Section 215",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "1a1d2b7cdaefc2bb7db53087864eaf6d5ffed104856d458e99b4e0cbcbd51dd4",
+ "sha256_v1": "",
+ "sha256_v2": "1a1d2b7cdaefc2bb7db53087864eaf6d5ffed104856d458e99b4e0cbcbd51dd4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "1a1d2b7cdaefc2bb7db53087864eaf6d5ffed104856d458e99b4e0cbcbd51dd4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s215/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nBefore making regulations under this section the Secretary of State must consult—\n(a)\npersons who appear to the Secretary of State to represent providers of app stores,\n(b)\npersons who appear to the Secretary of State to represent the interests of children (generally or with particular reference to online safety matters),\n(c)\nOFCOM,\n(d)\nthe Information Commission,\n(e)\nthe Children’s Commissioner, and\n(f)\nsuch other persons as the Secretary of State considers appropriate."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s215",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

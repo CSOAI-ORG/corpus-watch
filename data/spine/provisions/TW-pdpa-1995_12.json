@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "TW-pdpa-1995:12",
+ "label": "TW-pdpa-1995 Article 12",
+ "instrument": "TW-pdpa-1995",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "a9624c70f0a6180d1d493627e64a77c4ff3356ab3962ed40aaa4a8f38f9cd463",
+ "sha256_v1": "",
+ "sha256_v2": "a9624c70f0a6180d1d493627e64a77c4ff3356ab3962ed40aaa4a8f38f9cd463",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "TW",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a9624c70f0a6180d1d493627e64a77c4ff3356ab3962ed40aaa4a8f38f9cd463",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "TW-pdpa-1995:12/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "公務機關或非公務機關知悉所保有之個人資料被竊取、竄改、毀損、滅失或洩漏時，應通知當事人。"
+  },
+  {
+   "obligation_id": "TW-pdpa-1995:12/s3",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "前項情形符合一定通報範圍者，公務機關或非公務機關應通報下列機關："
+  },
+  {
+   "obligation_id": "TW-pdpa-1995:12/s7",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "第一項情形，公務機關或非公務機關應採取即時有效之應變措施，防止事故之擴大，及記載相關事實、影響、已採取之因應措施，並保存相關紀錄，以備主管機關查驗。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=TW-pdpa-1995:12",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB354-2026:SEC-2:791.09.",
+ "label": "US-CA-SB354-2026 SEC. 2. / 791.09.",
+ "instrument": "US-CA-SB354-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "44a7bfb61bdb11fbd8a2ae8f8d40c4e1a5b5eb27c29896b2a3ecc8fdc189cf81",
+ "sha256_v1": "",
+ "sha256_v2": "44a7bfb61bdb11fbd8a2ae8f8d40c4e1a5b5eb27c29896b2a3ecc8fdc189cf81",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "44a7bfb61bdb11fbd8a2ae8f8d40c4e1a5b5eb27c29896b2a3ecc8fdc189cf81",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.09./p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)Within 30 business days from the date of receipt of a written request from a consumer to correct, amend, or delete any recorded personal information about the consumer within its possession, a licensee, surplus line insurer, reinsurer, or third-party service provider shall do the following, as appropriate:"
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.09./p0/s2",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)(1)A licensee, surplus line insurer, reinsurer, or third-party service provider shall not refuse to correct, amend, or delete a consumer’s personal information without good cause, which shall be demonstrated to the commissioner upon request."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.09./p0/s3",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)If the licensee, surplus line insurer, reinsurer, or third-party service provider corrects, amends, or deletes recorded personal information in accordance with paragraph (1) of subdivision (b), the licensee, surplus line insurer, reinsurer, or third-party service provider shall notify the consumer in writing and furnish the correction, amendment, or deletion to:"
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.09./p0/s4",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e)If a consumer files a statement as described in subdivision (d), the licensee, surplus line insurer, reinsurer, or third-party service provider shall do both of the following:"
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.09./p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(f)The rights granted to a consumer by this section shall not extend to personal information about them that relates to and is collected in connection with or in reasonable anticipation of a claim or civil or criminal proceeding involving them."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.09./p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(g)The rights granted to a consumer by this section shall not extend to a third-party natural person, including a beneficiary, family or household member, or emergency contact, whose personal information is collected directly from a consumer in connection with an insurance transaction, provided that the licensee, surplus line insurer, or reinsurer does not process or share the third-party natural person’s personal information for any purposes unrelated to the insurance transaction."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB354-2026:SEC-2:791.09.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

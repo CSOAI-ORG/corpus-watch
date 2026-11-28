@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s88",
+ "label": "GB-duaa-2025 Section 88",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d422b96b3ff5fd642122a1d71e8289ff84218319abd68004abf23d5dbaa7e8a4",
+ "sha256_v1": "",
+ "sha256_v2": "d422b96b3ff5fd642122a1d71e8289ff84218319abd68004abf23d5dbaa7e8a4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d422b96b3ff5fd642122a1d71e8289ff84218319abd68004abf23d5dbaa7e8a4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s88/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nThe provisions of Chapter 5 of this Part (transfers of personal data to third countries etc) which are excepted from the list in subsection (2) are—\n(a)\nthe following provisions of section 73—\n(i)\nsubsection (1)(a) (conditions for transfer), so far as it relates to the condition in subsection (2) of that section, and subsection (2) (transfer must be necessary for a law enforcement purpose);"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s88",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

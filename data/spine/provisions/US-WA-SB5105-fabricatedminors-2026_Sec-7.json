@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-WA-SB5105-fabricatedminors-2026:Sec-7",
+ "label": "US-WA-SB5105-fabricatedminors-2026 Sec. 7",
+ "instrument": "US-WA-SB5105-fabricatedminors-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6b64b0a68055c612f6e00c618d1d8e531f7181a2a3af852eb379cff7110e93ea",
+ "sha256_v1": "",
+ "sha256_v2": "6b64b0a68055c612f6e00c618d1d8e531f7181a2a3af852eb379cff7110e93ea",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "6b64b0a68055c612f6e00c618d1d8e531f7181a2a3af852eb379cff7110e93ea",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-WA-SB5105-fabricatedminors-2026:Sec-7/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3) For the purposes of determining whether a person intentionally viewed over the internet a visual or printed matter depicting a minor engaged in sexually explicit conduct in subsection (1) or (2) of this section, the trier of fact shall consider the title, text, and content of the visual or printed matter, as well as the internet history, search terms, thumbnail images, downloading activity, expert computer forensic testimony, number of visual or printed matter depicting minors engaged in sexually explicit conduct, defendant's access to and control over the electronic device and its contents upon which the visual or printed matter was found, or any other relevant evidence."
+  },
+  {
+   "obligation_id": "US-WA-SB5105-fabricatedminors-2026:Sec-7/p7/s2",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The state must prove beyond a reasonable doubt that the viewing was initiated by the user of the computer where the viewing occurred."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-WA-SB5105-fabricatedminors-2026:Sec-7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

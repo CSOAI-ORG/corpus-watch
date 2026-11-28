@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-29CFR1607-UGESP-1978:1607.11",
+ "label": "US-29CFR1607-UGESP-1978 29 CFR 1607.11",
+ "instrument": "US-29CFR1607-UGESP-1978",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5be2fd1ddd059d883092e213a2cedb9461a9887f76f2aaee2c137573480f1d14",
+ "sha256_v1": "",
+ "sha256_v2": "5be2fd1ddd059d883092e213a2cedb9461a9887f76f2aaee2c137573480f1d14",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "5be2fd1ddd059d883092e213a2cedb9461a9887f76f2aaee2c137573480f1d14",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-29CFR1607-UGESP-1978:1607.11/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The principles of disparate or unequal treatment must be distinguished from the concepts of validation."
+  },
+  {
+   "obligation_id": "US-29CFR1607-UGESP-1978:1607.11/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those employees or applicants who have been denied equal treatment, because of prior discriminatory practices or policies, must at least be afforded the same opportunities as had existed for other employees or applicants during the period of discrimination."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-29CFR1607-UGESP-1978:1607.11",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

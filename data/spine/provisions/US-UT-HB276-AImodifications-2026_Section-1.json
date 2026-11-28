@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-UT-HB276-AImodifications-2026:Section-1",
+ "label": "US-UT-HB276-AImodifications-2026 Section 1",
+ "instrument": "US-UT-HB276-AImodifications-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9ba68b79e4a1c4c17282a322b0bca72013ced509d4cd94d14266cbb07fe937fa",
+ "sha256_v1": "",
+ "sha256_v2": "9ba68b79e4a1c4c17282a322b0bca72013ced509d4cd94d14266cbb07fe937fa",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9ba68b79e4a1c4c17282a322b0bca72013ced509d4cd94d14266cbb07fe937fa",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-UT-HB276-AImodifications-2026:Section-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2) The division shall administer and enforce the following:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-UT-HB276-AImodifications-2026:Section-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

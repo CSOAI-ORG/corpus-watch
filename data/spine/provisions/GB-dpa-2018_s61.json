@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s61",
+ "label": "GB-dpa-2018 Section 61",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "746fb89c2a76339cf8870f890577192f9048be4a2ac782e29143d373492cca9d",
+ "sha256_v1": "",
+ "sha256_v2": "746fb89c2a76339cf8870f890577192f9048be4a2ac782e29143d373492cca9d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "746fb89c2a76339cf8870f890577192f9048be4a2ac782e29143d373492cca9d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s61/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Records of processing activities\n(1)\nEach controller must maintain a record of all categories of processing activities for which the controller is responsible."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s61/p0/s2",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "contact-point",
+   "status": "DRAFT",
+   "text": "(2)\nThe controller's record must contain the following information—\n(a)\nthe name and contact details of the controller;"
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s61/p0/s3",
+   "paragraph": "0",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "(3)\nEach processor must maintain a record of all categories of processing activities carried out on behalf of a controller."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s61/p0/s4",
+   "paragraph": "0",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "contact-point",
+   "status": "DRAFT",
+   "text": "(4)\nThe processor's record must contain the following information—\n(a)\nthe name and contact details of the processor and of any other processors engaged by the processor in accordance with section 59(3);"
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s61/p0/s5",
+   "paragraph": "0",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nThe controller and the processor must make the records kept under this section available to the Commission on request."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s61",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

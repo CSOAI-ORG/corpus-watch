@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "BR-PL2338-2023:art55",
+ "label": "BR-PL2338-2023 Art. 55.",
+ "instrument": "BR-PL2338-2023",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "598e1baa406bc16b680250fe8cc15f0014e6a54fcae489058aded49bf4109899",
+ "sha256_v1": "",
+ "sha256_v2": "598e1baa406bc16b680250fe8cc15f0014e6a54fcae489058aded49bf4109899",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "BR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 25,
+ "sha256_current": "598e1baa406bc16b680250fe8cc15f0014e6a54fcae489058aded49bf4109899",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "BR-PL2338-2023:art55/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=BR-PL2338-2023:art55",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

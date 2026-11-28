@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s73",
+ "label": "GB-dpa-2018 Section 73",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8307091a9d612548ce8fc1b718e12a3868987a8c952e4922f4d2492d5713204a",
+ "sha256_v1": "",
+ "sha256_v2": "8307091a9d612548ce8fc1b718e12a3868987a8c952e4922f4d2492d5713204a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8307091a9d612548ce8fc1b718e12a3868987a8c952e4922f4d2492d5713204a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s73/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1)\nThe controller in relation to the transfer must secure that the transfer takes place only if—\n(a)\nthe three conditions set out in subsections (2) to (4) are met, ..."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s73/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(6)\nWhere a transfer is made without the authorisation mentioned in subsection (1)(b), the authority in the member State which would have been responsible for deciding whether to authorise the transfer must be informed without delay."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s73",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

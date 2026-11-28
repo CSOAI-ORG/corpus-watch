@@ -1,0 +1,90 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:14",
+ "label": "GDPR Art. 14",
+ "instrument": "GDPR",
+ "ladder": "CROSSWALK_ONLY",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "deed8e63347e1d75cdb863b8f7ccb7b35f95df934b51a25e5f9a1d725ecc1188",
+ "sha256_v1": "deed8e63347e1d75cdb863b8f7ccb7b35f95df934b51a25e5f9a1d725ecc1188",
+ "sha256_v2": "3b9ec5333754c4facb74618d927e2bdcffb641fd3330a3c09e7065aafb1797e0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "3b9ec5333754c4facb74618d927e2bdcffb641fd3330a3c09e7065aafb1797e0",
+ "agent_register_kinds": [
+  "NONE",
+  "OBSERVED",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": true,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:14/p1/s1",
+   "paragraph": "1",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "Where personal data have not been obtained from the data subject, the controller shall provide the data subject with the following information:"
+  },
+  {
+   "obligation_id": "32016R0679:14/p2/s1",
+   "paragraph": "2",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "In addition to the information referred to in paragraph 1, the controller shall provide the data subject with the following information necessary to ensure fair and transparent processing in respect of the data subject:"
+  },
+  {
+   "obligation_id": "32016R0679:14/p3/s1",
+   "paragraph": "3",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller shall provide the information referred to in paragraphs 1 and 2:"
+  },
+  {
+   "obligation_id": "32016R0679:14/p4/s1",
+   "paragraph": "4",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "Where the controller intends to further process the personal data for a purpose other than that for which the personal data were obtained, the controller shall provide the data subject prior to that further processing with information on that other purpose and with any relevant further information as referred to in paragraph 2."
+  },
+  {
+   "obligation_id": "32016R0679:14/p5/s2",
+   "paragraph": "5",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "In such cases the controller shall take appropriate measures to protect the data subject's rights and freedoms and legitimate interests, including making the information publicly available;"
+  },
+  {
+   "obligation_id": "32016R0679:14/p5/s3",
+   "paragraph": "5",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) obtaining or disclosure is expressly laid down by Union or Member State law to which the controller is subject and which provides appropriate measures to protect the data subject's legitimate interests; or (d) where the personal data must remain confidential subject to an obligation of professional secrecy regulated by Union or Member State law, including a statutory obligation of secrecy."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:14",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

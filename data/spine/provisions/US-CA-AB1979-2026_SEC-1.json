@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB1979-2026:SEC-1",
+ "label": "US-CA-AB1979-2026 SECTION 1.",
+ "instrument": "US-CA-AB1979-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8a8fabb8099663f170412a38fa50931eef4b75b2acacfc1b43f1db30027171c9",
+ "sha256_v1": "",
+ "sha256_v2": "8a8fabb8099663f170412a38fa50931eef4b75b2acacfc1b43f1db30027171c9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "8a8fabb8099663f170412a38fa50931eef4b75b2acacfc1b43f1db30027171c9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB1979-2026:SEC-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)A health facility, clinic, physician’s office, or office of a group practice shall take reasonable steps to ensure that a licensed health care provider, acting within their scope of practice, retains the ability to exercise independent professional judgment in their care of a patient whenever that care is informed by the output of a clinical decision support system."
+  },
+  {
+   "obligation_id": "US-CA-AB1979-2026:SEC-1/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)(1)A health facility, clinic, physician’s office, or office of a group practice shall not use or deploy a tool, system, or device that includes artificial intelligence to do any of the following:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB1979-2026:SEC-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

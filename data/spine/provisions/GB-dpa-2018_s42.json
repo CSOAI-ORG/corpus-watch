@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s42",
+ "label": "GB-dpa-2018 Section 42",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "fdf6beb136b840a855c5f8d81f3e1299eef7043891507cb9b85ed23f06b6e8fa",
+ "sha256_v1": "",
+ "sha256_v2": "fdf6beb136b840a855c5f8d81f3e1299eef7043891507cb9b85ed23f06b6e8fa",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "fdf6beb136b840a855c5f8d81f3e1299eef7043891507cb9b85ed23f06b6e8fa",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s42/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nWhere personal data is processed on the basis that an appropriate policy document is in place, the controller must during the relevant period—\n(a)\nretain the appropriate policy document,\n(b)\nreview and (if appropriate) update it from time to time, and\n(c)\nmake it available to the Commission, on request, without charge."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s42/p0/s2",
+   "paragraph": "0",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "(4)\nThe record maintained by the controller under section 61(1) and, where the sensitive processing is carried out by a processor on behalf of the controller, the record maintained by the processor under section 61(3) must include the following information—\n(a)\nwhether the sensitive processing is carried out in reliance on the consent of the data subject or, if not, which condition in Schedule 8 is relied on,\n(b)\nhow the processing satisfies section 35 (lawfulness of processing), and\n(c)\nwhether the personal data is retained and erased in accordance with the policies described in subsection (2)(b) and, if it is not, the reasons for not following those policies."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s42",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

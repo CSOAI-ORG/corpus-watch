@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s23B",
+ "label": "AU-privacy-act-1988 Section 23B",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a93c8f18a8822859d2127f75670dbfc7761dc917343486724113d45d5418e058",
+ "sha256_v1": "",
+ "sha256_v2": "a93c8f18a8822859d2127f75670dbfc7761dc917343486724113d45d5418e058",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "a93c8f18a8822859d2127f75670dbfc7761dc917343486724113d45d5418e058",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s23B/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\tmust, within 7 days after the complaint is made, give the individual a written notice that:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s23B/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i)\tacknowledges the making of the complaint; and\n(ii)\tsets out how the respondent will deal with the complaint; and\n(b)\tmust investigate the complaint."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s23B/p0/s3",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Consultation about the complaint\n(2)\tIf the respondent for the complaint considers that it is necessary to consult a credit reporting body or credit provider about the complaint, the respondent must consult the body or provider."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s23B/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Decision about the complaint\n(4)\tAfter investigating the complaint, the respondent must, within the period referred to in subsection (5), make a decision about the complaint and give the individual a written notice that:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s23B",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

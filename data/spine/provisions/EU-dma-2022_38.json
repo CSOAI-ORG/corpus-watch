@@ -1,0 +1,116 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:38",
+ "label": "EU-dma-2022 Article 38",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "97b7c41807de900a5d618d98191cd763857acc7c3170ced42b387fc139ed8b84",
+ "sha256_v1": "",
+ "sha256_v2": "97b7c41807de900a5d618d98191cd763857acc7c3170ced42b387fc139ed8b84",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "97b7c41807de900a5d618d98191cd763857acc7c3170ced42b387fc139ed8b84",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:38/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission and the national competent authorities of the Member States enforcing the rules referred to in Article 1(6) shall cooperate with each other and inform each other about their respective enforcement actions through the European Competition Network (ECN)."
+  },
+  {
+   "obligation_id": "EU-dma-2022:38/p1/s3",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the competent authority is not a member of the ECN, the Commission shall make the necessary arrangements for cooperation and exchange of information on cases concerning the enforcement of this Regulation and the enforcement of cases referred to in Article 1(6) of such authorities."
+  },
+  {
+   "obligation_id": "EU-dma-2022:38/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a national competent authority of the Member States enforcing the rules referred to in Article 1(6) intends to launch an investigation on gatekeepers based on national laws referred to in Article 1(6), it shall inform the Commission in writing of the first formal investigative measure, before or immediately after the start of such measure."
+  },
+  {
+   "obligation_id": "EU-dma-2022:38/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a national competent authority of the Member States enforcing the rules referred to in Article 1(6) intends to impose obligations on gatekeepers based on national laws referred to in Article 1(6), it shall, no later than 30 days before its adoption, communicate the draft measure to the Commission stating the reasons for the measure."
+  },
+  {
+   "obligation_id": "EU-dma-2022:38/p3/s2",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In the case of interim measures, the national competent authority of the Member States enforcing the rules referred to in Article 1(6) shall communicate to the Commission the draft measures envisaged as soon as possible, and at the latest immediately after the adoption of such measures."
+  },
+  {
+   "obligation_id": "EU-dma-2022:38/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Information exchanged pursuant to paragraphs 1 to 3 of this Article shall only be exchanged and used for the purpose of coordination of the enforcement of this Regulation and the rules referred to in Article 1(6)."
+  },
+  {
+   "obligation_id": "EU-dma-2022:38/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Before taking a first formal investigative measure, that authority shall inform the Commission in writing."
+  },
+  {
+   "obligation_id": "EU-dma-2022:38/p7/s2",
+   "paragraph": "7",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The opening of proceedings by the Commission pursuant to Article 20 shall relieve the national competent authorities of the Member States enforcing the rules referred to in Article 1(6) of the possibility to conduct such an investigation or end it where it is already ongoing."
+  },
+  {
+   "obligation_id": "EU-dma-2022:38/p7/s3",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Those authorities shall report to the Commission on the findings of such investigation in order to support the Commission in its role as sole enforcer of this Regulation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:38",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,156 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:41",
+ "label": "EU-mica-2023 Article 41",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "26a0fad62c4f88115ad9c18afb6c5f3625467be15e0ef609810b3d963f045537",
+ "sha256_v1": "",
+ "sha256_v2": "26a0fad62c4f88115ad9c18afb6c5f3625467be15e0ef609810b3d963f045537",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "26a0fad62c4f88115ad9c18afb6c5f3625467be15e0ef609810b3d963f045537",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:41/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Any natural or legal persons or such persons acting in concert who intend to acquire, directly or indirectly (the ‘proposed acquirer’), a qualifying holding in an issuer of an asset-referenced token or to increase, directly or indirectly, such a qualifying holding so that the proportion of the voting rights or of the capital held would reach or exceed 20 %, 30 % or 50 %, or so that the issuer of the asset-referenced token would become its subsidiary, shall notify the competent authority of that issuer thereof in writing, indicating the size of the intended holding and the information required by the regulatory technical standards adopted by the Commission in accordance with Article 42(4)."
+  },
+  {
+   "obligation_id": "EU-mica-2023:41/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Any natural or legal person who has taken a decision to dispose, directly or indirectly, of a qualifying holding in an issuer of an asset-referenced token shall, prior to disposing of that holding, notify in writing the competent authority of its decision and indicate the size of such holding."
+  },
+  {
+   "obligation_id": "EU-mica-2023:41/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "That person shall also notify the competent authority where it has taken a decision to reduce a qualifying holding so that the proportion of the voting rights or of the capital held would fall below 10 %, 20 %, 30 % or 50 %, or so that the issuer of the asset-referenced token would cease to be that person’s subsidiary."
+  },
+  {
+   "obligation_id": "EU-mica-2023:41/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authority shall promptly and in any event within two working days following receipt of a notification pursuant to paragraph 1 acknowledge receipt thereof in writing."
+  },
+  {
+   "obligation_id": "EU-mica-2023:41/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authority shall assess the proposed acquisition referred to in paragraph 1 of this Article and the information required by the regulatory technical standards adopted by the Commission in accordance with Article 42(4), within 60 working days of the date of the written acknowledgement of receipt referred to in paragraph 3 of this Article."
+  },
+  {
+   "obligation_id": "EU-mica-2023:41/p4/s2",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When acknowledging receipt of the notification, the competent authority shall inform the proposed acquirer of the date of expiry of the assessment period."
+  },
+  {
+   "obligation_id": "EU-mica-2023:41/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such request shall be made before the assessment is finalised, and in any case no later than on the 50th working day from the date of the written acknowledgement of receipt referred to in paragraph"
+  },
+  {
+   "obligation_id": "EU-mica-2023:41/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such requests shall be made in writing and shall specify the additional information needed."
+  },
+  {
+   "obligation_id": "EU-mica-2023:41/p3/s2",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authority shall suspend the assessment period referred to in paragraph 4 until it has received the additional information referred to in the first subparagraph of this paragraph."
+  },
+  {
+   "obligation_id": "EU-mica-2023:41/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The suspension shall not exceed 20 working days."
+  },
+  {
+   "obligation_id": "EU-mica-2023:41/p3/s4",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Any further requests by the competent authority for additional information or for clarification of the information received shall not result in an additional suspension of the assessment period."
+  },
+  {
+   "obligation_id": "EU-mica-2023:41/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "A competent authority that, upon completion of the assessment referred to in paragraph 4, decides to oppose the proposed acquisition referred to in paragraph 1 shall notify the proposed acquirer thereof within two working days, and in any event before the date referred to in paragraph 4 extended, where applicable, in accordance with paragraph 5, second and third subparagraphs."
+  },
+  {
+   "obligation_id": "EU-mica-2023:41/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notification shall provide the reasons for such a decision."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:41",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

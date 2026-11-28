@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-pld-2024:10",
+ "label": "EU-pld-2024 Article 10",
+ "instrument": "EU-pld-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ddc83cfb63d7b41390053ad962922b765d7a191faa9dd406451633687bc1d105",
+ "sha256_v1": "",
+ "sha256_v2": "ddc83cfb63d7b41390053ad962922b765d7a191faa9dd406451633687bc1d105",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ddc83cfb63d7b41390053ad962922b765d7a191faa9dd406451633687bc1d105",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-pld-2024:10/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that a claimant is required to prove the defectiveness of the product, the damage suffered and the causal link between that defectiveness and that damage."
+  },
+  {
+   "obligation_id": "EU-pld-2024:10/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The defectiveness of the product shall be presumed where any of the following conditions are met:"
+  },
+  {
+   "obligation_id": "EU-pld-2024:10/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The causal link between the defectiveness of the product and the damage shall be presumed where it has been established that the product is defective and that the damage caused is of a kind typically consistent with the defect in question."
+  },
+  {
+   "obligation_id": "EU-pld-2024:10/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A national court shall presume the defectiveness of the product or the causal link between its defectiveness and the damage, or both, where, despite the disclosure of evidence in accordance with Article 9 and taking into account all the relevant circumstances of the case:"
+  },
+  {
+   "obligation_id": "EU-pld-2024:10/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The defendant shall have the right to rebut any of the presumptions referred to in paragraphs 2, 3 and 4."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-pld-2024:10",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

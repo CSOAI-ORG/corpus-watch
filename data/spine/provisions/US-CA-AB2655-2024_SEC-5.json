@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB2655-2024:SEC-5",
+ "label": "US-CA-AB2655-2024 SEC. 5.",
+ "instrument": "US-CA-AB2655-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "0586a051088bb4bc14f94771fd50a89cef640b885728895035f6d0c906edb31f",
+ "sha256_v1": "",
+ "sha256_v2": "0586a051088bb4bc14f94771fd50a89cef640b885728895035f6d0c906edb31f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "0586a051088bb4bc14f94771fd50a89cef640b885728895035f6d0c906edb31f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB2655-2024:SEC-5/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Section 2.5 of this bill shall only become operative if (1) both bills are enacted and become effective on or before January 1, 2025, (2) each bill amends Section 35 of the Code of Civil Procedure, as amended by Section 2 of Chapter 343 of the Statutes of 2023, and (3) this bill is enacted after Assembly Bill 2839, in which case Section 2 of this bill shall not become operative."
+  },
+  {
+   "obligation_id": "US-CA-AB2655-2024:SEC-5/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Additionally, if the above conditions are met and Assembly Bill 2839 becomes operative before January 1, 2025, Section 35 of the Code of Civil Procedure, as amended by Assembly Bill 2839, shall remain operative only until January 1, 2025, at which time Section 2.5 of this bill shall become operative, and Section 2 of this bill shall not become operative."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB2655-2024:SEC-5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

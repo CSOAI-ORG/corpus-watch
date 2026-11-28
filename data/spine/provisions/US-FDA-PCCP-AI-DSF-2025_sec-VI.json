@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-FDA-PCCP-AI-DSF-2025:sec-VI",
+ "label": "US-FDA-PCCP-AI-DSF-2025 VI. Description of Modifications",
+ "instrument": "US-FDA-PCCP-AI-DSF-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "7f948dafdb2f8b24106ed993f62168ff6bf480a086f9a4f2ddc5300c82820651",
+ "sha256_v1": "",
+ "sha256_v2": "7f948dafdb2f8b24106ed993f62168ff6bf480a086f9a4f2ddc5300c82820651",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 14,
+ "sha256_current": "7f948dafdb2f8b24106ed993f62168ff6bf480a086f9a4f2ddc5300c82820651",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-FDA-PCCP-AI-DSF-2025:sec-VI/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Modifications included in a PCCP must maintain the device within the device’s intended use,91 and as applicable, must allow the device to remain substantially equivalent to the predicate device.92 In general, FDA believes that modifications included in a PCCP should also maintain the device within the device’s indications for use.93 As with modifications to the intended use, FDA believes that most modifications to the indications for use included in a PCCP would be 91 See sections 515C(a)(2) and 515C(b)(2) of the FD&C Act. 92 Section 515C(b)(2)(B) of the FD&C Act. 93 FDA has a long-standing policy of applying the definition of indications for use in the PMA regulation at 21 CFR 814.20(b)(3)("
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-FDA-PCCP-AI-DSF-2025:sec-VI",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

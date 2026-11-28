@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:60",
+ "label": "EU-dsa-2022 Article 60",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "ac795f53ba34ddca9355820c1b6cb513c6f105682694f4cb2e68b401073ce165",
+ "sha256_v1": "",
+ "sha256_v2": "ac795f53ba34ddca9355820c1b6cb513c6f105682694f4cb2e68b401073ce165",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "ac795f53ba34ddca9355820c1b6cb513c6f105682694f4cb2e68b401073ce165",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:60/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The joint investigation shall be concluded within three months from its launch, unless otherwise agreed amongst the participants."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:60/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The Digital Services Coordinator of establishment shall communicate its preliminary position on the alleged infringement no later than one month after the end of the deadline referred to in the first subparagraph to all Digital Services Coordinators, the Commission and the Board."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:60/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The preliminary position shall take into account the views of all other Digital Services Coordinators participating in the joint investigation."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:60/p2/s4",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where applicable, this preliminary position shall also set out the enforcement measures envisaged."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:60/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In carrying out the joint investigation, the participating Digital Services Coordinators shall cooperate in good faith, taking into account, where applicable, the indications of the Digital Services Coordinator of establishment and the Board’s recommendation."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:60/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Digital Services Coordinators of destination participating in the joint investigation shall be entitled, at the request of or after having consulted the Digital Services Coordinator of establishment, to exercise their investigative powers referred to in Article 51(1) in respect of the providers of intermediary services concerned by the alleged infringement, with regard to information and premises located within their territory."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:60",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

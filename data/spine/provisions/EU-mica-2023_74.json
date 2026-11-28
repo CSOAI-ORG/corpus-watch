@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:74",
+ "label": "EU-mica-2023 Article 74",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "1323088b3976c0b2b1f73927393f758f8457017965091a93075255880322a500",
+ "sha256_v1": "",
+ "sha256_v2": "1323088b3976c0b2b1f73927393f758f8457017965091a93075255880322a500",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "1323088b3976c0b2b1f73927393f758f8457017965091a93075255880322a500",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:74/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Orderly wind-down of crypto-asset service providers\nCrypto-asset service providers that provide the services referred to in Articles 75 to 79 shall have in place a plan that is appropriate to support an orderly wind-down of their activities under applicable national law, including the continuity or recovery of any critical activities performed by those service providers."
+  },
+  {
+   "obligation_id": "EU-mica-2023:74/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That plan shall demonstrate the ability of crypto-asset service providers to carry out an orderly wind-down without causing undue economic harm to their clients."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:74",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

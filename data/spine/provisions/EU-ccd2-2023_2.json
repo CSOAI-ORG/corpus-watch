@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:2",
+ "label": "EU-ccd2-2023 Article 2",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "e1a1eaf512af1a4b817e5cc05fe42ef4f3e94a4c210a5f0f4cc48e4e21b5f5eb",
+ "sha256_v1": "",
+ "sha256_v2": "e1a1eaf512af1a4b817e5cc05fe42ef4f3e94a4c210a5f0f4cc48e4e21b5f5eb",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": null,
+ "sha256_current": "e1a1eaf512af1a4b817e5cc05fe42ef4f3e94a4c210a5f0f4cc48e4e21b5f5eb",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:2/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 2 scope",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

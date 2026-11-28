@@ -1,0 +1,126 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB621-2025:SEC-1",
+ "label": "US-CA-AB621-2025 SECTION 1.",
+ "instrument": "US-CA-AB621-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "1ccf22695b26f866f3d1928929f70a9dad9880015382698eedd65bc846951616",
+ "sha256_v1": "",
+ "sha256_v2": "1ccf22695b26f866f3d1928929f70a9dad9880015382698eedd65bc846951616",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "1ccf22695b26f866f3d1928929f70a9dad9880015382698eedd65bc846951616",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB621-2025:SEC-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1)A person that owns, operates, or controls a deepfake pornography service is engaged in the creation and intentional disclosure of digitized sexually explicit material and shall be presumed to have known that the depicted individual did not consent to the creation or disclosure of the digitized sexually explicit material, unless the person produces evidence of the depicted individual’s express written consent."
+  },
+  {
+   "obligation_id": "US-CA-AB621-2025:SEC-1/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)A person that provides a service that enables the ongoing operation of a deepfake pornography service shall be presumed to be in violation of paragraph (3) of subdivision (b) if both of the following are true:"
+  },
+  {
+   "obligation_id": "US-CA-AB621-2025:SEC-1/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(ii)Evidence described in clause (i) shall be submitted through a customer service email or other designated process provided by the person or entity if the customer service email or other designated process is prominently displayed on the person’s or entity’s internet website and shall contain all of the following information:"
+  },
+  {
+   "obligation_id": "US-CA-AB621-2025:SEC-1/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This information shall be used by the person or entity only to seek additional information regarding the report that is necessary to take the steps required by subparagraph (B)."
+  },
+  {
+   "obligation_id": "US-CA-AB621-2025:SEC-1/p1/s5",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e)(1)It shall not be a defense to an action under this section that there is a disclaimer included in the digitized sexually explicit material that communicates that the depicted individual did not participate in or authorize the creation or development of the material."
+  },
+  {
+   "obligation_id": "US-CA-AB621-2025:SEC-1/p1/s6",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)It shall not be a defense to an action under this section that a deepfake pornography service has a disclaimer or statement that states that users are prohibited from generating digitized sexually explicit material of a depicted individual without the individual’s consent."
+  },
+  {
+   "obligation_id": "US-CA-AB621-2025:SEC-1/p1/s7",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(A)In an action brought under this paragraph, the public prosecutor shall not be required to prove that a depicted individual suffered actual harm."
+  },
+  {
+   "obligation_id": "US-CA-AB621-2025:SEC-1/p1/s9",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(g)An action under this section shall be commenced no later than three years from the date the unauthorized creation, development, or disclosure was discovered or should have been discovered with the exercise of reasonable diligence."
+  },
+  {
+   "obligation_id": "US-CA-AB621-2025:SEC-1/p1/s10",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If any provision of this section or its application is held invalid, that invalidity shall not affect other provisions."
+  },
+  {
+   "obligation_id": "US-CA-AB621-2025:SEC-1/p3/s1",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An internet service provider shall not be held liable under this section for the mere transmission, routing, or provision of access to third-party content over its network."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB621-2025:SEC-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

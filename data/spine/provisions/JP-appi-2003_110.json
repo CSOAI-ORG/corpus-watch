@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:110",
+ "label": "JP-appi-2003 Article 110",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "bcefdd067259336a952f540635ebad00428ee4eb4c8584302ad922e09b26eef3",
+ "sha256_v1": "",
+ "sha256_v2": "bcefdd067259336a952f540635ebad00428ee4eb4c8584302ad922e09b26eef3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "bcefdd067259336a952f540635ebad00428ee4eb4c8584302ad922e09b26eef3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:110/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "行政機関の長等は、当該行政機関の長等の属する行政機関等が保有している個人情報ファイルが第六十条第三項各号のいずれにも該当すると認めるときは、当該個人情報ファイルについては、個人情報ファイル簿に次に掲げる事項を記載しなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:110",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

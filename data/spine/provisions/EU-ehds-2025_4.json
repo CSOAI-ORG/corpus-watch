@@ -1,0 +1,136 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:4",
+ "label": "EU-ehds-2025 Article 4",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f27ffee7cd7913356b9024fd3ce6ab1305c7ee7ab72c3300c95b200122dfb9f5",
+ "sha256_v1": "",
+ "sha256_v2": "f27ffee7cd7913356b9024fd3ce6ab1305c7ee7ab72c3300c95b200122dfb9f5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "f27ffee7cd7913356b9024fd3ce6ab1305c7ee7ab72c3300c95b200122dfb9f5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:4/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that one or more electronic health data access services at national, regional or local level are established, thereby enabling natural persons to access their personal electronic health data and exercise their rights provided for in Articles 3 and 5 to"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:4/p10/s1",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such electronic health data access services shall be free of charge for the natural persons and their representatives referred to in paragraph 2 of this Article."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:4/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that one or more proxy services are established as a functionality of electronic health data access services which enables:"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:4/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall establish rules regarding the authorisations referred to in point (a) of the first subparagraph and actions of guardians and other legal representatives."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:4/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The proxy services referred to in paragraph 2 shall provide authorisations in a transparent and easily understandable way, free of charge, and electronically or on paper."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:4/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Natural persons and their representatives shall be informed about their authorisation rights, including about how to exercise those rights, and about the authorisation process."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:4/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The proxy services shall provide an easy complaint mechanism for natural persons."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:4/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The proxy services referred to in paragraph 2 of this Article shall be interoperable among Member States."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:4/p4/s2",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall, by means of implementing acts, lay down the technical specifications for the interoperability of the proxy services of the Member States."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:4/p4/s3",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 98(2)."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:4/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The electronic health data access services and the proxy services shall be easily accessible for persons with disabilities, vulnerable groups and persons with low digital literacy."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

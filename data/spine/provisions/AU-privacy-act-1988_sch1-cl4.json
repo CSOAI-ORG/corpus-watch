@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:sch1-cl4",
+ "label": "AU-privacy-act-1988 Schedule 1 clause 4",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "75539097cd76b9c7f57f18c91837aedf0e67697eaa9f7d961bf7b6d217435482",
+ "sha256_v1": "",
+ "sha256_v2": "75539097cd76b9c7f57f18c91837aedf0e67697eaa9f7d961bf7b6d217435482",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "75539097cd76b9c7f57f18c91837aedf0e67697eaa9f7d961bf7b6d217435482",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:sch1-cl4/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\tan APP entity receives personal information; and\n(b)\tthe entity did not solicit the information;\nthe entity must, within a reasonable period after receiving the information, determine whether or not the entity could have collected the information under Australian Privacy Principle 3 if the entity had solicited the information.\n4.2\tThe APP entity may use or disclose the personal information for the purposes of making the determination under subclause 4.1.\n4.3\tIf:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:sch1-cl4/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\tthe APP entity determines that the entity could not have collected the personal information; and\n(b)\tthe information is not contained in a Commonwealth record;\nthe entity must, as soon as practicable but only if it is lawful and reasonable to do so, destroy the information or ensure that the information is deidentified.\n4.4\tIf subclause 4.3 does not apply in relation to the personal information, Australian Privacy Principles 5 to 13 apply in relation to the information as if the entity had collected the information under Australian Privacy Principle 3."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:sch1-cl4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

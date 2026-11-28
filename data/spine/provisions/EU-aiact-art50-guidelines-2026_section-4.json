@@ -1,0 +1,226 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-aiact-art50-guidelines-2026:section-4",
+ "label": "EU-aiact-art50-guidelines-2026 Section 4",
+ "instrument": "EU-aiact-art50-guidelines-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "4f8ecf96429037aca55b01570f4f3322ced5595ff23db42d61f70f3be128d1f4",
+ "sha256_v1": "",
+ "sha256_v2": "4f8ecf96429037aca55b01570f4f3322ced5595ff23db42d61f70f3be128d1f4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "4f8ecf96429037aca55b01570f4f3322ced5595ff23db42d61f70f3be128d1f4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-4/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i)\nThe system must qualify as an AI system;"
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-4/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(ii)\nThe AI system must be capable of generating or manipulating synthetic content;"
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-4/p4/s3",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(iii)\nThe content must be in one or more of the following modalities: audio, image, video or text;"
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-4/p4/s4",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(iv)\nThe AI system must not fall within any of the following exceptions:"
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-4/p4/s5",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In that case, both video and audio content must be marked and detectability must be ensured, as set out below."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-4/p4/s6",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those outputs must therefore be marked and detectable as described below."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-4/p4/s7",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "machine-readable-mark",
+   "status": "DRAFT",
+   "text": "First, providers must ensure that the outputs of the AI system are marked in a machine-readable format."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-4/p4/s8",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "disclose-ai",
+   "status": "DRAFT",
+   "text": "Second, providers must ensure that the outputs are detectable as artificially generated or manipulated content."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-4/p4/s9",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(70)\nEach of the two above-mentioned elements must be fulfilled to achieve effectively the objectives of the transparency obligations of Article 50(2) AI Act."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-4/p4/s10",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The detection obligation\n(75)\nProviders of AI systems falling within scope of Article 50(2) AI Act must ensure that the output of their systems are detectable as AI-generated or manipulated content."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-4/p4/s11",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "To ensure full interoperability, providers must rely on publicly-available industry standard detection solutions that allow any third party to implement detection that is ideally locally executable on the digital device and allow seamless integration into self-contained, isolated networks."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-4/p4/s12",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(78)\nIf the provider of the AI system depends on another actor for the provision or access to a detection solution, it must ensure that the detection solution complies with Article 50(2) and (5) AI Act and that those actors display the detection results in compliance with Article 50(5) AI Act (see Section 7).\n4.2.3."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-4/p4/s13",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Compliance with the requirements for technical solutions: effective, interoperable, robust and reliable\n(79)\nThe second sentence of Article 50(2) AI Act provides that the technical solutions for marking and detection must be effective, interoperable, robust and reliable."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-4/p4/s14",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(80)\nProviders must ensure that the combination of the technical solutions for marking and detection holistically meet all aforementioned requirements to the legally required degree, taking into account the limitations and the complementarities of the various solutions deployed."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-4/p4/s15",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The technical solutions must comply with all requirements insofar as this is technically feasible, taking into account the specificities and limitations of various types of content, the costs of implementation, and the generally acknowledged state of the art, as may be reflected in relevant technical standards."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-4/p4/s16",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers must continuously adapt their marking and detection solutions in a timely and proportionate manner as the technology and state of the art evolves."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-4/p4/s17",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(iii)\nThe AI system’s generated output must not be intended to be shared outside the company or to be usable by external persons, with appropriate safeguards in place to avoid reasonably foreseeable misuse (e.g. cloud isolation, role-based controls)."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-4/p4/s18",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This must be based on an assessment of relevant factors, such as the format, media content type, style and changes in the content that affect its meaning, style or intent."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-4/p4/s19",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any marking and detection solutions employed by providers of AI systems must therefore be compliant with applicable Union data protection law, including data protection principles and obligations, such as the obligation of data protection by design and by default, the data minimisation and the security and confidentiality principles."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-4/p4/s20",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For example, for the purpose of marking and detection the information related to the creator of the content should not be processed and any other personal data processed should be deleted as soon as the purpose of detection is fulfilled, security and confidentiality must be ensured, etc."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-aiact-art50-guidelines-2026:section-4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

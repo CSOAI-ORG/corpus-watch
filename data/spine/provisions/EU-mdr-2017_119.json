@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:119",
+ "label": "EU-mdr-2017 Article 119",
+ "instrument": "EU-mdr-2017",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "fb0d2212c1bf31f44f405acbb6e431ae92cee657398e3a8b424c831cfc5ba75b",
+ "sha256_v1": "",
+ "sha256_v2": "fb0d2212c1bf31f44f405acbb6e431ae92cee657398e3a8b424c831cfc5ba75b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "fb0d2212c1bf31f44f405acbb6e431ae92cee657398e3a8b424c831cfc5ba75b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:119/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:amendment to",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:119",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

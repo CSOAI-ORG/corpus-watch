@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-UT-HB289-AI-CSAM-2026:Section-2",
+ "label": "US-UT-HB289-AI-CSAM-2026 Section 2",
+ "instrument": "US-UT-HB289-AI-CSAM-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "f74f5ffe037a331f58388e80bddfd9874a4adbad7134daba309877542979f312",
+ "sha256_v1": "",
+ "sha256_v2": "f74f5ffe037a331f58388e80bddfd9874a4adbad7134daba309877542979f312",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f74f5ffe037a331f58388e80bddfd9874a4adbad7134daba309877542979f312",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-UT-HB289-AI-CSAM-2026:Section-2/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1) The sheriff shall:"
+  },
+  {
+   "obligation_id": "US-UT-HB289-AI-CSAM-2026:Section-2/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "(b) If a prisoner's counsel leaves discovery, evidence, or other documents with the prisoner at the jail, the prisoner's counsel shall ensure that the discovery, evidence, or other documents does not include:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-UT-HB289-AI-CSAM-2026:Section-2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

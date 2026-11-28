@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-genai-interim-measures-2023:14",
+ "label": "CN-genai-interim-measures-2023 第十四条",
+ "instrument": "CN-genai-interim-measures-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "33765ebefa38fc664b5cdf3adf96d2e8d8f4de7ad042403f03e53dc1db20d704",
+ "sha256_v1": "",
+ "sha256_v2": "33765ebefa38fc664b5cdf3adf96d2e8d8f4de7ad042403f03e53dc1db20d704",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "33765ebefa38fc664b5cdf3adf96d2e8d8f4de7ad042403f03e53dc1db20d704",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-genai-interim-measures-2023:14/s1",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "第十四条 提供者发现违法内容的，应当及时采取停止生成、停止传输、消除等处置措施，采取模型优化训练等措施进行整改，并向有关主管部门报告。"
+  },
+  {
+   "obligation_id": "CN-genai-interim-measures-2023:14/s2",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "提供者发现使用者利用生成式人工智能服务从事违法活动的，应当依法依约采取警示、限制功能、暂停或者终止向其提供服务等处置措施，保存有关记录，并向有关主管部门报告。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-genai-interim-measures-2023:14",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

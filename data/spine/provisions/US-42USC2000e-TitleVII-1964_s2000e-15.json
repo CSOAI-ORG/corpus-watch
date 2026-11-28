@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-42USC2000e-TitleVII-1964:s2000e-15",
+ "label": "US-42USC2000e-TitleVII-1964 42 U.S.C. 2000e-15",
+ "instrument": "US-42USC2000e-TitleVII-1964",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "c33f87d84d1c295291ac2970921619ef6ca90f2ad98f62bced5a5836bcfa228a",
+ "sha256_v1": "",
+ "sha256_v2": "c33f87d84d1c295291ac2970921619ef6ca90f2ad98f62bced5a5836bcfa228a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "c33f87d84d1c295291ac2970921619ef6ca90f2ad98f62bced5a5836bcfa228a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-42USC2000e-TitleVII-1964:s2000e-15/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Presidential conferences; acquaintance of leadership with provisions for employment rights and obligations; plans for fair administration; membership\nThe President shall, as soon as feasible after July 2, 1964, convene one or more conferences for the purpose of enabling the leaders of groups whose members will be affected by this subchapter to become familiar with the rights afforded and obligations imposed by its provisions, and for the purpose of making plans which will result in the fair and effective administration of this subchapter when all of its provisions become effective."
+  },
+  {
+   "obligation_id": "US-42USC2000e-TitleVII-1964:s2000e-15/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The President shall invite the participation in such conference or conferences of (1) the members of the President's Committee on Equal Employment Opportunity, (2) the members of the Commission on Civil Rights, (3) representatives of State and local agencies engaged in furthering equal employment opportunity, (4) representatives of private agencies engaged in furthering equal employment opportunity, and (5) representatives of employers, labor organizations, and employment agencies who will be subject to this subchapter."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-42USC2000e-TitleVII-1964:s2000e-15",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:42",
+ "label": "EU-ehds-2025 Article 42",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "fb0fe351cba4ca4cb4a0ee45ccadac3aab31c0cd15f8a81df0d898b436ba240a",
+ "sha256_v1": "",
+ "sha256_v2": "fb0fe351cba4ca4cb4a0ee45ccadac3aab31c0cd15f8a81df0d898b436ba240a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "fb0fe351cba4ca4cb4a0ee45ccadac3aab31c0cd15f8a81df0d898b436ba240a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:42/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The national requirements or provisions referred to in paragraph 1 shall not adversely affect the harmonised software components of EHR systems."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:42/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When Member States adopt requirements or provisions in accordance with paragraph 1, they shall inform the Commission thereof."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:42",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

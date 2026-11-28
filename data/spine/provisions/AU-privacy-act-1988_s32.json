@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s32",
+ "label": "AU-privacy-act-1988 Section 32",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b4f1ccc0263e27a9333815b055279da5e0a2e4842c6f7fab406b03deaafcdeb4",
+ "sha256_v1": "",
+ "sha256_v2": "b4f1ccc0263e27a9333815b055279da5e0a2e4842c6f7fab406b03deaafcdeb4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "b4f1ccc0263e27a9333815b055279da5e0a2e4842c6f7fab406b03deaafcdeb4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s32/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(a)\tmonitored an activity in the performance of a function under paragraph 28(1)(d), 28A(1)(a), (b), (d) or (e) or (2)(b), (c) or (d) or 28B(1)(b) or (c); or\n(b)\tconducted an assessment under section 33C;\nthe Commissioner may report to the Minister about the activity or assessment, and must do so if so directed by the Minister."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s32/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\tThe Minister shall cause a copy of a report given under subsection (2) to be laid before each House of the Parliament as soon as practicable, and no later than 15 sitting days of that House, after the report is received by the Minister."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s32",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

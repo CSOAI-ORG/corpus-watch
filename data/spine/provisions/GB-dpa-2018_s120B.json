@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s120B",
+ "label": "GB-dpa-2018 Section 120B",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "fb9f49c1a480ad6eb8416113625be09a48f60e0ea03b797d2ea8e2164208dfd1",
+ "sha256_v1": "",
+ "sha256_v2": "fb9f49c1a480ad6eb8416113625be09a48f60e0ea03b797d2ea8e2164208dfd1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "fb9f49c1a480ad6eb8416113625be09a48f60e0ea03b797d2ea8e2164208dfd1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s120B/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Duties in relation to functions under the data protection legislation\nIn carrying out functions under the data protection legislation, the Commission must have regard to such of the following as appear to the Commission to be relevant in the circumstances—\n(a)\nthe desirability of promoting innovation;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s120B",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

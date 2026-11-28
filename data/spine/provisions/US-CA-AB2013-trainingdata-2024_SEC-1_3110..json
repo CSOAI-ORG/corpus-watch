@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB2013-trainingdata-2024:SEC-1:3110.",
+ "label": "US-CA-AB2013-trainingdata-2024 SECTION 1. / 3110.",
+ "instrument": "US-CA-AB2013-trainingdata-2024",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "041763be35707ab61223c8743bbd5f82ce4cafd5ed88eee8bc3777003fcb9cd8",
+ "sha256_v1": "",
+ "sha256_v2": "041763be35707ab61223c8743bbd5f82ce4cafd5ed88eee8bc3777003fcb9cd8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "041763be35707ab61223c8743bbd5f82ce4cafd5ed88eee8bc3777003fcb9cd8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB2013-trainingdata-2024:SEC-1:3110./none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB2013-trainingdata-2024:SEC-1:3110.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

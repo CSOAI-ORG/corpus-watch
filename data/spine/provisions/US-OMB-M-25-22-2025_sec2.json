@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-OMB-M-25-22-2025:sec2",
+ "label": "US-OMB-M-25-22-2025 Section 2",
+ "instrument": "US-OMB-M-25-22-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f0456f537d9078907f16a936581e0fed17e428a2484aa863478aacf860dd2eed",
+ "sha256_v1": "",
+ "sha256_v2": "f0456f537d9078907f16a936581e0fed17e428a2484aa863478aacf860dd2eed",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "f0456f537d9078907f16a936581e0fed17e428a2484aa863478aacf860dd2eed",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec2/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Agencies must comply with all applicable 0MB policies and coordinate compliance across their components with all appropriate officials."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-OMB-M-25-22-2025:sec2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

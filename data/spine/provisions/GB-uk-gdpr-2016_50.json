@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-uk-gdpr-2016:50",
+ "label": "GB-uk-gdpr-2016 Article 50",
+ "instrument": "GB-uk-gdpr-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "1010e0d81098dc273798ef2b930ec27c4251b545622e2224c23eb3ade7bd7b87",
+ "sha256_v1": "",
+ "sha256_v2": "1010e0d81098dc273798ef2b930ec27c4251b545622e2224c23eb3ade7bd7b87",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "1010e0d81098dc273798ef2b930ec27c4251b545622e2224c23eb3ade7bd7b87",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-uk-gdpr-2016:50/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "International cooperation for the protection of personal data\nIn relation to third countries and international organisations, the Commission shall take appropriate steps to:\ndevelop international cooperation mechanisms to facilitate the effective enforcement of legislation for the protection of personal data;\nprovide international mutual assistance in the enforcement of legislation for the protection of personal data, including through notification, complaint referral, investigative assistance and information exchange, subject to appropriate safeguards for the protection of personal data and ... fundamental rights and freedoms;\nengage relevant stakeholders in discussion and activities aimed "
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-uk-gdpr-2016:50",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

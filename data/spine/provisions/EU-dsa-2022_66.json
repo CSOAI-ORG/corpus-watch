@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:66",
+ "label": "EU-dsa-2022 Article 66",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d4a95c628a5df81d3e8954434880c71ef7ee2f4fc8951e8d65653aee6330ccca",
+ "sha256_v1": "",
+ "sha256_v2": "d4a95c628a5df81d3e8954434880c71ef7ee2f4fc8951e8d65653aee6330ccca",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "d4a95c628a5df81d3e8954434880c71ef7ee2f4fc8951e8d65653aee6330ccca",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:66/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the Commission decides to initiate proceedings pursuant to paragraph 1 of this Article, it shall notify all Digital Services Coordinators and the Board through the information sharing system referred to in Article 85, as well as the provider of the very large online platform or of the very large online search engine concerned."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:66/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Digital Services Coordinators shall, without undue delay after being informed of initiation of the proceedings, transmit to the Commission any information they hold about the infringement at stake."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:66/p2/s3",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The initiation of proceedings pursuant to paragraph 1 of this Article by the Commission shall relieve the Digital Services Coordinator, or any competent authority where applicable, of its powers to supervise and enforce provided for in this Regulation pursuant to Article 56(4)."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:66/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Digital Services Coordinators that have received such a request, and, where involved by the Digital Services Coordinator, any other competent authority, shall cooperate sincerely and in a timely manner with the Commission and shall be entitled to exercise their investigative powers referred to in Article 51(1) in respect of the provider of the very large online platform or of the very large online search engine at stake, with regard to information, persons and premises located within the territory of their Member State and in accordance with the request."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:66/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall provide the Digital Services Coordinator of establishment and the Board with all relevant information about the exercise of the powers referred to in Articles 67 to 72 and its preliminary findings referred to in Article 79(1)."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:66/p4/s2",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Board shall submit its views on those preliminary findings to the Commission within the period set pursuant to Article 79(2)."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:66/p4/s3",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall take utmost account of any views of the Board in its decision."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:66",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-AIActionPlan-2025:PIII-03",
+ "label": "US-AIActionPlan-2025 Strengthen AI Compute Export Control Enforcement",
+ "instrument": "US-AIActionPlan-2025",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "98f3f2966cf9910faa2febe63c83b4109f3e432a240fe35ddfefaca5f5f48a30",
+ "sha256_v1": "",
+ "sha256_v2": "98f3f2966cf9910faa2febe63c83b4109f3e432a240fe35ddfefaca5f5f48a30",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "98f3f2966cf9910faa2febe63c83b4109f3e432a240fe35ddfefaca5f5f48a30",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-AIActionPlan-2025:PIII-03/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-AIActionPlan-2025:PIII-03",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO13960-2020:sec7",
+ "label": "US-EO13960-2020 Section 7",
+ "instrument": "US-EO13960-2020",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5276ff18c30d7608dde6cb2e82037257dd8133a2f30a2db0e28a23c17dc1ab96",
+ "sha256_v1": "",
+ "sha256_v2": "5276ff18c30d7608dde6cb2e82037257dd8133a2f30a2db0e28a23c17dc1ab96",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "5276ff18c30d7608dde6cb2e82037257dd8133a2f30a2db0e28a23c17dc1ab96",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO13960-2020:sec7/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) Within 90 days of the date of this order, the Presidential Innovation Fellows (PIF) program, administered by the General Services Administration (GSA) in collaboration with other agencies, shall identify priority areas of expertise and establish an AI track to attract experts from industry and academia to undertake a period of work at an agency."
+  },
+  {
+   "obligation_id": "US-EO13960-2020:sec7/p7/s2",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) Within 45 days of the date of this order, the Office of Personnel Management (OPM), in coordination with GSA and relevant agencies, shall create an inventory of Federal Government rotational programs and determine how these programs can be used to expand the number of employees with AI expertise at the agencies."
+  },
+  {
+   "obligation_id": "US-EO13960-2020:sec7/p7/s3",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) Within 180 days of the creation of the inventory of Government rotational programs described in section 7(b) of this order, OPM shall issue a report with recommendations for how the programs in the inventory can be best used to expand the number of employees with AI expertise at the agencies."
+  },
+  {
+   "obligation_id": "US-EO13960-2020:sec7/p7/s4",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This report shall be shared with the interagency coordination bodies identified pursuant to section 6 of this order, enabling agencies to better use these programs for the use of AI, consistent with this order."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO13960-2020:sec7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s42",
+ "label": "GB-osa-2023 Section 42",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "803e08bff68d13ed1fccb7933a12715e4a359394cd090ca989bec7f33630c2ea",
+ "sha256_v1": "",
+ "sha256_v2": "803e08bff68d13ed1fccb7933a12715e4a359394cd090ca989bec7f33630c2ea",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "803e08bff68d13ed1fccb7933a12715e4a359394cd090ca989bec7f33630c2ea",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s42/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Codes of practice: principles, objectives, content\nSchedule 4 contains—\n(a)\nprovision about the principles OFCOM must consider when preparing codes of practice under section 41,\n(b)\nthe online safety objectives (and a power for the Secretary of State by regulations to revise those objectives),\n(c)\nprovision about the measures that may be described in codes of practice (including, in particular, constraints on the recommendation of the use of proactive technology), and\n(d)\nother provision related to codes of practice."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s42",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

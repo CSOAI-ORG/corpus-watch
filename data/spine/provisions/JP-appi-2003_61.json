@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:61",
+ "label": "JP-appi-2003 Article 61",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "81cc949e800b6bdf1c75f1dc5889a5e5397cccfe4f0d009b8054a59b6e3e3110",
+ "sha256_v1": "",
+ "sha256_v2": "81cc949e800b6bdf1c75f1dc5889a5e5397cccfe4f0d009b8054a59b6e3e3110",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "81cc949e800b6bdf1c75f1dc5889a5e5397cccfe4f0d009b8054a59b6e3e3110",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:61/s4",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "）の定める所掌事務又は業務を遂行するため必要な場合に限り、かつ、その利用目的をできる限り特定しなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:61/s5",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "２ 行政機関等は、前項の規定により特定された利用目的の達成に必要な範囲を超えて、個人情報を保有してはならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:61/s6",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "３ 行政機関等は、利用目的を変更する場合には、変更前の利用目的と相当の関連性を有すると合理的に認められる範囲を超えて行ってはならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:61",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

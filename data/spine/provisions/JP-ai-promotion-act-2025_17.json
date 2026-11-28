@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-ai-promotion-act-2025:17",
+ "label": "JP-ai-promotion-act-2025 Article 17",
+ "instrument": "JP-ai-promotion-act-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "aa1eac02edef1bec5a0f1689fadf7d79bf0555621c3fad706d5ac5e973d5dd81",
+ "sha256_v1": "",
+ "sha256_v2": "aa1eac02edef1bec5a0f1689fadf7d79bf0555621c3fad706d5ac5e973d5dd81",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "aa1eac02edef1bec5a0f1689fadf7d79bf0555621c3fad706d5ac5e973d5dd81",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-ai-promotion-act-2025:17/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "国は、人工知能関連技術の研究開発及び活用に関する国際協力を推進するとともに、国際的な規範の策定に積極的に参画するものとする。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-ai-promotion-act-2025:17",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s135",
+ "label": "GB-duaa-2025 Section 135",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "86d0ffc4fc15c454d578b815e263d0542d50f8fa514774769ce67c2c2f1b2d14",
+ "sha256_v1": "",
+ "sha256_v2": "86d0ffc4fc15c454d578b815e263d0542d50f8fa514774769ce67c2c2f1b2d14",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "86d0ffc4fc15c454d578b815e263d0542d50f8fa514774769ce67c2c2f1b2d14",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s135/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Economic impact assessment\n(1)\nThe Secretary of State must, before the end of the period of 9 months beginning with the day on which this Act is passed—\n(a)\nprepare and publish an assessment of the economic impact in the United Kingdom of each of the four policy options described in section B.4 of the Copyright and AI Consultation Paper, read with relevant parts of section C of that Paper (policy options about copyright law and the training of artificial intelligence models using copyright works), and\n(b)\nlay a document containing the assessment before Parliament."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s135/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nAn assessment included in the document must, among other things, include assessment of the economic impact of each option on—\n(a)\ncopyright owners, and\n(b)\npersons who develop or use AI systems,\nincluding the impact on copyright owners, developers and users who are individuals, micro businesses, small businesses or medium-sized businesses."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s135",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-UT-HB276-AImodifications-2026:Section-9",
+ "label": "US-UT-HB276-AImodifications-2026 Section 9",
+ "instrument": "US-UT-HB276-AImodifications-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "1a774900ac5c9bcb0239b4bc5de143228ca625056aca3da5068ffb2e82a1c3e2",
+ "sha256_v1": "",
+ "sha256_v2": "1a774900ac5c9bcb0239b4bc5de143228ca625056aca3da5068ffb2e82a1c3e2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "1a774900ac5c9bcb0239b4bc5de143228ca625056aca3da5068ffb2e82a1c3e2",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-UT-HB276-AImodifications-2026:Section-9/p9/s1",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "(1) A covered platform shall establish and implement notice and removal procedures that comply with the requirements established in Section 3(a) of the Take It Down Act."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-UT-HB276-AImodifications-2026:Section-9",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

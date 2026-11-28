@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-UT-13-72a-MHchatbots-2025:13-72a-301",
+ "label": "US-UT-13-72a-MHchatbots-2025 Utah Code § 13-72a-301",
+ "instrument": "US-UT-13-72a-MHchatbots-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ed41218e0a2e60214d5bced41448ab08a42897e7996f0d76b4910b17ea46cef6",
+ "sha256_v1": "",
+ "sha256_v2": "ed41218e0a2e60214d5bced41448ab08a42897e7996f0d76b4910b17ea46cef6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ed41218e0a2e60214d5bced41448ab08a42897e7996f0d76b4910b17ea46cef6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-UT-13-72a-MHchatbots-2025:13-72a-301/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If any provision of this chapter or the application of any provision of this chapter to any person or circumstance is held invalid by a final decision of a court of competent jurisdiction, the remainder of this chapter shall be given effect without the invalid provision or application."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-UT-13-72a-MHchatbots-2025:13-72a-301",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB853-2025:SEC-7",
+ "label": "US-CA-AB853-2025 SEC. 7.",
+ "instrument": "US-CA-AB853-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ebe61fd6b21d46f136d56b7a657af1c99f5d26eb0492b46f1c4afc6416c66009",
+ "sha256_v1": "",
+ "sha256_v2": "ebe61fd6b21d46f136d56b7a657af1c99f5d26eb0492b46f1c4afc6416c66009",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "ebe61fd6b21d46f136d56b7a657af1c99f5d26eb0492b46f1c4afc6416c66009",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB853-2025:SEC-7/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If any provision of this act or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB853-2025:SEC-7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

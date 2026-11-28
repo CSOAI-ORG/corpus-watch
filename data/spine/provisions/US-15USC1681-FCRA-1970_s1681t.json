@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-15USC1681-FCRA-1970:s1681t",
+ "label": "US-15USC1681-FCRA-1970 15 U.S.C. 1681t",
+ "instrument": "US-15USC1681-FCRA-1970",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "2bfaa7f90e35937f503a3f3808d9879c16d68ec71f406f79154085925ef30ab7",
+ "sha256_v1": "",
+ "sha256_v2": "2bfaa7f90e35937f503a3f3808d9879c16d68ec71f406f79154085925ef30ab7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "2bfaa7f90e35937f503a3f3808d9879c16d68ec71f406f79154085925ef30ab7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-15USC1681-FCRA-1970:s1681t/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-15USC1681-FCRA-1970:s1681t",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

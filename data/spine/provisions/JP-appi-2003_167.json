@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:167",
+ "label": "JP-appi-2003 Article 167",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "603f83eb93d18b6c3c3faed2a859847a05fa49788036f76ed35b989dc16067bd",
+ "sha256_v1": "",
+ "sha256_v2": "603f83eb93d18b6c3c3faed2a859847a05fa49788036f76ed35b989dc16067bd",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "603f83eb93d18b6c3c3faed2a859847a05fa49788036f76ed35b989dc16067bd",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:167/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "地方公共団体の長は、この法律の規定に基づき個人情報の保護に関する条例を定めたときは、遅滞なく、個人情報保護委員会規則で定めるところにより、その旨及びその内容を委員会に届け出なければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:167/s3",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "２ 委員会は、前項の規定による届出があったときは、当該届出に係る事項をインターネットの利用その他適切な方法により公表しなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:167",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

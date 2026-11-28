@@ -1,0 +1,156 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:3",
+ "label": "EU-dma-2022 Article 3",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "e4b18e9f31b23d608997f25d77b49674923d857525764340d483c99aeaa37047",
+ "sha256_v1": "",
+ "sha256_v2": "e4b18e9f31b23d608997f25d77b49674923d857525764340d483c99aeaa37047",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "e4b18e9f31b23d608997f25d77b49674923d857525764340d483c99aeaa37047",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:3/p1/s1",
+   "paragraph": "1",
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An undertaking shall be designated as a gatekeeper if:"
+  },
+  {
+   "obligation_id": "EU-dma-2022:3/p2/s1",
+   "paragraph": "2",
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An undertaking shall be presumed to satisfy the respective requirements in paragraph 1:"
+  },
+  {
+   "obligation_id": "EU-dma-2022:3/p3/s1",
+   "paragraph": "3",
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Where an undertaking providing core platform services meets all of the thresholds in paragraph 2, it shall notify the Commission thereof without delay and in any event within 2 months after those thresholds are met and provide it with the relevant information identified in paragraph"
+  },
+  {
+   "obligation_id": "EU-dma-2022:3/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That notification shall include the relevant information identified in paragraph 2 for each of the core platform services of the undertaking that meets the thresholds in paragraph 2, point (b)."
+  },
+  {
+   "obligation_id": "EU-dma-2022:3/p2/s2",
+   "paragraph": "2",
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Whenever a further core platform service provided by the undertaking that has previously been designated as a gatekeeper meets the thresholds in paragraph 2, points (b) and (c), such undertaking shall notify the Commission thereof within 2 months after those thresholds are satisfied."
+  },
+  {
+   "obligation_id": "EU-dma-2022:3/p2/s3",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the undertaking providing the core platform service fails to notify the Commission pursuant to the first subparagraph of this paragraph and fails to provide within the deadline set by the Commission in the request for information pursuant to Article 21 all the relevant information that is required for the Commission to designate the undertaking concerned as gatekeeper pursuant to paragraph 4 of this Article, the Commission shall still be entitled to designate that undertaking as a gatekeeper, based on information available to the Commission."
+  },
+  {
+   "obligation_id": "EU-dma-2022:3/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall designate as a gatekeeper, without undue delay and at the latest within 45 working days after receiving the complete information referred to in paragraph 3, an undertaking providing core platform services that meets all the thresholds in paragraph 2."
+  },
+  {
+   "obligation_id": "EU-dma-2022:3/p1/s1",
+   "paragraph": "1",
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the Commission concludes that the undertaking providing core platform services was not able to demonstrate that the relevant core platform services that it provides do not satisfy the requirements of paragraph 1 of this Article, it shall designate that undertaking as a gatekeeper in accordance with the procedure laid down in Article 17(3)."
+  },
+  {
+   "obligation_id": "EU-dma-2022:3/p8/s1",
+   "paragraph": "8",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall designate as a gatekeeper, in accordance with the procedure laid down in Article 17, any undertaking providing core platform services that meets each of the requirements of paragraph 1 of this Article, but does not satisfy each of the thresholds in paragraph 2 of this Article."
+  },
+  {
+   "obligation_id": "EU-dma-2022:3/p8/s2",
+   "paragraph": "8",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "For that purpose, the Commission shall take into account some or all of the following elements, insofar as they are relevant for the undertaking providing core platform services under consideration:"
+  },
+  {
+   "obligation_id": "EU-dma-2022:3/p8/s3",
+   "paragraph": "8",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In carrying out its assessment under this paragraph, the Commission shall take into account foreseeable developments in relation to the elements listed in the second subparagraph, including any planned concentrations involving another undertaking providing core platform services or providing any other services in the digital sector or enabling the collection of data."
+  },
+  {
+   "obligation_id": "EU-dma-2022:3/p9/s1",
+   "paragraph": "9",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "For each undertaking designated as a gatekeeper pursuant to paragraph 4 or 8, the Commission shall list in the designation decision the relevant core platform services that are provided within that undertaking and which individually are an important gateway for business users to reach end users as referred to in paragraph 1, point (b)."
+  },
+  {
+   "obligation_id": "EU-dma-2022:3/p10/s1",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The gatekeeper shall comply with the obligations laid down in Articles 5, 6 and 7 within 6 months after a core platform service has been listed in the designation decision pursuant to paragraph 9 of this Article."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

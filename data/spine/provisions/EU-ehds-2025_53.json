@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:53",
+ "label": "EU-ehds-2025 Article 53",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d49bd870f5ebf15d2e3e7e9fa223a07f44893a5f37c3fe297965d29f71b7b212",
+ "sha256_v1": "",
+ "sha256_v2": "d49bd870f5ebf15d2e3e7e9fa223a07f44893a5f37c3fe297965d29f71b7b212",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "d49bd870f5ebf15d2e3e7e9fa223a07f44893a5f37c3fe297965d29f71b7b212",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:53/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Health data access bodies shall only grant access to electronic health data referred to in Article 51 for secondary use to a health data user where the processing of the data by that health data user is necessary for one of the following purposes:"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:53/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Access to electronic health data for the purposes referred to in paragraph 1, points (a), (b) and (c), shall be reserved for public sector bodies and Union institutions, bodies, offices and agencies exercising the tasks conferred on them by Union or national law, including where processing of data for carrying out those tasks is done by a third party on behalf of those public sector bodies or of Union institutions, bodies, offices and agencies."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:53",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

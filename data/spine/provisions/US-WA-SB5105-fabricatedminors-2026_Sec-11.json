@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-WA-SB5105-fabricatedminors-2026:Sec-11",
+ "label": "US-WA-SB5105-fabricatedminors-2026 Sec. 11",
+ "instrument": "US-WA-SB5105-fabricatedminors-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6baaea14c075a99b6fb77fb71bd1a583992803c2999d7c5fcd60f0bbc951c9e3",
+ "sha256_v1": "",
+ "sha256_v2": "6baaea14c075a99b6fb77fb71bd1a583992803c2999d7c5fcd60f0bbc951c9e3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "6baaea14c075a99b6fb77fb71bd1a583992803c2999d7c5fcd60f0bbc951c9e3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-WA-SB5105-fabricatedminors-2026:Sec-11/p11/s1",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1) Prosecutions for criminal offenses shall not be commenced after the periods prescribed in this section."
+  },
+  {
+   "obligation_id": "US-WA-SB5105-fabricatedminors-2026:Sec-11/p11/s2",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(j) No other felony may be prosecuted more than three years after its commission; except that in a prosecution under RCW 9A.44.115 , if the person who was viewed, photographed, or filmed did not realize at the time that he or she was being viewed, photographed, or filmed, the prosecution must be commenced within two years of the time the person who was viewed or in the photograph or film first learns that he or she was viewed, photographed, or filmed."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-WA-SB5105-fabricatedminors-2026:Sec-11",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

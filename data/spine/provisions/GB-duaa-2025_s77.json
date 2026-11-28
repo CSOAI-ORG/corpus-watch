@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s77",
+ "label": "GB-duaa-2025 Section 77",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d910b7a625a13ee1c22f17d0bad6ae160e807777b126f8616d9f8a993cfae2f2",
+ "sha256_v1": "",
+ "sha256_v2": "d910b7a625a13ee1c22f17d0bad6ae160e807777b126f8616d9f8a993cfae2f2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d910b7a625a13ee1c22f17d0bad6ae160e807777b126f8616d9f8a993cfae2f2",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s77/p7/s1",
+   "paragraph": "7",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A controller relying on paragraph 5 must take appropriate measures to protect the data subject’s rights, freedoms and legitimate interests, including by making the information available publicly."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s77/p7/s1",
+   "paragraph": "7",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A controller relying on paragraph 5(e) or (f) must take appropriate measures to protect the data subject’s rights, freedoms and legitimate interests, including by making the information available publicly."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s77",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

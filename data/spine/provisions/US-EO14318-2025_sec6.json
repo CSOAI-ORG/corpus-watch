@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14318-2025:sec6",
+ "label": "US-EO14318-2025 Section 6",
+ "instrument": "US-EO14318-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3f02c81335964f4c218276b222b13de356f4cfee7755d801fe54a5e68ec6fcb3",
+ "sha256_v1": "",
+ "sha256_v2": "3f02c81335964f4c218276b222b13de356f4cfee7755d801fe54a5e68ec6fcb3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "3f02c81335964f4c218276b222b13de356f4cfee7755d801fe54a5e68ec6fcb3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14318-2025:sec6/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) In consultation with Project Sponsors, the Executive Director shall expedite the transition of eligible Qualifying Projects from transparency projects to FAST-41 ``covered projects'' as defined by 42 U.S.C. 4370m(6)(A)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14318-2025:sec6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

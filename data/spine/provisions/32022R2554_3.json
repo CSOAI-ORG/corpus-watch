@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022R2554:3",
+ "label": "DORA Art. 3",
+ "instrument": "DORA",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "5abcd387b857b626c788a827de61798c57a2ca438b014f1f105b78fa1dde1a71",
+ "sha256_v1": "5abcd387b857b626c788a827de61798c57a2ca438b014f1f105b78fa1dde1a71",
+ "sha256_v2": "746d317d98a19aa1bf5052cb073dfacd44db647feddacd91fec85b8876e64969",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": true,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "746d317d98a19aa1bf5052cb073dfacd44db647feddacd91fec85b8876e64969",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022R2554:3/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 3 definitions",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022R2554:3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

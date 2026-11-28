@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB2392-2026:SEC-1:66098.3.",
+ "label": "US-CA-AB2392-2026 SECTION 1. / 66098.3.",
+ "instrument": "US-CA-AB2392-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "28e1d88786da8c90615c0d221e5b828c3d2adf9b0286b85966395ec4bf866ae2",
+ "sha256_v1": "",
+ "sha256_v2": "28e1d88786da8c90615c0d221e5b828c3d2adf9b0286b85966395ec4bf866ae2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "28e1d88786da8c90615c0d221e5b828c3d2adf9b0286b85966395ec4bf866ae2",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB2392-2026:SEC-1:66098.3./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Until GenAI procurement standards are adopted, the office of the Chancellor of the California Community Colleges and the California State University shall, and the University of California is requested to, within 60 days following the execution of a systemwide contract for a GenAI system, submit a written report to the Legislature and relevant policy committees of the Legislature with jurisdiction over higher education and privacy and consumer protection, consistent with Section 9795 of the Government Code."
+  },
+  {
+   "obligation_id": "US-CA-AB2392-2026:SEC-1:66098.3./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The report shall include, but not be limited to, a description of all of the following:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB2392-2026:SEC-1:66098.3.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

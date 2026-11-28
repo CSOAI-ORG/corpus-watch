@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s132",
+ "label": "GB-osa-2023 Section 132",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a7b6f911eeed918b44ea6242436f5c9ad69083c1a0f3c1f7aae148e0cf38cf8f",
+ "sha256_v1": "",
+ "sha256_v2": "a7b6f911eeed918b44ea6242436f5c9ad69083c1a0f3c1f7aae148e0cf38cf8f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a7b6f911eeed918b44ea6242436f5c9ad69083c1a0f3c1f7aae148e0cf38cf8f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s132/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nIf, after considering any representations and evidence, OFCOM decide not to give the person a notice under this section, they must inform the person of that fact."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s132",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,48 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022R2554:49",
+ "label": "DORA Art. 49",
+ "instrument": "DORA",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9ea8dac0ec30b73c3c92e2e3e6f5efdfdd9d563c897ab390d4cb1e5690bc8af7",
+ "sha256_v1": "9ea8dac0ec30b73c3c92e2e3e6f5efdfdd9d563c897ab390d4cb1e5690bc8af7",
+ "sha256_v2": "393a82f8e9eec79d8968b2569d6c4a0a93037dd9e9d0176e9038f19a81511ee9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "393a82f8e9eec79d8968b2569d6c4a0a93037dd9e9d0176e9038f19a81511ee9",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022R2554:49/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Competent authorities, ESAs and the ECB shall cooperate closely with each other and exchange information to carry out their duties pursuant to Articles 47 to"
+  },
+  {
+   "obligation_id": "32022R2554:49/p54/s1",
+   "paragraph": "54",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "They shall closely coordinate their supervision in order to identify and remedy breaches of this Regulation, develop and promote best practices, facilitate collaboration, foster consistency of interpretation and provide cross-jurisdictional assessments in the event of any disagreements."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022R2554:49",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

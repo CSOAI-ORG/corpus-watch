@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-political-ads-2024:30",
+ "label": "EU-political-ads-2024 Article 30",
+ "instrument": "EU-political-ads-2024",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "f872ad39f6ffe0af4b12ddb5421e88a23e8a0c24908eb5c2b580c51d3d5cf444",
+ "sha256_v1": "",
+ "sha256_v2": "f872ad39f6ffe0af4b12ddb5421e88a23e8a0c24908eb5c2b580c51d3d5cf444",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "f872ad39f6ffe0af4b12ddb5421e88a23e8a0c24908eb5c2b580c51d3d5cf444",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-political-ads-2024:30/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:entry into force",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-political-ads-2024:30",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

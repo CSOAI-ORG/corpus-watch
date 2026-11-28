@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB602-2019:SEC-1",
+ "label": "US-CA-AB602-2019 SECTION 1.",
+ "instrument": "US-CA-AB602-2019",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "86fef75a86355ab5b03284ba660f70d4bf199746d92600efa41d536aedf35f8f",
+ "sha256_v1": "",
+ "sha256_v2": "86fef75a86355ab5b03284ba660f70d4bf199746d92600efa41d536aedf35f8f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "86fef75a86355ab5b03284ba660f70d4bf199746d92600efa41d536aedf35f8f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB602-2019:SEC-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d)It shall not be a defense to an action under this section that there is a disclaimer included in the sexually explicit material that communicates that the inclusion of the depicted individual in the sexually explicit material was unauthorized or that the depicted individual did not participate in the creation or development of the material."
+  },
+  {
+   "obligation_id": "US-CA-AB602-2019:SEC-1/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(f)An action under this section shall be commenced no later than three years from the date the unauthorized creation, development, or disclosure was discovered or should have been discovered with the exercise of reasonable diligence."
+  },
+  {
+   "obligation_id": "US-CA-AB602-2019:SEC-1/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If any provision of this section or its application is held invalid, that invalidity shall not affect other provisions."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB602-2019:SEC-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

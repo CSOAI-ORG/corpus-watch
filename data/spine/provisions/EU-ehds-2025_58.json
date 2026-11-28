@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:58",
+ "label": "EU-ehds-2025 Article 58",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f43f0655e0f1f1d400dac4400c99c7f742f7415a2f85fd97f1bb5aa23bae5175",
+ "sha256_v1": "",
+ "sha256_v2": "f43f0655e0f1f1d400dac4400c99c7f742f7415a2f85fd97f1bb5aa23bae5175",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "f43f0655e0f1f1d400dac4400c99c7f742f7415a2f85fd97f1bb5aa23bae5175",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:58/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Health data access bodies shall make information on the conditions under which electronic health data are made available for secondary use publicly available, easily searchable through electronic means and accessible for natural persons."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:58/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That information shall cover the following:"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:58/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "If a Member State has provided for the right to opt out pursuant to Article 71 to be exercised through the health data access bodies, the relevant health data access bodies shall provide public information about the procedure to opt out and facilitate the exercise of that right."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:58/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where a health data access body is informed by a health data user of a significant finding related to the health of a natural person, as referred to in Article 61(5), the health data access body shall inform the health data holder about that finding."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:58/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The health data holder shall, under the conditions laid down by national law, inform the natural person or health professional treating the natural person concerned."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:58/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Natural persons shall have the right to request not to be informed of such findings."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:58/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall inform the public at large about the role and benefits of health data access bodies."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:58",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

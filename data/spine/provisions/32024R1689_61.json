@@ -1,0 +1,48 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:61",
+ "label": "EU AI Act Art. 61",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "09bc45f437606c1971309eccd293b8c0072c84979ca06200a78a2712a9d7acde",
+ "sha256_v1": "09bc45f437606c1971309eccd293b8c0072c84979ca06200a78a2712a9d7acde",
+ "sha256_v2": "09bc45f437606c1971309eccd293b8c0072c84979ca06200a78a2712a9d7acde",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "09bc45f437606c1971309eccd293b8c0072c84979ca06200a78a2712a9d7acde",
+ "agent_register_kinds": [
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:61/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the purpose of testing in real world conditions under Article 60, freely-given informed consent shall be obtained from the subjects of testing prior to their participation in such testing and after their having been duly informed with concise, clear, relevant, and understandable information regarding:"
+  },
+  {
+   "obligation_id": "32024R1689:61/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The informed consent shall be dated and documented and a copy shall be given to the subjects of testing or their legal representative."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:61",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,156 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:25",
+ "label": "EU-mica-2023 Article 25",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "c0dfd8303b0cba6dcef8f32f7402801af152a7e36f9d0f7c9e8c80e657a75504",
+ "sha256_v1": "",
+ "sha256_v2": "c0dfd8303b0cba6dcef8f32f7402801af152a7e36f9d0f7c9e8c80e657a75504",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "c0dfd8303b0cba6dcef8f32f7402801af152a7e36f9d0f7c9e8c80e657a75504",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:25/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Issuers of asset-referenced tokens shall notify the competent authority of their home Member State of any intended change of their business model likely to have a significant influence on the purchase decision of any holders or prospective holders of asset-referenced tokens, which occurs after the authorisation pursuant to Article 21 or after the approval of the crypto-asset white paper pursuant to Article 17, as well as in the context of Article"
+  },
+  {
+   "obligation_id": "EU-mica-2023:25/p23/s1",
+   "paragraph": "23",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Issuers of asset-referenced tokens shall notify the competent authority of their home Member State at least 30 working days before the intended changes take effect."
+  },
+  {
+   "obligation_id": "EU-mica-2023:25/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where any intended change as referred to in paragraph 1 has been notified to the competent authority, the issuer of an asset-referenced token shall draw up a draft modified crypto-asset white paper and shall ensure that the order of the information appearing therein is consistent with that of the original crypto-asset white paper."
+  },
+  {
+   "obligation_id": "EU-mica-2023:25/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The issuer of the asset-referenced token shall notify the draft modified crypto-asset white paper to the competent authority of the home Member State."
+  },
+  {
+   "obligation_id": "EU-mica-2023:25/p2/s3",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authority shall electronically acknowledge receipt of the draft modified crypto-asset white paper as soon as possible, and at the latest five working days from receipt thereof."
+  },
+  {
+   "obligation_id": "EU-mica-2023:25/p2/s4",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authority shall grant approval of, or refuse to approve, the draft modified crypto-asset white paper within 30 working days of acknowledgement of receipt thereof."
+  },
+  {
+   "obligation_id": "EU-mica-2023:25/p2/s5",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When the competent authority makes such request, the time limit of 30 working days shall commence only when the competent authority has received the additional information requested."
+  },
+  {
+   "obligation_id": "EU-mica-2023:25/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the competent authority considers that the modifications to a crypto-asset white paper are potentially relevant for the smooth operation of payment systems, monetary policy transmission and monetary sovereignty, it shall consult the ECB and, where applicable, the central bank referred to in Article 20(4)."
+  },
+  {
+   "obligation_id": "EU-mica-2023:25/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The ECB or the relevant central bank and, where applicable, EBA and ESMA, shall provide an opinion within 20 working days of receipt of the consultation referred to in the first subparagraph."
+  },
+  {
+   "obligation_id": "EU-mica-2023:25/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authority shall require the issuer of the asset-referenced token to take any appropriate corrective measures to address concerns related to the smooth operation of payment systems, monetary policy transmission, or monetary sovereignty, if such corrective measures are proposed by the ECB or, where applicable, the central bank referred to in Article 20(4) in the consultations referred to in paragraph 3 of this Article."
+  },
+  {
+   "obligation_id": "EU-mica-2023:25/p4/s2",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the ECB or the central bank referred to in Article 20(4) has proposed different measures than the ones required by the competent authority, the measures proposed shall be combined or, if not possible, the more stringent measure shall be required."
+  },
+  {
+   "obligation_id": "EU-mica-2023:25/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authority shall communicate the modified crypto-asset white paper to ESMA, the single points of contact of the host Member States, EBA, the ECB and, where applicable, the central bank of the Member State concerned within two working days of granting approval."
+  },
+  {
+   "obligation_id": "EU-mica-2023:25/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ESMA shall make the modified crypto-asset white paper available in the register referred to in Article 109 without undue delay."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:25",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

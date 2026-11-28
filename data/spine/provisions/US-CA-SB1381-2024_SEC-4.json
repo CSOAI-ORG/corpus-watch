@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB1381-2024:SEC-4",
+ "label": "US-CA-SB1381-2024 SEC. 4.",
+ "instrument": "US-CA-SB1381-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "42af84d3398d76576e6aca9c0d951c091beab9b452c61d561958dd00bac9088d",
+ "sha256_v1": "",
+ "sha256_v2": "42af84d3398d76576e6aca9c0d951c091beab9b452c61d561958dd00bac9088d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "42af84d3398d76576e6aca9c0d951c091beab9b452c61d561958dd00bac9088d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB1381-2024:SEC-4/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Proceedings shall be initiated by a petition of forfeiture filed in the superior court of the county in which the matter is located."
+  },
+  {
+   "obligation_id": "US-CA-SB1381-2024:SEC-4/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)The prosecuting agency shall make service of process of a notice regarding that petition upon every individual who may have a property interest in the alleged proceeds."
+  },
+  {
+   "obligation_id": "US-CA-SB1381-2024:SEC-4/p4/s3",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notice shall state that any interested party may file a verified claim with the superior court stating the amount of their claimed interest and an affirmation or denial of the prosecuting agency’s allegation."
+  },
+  {
+   "obligation_id": "US-CA-SB1381-2024:SEC-4/p4/s4",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "If the notice cannot be given by registered mail or personal delivery, the notice shall be published for at least three successive weeks in a newspaper of general circulation in the county where the property is located."
+  },
+  {
+   "obligation_id": "US-CA-SB1381-2024:SEC-4/p4/s5",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "All notices shall set forth the time within which a claim of interest in the property seized is required to be filed."
+  },
+  {
+   "obligation_id": "US-CA-SB1381-2024:SEC-4/p4/s6",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A verified copy of the claim shall be given by the claimant to the Attorney General or district attorney, county counsel, or city attorney, as appropriate."
+  },
+  {
+   "obligation_id": "US-CA-SB1381-2024:SEC-4/p4/s7",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)If, at the end of the time set forth in paragraph (1), an interested person has not filed a claim, the court, upon motion, shall declare that the person has defaulted upon their alleged interest, and it shall be subject to forfeiture upon proof of compliance with subdivision (c)."
+  },
+  {
+   "obligation_id": "US-CA-SB1381-2024:SEC-4/p4/s8",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The court order shall specify the agency responsible for the destruction."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB1381-2024:SEC-4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

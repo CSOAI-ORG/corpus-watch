@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:70",
+ "label": "JP-appi-2003 Article 70",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "31e107fcf0465ad65dada2cc4bf3b97af1e7b1ae5eb59c1fe5cab9e1db0d0fc1",
+ "sha256_v1": "",
+ "sha256_v2": "31e107fcf0465ad65dada2cc4bf3b97af1e7b1ae5eb59c1fe5cab9e1db0d0fc1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "31e107fcf0465ad65dada2cc4bf3b97af1e7b1ae5eb59c1fe5cab9e1db0d0fc1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:70/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "行政機関の長等は、利用目的のために又は前条第二項第三号若しくは第四号の規定に基づき、保有個人情報を提供する場合において、必要があると認めるときは、保有個人情報の提供を受ける者に対し、提供に係る個人情報について、その利用の目的若しくは方法の制限その他必要な制限を付し、又はその漏えいの防止その他の個人情報の適切な管理のために必要な措置を講ずることを求めるものとする。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:70",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

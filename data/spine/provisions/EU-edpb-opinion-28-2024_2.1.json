@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-edpb-opinion-28-2024:2.1",
+ "label": "EU-edpb-opinion-28-2024 section 2.1",
+ "instrument": "EU-edpb-opinion-28-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "c0d776eef12873b88e84dda808c4bef0b551d07e342d0add91d6a636160d10ec",
+ "sha256_v1": "",
+ "sha256_v2": "c0d776eef12873b88e84dda808c4bef0b551d07e342d0add91d6a636160d10ec",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 2,
+ "sha256_current": "c0d776eef12873b88e84dda808c4bef0b551d07e342d0add91d6a636160d10ec",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-edpb-opinion-28-2024:2.1/p17/s1",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In this respect, the Court of Justice of the European Union (“CJEU”) further clarified that\n‘where a set of data containing both sensitive data and non- sensitive data is [...] collected en\nbloc without it being possible to separate the data items from each other at the time of\ncollection, the processing of that set of data must be regarded as being prohibited, within the\nmeaning of Article 9(1) of the GDPR, if it contains at least one sensitive data item and none of\nthe derogations in Article 9(2) of that regulation applies ’ 12 ."
+  },
+  {
+   "obligation_id": "EU-edpb-opinion-28-2024:2.1/p17/s2",
+   "paragraph": "17",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Article 6(4) GD PR provides, for certain legal bases, criteria that a\ncontroller shall take into account to ascertain whether processing for another purpose is\ncompatible with the purpose for which personal data are initially collected."
+  },
+  {
+   "obligation_id": "EU-edpb-opinion-28-2024:2.1/p17/s3",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Data protection by design is an\nessential safeguard to be assessed by SAs in the context of the development and deployment of\nan AI model.\n11 See also the EDPB Report of the work undertaken by the ChatGPT Taskforce, adopted on 23 May 2024,\nparagraph 18: ‘Regarding the processing of special categories of personal data, one of the exceptions of Article\n9(2) must be applicable in addition, for the processing to be lawful."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-edpb-opinion-28-2024:2.1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

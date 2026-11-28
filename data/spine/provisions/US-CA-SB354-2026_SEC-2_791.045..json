@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB354-2026:SEC-2:791.045.",
+ "label": "US-CA-SB354-2026 SEC. 2. / 791.045.",
+ "instrument": "US-CA-SB354-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a10e55d4186ee0dde7593904abc8f47b2b51be3c832094e34b47055a4e6ec221",
+ "sha256_v1": "",
+ "sha256_v2": "a10e55d4186ee0dde7593904abc8f47b2b51be3c832094e34b47055a4e6ec221",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "a10e55d4186ee0dde7593904abc8f47b2b51be3c832094e34b47055a4e6ec221",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.045./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)(1)In addition to the notice required by Section 791.04, a licensee shall provide a clear and conspicuous notice to a consumer that accurately reflects its privacy policies and practices not less than annually during the continuation of an ongoing business relationship."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.045./p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)A notice required pursuant to this section shall comply with the requirements of Section 791.04."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.045./p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)If the licensee uses a separate, standard privacy notice in addition to the notices required pursuant to Section 791.04 and this section, the notices required pursuant to Section 791.04 and this section shall clearly state that any rights a consumer may have as described in these notices are not limited by the standard privacy notice that the licensee also uses."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.045./p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(f)The notice required by subdivision (a) shall not be required to be provided to a third-party natural person, including a beneficiary, claimant, family or household member, or emergency contact, or to an individual plan participant of an employee benefit plan for whom notice has been provided to the employer, consistent with the exemptions available under paragraph (2) of subdivision (a) of Section 791.04."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB354-2026:SEC-2:791.045.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

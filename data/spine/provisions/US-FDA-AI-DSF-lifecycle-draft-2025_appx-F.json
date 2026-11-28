@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-FDA-AI-DSF-lifecycle-draft-2025:appx-F",
+ "label": "US-FDA-AI-DSF-lifecycle-draft-2025 Appendix F: Example 510(k) Summary with Model Card",
+ "instrument": "US-FDA-AI-DSF-lifecycle-draft-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d4353b5a7291ad3e2e03d8d6ece77fdb190e130a92db444c97aff17d7d66e312",
+ "sha256_v1": "",
+ "sha256_v2": "d4353b5a7291ad3e2e03d8d6ece77fdb190e130a92db444c97aff17d7d66e312",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "d4353b5a7291ad3e2e03d8d6ece77fdb190e130a92db444c97aff17d7d66e312",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-FDA-AI-DSF-lifecycle-draft-2025:appx-F/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Example 510(k) Summary with Model Card In general, publicly available summaries must follow the applicable the requirements for the specific marketing submission (e.g., 510(k),71 De Novo,72 PMA73)."
+  },
+  {
+   "obligation_id": "US-FDA-AI-DSF-lifecycle-draft-2025:appx-F/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The most recent echocardiogram was paired with the most recent ECG for that patient prior to the echocardiogram. • The following models of ECG devices (A, B, C and D) were used to collect the 12-lead resting ECG data and used as the inputs to the model. o The 12-lead ECG duration must be 10 seconds long."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-FDA-AI-DSF-lifecycle-draft-2025:appx-F",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

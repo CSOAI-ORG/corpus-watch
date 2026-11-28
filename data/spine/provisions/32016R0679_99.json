@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:99",
+ "label": "GDPR Art. 99",
+ "instrument": "GDPR",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "3203cf5ade327d283d5f4b4a063f02ec1d24fd52a9610f665e6278f053d50f60",
+ "sha256_v1": "3203cf5ade327d283d5f4b4a063f02ec1d24fd52a9610f665e6278f053d50f60",
+ "sha256_v2": "62c2782dafcaa5937fc348e57eee4fcfa687cecc4a8c2ac486a9155a83f08af2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "62c2782dafcaa5937fc348e57eee4fcfa687cecc4a8c2ac486a9155a83f08af2",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:99/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 99 entry into force",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:99",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

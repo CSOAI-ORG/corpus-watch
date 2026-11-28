@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "TW-pdpa-1995:53-1",
+ "label": "TW-pdpa-1995 Article 53-1",
+ "instrument": "TW-pdpa-1995",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8b9af67f32253112f81f3bf741f8b153e851baf822e075c14542ee000fc264e8",
+ "sha256_v1": "",
+ "sha256_v2": "8b9af67f32253112f81f3bf741f8b153e851baf822e075c14542ee000fc264e8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "TW",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8b9af67f32253112f81f3bf741f8b153e851baf822e075c14542ee000fc264e8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "TW-pdpa-1995:53-1/s5",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "對本法中華民國一百十四年十月十七日修正之條文施行前依本法所為之行政處分不服，於修正施行後提起訴願者，應向主管機關為之。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=TW-pdpa-1995:53-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

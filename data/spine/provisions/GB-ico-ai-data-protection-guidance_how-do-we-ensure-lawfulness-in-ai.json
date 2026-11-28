@@ -1,0 +1,116 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-ico-ai-data-protection-guidance:how-do-we-ensure-lawfulness-in-ai",
+ "label": "GB-ico-ai-data-protection-guidance How do we ensure lawfulness in AI?",
+ "instrument": "GB-ico-ai-data-protection-guidance",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "caa1e2514dfa98912f7ef785158841cd492558b8f7baaf9d522c0d352a599df7",
+ "sha256_v1": "",
+ "sha256_v2": "caa1e2514dfa98912f7ef785158841cd492558b8f7baaf9d522c0d352a599df7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "caa1e2514dfa98912f7ef785158841cd492558b8f7baaf9d522c0d352a599df7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-do-we-ensure-lawfulness-in-ai/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "You must break down and separate each distinct processing operation, and identify the purpose and an appropriate lawful basis for each one, in order to comply with the principle of lawfulness."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-do-we-ensure-lawfulness-in-ai/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Whenever you are processing personal data – whether to train a new AI system, or make predictions using an existing one – you must have an appropriate lawful basis to do so."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-do-we-ensure-lawfulness-in-ai/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "At the same time, you must remember that:\nit is your responsibility to decide which lawful basis applies to your processing;\nyou must always choose the lawful basis that most closely reflects the true nature of your relationship with the individual and the purpose of the processing;\nyou should make this determination before you start your processing;\nyou should document your decision;\nyou cannot swap lawful bases at a later date without good reason;\nyou must include your lawful basis in your privacy notice (along with the purposes); and\nif you are processing special categories of data you need both a lawful basis and an additional condition for processing."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-do-we-ensure-lawfulness-in-ai/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, you must ensure that consent is freely given, specific, informed and unambiguous, and involves a clear affirmative act on the part of the individuals."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-do-we-ensure-lawfulness-in-ai/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, for consent to apply, individuals must have a genuine choice about whether you can use their data."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-do-we-ensure-lawfulness-in-ai/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, you should be aware that for consent to be valid, individuals must also be able to withdraw consent as easily as they gave it."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-do-we-ensure-lawfulness-in-ai/p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "You must be able to identify the obligation in question, either by reference to the specific legal provision or else by pointing to an appropriate source of advice or guidance that sets it out clearly."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-do-we-ensure-lawfulness-in-ai/p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "You must also be able to demonstrate the necessity and proportionality of the processing."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-do-we-ensure-lawfulness-in-ai/p0/s9",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the context of AI, your data protection considerations therefore must include:\nthe individuals whose personal data you process to train your system; and\nthe impact your system has on the rights and freedoms of individuals and society once it is deployed."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-ico-ai-data-protection-guidance:how-do-we-ensure-lawfulness-in-ai",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

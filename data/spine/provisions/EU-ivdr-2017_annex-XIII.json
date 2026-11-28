@@ -1,0 +1,496 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:annex-XIII",
+ "label": "EU-ivdr-2017 Annex XIII",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "32e046ea345ffce086f7c95e0d1a9cc15bdfd65b8695c2e4ab8ab8c41e708486",
+ "sha256_v1": "",
+ "sha256_v2": "32e046ea345ffce086f7c95e0d1a9cc15bdfd65b8695c2e4ab8ab8c41e708486",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "32e046ea345ffce086f7c95e0d1a9cc15bdfd65b8695c2e4ab8ab8c41e708486",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s1",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "To plan, continuously conduct and document a performance evaluation, the manufacturer shall establish and update a performance evaluation plan."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The performance evaluation plan shall specify the characteristics and the performance of the device and the process and criteria applied to generate the necessary clinical evidence."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The performance evaluation shall be thorough and objective, considering both favourable and unfavourable data."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Its depth and extent shall be proportionate and appropriate to the characteristics of the device including the risks, risk class, performance and its intended purpose.\n1.1."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s5",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Performance evaluation plan\nAs a general rule, the performance evaluation plan shall include at least:\n—\na specification of the intended purpose of the device;\n—\na specification of the characteristics of the device as described in Section 9 of Chapter II of Annex I and in point (c) of Section 20.4.1. of Chapter III of Annex I;\n—\na specification of the analyte or marker to be determined by the device;\n—\na specification of the intended use of the device;\n—\nidentification of certified reference materials or reference measurement procedures to allow for metrological traceability;\n—\na clear identification of specified target patient groups with clear indications, limitations and contra-indication"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s6",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where any of the above mentioned elements are not deemed appropriate in the Performance Evaluation Plan due to the specific device characteristics a justification shall be provided in the plan.\n1.2."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s7",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As a general methodological principle the manufacturer shall:\n—\nidentify through a systematic scientific literature review the available data relevant to the device and its intended purpose and identify any remaining unaddressed issues or gaps in the data;\n—\nappraise all relevant data by evaluating their suitability for establishing the safety and performance of the device;\n—\ngenerate any new or additional data necessary to address outstanding issues.\n1.2.1."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s8",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Demonstration of the scientific validity\nThe manufacturer shall demonstrate the scientific validity based on one or a combination of the following sources:\n—\nrelevant information on the scientific validity of devices measuring the same analyte or marker;\n—\nscientific (peer-reviewed) literature;\n—\nconsensus expert opinions/positions from relevant professional associations;\n—\nresults from proof of concept studies;\n—\nresults from clinical performance studies."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s9",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The scientific validity of the analyte or marker shall be demonstrated and documented in the scientific validity report.\n1.2.2."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s10",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Demonstration of the analytical performance\nThe manufacturer shall demonstrate the analytical performance of the device in relation to all the parameters described in point (a) of Section 9.1 of Annex I, unless any omission can be justified as not applicable."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s11",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As a general rule, the analytical performance shall always be demonstrated on the basis of analytical performance studies."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s12",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Analytical performance shall be demonstrated and documented in the analytical performance report.\n1.2.3."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s13",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Demonstration of the clinical performance\nThe manufacturer shall demonstrate the clinical performance of the device in relation to all the parameters described in point (b) of Section 9.1. of Annex I, unless any omission can be justified as not applicable."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s14",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Demonstration of the clinical performance of a device shall be based on one or a combination of the following sources:\n—\nclinical performance studies;\n—\nscientific peer-reviewed literature;\n—\npublished experience gained by routine diagnostic testing."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s15",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Clinical performance studies shall be performed unless due justification is provided for relying on other sources of clinical performance data."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s16",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Clinical performance shall be demonstrated and documented in the clinical performance report.\n1.3."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s17",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The manufacturer shall assess all relevant scientific validity, analytical and clinical performance data to verify the conformity of its device with the general safety and performance requirements as referred to in Annex I."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s18",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The amount and quality of that data shall allow the manufacturer to make a qualified assessment whether the device will achieve the intended clinical benefit or benefits and safety, when used as intended by the manufacturer."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s19",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The data and conclusions drawn from this assessment shall constitute the clinical evidence for the device."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s20",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The clinical evidence shall scientifically demonstrate that the intended clinical benefit or benefits and safety will be achieved according to the state of the art in medicine.\n1.3.2."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s21",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Performance evaluation report\nThe clinical evidence shall be documented in a performance evaluation report."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s22",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This report shall include the scientific validity report, the analytical performance report, the clinical performance report and an assessment of those reports allowing demonstration of the clinical evidence."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s23",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The performance evaluation report shall in particular include:\n—\nthe justification for the approach taken to gather the clinical evidence;\n—\nthe literature search methodology and the literature search protocol and literature search report of a literature review;\n—\nthe technology on which the device is based, the intended purpose of the device and any claims made about the device's performance or safety;\n—\nthe nature and extent of the scientific validity and the analytical and clinical performance data that has been evaluated;\n—\nthe clinical evidence as the acceptable performances against the state of the art in medicine;\n—\nany new conclusions derived from PMPF reports in accordance with Part"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s24",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The clinical evidence and its assessment in the performance evaluation report shall be updated throughout the life cycle of the device concerned with data obtained from the implementation of the manufacturer's PMPF plan in accordance with Part B of this Annex, as part of the performance evaluation and the post-market surveillance system referred to in Article 10(9)."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s25",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "The performance evaluation report shall be part of the technical documentation."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p1/s26",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Both favourable and unfavourable data considered in the performance evaluation shall be included in the technical documentation."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When clinical performance studies are conducted, the data obtained shall be used in the performance evaluation process and be part of the clinical evidence for the device.\n2.2."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Ethical considerations for clinical performance studies\nEach step in the clinical performance study, from the initial consideration of the need for and justification of the study to the publication of the results, shall be carried out in accordance with recognised ethical principles.\n2.3."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Clinical performance study design type\nClinical performance studies shall be designed in such a way as to maximize the relevance of the data while minimising potential bias.\n2.3.2."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p2/s4",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Clinical performance study plan\nClinical performance studies shall be performed on the basis of a clinical performance study plan (CPSP)."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p2/s5",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The CPSP shall define the rationale, objectives, design and proposed analysis, methodology, monitoring, conduct and record-keeping of the clinical performance study."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p2/s6",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It shall contain in particular the following information:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p2/s7",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If part of the information referred to in the second paragraph is submitted in a separate document, it shall be referenced in the CPSP."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p2/s9",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where any of the elements referred to in the second paragraph are not deemed appropriate for inclusion in the CPSP due to the specific study design chosen, such as use of left-over samples versus interventional clinical performance studies, a justification shall be provided.\n2.3.3."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p2/s10",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Clinical performance study report\nA clinical performance study report, signed by a medical practitioner or any other authorised person responsible, shall contain documented information on the clinical performance study protocol plan, results and conclusions of the clinical performance study, including negative findings."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p2/s11",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The results and conclusions shall be transparent, free of bias and clinically relevant."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p2/s12",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The report shall contain sufficient information to enable it to be understood by an independent party without reference to other documents."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p2/s13",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The report shall also include as appropriate any protocol amendments or deviations, and data exclusions with the appropriate rationale."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "OTHER PERFORMANCE STUDIES\nBy analogy, the performance study plan referred to in Section 2.3.2, and the performance study report, referred to in Section 2.3.3, shall be documented for other performance studies than clinical performance studies."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p4/s2",
+   "paragraph": "4",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "When conducting PMPF, the manufacturer shall proactively collect and evaluate performance and relevant scientific data from the use of a device which bears the CE marking and is placed on the market or put into service within its intended purpose as referred to in the relevant conformity assessment procedure, with the aim of confirming the safety, performance and scientific validity throughout the expected lifetime of the device, of ensuring the continued acceptability of the benefit-risk ratio and of detecting emerging risks on the basis of factual evidence."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "PMPF shall be performed pursuant to a documented method laid down in a PMPF plan.\n5.1."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The PMPF plan shall specify the methods and procedures for proactively collecting and evaluating safety, performance and scientific data with the aim of:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p5/s3",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The PMPF plan shall include at least:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p6/s1",
+   "paragraph": "6",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "The manufacturer shall analyse the findings of the PMPF and document the results in a PMPF evaluation report that shall update the performance evaluation report and be part of the technical documentation."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "The conclusions of the PMPF evaluation report shall be taken into account for the performance evaluation referred to in Article 56 and Part A of this Annex and in the risk management referred to in Section 3 of Annex I."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p7/s2",
+   "paragraph": "7",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If, through the PMPF, the need for preventive and/or corrective measures has been identified, the manufacturer shall implement them."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XIII/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If PMPF is not deemed appropriate for a specific device then a justification shall be provided and documented within the performance evaluation report."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:annex-XIII",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

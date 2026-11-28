@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:4",
+ "label": "GDPR Art. 4",
+ "instrument": "GDPR",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "03da472e129c817a9ddf011fd7e72fab284a98959c23a9b26c871491133fc0f0",
+ "sha256_v1": "03da472e129c817a9ddf011fd7e72fab284a98959c23a9b26c871491133fc0f0",
+ "sha256_v2": "f3a7d6ac3802985c77f5c99fcc83acf71f15bef7fe767ed2642916ba62b42a4b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "3d3feacd13788ad243b50e89ae5c91b2d72febd3683c9fee8a2ad00654758320",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:4/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 4 definitions",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

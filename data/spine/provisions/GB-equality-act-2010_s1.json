@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-equality-act-2010:s1",
+ "label": "GB-equality-act-2010 Section 1",
+ "instrument": "GB-equality-act-2010",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5697935486e71e9359bbad1b4dbe4881b263b07bb0e2f6963cba680e6ec28631",
+ "sha256_v1": "",
+ "sha256_v2": "5697935486e71e9359bbad1b4dbe4881b263b07bb0e2f6963cba680e6ec28631",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "5697935486e71e9359bbad1b4dbe4881b263b07bb0e2f6963cba680e6ec28631",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-equality-act-2010:s1/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Public sector duty regarding socio-economic inequalities\n(1)\nAn authority to which this section applies must, when making decisions of a strategic nature about how to exercise its functions, have due regard to the desirability of exercising them in a way that is designed to reduce the inequalities of outcome which result from socio-economic disadvantage."
+  },
+  {
+   "obligation_id": "GB-equality-act-2010:s1/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nIn deciding how to fulfil a duty to which it is subject under subsection (1), an authority must take into account any guidance issued in accordance with subsection (2A)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-equality-act-2010:s1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

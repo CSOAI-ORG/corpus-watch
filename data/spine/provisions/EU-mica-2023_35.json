@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:35",
+ "label": "EU-mica-2023 Article 35",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "e5ae044675d0b9885f67ee005cc0a359139536985649ec9e3741a7b3468c7d76",
+ "sha256_v1": "",
+ "sha256_v2": "e5ae044675d0b9885f67ee005cc0a359139536985649ec9e3741a7b3468c7d76",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "e5ae044675d0b9885f67ee005cc0a359139536985649ec9e3741a7b3468c7d76",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:35/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Issuers of asset-referenced tokens shall, at all times, have own funds equal to an amount of at least the highest of the following:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:35/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where an issuer offers more than one asset-referenced token, the amount referred to in point (b) of the first subparagraph shall be the sum of the average amount of the reserve assets backing each asset-referenced token."
+  },
+  {
+   "obligation_id": "EU-mica-2023:35/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The amount referred to in point (c) of the first subparagraph shall be reviewed annually and calculated in accordance with Article 67(3)."
+  },
+  {
+   "obligation_id": "EU-mica-2023:35/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The own funds referred to in paragraph 1 of this Article shall consist of the Common Equity Tier 1 items and instruments referred to in Articles 26 to 30 of Regulation (EU) No 575/2013 after the deductions in full pursuant to Article 36 of that Regulation, without the application of the threshold exemptions referred to in Article 46(4) and Article 48 of that Regulation."
+  },
+  {
+   "obligation_id": "EU-mica-2023:35/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Without prejudice to paragraph 3, issuers of asset-referenced tokens shall conduct, on a regular basis, stress testing that takes into account severe but plausible financial stress scenarios, such as interest rate shocks, and non-financial stress scenarios, such as operational risk."
+  },
+  {
+   "obligation_id": "EU-mica-2023:35/p5/s2",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Based on the outcome of such stress testing, the competent authority of the home Member State shall require the issuer of the asset-referenced token to hold an amount of own funds that is between 20 % and 40 % higher than the amount resulting from the application of paragraph 1, first subparagraph, point (b), in certain circumstances having regard to the risk outlook and stress testing results."
+  },
+  {
+   "obligation_id": "EU-mica-2023:35/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "EBA, in close cooperation with ESMA and the ECB, shall develop draft regulatory technical standards further specifying:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:35/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "EBA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:35",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

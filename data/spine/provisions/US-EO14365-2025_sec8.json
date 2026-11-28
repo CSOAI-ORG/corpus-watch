@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14365-2025:sec8",
+ "label": "US-EO14365-2025 Section 8",
+ "instrument": "US-EO14365-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "abd689d9e84e836195de0a15f847b7e5ba4527f242014c1fce9e2f7a662a5472",
+ "sha256_v1": "",
+ "sha256_v2": "abd689d9e84e836195de0a15f847b7e5ba4527f242014c1fce9e2f7a662a5472",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "abd689d9e84e836195de0a15f847b7e5ba4527f242014c1fce9e2f7a662a5472",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14365-2025:sec8/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) The Special Advisor for AI and Crypto and the Assistant to the President for Science and Technology shall jointly prepare a legislative recommendation establishing a uniform Federal policy framework for AI that preempts State AI laws that conflict with the policy set forth in this order."
+  },
+  {
+   "obligation_id": "US-EO14365-2025:sec8/p8/s2",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) The legislative recommendation called for in subsection (a) of this section shall not propose preempting otherwise lawful State AI laws relating to:"
+  },
+  {
+   "obligation_id": "US-EO14365-2025:sec8/p8/s3",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(iii) State government procurement and use of AI; and (iv) other topics as shall be determined."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14365-2025:sec8",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

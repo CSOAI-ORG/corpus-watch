@@ -1,0 +1,296 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14144-2025:sec3",
+ "label": "US-EO14144-2025 Sec. 3",
+ "instrument": "US-EO14144-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "262c20b85d46f0f1830efa00e4b584ae7fa58ee6ba00e4a837b31ca03b31f4ee",
+ "sha256_v1": "",
+ "sha256_v2": "262c20b85d46f0f1830efa00e4b584ae7fa58ee6ba00e4a837b31ca03b31f4ee",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 0,
+ "sha256_current": "262c20b85d46f0f1830efa00e4b584ae7fa58ee6ba00e4a837b31ca03b31f4ee",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) The Federal Government must adopt proven security practices from industry--to include in identity and access management--in order to improve visibility of security threats across networks and strengthen cloud security."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) To prioritize investments in the innovative identity technologies and processes of the future and phishing-resistant authentication options, FCEB agencies shall begin using, in pilot deployments or in larger deployments as appropriate, commercial phishing- resistant standards such as WebAuthn, building on the deployments that OMB and CISA have developed and established since the issuance of Executive Order 14028."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "These pilot deployments shall be used to inform future directions for Federal identity, credentialing, and access management strategies."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s4",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) The Federal Government must maintain the ability to rapidly and effectively identify threats across the Federal enterprise."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s5",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "To enable identification of threat activity, CISA's capability to hunt for and identify threats across FCEB agencies under 44 U.S.C. 3553(b)(7) must be strengthened."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s6",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i) The Secretary of Homeland Security, acting through the Director of CISA, in coordination with the Federal Chief Information Officer (CIO) Council and Federal Chief Information Security Officer (CISO) Council, shall develop the technical capability to gain timely access to required data from FCEB agency endpoint detection and response (EDR) solutions and from FCEB agency security operation centers to enable:"
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s7",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(ii) Within 180 days of the date of this order, the Secretary of Homeland Security, acting through the Director of CISA, in coordination with the Federal CIO and CISO Councils, shall develop and release a concept of operations that enables CISA to gain timely access to required data to achieve the objectives described in subsection (c)(i) of this section."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s8",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Director of OMB shall oversee the development of this concept of operations to account for agency perspectives and the objectives outlined in this section and shall approve the final concept of operations."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s9",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This concept of operations shall include:"
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s10",
+   "paragraph": "3",
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(iii) In undertaking the activities described in subsection (c) of this section, the Secretary of Homeland Security, acting through the Director of CISA, shall only make a change to an agency network, system, or data when such change is required for threat hunting by CISA, including access to the EDR tools described in subsection (c)(ii) of this section, or in furtherance of its authority to conduct threat hunting as authorized under 44 U.S.C. 3553(b)(7), unless otherwise authorized by the agency."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s11",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(iv) Within 30 days of the release of the concept of operations described in subsection (c)(ii) of this section, the Secretary of Homeland Security, acting through the Director of CISA, shall establish working groups, open to all agencies, to develop and release specific technical controls that achieve the objectives set forth in subsection (c)(ii) of this section and to work with EDR solution providers to implement those controls in FCEB agency deployments of EDR solutions."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s12",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Secretary of Homeland Security, acting through the Director of CISA, shall, at a minimum, establish a working group for each EDR solution authorized by CISA for use in the CISA Continuous Diagnostic and Mitigation Program."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s13",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each working group shall be open to all agencies and include at least one representative from an FCEB agency employing the designated EDR solution."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s14",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(v) Within 180 days of the release of the technical controls described in subsection (c)(iv) of this section, the heads of FCEB agencies shall enroll endpoints using an EDR solution covered by those controls in the CISA Persistent Access Capability program."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s15",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(vi) Within 90 days of the date of this order, and periodically thereafter as needed, the heads of FCEB agencies shall provide to CISA a list of systems, endpoints, and data sets that require additional controls or periods of non-disruption to ensure that CISA's threat-hunting activities do not disrupt mission-critical operations, along with an explanation of those operations."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s16",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(vii) In cases in which agency data is subject to statutory, regulatory, or judicial access restrictions, the Director of CISA shall comply with agency processes and procedures required to access such data or work with the agency to develop an appropriate administrative accommodation consistent with any such restrictions so that the data is not subject to unauthorized access or use."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s17",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Within 90 days of the date of this order, the Administrator of General Services, acting through the Director of the Federal Risk and Authorization Management Program (FedRAMP), in coordination with the Secretary of Commerce, acting through the Director of NIST, and the Secretary of Homeland Security, acting through the Director of CISA, shall develop FedRAMP policies and practices to incentivize or require cloud service providers in the FedRAMP Marketplace to produce baselines with specifications and recommendations for agency configuration of agency cloud-based systems in order to secure Federal data based on agency requirements."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s18",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e) As cybersecurity threats to space systems increase, these systems and their supporting digital infrastructure must be designed to adapt to evolving cybersecurity threats and operate in contested environments."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s19",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In light of the pivotal role space systems play in global critical infrastructure and communications resilience, and to further protect space systems and the supporting digital infrastructure vital to our national security, including our economic security, agencies shall take steps to continually verify that Federal space systems have the requisite cybersecurity capabilities through actions including continuous assessments, testing, exercises, and modeling and simulation."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s20",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i) Within 180 days of the date of this order, the Secretary of the Interior, acting through the Director of the United States Geological Survey; the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere and the Administrator of the National Oceanic and Atmospheric Administration; and the Administrator of the National Aeronautics and Space Administration shall each review the civil space contract requirements in the FAR and recommend to the FAR Council and other appropriate agencies updates to civil space cybersecurity requirements and relevant contract language."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s21",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The recommended cybersecurity requirements and contract language shall use a risk-based, tiered approach for all new civil space systems."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s22",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such requirements shall be designed to apply at minimum to the civil space systems' on-orbit segments and link segments."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s23",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The requirements shall address the following elements for the highest-risk tier and, as appropriate, other tiers:"
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s24",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(ii) Within 180 days of receiving the recommended contract language described in subsection (e)(i) of this section, the FAR Council shall review the proposal and, as appropriate and consistent with applicable law, the agency members of the FAR Council shall jointly take steps to amend the FAR."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s25",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(iii) Within 120 days of the date of this order, the National Cyber Director shall submit to OMB a study of space ground systems owned, managed, or operated by FCEB agencies."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s26",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This study shall include:"
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec3/p3/s27",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(iv) Within 90 days of the submission of the study described in subsection (e)(iii) of this section, the Director of OMB shall take appropriate steps to help ensure that space ground systems owned, managed, or operated by FCEB agencies comply with relevant cybersecurity requirements issued by OMB."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14144-2025:sec3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

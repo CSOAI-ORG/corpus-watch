@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-TX-HB3512-AItraining-2025:SECTION-1",
+ "label": "US-TX-HB3512-AItraining-2025 SECTION 1",
+ "instrument": "US-TX-HB3512-AItraining-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "c248215aebeb128f5ac9577276a073e1e3584b7dad4d4e996af0ccb3dbb375ba",
+ "sha256_v1": "",
+ "sha256_v2": "c248215aebeb128f5ac9577276a073e1e3584b7dad4d4e996af0ccb3dbb375ba",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "c248215aebeb128f5ac9577276a073e1e3584b7dad4d4e996af0ccb3dbb375ba",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-TX-HB3512-AItraining-2025:SECTION-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(h-1) Notwithstanding Section 2054.5191, Government Code,\nonly the district's cybersecurity coordinator is required to\ncomplete the cybersecurity training and the artificial\nintelligence training under that section on an annual basis."
+  },
+  {
+   "obligation_id": "US-TX-HB3512-AItraining-2025:SECTION-1/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any\nother school district employee required to complete the\ncybersecurity training and the artificial intelligence training\nshall complete the training as determined by the district, in\nconsultation with the district's cybersecurity coordinator."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-TX-HB3512-AItraining-2025:SECTION-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "ES-aesia-statute-2023:12",
+ "label": "ES-aesia-statute-2023 Artículo 12",
+ "instrument": "ES-aesia-statute-2023",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "824881b6311ce528cc21ad20b82423af583280d39eeabe00cac009cb68fae2ec",
+ "sha256_v1": "",
+ "sha256_v2": "824881b6311ce528cc21ad20b82423af583280d39eeabe00cac009cb68fae2ec",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "ES",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "824881b6311ce528cc21ad20b82423af583280d39eeabe00cac009cb68fae2ec",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "ES-aesia-statute-2023:12/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=ES-aesia-statute-2023:12",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

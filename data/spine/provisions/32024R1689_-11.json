@@ -1,0 +1,48 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:-11",
+ "label": "EU AI Act Annex XI",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "c2ce2abc69d23045d3ffd56b234d8d227de188e8db524cca12b2f851a9dfa31b",
+ "sha256_v1": "c2ce2abc69d23045d3ffd56b234d8d227de188e8db524cca12b2f851a9dfa31b",
+ "sha256_v2": "c2ce2abc69d23045d3ffd56b234d8d227de188e8db524cca12b2f851a9dfa31b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "c2ce2abc69d23045d3ffd56b234d8d227de188e8db524cca12b2f851a9dfa31b",
+ "agent_register_kinds": [
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:-11/p0/s1",
+   "paragraph": "0",
+   "addressee": "gpai_provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "ANNEX XI Technical documentation referred to in Article 53(1), point (a) — technical documentation for providers of general-purpose AI models Section 1 Information to be provided by all providers of general-purpose AI models The technical documentation referred to in Article 53(1), point (a) shall contain at least the following information as appropriate to the size and risk profile of the model:"
+  },
+  {
+   "obligation_id": "32024R1689:-11/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Evaluation strategies shall include evaluation criteria, metrics and the methodology on the identification of limitations."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:-11",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

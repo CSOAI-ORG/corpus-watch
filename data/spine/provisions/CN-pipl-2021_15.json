@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-pipl-2021:15",
+ "label": "CN-pipl-2021 第十五条",
+ "instrument": "CN-pipl-2021",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "323498bdfebfced7d2ac4229bc6fc34b2d5e938d1ee96b33f93be64c36a936bc",
+ "sha256_v1": "",
+ "sha256_v2": "323498bdfebfced7d2ac4229bc6fc34b2d5e938d1ee96b33f93be64c36a936bc",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "323498bdfebfced7d2ac4229bc6fc34b2d5e938d1ee96b33f93be64c36a936bc",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-pipl-2021:15/s2",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "个人信息处理者应当提供便捷的撤回同意的方式。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-pipl-2021:15",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

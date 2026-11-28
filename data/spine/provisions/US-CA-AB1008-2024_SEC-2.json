@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB1008-2024:SEC-2",
+ "label": "US-CA-AB1008-2024 SEC. 2.",
+ "instrument": "US-CA-AB1008-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3f5ae073466fd00e77919a14927c2c21d48ba8c7ffba30777936b58a1acebf6a",
+ "sha256_v1": "",
+ "sha256_v2": "3f5ae073466fd00e77919a14927c2c21d48ba8c7ffba30777936b58a1acebf6a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "3f5ae073466fd00e77919a14927c2c21d48ba8c7ffba30777936b58a1acebf6a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB1008-2024:SEC-2/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That section of this bill shall become operative only if (1) both bills are enacted and become effective on or before January 1, 2025, (2) each bill amends Section 1798.140 of the Civil Code and (3) this bill is enacted after SB 1223, in which case Section 1 of this bill shall not become operative."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB1008-2024:SEC-2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

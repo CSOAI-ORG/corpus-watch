@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s21EA",
+ "label": "AU-privacy-act-1988 Section 21EA",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "053bf3e51785f2b4667fc00e29528cd22397804bcbbfe4d42bc6b01de87593bb",
+ "sha256_v1": "",
+ "sha256_v2": "053bf3e51785f2b4667fc00e29528cd22397804bcbbfe4d42bc6b01de87593bb",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "053bf3e51785f2b4667fc00e29528cd22397804bcbbfe4d42bc6b01de87593bb",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s21EA/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "21EA  Financial hardship information must be disclosed\nIf:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s21EA/p0/s2",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\ta credit provider discloses to a credit reporting body repayment history information about an individual in relation to a monthly payment under section 21D; and\n(b)\tfinancial hardship information about that individual exists in relation to that monthly payment;\nthe credit provider must, at the same time, disclose the financial hardship information to the credit reporting body."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s21EA",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s145",
+ "label": "GB-dpa-2018 Section 145",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6cc7e65cbf1823c4f3125801169e95649a7a208eed16b6662de7eeeac8aff5be",
+ "sha256_v1": "",
+ "sha256_v2": "6cc7e65cbf1823c4f3125801169e95649a7a208eed16b6662de7eeeac8aff5be",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "6cc7e65cbf1823c4f3125801169e95649a7a208eed16b6662de7eeeac8aff5be",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s145/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nThe order—\n(a)\nmay specify the form in which the information or documents must be provided,\n(b)\nmust specify the time at which, or the period within which, the information or documents must be provided, and\n(c)\nmay specify the place where the information or documents must be provided."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s145",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

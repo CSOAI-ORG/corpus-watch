@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "ES-ai-sandbox-rd-817-2023:14",
+ "label": "ES-ai-sandbox-rd-817-2023 Artículo 14",
+ "instrument": "ES-ai-sandbox-rd-817-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "d8a02db55242c650e06b015829399c4c01aade181c6a168f6121949c39f313c2",
+ "sha256_v1": "",
+ "sha256_v2": "d8a02db55242c650e06b015829399c4c01aade181c6a168f6121949c39f313c2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "ES",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d8a02db55242c650e06b015829399c4c01aade181c6a168f6121949c39f313c2",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:14/s2",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "es:internal-record",
+   "status": "DRAFT",
+   "text": "Posteriormente, tanto el proveedor IA participantes como, en su caso, el usuario participante juntamente con el primero, deberá implementar un sistema de seguimiento posterior a la comercialización.\n2."
+  },
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:14/s8",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Las personas jurídicas privadas o administraciones públicas y entidades del sector público institucional, cuando actúen como usuarios participantes, deberán colaborar implantando las medidas especificadas en las guías que el órgano competente proporcione para el seguimiento tras la puesta en marcha del sistema de inteligencia artificial."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=ES-ai-sandbox-rd-817-2023:14",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-12CFR1002-RegB-1977:1002.5",
+ "label": "US-12CFR1002-RegB-1977 12 CFR 1002.5",
+ "instrument": "US-12CFR1002-RegB-1977",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "15ec450f44c0d6e9e3fd934a4ac937690e1e62b187b81ba9bc7bc27b4b231da1",
+ "sha256_v1": "",
+ "sha256_v2": "15ec450f44c0d6e9e3fd934a4ac937690e1e62b187b81ba9bc7bc27b4b231da1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "15ec450f44c0d6e9e3fd934a4ac937690e1e62b187b81ba9bc7bc27b4b231da1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.5/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Notwithstanding paragraphs (b) through (d) of this section, a creditor shall request information for monitoring purposes as required by § 1002.13 for credit secured by the applicant's dwelling."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.5/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A creditor shall not inquire about the race, color, religion, national origin, or sex of an applicant or any other person in connection with a credit transaction, except as provided in paragraphs (b)(1) and (b)(2) of this section."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.5/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A creditor that makes such an inquiry shall disclose orally or in writing, at the time the information is requested, that:"
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.5/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An application form shall otherwise use only terms that are neutral as to sex."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.5/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If an applicant applies for individual unsecured credit, a creditor shall not inquire about the applicant's marital status unless the applicant resides in a community property state or is relying on property located in such a state as a basis for repayment of the credit requested."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.5/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If an application is for other than individual unsecured credit, a creditor may inquire about the applicant's marital status, but shall use only the terms married, unmarried, and separated."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.5/p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A creditor shall not inquire whether income stated in an application is derived from alimony, child support, or separate maintenance payments unless the creditor discloses to the applicant that such income need not be revealed if the applicant does not want the creditor to consider it in determining the applicant's creditworthiness."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.5/p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A creditor shall not inquire about birth control practices, intentions concerning the bearing or rearing of children, or capability to bear children."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-12CFR1002-RegB-1977:1002.5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

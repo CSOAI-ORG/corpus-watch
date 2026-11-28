@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CA-PIPEDA-2000:sch1-4.2",
+ "label": "CA-PIPEDA-2000 Schedule 1, clause 4.2",
+ "instrument": "CA-PIPEDA-2000",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a18d1a1460dcd14c38f6e3bd9b761821e3e2e7bb176beded10e4e45fe065ec67",
+ "sha256_v1": "",
+ "sha256_v2": "a18d1a1460dcd14c38f6e3bd9b761821e3e2e7bb176beded10e4e45fe065ec67",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CA",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a18d1a1460dcd14c38f6e3bd9b761821e3e2e7bb176beded10e4e45fe065ec67",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CA-PIPEDA-2000:sch1-4.2/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "4.2 Principle 2 — Identifying Purposes The purposes for which personal information is collected shall be identified by the organization at or before the time the information is collected. 4.2.1 The organization shall document the purposes for which personal information is collected in order to comply with the Openness principle (Clause 4.8) and the Individual Access principle (Clause 4.9). 4.2.2 Identifying the purposes for which personal information is collected at or before the time of collection allows organizations to determine the information they need to collect to fulfil these purposes."
+  },
+  {
+   "obligation_id": "CA-PIPEDA-2000:sch1-4.2/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An application form, for example, may give notice of the purposes. 4.2.4 When personal information that has been collected is to be used for a purpose not previously identified, the new purpose shall be identified prior to use."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CA-PIPEDA-2000:sch1-4.2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

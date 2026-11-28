@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CO-SB24-205-AIAct-2024:SECTION-1:CRS-6-1-1704",
+ "label": "US-CO-SB24-205-AIAct-2024 C.R.S. 6-1-1704",
+ "instrument": "US-CO-SB24-205-AIAct-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "0238cec95fba1a7c4fe5fbb88af11ece99340b859e09c349616e2d758a86435f",
+ "sha256_v1": "",
+ "sha256_v2": "0238cec95fba1a7c4fe5fbb88af11ece99340b859e09c349616e2d758a86435f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "0238cec95fba1a7c4fe5fbb88af11ece99340b859e09c349616e2d758a86435f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CO-SB24-205-AIAct-2024:SECTION-1:CRS-6-1-1704/p0/s1",
+   "paragraph": "0",
+   "addressee": "deployer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "(1) ON AND AFTER FEBRUARY 1, 2026, AND EXCEPT AS PROVIDED IN SUBSECTION (2) OF THIS SECTION, A DEPLOYER OR OTHER DEVELOPER THAT DEPLOYS, OFFERS, SELLS, LEASES, LICENSES, GIVES, OR OTHERWISE MAKES AVAILABLE AN ARTIFICIAL INTELLIGENCE SYSTEM THAT IS INTENDED TO INTERACT WITH CONSUMERS SHALL ENSURE THE DISCLOSURE TO EACH CONSUMER WHO INTERACTS WITH THE ARTIFICIAL INTELLIGENCE SYSTEM THAT THE CONSUMER IS INTERACTING WITH AN ARTIFICIAL INTELLIGENCE SYSTEM."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CO-SB24-205-AIAct-2024:SECTION-1:CRS-6-1-1704",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

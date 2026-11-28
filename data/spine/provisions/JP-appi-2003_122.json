@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:122",
+ "label": "JP-appi-2003 Article 122",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "f1d6f6644923404afdcf9210fa933eedff790c99ab37c24609828e72b54f8b47",
+ "sha256_v1": "",
+ "sha256_v2": "f1d6f6644923404afdcf9210fa933eedff790c99ab37c24609828e72b54f8b47",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f1d6f6644923404afdcf9210fa933eedff790c99ab37c24609828e72b54f8b47",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:122/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "行政機関等匿名加工情報等の取扱いに従事する行政機関等の職員若しくは職員であった者、前条第三項の委託を受けた業務に従事している者若しくは従事していた者又は行政機関等において行政機関等匿名加工情報等の取扱いに従事している派遣労働者若しくは従事していた派遣労働者は、その業務に関して知り得た行政機関等匿名加工情報等の内容をみだりに他人に知らせ、又は不当な目的に利用してはならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:122",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

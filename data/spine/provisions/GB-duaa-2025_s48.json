@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s48",
+ "label": "GB-duaa-2025 Section 48",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "38131ef1837576874ef19cff8d64d365dcea72b0d10ca51839bc40092b581e17",
+ "sha256_v1": "",
+ "sha256_v2": "38131ef1837576874ef19cff8d64d365dcea72b0d10ca51839bc40092b581e17",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "38131ef1837576874ef19cff8d64d365dcea72b0d10ca51839bc40092b581e17",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s48/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nThe person must not further disclose the information otherwise than for the purpose of providing digital verification services for the individual, except with the consent of Revenue Scotland."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s48/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nAny other person who receives the information, whether directly or indirectly from the person to whom Revenue Scotland discloses the information, must not further disclose the information, except with the consent of Revenue Scotland."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s48",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

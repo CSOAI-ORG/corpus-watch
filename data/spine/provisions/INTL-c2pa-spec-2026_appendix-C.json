@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-c2pa-spec-2026:appendix-C",
+ "label": "INTL-c2pa-spec-2026 Appendix C",
+ "instrument": "INTL-c2pa-spec-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "bbc2f67bda18ea2fa8ce7c329d9905056c55ba1544aa71efc2b1fe892f879293",
+ "sha256_v1": "",
+ "sha256_v2": "bbc2f67bda18ea2fa8ce7c329d9905056c55ba1544aa71efc2b1fe892f879293",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "bbc2f67bda18ea2fa8ce7c329d9905056c55ba1544aa71efc2b1fe892f879293",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-C/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Implementation Details for c2pa.metadata\nThe c2pa.metadata assertion shall only contain the subset of schemas and their fields as described below."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-C/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In either case, they shall be serialized according to the rules of JSON-LD serialization of XMP as described here."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-c2pa-spec-2026:appendix-C",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

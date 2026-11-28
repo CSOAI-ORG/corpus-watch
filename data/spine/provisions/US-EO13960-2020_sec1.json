@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO13960-2020:sec1",
+ "label": "US-EO13960-2020 Section 1",
+ "instrument": "US-EO13960-2020",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "aa65a29ed3add8fe6671cd423935bb2f9499099e2d46d60b715404e8d1822145",
+ "sha256_v1": "",
+ "sha256_v2": "aa65a29ed3add8fe6671cd423935bb2f9499099e2d46d60b715404e8d1822145",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "aa65a29ed3add8fe6671cd423935bb2f9499099e2d46d60b715404e8d1822145",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO13960-2020:sec1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Agencies must therefore design, develop, acquire, and use AI in a manner that fosters public trust and confidence while protecting privacy, civil rights, civil liberties, and American values, consistent with applicable law and the goals of Executive Order 13859."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO13960-2020:sec1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

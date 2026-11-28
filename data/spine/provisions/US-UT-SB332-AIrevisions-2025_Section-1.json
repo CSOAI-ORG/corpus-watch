@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-UT-SB332-AIrevisions-2025:Section-1",
+ "label": "US-UT-SB332-AIrevisions-2025 Section 1",
+ "instrument": "US-UT-SB332-AIrevisions-2025",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "b1b40c96e50818b4cfd209c4bc941550a2fb5c2cb30f08d738768b26b7af63e5",
+ "sha256_v1": "",
+ "sha256_v2": "b1b40c96e50818b4cfd209c4bc941550a2fb5c2cb30f08d738768b26b7af63e5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "b1b40c96e50818b4cfd209c4bc941550a2fb5c2cb30f08d738768b26b7af63e5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-UT-SB332-AIrevisions-2025:Section-1/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-UT-SB332-AIrevisions-2025:Section-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-AIActionPlan-2025:intro",
+ "label": "US-AIActionPlan-2025 Introduction",
+ "instrument": "US-AIActionPlan-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "676901fe29cc747e12503433acd84b66087e3e23cc981c3c91ebfbb4be503507",
+ "sha256_v1": "",
+ "sha256_v2": "676901fe29cc747e12503433acd84b66087e3e23cc981c3c91ebfbb4be503507",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 9,
+ "sha256_current": "676901fe29cc747e12503433acd84b66087e3e23cc981c3c91ebfbb4be503507",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-AIActionPlan-2025:intro/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Second, our AI systems must be free from ideological bias and be designed to pursue objective truth rather than social engineering agendas when users seek factual information or analysis."
+  },
+  {
+   "obligation_id": "US-AIActionPlan-2025:intro/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "AI systems are becoming essential tools, profoundly shaping how Americans consume information, but these tools must also be trustworthy."
+  },
+  {
+   "obligation_id": "US-AIActionPlan-2025:intro/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Finally, we must prevent our advanced technologies from being misused or stolen by malicious actors as well as monitor for emerging and unforeseen risks from AI."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-AIActionPlan-2025:intro",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

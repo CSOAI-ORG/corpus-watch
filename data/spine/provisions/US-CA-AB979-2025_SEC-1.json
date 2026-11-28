@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB979-2025:SEC-1",
+ "label": "US-CA-AB979-2025 SECTION 1.",
+ "instrument": "US-CA-AB979-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8b0669ce3770d3db4afd42f371d1fefdd86f4b9a96bd4a33fef02087d65c4eac",
+ "sha256_v1": "",
+ "sha256_v2": "8b0669ce3770d3db4afd42f371d1fefdd86f4b9a96bd4a33fef02087d65c4eac",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "8b0669ce3770d3db4afd42f371d1fefdd86f4b9a96bd4a33fef02087d65c4eac",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB979-2025:SEC-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "CISA 2015 also created protections for cyber threat indicators and defensive measures shared under its provisions with a state, tribal, or local government, including that the information shall be exempt from disclosure under local freedom of information law or similar law requiring disclosure of information or records."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB979-2025:SEC-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s4",
+ "label": "AU-privacy-act-1988 Section 4",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "c6f9d5bab1a35a594711be7bd14a5b3207696a995fae77d9fd132ee2fa5dec7e",
+ "sha256_v1": "",
+ "sha256_v2": "c6f9d5bab1a35a594711be7bd14a5b3207696a995fae77d9fd132ee2fa5dec7e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "c6f9d5bab1a35a594711be7bd14a5b3207696a995fae77d9fd132ee2fa5dec7e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s4/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\tNothing in this Act shall be taken to have the effect of making the Crown in right of a State, of the Australian Capital Territory or of the Northern Territory an agency for the purposes of this Act."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

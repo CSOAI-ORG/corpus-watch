@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB1883-2026:SEC-1:1581.",
+ "label": "US-CA-AB1883-2026 SECTION 1. / 1581.",
+ "instrument": "US-CA-AB1883-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8ee0eec0efbc13bde7bd1aba24ade1a096b4cb6c56cfd6574fc4eaccfc404a4d",
+ "sha256_v1": "",
+ "sha256_v2": "8ee0eec0efbc13bde7bd1aba24ade1a096b4cb6c56cfd6574fc4eaccfc404a4d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "8ee0eec0efbc13bde7bd1aba24ade1a096b4cb6c56cfd6574fc4eaccfc404a4d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB1883-2026:SEC-1:1581./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)An employer shall not use a workplace surveillance tool that uses artificial intelligence on employees for either of the following:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB1883-2026:SEC-1:1581.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

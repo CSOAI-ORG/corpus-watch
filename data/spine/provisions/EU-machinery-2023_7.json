@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-machinery-2023:7",
+ "label": "EU-machinery-2023 Article 7",
+ "instrument": "EU-machinery-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "5dfc47421e9137393cb56e12878ecf77afd87e8f990d40d1649e61b2d92708ce",
+ "sha256_v1": "",
+ "sha256_v2": "5dfc47421e9137393cb56e12878ecf77afd87e8f990d40d1649e61b2d92708ce",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "5dfc47421e9137393cb56e12878ecf77afd87e8f990d40d1649e61b2d92708ce",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-machinery-2023:7/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "A Member State which has concerns about a safety component being listed or not listed in Annex II shall immediately inform the Commission of its concerns and provide reasons in support thereof."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-machinery-2023:7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

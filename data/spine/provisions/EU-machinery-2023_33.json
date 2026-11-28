@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-machinery-2023:33",
+ "label": "EU-machinery-2023 Article 33",
+ "instrument": "EU-machinery-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "1228fba812a735d7a9f0b70a12deba34dad29c0b571c3e867c15e1722ad3beec",
+ "sha256_v1": "",
+ "sha256_v2": "1228fba812a735d7a9f0b70a12deba34dad29c0b571c3e867c15e1722ad3beec",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "1228fba812a735d7a9f0b70a12deba34dad29c0b571c3e867c15e1722ad3beec",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-machinery-2023:33/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "A conformity assessment body shall submit an application for notification to the notifying authority of the Member State in which it is established."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:33/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "The application for notification shall be accompanied by a description of the conformity assessment activities, of the conformity assessment procedures set out in Annexes VII, IX and X and of the kinds or categories of machinery or related products for which the conformity assessment body claims to be competent, as well as by an accreditation certificate, where one exists, issued by a national accreditation body attesting that the conformity assessment body fulfils the requirements laid down in Article 30."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:33/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Where the conformity assessment body concerned cannot provide an accreditation certificate as referred to in paragraph 2, it shall provide the notifying authority with all the documentary evidence necessary for the verification, recognition and regular monitoring of its compliance with the requirements laid down in Article 30."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-machinery-2023:33",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

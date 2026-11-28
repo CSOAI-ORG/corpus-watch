@@ -1,0 +1,216 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-gpsr-2023:11",
+ "label": "EU-gpsr-2023 Article 11",
+ "instrument": "EU-gpsr-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "ec09b57ac2aa1b623d3cf877ed8afbfabed0a92bd8adcdb51feb5a5adb7fd47c",
+ "sha256_v1": "",
+ "sha256_v2": "ec09b57ac2aa1b623d3cf877ed8afbfabed0a92bd8adcdb51feb5a5adb7fd47c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ec09b57ac2aa1b623d3cf877ed8afbfabed0a92bd8adcdb51feb5a5adb7fd47c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-gpsr-2023:11/p1/s1",
+   "paragraph": "1",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Before placing a product on the market, importers shall ensure that the product complies with the general safety requirement laid down in Article 5 and that the manufacturer has complied with the requirements set out in Article 9(2), (5) and (6)."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:11/p2/s1",
+   "paragraph": "2",
+   "addressee": "importer",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where an importer considers or has reason to believe, on the basis of the information in that importer’s possession, that a product is not in conformity with Article 5 and Article 9(2), (5) and (6), the importer shall not place the product on the market until the product has been brought into conformity."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:11/p2/s2",
+   "paragraph": "2",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Furthermore, where the product is a dangerous product, the importer shall immediately inform the manufacturer thereof and ensure that the market surveillance authorities are informed thereof through the Safety Business Gateway."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:11/p3/s1",
+   "paragraph": "3",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Importers shall indicate their name, their registered trade name or registered trade mark, their postal and electronic address and, where different, the postal or electronic address of the single contact point at which they can be contacted."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:11/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That information shall be placed on the product or, where that is not possible, on its packaging or in a document accompanying the product."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:11/p3/s3",
+   "paragraph": "3",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Importers shall ensure that any additional label does not obscure any information required by Union law on the label provided by the manufacturer."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:11/p4/s1",
+   "paragraph": "4",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Importers shall ensure that the product they imported is accompanied by clear instructions and safety information in a language which can be easily understood by consumers, as determined by the Member State in which the product is made available on the market, except where the product can be used safely and as intended by the manufacturer without such instructions and safety information."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:11/p5/s1",
+   "paragraph": "5",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Importers shall ensure that, while a product is under their responsibility, storage or transport conditions do not jeopardise its conformity with the general safety requirement laid down in Article 5 and its conformity with Article 9(5) and (6)."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:11/p6/s1",
+   "paragraph": "6",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Importers shall keep the copy of technical documentation referred to in Article 9(2) at the disposal of the market surveillance authorities for a period of 10 years after they have placed the product on the market and shall ensure that the documents referred to in Article 9(2), as applicable, can be made available to those authorities, upon request."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:11/p7/s1",
+   "paragraph": "7",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "cooperate",
+   "status": "DRAFT",
+   "text": "Importers shall cooperate with market surveillance authorities and the manufacturer to ensure that a product is safe."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:11/p8/s1",
+   "paragraph": "8",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where an importer considers or has reason to believe, on the basis of the information in that importer’s possession, that a product which it has placed on the market is a dangerous product, the importer shall immediately:"
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:11/p8/s2",
+   "paragraph": "8",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)\nensure that the corrective measures necessary to bring in an effective manner the product into conformity are taken including withdrawal or recall, as appropriate; where such measures have not been taken, the importer shall immediately take them;"
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:11/p8/s3",
+   "paragraph": "8",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the purposes of points (c) and (d) of the first subparagraph the importer shall give details, in particular, of the risk to health and safety of consumers and of any corrective measure already taken, and, if available, of the quantity, by Member State, of products still circulating on the market."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:11/p9/s1",
+   "paragraph": "9",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Importers shall verify whether the communication channels referred to in Article 9(11) are publicly available to consumers, thereby allowing them to present complaints and communicate any accident or safety issue they have experienced with the product."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:11/p9/s2",
+   "paragraph": "9",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If such channels are not available, importers shall provide for them, taking into account accessibility needs for persons with disabilities."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:11/p10/s1",
+   "paragraph": "10",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Importers shall investigate complaints submitted, and information received on accidents, that concern the safety of products they made available on the market, which the complainant has alleged to be dangerous, and file those complaints, as well as product recalls and any corrective measures taken to bring the product into conformity, in the register referred to in Article 9(12), or in their own internal register."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:11/p10/s2",
+   "paragraph": "10",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Importers shall keep the manufacturer, distributors and, where relevant, fulfilment service providers and providers of online marketplaces informed in a timely manner of the investigation performed and of the results of the investigation."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:11/p11/s1",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The register of complaints shall only store those personal data that are necessary for the importer to investigate the complaint about an alleged dangerous product."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:11/p11/s2",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such data shall only be kept for as long as is necessary for the purposes of the investigation and in any event no longer than five years after the data have been entered."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-gpsr-2023:11",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

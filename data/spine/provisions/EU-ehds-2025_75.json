@@ -1,0 +1,256 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:75",
+ "label": "EU-ehds-2025 Article 75",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "1b15969c57c051e38ca3c9e433596f6ca292bcae6c86d7a637b6dc6be2c4b81c",
+ "sha256_v1": "",
+ "sha256_v2": "1b15969c57c051e38ca3c9e433596f6ca292bcae6c86d7a637b6dc6be2c4b81c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "1b15969c57c051e38ca3c9e433596f6ca292bcae6c86d7a637b6dc6be2c4b81c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:75/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Each Member State shall designate one national contact point for secondary use."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:75/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That national contact point for secondary use shall be an organisational and technical gateway, enabling and responsible for the making available of electronic health data for secondary use in a cross-border context."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:75/p1/s3",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Each Member State shall inform the Commission of the name and contact details of the national contact point for secondary use by 26 March 2027."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:75/p1/s4",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission and the Member States shall make that information publicly available."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:75/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Union health data access service shall act as the contact point of the Union’s institutions, bodies, offices and agencies for secondary use and shall be responsible for making electronic health data available for secondary use."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:75/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The national contact points for secondary use referred to in paragraph 1 and the Union health data access service referred to in paragraph 2 shall connect to the cross-border infrastructure for secondary use, namely HealthData@EU."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:75/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The national contact points for secondary use and the Union health data access service shall facilitate the cross-border access to electronic health data for secondary use for different authorised participants in HealthData@EU."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:75/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The national contact points for secondary use shall cooperate closely with each other and with the Commission."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:75/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Compliance with those legal, organisational, technical and security requirements, including with the requirements for secure processing environments provided for in Article 73, shall be checked under the control of the Commission."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:75/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 98(2)."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:75/p5/s3",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall make the list of implementing acts adopted pursuant to this paragraph publicly available."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:75/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each national contact point for secondary use and each authorised participant in HealthData@EU shall acquire the required technical capability to connect to and participate in HealthData@EU."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:75/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "They shall comply with the requirements and technical specifications needed to operate HealthData@EU and to allow them to connect to it."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:75/p7/s1",
+   "paragraph": "7",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Member States and the Commission shall set up HealthData@EU to support and facilitate the cross-border access to electronic health data for secondary use, connecting the national contact points for secondary use and authorised participants in HealthData@EU and the central platform referred to in paragraph 8."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:75/p8/s1",
+   "paragraph": "8",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall develop, deploy and operate a central platform for HealthData@EU by providing information technology services needed to support and facilitate the exchange of information between health data access bodies as part of HealthData@EU."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:75/p8/s2",
+   "paragraph": "8",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall only process electronic health data on behalf of the controllers as a processor."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:75/p9/s1",
+   "paragraph": "9",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where two or more national contact points for secondary use or authorised participants in HealthData@EU put electronic health data in the secure processing environment managed by the Commission, they shall be joint controllers and the Commission shall be processor for the purpose of processing data in that environment."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:75/p10/s1",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The national contact points for secondary use shall act as joint controllers of the processing operations carried out in HealthData@EU in which they are involved and the Commission shall act as processor on behalf of those national contact points for secondary use, without affecting the tasks of health data access bodies prior to and following those processing operations."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:75/p11/s1",
+   "paragraph": "11",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States and the Commission shall seek to ensure that HealthData@EU is interoperable with other relevant common European data spaces as referred to in Regulations (EU) 2022/868 and (EU) 2023/2854."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:75/p12/s1",
+   "paragraph": "12",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "By 26 March 2027, the Commission shall, by means of implementing acts, set out:"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:75/p12/s2",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "(a)\nrequirements, technical specifications and the IT architecture of HealthData@EU, which shall ensure state-of-the-art data security, confidentiality, and protection of electronic health data in HealthData@EU;"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:75/p12/s3",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The implementing acts referred to in the first subparagraph of this paragraph shall be adopted in accordance with the examination procedure referred to in Article 98(2)."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:75/p13/s1",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 98(2)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:75",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

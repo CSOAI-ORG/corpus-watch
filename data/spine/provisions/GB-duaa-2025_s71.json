@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s71",
+ "label": "GB-duaa-2025 Section 71",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "deb2f13cf14e2d9c29aae1e352b6bbc3e5c96e040fc06ff73f82c8d292a0a5de",
+ "sha256_v1": "",
+ "sha256_v2": "deb2f13cf14e2d9c29aae1e352b6bbc3e5c96e040fc06ff73f82c8d292a0a5de",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "deb2f13cf14e2d9c29aae1e352b6bbc3e5c96e040fc06ff73f82c8d292a0a5de",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s71/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In making the determination, a person must take into account, among other things—\n(a)\nany link between the original purpose and the new purpose;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s71",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

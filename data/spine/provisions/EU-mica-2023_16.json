@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:16",
+ "label": "EU-mica-2023 Article 16",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "d9bf585749010398ac96f69a194007b329f72d8590666f9ea22e981b0508151e",
+ "sha256_v1": "",
+ "sha256_v2": "d9bf585749010398ac96f69a194007b329f72d8590666f9ea22e981b0508151e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d9bf585749010398ac96f69a194007b329f72d8590666f9ea22e981b0508151e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:16/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A person shall not make an offer to the public, or seek the admission to trading, of an asset-referenced token, within the Union, unless that person is the issuer of that asset-referenced token and is:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:16/p17/s1",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those persons shall comply with Articles 27, 29 and"
+  },
+  {
+   "obligation_id": "EU-mica-2023:16/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Where this paragraph applies, issuers of asset-referenced tokens shall draw up a crypto-asset white paper as provided for in Article 19 and notify that crypto-asset white paper and, upon request, any marketing communications, to the competent authority of their home Member State."
+  },
+  {
+   "obligation_id": "EU-mica-2023:16/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The authorisation granted by the competent authority to a person referred to in paragraph 1, first subparagraph, point (a), shall be valid for the entire Union and shall allow an issuer of an asset-referenced token to offer to the public, throughout the Union, the asset-referenced token for which it has been authorised, or to seek an admission to trading of such asset-referenced token."
+  },
+  {
+   "obligation_id": "EU-mica-2023:16/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The approval granted by the competent authority of an issuer’s crypto-asset white paper under Article 17(1) or Article 21(1) or of the modified crypto-asset white paper under Article 25 shall be valid for the entire Union."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:16",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

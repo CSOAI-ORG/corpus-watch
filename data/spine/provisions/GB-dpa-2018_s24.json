@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s24",
+ "label": "GB-dpa-2018 Section 24",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e770b8169f67651dd56c84b7a30d0f78052a2e2b4f15a5ff2754817d7db047ac",
+ "sha256_v1": "",
+ "sha256_v2": "e770b8169f67651dd56c84b7a30d0f78052a2e2b4f15a5ff2754817d7db047ac",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "e770b8169f67651dd56c84b7a30d0f78052a2e2b4f15a5ff2754817d7db047ac",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s24/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(7)\nAn estimate for the purposes of this section must be made in accordance with regulations under section 12(5) of the Freedom of Information Act 2000."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s24",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

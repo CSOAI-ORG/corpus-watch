@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-ico-ai-data-protection-guidance:what-is-the-impact-of-article-22-of-the",
+ "label": "GB-ico-ai-data-protection-guidance What is the impact of Article 22 of the UK GDPR on fairness?",
+ "instrument": "GB-ico-ai-data-protection-guidance",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "290626ed349d15ec4266e97ac38c5270cc758ada43687bbe4b65c56a5f5ca679",
+ "sha256_v1": "",
+ "sha256_v2": "290626ed349d15ec4266e97ac38c5270cc758ada43687bbe4b65c56a5f5ca679",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "290626ed349d15ec4266e97ac38c5270cc758ada43687bbe4b65c56a5f5ca679",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:what-is-the-impact-of-article-22-of-the/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When an AI system is involved in a decision that impacts individuals in a legal or similarly significant way, you must ask:\nwhat kind of decision is it (ie is it solely automated)?;\nwhen does the decision take place?;\nwhat is the context in which the system makes the decision?; and\nwhat steps are involved in reaching it?\nThis will help you comply with data protection and Article 22 in particular."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:what-is-the-impact-of-article-22-of-the/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In most cases, for human review to be meaningful, human involvement should come after the automated decision has taken place and it must relate to the actual outcome."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:what-is-the-impact-of-article-22-of-the/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Will impacted individuals be able to contest an automated decision?\nFor the processing to be fair and compliant with Article 22, individuals must be able to contest a decision in a timely manner."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:what-is-the-impact-of-article-22-of-the/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Meaningful transparency is fundamental to support this and you must put in place the appropriate measures to ensure individuals can exercise their rights."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-ico-ai-data-protection-guidance:what-is-the-impact-of-article-22-of-the",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

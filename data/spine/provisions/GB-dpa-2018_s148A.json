@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s148A",
+ "label": "GB-dpa-2018 Section 148A",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9d56ace82c0358bb2c9a586fa7d88274f59499af0a1aa2a7031a2594c75ce35d",
+ "sha256_v1": "",
+ "sha256_v2": "9d56ace82c0358bb2c9a586fa7d88274f59499af0a1aa2a7031a2594c75ce35d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9d56ace82c0358bb2c9a586fa7d88274f59499af0a1aa2a7031a2594c75ce35d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s148A/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nAn interview notice must specify the time at which the individual must attend at the specified place and answer questions (but see the restrictions in subsections (6) and (7))."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s148A/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nAn interview notice must—\n(a)\nindicate the nature of the suspected failure or offence that is the subject of the investigation,\n(b)\nprovide information about the consequences of failure to comply with the notice, and\n(c)\nprovide information about the rights under sections 162 and 164 (appeals etc)."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s148A/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(8)\nIf an interview notice—\n(a)\nstates that, in the Commission's opinion, it is necessary for the individual to attend at the specified place and answer questions urgently, and\n(b)\ngives the Commission's reasons for reaching that opinion,\nsubsections (6) and (7) do not apply but the notice must not require the individual to attend at the specified place and answer questions before the end of the period of 24 hours beginning when the notice is given."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s148A",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

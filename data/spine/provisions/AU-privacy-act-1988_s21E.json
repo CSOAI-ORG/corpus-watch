@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s21E",
+ "label": "AU-privacy-act-1988 Section 21E",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "4ae19c1558f337c7d3115f67b99d16dc32edd3d620876db19a205ecdc435de76",
+ "sha256_v1": "",
+ "sha256_v2": "4ae19c1558f337c7d3115f67b99d16dc32edd3d620876db19a205ecdc435de76",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "4ae19c1558f337c7d3115f67b99d16dc32edd3d620876db19a205ecdc435de76",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s21E/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "21E  Payment information must be disclosed to a credit reporting body\nIf:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s21E/p0/s2",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\ta credit provider has disclosed default information about an individual to a credit reporting body under section 21D; and\n(b)\tafter the default information was disclosed, the amount of the overdue payment to which the information relates is paid;\nthe provider must, within a reasonable period after the amount is paid, disclose payment information about the amount to the body under that section."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s21E",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB1159-2026:SEC-3",
+ "label": "US-CA-SB1159-2026 SEC. 3.",
+ "instrument": "US-CA-SB1159-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "48959426c5c9731f5e7cc783006aef4e7a48ea6e8dd01e686ac9e3dbce6c8305",
+ "sha256_v1": "",
+ "sha256_v2": "48959426c5c9731f5e7cc783006aef4e7a48ea6e8dd01e686ac9e3dbce6c8305",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "48959426c5c9731f5e7cc783006aef4e7a48ea6e8dd01e686ac9e3dbce6c8305",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB1159-2026:SEC-3/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)A person shall not knowingly use artificial intelligence to falsely represent that a natural person appeared before, submitted information to, or otherwise engaged with a governmental agency."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB1159-2026:SEC-3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

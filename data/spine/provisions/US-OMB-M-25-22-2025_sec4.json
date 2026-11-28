@@ -1,0 +1,206 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-OMB-M-25-22-2025:sec4",
+ "label": "US-OMB-M-25-22-2025 Section 4",
+ "instrument": "US-OMB-M-25-22-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "bdd0be073a633c8a5b4ff4cc0b2323e2cca3912be2149652b6c2321e5ff5a67c",
+ "sha256_v1": "",
+ "sha256_v2": "bdd0be073a633c8a5b4ff4cc0b2323e2cca3912be2149652b6c2321e5ff5a67c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "bdd0be073a633c8a5b4ff4cc0b2323e2cca3912be2149652b6c2321e5ff5a67c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec4/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Throughout the AI acquisition lifecycle, agencies shall consider and mitigate, as appropriate, risks to privacy, civil liberties, and civil rights. 19 In this context, explainability refers to an agency's ability to provide evidence or reasons for system output."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec4/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In particular, the team must identify potential risks to the agency's implementation of the nine principles for use of AI in government articulated in Executive Order 13960.22"
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec4/p11/s1",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "During this phase, agencies must identify reasonably foreseeable use cases arising from the use of an AI system or service, and to the greatest extent practicable, make an initial determination of whether a system is likely to host high-impact AI use cases, as defined by 0MB Memorandum M-25- 21.23 This initial determination will assist in developing key questions to investigate as part of market research. b."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec4/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When determining whether to include performance-based incentives, agencies must carefully consider whether the established metrics are correctly tied to desired business and mission outcomes, and whether they can adequately measure baseline performance of the AI systems or services. c."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec4/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When practicable, agencies must disclose in 1. solicitations whether a planned use of an AI system meets the threshold of a high­ impact use case or ifthere is a reasonable likelihood for such a high-impact use case to 24 This recommendation generally refers to approaches to storing and representing data and models in a manner that allows for them to be easily reused without an agency, or another vendor, having to spend additional money to perform burdensome data conversions, build an entirely separate or redundant storage system, or otherwise duplicative work that is not a cost-effective use of taxpayer dollars. 8 occur during the life of the contract."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec4/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Additionally, for AI systems with potential or expected high-impact use cases, agencies must inform vendors of reasonable transparency and documentation requirements that will be placed on the vendor to enable agency compliance with the requirements in 0MB Memorandum M-25-21."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec4/p11/s1",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Consistent with the processes developed pursuant to section 3( d) above, agencies must include appropriate terms related to IP rights and lawful use of government data. d."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec4/p11/s2",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When evaluating proposals agencies must, to the greatest extent practicable, test proposed solutions to understand the capabilities and limitations of any offered AI system or service."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec4/p11/s1",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Consistent with law and government-wide policy, where applicable, agencies must include terms that address the following in contracts for AI systems and services: 25 To promote cost-effectiveness and foster competition, there are several vendor practices agencies can seek to leverage as evaluation criteria."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec4/p11/s2",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Terms on this subject must be consistent with the processes adopted by the agency per Section 3( d) above."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec4/p11/s3",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "Contracts must ensure compliance with minimum risk management practices for high-impact use cases as required under M-25-21."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec4/p11/s4",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Contractual terms must provide the contracting agency the ability to regularly monitor and evaluate ( e.g., on a quarterly or biannual basis, based on the needs of the program) performance, risks, and effectiveness of an AI system or service."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec4/p11/s5",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Agencies must use data they have defined ( e.g., agency validation and testing datasets) when conducting any independent evaluations to ensure the AI system or service is fit for purpose."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec4/p11/s6",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Vendors must provide the access and time necessary for agencies to complete independent evaluation."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec4/p11/s7",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Alternatively, agencies may allow vendors to complete that testing when most appropriate, but must closely monitor such instances and require testing results detailed enough for the testing to be independently verified or reproduced, ifpracticable; and III."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec4/p11/s8",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Contracts must detail the examination, testing, and validation procedures of the vendor and must not prohibit agencies from internally disclosing how the vendor conducts testing or the results of testing."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec4/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A-130 and other policies established pursuant to the Federal Information Security Modernization Act, any AI systems and services operated as an information system by or on behalf of an agency must receive an authorization to operate from an appropriate agency official prior to deployment.26"
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec4/p11/s1",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Agencies must perform effective system oversight consistent with the terms ofthe contract."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-OMB-M-25-22-2025:sec4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

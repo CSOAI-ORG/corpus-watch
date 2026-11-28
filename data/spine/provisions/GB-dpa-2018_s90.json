@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s90",
+ "label": "GB-dpa-2018 Section 90",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "28ce030e0ce5e95fe337ddca69e6d66b5e01e66c27c914bb4d091b15d094453e",
+ "sha256_v1": "",
+ "sha256_v2": "28ce030e0ce5e95fe337ddca69e6d66b5e01e66c27c914bb4d091b15d094453e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "28ce030e0ce5e95fe337ddca69e6d66b5e01e66c27c914bb4d091b15d094453e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s90/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The fifth data protection principle\nThe fifth data protection principle is that personal data must be kept for no longer than is necessary for the purpose for which it is processed."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s90",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

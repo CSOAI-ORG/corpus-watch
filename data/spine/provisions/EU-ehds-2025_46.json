@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:46",
+ "label": "EU-ehds-2025 Article 46",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "49497251ca5eee0cda83407d67251303a0a0b57c9864bf49a6debd34be6bab02",
+ "sha256_v1": "",
+ "sha256_v2": "49497251ca5eee0cda83407d67251303a0a0b57c9864bf49a6debd34be6bab02",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "49497251ca5eee0cda83407d67251303a0a0b57c9864bf49a6debd34be6bab02",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:46/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where, under Article 44(2) and Article 45(3), objections are raised against a national measure taken by a market surveillance authority, or where the Commission considers a national measure to be contrary to Union law, the Commission shall without delay enter into consultations with that market surveillance authority and the relevant economic operators and shall evaluate the national measure concerned."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:46/p1/s2",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "On the basis of the results of that evaluation, the Commission shall adopt an implementing decision determining whether the national measure is justified."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:46/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That implementing decision shall be adopted in accordance with the examination procedure referred to in Article 98(2)."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:46/p1/s4",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall address its implementing decision to all Member States and shall immediately communicate it to them and to the relevant economic operators."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:46/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "If the national measure referred to in paragraph 1 is considered justified by the Commission, all Member States concerned shall take the necessary measures to ensure that the non-compliant EHR system is withdrawn from their market, and shall inform the Commission accordingly."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:46/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "If the national measure referred to in paragraph 1 is considered unjustified by the Commission, the Member State concerned shall revoke that measure."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:46",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

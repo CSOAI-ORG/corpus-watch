@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s156",
+ "label": "GB-osa-2023 Section 156",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "442e907b2d49df88cc441ddbed74e6bcc8598bec9ffc1ddc9cc41670e2054b54",
+ "sha256_v1": "",
+ "sha256_v2": "442e907b2d49df88cc441ddbed74e6bcc8598bec9ffc1ddc9cc41670e2054b54",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "442e907b2d49df88cc441ddbed74e6bcc8598bec9ffc1ddc9cc41670e2054b54",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s156/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "OFCOM’s statement about freedom of expression and privacy\nOFCOM’s report under paragraph 12 of the Schedule to the Office of Communications Act 2002 for each financial year must contain a statement by OFCOM about the steps they have taken, and the processes they operate, to ensure that their online safety functions have been exercised in that year compatibly with Articles 8 and 10 of the Convention (so far as relevant)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s156",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

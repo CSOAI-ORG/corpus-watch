@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB853-2025:SEC-5",
+ "label": "US-CA-AB853-2025 SEC. 5.",
+ "instrument": "US-CA-AB853-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "1fda611166d38971820c62c5d2ffa50c118e5d90898b37159714e86e89500777",
+ "sha256_v1": "",
+ "sha256_v2": "1fda611166d38971820c62c5d2ffa50c118e5d90898b37159714e86e89500777",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "1fda611166d38971820c62c5d2ffa50c118e5d90898b37159714e86e89500777",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB853-2025:SEC-5/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)(1)A violator of this chapter shall be liable for a civil penalty in the amount of five thousand dollars ($5,000) per violation to be collected in a civil action filed by the Attorney General, a city attorney, or a county counsel."
+  },
+  {
+   "obligation_id": "US-CA-AB853-2025:SEC-5/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)A prevailing plaintiff in an action brought pursuant to this subdivision shall be entitled to all reasonable attorney’s costs and fees."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB853-2025:SEC-5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

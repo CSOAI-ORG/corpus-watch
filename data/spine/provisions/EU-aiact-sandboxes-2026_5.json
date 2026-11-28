@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-aiact-sandboxes-2026:5",
+ "label": "EU-aiact-sandboxes-2026 Article 5",
+ "instrument": "EU-aiact-sandboxes-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9617c68a74ce1a3e6d5b4609088ded3880c2c3a962a774a9be251b79c2c275e7",
+ "sha256_v1": "",
+ "sha256_v2": "9617c68a74ce1a3e6d5b4609088ded3880c2c3a962a774a9be251b79c2c275e7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9617c68a74ce1a3e6d5b4609088ded3880c2c3a962a774a9be251b79c2c275e7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-aiact-sandboxes-2026:5/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Following the selection of applications in accordance with Article 3, a sandbox plan shall be agreed upon between the provider or prospective provider and the competent authority or authorities supervising the AI regulatory sandbox, as applicable, without undue delay following the selection."
+  },
+  {
+   "obligation_id": "EU-aiact-sandboxes-2026:5/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The sandbox plan shall specify at least the following elements concerning the participation in the AI regulatory sandbox:"
+  },
+  {
+   "obligation_id": "EU-aiact-sandboxes-2026:5/p3/s1",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The provider or prospective provider shall, to the best of their ability, identify which information or data included in the sandbox plan might be confidential pursuant to Article 78 of Regulation (EU) 2024/1689."
+  },
+  {
+   "obligation_id": "EU-aiact-sandboxes-2026:5/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Subject to Article 2(2) of Regulation (EU) 2024/1689, and as regards testing in real world conditions of AI systems covered by Union harmonisation legislation listed in Section B of Annex I to Regulation (EU) 2024/1689, the design and implementation of sandbox projects and sandbox plans shall take into account the specificities of the AI systems and products tested."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-aiact-sandboxes-2026:5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

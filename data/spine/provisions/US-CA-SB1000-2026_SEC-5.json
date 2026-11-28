@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB1000-2026:SEC-5",
+ "label": "US-CA-SB1000-2026 SEC. 5.",
+ "instrument": "US-CA-SB1000-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ae89071f9bc94e2508bbd4df35f44b181d02ad2115b24a4ea007784842d39e7b",
+ "sha256_v1": "",
+ "sha256_v2": "ae89071f9bc94e2508bbd4df35f44b181d02ad2115b24a4ea007784842d39e7b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "ae89071f9bc94e2508bbd4df35f44b181d02ad2115b24a4ea007784842d39e7b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB1000-2026:SEC-5/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)(1)A violator of this chapter shall be liable for a civil penalty in the amount of five thousand dollars ($5,000) per violation to be collected in a civil action filed by the Attorney General, a city attorney, or a county counsel."
+  },
+  {
+   "obligation_id": "US-CA-SB1000-2026:SEC-5/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)A prevailing plaintiff in an action brought pursuant to this subdivision shall be entitled to all reasonable attorney’s costs and fees."
+  },
+  {
+   "obligation_id": "US-CA-SB1000-2026:SEC-5/p5/s4",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)A civil action brought under this section before the effective date of the act adding this subdivision shall not be maintained if the alleged conduct does not violate this chapter on and after the effective date of the act adding this subdivision."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB1000-2026:SEC-5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:13",
+ "label": "EU-ccd2-2023 Article 13",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "cb53e70ae186a9fde1e2c09451be97dffd0c81cabe119981f58d99a9c1634498",
+ "sha256_v1": "",
+ "sha256_v2": "cb53e70ae186a9fde1e2c09451be97dffd0c81cabe119981f58d99a9c1634498",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "cb53e70ae186a9fde1e2c09451be97dffd0c81cabe119981f58d99a9c1634498",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:13/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Personalised offers on the basis of automated processing\nWithout prejudice to Regulation (EU) 2016/679, Member States shall require that creditors and credit intermediaries inform consumers in a clear and comprehensible manner when they are presented with a personalised offer that is based on automated processing of personal data."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:13",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

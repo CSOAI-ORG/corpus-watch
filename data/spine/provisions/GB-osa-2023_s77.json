@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s77",
+ "label": "GB-osa-2023 Section 77",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "ac6bd91092c2d3ce2ce6d6c873426e0f9c26064fa46b74dc5a3cd2b2f1f24cad",
+ "sha256_v1": "",
+ "sha256_v2": "ac6bd91092c2d3ce2ce6d6c873426e0f9c26064fa46b74dc5a3cd2b2f1f24cad",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ac6bd91092c2d3ce2ce6d6c873426e0f9c26064fa46b74dc5a3cd2b2f1f24cad",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s77/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Transparency reports about certain Part 3 services\n(1)\nOnce a year, OFCOM must give every provider of a relevant service a notice which requires the provider to produce a report about the service (a “transparency report”)."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s77/p0/s2",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nIf a person is the provider of more than one relevant service, a notice must be given to the provider in respect of each such service."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s77/p0/s3",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(3)\nIn response to a notice relating to a relevant service, the provider of the service must produce a transparency report which must—\n(a)\ncontain information of a kind specified or described in the notice,\n(b)\nbe in the format specified in the notice,\n(c)\nbe submitted to OFCOM by the date specified in the notice, and\n(d)\nbe published in the manner and by the date specified in the notice."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s77/p0/s4",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nA provider must ensure that the information provided in a transparency report is—\n(a)\ncomplete, and\n(b)\naccurate in all material respects."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s77/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(13)\nThe Secretary of State must consult OFCOM before making regulations under subsection (12)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s77",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

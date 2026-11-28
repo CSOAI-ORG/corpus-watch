@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-platform-work-2024:16",
+ "label": "EU-platform-work-2024 Article 16",
+ "instrument": "EU-platform-work-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "a3ba29a3da260334c1b7a0155dd6508075def5dbfaa07e69e3eff4fdb7d0ddd0",
+ "sha256_v1": "",
+ "sha256_v2": "a3ba29a3da260334c1b7a0155dd6508075def5dbfaa07e69e3eff4fdb7d0ddd0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a3ba29a3da260334c1b7a0155dd6508075def5dbfaa07e69e3eff4fdb7d0ddd0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-platform-work-2024:16/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Declaration of platform work\nMember States shall require digital labour platforms to declare work performed by platform workers to the competent authorities of the Member State in which the work is performed, in accordance with the rules and procedures laid down in the law of the Member States concerned."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-platform-work-2024:16",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

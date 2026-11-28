@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s161A",
+ "label": "GB-dpa-2018 Section 161A",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "26aaca7e06b957ab289391186d7249ad65e4cf850efd66d7002c043bc97c940c",
+ "sha256_v1": "",
+ "sha256_v2": "26aaca7e06b957ab289391186d7249ad65e4cf850efd66d7002c043bc97c940c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "26aaca7e06b957ab289391186d7249ad65e4cf850efd66d7002c043bc97c940c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s161A/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Annual report on regulatory action\n(1)\nThe Commission must produce and publish an annual report containing the information described in subsections (2) to (5)."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s161A/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nThe report must include the following information about UK GDPR investigations—\n(a)\nthe number of investigations begun, continued or completed by the Commission during the reporting period,\n(b)\nthe different types of act and omission that were the subject matter of the investigations,\n(c)\nthe enforcement powers exercised by the Commission in the reporting period in connection with the investigations,\n(d)\nthe duration of investigations that ended in the reporting period, and\n(e)\nthe different types of outcome in investigations that ended in that period."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s161A/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "(3)\nThe report must include information about the enforcement powers exercised by the Commission in the reporting period in connection with—\n(a)\nprocessing of personal data by a competent authority for any of the law enforcement purposes, and\n(b)\nprocessing of personal data to which Part 4 applies."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s161A/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nThe information included in the report in accordance with subsections (2) and (3) must include information about—\n(a)\nthe number of penalty notices given in the reporting period that were given more than 6 months after the notice of intent was given under paragraph 2 of Schedule 16, and\n(b)\nthe reasons why that happened."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s161A/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(5)\nThe report must include a review of how the Commission had regard to the guidance published under section 160 when exercising the Commission's enforcement powers as described in subsections (2)(c) and (3)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s161A",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

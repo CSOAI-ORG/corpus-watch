@@ -1,0 +1,79 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:6",
+ "label": "GDPR Art. 6",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "54f74f23da15419c19792411ded15e755b77d25a061274c54b2b72f69e21ee5c",
+ "sha256_v1": "54f74f23da15419c19792411ded15e755b77d25a061274c54b2b72f69e21ee5c",
+ "sha256_v2": "3b4dfe00cdb4bcfe0568cc1d4e8bebc1213e13313c832aca7f5f9499c0200cc7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "3b4dfe00cdb4bcfe0568cc1d4e8bebc1213e13313c832aca7f5f9499c0200cc7",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:6/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Processing shall be lawful only if and to the extent that at least one of the following applies:"
+  },
+  {
+   "obligation_id": "32016R0679:6/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The basis for the processing referred to in point (c) and (e) of paragraph 1 shall be laid down by:"
+  },
+  {
+   "obligation_id": "32016R0679:6/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The purpose of the processing shall be determined in that legal basis or, as regards the processing referred to in point (e) of paragraph 1, shall be necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller."
+  },
+  {
+   "obligation_id": "32016R0679:6/p3/s3",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Union or the Member State law shall meet an objective of public interest and be proportionate to the legitimate aim pursued."
+  },
+  {
+   "obligation_id": "32016R0679:6/p4/s1",
+   "paragraph": "4",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the processing for a purpose other than that for which the personal data have been collected is not based on the data subject's consent or on a Union or Member State law which constitutes a necessary and proportionate measure in a democratic society to safeguard the objectives referred to in Article 23(1), the controller shall, in order to ascertain whether processing for another purpose is compatible with the purpose for which the personal data are initially collected, take into account, inter alia:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

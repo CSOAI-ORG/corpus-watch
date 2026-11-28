@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-owasp-llm-top10-2025:LLM04",
+ "label": "INTL-owasp-llm-top10-2025 LLM04",
+ "instrument": "INTL-owasp-llm-top10-2025",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "733be58fbd957e62fbbbf6d09ab71a4ae93a30374a49de7df4e8bbf23bb39930",
+ "sha256_v1": "",
+ "sha256_v2": "733be58fbd957e62fbbbf6d09ab71a4ae93a30374a49de7df4e8bbf23bb39930",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "733be58fbd957e62fbbbf6d09ab71a4ae93a30374a49de7df4e8bbf23bb39930",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-owasp-llm-top10-2025:LLM04/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-owasp-llm-top10-2025:LLM04",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

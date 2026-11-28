@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:88",
+ "label": "EU-ehds-2025 Article 88",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "afb4e2e0bc0565d6e16d1be081e041a7f11ff5d0e8084447564987545d24804a",
+ "sha256_v1": "",
+ "sha256_v2": "afb4e2e0bc0565d6e16d1be081e041a7f11ff5d0e8084447564987545d24804a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "afb4e2e0bc0565d6e16d1be081e041a7f11ff5d0e8084447564987545d24804a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:88/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The protective measures for the categories of data mentioned in paragraph 1 of this Article shall be detailed in a delegated act referred to in Article 5(13) of Regulation (EU) 2022/868."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:88",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

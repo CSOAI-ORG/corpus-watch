@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s134",
+ "label": "GB-osa-2023 Section 134",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a73529aeed42b6c2a8a9d2e83c2cc1716c27de708a86cece0c38e07b66c89a0a",
+ "sha256_v1": "",
+ "sha256_v2": "a73529aeed42b6c2a8a9d2e83c2cc1716c27de708a86cece0c38e07b66c89a0a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a73529aeed42b6c2a8a9d2e83c2cc1716c27de708a86cece0c38e07b66c89a0a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s134/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nA confirmation decision which includes a determination as mentioned in subsection (2) must—\n(a)\ngive details of the identified risk,\n(b)\nspecify the duty to which the determination relates, and\n(c)\nspecify the date by which measures (at the provider’s discretion) to comply with that duty must be taken or must begin to be used."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s134",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

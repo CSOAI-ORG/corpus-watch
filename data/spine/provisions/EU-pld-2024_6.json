@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-pld-2024:6",
+ "label": "EU-pld-2024 Article 6",
+ "instrument": "EU-pld-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "882f48b01608b564350aa62eb58c9f02a6989af238fbbb7013de2564ac139e6e",
+ "sha256_v1": "",
+ "sha256_v2": "882f48b01608b564350aa62eb58c9f02a6989af238fbbb7013de2564ac139e6e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "882f48b01608b564350aa62eb58c9f02a6989af238fbbb7013de2564ac139e6e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-pld-2024:6/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The right to compensation pursuant to Article 5 shall cover all material losses resulting from the damage referred to in paragraph 1 of this Article."
+  },
+  {
+   "obligation_id": "EU-pld-2024:6/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The right to compensation shall also cover non-material losses resulting from the damage referred to in paragraph 1 of this Article, in so far as they can be compensated for under national law."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-pld-2024:6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:62",
+ "label": "EU-eudpr-2018 Article 62",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "8def280f9849aa09b345cad9af2a686b9d143375219e6578ebac5142b7317a17",
+ "sha256_v1": "",
+ "sha256_v2": "8def280f9849aa09b345cad9af2a686b9d143375219e6578ebac5142b7317a17",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "8def280f9849aa09b345cad9af2a686b9d143375219e6578ebac5142b7317a17",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:62/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a Union act refers to this Article, the European Data Protection Supervisor and the national supervisory authorities, each acting within the scope of their respective competences, shall cooperate actively within the framework of their responsibilities to ensure effective supervision of large-scale IT systems and of Union bodies, offices and agencies."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:62/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "They shall, as necessary, each acting within the scope of their respective competences and within the framework of their responsibilities, exchange relevant information, assist each other in carrying out audits and inspections, examine difficulties of interpretation or application of this Regulation and other applicable Union acts, study problems with the exercise of independent supervision or with the exercise of the rights of data subjects, draw up harmonised proposals for solutions to any problems and promote awareness of data protection rights."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:62/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "For the purposes laid down in paragraph 2, the European Data Protection Supervisor and the national supervisory authorities shall meet at least twice a year within the framework of the European Data Protection Board."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:62/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The European Data Protection Board shall submit a joint report of coordinated supervision activities to the European Parliament, to the Council, and to the Commission every two years."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:62",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

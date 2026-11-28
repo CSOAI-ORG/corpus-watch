@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "ES-aesia-statute-2023:20",
+ "label": "ES-aesia-statute-2023 Artículo 20",
+ "instrument": "ES-aesia-statute-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "fc80d59489e64b9993e875bd9a76e434db8af9c77f61e1a69890dcbc7c08be01",
+ "sha256_v1": "",
+ "sha256_v2": "fc80d59489e64b9993e875bd9a76e434db8af9c77f61e1a69890dcbc7c08be01",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "ES",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "fc80d59489e64b9993e875bd9a76e434db8af9c77f61e1a69890dcbc7c08be01",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "ES-aesia-statute-2023:20/s4",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Los miembros de la Comisión de Control no deberán desempeñar responsabilidades de gestión en la Agencia.\n3."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=ES-aesia-statute-2023:20",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

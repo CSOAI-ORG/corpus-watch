@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB867-2026:SEC-2",
+ "label": "US-CA-SB867-2026 SEC. 2.",
+ "instrument": "US-CA-SB867-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "19fe11279e49a0ba3522320d16065db95d27b4baa9b682a6ac06a036ce018ba4",
+ "sha256_v1": "",
+ "sha256_v2": "19fe11279e49a0ba3522320d16065db95d27b4baa9b682a6ac06a036ce018ba4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "19fe11279e49a0ba3522320d16065db95d27b4baa9b682a6ac06a036ce018ba4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB867-2026:SEC-2/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)No person shall manufacture, sell, or exchange, possess with intent to sell or exchange, or expose or offer for sale or exchange to any retailer any toy that includes a companion chatbot."
+  },
+  {
+   "obligation_id": "US-CA-SB867-2026:SEC-2/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)This section shall remain in effect only until January 1, 2031, and as of that date is repealed."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB867-2026:SEC-2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

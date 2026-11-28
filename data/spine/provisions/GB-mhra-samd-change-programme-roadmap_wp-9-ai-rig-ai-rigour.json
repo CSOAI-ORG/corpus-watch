@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-mhra-samd-change-programme-roadmap:wp-9-ai-rig-ai-rigour",
+ "label": "GB-mhra-samd-change-programme-roadmap section wp-9-ai-rig-ai-rigour",
+ "instrument": "GB-mhra-samd-change-programme-roadmap",
+ "ladder": "HASH_ONLY",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "f1151e476fd5edde66c3fd4b6357cbeb81909e7d8b12114285fb14c443e65b5b",
+ "sha256_v1": "",
+ "sha256_v2": "",
+ "source_state": "UNKNOWN",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-mhra-samd-change-programme-roadmap:wp-9-ai-rig-ai-rigour/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-mhra-samd-change-programme-roadmap:wp-9-ai-rig-ai-rigour",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-12CFR1002-RegB-1977:1002.110",
+ "label": "US-12CFR1002-RegB-1977 12 CFR 1002.110",
+ "instrument": "US-12CFR1002-RegB-1977",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "0e566a460bdb2634a10f753475bb4ca180a42d08d7bf72ddecb17d85f52393ff",
+ "sha256_v1": "",
+ "sha256_v2": "0e566a460bdb2634a10f753475bb4ca180a42d08d7bf72ddecb17d85f52393ff",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "0e566a460bdb2634a10f753475bb4ca180a42d08d7bf72ddecb17d85f52393ff",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.110/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Bureau shall make available to the public generally the data reported to it by financial institutions pursuant to § 1002.109, subject to deletions or modifications made by the Bureau if the Bureau determines that the deletion or modification of the data would advance a privacy interest."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.110/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Bureau shall make such data available on an annual basis."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.110/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A covered financial institution shall make available to the public on its website, or otherwise upon request, a statement that the covered financial institution's small business lending application register, as modified by the Bureau pursuant to § 1002.110(a), is or will be available from the Bureau."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.110/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A financial institution shall use language provided by the Bureau, or substantially similar language, to satisfy the requirement to provide a statement pursuant to this paragraph (c)."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.110/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A covered financial institution shall make the notice required by paragraph (c) of this section available to the public on its website when it submits a small business lending application register to the Bureau pursuant to § 1002.109(a)(1), and shall maintain the notice for as long as it has an obligation to retain its small business lending application registers pursuant to § 1002.111(a)."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.110/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A financial institution shall not disclose or provide to a third party the information it collects pursuant to § 1002.107(a)(18) and (19) except to further compliance with the Act or this part or as required by law."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-12CFR1002-RegB-1977:1002.110",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

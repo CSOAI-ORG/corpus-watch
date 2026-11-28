@@ -1,0 +1,186 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-data-act-2023:10",
+ "label": "EU-data-act-2023 Article 10",
+ "instrument": "EU-data-act-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "980f11592880dabf5c64e4e1803294600629542dc6a9232dbb2eac87598e17c7",
+ "sha256_v1": "",
+ "sha256_v2": "980f11592880dabf5c64e4e1803294600629542dc6a9232dbb2eac87598e17c7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "980f11592880dabf5c64e4e1803294600629542dc6a9232dbb2eac87598e17c7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-data-act-2023:10/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Users, data holders and data recipients shall have access to a dispute settlement body, certified in accordance with paragraph 5 of this Article, to settle disputes pursuant to Article 4(3) and (9) and Article 5(12) as well as disputes relating to the fair, reasonable and non-discriminatory terms and conditions for, and transparent manner of, making data available in accordance with this Chapter and Chapter IV."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:10/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Dispute settlement bodies shall make the fees, or the mechanisms used to determine the fees, known to the parties concerned before those parties request a decision."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:10/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For disputes referred to a dispute settlement body pursuant to Article 4(3) and (9) and Article 5(12), where the dispute settlement body decides a dispute in favour of the user or of the data recipient, the data holder shall bear all the fees charged by the dispute settlement body and shall reimburse that user or that data recipient for any other reasonable expenses that it has incurred in relation to the dispute settlement."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:10/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the dispute settlement body decides a dispute in favour of the data holder, the user or the data recipient shall not be required to reimburse any fees or other expenses that the data holder paid or is to pay in relation to the dispute settlement, unless the dispute settlement body finds that the user or the data recipient manifestly acted in bad faith."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:10/p4/s1",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Customers and providers of data processing services shall have access to a dispute settlement body, certified in accordance with paragraph 5 of this Article, to settle disputes relating to breaches of the rights of customers and the obligations of providers of data processing services, in accordance with Articles 23 to 31."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:10/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Member State where the dispute settlement body is established shall, at the request of that body, certify that body where it has demonstrated that it meets all of the following conditions:"
+  },
+  {
+   "obligation_id": "EU-data-act-2023:10/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall notify to the Commission the dispute settlement bodies certified in accordance with paragraph"
+  },
+  {
+   "obligation_id": "EU-data-act-2023:10/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall publish a list of those bodies on a dedicated website and keep it updated."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:10/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A dispute settlement body shall refuse to deal with a request to resolve a dispute that has already been brought before another dispute settlement body or before a court or tribunal of a Member State."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:10/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A dispute settlement body shall grant parties the possibility, within a reasonable period of time, to express their points of view on the matters those parties have brought before that body."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:10/p8/s2",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In that context, each party to a dispute shall be provided with the submissions of the other party to their dispute and any statements made by experts."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:10/p8/s3",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The parties shall be given the possibility to comment on those submissions and statements."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:10/p9/s1",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A dispute settlement body shall adopt its decision on a matter referred to it within 90 days of receipt of a request pursuant to paragraphs 1 and"
+  },
+  {
+   "obligation_id": "EU-data-act-2023:10/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That decision shall be in writing or on a durable medium and shall be supported by a statement of reasons."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:10/p10/s1",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Dispute settlement bodies shall draw up and make publicly available annual activity reports."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:10/p10/s2",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such annual reports shall include, in particular, the following general information:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-data-act-2023:10",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

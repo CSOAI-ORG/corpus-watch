@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s48",
+ "label": "AU-privacy-act-1988 Section 48",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "13186f4cc197a1031c1479086de670b5c32551a991e7460515de1e3c4d796b61",
+ "sha256_v1": "",
+ "sha256_v2": "13186f4cc197a1031c1479086de670b5c32551a991e7460515de1e3c4d796b61",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "13186f4cc197a1031c1479086de670b5c32551a991e7460515de1e3c4d796b61",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s48/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "48  Complainant and certain other persons to be informed of various matters\n(1)\tWhere the Commissioner decides not to investigate, or not to investigate further, a matter to which a complaint relates, the Commissioner shall, as soon as practicable and in such manner as the Commissioner thinks fit, inform the complainant and the respondent of the decision and of the reasons for the decision."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s48/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\tIf the Commissioner decides not to investigate (at all or further) an act done, or practice engaged in, by a contracted service provider for the purpose of providing (directly or indirectly) a service to an agency under a Commonwealth contract, the Commissioner must also inform the agency of the decision."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s48",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

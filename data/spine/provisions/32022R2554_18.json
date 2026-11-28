@@ -1,0 +1,89 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022R2554:18",
+ "label": "DORA Art. 18",
+ "instrument": "DORA",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "214542520c6cb01c4b40465c72575bd0d85cd01c143e114a2debaf95c7eca123",
+ "sha256_v1": "214542520c6cb01c4b40465c72575bd0d85cd01c143e114a2debaf95c7eca123",
+ "sha256_v2": "afe77ef860c538b0f44de00c60f25a4ad66888aa74246e6456e69ca74f80dad6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "afe77ef860c538b0f44de00c60f25a4ad66888aa74246e6456e69ca74f80dad6",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022R2554:18/p1/s1",
+   "paragraph": "1",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Financial entities shall classify ICT-related incidents and shall determine their impact based on the following criteria:"
+  },
+  {
+   "obligation_id": "32022R2554:18/p2/s1",
+   "paragraph": "2",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Financial entities shall classify cyber threats as significant based on the criticality of the services at risk, including the financial entity’s transactions and operations, number and/or relevance of clients or financial counterparts targeted and the geographical spread of the areas at risk."
+  },
+  {
+   "obligation_id": "32022R2554:18/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The ESAs shall, through the Joint Committee and in consultation with the ECB and ENISA, develop common draft regulatory technical standards further specifying the following:"
+  },
+  {
+   "obligation_id": "32022R2554:18/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When developing the common draft regulatory technical standards referred to in paragraph 3 of this Article, the ESAs shall take into account the criteria set out in Article 4(2), as well as international standards, guidance and specifications developed and published by ENISA, including, where appropriate, specifications for other economic sectors."
+  },
+  {
+   "obligation_id": "32022R2554:18/p4/s2",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "For the purposes of applying the criteria set out in Article 4(2), the ESAs shall duly consider the need for microenterprises and small and medium-sized enterprises to mobilise sufficient resources and capabilities to ensure that ICT-related incidents are managed swiftly."
+  },
+  {
+   "obligation_id": "32022R2554:18/p4/s3",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The ESAs shall submit those common draft regulatory technical standards to the Commission by 17 January 2024."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022R2554:18",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

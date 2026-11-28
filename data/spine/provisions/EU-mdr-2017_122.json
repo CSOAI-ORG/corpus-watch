@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:122",
+ "label": "EU-mdr-2017 Article 122",
+ "instrument": "EU-mdr-2017",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "fbade81f8af3591279a22c7b7bda0b9f3eada1d7bb0ef92be60dceb50435382c",
+ "sha256_v1": "",
+ "sha256_v2": "fbade81f8af3591279a22c7b7bda0b9f3eada1d7bb0ef92be60dceb50435382c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": null,
+ "sha256_current": "fbade81f8af3591279a22c7b7bda0b9f3eada1d7bb0ef92be60dceb50435382c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:122/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 122 repeal",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:122",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

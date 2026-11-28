@@ -1,0 +1,78 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:57",
+ "label": "GDPR Art. 57",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5af974c941a151ab0fb1e9e6cce75504c1de4df14d6604e9b0cc06de1c432442",
+ "sha256_v1": "5af974c941a151ab0fb1e9e6cce75504c1de4df14d6604e9b0cc06de1c432442",
+ "sha256_v2": "486a0e0843c156ed54cde8040afeaecd2f5ef52c57e3a04ef473a504f96e0f7a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": 1,
+ "sha256_current": "93b26662fb17222ee3d4cd28029b2584f02f36721bf5744ec42bbfeaca948ba4",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:57/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Without prejudice to other tasks set out under this Regulation, each supervisory authority shall on its territory:"
+  },
+  {
+   "obligation_id": "32016R0679:57/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Activities addressed specifically to children shall receive specific attention;"
+  },
+  {
+   "obligation_id": "32016R0679:57/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Each supervisory authority shall facilitate the submission of complaints referred to in point (f) of paragraph 1 by measures such as a complaint submission form which can also be completed electronically, without excluding other means of communication."
+  },
+  {
+   "obligation_id": "32016R0679:57/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The performance of the tasks of each supervisory authority shall be free of charge for the data subject and, where applicable, for the data protection officer."
+  },
+  {
+   "obligation_id": "32016R0679:57/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The supervisory authority shall bear the burden of demonstrating the manifestly unfounded or excessive character of the request."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:57",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

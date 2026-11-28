@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-equality-act-2010:s106",
+ "label": "GB-equality-act-2010 Section 106",
+ "instrument": "GB-equality-act-2010",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "e7946e4ee378944badec4374e60a8cfd56441020972a145b3b5ba50bccfe2298",
+ "sha256_v1": "",
+ "sha256_v2": "e7946e4ee378944badec4374e60a8cfd56441020972a145b3b5ba50bccfe2298",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "e7946e4ee378944badec4374e60a8cfd56441020972a145b3b5ba50bccfe2298",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-equality-act-2010:s106/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(2)\nIf the party had candidates at a relevant election, the party must, in accordance with regulations, publish information relating to protected characteristics of persons who come within a description prescribed in the regulations in accordance with subsection (3)."
+  },
+  {
+   "obligation_id": "GB-equality-act-2010:s106/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(7)\nThe regulations may provide that the information to be published—\n(a)\nmust (subject to subsection (6)) relate to all protected characteristics or only to such as are prescribed;"
+  },
+  {
+   "obligation_id": "GB-equality-act-2010:s106/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)\nmust include a statement, in respect of each protected characteristic to which the information relates, of the proportion that the number of persons who provided the information to the party bears to the number of persons who were asked to provide it."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-equality-act-2010:s106",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,346 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-OMB-M-25-21-2025:sec4",
+ "label": "US-OMB-M-25-21-2025 Section 4",
+ "instrument": "US-OMB-M-25-21-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "e353f78719771cc69a63a02cd9b7299932e98a0e3f339da9ff20a94d0291b8b4",
+ "sha256_v1": "",
+ "sha256_v2": "e353f78719771cc69a63a02cd9b7299932e98a0e3f339da9ff20a94d0291b8b4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 6,
+ "sha256_current": "e353f78719771cc69a63a02cd9b7299932e98a0e3f339da9ff20a94d0291b8b4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "FOSTERING PUBLIC TRUST IN FEDERAL USE OF AI Agencies must continue to develop AI that serves the public by, for example, increasing the accessibility of government services, increasing government efficiency, enhancing national security, and growing American economic competitiveness in a way that benefits people across the United States."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Agencies must ensure their AI use is trustworthy, secure, and accountable, in accordance with Executive Order 13960."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p4/s3",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "In the pursuit of agency-wide AI adoption and use, the Federal workforce at varying levels will participate in AI or AI-enabling roles, with accountable officials assuming risk.24 As part of this effort, AI risk management policies must be written to both ensure the minimum number of requirements necessary to enable the trustworthy and responsible use of AI and also ensure those requirements are understandable and implementable."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p4/s4",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "Agencies are required to implement minimum risk management practices, detailed in Section 4(b) of this memorandum, to manage risks from high-impact AI use cases."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p4/s5",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, Sections 4(a) through (b) of this memorandum do not apply to elements ofthe Intelligence 24 Agencies are encouraged to assign these responsibilities to agency officials who are accountable for the mission outcome of the AI use case. 13 Community .25 Consistent with these goals, agencies must undertake the following, in addition to following 0MB standards and requirements governing information dissemination, where applicable.26 a."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p4/s6",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For AI use cases in these categories, an appropriate agency official must submit written documentation to notify the CAIO when making a determination that a particular AI use case does not actually meet the definition of high-impact."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p4/s7",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "CAIOs may revisit any determinations made within their agency to conclude that an AI use case is considered \"high-impact\" and must be subject to the minimum risk management practices at any time."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Within 365 days of the issuance of this memorandum, agencies must document implementation of the minimum practices in Section 4(b) of this memorandum for high­ impact uses of AI and be prepared to report them to 0MB, as part of periodic accountability reviews, the annual AI use case inventory, or upon request as determined 25 Although elements of the Intelligence Community are not required to implement these practices, they are encouraged to do so. 26 See 0MB Memorandum M-19-15, Improving Implementation ofthe Information Quality Act, https://trumpwhitehouse.archives.gov/wp-content/uploads/20 l 9/04/M-19-15.pdf. 27 AI may be integrated in decision or activity pipelines in high-impact categori"
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a particular high-impact use case is not compliant with the minimum practices then the agency must safely discontinue use of the AI functionality."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p11/s1",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An agency CAIO, in coordination with other relevant officials, must certify the ongoing validity of each waiver on an annual basis, and may also revoke a previously issued waiver at any time."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p11/s2",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The CAIO's responsibility under this paragraph shall not be delegated down to other officials. 111."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p11/s3",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In addition to the certification and publication requirements in Section 4(a)(ii) and Section 4(a)(iv) of this memorandum, CAIOs must centrally track waivers, reassess them if there are significant changes to the conditions or context in which the AI is used, and within 30 days of granting or revoking any waiver, report to 0MB on the scope, justification, and evidence supporting that action."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p11/s4",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "To the extent consistent with law and 1v. governmentwide policy, each agency must publicly release a summary describing each individual determination and waiver, as well its justification. 0MB will issue detailed instructions for these summaries."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p11/s5",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Alternatively, agencies must publicly indicate, if the agency has no active determinations or waivers. b."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p11/s6",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "Implementing Minimum Risk Management Practices for High-Impact AI Agencies must implement the following minimum risk management practices for high­ impact AI use cases:"
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Agencies must develop pre-deployment testing and prepare risk mitigation plans that reflect expected real-world outcomes and identify expected benefits to the AI use."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In conducting pre-deployment testing, if an agency does not have access to the underlying AI source code, models, or data, the agency must use 15 alternative test methodologies, such as querying the AI service and observing the outputs or providing evaluation data to the vendor and obtaining results."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p11/s1",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Agencies must complete an AI impact assessment before deploying any high-impact AI use case."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p11/s2",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "These assessments must be updated periodically and throughout the AI' s lifecycle, as appropriate, using target variables that anticipate real-world outcomes."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p11/s3",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The AI impact assessments must be documented and address or include, at a minimum:"
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p11/s4",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When applicable, this summary must describe information included in the data about classes protected by Federal nondiscrimination laws;"
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p11/s5",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "The independent reviewer of the impact assessment shall identify any potential concerns or gaps."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p11/s6",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Any comments provided by the independent reviewer must be included in the impact assessment documentation and shared with the individual accepting the risk for the AI use case when that determination is made; and 30 Pub."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p11/s7",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Agencies must conduct testing and periodic human review of AI use cases, where feasible, to identify any adverse impacts to the performance and security of AI functionality, including those that may violate laws governing privacy, civil rights, or civil liberties."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p11/s8",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Ongoing monitoring must be designed to detect unforeseen circumstances, changes to an AI system after deployment, or changes to the context of use or associated data."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p11/s9",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Agencies must implement appropriate mitigations and ensure proper system and use documentation; and where possible, develop processes enabling traceability and transparency in this evaluation. 1v."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p11/s10",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Agencies must ensure there is sufficient and periodic training, assessment, and oversight for operators of AI to interpret and act on the AI' s output and manage associated risks."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p11/s11",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Agencies must ensure human oversight, intervention, and accountability suitable for high-impact use cases."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p11/s12",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When practicable and consistent with existing agency practices, agencies must ensure that the AI functionality has an appropriate fail-safe that minimizes the risk of significant harm. 31 v1."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p11/s13",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Agencies must ensure that individuals affected by AI-enabled decisions have access to a timely human review and a chance to appeal any negative impacts, when appropriate."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p11/s14",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Agencies must provide an option for end users and the public to submit feedback on the use case, where appropriate, in the design, development, and use ofthe AI and use such feedback to inform agency decision-making regarding the AI (refer to Section 8 of this memorandum). 31 For example, an AI-enabled safety mechanism may require an immediate and automated action to prevent a harm from occurring."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec4/p11/s15",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, agencies must still determine the appropriate oversight and accountability processes for such a use of AI. 17"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-OMB-M-25-21-2025:sec4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

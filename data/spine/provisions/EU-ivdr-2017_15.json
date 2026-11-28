@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:15",
+ "label": "EU-ivdr-2017 Article 15",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "13341461357aebc1b8aa154ac0598021f4ea6b0fb5646c905b15cd00c1e96479",
+ "sha256_v1": "",
+ "sha256_v2": "13341461357aebc1b8aa154ac0598021f4ea6b0fb5646c905b15cd00c1e96479",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "13341461357aebc1b8aa154ac0598021f4ea6b0fb5646c905b15cd00c1e96479",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:15/p1/s1",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Manufacturers shall have available within their organisation at least one person responsible for regulatory compliance who possesses the requisite expertise in the field of in vitro diagnostic medical devices."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:15/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The requisite expertise shall be demonstrated by either of the following qualifications:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:15/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Micro and small enterprises within the meaning of Commission Recommendation 2003/361/EC (24) shall not be required to have the person responsible for regulatory compliance within their organisation but shall have such person permanently and continuously at their disposal."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:15/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The person responsible for regulatory compliance shall at least be responsible for ensuring that:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:15/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a number of persons are jointly responsible for regulatory compliance in accordance with paragraphs 1, 2 and 3, their respective areas of responsibility shall be stipulated in writing."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:15/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The person responsible for regulatory compliance shall suffer no disadvantage within the manufacturer's organisation in relation to the proper fulfilment of his or her duties, regardless of whether or not they are employees of the organisation."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:15/p6/s1",
+   "paragraph": "6",
+   "addressee": "authorised_representative",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Authorised representatives shall have permanently and continuously at their disposal at least one person responsible for regulatory compliance who possesses the requisite expertise regarding the regulatory requirements for in vitro diagnostic medical devices in the Union."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:15/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The requisite expertise shall be demonstrated by either of the following qualifications:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:15",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

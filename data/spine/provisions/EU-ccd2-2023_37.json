@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:37",
+ "label": "EU-ccd2-2023 Article 37",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "d75f87f62fb010254e019a16e362dbf5bd84cf2e9ab4e3d0c0f89711679e28f3",
+ "sha256_v1": "",
+ "sha256_v2": "d75f87f62fb010254e019a16e362dbf5bd84cf2e9ab4e3d0c0f89711679e28f3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d75f87f62fb010254e019a16e362dbf5bd84cf2e9ab4e3d0c0f89711679e28f3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:37/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that creditors and credit intermediaries are subject to an adequate admission process, to registration and to supervision arrangements set up by an independent competent authority."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:37",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-UT-HB289-AI-CSAM-2026:Section-14",
+ "label": "US-UT-HB289-AI-CSAM-2026 Section 14",
+ "instrument": "US-UT-HB289-AI-CSAM-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f2e208a4605f9010a54eb80a54863902546af0161222235ca277a33964bb7a3b",
+ "sha256_v1": "",
+ "sha256_v2": "f2e208a4605f9010a54eb80a54863902546af0161222235ca277a33964bb7a3b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f2e208a4605f9010a54eb80a54863902546af0161222235ca277a33964bb7a3b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-UT-HB289-AI-CSAM-2026:Section-14/p14/s1",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4) The identity of the computer technician who reports an image that is or appears to be child sexual abuse material, apparent child sexual abuse material, or obscene child sexual abuse material shall be confidential, except as necessary for the criminal investigation and the judicial process."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-UT-HB289-AI-CSAM-2026:Section-14",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

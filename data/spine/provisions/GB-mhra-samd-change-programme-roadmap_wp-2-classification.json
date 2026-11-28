@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-mhra-samd-change-programme-roadmap:wp-2-classification",
+ "label": "GB-mhra-samd-change-programme-roadmap section wp-2-classification",
+ "instrument": "GB-mhra-samd-change-programme-roadmap",
+ "ladder": "HASH_ONLY",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "becfbba4a444297fc24e60a7ad8c9a93f6000ecedcd2b9a161a0848b30293464",
+ "sha256_v1": "",
+ "sha256_v2": "",
+ "source_state": "UNKNOWN",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-mhra-samd-change-programme-roadmap:wp-2-classification/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-mhra-samd-change-programme-roadmap:wp-2-classification",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

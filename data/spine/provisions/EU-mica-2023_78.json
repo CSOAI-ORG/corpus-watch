@@ -1,0 +1,156 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:78",
+ "label": "EU-mica-2023 Article 78",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "9920a8cdab4413e81ab1f25e3b850477359bb67f8b043aca81cbe5602858e3af",
+ "sha256_v1": "",
+ "sha256_v2": "9920a8cdab4413e81ab1f25e3b850477359bb67f8b043aca81cbe5602858e3af",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9920a8cdab4413e81ab1f25e3b850477359bb67f8b043aca81cbe5602858e3af",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:78/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers executing orders for crypto-assets on behalf of clients shall take all necessary steps to obtain, while executing orders, the best possible result for their clients taking into account factors of price, costs, speed, likelihood of execution and settlement, size, nature, conditions of custody of the crypto-assets or any other consideration relevant to the execution of the order."
+  },
+  {
+   "obligation_id": "EU-mica-2023:78/p1/s2",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Notwithstanding the first subparagraph, crypto-asset service providers executing orders for crypto-assets on behalf of clients shall not be required to take the necessary steps as referred to in the first subparagraph in cases where they execute orders for crypto-assets following specific instructions given by its clients."
+  },
+  {
+   "obligation_id": "EU-mica-2023:78/p2/s1",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "To ensure compliance with paragraph 1, crypto-asset service providers executing orders for crypto-assets on behalf of clients shall establish and implement effective execution arrangements."
+  },
+  {
+   "obligation_id": "EU-mica-2023:78/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "In particular, they shall establish and implement an order execution policy to allow them to comply with paragraph"
+  },
+  {
+   "obligation_id": "EU-mica-2023:78/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The order execution policy shall, amongst others, provide for the prompt, fair and expeditious execution of client orders and prevent the misuse by the crypto-asset service providers’ employees of any information relating to client orders."
+  },
+  {
+   "obligation_id": "EU-mica-2023:78/p3/s1",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers executing orders for crypto-assets on behalf of clients shall provide appropriate and clear information to their clients on their order execution policy referred to in paragraph 2 and any significant change thereto."
+  },
+  {
+   "obligation_id": "EU-mica-2023:78/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That information shall explain clearly, in sufficient detail and in a way that can be easily understood by clients, how client orders are to be executed by crypto-asset service providers."
+  },
+  {
+   "obligation_id": "EU-mica-2023:78/p3/s3",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers shall obtain prior consent from each client regarding the order execution policy."
+  },
+  {
+   "obligation_id": "EU-mica-2023:78/p4/s1",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers executing orders for crypto-assets on behalf of clients shall be able to demonstrate to their clients, at their request, that they have executed their orders in accordance with their order execution policy and shall be able to demonstrate to the competent authority, at the latter’s request, their compliance with this Article."
+  },
+  {
+   "obligation_id": "EU-mica-2023:78/p5/s1",
+   "paragraph": "5",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the order execution policy provides for the possibility that client orders might be executed outside a trading platform, crypto-asset service providers executing orders for crypto-assets on behalf of clients shall inform their clients about that possibility and shall obtain the prior express consent of their clients before proceeding to execute their orders outside a trading platform, either in the form of a general agreement or with respect to individual transactions."
+  },
+  {
+   "obligation_id": "EU-mica-2023:78/p6/s1",
+   "paragraph": "6",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers executing orders for crypto-assets on behalf of clients shall monitor the effectiveness of their order execution arrangements and order execution policy in order to identify and, where appropriate, correct any deficiencies in that respect."
+  },
+  {
+   "obligation_id": "EU-mica-2023:78/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In particular, they shall assess, on a regular basis, whether the execution venues included in the order execution policy provide for the best possible result for clients or whether they need to make changes to their order execution arrangements."
+  },
+  {
+   "obligation_id": "EU-mica-2023:78/p6/s3",
+   "paragraph": "6",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers executing orders for crypto-assets on behalf of clients shall notify clients with whom they have an ongoing client relationship of any material changes to their order execution arrangements or order execution policy."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:78",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

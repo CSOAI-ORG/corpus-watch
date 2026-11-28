@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CO-SB22-113-facialrecog-gov-2022:SECTION-6",
+ "label": "US-CO-SB22-113-facialrecog-gov-2022 SECTION 6",
+ "instrument": "US-CO-SB22-113-facialrecog-gov-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "cd962b1459e27374dd13edaedfed1acaa67a382eca1ca5fed30fc971e833a7cf",
+ "sha256_v1": "",
+ "sha256_v2": "cd962b1459e27374dd13edaedfed1acaa67a382eca1ca5fed30fc971e833a7cf",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 6,
+ "sha256_current": "cd962b1459e27374dd13edaedfed1acaa67a382eca1ca5fed30fc971e833a7cf",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CO-SB22-113-facialrecog-gov-2022:SECTION-6/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1) EXCEPT AS DESCRIBED IN SUBSECTION (2) OF THIS SECTION, AN INSTITUTE CHARTER SCHOOL SHALL NOT EXECUTE A CONTRACT WITH ANY VENDOR FOR THE PURCHASE OF, OR FOR SERVICES RELATED TO, ANY FACIAL RECOGNITION SERVICE."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CO-SB22-113-facialrecog-gov-2022:SECTION-6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

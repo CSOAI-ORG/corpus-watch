@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-NIST-AI100-5-2024:a-1-5-consumer-technology-association",
+ "label": "US-NIST-AI100-5-2024 a-1-5-consumer-technology-association",
+ "instrument": "US-NIST-AI100-5-2024",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "eb931f45bb9543047a09beb00ff1cbcd2ad6b7a4536d8dc361e895464535010a",
+ "sha256_v1": "",
+ "sha256_v2": "eb931f45bb9543047a09beb00ff1cbcd2ad6b7a4536d8dc361e895464535010a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "eb931f45bb9543047a09beb00ff1cbcd2ad6b7a4536d8dc361e895464535010a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-NIST-AI100-5-2024:a-1-5-consumer-technology-association/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-NIST-AI100-5-2024:a-1-5-consumer-technology-association",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

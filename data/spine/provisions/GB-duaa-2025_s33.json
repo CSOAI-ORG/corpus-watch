@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s33",
+ "label": "GB-duaa-2025 Section 33",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "0665e0fff6dd3cf6011fa61be9de0d60bdf75b1389a6613918a9f78937f6db2a",
+ "sha256_v1": "",
+ "sha256_v2": "0665e0fff6dd3cf6011fa61be9de0d60bdf75b1389a6613918a9f78937f6db2a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "0665e0fff6dd3cf6011fa61be9de0d60bdf75b1389a6613918a9f78937f6db2a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s33/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Registration in the DVS register\n(1)\nThe Secretary of State must register a person providing digital verification services in the DVS register if—\n(a)\nthe person holds a certificate from an accredited conformity assessment body certifying that digital verification services provided by the person are provided in accordance with the DVS trust framework,\n(b)\nthe person applies to be registered in the DVS register in respect of one or more of the digital verification services to which the certificate relates,\n(c)\nthe application complies with any requirements imposed by a determination under section 38, and\n(d)\nthe person complies with any regulations under section 39(1) requiring a fee to be pa"
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s33/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nThe register must record the digital verification services in respect of which a person is, from time to time, registered."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s33/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nFor the purposes of subsection (1)(a), a certificate is to be ignored if—\n(a)\nit has expired in accordance with its terms,\n(b)\nit has been withdrawn by the body that issued it, or\n(c)\nit is required to be ignored by reason of provision included in the DVS trust framework under section 28(8)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s33",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

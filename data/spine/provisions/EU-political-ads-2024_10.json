@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-political-ads-2024:10",
+ "label": "EU-political-ads-2024 Article 10",
+ "instrument": "EU-political-ads-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "f4d148f1432375ce44057d1f53602c4a6b02277c4a6fcc55d46e7f32e4fa55b0",
+ "sha256_v1": "",
+ "sha256_v2": "f4d148f1432375ce44057d1f53602c4a6b02277c4a6fcc55d46e7f32e4fa55b0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "f4d148f1432375ce44057d1f53602c4a6b02277c4a6fcc55d46e7f32e4fa55b0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-political-ads-2024:10/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Providers of political advertising services shall ensure that the information referred to in Article 9(1) is transmitted in a timely, complete and accurate manner to political advertising publishers to enable them to comply with their obligations under this Regulation."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:10/p1/s2",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each provider of political advertising services shall transmit the information referred to in the first subparagraph during the provision of the relevant service and in accordance with best practice and industry standards and, where technically possible, by means of a standardised automated process."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:10/p1/s3",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When the political advertising publisher is the only provider of political advertising services, the sponsor shall transmit the relevant information to the political advertising publisher."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:10/p2/s1",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Where a provider of political advertising services becomes aware that information which it has transmitted has changed, it shall ensure that updated information is transmitted to the relevant political advertising publisher."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-political-ads-2024:10",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

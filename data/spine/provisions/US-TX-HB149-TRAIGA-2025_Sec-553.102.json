@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-TX-HB149-TRAIGA-2025:Sec-553.102",
+ "label": "US-TX-HB149-TRAIGA-2025 Sec. 553.102",
+ "instrument": "US-TX-HB149-TRAIGA-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "66a6a9c3eeaea4efdec778841df2a4e0d2ced5025704bccf485513bafc19051f",
+ "sha256_v1": "",
+ "sha256_v2": "66a6a9c3eeaea4efdec778841df2a4e0d2ced5025704bccf485513bafc19051f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "66a6a9c3eeaea4efdec778841df2a4e0d2ced5025704bccf485513bafc19051f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-TX-HB149-TRAIGA-2025:Sec-553.102/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) A program participant shall provide a quarterly report to the department."
+  },
+  {
+   "obligation_id": "US-TX-HB149-TRAIGA-2025:Sec-553.102/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) The report shall include:"
+  },
+  {
+   "obligation_id": "US-TX-HB149-TRAIGA-2025:Sec-553.102/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) The department shall maintain confidentiality regarding the intellectual property, trade secrets, and other sensitive information it obtains through the program."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-TX-HB149-TRAIGA-2025:Sec-553.102",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

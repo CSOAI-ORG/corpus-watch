@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-equality-act-2010:s40",
+ "label": "GB-equality-act-2010 Section 40",
+ "instrument": "GB-equality-act-2010",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7151e665b0c79bfdbd99a35a64a6e933d2933a8d520dcb5278f8a758fbeacf91",
+ "sha256_v1": "",
+ "sha256_v2": "7151e665b0c79bfdbd99a35a64a6e933d2933a8d520dcb5278f8a758fbeacf91",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "7151e665b0c79bfdbd99a35a64a6e933d2933a8d520dcb5278f8a758fbeacf91",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-equality-act-2010:s40/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Employees and applicants: harassment\n(1)\nAn employer (A) must not, in relation to employment by A, harass a person (B)—\n(a)\nwho is an employee of A's;"
+  },
+  {
+   "obligation_id": "GB-equality-act-2010:s40/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1A)\nAn employer (A) must not permit a third party to harass a person (B) who is an employee of A."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-equality-act-2010:s40",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

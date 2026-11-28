@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:5",
+ "label": "EU-dsa-2022 Article 5",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "c4f5746073d4a56404b42b77d7fb2e75c0ed86c762ac82605835efe7fd865516",
+ "sha256_v1": "",
+ "sha256_v2": "c4f5746073d4a56404b42b77d7fb2e75c0ed86c762ac82605835efe7fd865516",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "c4f5746073d4a56404b42b77d7fb2e75c0ed86c762ac82605835efe7fd865516",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:5/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where an information society service is provided that consists of the transmission in a communication network of information provided by a recipient of the service, the service provider shall not be liable for the automatic, intermediate and temporary storage of that information, performed for the sole purpose of making more efficient or more secure the information's onward transmission to other recipients of the service upon their request, on condition that the provider:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:5/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This Article shall not affect the possibility for a judicial or administrative authority, in accordance with a Member State’s legal system, to require the service provider to terminate or prevent an infringement."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

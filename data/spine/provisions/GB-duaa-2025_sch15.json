@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:sch15",
+ "label": "GB-duaa-2025 Schedule 15",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "964ef5005a779231299dda67dfc3d79aa28e239995c2d3017cc4011fce8cea8b",
+ "sha256_v1": "",
+ "sha256_v2": "964ef5005a779231299dda67dfc3d79aa28e239995c2d3017cc4011fce8cea8b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "964ef5005a779231299dda67dfc3d79aa28e239995c2d3017cc4011fce8cea8b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:sch15/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(3)\nFor subsection (3) substitute—\n(3)\nThe power under section 250(1) may be exercised by—\n(a)\nadopting an information standard prepared or published by another person, including as it has effect from time to time, or\n(b)\nmaking provision by reference to an international agreement or another document, including as it has effect from time to time.\n6\nAfter section 251 insert—\nCompliance with standards\n.\n7\nFor the heading of section 251ZA (information standards: compliance) substitute “Monitoring compliance”.\n8\nAfter that section insert—\nNotice requesting compliance by relevant IT providers\n251ZB\n(1)\nIf the Secretary of State has reasonable grounds to suspect that a relevant IT provider is not "
+  },
+  {
+   "obligation_id": "GB-duaa-2025:sch15/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nA period specified for the purposes of subsection (1)(c), (d) or (e) must be a period of at least 28 days beginning with the day on which the notice is given."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:sch15/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(3)\nBefore publishing a statement under this section, the Secretary of State must give the relevant IT provider—\n(a)\na copy of the terms of the proposed statement, and\n(b)\nan opportunity to make representations about the decision to publish a statement and the terms of the statement."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:sch15/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(4)\nIf, after considering any representations, the Secretary of State decides to publish the statement, the Secretary of State must inform the relevant IT provider before publishing it."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:sch15",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

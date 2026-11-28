@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB354-2026:SEC-2:791.17.",
+ "label": "US-CA-SB354-2026 SEC. 2. / 791.17.",
+ "instrument": "US-CA-SB354-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5197848c813252273e12c8b09aca2e5dbbfaaa8904ead89fb5f4d2be9de72e63",
+ "sha256_v1": "",
+ "sha256_v2": "5197848c813252273e12c8b09aca2e5dbbfaaa8904ead89fb5f4d2be9de72e63",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "5197848c813252273e12c8b09aca2e5dbbfaaa8904ead89fb5f4d2be9de72e63",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.17./p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(a)If, after a hearing pursuant to Section 791.15, the commissioner determines that the licensee, surplus line insurer, reinsurer, or third-party service provider charged has engaged in conduct or practices in violation of this article, the commissioner shall reduce the commissioner’s findings to writing and shall issue and cause to be served upon the licensee, surplus line insurer, reinsurer, or third-party service provider a copy of the findings and an order requiring the licensee, surplus line insurer, reinsurer, or third-party service provider to cease and desist from the conduct or practices constituting a violation of this article."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.17./p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(b)If, after a hearing pursuant to Section 791.15, the commissioner determines that the licensee, surplus line insurer, reinsurer, or third-party service provider charged has not engaged in conduct or practices in violation of this article, the commissioner shall prepare a written report that sets forth findings of fact and conclusions of law."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.17./p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The report shall be served upon the licensee, surplus line insurer, reinsurer, or third-party service provider charged and upon the person or persons, if any, whose rights under this article were allegedly violated."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB354-2026:SEC-2:791.17.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

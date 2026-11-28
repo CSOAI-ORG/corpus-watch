@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-equality-act-2010:s26",
+ "label": "GB-equality-act-2010 Section 26",
+ "instrument": "GB-equality-act-2010",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "0122e0cbbb1a08917ae942ae1c5c83e882670def7101aa80c2cfb5190d98e62f",
+ "sha256_v1": "",
+ "sha256_v2": "0122e0cbbb1a08917ae942ae1c5c83e882670def7101aa80c2cfb5190d98e62f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "0122e0cbbb1a08917ae942ae1c5c83e882670def7101aa80c2cfb5190d98e62f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-equality-act-2010:s26/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nIn deciding whether conduct has the effect referred to in subsection (1)(b), each of the following must be taken into account—\n(a)\nthe perception of B;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-equality-act-2010:s26",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

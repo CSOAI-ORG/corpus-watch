@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:92",
+ "label": "JP-appi-2003 Article 92",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "9292a650d52a1a4f154f27d09f8ff491c1dd43eeae867cf9253faaf2bb1506a9",
+ "sha256_v1": "",
+ "sha256_v2": "9292a650d52a1a4f154f27d09f8ff491c1dd43eeae867cf9253faaf2bb1506a9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9292a650d52a1a4f154f27d09f8ff491c1dd43eeae867cf9253faaf2bb1506a9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:92/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "行政機関の長等は、訂正請求があった場合において、当該訂正請求に理由があると認めるときは、当該訂正請求に係る保有個人情報の利用目的の達成に必要な範囲内で、当該保有個人情報の訂正をしなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:92",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

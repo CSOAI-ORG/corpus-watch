@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-ai-basic-act-2025:20",
+ "label": "KR-ai-basic-act-2025 제20조",
+ "instrument": "KR-ai-basic-act-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "c546cb0b813c48409b700fbcdd7c2f8611b9e2b73329a46db03f102731fb0ef6",
+ "sha256_v1": "",
+ "sha256_v2": "c546cb0b813c48409b700fbcdd7c2f8611b9e2b73329a46db03f102731fb0ef6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "c546cb0b813c48409b700fbcdd7c2f8611b9e2b73329a46db03f102731fb0ef6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-ai-basic-act-2025:20/s1",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "제20조(제도개선 등) ① 정부는 인공지능산업의 발전과 신뢰 기반 조성을 위하여 법령의 정비 등 관련 제도를 개선할 수 있도록 노력하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-ai-basic-act-2025:20",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

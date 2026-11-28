@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-gpsr-2023:16",
+ "label": "EU-gpsr-2023 Article 16",
+ "instrument": "EU-gpsr-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "6a76ffcb131f28ce581f143c59915cd2c2a8194a416cbdb9d8d345114f86f962",
+ "sha256_v1": "",
+ "sha256_v2": "6a76ffcb131f28ce581f143c59915cd2c2a8194a416cbdb9d8d345114f86f962",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "6a76ffcb131f28ce581f143c59915cd2c2a8194a416cbdb9d8d345114f86f962",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-gpsr-2023:16/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A product covered by this Regulation shall not be placed on the market unless there is an economic operator established in the Union who is responsible for the tasks set out in Article 4(3) of Regulation (EU) 2019/1020 in respect to that product."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:16/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Without prejudice to any obligations of economic operators under this Regulation, in addition to the tasks referred to in Article 4(3) of Regulation (EU) 2019/1020, and to ensure the safety of the product it is responsible for, where appropriate with regard to the possible risks related to a product, the economic operator referred to in paragraph 1 of this Article shall regularly check:"
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:16/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The economic operator referred to in paragraph 1 of this Article shall, upon request by the market surveillance authorities, provide documented evidence of the checks performed."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:16/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "contact-point",
+   "status": "DRAFT",
+   "text": "The name, registered trade name or registered trade mark, and contact details, including the postal and electronic address, of the economic operator referred to in paragraph 1 shall be indicated on the product or on its packaging, the parcel or an accompanying document."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-gpsr-2023:16",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

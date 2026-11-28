@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s130",
+ "label": "GB-dpa-2018 Section 130",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "3f64928abc705146dcf4f0a21c2bc4f51e31bb2eaa085244bee0b34c379f2a8a",
+ "sha256_v1": "",
+ "sha256_v2": "3f64928abc705146dcf4f0a21c2bc4f51e31bb2eaa085244bee0b34c379f2a8a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "3f64928abc705146dcf4f0a21c2bc4f51e31bb2eaa085244bee0b34c379f2a8a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s130/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Records of national security certificates\n(1)\nA Minister of the Crown who issues a certificate under section 27, 79 or 111 must send a copy of the certificate to the Commission."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s130/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\nIf the Commission receives a copy of a certificate under subsection (1), the Commission must publish a record of the certificate."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s130/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nThe record must contain—\n(a)\nthe name of the Minister who issued the certificate,\n(b)\nthe date on which the certificate was issued, and\n(c)\nsubject to subsection (4), the text of the certificate."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s130/p0/s4",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(4)\nThe Commission must not publish the text, or a part of the text, of the certificate if—\n(a)\nthe Minister determines that publishing the text or that part of the text—\n(i)\nwould be against the interests of national security,\n(ii)\nwould be contrary to the public interest, or\n(iii)\nmight jeopardise the safety of any person, and\n(b)\nthe Minister has notified the Commission of that determination."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s130/p0/s5",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(5)\nThe Commission must keep the record of the certificate available to the public while the certificate is in force."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s130/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "(6)\nIf a Minister of the Crown revokes a certificate issued under section 27, 79 or 111, the Minister must notify the Commission."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s130",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

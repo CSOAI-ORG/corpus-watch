@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-TX-HB3512-AItraining-2025:SECTION-8",
+ "label": "US-TX-HB3512-AItraining-2025 SECTION 8",
+ "instrument": "US-TX-HB3512-AItraining-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5b9b4ef734c7ead9d14461fb989d0376a3e90af6e441df862e8496ea373b3e95",
+ "sha256_v1": "",
+ "sha256_v2": "5b9b4ef734c7ead9d14461fb989d0376a3e90af6e441df862e8496ea373b3e95",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "5b9b4ef734c7ead9d14461fb989d0376a3e90af6e441df862e8496ea373b3e95",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-TX-HB3512-AItraining-2025:SECTION-8/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) The Legislative Budget Board and the governor's office\nshall determine the elements required to be included in each\nagency's strategic plan."
+  },
+  {
+   "obligation_id": "US-TX-HB3512-AItraining-2025:SECTION-8/p8/s2",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Unless modified by the Legislative Budget\nBoard and the governor's office, and except as provided by\nSubsection (c), a plan must include:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-TX-HB3512-AItraining-2025:SECTION-8",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-NYC-DCWP-AEDT-rules-2023:5-304",
+ "label": "US-NYC-DCWP-AEDT-rules-2023 6 RCNY 5-304",
+ "instrument": "US-NYC-DCWP-AEDT-rules-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3cb336bba8e208ff1c297f6c2c46ac4c031bc8da610bb44a6d224ec4ef8b90a3",
+ "sha256_v1": "",
+ "sha256_v2": "3cb336bba8e208ff1c297f6c2c46ac4c031bc8da610bb44a6d224ec4ef8b90a3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 1,
+ "sha256_current": "3cb336bba8e208ff1c297f6c2c46ac4c031bc8da610bb44a6d224ec4ef8b90a3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-NYC-DCWP-AEDT-rules-2023:5-304/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) The notice required by § 20-871(b)(1) of the Code must include instructions for how an individual can request an alternative selection process or a reasonable accommodation under other laws, if available."
+  },
+  {
+   "obligation_id": "US-NYC-DCWP-AEDT-rules-2023:5-304/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d) To comply with § 20-871(b)(3) of the Code, an employer or employment agency must:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-NYC-DCWP-AEDT-rules-2023:5-304",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

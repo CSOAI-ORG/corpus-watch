@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:24",
+ "label": "EU-ccd2-2023 Article 24",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "deaf3f7171b469064c6d958e5288902c5cbce493e7e70807faaa293af06fb48f",
+ "sha256_v1": "",
+ "sha256_v2": "deaf3f7171b469064c6d958e5288902c5cbce493e7e70807faaa293af06fb48f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "deaf3f7171b469064c6d958e5288902c5cbce493e7e70807faaa293af06fb48f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:24/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a credit has been granted in the form of an overdraft facility, Member States shall require that the creditor, throughout the duration of the credit agreement, keeps the consumer regularly, at least once per month, informed by means of statements of account, on paper or another durable medium specified in the credit agreement, containing the following elements:"
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:24/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a credit has been granted in the form of an overdraft facility, Member States shall require that the creditor informs the consumer, on paper or another durable medium specified in the credit agreement, of increases in the borrowing rate or in any charges payable, in good time before the change in question enters into force."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:24/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall require the creditor to notify the consumer in an agreed manner of each reduction or cancellation of the overdraft facility at least 30 days prior to the day when the actual reduction or cancellation of the overdraft facility takes effect."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:24/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the overdraft facility is reduced or cancelled, Member States shall require that the creditor offer the consumer, before the enforcement proceedings have been initiated, at no additional cost, the possibility to repay the amount actually drawn down to the extent of that reduction or cancellation."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:24/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such a repayment shall be made in 12 equal monthly instalments unless the consumer chooses to repay earlier, at the borrowing rate applicable to the overdraft facility."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:24",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

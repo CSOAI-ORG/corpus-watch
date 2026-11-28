@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CA-PIPEDA-2000:s46",
+ "label": "CA-PIPEDA-2000 Section 46",
+ "instrument": "CA-PIPEDA-2000",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "aac6449ef67c11459e0c872c8109cfd37eb18aca83511202e8ff4423a67fca4e",
+ "sha256_v1": "",
+ "sha256_v2": "aac6449ef67c11459e0c872c8109cfd37eb18aca83511202e8ff4423a67fca4e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CA",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "aac6449ef67c11459e0c872c8109cfd37eb18aca83511202e8ff4423a67fca4e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CA-PIPEDA-2000:s46/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CA-PIPEDA-2000:s46",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

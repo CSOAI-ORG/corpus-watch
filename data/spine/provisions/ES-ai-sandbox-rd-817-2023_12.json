@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "ES-ai-sandbox-rd-817-2023:12",
+ "label": "ES-ai-sandbox-rd-817-2023 Artículo 12",
+ "instrument": "ES-ai-sandbox-rd-817-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "14ae2609a10d1823799736ea9313d5782bc7537b20ce8b422c876c6193c2b462",
+ "sha256_v1": "",
+ "sha256_v2": "14ae2609a10d1823799736ea9313d5782bc7537b20ce8b422c876c6193c2b462",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "ES",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "14ae2609a10d1823799736ea9313d5782bc7537b20ce8b422c876c6193c2b462",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:12/s3",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "El órgano competente podrá poner a su disposición guías técnicas de ayuda y asesoría personalizada que faciliten al proveedor IA las tareas que debe realizar en el contexto del entorno controlado de pruebas."
+  },
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:12/s8",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Los canales que se deberán utilizar para dicho diálogo se concretarán en la convocatoria."
+  },
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:12/s13",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Una vez finalizada la implantación de los requisitos en cada uno de los sistemas de inteligencia artificial, el proveedor IA, y en su caso junto con el usuario del sistema, deberá de realizar un informe de impacto de género."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=ES-ai-sandbox-rd-817-2023:12",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

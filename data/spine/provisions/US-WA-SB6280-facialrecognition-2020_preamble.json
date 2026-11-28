@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-WA-SB6280-facialrecognition-2020:preamble",
+ "label": "US-WA-SB6280-facialrecognition-2020 Certification, title and enacting clause",
+ "instrument": "US-WA-SB6280-facialrecognition-2020",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "cca838a9726127e0a1483b87fdff5c0c856aff6be9e9754d225ee2656346fe90",
+ "sha256_v1": "",
+ "sha256_v2": "cca838a9726127e0a1483b87fdff5c0c856aff6be9e9754d225ee2656346fe90",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 1,
+ "sha256_current": "cca838a9726127e0a1483b87fdff5c0c856aff6be9e9754d225ee2656346fe90",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-WA-SB6280-facialrecognition-2020:preamble/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-WA-SB6280-facialrecognition-2020:preamble",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

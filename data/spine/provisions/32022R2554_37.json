@@ -1,0 +1,89 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022R2554:37",
+ "label": "DORA Art. 37",
+ "instrument": "DORA",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "fcc0db56e22134f6454703ecef947a0edcb0edf154d2938c58eb75b4f5a0843c",
+ "sha256_v1": "fcc0db56e22134f6454703ecef947a0edcb0edf154d2938c58eb75b4f5a0843c",
+ "sha256_v2": "e451dee0f594d2c63df59358cab308572d918b9ef01365f1f433257c25610904",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "e451dee0f594d2c63df59358cab308572d918b9ef01365f1f433257c25610904",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022R2554:37/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When sending a simple request for information under paragraph 1, the Lead Overseer shall:"
+  },
+  {
+   "obligation_id": "32022R2554:37/p2/s2",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e) inform the representative of the critical ICT third-party service provider from whom the information is requested that he or she is not obliged to provide the information, but in the event of a voluntary reply to the request the information provided must not be incorrect or misleading."
+  },
+  {
+   "obligation_id": "32022R2554:37/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When requiring by decision to supply information under paragraph 1, the Lead Overseer shall:"
+  },
+  {
+   "obligation_id": "32022R2554:37/p4/s1",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The representatives of the critical ICT third-party service providers shall supply the information requested."
+  },
+  {
+   "obligation_id": "32022R2554:37/p4/s2",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The critical ICT third-party service provider shall remain fully responsible if the information supplied is incomplete, incorrect or misleading."
+  },
+  {
+   "obligation_id": "32022R2554:37/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Lead Overseer shall, without delay, transmit a copy of the decision to supply information to the competent authorities of the financial entities using the services of the relevant critical ICT third-party service providers and to the JON."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022R2554:37",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,39 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:31",
+ "label": "GDPR Art. 31",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6d9e4b7526d476fdb4e6292b133de0e499b9a636518565d8a5dc19c950862f9e",
+ "sha256_v1": "6d9e4b7526d476fdb4e6292b133de0e499b9a636518565d8a5dc19c950862f9e",
+ "sha256_v2": "d330eb82095fd2e81e249cfe111b608bcfd75d7c86b87d5b436b84f87e8cdff8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "d330eb82095fd2e81e249cfe111b608bcfd75d7c86b87d5b436b84f87e8cdff8",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:31/p0/s1",
+   "paragraph": "0",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Article 31 Cooperation with the supervisory authority The controller and the processor and, where applicable, their representatives, shall cooperate, on request, with the supervisory authority in the performance of its tasks."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:31",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

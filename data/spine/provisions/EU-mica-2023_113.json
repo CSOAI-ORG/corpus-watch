@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:113",
+ "label": "EU-mica-2023 Article 113",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "853b905bc02edc8fc703a686204008094c93b89ca83131655b22a59a1c07b20f",
+ "sha256_v1": "",
+ "sha256_v2": "853b905bc02edc8fc703a686204008094c93b89ca83131655b22a59a1c07b20f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "853b905bc02edc8fc703a686204008094c93b89ca83131655b22a59a1c07b20f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:113/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that decisions taken by competent authorities under this Regulation are properly reasoned and subject to the right of appeal before a court."
+  },
+  {
+   "obligation_id": "EU-mica-2023:113/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The right of appeal before a court shall also apply where, in respect of an application for authorisation which provides all of the required information, no decision is taken within six months of its submission."
+  },
+  {
+   "obligation_id": "EU-mica-2023:113/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall provide that one or more of the following bodies, as determined by national law, may, in the interests of consumers and in accordance with national law, take action before the courts or competent administrative bodies to ensure that this Regulation is applied:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:113",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

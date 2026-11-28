@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s82A",
+ "label": "GB-dpa-2018 Section 82A",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "bdfeedaeff769d060eea82940a0c886b1afb7575f44e50ca82ed748e89739e4f",
+ "sha256_v1": "",
+ "sha256_v2": "bdfeedaeff769d060eea82940a0c886b1afb7575f44e50ca82ed748e89739e4f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "bdfeedaeff769d060eea82940a0c886b1afb7575f44e50ca82ed748e89739e4f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s82A/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nA designation notice must—\n(a)\nspecify or describe the processing and qualifying competent authority that are designated, and\n(b)\nbe given to the applicants for the designation (and see also section 82D)."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s82A/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(5)\nAn application for designation of processing of personal data by a qualifying competent authority must be made jointly by—\n(a)\nthe qualifying competent authority, and\n(b)\nthe intelligence service with which the processing is to be carried out."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s82A/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(7)\nThe application must—\n(a)\ndescribe the processing, including the intended purposes and means of processing, and\n(b)\nexplain why the applicants consider that designation is required for the purposes of safeguarding national security."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s82A/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(8)\nBefore giving a designation notice, the Secretary of State must consult the Commission."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s82A",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

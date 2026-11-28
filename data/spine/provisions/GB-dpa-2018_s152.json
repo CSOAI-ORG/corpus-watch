@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s152",
+ "label": "GB-dpa-2018 Section 152",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "26ddcb7fb7074b08f9f41b4d9447d2d82ec54f5a8fef038bb259581749a26bb0",
+ "sha256_v1": "",
+ "sha256_v2": "26ddcb7fb7074b08f9f41b4d9447d2d82ec54f5a8fef038bb259581749a26bb0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "26ddcb7fb7074b08f9f41b4d9447d2d82ec54f5a8fef038bb259581749a26bb0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s152/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nA court must not grant leave for the purposes of subsection (1)(b) unless it is satisfied that—\n(a)\nthe Commission has reason to suspect a failure described in section 149(2) which is of substantial public importance, and\n(b)\nthe controller or processor has been given notice of the application for leave in accordance with rules of court or the case is urgent."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s152",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

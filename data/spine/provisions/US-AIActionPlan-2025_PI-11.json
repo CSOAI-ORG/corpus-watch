@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-AIActionPlan-2025:PI-11",
+ "label": "US-AIActionPlan-2025 Build an AI Evaluations Ecosystem",
+ "instrument": "US-AIActionPlan-2025",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "fe6e93434d5450b6656e6833d6473bc543fef72d2bc3bb661d989d532521da8f",
+ "sha256_v1": "",
+ "sha256_v2": "fe6e93434d5450b6656e6833d6473bc543fef72d2bc3bb661d989d532521da8f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "fe6e93434d5450b6656e6833d6473bc543fef72d2bc3bb661d989d532521da8f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-AIActionPlan-2025:PI-11/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-AIActionPlan-2025:PI-11",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

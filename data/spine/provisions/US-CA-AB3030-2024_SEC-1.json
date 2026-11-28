@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB3030-2024:SEC-1",
+ "label": "US-CA-AB3030-2024 SECTION 1.",
+ "instrument": "US-CA-AB3030-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "1d11487cfe153d77d881bcad7b885dff89589a714bd62a3b5bffce1ee8ca4898",
+ "sha256_v1": "",
+ "sha256_v2": "1d11487cfe153d77d881bcad7b885dff89589a714bd62a3b5bffce1ee8ca4898",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "1d11487cfe153d77d881bcad7b885dff89589a714bd62a3b5bffce1ee8ca4898",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB3030-2024:SEC-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "(a)A health facility, clinic, physician’s office, or office of a group practice that uses generative artificial intelligence to generate written or verbal patient communications pertaining to patient clinical information shall ensure that those communications include both of the following:"
+  },
+  {
+   "obligation_id": "US-CA-AB3030-2024:SEC-1/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(A)For written communications involving physical and digital media, including letters, emails, and other occasional messages, the disclaimer shall appear prominently at the beginning of each communication."
+  },
+  {
+   "obligation_id": "US-CA-AB3030-2024:SEC-1/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(B)For written communications involving continuous online interactions, including chat-based telehealth, the disclaimer shall be prominently displayed throughout the interaction."
+  },
+  {
+   "obligation_id": "US-CA-AB3030-2024:SEC-1/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(C)For audio communications, the disclaimer shall be provided verbally at the start and the end of the interaction."
+  },
+  {
+   "obligation_id": "US-CA-AB3030-2024:SEC-1/p1/s5",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(D)For video communications, the disclaimer shall be prominently displayed throughout the interaction."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB3030-2024:SEC-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

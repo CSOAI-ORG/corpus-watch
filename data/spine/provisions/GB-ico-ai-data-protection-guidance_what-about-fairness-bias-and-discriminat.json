@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-ico-ai-data-protection-guidance:what-about-fairness-bias-and-discriminat",
+ "label": "GB-ico-ai-data-protection-guidance What about fairness, bias and discrimination?",
+ "instrument": "GB-ico-ai-data-protection-guidance",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "571da12b26e68880d57dd885d38be3bfa44b50deefcf66dfe411a42d031db8b4",
+ "sha256_v1": "",
+ "sha256_v2": "571da12b26e68880d57dd885d38be3bfa44b50deefcf66dfe411a42d031db8b4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "571da12b26e68880d57dd885d38be3bfa44b50deefcf66dfe411a42d031db8b4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:what-about-fairness-bias-and-discriminat/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "First, processing of personal data must be ‘fair’."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:what-about-fairness-bias-and-discriminat/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When deciding what algorithmic fairness metrics you use you must consider legal frameworks relevant to your context, including equality law."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:what-about-fairness-bias-and-discriminat/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Therefore, you must think about how you can protect minorities or vulnerable populations, while addressing risks of exacerbating pre-existing power imbalances."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:what-about-fairness-bias-and-discriminat/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If your processing for this purpose involves special category data, then in addition to having a lawful basis under Article 6 of the UK GDPR you must meet one of the conditions in Article"
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:what-about-fairness-bias-and-discriminat/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In almost all cases, you must also have an appropriate policy document."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:what-about-fairness-bias-and-discriminat/p9/s1",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, if you process disability status using an AI system to make decisions about individuals, which produce legal or similarly significant effects on them, you must have explicit consent from the individual, or be able to meet one of the substantial public interest conditions laid out in Schedule 1 of the DPA."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:what-about-fairness-bias-and-discriminat/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If your system is indeed inferring special category or criminal conviction data (whether unintentional or not), you must have an appropriate Article 9 or 10 condition for processing."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-ico-ai-data-protection-guidance:what-about-fairness-bias-and-discriminat",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

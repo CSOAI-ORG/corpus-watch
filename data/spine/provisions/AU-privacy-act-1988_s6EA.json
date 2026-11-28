@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s6EA",
+ "label": "AU-privacy-act-1988 Section 6EA",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "e9b4400e57bad8aa76103376de423ccc4fd925ee14fa898bf4dbc8af528a95b0",
+ "sha256_v1": "",
+ "sha256_v2": "e9b4400e57bad8aa76103376de423ccc4fd925ee14fa898bf4dbc8af528a95b0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "e9b4400e57bad8aa76103376de423ccc4fd925ee14fa898bf4dbc8af528a95b0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s6EA/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(3)\tIf the Commissioner is satisfied that a small business operator has made the choice to be treated as an organisation, the Commissioner must enter in a register of operators who have made such a choice:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s6EA/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(4)\tIf a small business operator revokes a choice to be treated as an organisation, the Commissioner must remove from the register the material relating to the operator."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s6EA/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(6)\tThe Commissioner must make the register available to the public in the way that the Commissioner determines."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s6EA/p0/s4",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "However, the Commissioner must not make available to the public in the register information other than that described in subsection (3)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s6EA",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

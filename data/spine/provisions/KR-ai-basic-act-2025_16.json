@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-ai-basic-act-2025:16",
+ "label": "KR-ai-basic-act-2025 제16조",
+ "instrument": "KR-ai-basic-act-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "bcb61b35cfe9a11d806cba6893e1dffb058d72488e78ef2cde4abf23f0d646e8",
+ "sha256_v1": "",
+ "sha256_v2": "bcb61b35cfe9a11d806cba6893e1dffb058d72488e78ef2cde4abf23f0d646e8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "bcb61b35cfe9a11d806cba6893e1dffb058d72488e78ef2cde4abf23f0d646e8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-ai-basic-act-2025:16/s1",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "제16조(인공지능기술 도입ㆍ활용 시책 등) ① 국가 및 지방자치단체는 기업 및 공공기관의 인공지능기술 도입 촉진 및 활용 확산을 위한 시책을 수립ㆍ시행하여야 한다."
+  },
+  {
+   "obligation_id": "KR-ai-basic-act-2025:16/s11",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "③ 국가기관등은 업무 수행에 필요한 제품 또는 서비스를 구매하거나 용역을 발주하려는 경우 대통령령으로 정하는 인공지능제품 또는 인공지능서비스를 우선적으로 고려하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-ai-basic-act-2025:16",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

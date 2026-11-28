@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:67",
+ "label": "EU-ivdr-2017 Article 67",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "2e5a486aabe056c8d2e7973fe53981c6fc8886d43da35a44ec2adb90d9c253af",
+ "sha256_v1": "",
+ "sha256_v2": "2e5a486aabe056c8d2e7973fe53981c6fc8886d43da35a44ec2adb90d9c253af",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "2e5a486aabe056c8d2e7973fe53981c6fc8886d43da35a44ec2adb90d9c253af",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:67/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that the persons validating and assessing the application, or deciding on it, do not have conflicts of interest, are independent of the sponsor, the investigators involved and of natural or legal persons financing the performance study, as well as free of any other undue influence."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:67/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that the assessment is done jointly by a reasonable number of persons who collectively have the necessary qualifications and experience."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:67/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall assess whether the performance study is designed in such a way that potential remaining risks to subjects or third persons, after risk minimization, are justified, when weighed against the clinical benefits to be expected."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:67/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "They shall, while taking into account applicable CS or harmonised standards, examine in particular:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:67/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall refuse the authorisation of the performance study if:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:67/p4/s2",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall provide for an appeal procedure in respect of a refusal pursuant to the first subparagraph."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:67",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s125",
+ "label": "GB-osa-2023 Section 125",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "593edf2015098971412f5d21af7aaa8c3c625629eabcc0a2c01322c8ccd9bbef",
+ "sha256_v1": "",
+ "sha256_v2": "593edf2015098971412f5d21af7aaa8c3c625629eabcc0a2c01322c8ccd9bbef",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "593edf2015098971412f5d21af7aaa8c3c625629eabcc0a2c01322c8ccd9bbef",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s125/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nIf a provider is already using accredited technology in relation to the service in question, a notice may require the provider to use it more effectively (specifying the ways in which that must be done)."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s125/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\nA notice requiring the use of accredited technology must—\n(a)\ngive OFCOM’s reasons for their decision to give the notice,\n(b)\ncontain details of the requirements imposed by the notice,\n(c)\ncontain details of the technology to be used,\n(d)\ncontain details about the manner in which the technology is to be implemented,\n(e)\nspecify a reasonable period for compliance with the notice,\n(f)\nspecify the period for which the notice is to have effect,\n(g)\ncontain details of the rights of appeal under section 168,\n(h)\ncontain information about when OFCOM intend to review the notice (see section 126), and\n(i)\ncontain information about the consequences of not complying with the notice (including infor"
+  },
+  {
+   "obligation_id": "GB-osa-2023:s125/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(8)\nA notice relating to the development or sourcing of technology must—\n(a)\ngive OFCOM’s reasons for their decision to give the notice,\n(b)\ndescribe the purpose for which technology is required to be developed or sourced (see section 121(2)(a)(iii) and (iv) and (3)(a)(ii),\n(c)\nspecify steps that the provider is required to take (including steps relating to the use of a system or process) in order to comply with the requirement described in section 121(2)(b) or (3)(b), or both those requirements (as the case may be),\n(d)\nspecify a reasonable period within which each of the steps specified in the notice must be taken,\n(e)\ncontain details of any other requirements imposed by the notice,\n(f)\nco"
+  },
+  {
+   "obligation_id": "GB-osa-2023:s125/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(9)\nIn deciding what period or periods to specify for steps to be taken in accordance with subsection (8)(d), OFCOM must, in particular, consider—\n(a)\nthe size and capacity of the provider, and\n(b)\nthe state of development of technology capable of achieving the purpose described in the notice in accordance with subsection (8)(b)."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s125/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(13)\nThose minimum standards of accuracy must be such standards as are for the time being approved and published by the Secretary of State, following advice from OFCOM."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s125",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

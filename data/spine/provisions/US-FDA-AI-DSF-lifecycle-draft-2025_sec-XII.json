@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-FDA-AI-DSF-lifecycle-draft-2025:sec-XII",
+ "label": "US-FDA-AI-DSF-lifecycle-draft-2025 XII. Cybersecurity",
+ "instrument": "US-FDA-AI-DSF-lifecycle-draft-2025",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "851cd2d8c5ebc2d8bc786833c639182922bba4cd49f505c1cc99598eb2884010",
+ "sha256_v1": "",
+ "sha256_v2": "851cd2d8c5ebc2d8bc786833c639182922bba4cd49f505c1cc99598eb2884010",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "851cd2d8c5ebc2d8bc786833c639182922bba4cd49f505c1cc99598eb2884010",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-FDA-AI-DSF-lifecycle-draft-2025:sec-XII/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-FDA-AI-DSF-lifecycle-draft-2025:sec-XII",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

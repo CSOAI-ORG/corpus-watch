@@ -1,0 +1,166 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:annex-II",
+ "label": "EU-ehds-2025 Annex II",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "c7502fc419cbf1a1c465d4ca082a8e7f17ca174b3edbee0c22e03637e650285b",
+ "sha256_v1": "",
+ "sha256_v2": "c7502fc419cbf1a1c465d4ca082a8e7f17ca174b3edbee0c22e03637e650285b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "c7502fc419cbf1a1c465d4ca082a8e7f17ca174b3edbee0c22e03637e650285b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:annex-II/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The harmonised software components of an EHR system shall achieve the performance intended by its manufacturer and shall be designed and manufactured in such a way that, during normal conditions of use, they are suitable for their intended purpose and their use does not put at risk patient safety.\n1.2."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:annex-II/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The harmonised software components of the EHR system shall be designed and developed in such a way that the EHR system can be supplied and installed, taking into account the instructions and information provided by the manufacturer, without adversely affecting its characteristics and performance during its intended use.\n1.3."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:annex-II/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An EHR system shall be designed and developed in such a way that its interoperability, safety and security features uphold the rights of natural persons, in line with the intended purpose of the EHR system, as set out in Chapter II.\n1.4."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:annex-II/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The harmonised software components of an EHR system that is intended to be operated together with other products, including medical devices, shall be designed and manufactured in such a way that interoperability and compatibility are reliable and secure, and personal electronic health data can be shared between the device and the EHR system in relation to those harmonised software components of an EHR system."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:annex-II/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where an EHR system is designed to store or intermediate personal electronic health data, it shall provide an interface enabling access to the personal electronic health data processed by it in the European electronic health record exchange format, by means of the European interoperability software component for EHR systems.\n2.2."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:annex-II/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where an EHR system is designed to store or intermediate personal electronic health data, it shall be able to receive personal electronic health data in the European electronic health record exchange format, by means of the European interoperability software component for EHR systems.\n2.3."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:annex-II/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where an EHR system is designed to provide access to personal electronic health data, it shall be able to receive personal electronic health data in the European electronic health record exchange format, by means of the European interoperability software component for EHR systems.\n2.4."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:annex-II/p2/s4",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An EHR system that includes a functionality for entering structured personal electronic health data shall enable the entry of data with sufficient granularity to enable the provision of the entered personal electronic health data in the European electronic health record exchange format.\n2.5."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:annex-II/p2/s5",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The harmonised software components of an EHR system shall not include features that prohibit, restrict or place an undue burden on authorised access, personal electronic health data sharing or use of personal electronic health data for permitted purposes.\n2.6."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:annex-II/p2/s6",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The harmonised software components of an EHR system shall not include features that prohibit, restrict or place an undue burden on authorised exporting of personal electronic health data for the reasons of replacing the EHR system by another product."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:annex-II/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An EHR system designed to be used by health professionals shall provide reliable mechanisms for the identification and authentication of health professionals.\n3.2."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:annex-II/p3/s2",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The European logging software component of an EHR system designed to enable access by healthcare providers or other individuals to personal electronic health data shall provide sufficient logging mechanisms that record at least the following information on every access event or group of events:"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:annex-II/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The harmonised software components of an EHR system shall include tools or mechanisms to review and analyse the log data, or it shall support the connection and use of external software for the same purposes.\n3.4."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:annex-II/p3/s4",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The harmonised software components of an EHR system that store personal electronic health data shall support different retention periods and access rights that take into account the origins and categories of electronic health data."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:annex-II",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

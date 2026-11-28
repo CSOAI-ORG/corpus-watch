@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-pipa-2011:25",
+ "label": "KR-pipa-2011 제25조",
+ "instrument": "KR-pipa-2011",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "18ce3db64787a37518444642c398ed8536ad7f05dd23e5c42d679b0def6b6034",
+ "sha256_v1": "",
+ "sha256_v2": "18ce3db64787a37518444642c398ed8536ad7f05dd23e5c42d679b0def6b6034",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "18ce3db64787a37518444642c398ed8536ad7f05dd23e5c42d679b0def6b6034",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-pipa-2011:25/s1",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "OBSERVED",
+   "rule": "ko:public-trace",
+   "status": "DRAFT",
+   "text": "제25조(고정형 영상정보처리기기의 설치ㆍ운영 제한) ① 누구든지 다음 각 호의 경우를 제외하고는 공개된 장소에 고정형 영상정보처리기기를 설치ㆍ운영하여서는 아니 된다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:25/s9",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "② 누구든지 불특정 다수가 이용하는 목욕실, 화장실, 발한실(發汗室), 탈의실 등 개인의 사생활을 현저히 침해할 우려가 있는 장소의 내부를 볼 수 있도록 고정형 영상정보처리기기를 설치ㆍ운영하여서는 아니 된다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:25/s12",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "③ 제1항 각 호에 따라 고정형 영상정보처리기기를 설치ㆍ운영하려는 공공기관의 장과 제2항 단서에 따라 고정형 영상정보처리기기를 설치ㆍ운영하려는 자는 공청회ㆍ설명회의 개최 등 대통령령으로 정하는 절차를 거쳐 관계 전문가 및 이해관계인의 의견을 수렴하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:25/s14",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ko:internal-record",
+   "status": "DRAFT",
+   "text": "④ 제1항 각 호에 따라 고정형 영상정보처리기기를 설치ㆍ운영하는 자(이하 “고정형영상정보처리기기운영자”라 한다)는 정보주체가 쉽게 인식할 수 있도록 다음 각 호의 사항이 포함된 안내판을 설치하는 등 필요한 조치를 하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:25/s23",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ko:internal-record",
+   "status": "DRAFT",
+   "text": "⑥ 고정형영상정보처리기기운영자는 개인정보가 유출등이 되지 아니하도록 제29조에 따라 안전성 확보에 필요한 조치를 하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:25/s25",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "⑦ 고정형영상정보처리기기운영자는 대통령령으로 정하는 바에 따라 고정형 영상정보처리기기 운영ㆍ관리 방침을 마련하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-pipa-2011:25",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

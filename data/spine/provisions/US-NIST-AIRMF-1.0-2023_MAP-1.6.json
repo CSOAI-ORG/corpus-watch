@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-NIST-AIRMF-1.0-2023:MAP-1.6",
+ "label": "US-NIST-AIRMF-1.0-2023 MAP 1.6",
+ "instrument": "US-NIST-AIRMF-1.0-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a7020ec26afd75cb4185ec9222676d3927b8279014a53e9899e1d0d4c25b52bc",
+ "sha256_v1": "",
+ "sha256_v2": "a7020ec26afd75cb4185ec9222676d3927b8279014a53e9899e1d0d4c25b52bc",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 13,
+ "sha256_current": "a7020ec26afd75cb4185ec9222676d3927b8279014a53e9899e1d0d4c25b52bc",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-NIST-AIRMF-1.0-2023:MAP-1.6/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "System requirements (e.g., “the system shall respect the privacy of its users”) are elicited from and understood by relevant AI actors."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-NIST-AIRMF-1.0-2023:MAP-1.6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

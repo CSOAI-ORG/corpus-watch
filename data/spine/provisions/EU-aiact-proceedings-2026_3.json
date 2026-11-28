@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-aiact-proceedings-2026:3",
+ "label": "EU-aiact-proceedings-2026 Article 3",
+ "instrument": "EU-aiact-proceedings-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "68e4867a63d75f56fc0bd3f1eaca23e3cc96ef3281adad55641c311eb57c839d",
+ "sha256_v1": "",
+ "sha256_v2": "68e4867a63d75f56fc0bd3f1eaca23e3cc96ef3281adad55641c311eb57c839d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "68e4867a63d75f56fc0bd3f1eaca23e3cc96ef3281adad55641c311eb57c839d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:3/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the Commission appoints an independent expert to carry out evaluations on its behalf pursuant to Article 92(2) of Regulation (EU) 2024/1689, it shall take into account, for the purposes of assessing the independence of that expert from any provider of AI system or general-purpose AI model in accordance with Article 68(2)(b) of that Regulation, the existence of shared ownership, governance, management, personnel, or resources of the expert concerned, any previous appointment to conduct evaluations on behalf of the Commission, as well as the existence of contractual relationships between the expert and the provider concerned or any other provider over at least the 12 months prior, to the"
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:3/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The appointed expert shall remain independent throughout the period of appointment."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:3/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each appointed independent expert shall make a declaration of interest within the meaning of Article 10(3) of Commission Implementing Regulation (EU) 2025/454 (3)."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:3/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "To ensure confidentiality of business secrets and other confidential information, experts appointed pursuant to Article 92(2) of Regulation (EU) 2024/1689 shall commit to maintaining the confidentiality, integrity and availability to the Commission of sensitive information to which they receive access as a result of their appointment, in accordance with Article 78 of Regulation (EU) 2024/1689."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:3/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Before appointing an expert, the Commission shall take into account and assess whether the expert has in place or has access to internal and external information security protocols."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:3/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The experts shall commit to maintaining appropriate security protocols throughout the duration of their appointment."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:3/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Expert shall comply with Article 339 of the Treaty on the Functioning of the European Union."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-aiact-proceedings-2026:3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

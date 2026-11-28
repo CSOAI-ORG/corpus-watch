@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s34",
+ "label": "AU-privacy-act-1988 Section 34",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "3e1a2b28e1a0834c9f5c09cd45350cfe0f715d24775732d1d448c33450016806",
+ "sha256_v1": "",
+ "sha256_v2": "3e1a2b28e1a0834c9f5c09cd45350cfe0f715d24775732d1d448c33450016806",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "3e1a2b28e1a0834c9f5c09cd45350cfe0f715d24775732d1d448c33450016806",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s34/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "34  Provisions relating to documents exempt under the Freedom of Information Act 1982\n(1)\tThe Commissioner shall not, in connection with the performance of the Commissioner’s functions, give to a person information as to the existence or nonexistence of a document where information as to the existence or nonexistence of that document would, if included in a document of an agency, cause the lastmentioned document to be:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s34/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\tThe Commissioner shall not, in connection with the performance of the Commissioner’s functions, give to a person information:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s34",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

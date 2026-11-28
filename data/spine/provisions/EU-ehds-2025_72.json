@@ -1,0 +1,116 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:72",
+ "label": "EU-ehds-2025 Article 72",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f36232e7713b9b0ab76b34dd5b630d0755071f5011a08d33c408e31c32571513",
+ "sha256_v1": "",
+ "sha256_v2": "f36232e7713b9b0ab76b34dd5b630d0755071f5011a08d33c408e31c32571513",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "f36232e7713b9b0ab76b34dd5b630d0755071f5011a08d33c408e31c32571513",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:72/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall designate trusted health data holders following an assessment of the fulfilment of those conditions by the relevant health data access body."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:72/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall establish a procedure to regularly review whether the trusted health data holder continues to fulfil those conditions."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:72/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Health data access bodies shall indicate the trusted health data holders in the dataset catalogue referred to in Article 77."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:72/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Health data access applications and health data requests referred to in paragraph 1 shall be submitted to the health data access body, which may forward them to the relevant trusted health data holder."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:72/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Following receipt of a health data access application or health data request pursuant to paragraph 3 of this Article, the trusted health data holder shall assess the health data access application or health data request against the criteria listed in Article 68(1) and (2) or Article 69(2) and (3), as applicable."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:72/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The trusted health data holder shall submit the assessment it carries out pursuant to paragraph 4, accompanied by a proposal for decision, to the health data access body within two months of receipt of the health data access application or health data request from the health data access body."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:72/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Within two months of receipt of the assessment, the health data access body shall issue a decision on the health data access application or health data request."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:72/p5/s3",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The health data access body shall not be bound by the proposal submitted by the trusted health data holder."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:72/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Following the health data access body’s decision to issue the data permit or to approve the health data request, the trusted health data holder shall carry out the tasks referred to in Article 57(1), points (a)(i) and (b)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:72",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

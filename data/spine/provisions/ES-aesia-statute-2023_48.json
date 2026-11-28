@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "ES-aesia-statute-2023:48",
+ "label": "ES-aesia-statute-2023 Artículo 48",
+ "instrument": "ES-aesia-statute-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "3e65deb1750aa4c0a064ac5cf37676b89ef886a26bf88ef8f743ce9f0a8de9ba",
+ "sha256_v1": "",
+ "sha256_v2": "3e65deb1750aa4c0a064ac5cf37676b89ef886a26bf88ef8f743ce9f0a8de9ba",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "ES",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "3e65deb1750aa4c0a064ac5cf37676b89ef886a26bf88ef8f743ce9f0a8de9ba",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "ES-aesia-statute-2023:48/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "La Agencia deberá aplicar los principios contables públicos previstos en el artículo 122 de la Ley 47/2003, de 26 de noviembre, así como el desarrollo de los principios y normas establecidos en el Plan General de Contabilidad Pública, con la finalidad de asegurar el adecuado reflejo de las operaciones, los costes y los resultados de su actividad, así como de facilitar datos e información con trascendencia económica.\n2."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=ES-aesia-statute-2023:48",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

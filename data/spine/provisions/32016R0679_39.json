@@ -1,0 +1,48 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:39",
+ "label": "GDPR Art. 39",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "c91a0f99f35ec591b7ddc3a327a0345c70a9fd43ee980c21bce0a1968ce15ed6",
+ "sha256_v1": "c91a0f99f35ec591b7ddc3a327a0345c70a9fd43ee980c21bce0a1968ce15ed6",
+ "sha256_v2": "d355d5c0578f83ab83b8705778d9ff916fc4bb1e755ee6dbd1b075ab230f3785",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "d355d5c0578f83ab83b8705778d9ff916fc4bb1e755ee6dbd1b075ab230f3785",
+ "agent_register_kinds": [
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:39/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The data protection officer shall have at least the following tasks:"
+  },
+  {
+   "obligation_id": "32016R0679:39/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The data protection officer shall in the performance of his or her tasks have due regard to the risk associated with processing operations, taking into account the nature, scope, context and purposes of processing."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:39",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

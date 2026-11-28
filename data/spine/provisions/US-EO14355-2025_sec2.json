@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14355-2025:sec2",
+ "label": "US-EO14355-2025 Section 2",
+ "instrument": "US-EO14355-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "1e892d928bd4ee98267eccff39acaca4e93e31777a68cdd49022fe25e5fa8db3",
+ "sha256_v1": "",
+ "sha256_v2": "1e892d928bd4ee98267eccff39acaca4e93e31777a68cdd49022fe25e5fa8db3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "1e892d928bd4ee98267eccff39acaca4e93e31777a68cdd49022fe25e5fa8db3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14355-2025:sec2/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The MAHA Commission, in coordination with the Secretary of Health and Human Services (Secretary), the Assistant to the President for Science and Technology (APST), and the Special Advisor for AI and Crypto, and in alignment with the implementation of America's AI Action Plan, shall work to develop innovative ways to utilize advanced technologies such as AI to unlock improved diagnoses, treatments, cures, and prevention strategies for pediatric cancer."
+  },
+  {
+   "obligation_id": "US-EO14355-2025:sec2/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The initial focus shall be on identifying opportunities to accelerate the progress of AI-driven solutions at the CCDI, including by making data platforms and tools available as part of the CCDI Data Ecosystem and funding research projects at National Cancer Institute-Designated Cancer Centers that prioritize:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14355-2025:sec2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:82",
+ "label": "JP-appi-2003 Article 82",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "77ecc866e60aceb72180dfae539e4b15963344d9191d64cc493d58e40fd12940",
+ "sha256_v1": "",
+ "sha256_v2": "77ecc866e60aceb72180dfae539e4b15963344d9191d64cc493d58e40fd12940",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "77ecc866e60aceb72180dfae539e4b15963344d9191d64cc493d58e40fd12940",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:82/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "行政機関の長等は、開示請求に係る保有個人情報の全部又は一部を開示するときは、その旨の決定をし、開示請求者に対し、その旨、開示する保有個人情報の利用目的及び開示の実施に関し政令で定める事項を書面により通知しなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:82/s5",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "ja:public-trace",
+   "status": "DRAFT",
+   "text": "）は、開示をしない旨の決定をし、開示請求者に対し、その旨を書面により通知しなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:82",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

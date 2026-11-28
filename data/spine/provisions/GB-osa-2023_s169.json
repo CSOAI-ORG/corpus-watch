@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s169",
+ "label": "GB-osa-2023 Section 169",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a70a653df58a92e22de4d496fbb4843f8669b3d9652c6766f88b34c91f8f415e",
+ "sha256_v1": "",
+ "sha256_v2": "a70a653df58a92e22de4d496fbb4843f8669b3d9652c6766f88b34c91f8f415e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a70a653df58a92e22de4d496fbb4843f8669b3d9652c6766f88b34c91f8f415e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s169/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nRegulations under subsection (3) must specify as one of the criteria that the entity must be a body representing the interests of users of regulated services, or members of the public, or a particular group of such users or members of the public."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s169/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nBefore making regulations under subsection (3), the Secretary of State must consult—\n(a)\nOFCOM, and\n(b)\nsuch other persons as the Secretary of State considers appropriate."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s169",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

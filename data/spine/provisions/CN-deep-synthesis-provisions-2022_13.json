@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-deep-synthesis-provisions-2022:13",
+ "label": "CN-deep-synthesis-provisions-2022 第十三条",
+ "instrument": "CN-deep-synthesis-provisions-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "6a021301b889ffa94106e7d0f4a2e9bd26dd6da5bb6bae67f2cc1d1858393054",
+ "sha256_v1": "",
+ "sha256_v2": "6a021301b889ffa94106e7d0f4a2e9bd26dd6da5bb6bae67f2cc1d1858393054",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "6a021301b889ffa94106e7d0f4a2e9bd26dd6da5bb6bae67f2cc1d1858393054",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-deep-synthesis-provisions-2022:13/s1",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "第十三条 互联网应用商店等应用程序分发平台应当落实上架审核、日常管理、应急处置等安全管理责任，核验深度合成类应用程序的安全评估、备案等情况；"
+  },
+  {
+   "obligation_id": "CN-deep-synthesis-provisions-2022:13/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "对违反国家有关规定的，应当及时采取不予上架、警示、暂停服务或者下架等处置措施。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-deep-synthesis-provisions-2022:13",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

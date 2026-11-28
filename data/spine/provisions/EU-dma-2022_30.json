@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:30",
+ "label": "EU-dma-2022 Article 30",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "68c54102449d5cd913c620b0c2cbd99b633a75b82f05827f3d059d83c6c6df8e",
+ "sha256_v1": "",
+ "sha256_v2": "68c54102449d5cd913c620b0c2cbd99b633a75b82f05827f3d059d83c6c6df8e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "68c54102449d5cd913c620b0c2cbd99b633a75b82f05827f3d059d83c6c6df8e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:30/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In fixing the amount of a fine, the Commission shall take into account the gravity, duration, recurrence, and, for fines imposed pursuant to paragraph 3, delay caused to the proceedings."
+  },
+  {
+   "obligation_id": "EU-dma-2022:30/p5/s1",
+   "paragraph": "5",
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When a fine is imposed on an association of undertakings taking account of the worldwide turnover of its members and that association is not solvent, it shall be obliged to call for contributions from its members to cover the amount of the fine."
+  },
+  {
+   "obligation_id": "EU-dma-2022:30/p5/s2",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "However, the Commission shall not require payment pursuant to the second or the third subparagraph from undertakings which show that they have not implemented the decision of the association of undertakings that infringed this Regulation, and either were not aware of its existence, or have actively distanced themselves from it before the Commission opened proceedings under Article"
+  },
+  {
+   "obligation_id": "EU-dma-2022:30/p20/s1",
+   "paragraph": "20",
+   "addressee": "undertaking",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The financial liability of each undertaking in respect of the payment of the fine shall not exceed 20 % of its total worldwide turnover in the preceding financial year."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:30",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

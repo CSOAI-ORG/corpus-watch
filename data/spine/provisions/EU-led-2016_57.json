@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-led-2016:57",
+ "label": "EU-led-2016 Article 57",
+ "instrument": "EU-led-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ee5a2fea13946b31db6065b4b14f250894e05c84bc7e7f4c43a1d8a291e09c93",
+ "sha256_v1": "",
+ "sha256_v2": "ee5a2fea13946b31db6065b4b14f250894e05c84bc7e7f4c43a1d8a291e09c93",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ee5a2fea13946b31db6065b4b14f250894e05c84bc7e7f4c43a1d8a291e09c93",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-led-2016:57/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Penalties\nMember States shall lay down the rules on penalties applicable to infringements of the provisions adopted pursuant to this Directive and shall take all measures necessary to ensure that they are implemented."
+  },
+  {
+   "obligation_id": "EU-led-2016:57/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The penalties provided for shall be effective, proportionate and dissuasive."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-led-2016:57",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

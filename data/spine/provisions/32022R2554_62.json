@@ -1,0 +1,39 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022R2554:62",
+ "label": "DORA Art. 62",
+ "instrument": "DORA",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "e9d5e88d7b6977f3c011487fc0873dfdf3ab4304b70e38e34ef244fa8f530eb2",
+ "sha256_v1": "e9d5e88d7b6977f3c011487fc0873dfdf3ab4304b70e38e34ef244fa8f530eb2",
+ "sha256_v2": "10ade171fa5ecc7b25b1dac26fe3e53ed6e3b2367dcca2a9aebcc34f078a70ca",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "10ade171fa5ecc7b25b1dac26fe3e53ed6e3b2367dcca2a9aebcc34f078a70ca",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022R2554:62/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 62 amendments to",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022R2554:62",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

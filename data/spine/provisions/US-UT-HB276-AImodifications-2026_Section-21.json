@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-UT-HB276-AImodifications-2026:Section-21",
+ "label": "US-UT-HB276-AImodifications-2026 Section 21",
+ "instrument": "US-UT-HB276-AImodifications-2026",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "d961e8ffbb489a13348d03df04eca2cb65c74bb7c994a1c7420b223660e46098",
+ "sha256_v1": "",
+ "sha256_v2": "d961e8ffbb489a13348d03df04eca2cb65c74bb7c994a1c7420b223660e46098",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 1,
+ "sha256_current": "d961e8ffbb489a13348d03df04eca2cb65c74bb7c994a1c7420b223660e46098",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-UT-HB276-AImodifications-2026:Section-21/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-UT-HB276-AImodifications-2026:Section-21",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

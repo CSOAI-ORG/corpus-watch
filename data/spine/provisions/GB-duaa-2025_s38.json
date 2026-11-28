@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s38",
+ "label": "GB-duaa-2025 Section 38",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "82de05e685de5d1993e62bbd3c1455d66180e5796014f3fbf68874b39842ed61",
+ "sha256_v1": "",
+ "sha256_v2": "82de05e685de5d1993e62bbd3c1455d66180e5796014f3fbf68874b39842ed61",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "82de05e685de5d1993e62bbd3c1455d66180e5796014f3fbf68874b39842ed61",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s38/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(3)\nThe Secretary of State must publish a determination."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s38/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(5)\nIf the Secretary of State revises a determination the Secretary of State must publish the determination as revised."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s38",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

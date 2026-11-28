@@ -1,0 +1,49 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022L2555:20",
+ "label": "NIS2 Directive Art. 20",
+ "instrument": "NIS2 Directive",
+ "ladder": "CROSSWALK_ONLY",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "78567618e3e7ec8b7186eda413d1b87cd95e78309e825c07e83b11c5647c91bd",
+ "sha256_v1": "78567618e3e7ec8b7186eda413d1b87cd95e78309e825c07e83b11c5647c91bd",
+ "sha256_v2": "b53b60e74c1e524cfaa26054b4fe69a6cca2905d20b8ee61cd060bf6ffc57b2d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "b53b60e74c1e524cfaa26054b4fe69a6cca2905d20b8ee61cd060bf6ffc57b2d",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022L2555:20/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that the management bodies of essential and important entities approve the cybersecurity risk-management measures taken by those entities in order to comply with Article 21, oversee its implementation and can be held liable for infringements by the entities of that Article."
+  },
+  {
+   "obligation_id": "32022L2555:20/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that the members of the management bodies of essential and important entities are required to follow training, and shall encourage essential and important entities to offer similar training to their employees on a regular basis, in order that they gain sufficient knowledge and skills to enable them to identify risks and assess cybersecurity risk-management practices and their impact on the services provided by the entity."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022L2555:20",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

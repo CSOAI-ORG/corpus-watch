@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:112",
+ "label": "EU-mdr-2017 Article 112",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "4569314c8196debc2abf182f9fc026b727583d6726ba861ed31972a2f593646f",
+ "sha256_v1": "",
+ "sha256_v2": "4569314c8196debc2abf182f9fc026b727583d6726ba861ed31972a2f593646f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "4569314c8196debc2abf182f9fc026b727583d6726ba861ed31972a2f593646f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:112/p0/s1",
+   "paragraph": "0",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Funding of activities related to designation and monitoring of notified bodies\nThe costs associated with joint assessment activities shall be covered by the Commission."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:112/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall, by means of implementing acts, lay down the scale and structure of recoverable costs and other necessary implementing rules."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:112/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 114(3)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:112",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

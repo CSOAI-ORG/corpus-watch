@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s111",
+ "label": "GB-duaa-2025 Section 111",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "0ed55f5d8c72d3d967b19a65fca5f07a1cbe06d9e5b5e2f9c279220cbb384ff0",
+ "sha256_v1": "",
+ "sha256_v2": "0ed55f5d8c72d3d967b19a65fca5f07a1cbe06d9e5b5e2f9c279220cbb384ff0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "0ed55f5d8c72d3d967b19a65fca5f07a1cbe06d9e5b5e2f9c279220cbb384ff0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s111/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Duty to notify the Commissioner of personal data breach: time periods\n(1)\nIn regulation 5A of the PEC Regulations (personal data breach)—\n(a)\nin paragraph (2), after “delay” insert “and, where feasible, not later than 72 hours after having become aware of it”, and\n(b)\nafter paragraph (3) insert—\n(3A)\nWhere notification under paragraph (2) is not made within 72 hours, it must be accompanied by reasons for the delay."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s111/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nIn Article 2 of Commission Regulation (EU) No 611/2013 of 24 June 2013 on the measures applicable to the notification of personal data breaches under Directive 2002/58/EC of the European Parliament and of the Council on privacy and electronic communications (notification to the Commissioner)—\n(a)\nin paragraph 2—\n(i)\nin the first subparagraph, for the words from “no” to “feasible” substitute “without undue delay and, where feasible, not later than 72 hours after having become aware of it”,\n(ii)\nin the second subparagraph, after “shall” insert “, subject to paragraph 3,”, and\n(iii)\nafter the third subparagraph insert—\nThis paragraph is to be interpreted in accordance with Article 3 of Regu"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s111",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,126 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:7",
+ "label": "EU-dma-2022 Article 7",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "4499c3cb2ca2bbd7e75c6e3d63af15ea4d31b4de2241a30ea84877a559e4f2c0",
+ "sha256_v1": "",
+ "sha256_v2": "4499c3cb2ca2bbd7e75c6e3d63af15ea4d31b4de2241a30ea84877a559e4f2c0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "4499c3cb2ca2bbd7e75c6e3d63af15ea4d31b4de2241a30ea84877a559e4f2c0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:7/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where a gatekeeper provides number-independent interpersonal communications services that are listed in the designation decision pursuant to Article 3(9), it shall make the basic functionalities of its number-independent interpersonal communications services interoperable with the number-independent interpersonal communications services of another provider offering or intending to offer such services in the Union, by providing the necessary technical interfaces or similar solutions that facilitate interoperability, upon request, and free of charge."
+  },
+  {
+   "obligation_id": "EU-dma-2022:7/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The gatekeeper shall make at least the following basic functionalities referred to in paragraph 1 interoperable where the gatekeeper itself provides those functionalities to its own end users:"
+  },
+  {
+   "obligation_id": "EU-dma-2022:7/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The level of security, including the end-to-end encryption, where applicable, that the gatekeeper provides to its own end users shall be preserved across the interoperable services."
+  },
+  {
+   "obligation_id": "EU-dma-2022:7/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "The gatekeeper shall publish a reference offer laying down the technical details and general terms and conditions of interoperability with its number-independent interpersonal communications services, including the necessary details on the level of security and end-to-end encryption."
+  },
+  {
+   "obligation_id": "EU-dma-2022:7/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "The gatekeeper shall publish that reference offer within the period laid down in Article 3(10) and update it where necessary."
+  },
+  {
+   "obligation_id": "EU-dma-2022:7/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The gatekeeper shall comply with any reasonable request for interoperability within 3 months after receiving that request by rendering the requested basic functionalities operational."
+  },
+  {
+   "obligation_id": "EU-dma-2022:7/p7/s1",
+   "paragraph": "7",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The end users of the number-independent interpersonal communications services of the gatekeeper and of the requesting provider of number-independent interpersonal communications services shall remain free to decide whether to make use of the interoperable basic functionalities that may be provided by the gatekeeper pursuant to paragraph 1."
+  },
+  {
+   "obligation_id": "EU-dma-2022:7/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The gatekeeper shall collect and exchange with the provider of number-independent interpersonal communications services that makes a request for interoperability only the personal data of end users that is strictly necessary to provide effective interoperability."
+  },
+  {
+   "obligation_id": "EU-dma-2022:7/p8/s2",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any such collection and exchange of the personal data of end users shall fully comply with Regulation (EU) 2016/679 and Directive 2002/58/EC."
+  },
+  {
+   "obligation_id": "EU-dma-2022:7/p9/s1",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The gatekeeper shall not be prevented from taking measures to ensure that third-party providers of number-independent interpersonal communications services requesting interoperability do not endanger the integrity, security and privacy of its services, provided that such measures are strictly necessary and proportionate and are duly justified by the gatekeeper."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

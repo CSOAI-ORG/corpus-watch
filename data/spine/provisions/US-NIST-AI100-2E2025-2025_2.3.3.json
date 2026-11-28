@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-NIST-AI100-2E2025-2025:2.3.3",
+ "label": "US-NIST-AI100-2E2025-2025 2.3.3",
+ "instrument": "US-NIST-AI100-2E2025-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "452eeb22225b44f3c888da62de73149b2c98f3e2d3799ad69d3342b98dce0eb3",
+ "sha256_v1": "",
+ "sha256_v2": "452eeb22225b44f3c888da62de73149b2c98f3e2d3799ad69d3342b98dce0eb3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 25,
+ "sha256_current": "452eeb22225b44f3c888da62de73149b2c98f3e2d3799ad69d3342b98dce0eb3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-NIST-AI100-2E2025-2025:2.3.3/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Additional\nresearch is required to design strong backdoor mitigation strategies that can protect ML\nmodels against this important attack vector without suffering from these limitations."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-NIST-AI100-2E2025-2025:2.3.3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

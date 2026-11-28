@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s44",
+ "label": "GB-duaa-2025 Section 44",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "fa5ccf145c691af18735a6d77a8fbc9844242653c5f08be5f1090b8f75721522",
+ "sha256_v1": "",
+ "sha256_v2": "fa5ccf145c691af18735a6d77a8fbc9844242653c5f08be5f1090b8f75721522",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "fa5ccf145c691af18735a6d77a8fbc9844242653c5f08be5f1090b8f75721522",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s44/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nThe Secretary of State must amend the supplementary note so it no longer records (as the case may be)—\n(a)\nthe service or services mentioned in a request described in subsection (1)(a),\n(b)\nthe service or services which the person has ceased to provide, or\n(c)\nthe service or services for which there is no longer a certificate as described in subsection (1)(c)."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s44/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nFor the purposes of subsection (1)(c), a certificate is to be ignored if—\n(a)\nit has expired in accordance with its terms,\n(b)\nit has been withdrawn by the body that issued it, or\n(c)\nit is required to be ignored by reason of provision included in the supplementary code as a result of section 29(9)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s44",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

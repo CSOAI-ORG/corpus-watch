@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-gpsr-2023:5",
+ "label": "EU-gpsr-2023 Article 5",
+ "instrument": "EU-gpsr-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "1ece4270e83691e3705ee556351f193b08dfd2a15eac801fa28f3d807c4f5711",
+ "sha256_v1": "",
+ "sha256_v2": "1ece4270e83691e3705ee556351f193b08dfd2a15eac801fa28f3d807c4f5711",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "1ece4270e83691e3705ee556351f193b08dfd2a15eac801fa28f3d807c4f5711",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-gpsr-2023:5/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "General safety requirement\nEconomic operators shall place or make available on the market only safe products."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-gpsr-2023:5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

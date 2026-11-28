@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-FDA-CDS-guidance-2026:sec-scope",
+ "label": "US-FDA-CDS-guidance-2026 Scope",
+ "instrument": "US-FDA-CDS-guidance-2026",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "580098b66ff99fec3904302a934a391abcb7977d1016a3c326015243195d6c29",
+ "sha256_v1": "",
+ "sha256_v2": "580098b66ff99fec3904302a934a391abcb7977d1016a3c326015243195d6c29",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "580098b66ff99fec3904302a934a391abcb7977d1016a3c326015243195d6c29",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-FDA-CDS-guidance-2026:sec-scope/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:scope",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-FDA-CDS-guidance-2026:sec-scope",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

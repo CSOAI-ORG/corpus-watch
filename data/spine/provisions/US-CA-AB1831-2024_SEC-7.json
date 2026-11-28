@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB1831-2024:SEC-7",
+ "label": "US-CA-AB1831-2024 SEC. 7.",
+ "instrument": "US-CA-AB1831-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "fca5a5645ff9dfdcb02c2cb64746d4f9e55b2d0c2fb94de23eb9f2a993872690",
+ "sha256_v1": "",
+ "sha256_v2": "fca5a5645ff9dfdcb02c2cb64746d4f9e55b2d0c2fb94de23eb9f2a993872690",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "fca5a5645ff9dfdcb02c2cb64746d4f9e55b2d0c2fb94de23eb9f2a993872690",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB1831-2024:SEC-7/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This act shall become operative only if Senate Bill 1381 of the 2023–24 Regular Session is enacted and takes effect on or before January 1, 2025."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB1831-2024:SEC-7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

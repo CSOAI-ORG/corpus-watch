@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "TW-ai-basic-act-2026:15",
+ "label": "TW-ai-basic-act-2026 Article 15",
+ "instrument": "TW-ai-basic-act-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "dff07a814181d858a5280b6367d1976ad6997343ef52b9e43988f868f5f1a75c",
+ "sha256_v1": "",
+ "sha256_v2": "dff07a814181d858a5280b6367d1976ad6997343ef52b9e43988f868f5f1a75c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "TW",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "dff07a814181d858a5280b6367d1976ad6997343ef52b9e43988f868f5f1a75c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "TW-ai-basic-act-2026:15/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "政府應積極運用人工智慧確保勞動者之勞動權益。"
+  },
+  {
+   "obligation_id": "TW-ai-basic-act-2026:15/s3",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "政府應積極弭平人工智慧發展所造成之技能落差，提升勞動參與，保障經濟安全，並落實尊嚴勞動。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=TW-ai-basic-act-2026:15",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

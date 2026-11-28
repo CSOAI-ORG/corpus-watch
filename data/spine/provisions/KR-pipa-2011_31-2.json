@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-pipa-2011:31-2",
+ "label": "KR-pipa-2011 제31조의2",
+ "instrument": "KR-pipa-2011",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "e7a5050ec82d34d8f047f43fac58b476a181d28d03374f5c1b46f2344f434bd1",
+ "sha256_v1": "",
+ "sha256_v2": "e7a5050ec82d34d8f047f43fac58b476a181d28d03374f5c1b46f2344f434bd1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "e7a5050ec82d34d8f047f43fac58b476a181d28d03374f5c1b46f2344f434bd1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-pipa-2011:31-2/s1",
+   "paragraph": null,
+   "addressee": "authorised_representative",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "제31조의2(국내대리인의 지정) ① 국내에 주소 또는 영업소가 없는 개인정보처리자로서 매출액, 개인정보의 보유 규모 등을 고려하여 대통령령으로 정하는 자는 다음 각 호의 사항을 대리하는 자(이하 “국내대리인”이라 한다)를 지정하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:31-2/s2",
+   "paragraph": null,
+   "addressee": "authorised_representative",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "이 경우 국내대리인의 지정은 문서로 하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:31-2/s8",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "이 경우 다음 각 호의 어느 하나에 해당하는 법인이 있는 개인정보처리자는 그 법인 중에서 국내대리인을 지정하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:31-2/s12",
+   "paragraph": null,
+   "addressee": "authorised_representative",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ko:internal-record",
+   "status": "DRAFT",
+   "text": "③ 제1항에 따라 국내대리인을 지정한 개인정보처리자는 국내대리인이 업무를 충실히 수행하도록 대통령령으로 정하는 바에 따라 교육하고 업무현황을 점검하는 등의 관리ㆍ감독을 하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:31-2/s14",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "④ 개인정보처리자는 제1항에 따라 국내대리인을 지정하는 경우에는 다음 각 호의 사항을 개인정보 처리방침에 포함하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-pipa-2011:31-2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

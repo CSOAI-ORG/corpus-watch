@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:107",
+ "label": "EU AI Act Art. 107",
+ "instrument": "EU AI Act",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "5d4d8d32e67ab5528747398cca5300aa607bec22d17759138427ed81d65eed0d",
+ "sha256_v1": "5d4d8d32e67ab5528747398cca5300aa607bec22d17759138427ed81d65eed0d",
+ "sha256_v2": "5d4d8d32e67ab5528747398cca5300aa607bec22d17759138427ed81d65eed0d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "NOISE",
+ "change_edits": 1,
+ "sha256_current": "f0308816bca1a4275a4b437bbbcf59bb24202929da3b7c0ec42d009093cd4a26",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:107/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 107 amendment to",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:107",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

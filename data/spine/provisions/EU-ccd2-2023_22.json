@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:22",
+ "label": "EU-ccd2-2023 Article 22",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "eae55ceba0715684909ced8c5a7a4afa8d2e32d15b4144edac6c830d915f2e63",
+ "sha256_v1": "",
+ "sha256_v2": "eae55ceba0715684909ced8c5a7a4afa8d2e32d15b4144edac6c830d915f2e63",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "eae55ceba0715684909ced8c5a7a4afa8d2e32d15b4144edac6c830d915f2e63",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:22/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Information regarding the modification of the credit agreement\nWithout prejudice to other obligations provided for in this Directive, Member States shall ensure that prior to modifying the terms and conditions of the credit agreement, the creditor communicates on paper or another durable medium specified in the credit agreement the following information to the consumer:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:22",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

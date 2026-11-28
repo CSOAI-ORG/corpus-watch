@@ -1,0 +1,99 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R2847:47",
+ "label": "Cyber Resilience Act Art. 47",
+ "instrument": "Cyber Resilience Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "c9d846980452337bf13cbf5d341200fbadbda1fbc3fa8163f016470ebe11448c",
+ "sha256_v1": "c9d846980452337bf13cbf5d341200fbadbda1fbc3fa8163f016470ebe11448c",
+ "sha256_v2": "6b0884aa39d0a8e2fb31fed8d529f55a5396de3a2e29694a1b0e14b82a126a13",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "6b0884aa39d0a8e2fb31fed8d529f55a5396de3a2e29694a1b0e14b82a126a13",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R2847:47/p1/s1",
+   "paragraph": "1",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Notified bodies shall carry out conformity assessments in accordance with the conformity assessment procedures provided for in Article 32 and Annex VIII."
+  },
+  {
+   "obligation_id": "32024R2847:47/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Conformity assessments shall be carried out in a proportionate manner, avoiding unnecessary burdens for economic operators."
+  },
+  {
+   "obligation_id": "32024R2847:47/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Conformity assessment bodies shall perform their activities taking due account of the size of undertakings, in particular as regards microenterprises and small and medium-sized enterprises, the sector in which they operate, their structure, their degree of complexity and the cybersecurity risk level of the products with digital elements and technology in question and the mass or serial nature of the production process."
+  },
+  {
+   "obligation_id": "32024R2847:47/p3/s1",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Notified bodies shall however respect the degree of rigour and the level of protection required for the compliance of products with digital elements with this Regulation."
+  },
+  {
+   "obligation_id": "32024R2847:47/p4/s1",
+   "paragraph": "4",
+   "addressee": "manufacturer",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where a notified body finds that the requirements set out in Annex I or in corresponding harmonised standards or common specifications as referred to in Article 27 have not been met by a manufacturer, it shall require that manufacturer to take appropriate corrective measures and shall not issue a certificate of conformity."
+  },
+  {
+   "obligation_id": "32024R2847:47/p5/s1",
+   "paragraph": "5",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where, in the course of the monitoring of conformity following the issuance of a certificate, a notified body finds that a product with digital elements no longer complies with the requirements laid down in this Regulation, it shall require the manufacturer to take appropriate corrective measures and shall suspend or withdraw the certificate if necessary."
+  },
+  {
+   "obligation_id": "32024R2847:47/p6/s1",
+   "paragraph": "6",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where corrective measures are not taken or do not have the required effect, the notified body shall restrict, suspend or withdraw any certificates, as appropriate."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R2847:47",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

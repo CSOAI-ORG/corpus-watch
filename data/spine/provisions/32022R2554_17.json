@@ -1,0 +1,68 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022R2554:17",
+ "label": "DORA Art. 17",
+ "instrument": "DORA",
+ "ladder": "CROSSWALK_ONLY",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "904e03853cca5f4ff0b4d31e0aeda9dc5049d4d6ccc6b960fd930c8ac8d0f32a",
+ "sha256_v1": "904e03853cca5f4ff0b4d31e0aeda9dc5049d4d6ccc6b960fd930c8ac8d0f32a",
+ "sha256_v2": "7a367a5fb116fd60b425ef73c817f93796c5bf15e40b1967746c60a3bfb4adce",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "7a367a5fb116fd60b425ef73c817f93796c5bf15e40b1967746c60a3bfb4adce",
+ "agent_register_kinds": [
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022R2554:17/p1/s1",
+   "paragraph": "1",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Financial entities shall define, establish and implement an ICT-related incident management process to detect, manage and notify ICT-related incidents."
+  },
+  {
+   "obligation_id": "32022R2554:17/p2/s1",
+   "paragraph": "2",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Financial entities shall record all ICT-related incidents and significant cyber threats."
+  },
+  {
+   "obligation_id": "32022R2554:17/p2/s2",
+   "paragraph": "2",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Financial entities shall establish appropriate procedures and processes to ensure a consistent and integrated monitoring, handling and follow-up of ICT-related incidents, to ensure that root causes are identified, documented and addressed in order to prevent the occurrence of such incidents."
+  },
+  {
+   "obligation_id": "32022R2554:17/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The ICT-related incident management process referred to in paragraph 1 shall:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022R2554:17",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

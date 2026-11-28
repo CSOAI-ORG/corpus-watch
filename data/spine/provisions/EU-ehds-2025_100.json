@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:100",
+ "label": "EU-ehds-2025 Article 100",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f6669c0fa6f1e87dc0b2fd1e02b6ee05bc57df51481bb821e029d961346c6fc9",
+ "sha256_v1": "",
+ "sha256_v2": "f6669c0fa6f1e87dc0b2fd1e02b6ee05bc57df51481bb821e029d961346c6fc9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "f6669c0fa6f1e87dc0b2fd1e02b6ee05bc57df51481bb821e029d961346c6fc9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:100/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Right to receive compensation\nAny natural or legal person that has suffered material or non-material damage as a result of an infringement of this Regulation shall have the right to receive compensation in accordance with Union and national law."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:100",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

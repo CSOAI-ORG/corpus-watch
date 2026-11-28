@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-machinery-2023:28",
+ "label": "EU-machinery-2023 Article 28",
+ "instrument": "EU-machinery-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "a364f5dac12d2381e81329e3b8e81016415edf1146b985dc86889ddf587878e1",
+ "sha256_v1": "",
+ "sha256_v2": "a364f5dac12d2381e81329e3b8e81016415edf1146b985dc86889ddf587878e1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a364f5dac12d2381e81329e3b8e81016415edf1146b985dc86889ddf587878e1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-machinery-2023:28/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "A notifying authority shall be established in such a way that no conflict of interest with conformity assessment bodies occurs."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:28/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A notifying authority shall be organised and operated so as to safeguard the objectivity and impartiality of its activities."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:28/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "A notifying authority shall be organised in such a way that each decision relating to notification of a conformity assessment body is taken by competent persons different from those who carried out the assessment."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:28/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "A notifying authority shall not offer or provide any activities that conformity assessment bodies perform, nor shall it offer or provide consultancy services on a commercial or competitive basis."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:28/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A notifying authority shall safeguard the confidentiality of the information it obtains."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:28/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A notifying authority shall have a sufficient number of competent personnel at its disposal for the proper performance of its tasks."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-machinery-2023:28",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

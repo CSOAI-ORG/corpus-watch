@@ -1,0 +1,48 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022R2554:41",
+ "label": "DORA Art. 41",
+ "instrument": "DORA",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "9828ff676197302f968f885f67585f3a51d611b9ae493e5ef82248122ae510b4",
+ "sha256_v1": "9828ff676197302f968f885f67585f3a51d611b9ae493e5ef82248122ae510b4",
+ "sha256_v2": "b909bd92f6e95c3e040cebcfdb330bc1dff5a6c2fd8a87fab8c6e6ec8c8c6551",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "b909bd92f6e95c3e040cebcfdb330bc1dff5a6c2fd8a87fab8c6e6ec8c8c6551",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022R2554:41/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The ESAs shall, through the Joint Committee, develop draft regulatory technical standards to specify:"
+  },
+  {
+   "obligation_id": "32022R2554:41/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The ESAs shall submit those draft regulatory technical standards to the Commission by 17 July 2024."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022R2554:41",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

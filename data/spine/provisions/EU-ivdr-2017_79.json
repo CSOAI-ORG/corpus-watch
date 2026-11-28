@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:79",
+ "label": "EU-ivdr-2017 Article 79",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "929b2206d215d582521742320b21857b4fa9b2326e78f4cc76b8587d70e31d93",
+ "sha256_v1": "",
+ "sha256_v2": "929b2206d215d582521742320b21857b4fa9b2326e78f4cc76b8587d70e31d93",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "929b2206d215d582521742320b21857b4fa9b2326e78f4cc76b8587d70e31d93",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:79/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Post-market surveillance plan\nThe post-market surveillance system referred to in Article 78 shall be based on a post-market surveillance plan, the requirements for which are set out in Section 1 of Annex III."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:79/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "The post-market surveillance plan shall be part of the technical documentation specified in Annex II."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:79",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

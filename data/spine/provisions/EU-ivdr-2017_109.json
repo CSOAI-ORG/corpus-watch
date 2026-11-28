@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:109",
+ "label": "EU-ivdr-2017 Article 109",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "275197b0b0347a965c2ebd1f00ac13592e9cd5ff61fdbbdb7337f1b1a365d10c",
+ "sha256_v1": "",
+ "sha256_v2": "275197b0b0347a965c2ebd1f00ac13592e9cd5ff61fdbbdb7337f1b1a365d10c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "275197b0b0347a965c2ebd1f00ac13592e9cd5ff61fdbbdb7337f1b1a365d10c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:109/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Separate delegated acts for different delegated powers\nThe Commission shall adopt a separate delegated act in respect of each power delegated to it pursuant to this Regulation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:109",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

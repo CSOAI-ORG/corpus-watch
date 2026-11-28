@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB1381-2024:SEC-6",
+ "label": "US-CA-SB1381-2024 SEC. 6.",
+ "instrument": "US-CA-SB1381-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "203f20b4a2ad08593a5454edff707375e1eaaadb1497b106bdf647cb97d3f1ea",
+ "sha256_v1": "",
+ "sha256_v2": "203f20b4a2ad08593a5454edff707375e1eaaadb1497b106bdf647cb97d3f1ea",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "203f20b4a2ad08593a5454edff707375e1eaaadb1497b106bdf647cb97d3f1ea",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB1381-2024:SEC-6/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This act shall become operative only if Assembly Bill 1831 of the 2023–24 Regular Session is enacted and takes effect on or before January 1, 2025."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB1381-2024:SEC-6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s189",
+ "label": "GB-dpa-2018 Section 189",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "25e11978c5e96929a06e412be6db9567debe26111c650e8690094855d03f6ece",
+ "sha256_v1": "",
+ "sha256_v2": "25e11978c5e96929a06e412be6db9567debe26111c650e8690094855d03f6ece",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "25e11978c5e96929a06e412be6db9567debe26111c650e8690094855d03f6ece",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s189/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Duty to review provision for representation of data subjects\n(1)\nBefore the end of the review period, the Secretary of State must—\n(a)\nreview the matters listed in subsection (2) in relation to England and Wales and Northern Ireland,\n(b)\nprepare a report of the review, and\n(c)\nlay a copy of the report before Parliament."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s189/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nIn carrying out the review, the Secretary of State must—\n(a)\nconsider the particular needs of children separately from the needs of adults,\n(b)\nhave regard to the fact that children have different needs at different stages of development,\n(c)\ncarry out an analysis of the particular challenges that children face in authorising, and deciding whether to authorise, other persons to act on their behalf under Article 80(1) of the UK GDPR or section 187,\n(d)\nconsider the support and advice available to children in connection with the exercise of their rights under Articles 77, 78, 79 and 82 of the UK GDPR by another person on their behalf and the merits of making available other support or advi"
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s189/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "(5)\nBefore preparing the report under subsection (1), the Secretary of State must consult the Commission and such other persons as the Secretary of State considers appropriate, including—\n(a)\npersons active in the field of protection of data subjects' rights and freedoms with regard to the protection of their personal data,\n(b)\nchildren and parents,\n(c)\nchildren's rights organisations and other persons who appear to the Secretary of State to represent the interests of children,\n(d)\nchild development experts, and\n(e)\ntrade associations."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s189",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

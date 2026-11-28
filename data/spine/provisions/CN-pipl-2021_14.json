@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-pipl-2021:14",
+ "label": "CN-pipl-2021 第十四条",
+ "instrument": "CN-pipl-2021",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3048c15a4b0c1aae72baf99cfde70c7537178be36a7c487d20e9a1d468742f9b",
+ "sha256_v1": "",
+ "sha256_v2": "3048c15a4b0c1aae72baf99cfde70c7537178be36a7c487d20e9a1d468742f9b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "3048c15a4b0c1aae72baf99cfde70c7537178be36a7c487d20e9a1d468742f9b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-pipl-2021:14/s1",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "第十四条　基于个人同意处理个人信息的，该同意应当由个人在充分知情的前提下自愿、明确作出。"
+  },
+  {
+   "obligation_id": "CN-pipl-2021:14/s2",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "法律、行政法规规定处理个人信息应当取得个人单独同意或者书面同意的，从其规定。"
+  },
+  {
+   "obligation_id": "CN-pipl-2021:14/s3",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "个人信息的处理目的、处理方式和处理的个人信息种类发生变更的，应当重新取得个人同意。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-pipl-2021:14",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

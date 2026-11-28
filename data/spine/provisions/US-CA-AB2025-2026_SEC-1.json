@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB2025-2026:SEC-1",
+ "label": "US-CA-AB2025-2026 SECTION 1.",
+ "instrument": "US-CA-AB2025-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ee0b338258492650817f8828ea1b3e0bc4e8e5ac82cc745fd63d2a3a6062c21a",
+ "sha256_v1": "",
+ "sha256_v2": "ee0b338258492650817f8828ea1b3e0bc4e8e5ac82cc745fd63d2a3a6062c21a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "ee0b338258492650817f8828ea1b3e0bc4e8e5ac82cc745fd63d2a3a6062c21a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB2025-2026:SEC-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)(1)A real estate broker or salesperson, or person acting on their behalf, who includes a digitally altered image in an advertisement or other promotional material for the sale of real property shall include in the advertisement or promotional material a statement disclosing that the image has been altered and a link, URL, or QR code to a publicly accessible internet website that includes, and clearly identifies, the original, unaltered image."
+  },
+  {
+   "obligation_id": "US-CA-AB2025-2026:SEC-1/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The statement shall be reasonably conspicuous and located on or adjacent to the image and shall include language indicating that the unaltered images can be accessed via the link, URL, or QR code."
+  },
+  {
+   "obligation_id": "US-CA-AB2025-2026:SEC-1/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)If an advertisement or promotional material described in paragraph (1) is posted on an internet website over which the real estate broker or salesperson, or person acting on their behalf, has control, they shall include the unaltered version of the images from which the digitally altered images were created in the posting."
+  },
+  {
+   "obligation_id": "US-CA-AB2025-2026:SEC-1/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the real estate broker or salesperson, or person acting on their behalf, complies with this requirement by including a link or URL to the unaltered images, the statement required by paragraph (1) shall include language indicating the unaltered images can be accessed via the link or URL."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB2025-2026:SEC-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s222",
+ "label": "GB-osa-2023 Section 222",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a13165878eb0a1cbee4b790126a830eef2ec9ee66f9727f514a4c28074ea9ee4",
+ "sha256_v1": "",
+ "sha256_v2": "a13165878eb0a1cbee4b790126a830eef2ec9ee66f9727f514a4c28074ea9ee4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a13165878eb0a1cbee4b790126a830eef2ec9ee66f9727f514a4c28074ea9ee4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s222/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(7)\nThe Secretary of State must consult the Scottish Ministers before making regulations under subsection (3) which—\n(a)\nadd an offence that extends only to Scotland, or\n(b)\namend or remove an entry specifying an offence that extends only to Scotland."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s222/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(8)\nThe Secretary of State must consult the Department of Justice in Northern Ireland before making regulations under subsection (3) which—\n(a)\nadd an offence that extends only to Northern Ireland, or\n(b)\namend or remove an entry specifying an offence that extends only to Northern Ireland."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s222",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

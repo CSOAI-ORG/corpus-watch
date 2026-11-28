@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB1119-2026:SEC-2:21816.",
+ "label": "US-CA-SB1119-2026 SEC. 2. / 21816.",
+ "instrument": "US-CA-SB1119-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5a597b5eac7f5f4075217972b5ebad5264029e85a16b3e3553999577c00dcd5e",
+ "sha256_v1": "",
+ "sha256_v2": "5a597b5eac7f5f4075217972b5ebad5264029e85a16b3e3553999577c00dcd5e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "5a597b5eac7f5f4075217972b5ebad5264029e85a16b3e3553999577c00dcd5e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21816./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)A civil penalty collected pursuant to this subdivision shall be paid to the office of the public prosecutor that brought the action."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21816./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A penalty collected pursuant to this section by the Attorney General shall be deposited into the Public Rights Law Enforcement Special Fund."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21816./p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)If the actual harm alleged in an action pursuant to paragraph (1) is financial harm, the amount of the harm alleged shall exceed one thousand dollars ($1,000) per child."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21816./p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)If the actual harm alleged in an action pursuant to paragraph (1) is emotional harm, the harm must constitute serious emotional distress."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21816./p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)A violation of this chapter shall not constitute a basis for a private cause of action under the Unfair Competition Law (Chapter 5 (commencing with Section 17200) of Part 2 of Division 7)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB1119-2026:SEC-2:21816.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

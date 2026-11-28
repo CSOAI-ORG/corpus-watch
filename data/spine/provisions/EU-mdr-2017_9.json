@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:9",
+ "label": "EU-mdr-2017 Article 9",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "da565ce8694d63114011d8e36d2505de4e5e84e03813eec04d4978b1323cff70",
+ "sha256_v1": "",
+ "sha256_v2": "da565ce8694d63114011d8e36d2505de4e5e84e03813eec04d4978b1323cff70",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "da565ce8694d63114011d8e36d2505de4e5e84e03813eec04d4978b1323cff70",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:9/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 114(3)."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:9/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Devices that are in conformity with the CS referred to in paragraph 1 shall be presumed to be in conformity with the requirements of this Regulation covered by those CS or the relevant parts of those CS."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:9/p3/s1",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Manufacturers shall comply with the CS referred to in paragraph 1 unless they can duly justify that they have adopted solutions that ensure a level of safety and performance that is at least equivalent thereto."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:9/p4/s1",
+   "paragraph": "4",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Notwithstanding paragraph 3, manufacturers of products listed in Annex XVI shall comply with the relevant CS for those products."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:9",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

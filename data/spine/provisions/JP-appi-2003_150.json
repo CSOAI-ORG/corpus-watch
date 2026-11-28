@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:150",
+ "label": "JP-appi-2003 Article 150",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "45ba0f7a48ecd2588f6bb0cd2adb59b0b24bcbff23e040307a297b3ddbdcab6e",
+ "sha256_v1": "",
+ "sha256_v2": "45ba0f7a48ecd2588f6bb0cd2adb59b0b24bcbff23e040307a297b3ddbdcab6e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "45ba0f7a48ecd2588f6bb0cd2adb59b0b24bcbff23e040307a297b3ddbdcab6e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:150/s3",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "２ 事業所管大臣は、前項の規定により委任された権限を行使したときは、政令で定めるところにより、その結果について委員会に報告するものとする。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:150",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

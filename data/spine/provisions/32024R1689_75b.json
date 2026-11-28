@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:75b",
+ "label": "EU AI Act Art. 75b",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": null,
+ "sha256_v1": "",
+ "sha256_v2": "",
+ "source_state": "INSERTED_BY_AMENDMENT",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "INSERTED",
+ "change_edits": 145,
+ "sha256_current": "89fb31fbc020f1027e31d6ab7fbdea33baa64ba18477b813fe426276dc7c5a06",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:75b/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the AI Office considers that the commitments offered by the operator concerned are unable to ensure effective compliance with the relevant provisions of this Regulation, it shall reject those commitments in a reasoned decision when concluding the proceedings."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:75b",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

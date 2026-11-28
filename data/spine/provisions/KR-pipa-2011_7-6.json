@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-pipa-2011:7-6",
+ "label": "KR-pipa-2011 제7조의6",
+ "instrument": "KR-pipa-2011",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "cf1d4b0d7da0162b2dc943e77d9c5355b6c09592e1b627893a6a0c4df5c0d2b5",
+ "sha256_v1": "",
+ "sha256_v2": "cf1d4b0d7da0162b2dc943e77d9c5355b6c09592e1b627893a6a0c4df5c0d2b5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "cf1d4b0d7da0162b2dc943e77d9c5355b6c09592e1b627893a6a0c4df5c0d2b5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-pipa-2011:7-6/s1",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "제7조의6(겸직금지 등) ① 위원은 재직 중 다음 각 호의 직(職)을 겸하거나 직무와 관련된 영리업무에 종사하여서는 아니 된다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-pipa-2011:7-6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

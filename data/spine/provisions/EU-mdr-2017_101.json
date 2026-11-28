@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:101",
+ "label": "EU-mdr-2017 Article 101",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "b789273e5bb67b69cee0e8087c8d6926ac12e052a9c239e4ed97db3a994e73f3",
+ "sha256_v1": "",
+ "sha256_v2": "b789273e5bb67b69cee0e8087c8d6926ac12e052a9c239e4ed97db3a994e73f3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "b789273e5bb67b69cee0e8087c8d6926ac12e052a9c239e4ed97db3a994e73f3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:101/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Competent authorities\nThe Member States shall designate the competent authority or authorities responsible for the implementation of this Regulation."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:101/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "They shall entrust their authorities with the powers, resources, equipment and knowledge necessary for the proper performance of their tasks pursuant to this Regulation."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:101/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "The Member States shall communicate the names and contact details of the competent authorities to the Commission which shall publish a list of competent authorities."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:101",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

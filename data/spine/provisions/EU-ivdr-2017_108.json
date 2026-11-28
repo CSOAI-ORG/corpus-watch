@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:108",
+ "label": "EU-ivdr-2017 Article 108",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "899a76bffdce3289e4341f3ebdbafc99071ff7289cfd367834158ef66fe4ffac",
+ "sha256_v1": "",
+ "sha256_v2": "899a76bffdce3289e4341f3ebdbafc99071ff7289cfd367834158ef66fe4ffac",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "899a76bffdce3289e4341f3ebdbafc99071ff7289cfd367834158ef66fe4ffac",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:108/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:exercise of the delegation",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:108",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

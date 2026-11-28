@@ -1,0 +1,256 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:23",
+ "label": "EU-ehds-2025 Article 23",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a1e72f76f46e6d2c04eef91457d0fab9174b19faec7d513db4bd2670d9b7897d",
+ "sha256_v1": "",
+ "sha256_v2": "a1e72f76f46e6d2c04eef91457d0fab9174b19faec7d513db4bd2670d9b7897d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "a1e72f76f46e6d2c04eef91457d0fab9174b19faec7d513db4bd2670d9b7897d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:23/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall establish a central interoperability platform for digital health (‘MyHealth@EU’) to provide services to support and facilitate the exchange of personal electronic health data between the national contact points for digital health of the Member States."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:23/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Each Member State shall designate one national contact point for digital health, as an organisational and technical gateway for the provision of services linked to the cross-border exchange of personal electronic health data in the context of primary use."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:23/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each national contact point for digital health shall be connected to all other national contact points for digital health in other Member States and to the central interoperability platform for digital health in the cross-border infrastructure MyHealth@EU."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:23/p2/s3",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a national contact point for digital health is an entity consisting of multiple organisations responsible for implementing different services, the Member State concerned shall communicate to the Commission a description of the distribution of tasks between the organisations."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:23/p2/s4",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Each Member State shall inform the Commission of the identity of its national contact point for digital health by 26 March 2027."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:23/p19/s1",
+   "paragraph": "19",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall inform the Commission of any subsequent modification of the identity of those national contact points for digital health."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:23/p19/s2",
+   "paragraph": "19",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission and the Member States shall make that information publicly available."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:23/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each national contact point for digital health shall enable the exchange of the personal electronic health data referred to in Article 14(1) with national contact points for digital health in other Member States through MyHealth@EU."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:23/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That exchange shall be based on the European electronic health record exchange format."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:23/p3/s3",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where Member States provide for additional categories of personal electronic health data under Article 14(1), third subparagraph, the national contact point for digital health shall enable the exchange of the additional categories of personal electronic health data referred to in Article 14(1), third subparagraph, insofar as the Member State concerned has provided for those additional categories of personal electronic health data to be accessed and exchanged in accordance with Article 14(1), third subparagraph."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:23/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "By 26 March 2027, the Commission shall, by means of implementing acts, adopt the necessary measures for the technical development of MyHealth@EU, detailed rules concerning the security, confidentiality and protection of personal electronic health data and the conditions for compliance checks necessary to join and remain connected to MyHealth@EU."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:23/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 98(2)."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:23/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure the connection of all healthcare providers to their national contact points for digital health."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:23/p5/s2",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that connected healthcare providers are able to perform two-way exchanges of electronic health data with the national contact point for digital health."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:23/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that pharmacies operating on their territories, including online pharmacies, are able to dispense electronic prescriptions issued in other Member States, under the conditions laid down in Article 11 of Directive 2011/24/EU."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:23/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Pharmacies shall access and accept electronic prescriptions transmitted to them from other Member States through MyHealth@EU, provided that the conditions laid down in Article 11 of Directive 2011/24/EU are fulfilled."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:23/p6/s3",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Following the dispensation of medicinal products based on an electronic prescription from another Member State, the pharmacy concerned shall report through MyHealth@EU such dispensation to the national contact point for digital health of the Member State in which that prescription was issued."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:23/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The national contact points for digital health shall act as joint controllers of the personal electronic health data communicated through MyHealth@EU for the processing operations in which they are involved."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:23/p7/s2",
+   "paragraph": "7",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall act as processor."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:23/p8/s1",
+   "paragraph": "8",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall, by means of implementing acts, lay down the rules regarding the requirements of cybersecurity, technical interoperability, semantic interoperability, operations and service management in relation to the processing by the processor referred to in paragraph 7 of this Article and its responsibilities towards the controllers, in accordance with Chapter IV of Regulation (EU) 2016/679."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:23/p8/s2",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 98(2)."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:23/p9/s1",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The national contact points for digital health shall fulfil the conditions to join and to remain connected to MyHealth@EU as laid down in the implementing acts referred to in paragraph"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:23/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The compliance of the national contact points for digital health with those conditions shall be verified by the Commission through compliance checks."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:23",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

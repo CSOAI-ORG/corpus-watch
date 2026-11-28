@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CA-PIPEDA-2000:sch1-4.5",
+ "label": "CA-PIPEDA-2000 Schedule 1, clause 4.5",
+ "instrument": "CA-PIPEDA-2000",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "4941e50b44b79b06ffa0b7030551053f5aa97eb501767f3ddae800f0e71b1944",
+ "sha256_v1": "",
+ "sha256_v2": "4941e50b44b79b06ffa0b7030551053f5aa97eb501767f3ddae800f0e71b1944",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CA",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "4941e50b44b79b06ffa0b7030551053f5aa97eb501767f3ddae800f0e71b1944",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CA-PIPEDA-2000:sch1-4.5/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "4.5 Principle 5 —Limiting Use, Disclosure, and Retention Personal information shall not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law."
+  },
+  {
+   "obligation_id": "CA-PIPEDA-2000:sch1-4.5/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Personal information shall be retained only as long as necessary for the fulfilment of those purposes. 4.5.1 Organizations using personal information for a new purpose shall document this purpose (see Clause 4.2.1). 4.5.2 Organizations should develop guidelines and implement procedures with respect to the retention of personal information."
+  },
+  {
+   "obligation_id": "CA-PIPEDA-2000:sch1-4.5/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Personal information that has been used to make a decision about an individual shall be retained long enough to allow the individual access to the information after the decision has been made."
+  },
+  {
+   "obligation_id": "CA-PIPEDA-2000:sch1-4.5/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Organizations shall develop guidelines and implement procedures to govern the destruction of personal information. 4.5.4 This principle is closely linked to the Consent principle (Clause 4.3), the Identifying Purposes principle (Clause 4.2), and the Individual Access principle (Clause 4.9)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CA-PIPEDA-2000:sch1-4.5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

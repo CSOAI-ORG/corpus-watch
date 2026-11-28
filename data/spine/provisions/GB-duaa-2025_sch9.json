@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:sch9",
+ "label": "GB-duaa-2025 Schedule 9",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "218a11a421ca774c8726d4c21e01cb4b569e70936662bebf1d8b2fd8c6406017",
+ "sha256_v1": "",
+ "sha256_v2": "218a11a421ca774c8726d4c21e01cb4b569e70936662bebf1d8b2fd8c6406017",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "218a11a421ca774c8726d4c21e01cb4b569e70936662bebf1d8b2fd8c6406017",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:sch9/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The UK GDPR: transfers subject to appropriate safeguards\n27\n(1)\nFor the purposes of Article 44A(1)(a) and (2)(b) of the UK GDPR (general principles for transfers of personal data), a transfer of personal data to a third country or an international organisation made on or after the relevant day is made subject to appropriate safeguards where—\n(a)\nthe transfer is made under arrangements entered into before the relevant day,\n(b)\nsafeguards are provided in accordance with paragraph 2 or 3 of Article 46 of the UK GDPR or paragraph 9 of Schedule 21 to the 2018 Act, and\n(c)\nif the transfer had been made immediately before the relevant day, it would have satisfied—\n(i)\nthe condition in Article 46(1)"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:sch9",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

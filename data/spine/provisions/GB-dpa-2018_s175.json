@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s175",
+ "label": "GB-dpa-2018 Section 175",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "4881cb63b6a699e5b29c0f1582bf637589937b9019c1503d9a03c7261a3af1f9",
+ "sha256_v1": "",
+ "sha256_v2": "4881cb63b6a699e5b29c0f1582bf637589937b9019c1503d9a03c7261a3af1f9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "4881cb63b6a699e5b29c0f1582bf637589937b9019c1503d9a03c7261a3af1f9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s175/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\nAs soon as reasonably practicable after receiving an application under subsection (1), the Commission must decide whether, and to what extent, to grant it."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s175/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(3)\nThe Commission must not grant the application unless, in the Commission's opinion, the case involves a matter of substantial public importance."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s175/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(4)\nIf the Commission decides not to provide assistance, the Commission must, as soon as reasonably practicable, notify the applicant of the decision, giving reasons for the decision."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s175/p0/s4",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(5)\nIf the Commission decides to provide assistance, the Commission must—\n(a)\nas soon as reasonably practicable, notify the applicant of the decision, stating the extent of the assistance to be provided, and\n(b)\nsecure that the person against whom the proceedings are, or are to be, brought is informed that the Commission is providing assistance."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s175",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

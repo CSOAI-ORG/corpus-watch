@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-deep-synthesis-provisions-2022:24",
+ "label": "CN-deep-synthesis-provisions-2022 第二十四条",
+ "instrument": "CN-deep-synthesis-provisions-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "600c3681d83bfe67642b967aea53bcf239b8b9062568d2f4acb334dbc8c35853",
+ "sha256_v1": "",
+ "sha256_v2": "600c3681d83bfe67642b967aea53bcf239b8b9062568d2f4acb334dbc8c35853",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "600c3681d83bfe67642b967aea53bcf239b8b9062568d2f4acb334dbc8c35853",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-deep-synthesis-provisions-2022:24/s1",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "第二十四条 深度合成服务提供者和技术支持者从事网络出版服务、网络文化活动和网络视听节目服务的，应当同时符合新闻出版、文化和旅游、广播电视主管部门的规定。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-deep-synthesis-provisions-2022:24",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

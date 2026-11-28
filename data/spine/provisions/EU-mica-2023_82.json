@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:82",
+ "label": "EU-mica-2023 Article 82",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3c195c64e6250e25aae11a32880847515581bf7c49cb4e09219d111ee3d8d717",
+ "sha256_v1": "",
+ "sha256_v2": "3c195c64e6250e25aae11a32880847515581bf7c49cb4e09219d111ee3d8d717",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "3c195c64e6250e25aae11a32880847515581bf7c49cb4e09219d111ee3d8d717",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:82/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers providing transfer services for crypto-assets on behalf of clients shall conclude an agreement with their clients to specify their duties and their responsibilities."
+  },
+  {
+   "obligation_id": "EU-mica-2023:82/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such agreement shall include at least the following:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:82/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ESMA, in close cooperation with EBA, shall issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 for crypto-asset service providers providing transfer services for crypto-assets on behalf of clients as regards procedures and policies, including the rights of clients, in the context of transfer services for crypto-assets."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:82",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

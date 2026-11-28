@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-ai-basic-act-enforcement-decree-2026:9",
+ "label": "KR-ai-basic-act-enforcement-decree-2026 제9조",
+ "instrument": "KR-ai-basic-act-enforcement-decree-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "0ddb644b2c1b9b55910dcbbd816db9ebc5fa1cd9afd13cf606526a0cf38eaeeb",
+ "sha256_v1": "",
+ "sha256_v2": "0ddb644b2c1b9b55910dcbbd816db9ebc5fa1cd9afd13cf606526a0cf38eaeeb",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "0ddb644b2c1b9b55910dcbbd816db9ebc5fa1cd9afd13cf606526a0cf38eaeeb",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:9/s9",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "② 과학기술정보통신부장관은 제1항에 따라 인공지능정책센터를 지정했을 때에는 그 사실을 과학기술정보통신부의 인터넷 홈페이지에 공고해야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-ai-basic-act-enforcement-decree-2026:9",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

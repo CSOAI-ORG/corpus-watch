@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s135",
+ "label": "GB-osa-2023 Section 135",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "cd163755d6a457b1e5c55635c465ab3ac862a01c919299f396678a7d66beea7f",
+ "sha256_v1": "",
+ "sha256_v2": "cd163755d6a457b1e5c55635c465ab3ac862a01c919299f396678a7d66beea7f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "cd163755d6a457b1e5c55635c465ab3ac862a01c919299f396678a7d66beea7f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s135/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nIf OFCOM include in a confirmation decision a requirement to take steps relating to the carrying out of a children’s access assessment of a service, they must require that assessment to be completed within three months of the date of the confirmation decision."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s135/p0/s2",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nOFCOM may include in the confirmation decision given to the provider of the service—\n(a)\na determination that the duties set out in sections 11 and 12, or (as the case may be) sections 28 and 29, must be complied with—\n(i)\nfrom the date of the confirmation decision, or\n(ii)\nfrom a later date specified in that decision;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s135",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

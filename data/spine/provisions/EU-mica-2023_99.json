@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:99",
+ "label": "EU-mica-2023 Article 99",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "a1735fbbcfeac9ceba20ae444cf43f14b972c7df403d391f7e781e2b045a5bee",
+ "sha256_v1": "",
+ "sha256_v2": "a1735fbbcfeac9ceba20ae444cf43f14b972c7df403d391f7e781e2b045a5bee",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a1735fbbcfeac9ceba20ae444cf43f14b972c7df403d391f7e781e2b045a5bee",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:99/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Duty of notification\nMember States shall notify the laws, regulations and administrative provisions implementing this Title, including any relevant criminal law provisions, to the Commission, EBA and ESMA by 30 June 2025."
+  },
+  {
+   "obligation_id": "EU-mica-2023:99/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall notify the Commission, EBA and ESMA without undue delay of any subsequent amendments thereto."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:99",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

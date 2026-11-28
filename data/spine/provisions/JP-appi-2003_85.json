@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:85",
+ "label": "JP-appi-2003 Article 85",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "b8d5e70e12a0d92f2e602a74e672d343ded812c8aa58092eb9a3401bab43924c",
+ "sha256_v1": "",
+ "sha256_v2": "b8d5e70e12a0d92f2e602a74e672d343ded812c8aa58092eb9a3401bab43924c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "b8d5e70e12a0d92f2e602a74e672d343ded812c8aa58092eb9a3401bab43924c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:85/s3",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "この場合においては、移送をした行政機関の長等は、開示請求者に対し、事案を移送した旨を書面により通知しなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:85/s4",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "２ 前項の規定により事案が移送されたときは、移送を受けた行政機関の長等において、当該開示請求についての開示決定等をしなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:85/s7",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "）をしたときは、当該行政機関の長等は、開示の実施をしなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:85/s8",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "この場合において、移送をした行政機関の長等は、当該開示の実施に必要な協力をしなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:85",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

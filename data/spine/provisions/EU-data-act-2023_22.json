@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-data-act-2023:22",
+ "label": "EU-data-act-2023 Article 22",
+ "instrument": "EU-data-act-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "de5c0151ae027e482514b0105fa18e0d6c78e9900a15dc75bbbc4c20d8900e3b",
+ "sha256_v1": "",
+ "sha256_v2": "de5c0151ae027e482514b0105fa18e0d6c78e9900a15dc75bbbc4c20d8900e3b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "de5c0151ae027e482514b0105fa18e0d6c78e9900a15dc75bbbc4c20d8900e3b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-data-act-2023:22/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Public sector bodies, the Commission, the European Central Bank and Union bodies shall cooperate and assist one another, to implement this Chapter in a consistent manner."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:22/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any data exchanged in the context of assistance requested and provided pursuant to paragraph 1 shall not be used in a manner incompatible with the purpose for which they were requested."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:22/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a public sector body intends to request data from a data holder established in another Member State, it shall first notify the competent authority designated pursuant to Article 37 in that Member State of that intention."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:22/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This requirement shall also apply to requests by the Commission, the European Central Bank and Union bodies."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:22/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The request shall be examined by the competent authority of the Member State where the data holder is established."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:22/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "After having examined the request in light of the requirements laid down in Article 17, the relevant competent authority shall, without undue delay, take one of the following actions:"
+  },
+  {
+   "obligation_id": "EU-data-act-2023:22/p4/s2",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The requesting public sector body, the Commission, the European Central Bank and the Union body shall take into account the advice of and the grounds provided by the relevant competent authority pursuant to the first subparagraph before taking any further action such as resubmitting the request, if applicable."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-data-act-2023:22",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

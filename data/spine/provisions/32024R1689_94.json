@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:94",
+ "label": "EU AI Act Art. 94",
+ "instrument": "EU AI Act",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "8d302b79d14fc333e35445ba03f18c3de55d009be27d7ca9c4aa1dbcb3cf8d9f",
+ "sha256_v1": "8d302b79d14fc333e35445ba03f18c3de55d009be27d7ca9c4aa1dbcb3cf8d9f",
+ "sha256_v2": "48d0c32b34556fbdaf55452c26fe5aacce39d2ff7d061a1c069e260f741e584c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "48d0c32b34556fbdaf55452c26fe5aacce39d2ff7d061a1c069e260f741e584c",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:94/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:94",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

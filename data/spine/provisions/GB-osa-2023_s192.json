@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s192",
+ "label": "GB-osa-2023 Section 192",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "2e4f4777e2532b39ee62fcad6c22cab53bccadda57a2cfcdfcdcc13135e921ca",
+ "sha256_v1": "",
+ "sha256_v2": "2e4f4777e2532b39ee62fcad6c22cab53bccadda57a2cfcdfcdcc13135e921ca",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "2e4f4777e2532b39ee62fcad6c22cab53bccadda57a2cfcdfcdcc13135e921ca",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s192/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nIn making such judgements, the approach to be followed is whether a provider has reasonable grounds to infer that content is content of the kind in question (and a provider must treat content as content of the kind in question if reasonable grounds for that inference exist)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s192",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

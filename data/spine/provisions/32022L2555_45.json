@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022L2555:45",
+ "label": "NIS2 Directive Art. 45",
+ "instrument": "NIS2 Directive",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "b4c2208b11ee242aac4bdc7be811e29bc56d0585fb041e095434565af56bff2f",
+ "sha256_v1": "b4c2208b11ee242aac4bdc7be811e29bc56d0585fb041e095434565af56bff2f",
+ "sha256_v2": "12b33073c3bb969f08d1cf9530ccf7aaee3c6add41f71a4de04b8f7915c9287a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "12b33073c3bb969f08d1cf9530ccf7aaee3c6add41f71a4de04b8f7915c9287a",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022L2555:45/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 45 entry into force",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022L2555:45",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

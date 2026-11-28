@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:30",
+ "label": "EU-eudpr-2018 Article 30",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "0aae653b29ba236d5893e3c3df1fc448ef8fc2c9b173b022dcc17ef648f32212",
+ "sha256_v1": "",
+ "sha256_v2": "0aae653b29ba236d5893e3c3df1fc448ef8fc2c9b173b022dcc17ef648f32212",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "0aae653b29ba236d5893e3c3df1fc448ef8fc2c9b173b022dcc17ef648f32212",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:30/p0/s1",
+   "paragraph": "0",
+   "addressee": "processor",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Processing under the authority of the controller or processor\nThe processor and any person acting under the authority of the controller or of the processor, who has access to personal data, shall not process those data except on instructions from the controller, unless required to do so by Union or Member State law."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:30",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

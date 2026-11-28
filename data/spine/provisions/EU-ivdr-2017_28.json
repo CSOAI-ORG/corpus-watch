@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:28",
+ "label": "EU-ivdr-2017 Article 28",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "d2158a5599ef4f01e2785c55c71cbbea6ca0258e7f7758b13549ea733876a561",
+ "sha256_v1": "",
+ "sha256_v2": "d2158a5599ef4f01e2785c55c71cbbea6ca0258e7f7758b13549ea733876a561",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "NOISE",
+ "change_edits": null,
+ "sha256_current": "d2158a5599ef4f01e2785c55c71cbbea6ca0258e7f7758b13549ea733876a561",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:28/p1/s1",
+   "paragraph": "1",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Before placing a device on the market, manufacturers, authorised representatives and importers shall, in order to register, submit to the electronic system referred to in Article 30 the information referred to in Section 1 of Part A of Annex VI, provided that they have not already registered in accordance with this Article."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:28/p1/s2",
+   "paragraph": "1",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "In cases where the conformity assessment procedure requires the involvement of a notified body pursuant to Article 48, the information referred to in Section 1 of Part A of Annex VI shall be provided to that electronic system before applying to the notified body."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:28/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "After having verified the data entered pursuant to paragraph 1, the competent authority shall obtain a single registration number (‘SRN’) from the electronic system referred to in Article 27 and issue it to the manufacturer, the authorised representative or the importer."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:28/p3/s1",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "The manufacturer shall use the SRN when applying to a notified body for conformity assessment and for accessing Eudamed in order to fulfil its obligations under Article 26."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:28/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Within one week of any change occurring in relation to the information referred to in paragraph 1 of this Article, the economic operator shall update the data in the electronic system referred to in Article 27."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:28/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Not later than one year after submission of the information in accordance with paragraph 1, and every second year thereafter, the economic operator shall confirm the accuracy of the data."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:28/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Without prejudice to the economic operator's responsibility for the data, the competent authority shall verify the confirmed data referred to in Section 1 of Part A of Annex VI."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:28/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The data entered pursuant to paragraph 1 of this Article in the electronic system referred to in Article 27 shall be accessible to the public."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:28",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

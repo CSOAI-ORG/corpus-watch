@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-FDA-PCCP-AI-DSF-2025:sec-III",
+ "label": "US-FDA-PCCP-AI-DSF-2025 III. Scope",
+ "instrument": "US-FDA-PCCP-AI-DSF-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7c66cc3927b58ad7e78225ae6244ffbe1539c8f3767748b6a39f7978578d4974",
+ "sha256_v1": "",
+ "sha256_v2": "7c66cc3927b58ad7e78225ae6244ffbe1539c8f3767748b6a39f7978578d4974",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 20,
+ "sha256_current": "7c66cc3927b58ad7e78225ae6244ffbe1539c8f3767748b6a39f7978578d4974",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-FDA-PCCP-AI-DSF-2025:sec-III/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The De Novo pathway, therefore, allows FDA to develop special controls that subject to 510(k) requirements, in making a determination of substantial equivalence where the predicate device was authorized with a PCCP, the subject device must be compared to the version of the predicate device cleared or approved prior to changes made under the PCCP.27 Generally, the recommendations in this guidance apply to the device constituent28 part of deviceled29 combination products,30 when the device constituent part includes an AI-DSF."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-FDA-PCCP-AI-DSF-2025:sec-III",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

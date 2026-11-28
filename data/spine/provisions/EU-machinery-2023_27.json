@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-machinery-2023:27",
+ "label": "EU-machinery-2023 Article 27",
+ "instrument": "EU-machinery-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a705e18000e020f714395e991e560b53cc9505358535aae8210e6a198a64438f",
+ "sha256_v1": "",
+ "sha256_v2": "a705e18000e020f714395e991e560b53cc9505358535aae8210e6a198a64438f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a705e18000e020f714395e991e560b53cc9505358535aae8210e6a198a64438f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-machinery-2023:27/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall designate a notifying authority that shall be responsible for setting up and carrying out the necessary procedures for the assessment and notification of conformity assessment bodies and the monitoring of notified bodies, including compliance with Article 32."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:27/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States may decide that the assessment and monitoring referred to in paragraph 1 shall be carried out by a national accreditation body, as defined in Regulation (EC) No 765/2008 in accordance with that Regulation."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:27/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the notifying authority delegates or otherwise entrusts the assessment, notification or monitoring referred to in paragraph 1 to a body, which is not a governmental entity, that body shall be a legal entity and shall comply mutatis mutandis with the requirements laid down in Article"
+  },
+  {
+   "obligation_id": "EU-machinery-2023:27/p28/s1",
+   "paragraph": "28",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In addition, that body shall have arrangements in place to cover liabilities arising out of its activities."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:27/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notifying authority shall take full responsibility for the tasks performed by the body referred to in paragraph 3."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-machinery-2023:27",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

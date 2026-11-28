@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-pipl-2021:2",
+ "label": "CN-pipl-2021 第二条",
+ "instrument": "CN-pipl-2021",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f2fb68211fe2cd18b831b7aa10a4ea346263aa08dfd3e331398df9d165aad932",
+ "sha256_v1": "",
+ "sha256_v2": "f2fb68211fe2cd18b831b7aa10a4ea346263aa08dfd3e331398df9d165aad932",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "f2fb68211fe2cd18b831b7aa10a4ea346263aa08dfd3e331398df9d165aad932",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-pipl-2021:2/s1",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "第二条　自然人的个人信息受法律保护，任何组织、个人不得侵害自然人的个人信息权益。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-pipl-2021:2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

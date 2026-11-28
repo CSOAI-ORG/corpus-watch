@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-led-2016:34",
+ "label": "EU-led-2016 Article 34",
+ "instrument": "EU-led-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "b781e826b360c0987dde28dd8c37986b4125dd0d3e1a9ef930e18dcb657aa24e",
+ "sha256_v1": "",
+ "sha256_v2": "b781e826b360c0987dde28dd8c37986b4125dd0d3e1a9ef930e18dcb657aa24e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "b781e826b360c0987dde28dd8c37986b4125dd0d3e1a9ef930e18dcb657aa24e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-led-2016:34/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Tasks of the data protection officer\nMember States shall provide for the controller to entrust the data protection officer at least with the following tasks:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-led-2016:34",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

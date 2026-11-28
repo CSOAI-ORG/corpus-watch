@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:41",
+ "label": "JP-appi-2003 Article 41",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "438c8f5f805a4b77cd7e383803238fa4f4919956669ac20866f0439ebaa61b4d",
+ "sha256_v1": "",
+ "sha256_v2": "438c8f5f805a4b77cd7e383803238fa4f4919956669ac20866f0439ebaa61b4d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "438c8f5f805a4b77cd7e383803238fa4f4919956669ac20866f0439ebaa61b4d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:41/s4",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "）を作成するときは、他の情報と照合しない限り特定の個人を識別することができないようにするために必要なものとして個人情報保護委員会規則で定める基準に従い、個人情報を加工しなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:41/s7",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "）を取得したときは、削除情報等の漏えいを防止するために必要なものとして個人情報保護委員会規則で定める基準に従い、削除情報等の安全管理のための措置を講じなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:41/s12",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "）を取り扱ってはならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:41/s14",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "５ 仮名加工情報取扱事業者は、仮名加工情報である個人データ及び削除情報等を利用する必要がなくなったときは、当該個人データ及び削除情報等を遅滞なく消去するよう努めなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:41/s16",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "６ 仮名加工情報取扱事業者は、第二十七条第一項及び第二項並びに第二十八条第一項の規定にかかわらず、法令に基づく場合を除くほか、仮名加工情報である個人データを第三者に提供してはならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:41/s18",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "prohibition",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ja:internal-record",
+   "status": "DRAFT",
+   "text": "７ 仮名加工情報取扱事業者は、仮名加工情報を取り扱うに当たっては、当該仮名加工情報の作成に用いられた個人情報に係る本人を識別するために、当該仮名加工情報を他の情報と照合してはならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:41/s20",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "）を用いて送信し、又は住居を訪問するために、当該仮名加工情報に含まれる連絡先その他の情報を利用してはならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:41",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

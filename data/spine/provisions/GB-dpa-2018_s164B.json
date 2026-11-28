@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s164B",
+ "label": "GB-dpa-2018 Section 164B",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "122ed1f120c3596374b430823879a0453bed1cf9bbb530970a283213f4eb83c7",
+ "sha256_v1": "",
+ "sha256_v2": "122ed1f120c3596374b430823879a0453bed1cf9bbb530970a283213f4eb83c7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "122ed1f120c3596374b430823879a0453bed1cf9bbb530970a283213f4eb83c7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s164B/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nRegulations under this section may provide that a controller is required to make a notification to the Commission in respect of a period only in circumstances specified in the regulations."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s164B/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nThe matters are—\n(a)\nthe form and manner in which a notification must be made,\n(b)\nthe time at which, or period within which, a notification must be made, and\n(c)\nhow the number of complaints made to a controller during a period is to be calculated."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s164B",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

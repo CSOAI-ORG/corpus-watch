@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s81",
+ "label": "GB-dpa-2018 Section 81",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "342b706c66e668ca628071ab52764033cecb4e0081c8aea6fa03d0abb437f6a2",
+ "sha256_v1": "",
+ "sha256_v2": "342b706c66e668ca628071ab52764033cecb4e0081c8aea6fa03d0abb437f6a2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "342b706c66e668ca628071ab52764033cecb4e0081c8aea6fa03d0abb437f6a2",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s81/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Reporting of infringements\n(1)\nEach controller must implement effective mechanisms to encourage the reporting of an infringement of this Part."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s81/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nThe mechanisms implemented under subsection (1) must provide that an infringement may be reported to any of the following persons—\n(a)\nthe controller;"
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s81/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nThe mechanisms implemented under subsection (1) must include—\n(a)\nraising awareness of the protections provided by Part 4A of the Employment Rights Act 1996 and Part 5A of the Employment Rights (Northern Ireland) Order 1996 (S.I. 1996/1919 (N.I. 16)), and\n(b)\nsuch other protections for a person who reports an infringement of this Part as the controller considers appropriate."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s81",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

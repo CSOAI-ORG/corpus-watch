@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-42USC12111-ADA-TitleI-1990:s12115",
+ "label": "US-42USC12111-ADA-TitleI-1990 42 U.S.C. 12115",
+ "instrument": "US-42USC12111-ADA-TitleI-1990",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "718d15241de353e556a6078625cfdea4ef1240f11c29194d936ab15e4d5fde09",
+ "sha256_v1": "",
+ "sha256_v2": "718d15241de353e556a6078625cfdea4ef1240f11c29194d936ab15e4d5fde09",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "718d15241de353e556a6078625cfdea4ef1240f11c29194d936ab15e4d5fde09",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-42USC12111-ADA-TitleI-1990:s12115/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Posting notices\nEvery employer, employment agency, labor organization, or joint labor-management committee covered under this subchapter shall post notices in an accessible format to applicants, employees, and members describing the applicable provisions of this chapter, in the manner prescribed by section 2000e–10 of this title."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-42USC12111-ADA-TitleI-1990:s12115",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

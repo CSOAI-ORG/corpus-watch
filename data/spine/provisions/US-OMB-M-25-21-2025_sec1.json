@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-OMB-M-25-21-2025:sec1",
+ "label": "US-OMB-M-25-21-2025 Section 1",
+ "instrument": "US-OMB-M-25-21-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e3a2caee723f8161c097698390c4f840cb00da20120aabb28d1aa050a9bcb678",
+ "sha256_v1": "",
+ "sha256_v2": "e3a2caee723f8161c097698390c4f840cb00da20120aabb28d1aa050a9bcb678",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "e3a2caee723f8161c097698390c4f840cb00da20120aabb28d1aa050a9bcb678",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Agencies must continue to comply with applicable law and 0MB policies in other domains relevant to AI, and must continue to coordinate compliance across the agency with all appropriate officials."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-OMB-M-25-21-2025:sec1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

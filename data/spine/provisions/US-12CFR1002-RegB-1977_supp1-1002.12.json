@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-12CFR1002-RegB-1977:supp1-1002.12",
+ "label": "US-12CFR1002-RegB-1977 Supplement I, Section 1002.12—Record Retention",
+ "instrument": "US-12CFR1002-RegB-1977",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a7a6ed372348a0dee1929cd4622551016b621305a46cfe993161e368b6351958",
+ "sha256_v1": "",
+ "sha256_v2": "a7a6ed372348a0dee1929cd4622551016b621305a46cfe993161e368b6351958",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a7a6ed372348a0dee1929cd4622551016b621305a46cfe993161e368b6351958",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.12/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the transaction is subject to § 1002.13 or the creditor is collecting information pursuant to § 1002.5(a)(4), however, the creditor is required to enter and retain the data on personal characteristics in order to comply with the requirements of that section."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.12/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Creditors are required to retain information about the scope of the self-test, the methodology used and time period covered by the self-test, the report or results of the self-test including any analysis or conclusions, and any corrective action taken in response to the self-test. 12(b)(7) Preapplication Marketing Information"
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.12/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A creditor must retain the list of criteria used to select potential recipients."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-12CFR1002-RegB-1977:supp1-1002.12",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

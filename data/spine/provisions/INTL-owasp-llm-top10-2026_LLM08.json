@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-owasp-llm-top10-2026:LLM08",
+ "label": "INTL-owasp-llm-top10-2026 LLM08",
+ "instrument": "INTL-owasp-llm-top10-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6cadae601681f7c35ce6e66cf0ab3994cffc5c6f9b3fb53e2330577370b331ae",
+ "sha256_v1": "",
+ "sha256_v2": "6cadae601681f7c35ce6e66cf0ab3994cffc5c6f9b3fb53e2330577370b331ae",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "6cadae601681f7c35ce6e66cf0ab3994cffc5c6f9b3fb53e2330577370b331ae",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-owasp-llm-top10-2026:LLM08/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For example, a tool description provided through an internal-facing MCP server may indicate that a user must have the developer role in order to use it, or that a user with a certain role can access a list of documents to search with RAG."
+  },
+  {
+   "obligation_id": "INTL-owasp-llm-top10-2026:LLM08/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Enforce Authorization and Access Control Independently from the LLM\n\nCritical controls such as privilege separation, authorization bounds checks, and similar must not be delegated to the LLM, whether through the system prompt or another mechanism."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-owasp-llm-top10-2026:LLM08",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

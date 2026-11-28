@@ -1,0 +1,126 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:76",
+ "label": "EU-ivdr-2017 Article 76",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "08484d8588e08c9a91a399096af8f6a1652b0961c31f0f462d011e351f9fc54b",
+ "sha256_v1": "",
+ "sha256_v2": "08484d8588e08c9a91a399096af8f6a1652b0961c31f0f462d011e351f9fc54b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "08484d8588e08c9a91a399096af8f6a1652b0961c31f0f462d011e351f9fc54b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:76/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The sponsor shall fully record all of the following:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:76/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The sponsor shall report without delay to all Member States in which a performance study is being conducted all of the following by means of the electronic system referred to in Article 69:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:76/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The period for reporting shall take account of the severity of the event."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:76/p2/s3",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Upon request by any Member State in which the performance study is being conducted, the sponsor shall provide all information referred to in paragraph 1."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:76/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The sponsor shall also report to the Member States in which the performance study is being conducted any event referred to in paragraph 2 of this Article that occurred in third countries in which a performance study is performed under the same clinical performance study plan as the one applying to a performance study covered by this Regulation by means of the electronic system referred to in Article 69."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:76/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the case of a performance study for which the sponsor has used the single application referred to in Article 74, the sponsor shall report any event as referred to in paragraph 2 of this Article by means of the electronic system referred to in Article"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:76/p69/s1",
+   "paragraph": "69",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Upon receipt, this report shall be transmitted electronically to all Member States in which the performance study is being conducted."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:76/p69/s2",
+   "paragraph": "69",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Under the direction of the coordinating Member State referred to in Article 74(2), the Member States shall coordinate their assessment of serious adverse events and device deficiencies to determine whether to modify, suspend or terminate the performance study or whether to revoke the authorisation for that performance study."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:76/p69/s3",
+   "paragraph": "69",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "This paragraph shall not affect the rights of the other Member States to perform their own evaluation and to adopt measures in accordance with this Regulation in order to ensure the protection of public health and patient safety."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:76/p69/s4",
+   "paragraph": "69",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The coordinating Member State and the Commission shall be kept informed of the outcome of any such evaluation and the adoption of any such measures."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:76",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

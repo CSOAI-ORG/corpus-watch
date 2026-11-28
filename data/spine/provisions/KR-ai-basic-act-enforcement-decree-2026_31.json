@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-ai-basic-act-enforcement-decree-2026:31",
+ "label": "KR-ai-basic-act-enforcement-decree-2026 제31조",
+ "instrument": "KR-ai-basic-act-enforcement-decree-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "5ea330020ee77672b0cd37cddd85c49d24f41492b21d3ca05d323f6718adc9d7",
+ "sha256_v1": "",
+ "sha256_v2": "5ea330020ee77672b0cd37cddd85c49d24f41492b21d3ca05d323f6718adc9d7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "5ea330020ee77672b0cd37cddd85c49d24f41492b21d3ca05d323f6718adc9d7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:31/s14",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "④ 과학기술정보통신부장관은 제2항 및 제3항에 따라 업무를 위탁한 경우에는 위탁받은 기관 또는 단체와 위탁하는 업무의 내용을 과학기술정보통신부의 인터넷 홈페이지에 공고해야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-ai-basic-act-enforcement-decree-2026:31",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

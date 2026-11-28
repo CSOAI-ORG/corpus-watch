@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-29CFR1607-UGESP-1978:1607.16",
+ "label": "US-29CFR1607-UGESP-1978 29 CFR 1607.16",
+ "instrument": "US-29CFR1607-UGESP-1978",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "5db0e76aef0415b376bd64553972b7c582be4385cc4c16e56005ab7659f7fae1",
+ "sha256_v1": "",
+ "sha256_v2": "5db0e76aef0415b376bd64553972b7c582be4385cc4c16e56005ab7659f7fae1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "5db0e76aef0415b376bd64553972b7c582be4385cc4c16e56005ab7659f7fae1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-29CFR1607-UGESP-1978:1607.16/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-29CFR1607-UGESP-1978:1607.16",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

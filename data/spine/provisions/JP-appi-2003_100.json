@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:100",
+ "label": "JP-appi-2003 Article 100",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "8fce9ed9f37be9884af3dc6fb7f1fb10c8cc36b634eb4ee1f48afb0c357bef62",
+ "sha256_v1": "",
+ "sha256_v2": "8fce9ed9f37be9884af3dc6fb7f1fb10c8cc36b634eb4ee1f48afb0c357bef62",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8fce9ed9f37be9884af3dc6fb7f1fb10c8cc36b634eb4ee1f48afb0c357bef62",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:100/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "行政機関の長等は、利用停止請求があった場合において、当該利用停止請求に理由があると認めるときは、当該行政機関の長等の属する行政機関等における個人情報の適正な取扱いを確保するために必要な限度で、当該利用停止請求に係る保有個人情報の利用停止をしなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:100",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

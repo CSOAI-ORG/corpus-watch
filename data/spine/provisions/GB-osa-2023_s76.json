@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s76",
+ "label": "GB-osa-2023 Section 76",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "53d56c4b5839115a27efe3a9e72fd14da4937b8498c4b218563c887eb88546de",
+ "sha256_v1": "",
+ "sha256_v2": "53d56c4b5839115a27efe3a9e72fd14da4937b8498c4b218563c887eb88546de",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "53d56c4b5839115a27efe3a9e72fd14da4937b8498c4b218563c887eb88546de",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s76/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "OFCOM’s guidance about duties set out in section 75\n(1)\nOFCOM must produce guidance for providers of relevant services to assist them in complying with their duties set out in section 75."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s76/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(2)\nOFCOM must publish the guidance (and any revised or replacement guidance)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s76",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

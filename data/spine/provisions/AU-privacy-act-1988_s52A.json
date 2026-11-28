@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s52A",
+ "label": "AU-privacy-act-1988 Section 52A",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ee89d5c359179ddc87e87bfdd082eeaf78c8bb98f2d684807dbaf44c130ec73c",
+ "sha256_v1": "",
+ "sha256_v2": "ee89d5c359179ddc87e87bfdd082eeaf78c8bb98f2d684807dbaf44c130ec73c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "ee89d5c359179ddc87e87bfdd082eeaf78c8bb98f2d684807dbaf44c130ec73c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s52A/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "52A  Determination—requirement to notify conduct constituting interference with privacy of individual\n(1)\tIf a determination under section 52 includes a declaration mentioned in subparagraph 52(1)(b)(iia) or paragraph 52(1A)(ba), the respondent must, within 14 days after receiving the determination (or such longer period as the Commissioner allows):"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s52A/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\tThe matters specified by the Commissioner for the purposes of subsection (1) must be reasonable and appropriate."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s52A",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

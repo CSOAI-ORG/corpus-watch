@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-UT-HB276-AImodifications-2026:Section-7",
+ "label": "US-UT-HB276-AImodifications-2026 Section 7",
+ "instrument": "US-UT-HB276-AImodifications-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "182483c523bd824f017dd5a75b9cfb6575f8dc424e158535294ceff3da4c58e1",
+ "sha256_v1": "",
+ "sha256_v2": "182483c523bd824f017dd5a75b9cfb6575f8dc424e158535294ceff3da4c58e1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "182483c523bd824f017dd5a75b9cfb6575f8dc424e158535294ceff3da4c58e1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-UT-HB276-AImodifications-2026:Section-7/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "(1) A generation service shall take reasonable measures to inform users that:"
+  },
+  {
+   "obligation_id": "US-UT-HB276-AImodifications-2026:Section-7/p7/s2",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2) A generation service shall clearly and conspicuously provide to users procedures for reporting violations to the generation service."
+  },
+  {
+   "obligation_id": "US-UT-HB276-AImodifications-2026:Section-7/p7/s3",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(3) A generation service shall publish in a clear and conspicuous location on the generation service's website or primary user interface:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-UT-HB276-AImodifications-2026:Section-7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

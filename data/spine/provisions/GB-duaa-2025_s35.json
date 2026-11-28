@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s35",
+ "label": "GB-duaa-2025 Section 35",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3ef3717c5a8c35397012bdf399a4108f8f9c2be44b801acd03402880be75a2ec",
+ "sha256_v1": "",
+ "sha256_v2": "3ef3717c5a8c35397012bdf399a4108f8f9c2be44b801acd03402880be75a2ec",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "3ef3717c5a8c35397012bdf399a4108f8f9c2be44b801acd03402880be75a2ec",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s35/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nThe Secretary of State must amend the DVS register to record that the person is also registered in respect of the additional services referred to in subsection (1)."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s35/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nFor the purposes of subsection (1)(c), a certificate is to be ignored if—\n(a)\nit has expired in accordance with its terms,\n(b)\nit has been withdrawn by the body that issued it, or\n(c)\nit is required to be ignored by reason of provision included in the DVS trust framework under section 28(8)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s35",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

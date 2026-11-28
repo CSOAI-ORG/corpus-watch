@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-mhra-samd-change-programme-roadmap:wp-4-post-market",
+ "label": "GB-mhra-samd-change-programme-roadmap section wp-4-post-market",
+ "instrument": "GB-mhra-samd-change-programme-roadmap",
+ "ladder": "HASH_ONLY",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f8c438e513a600a7018cb96284fc3ae8b8ffec84c808ad846610a0322d51eaea",
+ "sha256_v1": "",
+ "sha256_v2": "",
+ "source_state": "UNKNOWN",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-mhra-samd-change-programme-roadmap:wp-4-post-market/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "What constitutes a reportable adverse incident, emphasising ‘indirect harm’ in the context of SaMD use\nThe requirements for reporting,providing an overview of different examples of reportable incidents\nEmphasise that harm may occur because of a medical decision, action taken or not taken based on the information or results provided by the device\nIndication of appropriate next steps, depending on the incident in question, for instance, how to report the incident to MHRA\nEmphasis on ensuring populations within the intended purpose are considered within the vigilance process\nWP4-03 Regulatory Guidance\nChange management for SaMD\nChange management requirements and how they apply to SaMD must be c"
+  },
+  {
+   "obligation_id": "GB-mhra-samd-change-programme-roadmap:wp-4-post-market/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, this expansion in the intended purpose of a device must be supported by corresponding expansion in clinical evidence, proper documentation, and reporting."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-mhra-samd-change-programme-roadmap:wp-4-post-market",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

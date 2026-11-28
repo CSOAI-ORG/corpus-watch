@@ -1,0 +1,146 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-ico-ai-data-protection-guidance:how-do-we-ensure-individual-rights-in-ou",
+ "label": "GB-ico-ai-data-protection-guidance How do we ensure individual rights in our AI systems?",
+ "instrument": "GB-ico-ai-data-protection-guidance",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "a5a59d058d8af169d7bf165c1da5616f8fc548812cf09ca079f326fe297e8eae",
+ "sha256_v1": "",
+ "sha256_v2": "a5a59d058d8af169d7bf165c1da5616f8fc548812cf09ca079f326fe297e8eae",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a5a59d058d8af169d7bf165c1da5616f8fc548812cf09ca079f326fe297e8eae",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-do-we-ensure-individual-rights-in-ou/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When procuring an AI service, you must choose one which allows individual rights to be protected and enabled, in order to meet your obligations as a controller."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-do-we-ensure-individual-rights-in-ou/p0/s2",
+   "paragraph": "0",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If you are operating as a controller, your contract with the processor must stipulate that the processor assist you in responding to rights requests."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-do-we-ensure-individual-rights-in-ou/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Right to be informed\nYou must inform individuals if their personal data is going to be used to train an AI system, to ensure that processing is fair and transparent."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-do-we-ensure-individual-rights-in-ou/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Under Articles 13 (2)(f) and 14 (2)(g), you must tell people whose data you are processing that you are doing so for automated decision-making and give them “meaningful information about the logic involved, as well as the significance and the envisaged consequences” of the processing for them."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-do-we-ensure-individual-rights-in-ou/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Under Article 15 (2)(h) you must also tell them about this if they submit a subject access request."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-do-we-ensure-individual-rights-in-ou/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Human intervention should involve a review of the decision, which must be carried out by someone with the appropriate authority and capability to change that decision."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-do-we-ensure-individual-rights-in-ou/p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Note that if you are using automated decision making, as well as implementing suitable safeguards, you must also have a suitable lawful basis."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-do-we-ensure-individual-rights-in-ou/p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The key considerations are:\nhuman reviewers must be involved in checking the system’s recommendation and should not just apply the automated recommendation to an individual in a routine fashion;\nreviewers’ involvement must be active and not just a token gesture."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-do-we-ensure-individual-rights-in-ou/p0/s9",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "They should have actual ‘meaningful’ influence on the decision, including the ‘authority and competence’ to go against the recommendation; and\nreviewers must ‘weigh-up’ and ‘interpret’ the recommendation, consider all available input data, and also take into account other additional factors."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-do-we-ensure-individual-rights-in-ou/p22/s1",
+   "paragraph": "22",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "You must also ensure clear lines of accountability and effective risk management policies are in place from the outset."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-do-we-ensure-individual-rights-in-ou/p22/s2",
+   "paragraph": "22",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "You must think about what features you expect the AI system to consider and which additional factors the human reviewers should take into account before finalising their decision."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-do-we-ensure-individual-rights-in-ou/p22/s3",
+   "paragraph": "22",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those in charge of designing the front-end interface of an AI system must understand the needs, thought processes, and behaviours of human reviewers and allow them to effectively intervene."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-ico-ai-data-protection-guidance:how-do-we-ensure-individual-rights-in-ou",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

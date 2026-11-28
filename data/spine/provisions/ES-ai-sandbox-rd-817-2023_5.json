@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "ES-ai-sandbox-rd-817-2023:5",
+ "label": "ES-ai-sandbox-rd-817-2023 Artículo 5",
+ "instrument": "ES-ai-sandbox-rd-817-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "1b2b0fe68f3c0376bbaa6236815164c444c5e87aadddfa4acd8b813c220cc807",
+ "sha256_v1": "",
+ "sha256_v2": "1b2b0fe68f3c0376bbaa6236815164c444c5e87aadddfa4acd8b813c220cc807",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "ES",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "1b2b0fe68f3c0376bbaa6236815164c444c5e87aadddfa4acd8b813c220cc807",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:5/s9",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A la vez, dichos sistemas de inteligencia artificial deben haber alcanzado un nivel de desarrollo suficientemente avanzado como para poder comercializarse o ponerse en servicio dentro del marco temporal del entorno controlado de pruebas o a su finalización."
+  },
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:5/s11",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "En su caso, para aquellos sistemas de inteligencia artificial que hagan uso o tratamiento de datos personales deberán cumplir la normativa de protección de datos recogida en el artículo 16 del presente real decreto.\n6."
+  },
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:5/s12",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Los sistemas de inteligencia artificial propuestos por los proveedores IA solicitantes no podrán estar incluidos en los siguientes supuestos:\na) Sistemas de inteligencia artificial comercializados o puestos en servicio para actividades militares, de defensa o seguridad nacional, cualquiera que sea la entidad que desarrolle esas actividades.\nb) Sistemas de inteligencia artificial que se sirvan de técnicas subliminales que trasciendan la consciencia de una persona con el objetivo o el efecto de alterar efectivamente su comportamiento de un modo que provoque o pueda provocar, con probabilidad razonable, perjuicios físicos o psicológicos a esa persona o a otra.\nc) Sistemas de inteligencia artifi"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=ES-ai-sandbox-rd-817-2023:5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

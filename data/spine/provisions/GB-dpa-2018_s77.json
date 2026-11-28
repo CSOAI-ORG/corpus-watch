@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s77",
+ "label": "GB-dpa-2018 Section 77",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ef257b9e3dae39fff7bab9ae909613538130763e56f65c8463851f0aa608c02e",
+ "sha256_v1": "",
+ "sha256_v2": "ef257b9e3dae39fff7bab9ae909613538130763e56f65c8463851f0aa608c02e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ef257b9e3dae39fff7bab9ae909613538130763e56f65c8463851f0aa608c02e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s77/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\nWhere personal data is transferred to a person in a third country in reliance on section 73(4)(b), the transferring controller must inform a relevant authority in that third country without undue delay of the transfer, unless this would be ineffective or inappropriate."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s77/p0/s2",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(7)\nThe transferring controller must—\n(a)\ndocument any transfer to a recipient in a third country that takes place in reliance on section 73(4)(b), and\n(b)\ninform the Commission about the transfer."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s77",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

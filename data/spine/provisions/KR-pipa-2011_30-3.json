@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-pipa-2011:30-3",
+ "label": "KR-pipa-2011 제30조의3",
+ "instrument": "KR-pipa-2011",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "70fd1dca572d9919506fed8a3bd9bf470e2ff6f0f43d5eba76ad888094ef7f29",
+ "sha256_v1": "",
+ "sha256_v2": "70fd1dca572d9919506fed8a3bd9bf470e2ff6f0f43d5eba76ad888094ef7f29",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "70fd1dca572d9919506fed8a3bd9bf470e2ff6f0f43d5eba76ad888094ef7f29",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-pipa-2011:30-3/s1",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ko:internal-record",
+   "status": "DRAFT",
+   "text": "제30조의3(사업주 또는 대표자의 책임) 개인정보처리자의 사업주 또는 대표자는 개인정보의 안전한 처리 및 정보주체의 권리 보호에 대한 최종적인 책임자로서 개인정보 보호에 필요한 전문 인력과 충분한 예산의 지원 등 총괄적인 관리 조치를 실효성 있게 하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-pipa-2011:30-3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

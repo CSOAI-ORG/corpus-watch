@@ -1,0 +1,58 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:71",
+ "label": "GDPR Art. 71",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "1c389419db3fc9d77bb6a7ef71b1af9318ca818e58e55d2b2cb185700945d9d6",
+ "sha256_v1": "1c389419db3fc9d77bb6a7ef71b1af9318ca818e58e55d2b2cb185700945d9d6",
+ "sha256_v2": "a69fc4530ece8a9b61d6f6ae74ed4d5bed7231b77643e6706c67c9d8b70f9fd9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "a69fc4530ece8a9b61d6f6ae74ed4d5bed7231b77643e6706c67c9d8b70f9fd9",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:71/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Board shall draw up an annual report regarding the protection of natural persons with regard to processing in the Union and, where relevant, in third countries and international organisations."
+  },
+  {
+   "obligation_id": "32016R0679:71/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The report shall be made public and be transmitted to the European Parliament, to the Council and to the Commission."
+  },
+  {
+   "obligation_id": "32016R0679:71/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The annual report shall include a review of the practical application of the guidelines, recommendations and best practices referred to in point (l) of Article 70(1) as well as of the binding decisions referred to in Article 65."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:71",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:52",
+ "label": "EU-ivdr-2017 Article 52",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7279e53bffb3886d91282af9997042548a39682981453a8b75f520ed89d205be",
+ "sha256_v1": "",
+ "sha256_v2": "7279e53bffb3886d91282af9997042548a39682981453a8b75f520ed89d205be",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "7279e53bffb3886d91282af9997042548a39682981453a8b75f520ed89d205be",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:52/p0/s1",
+   "paragraph": "0",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Electronic system on notified bodies and on certificates of conformity\nFor the purposes of this Regulation, the following information shall be collated and processed pursuant to Article 57 of Regulation (EU) 2017/745 in the electronic system set up in accordance with that Article:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:52",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

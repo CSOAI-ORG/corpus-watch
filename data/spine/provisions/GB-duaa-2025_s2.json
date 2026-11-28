@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s2",
+ "label": "GB-duaa-2025 Section 2",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "59960441fd8584b8cc8e8fcb92cf7dd9c2b7383a72a03935647bd39905f57bdc",
+ "sha256_v1": "",
+ "sha256_v2": "59960441fd8584b8cc8e8fcb92cf7dd9c2b7383a72a03935647bd39905f57bdc",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "59960441fd8584b8cc8e8fcb92cf7dd9c2b7383a72a03935647bd39905f57bdc",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s2/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nIn deciding whether to make regulations under this section, the Secretary of State or the Treasury must have regard to (among other things)—\n(a)\nthe likely effects for existing and future customers,\n(b)\nthe likely effects for data holders,\n(c)\nthe likely effect on small businesses and micro businesses,\n(d)\nthe likely effect on innovation in the supply or provision of goods, services and digital content affected by the regulations or other goods, services and digital content, and\n(e)\nthe likely effect on competition in markets for goods, services and digital content affected by the regulations or other markets."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

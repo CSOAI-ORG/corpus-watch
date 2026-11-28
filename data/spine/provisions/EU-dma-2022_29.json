@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:29",
+ "label": "EU-dma-2022 Article 29",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b3dc10552ae2a2508998c84f35cec7b448b8b549892c87304dbcd5be99e24fa9",
+ "sha256_v1": "",
+ "sha256_v2": "b3dc10552ae2a2508998c84f35cec7b448b8b549892c87304dbcd5be99e24fa9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "b3dc10552ae2a2508998c84f35cec7b448b8b549892c87304dbcd5be99e24fa9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:29/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall adopt an implementing act setting out its finding of non-compliance (‘the non-compliance decision’) where it finds that a gatekeeper does not comply with one or more of the following:"
+  },
+  {
+   "obligation_id": "EU-dma-2022:29/p25/s1",
+   "paragraph": "25",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That implementing act shall be adopted in accordance with the advisory procedure referred to in Article 50(2)."
+  },
+  {
+   "obligation_id": "EU-dma-2022:29/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall endeavour to adopt its non-compliance decision within 12 months from the opening of proceedings pursuant to Article 20."
+  },
+  {
+   "obligation_id": "EU-dma-2022:29/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Before adopting the non-compliance decision, the Commission shall communicate its preliminary findings to the gatekeeper concerned."
+  },
+  {
+   "obligation_id": "EU-dma-2022:29/p3/s2",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In those preliminary findings, the Commission shall explain the measures it is considering taking or that it considers that the gatekeeper should take in order to effectively address the preliminary findings."
+  },
+  {
+   "obligation_id": "EU-dma-2022:29/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In the non-compliance decision, the Commission shall order the gatekeeper to cease and desist with the non-compliance within an appropriate deadline and to provide explanations on how it plans to comply with that decision."
+  },
+  {
+   "obligation_id": "EU-dma-2022:29/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The gatekeeper shall provide the Commission with the description of the measures that it has taken to ensure compliance with the non-compliance decision."
+  },
+  {
+   "obligation_id": "EU-dma-2022:29/p7/s1",
+   "paragraph": "7",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the Commission decides not to adopt a non-compliance decision, it shall close the proceedings by a decision."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:29",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

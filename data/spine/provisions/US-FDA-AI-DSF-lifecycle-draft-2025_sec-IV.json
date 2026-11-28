@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-FDA-AI-DSF-lifecycle-draft-2025:sec-IV",
+ "label": "US-FDA-AI-DSF-lifecycle-draft-2025 IV. How to Use this Guidance: Overview of AI-Enabled Device Marketing Submission Content Recommendations",
+ "instrument": "US-FDA-AI-DSF-lifecycle-draft-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "ebc76c88852bdecb144da07564ade972f2660ef9667e5959687eb8e7e2ca3713",
+ "sha256_v1": "",
+ "sha256_v2": "ebc76c88852bdecb144da07564ade972f2660ef9667e5959687eb8e7e2ca3713",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "ebc76c88852bdecb144da07564ade972f2660ef9667e5959687eb8e7e2ca3713",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-FDA-AI-DSF-lifecycle-draft-2025:sec-IV/p0/s1",
+   "paragraph": "0",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Specifically, as part of design controls, a manufacturer must “establish and maintain procedures for validating the device design,” which “shall ensure that devices conform to defined user needs and intended uses and shall include testing of production units under actual or simulated use conditions” (21 CFR 820.30(g))."
+  },
+  {
+   "obligation_id": "US-FDA-AI-DSF-lifecycle-draft-2025:sec-IV/p0/s2",
+   "paragraph": "0",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "In addition, under 21 CFR 820.30(i) a manufacturer must establish and maintain procedures to identify, document, validate or where appropriate verify, review, and approve of design changes before their implementation (“design changes”) for all devices, including those automated with 17 In the postmarket context, design controls may also be important to ensure medical device performance and maintain medical device safety and effectiveness."
+  },
+  {
+   "obligation_id": "US-FDA-AI-DSF-lifecycle-draft-2025:sec-IV/p0/s3",
+   "paragraph": "0",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Similarly, as part of the control of nonconforming product, manufacturers must establish and maintain procedures to “control product that does not conform to specified requirements,” including, under some circumstances, user requirements, and to implement corrective and preventative action, including “complaints” and “other sources of quality data” to identify “existing and potential causes of nonconforming product.” (21 CFR 820.90(a) and 820.100(a)(1))."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-FDA-AI-DSF-lifecycle-draft-2025:sec-IV",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

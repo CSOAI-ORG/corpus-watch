@@ -1,0 +1,58 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022R2554:27",
+ "label": "DORA Art. 27",
+ "instrument": "DORA",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "f28a114aad2b08755f6e03ed1132f2711a16e33981cc2581796b5efd9004efad",
+ "sha256_v1": "f28a114aad2b08755f6e03ed1132f2711a16e33981cc2581796b5efd9004efad",
+ "sha256_v2": "ccd0fe4483aea7770e4a92949e2dfd7f74aee0db85be89b5c5bb07f97b006b1c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "ccd0fe4483aea7770e4a92949e2dfd7f74aee0db85be89b5c5bb07f97b006b1c",
+ "agent_register_kinds": [
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022R2554:27/p1/s1",
+   "paragraph": "1",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Financial entities shall only use testers for the carrying out of TLPT, that:"
+  },
+  {
+   "obligation_id": "32022R2554:27/p2/s1",
+   "paragraph": "2",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "When using internal testers, financial entities shall ensure that, in addition to the requirements in paragraph 1, the following conditions are met:"
+  },
+  {
+   "obligation_id": "32022R2554:27/p3/s1",
+   "paragraph": "3",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Financial entities shall ensure that contracts concluded with external testers require a sound management of the TLPT results and that any data processing thereof, including any generation, store, aggregation, draft, report, communication or destruction, do not create risks to the financial entity."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022R2554:27",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

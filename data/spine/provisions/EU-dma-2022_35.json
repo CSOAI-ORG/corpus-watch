@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:35",
+ "label": "EU-dma-2022 Article 35",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ddab1e5374f9a70ab2adc7778dad3cc41bbf4df837b27118ffe2695e2531f15f",
+ "sha256_v1": "",
+ "sha256_v2": "ddab1e5374f9a70ab2adc7778dad3cc41bbf4df837b27118ffe2695e2531f15f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ddab1e5374f9a70ab2adc7778dad3cc41bbf4df837b27118ffe2695e2531f15f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:35/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall submit to the European Parliament and to the Council an annual report on the implementation of this Regulation and the progress made towards achieving its objectives."
+  },
+  {
+   "obligation_id": "EU-dma-2022:35/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The report referred to in paragraph 1 shall include:"
+  },
+  {
+   "obligation_id": "EU-dma-2022:35/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall publish the report on its website."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:35",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

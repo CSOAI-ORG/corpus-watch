@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-15USC1681-FCRA-1970:s1681s-1",
+ "label": "US-15USC1681-FCRA-1970 15 U.S.C. 1681s-1",
+ "instrument": "US-15USC1681-FCRA-1970",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "579169ddaf1b2fe434737fb4f9fb3b8fe7f9f310f2a167086fa03963d1b9b94d",
+ "sha256_v1": "",
+ "sha256_v2": "579169ddaf1b2fe434737fb4f9fb3b8fe7f9f310f2a167086fa03963d1b9b94d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "579169ddaf1b2fe434737fb4f9fb3b8fe7f9f310f2a167086fa03963d1b9b94d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-15USC1681-FCRA-1970:s1681s-1/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Information on overdue child support obligations\nNotwithstanding any other provision of this subchapter, a consumer reporting agency shall include in any consumer report furnished by the agency in accordance with section 1681b of this title, any information on the failure of the consumer to pay overdue support which—\n(1) is provided—\n(A) to the consumer reporting agency by a State or local child support enforcement agency; or\n(B) to the consumer reporting agency and verified by any local, State, or Federal Government agency; and\n(2) antedates the report by 7 years or less."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-15USC1681-FCRA-1970:s1681s-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

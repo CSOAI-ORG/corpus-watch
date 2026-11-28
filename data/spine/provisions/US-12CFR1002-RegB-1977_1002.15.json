@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-12CFR1002-RegB-1977:1002.15",
+ "label": "US-12CFR1002-RegB-1977 12 CFR 1002.15",
+ "instrument": "US-12CFR1002-RegB-1977",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9a83f02e18b776db73199aaf9d66c2b6b2bb9896f149180840a3b1f5546f5d2d",
+ "sha256_v1": "",
+ "sha256_v2": "9a83f02e18b776db73199aaf9d66c2b6b2bb9896f149180840a3b1f5546f5d2d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9a83f02e18b776db73199aaf9d66c2b6b2bb9896f149180840a3b1f5546f5d2d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.15/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A creditor must take corrective action that is reasonably likely to remedy the cause and effect of a likely violation by:"
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.15/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(ii) Discloses any part of the report or results, or any other information privileged under this section, as a defense to charges that the creditor has violated the Act or regulation; or (iii) Fails or is unable to produce written or recorded information about the self-test that is required to be retained under § 1002.12(b)(6) when the information is needed to determine whether the privilege applies."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-12CFR1002-RegB-1977:1002.15",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:91",
+ "label": "EU-eudpr-2018 Article 91",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "f6defd3809cb20ecfa81043e526ec50d837b3bdb5656ca0f8880b8b0343dd5ac",
+ "sha256_v1": "",
+ "sha256_v2": "f6defd3809cb20ecfa81043e526ec50d837b3bdb5656ca0f8880b8b0343dd5ac",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "f6defd3809cb20ecfa81043e526ec50d837b3bdb5656ca0f8880b8b0343dd5ac",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:91/p1/s1",
+   "paragraph": "1",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "The controller and the processor shall, taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of the processing as well as the risks of varying likelihood and severity for the rights and freedoms of natural persons, implement appropriate technical and organisational measures to ensure a level of security appropriate to the risks, in particular as regards the processing of special categories of operational personal data."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:91/p2/s1",
+   "paragraph": "2",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "In respect of automated processing, the controller and the processor shall, following an evaluation of the risks, implement measures designed to:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:91",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

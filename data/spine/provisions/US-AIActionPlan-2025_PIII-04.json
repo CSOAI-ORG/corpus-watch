@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-AIActionPlan-2025:PIII-04",
+ "label": "US-AIActionPlan-2025 Plug Loopholes in Existing Semiconductor Manufacturing Export Controls",
+ "instrument": "US-AIActionPlan-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "57203be0a6ada2249faa1c746a9056a9cd7b1155162008587fe87a7f6a9a8445",
+ "sha256_v1": "",
+ "sha256_v2": "57203be0a6ada2249faa1c746a9056a9cd7b1155162008587fe87a7f6a9a8445",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 8,
+ "sha256_current": "57203be0a6ada2249faa1c746a9056a9cd7b1155162008587fe87a7f6a9a8445",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-AIActionPlan-2025:PIII-04/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "We must continue to lead the world with pathbreaking research and new inventions in semiconductor manufacturing, but the United States must also prevent our adversaries from using our innovations to their own ends in ways that undermine our national security."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-AIActionPlan-2025:PIII-04",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

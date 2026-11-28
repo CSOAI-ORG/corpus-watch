@@ -1,0 +1,236 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:44",
+ "label": "EU-mdr-2017 Article 44",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "3140dfe8d162da91a18f2f3766cb13066164ea02b1033fdf8e4542a71e3feaa4",
+ "sha256_v1": "",
+ "sha256_v2": "3140dfe8d162da91a18f2f3766cb13066164ea02b1033fdf8e4542a71e3feaa4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": null,
+ "sha256_current": "3140dfe8d162da91a18f2f3766cb13066164ea02b1033fdf8e4542a71e3feaa4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:44/p1/s1",
+   "paragraph": "1",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Notified bodies shall, without delay, and at the latest within 15 days, inform the authority responsible for notified bodies of relevant changes which may affect their compliance with the requirements set out in Annex VII or their ability to conduct the conformity assessment activities relating to the devices for which they have been designated."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:44/p2/s1",
+   "paragraph": "2",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The authorities responsible for notified bodies shall monitor the notified bodies established on their territory and their subsidiaries and subcontractors to ensure ongoing compliance with the requirements and the fulfilment of its obligations set out in this Regulation."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:44/p2/s2",
+   "paragraph": "2",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Notified bodies shall, upon request by their authority responsible for notified bodies, supply all relevant information and documents, required to enable the authority, the Commission and other Member States to verify compliance."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:44/p3/s1",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Where the Commission or the authority of a Member State submits a request to a notified body established on the territory of another Member State relating to a conformity assessment carried out by that notified body, it shall send a copy of that request to the authority responsible for notified bodies of that other Member State."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:44/p3/s2",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notified body concerned shall respond without delay and within 15 days at the latest to the request."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:44/p3/s3",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The authority responsible for notified bodies of the Member State in which the body is established shall ensure that requests submitted by authorities of any other Member State or by the Commission are resolved by the notified body unless there is a legitimate reason for not doing so in which case the matter may be referred to the MDCG."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:44/p4/s1",
+   "paragraph": "4",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "At least once a year, the authorities responsible for notified bodies shall re-assess whether the notified bodies established on their respective territory and, where appropriate, the subsidiaries and subcontractors under the responsibility of those notified bodies still satisfy the requirements and fulfil their obligations set out in Annex VII."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:44/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That review shall include an on-site audit of each notified body and, where necessary, of its subsidiaries and subcontractors."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:44/p4/s3",
+   "paragraph": "4",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "The authority responsible for notified bodies shall conduct its monitoring and assessment activities according to an annual assessment plan to ensure that it can effectively monitor the continued compliance of the notified body with the requirements of this Regulation."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:44/p4/s4",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That plan shall provide a reasoned schedule for the frequency of assessment of the notified body and, in particular, associated subsidiaries and subcontractors."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:44/p4/s5",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The authority shall submit its annual plan for monitoring or assessment for each notified body for which it is responsible to the MDCG and to the Commission."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:44/p5/s1",
+   "paragraph": "5",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "The monitoring of notified bodies by the authority responsible for notified bodies shall include observed audits of notified body personnel, including where necessary any personnel from subsidiaries and subcontractors, as that personnel is in the process of conducting quality management system assessments at a manufacturer's facility."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:44/p6/s1",
+   "paragraph": "6",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The monitoring of notified bodies conducted by the authority responsible for notified bodies shall consider data arising from market surveillance, vigilance and post-market surveillance to help guide its activities."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:44/p6/s2",
+   "paragraph": "6",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The authority responsible for notified bodies shall provide for a systematic follow-up of complaints and other information, including from other Member States, which may indicate non-fulfilment of the obligations by a notified body or its deviation from common or best practice."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:44/p8/s1",
+   "paragraph": "8",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "The authority responsible for notified bodies shall review the assessments by notified bodies of manufacturers' technical documentation, in particular the clinical evaluation documentation as further outlined in Article 45."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:44/p9/s1",
+   "paragraph": "9",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "The authority responsible for notified bodies shall document and record any findings regarding non-compliance of the notified body with the requirements set out in Annex VII and shall monitor the timely implementation of corrective and preventive actions. ▼M2 10. 5 years after notification of a notified body, and again every 5 years thereafter, a complete re-assessment to determine whether the notified body still satisfies the requirements set out in Annex VII shall be conducted by the authority responsible for notified bodies of the Member State in which the body is established and by a joint assessment team in accordance with the procedure described in Article"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:44/p39/s1",
+   "paragraph": "39",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Complete re-assessments that have already started prior to 11 March 2023 shall continue to be conducted, unless the authority responsible for notified bodies of the Member State in which the notified body is established decides to suspend or terminate the ongoing complete re-assessment, taking into account its own resources and the resources of the notified body already spent on the re-assessment, as well as the results of the annual assessments conducted in accordance with paragraph 4 of this Article."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:44/p39/s2",
+   "paragraph": "39",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Before suspending or terminating an ongoing complete re-assessment, the authority responsible for notified bodies shall hear the notified body concerned. ▼B"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:44/p12/s1",
+   "paragraph": "12",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Member States shall report to the Commission and to the MDCG, at least once a year, on their monitoring and on-site assessment activities regarding notified bodies and, where applicable, subsidiaries and subcontractors."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:44/p12/s2",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "The report shall provide details of the outcome of those activities, including activities pursuant to paragraph 7, and shall be treated as confidential by the MDCG and the Commission; however it shall contain a summary which shall be made publicly available."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:44/p12/s3",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The summary of the report shall be uploaded to the electronic system referred to in Article 57."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:44",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

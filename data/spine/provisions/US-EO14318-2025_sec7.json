@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14318-2025:sec7",
+ "label": "US-EO14318-2025 Section 7",
+ "instrument": "US-EO14318-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d7d4865f3c9fa309c7e00753c2906ad81d3b9169619be8af70122ba6aa2a292c",
+ "sha256_v1": "",
+ "sha256_v2": "d7d4865f3c9fa309c7e00753c2906ad81d3b9169619be8af70122ba6aa2a292c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "d7d4865f3c9fa309c7e00753c2906ad81d3b9169619be8af70122ba6aa2a292c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14318-2025:sec7/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) The Administrator of the Environmental Protection Agency shall assist in expediting permitting on Federal and non-Federal lands by developing or modifying regulations promulgated under the Clean Air Act (42 U.S.C. 7401 et seq.); the Clean Water Act (33 U.S.C. 1251 et seq.); the Comprehensive Environmental Response, Compensation, and Liability Act (42 U.S.C. 9601 et seq.); the Toxic Substances Control Act (15 U.S.C. 2601 et seq.); and other relevant applicable laws, in each case, that impact the development of Qualifying Projects."
+  },
+  {
+   "obligation_id": "US-EO14318-2025:sec7/p7/s2",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) The Administrator of the Environmental Protection Agency shall, consistent with the Environmental Protection Agency's statutory authorities, expeditiously identify Brownfield Sites and Superfund Sites for use by Qualifying Projects."
+  },
+  {
+   "obligation_id": "US-EO14318-2025:sec7/p7/s3",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As part of this effort, within 180 days of the date of this order, the Administrator of the Environmental Protection Agency shall develop guidance to help expedite environmental reviews for qualified reuse and assist State governments and private parties to return such Brownfield Sites and Superfund Sites to productive use as expeditiously as possible."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14318-2025:sec7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

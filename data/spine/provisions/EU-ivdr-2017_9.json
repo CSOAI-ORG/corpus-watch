@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:9",
+ "label": "EU-ivdr-2017 Article 9",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ef2cd024bfdbb938d56a9fffeb75d4eb1f2ff38318b16710d55bcc92682141bb",
+ "sha256_v1": "",
+ "sha256_v2": "ef2cd024bfdbb938d56a9fffeb75d4eb1f2ff38318b16710d55bcc92682141bb",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ef2cd024bfdbb938d56a9fffeb75d4eb1f2ff38318b16710d55bcc92682141bb",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:9/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(3)."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:9/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Devices that are in conformity with the CS referred to in paragraph 1 shall be presumed to be in conformity with the requirements of this Regulation covered by those CS or the relevant parts of those CS."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:9/p3/s1",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Manufacturers shall comply with the CS referred to in paragraph 1 unless they can duly justify that they have adopted solutions that ensure a level of safety and performance that is at least equivalent thereto."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:9",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:suppl",
+ "label": "JP-appi-2003 Supplementary Provisions (original enactment)",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "4fe9448e6986e5476130f4638bed79d10124d3cc025cc57237823706110ddd2c",
+ "sha256_v1": "",
+ "sha256_v2": "4fe9448e6986e5476130f4638bed79d10124d3cc025cc57237823706110ddd2c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "4fe9448e6986e5476130f4638bed79d10124d3cc025cc57237823706110ddd2c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:suppl/s10",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "ja:public-trace",
+   "status": "DRAFT",
+   "text": "第二十三条第二項の規定により本人に通知し、又は本人が容易に知り得る状態に置かなければならない事項に相当する事項について、この法律の施行前に、本人に通知されているときは、当該通知は、同項の規定により行われたものとみなす。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:suppl/s12",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "ja:public-trace",
+   "status": "DRAFT",
+   "text": "第二十三条第五項第三号の規定により本人に通知し、又は本人が容易に知り得る状態に置かなければならない事項に相当する事項について、この法律の施行前に、本人に通知されているときは、当該通知は、同号の規定により行われたものとみなす。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:suppl/s16",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "都道府県及び地方自治法第二百五十二条の十九第一項の指定都市以外の地方公共団体の機関並びに地方独立行政法人についての第百十条及び第百十一条の規定の適用については、当分の間、第百十条中「行政機関の長等は、」とあるのは「行政機関の長等は、次条の規定による募集をしようとする場合であって、」と、第百十一条中「ものとする」とあるのは「ことができる」とする。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:suppl",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

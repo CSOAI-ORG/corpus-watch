@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-equality-act-2010:s169",
+ "label": "GB-equality-act-2010 Section 169",
+ "instrument": "GB-equality-act-2010",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "659e6dea8e93fed90466863bdbbb940c91177199d9c006a54f77750bcd6caaa3",
+ "sha256_v1": "",
+ "sha256_v2": "659e6dea8e93fed90466863bdbbb940c91177199d9c006a54f77750bcd6caaa3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "659e6dea8e93fed90466863bdbbb940c91177199d9c006a54f77750bcd6caaa3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-equality-act-2010:s169/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Assistance dogs in taxis: exemption certificates\n(1)\nA licensing authority must issue a person with a certificate exempting the person from the duties imposed by section 168 (an “exemption certificate”) if satisfied that it is appropriate to do so on medical grounds."
+  },
+  {
+   "obligation_id": "GB-equality-act-2010:s169/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nIn deciding whether to issue an exemption certificate the authority must have regard, in particular, to the physical characteristics of the taxi which the person drives or those of any kind of taxi in relation to which the person requires the certificate."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-equality-act-2010:s169",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-ai-basic-act-2025:38",
+ "label": "KR-ai-basic-act-2025 제38조",
+ "instrument": "KR-ai-basic-act-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "2dd222752bba8da2ef32641bc17f0184671a20c6dc31ed4a748289b9f32800ff",
+ "sha256_v1": "",
+ "sha256_v2": "2dd222752bba8da2ef32641bc17f0184671a20c6dc31ed4a748289b9f32800ff",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "2dd222752bba8da2ef32641bc17f0184671a20c6dc31ed4a748289b9f32800ff",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-ai-basic-act-2025:38/s1",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "제38조(실태조사, 통계 및 지표의 작성) ① 과학기술정보통신부장관은 국가데이터처장과 협의하여 기본계획 및 인공지능등 관련 시책과 사업의 기획ㆍ수립ㆍ추진을 위하여 국내외 인공지능등에 관한 실태조사, 통계 및 지표를 「과학기술기본법」 제26조의2에 따른 통계와 연계하여 작성ㆍ관리하고 공표하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-ai-basic-act-2025:38",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

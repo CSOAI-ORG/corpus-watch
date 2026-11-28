@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB354-2026:SEC-2:791.08.",
+ "label": "US-CA-SB354-2026 SEC. 2. / 791.08.",
+ "instrument": "US-CA-SB354-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5787ef6e64cd45b5d2b3fa086cbf24bfb0cab4df853754be3524417e42bc5717",
+ "sha256_v1": "",
+ "sha256_v2": "5787ef6e64cd45b5d2b3fa086cbf24bfb0cab4df853754be3524417e42bc5717",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "5787ef6e64cd45b5d2b3fa086cbf24bfb0cab4df853754be3524417e42bc5717",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.08./p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Upon receiving a verifiable request, the licensee, surplus line insurer, reinsurer, insurance support organization, or its third-party service provider shall do both of the following:"
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.08./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)Health information in the possession of a licensee, surplus line insurer, or reinsurer and requested pursuant to subdivision (a), together with the identity of the source of the information, shall be supplied either directly to the consumer or to a health care provider designated by the consumer."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.08./p0/s3",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the consumer elects for the licensee, surplus line insurer, or reinsurer to disclose the information to a health care provider designated by the consumer, the licensee, surplus line insurer, or reinsurer shall notify the consumer, at the time of the disclosure, that it has provided the information to the designated health care provider."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.08./p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1)Shall extend to all natural persons to the extent that personal information about them is possessed by a licensee, surplus line insurer, or reinsurer or third-party service provider."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.08./p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)Shall not extend to privileged information or personal information about the consumer that is processed or shared in connection with, or is in reasonable anticipation of, a claim or civil or criminal proceeding involving the consumer, until the claim or proceeding is finalized."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.08./p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)Shall not extend to a third-party natural person, including a beneficiary, family or household member, or emergency contact, whose personal information is collected directly from a consumer in connection with an insurance transaction, provided that the licensee, surplus line insurer, or reinsurer does not process or share the third-party natural person’s personal information for any purpose unrelated to the insurance transaction."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.08./p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e)A licensee, surplus line insurer, or reinsurer shall provide reasonable means for a consumer to exercise their rights pursuant to this section."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB354-2026:SEC-2:791.08.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

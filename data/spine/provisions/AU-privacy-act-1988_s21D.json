@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s21D",
+ "label": "AU-privacy-act-1988 Section 21D",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "bd9c3c42373c3362be81fd094df97b8d1f9cc0ad7c5bc3a6535ebd47d41fb599",
+ "sha256_v1": "",
+ "sha256_v2": "bd9c3c42373c3362be81fd094df97b8d1f9cc0ad7c5bc3a6535ebd47d41fb599",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "bd9c3c42373c3362be81fd094df97b8d1f9cc0ad7c5bc3a6535ebd47d41fb599",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s21D/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "21D  Disclosure of credit information to a credit reporting body\nProhibition on disclosure\n(1)\tA credit provider must not disclose credit information about an individual to a credit reporting body (whether or not the body’s credit reporting business is carried on in Australia)."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s21D/p18/s1",
+   "paragraph": "18",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Written note of disclosure\n(6)\tIf a credit provider discloses credit information under this section, the provider must make a written note of that disclosure."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s21D",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

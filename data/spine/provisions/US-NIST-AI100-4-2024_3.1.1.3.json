@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-NIST-AI100-4-2024:3.1.1.3",
+ "label": "US-NIST-AI100-4-2024 3.1.1.3",
+ "instrument": "US-NIST-AI100-4-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ce27cf5bc9758189f8f9482f5b5e7ff3f0ecbc620bba268f469bb3ea634efb5d",
+ "sha256_v1": "",
+ "sha256_v2": "ce27cf5bc9758189f8f9482f5b5e7ff3f0ecbc620bba268f469bb3ea634efb5d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 2,
+ "sha256_current": "ce27cf5bc9758189f8f9482f5b5e7ff3f0ecbc620bba268f469bb3ea634efb5d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-NIST-AI100-4-2024:3.1.1.3/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Preventing watermarks from being added\nMost watermarking techniques involve software that must be run either after an output is generated or as an\nadditional set of operations during the generation process."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-NIST-AI100-4-2024:3.1.1.3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

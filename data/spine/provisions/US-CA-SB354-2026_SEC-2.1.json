@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB354-2026:SEC-2.1",
+ "label": "US-CA-SB354-2026 SEC. 2.1.",
+ "instrument": "US-CA-SB354-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "39090d4fe5ab7c64b237a253bcae84bd76caa17d135bc562c1bafa10ea4ac617",
+ "sha256_v1": "",
+ "sha256_v2": "39090d4fe5ab7c64b237a253bcae84bd76caa17d135bc562c1bafa10ea4ac617",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "39090d4fe5ab7c64b237a253bcae84bd76caa17d135bc562c1bafa10ea4ac617",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2.1/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)A licensee, surplus line insurer, reinsurer, or third-party service provider shall not prepare or request an investigative consumer report about a consumer in connection with an insurance transaction involving an application for insurance, a policy renewal, a policy reinstatement, or a change in insurance benefits, unless the licensee, surplus line insurer, reinsurer, or third-party service provider informs the consumer of both of the following in writing before the report preparation:"
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2.1/p0/s2",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1)That the individual may request to be interviewed in connection with the preparation of the investigative consumer report, and the licensee, surplus line insurer, reinsurer, or third-party service provider shall conduct the interview."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2.1/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)If an investigative consumer report is to be prepared by a licensee, surplus line insurer, or reinsurer, the licensee, surplus line insurer, or reinsurer shall institute reasonable procedures to conduct a personal interview requested by a consumer."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2.1/p0/s4",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)If an investigative consumer report is to be prepared by a third-party service provider, the licensee, surplus line insurer, or reinsurer shall notify the third-party service provider in writing if a personal interview has been requested by the consumer."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2.1/p0/s5",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The third-party service provider shall conduct the interview requested."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2.1/p0/s6",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d)If a licensee, surplus line insurer, or reinsurer uses a third-party service provider to obtain or prepare an investigative consumer report, the written contract between the licensee, surplus line insurer, or reinsurer and the third-party service provider shall require the third-party service provider to do both of the following:"
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2.1/p0/s7",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e)A licensee, surplus line insurer, reinsurer, or third-party service provider that prepares or requests an investigative consumer report in connection with an insurance claim shall notify the consumer that the consumer may request to be interviewed in connection with the preparation of the investigative consumer report."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2.1/p0/s8",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(f)A licensee, surplus line insurer, reinsurer, or third-party service provider shall not prepare or request an investigative consumer report that seeks an individual’s genetic information or full genome."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB354-2026:SEC-2.1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-TX-HB149-TRAIGA-2025:Sec-552.051",
+ "label": "US-TX-HB149-TRAIGA-2025 Sec. 552.051",
+ "instrument": "US-TX-HB149-TRAIGA-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "de953aab963115b6ea2cca60380223079db5db70db6e198c8a196510495b5388",
+ "sha256_v1": "",
+ "sha256_v2": "de953aab963115b6ea2cca60380223079db5db70db6e198c8a196510495b5388",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "de953aab963115b6ea2cca60380223079db5db70db6e198c8a196510495b5388",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-TX-HB149-TRAIGA-2025:Sec-552.051/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) A governmental agency that makes available an artificial intelligence system intended to interact with consumers shall disclose to each consumer, before or at the time of interaction, that the consumer is interacting with an artificial intelligence system."
+  },
+  {
+   "obligation_id": "US-TX-HB149-TRAIGA-2025:Sec-552.051/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) A person is required to make the disclosure under Subsection (b) regardless of whether it would be obvious to a reasonable consumer that the consumer is interacting with an artificial intelligence system."
+  },
+  {
+   "obligation_id": "US-TX-HB149-TRAIGA-2025:Sec-552.051/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1) must be clear and conspicuous;"
+  },
+  {
+   "obligation_id": "US-TX-HB149-TRAIGA-2025:Sec-552.051/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2) must be written in plain language; and (3) may not use a dark pattern, as that term is defined by Section 541.001."
+  },
+  {
+   "obligation_id": "US-TX-HB149-TRAIGA-2025:Sec-552.051/p0/s5",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(f) If an artificial intelligence system is used in relation to health care service or treatment, the provider of the service or treatment shall provide the disclosure under Subsection (b) to the recipient of the service or treatment or the recipient's personal representative not later than the date the service or treatment is first provided, except in the case of emergency, in which case the provider shall provide the required disclosure as soon as reasonably possible."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-TX-HB149-TRAIGA-2025:Sec-552.051",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

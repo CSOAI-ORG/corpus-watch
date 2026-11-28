@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB2504-2026:SEC-1:78026.6.",
+ "label": "US-CA-AB2504-2026 SECTION 1. / 78026.6.",
+ "instrument": "US-CA-AB2504-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5543ad49bfeaf61d30c12d1b456ec31865452e1a5259bdc7335d49c647fe481d",
+ "sha256_v1": "",
+ "sha256_v2": "5543ad49bfeaf61d30c12d1b456ec31865452e1a5259bdc7335d49c647fe481d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "5543ad49bfeaf61d30c12d1b456ec31865452e1a5259bdc7335d49c647fe481d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB2504-2026:SEC-1:78026.6./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This article shall remain in effect only until January 1, 2033, and as of that date is repealed."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB2504-2026:SEC-1:78026.6.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

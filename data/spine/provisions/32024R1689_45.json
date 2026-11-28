@@ -1,0 +1,68 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:45",
+ "label": "EU AI Act Art. 45",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "81e12062366b72106a7e5c5364ec849c1870ea9944c330341ac8cb3a3ed40747",
+ "sha256_v1": "81e12062366b72106a7e5c5364ec849c1870ea9944c330341ac8cb3a3ed40747",
+ "sha256_v2": "81e12062366b72106a7e5c5364ec849c1870ea9944c330341ac8cb3a3ed40747",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "81e12062366b72106a7e5c5364ec849c1870ea9944c330341ac8cb3a3ed40747",
+ "agent_register_kinds": [
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:45/p1/s1",
+   "paragraph": "1",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Notified bodies shall inform the notifying authority of the following:"
+  },
+  {
+   "obligation_id": "32024R1689:45/p2/s1",
+   "paragraph": "2",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each notified body shall inform the other notified bodies of:"
+  },
+  {
+   "obligation_id": "32024R1689:45/p3/s1",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Each notified body shall provide the other notified bodies carrying out similar conformity assessment activities covering the same types of AI systems with relevant information on issues relating to negative and, on request, positive conformity assessment results."
+  },
+  {
+   "obligation_id": "32024R1689:45/p4/s1",
+   "paragraph": "4",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Notified bodies shall safeguard the confidentiality of the information that they obtain, in accordance with Article 78."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:45",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

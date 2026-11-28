@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-aiact-proceedings-2026:13",
+ "label": "EU-aiact-proceedings-2026 Article 13",
+ "instrument": "EU-aiact-proceedings-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "ecd71a8ba6489738bf4274c6b95ffc701e66b8b76736981b0146aca8f45aa8e4",
+ "sha256_v1": "",
+ "sha256_v2": "ecd71a8ba6489738bf4274c6b95ffc701e66b8b76736981b0146aca8f45aa8e4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ecd71a8ba6489738bf4274c6b95ffc701e66b8b76736981b0146aca8f45aa8e4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:13/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the Commission sets a time-limit under Regulation (EU) 2024/1689 or this Regulation, it shall have due regard to all relevant elements of fact and law and all the interests concerned, in particular the possibility for natural or legal persons to exercise their right to be heard and the expediency of the proceedings or the investigation."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:13/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In deciding whether to grant such extension, the Commission shall assess whether the reasoned request is sufficiently substantiated and whether the requested extension is liable to have negative effects on the investigations or proceedings."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-aiact-proceedings-2026:13",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-platform-work-2024:25",
+ "label": "EU-platform-work-2024 Article 25",
+ "instrument": "EU-platform-work-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "049e0e85fbc11180745010f5552298e16cb9eb88e399aa7fb6794a798d329b50",
+ "sha256_v1": "",
+ "sha256_v2": "049e0e85fbc11180745010f5552298e16cb9eb88e399aa7fb6794a798d329b50",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "049e0e85fbc11180745010f5552298e16cb9eb88e399aa7fb6794a798d329b50",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-platform-work-2024:25/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Promotion of collective bargaining in platform work\nMember States shall, without prejudice to the autonomy of the social partners and taking into account the diversity of national practices, take adequate measures to promote the role of the social partners and encourage the exercise of the right to collective bargaining in platform work, including measures with regard to the determination of the correct employment status of platform workers and to facilitate the exercise of their rights related to algorithmic management set out in Chapter III."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-platform-work-2024:25",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

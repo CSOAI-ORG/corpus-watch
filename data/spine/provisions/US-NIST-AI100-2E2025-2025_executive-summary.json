@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-NIST-AI100-2E2025-2025:executive-summary",
+ "label": "US-NIST-AI100-2E2025-2025 executive-summary",
+ "instrument": "US-NIST-AI100-2E2025-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "79e1f263ac6053abc7f3ee11e0bfa72ae1d5b1ea546b7347b0659c3c907ed803",
+ "sha256_v1": "",
+ "sha256_v2": "79e1f263ac6053abc7f3ee11e0bfa72ae1d5b1ea546b7347b0659c3c907ed803",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 7,
+ "sha256_current": "79e1f263ac6053abc7f3ee11e0bfa72ae1d5b1ea546b7347b0659c3c907ed803",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-NIST-AI100-2E2025-2025:executive-summary/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It must consider the capabilities\nof attackers, the model or system properties that attackers might seek to violate in pursuit\nof their objectives, and the design of attack methods that exploit vulnerabilities during the\ndevelopment, training, and deployment phases of the ML life cycle."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-NIST-AI100-2E2025-2025:executive-summary",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

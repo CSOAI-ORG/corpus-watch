@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:18",
+ "label": "EU-ehds-2025 Article 18",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f24240f5f51e0a3270d0381e5851cefd344bc4cb5751a38ee41d9916496f28c7",
+ "sha256_v1": "",
+ "sha256_v2": "f24240f5f51e0a3270d0381e5851cefd344bc4cb5751a38ee41d9916496f28c7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "f24240f5f51e0a3270d0381e5851cefd344bc4cb5751a38ee41d9916496f28c7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:18/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Compensation for making personal electronic health data available\nProviders receiving data under this Chapter shall not be required to compensate the healthcare provider for making personal electronic health data available."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:18/p0/s2",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A healthcare provider or a third party shall not directly or indirectly charge data subjects a fee or costs, or require compensation, for sharing or accessing data."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:18",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

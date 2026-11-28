@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB1000-2026:SEC-4",
+ "label": "US-CA-SB1000-2026 SEC. 4.",
+ "instrument": "US-CA-SB1000-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9fd29a4f6697bbd6c413a4fcf7ea7121466d94b3ebab4e92be4f288cec05bfdd",
+ "sha256_v1": "",
+ "sha256_v2": "9fd29a4f6697bbd6c413a4fcf7ea7121466d94b3ebab4e92be4f288cec05bfdd",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "9fd29a4f6697bbd6c413a4fcf7ea7121466d94b3ebab4e92be4f288cec05bfdd",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB1000-2026:SEC-4/p4/s1",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)To the extent it is technically feasible, a covered provider shall include a latent disclosure that meets all of the following criteria in any image, video, or audio content, or content that is any combination thereof, created or altered, except by minor modification, by the covered provider’s GenAI system:"
+  },
+  {
+   "obligation_id": "US-CA-SB1000-2026:SEC-4/p4/s2",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)(1)If a covered provider licenses its GenAI system to a third party, the covered provider shall, when it provides the license, notify the licensee of the licensee’s obligations under this chapter."
+  },
+  {
+   "obligation_id": "US-CA-SB1000-2026:SEC-4/p4/s3",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)If a covered provider knows that an identifiable third-party licensee modified a licensed GenAI system such that it no longer complies with this chapter, the covered provider shall do either of the following:"
+  },
+  {
+   "obligation_id": "US-CA-SB1000-2026:SEC-4/p4/s4",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)A third-party licensee that receives a notice under paragraph (2) shall modify the licensed GenAI system to be in compliance with this chapter or cease using or making available the licensed GenAI system, including a copy or modified version of the GenAI system and shall report which of those actions it took to the covered provider within 96 hours of receipt of the notice."
+  },
+  {
+   "obligation_id": "US-CA-SB1000-2026:SEC-4/p4/s5",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)If a covered provider does not receive a report pursuant to paragraph (3) or if a covered provider receives a report from a third-party licensee indicating that the third-party licensee did not, pursuant to paragraph (3), modify or cease using or making available the licensed GenAI system, the covered provider shall report the third-party licensee’s noncompliance with paragraph (3) to the Attorney General."
+  },
+  {
+   "obligation_id": "US-CA-SB1000-2026:SEC-4/p4/s6",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)The Attorney General shall establish a mechanism to receive reports from covered providers submitted to the Attorney General pursuant to this section."
+  },
+  {
+   "obligation_id": "US-CA-SB1000-2026:SEC-4/p4/s7",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d)A covered provider shall not falsely represent that a GenAI system is designed to primarily function as assistive technology."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB1000-2026:SEC-4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

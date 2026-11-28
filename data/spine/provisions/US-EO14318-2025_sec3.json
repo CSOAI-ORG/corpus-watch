@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14318-2025:sec3",
+ "label": "US-EO14318-2025 Section 3",
+ "instrument": "US-EO14318-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "0b3aaf7aff8711057880ea02679842e9127b6412a3f53dd175e90afbb09e85c4",
+ "sha256_v1": "",
+ "sha256_v2": "0b3aaf7aff8711057880ea02679842e9127b6412a3f53dd175e90afbb09e85c4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "0b3aaf7aff8711057880ea02679842e9127b6412a3f53dd175e90afbb09e85c4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14318-2025:sec3/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Secretary of Commerce, in consultation with the Director of the Office of Science and Technology Policy (OSTP) and other relevant executive departments and agencies (agencies), shall launch an initiative to provide financial support for Qualifying Projects, which could include loans and loan guarantees, grants, tax incentives, and offtake agreements."
+  },
+  {
+   "obligation_id": "US-EO14318-2025:sec3/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "All relevant agencies shall identify and submit to the Director of OSTP any such relevant existing financial support that can be used to assist Qualifying Projects, consistent with the protection of national security."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14318-2025:sec3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

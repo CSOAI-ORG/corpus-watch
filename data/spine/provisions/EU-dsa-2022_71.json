@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:71",
+ "label": "EU-dsa-2022 Article 71",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "1525aeb6b0aa48b7709ea051d7676b8c5726444fc49a18e15e72c416e4682756",
+ "sha256_v1": "",
+ "sha256_v2": "1525aeb6b0aa48b7709ea051d7676b8c5726444fc49a18e15e72c416e4682756",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "1525aeb6b0aa48b7709ea051d7676b8c5726444fc49a18e15e72c416e4682756",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:71/p3/s1",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the Commission considers that the commitments offered by the provider of the very large online platform or of the very large online search engine concerned are unable to ensure effective compliance with the relevant provisions of this Regulation, it shall reject those commitments in a reasoned decision when concluding the proceedings."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:71",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

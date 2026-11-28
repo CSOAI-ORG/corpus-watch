@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14355-2025:sec3",
+ "label": "US-EO14355-2025 Section 3",
+ "instrument": "US-EO14355-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f891ee5bae146dfc5d4a1f0c1a95ec6827cb173d871432d838ac072fc5a37379",
+ "sha256_v1": "",
+ "sha256_v2": "f891ee5bae146dfc5d4a1f0c1a95ec6827cb173d871432d838ac072fc5a37379",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "f891ee5bae146dfc5d4a1f0c1a95ec6827cb173d871432d838ac072fc5a37379",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14355-2025:sec3/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The MAHA Commission, in coordination with the Secretary, the Director of the Office of Management and Budget, the Director of the National Institutes of Health, and the APST, shall prioritize expanding pediatric cancer research and advancements in care by identifying and implementing strategies for:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14355-2025:sec3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

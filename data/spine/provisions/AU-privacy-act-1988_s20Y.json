@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s20Y",
+ "label": "AU-privacy-act-1988 Section 20Y",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "75f82fad019b3df70479627f7b7829da3d9aa55029271f1b65dc976b671ffc41",
+ "sha256_v1": "",
+ "sha256_v2": "75f82fad019b3df70479627f7b7829da3d9aa55029271f1b65dc976b671ffc41",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "75f82fad019b3df70479627f7b7829da3d9aa55029271f1b65dc976b671ffc41",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s20Y/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Destruction of credit reporting information\n(2)\tThe credit reporting body must:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s20Y/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\ta credit reporting body destroys credit reporting information about an individual under subsection (2); and\n(b)\tthe body has previously disclosed the information to one or more recipients under Subdivision D of this Division;\nthe body must, within a reasonable period after the destruction, notify those recipients of the destruction and the matters referred to in paragraph (1)(c)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s20Y",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:57",
+ "label": "EU-ivdr-2017 Article 57",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "8d8a96904ae51bb4c17045196cb715dc111c6b7e809912afe0060cc302631d70",
+ "sha256_v1": "",
+ "sha256_v2": "8d8a96904ae51bb4c17045196cb715dc111c6b7e809912afe0060cc302631d70",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8d8a96904ae51bb4c17045196cb715dc111c6b7e809912afe0060cc302631d70",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:57/p1/s1",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "The manufacturer shall ensure that a device for performance study complies with the general safety and performance requirements set out in Annex I apart from the aspects covered by the performance study and that, with regard to those aspects, every precaution has been taken to protect the health and safety of the patient, user and other persons."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:57/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where appropriate, performance studies shall be performed in circumstances similar to the normal conditions of use of the device."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:57/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Performance studies shall be designed and conducted in such a way that the rights, safety, dignity and well-being of the subjects participating in such performance studies are protected and prevail over all other interests and the data generated are scientifically valid, reliable and robust."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:57/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Performance studies, including performance studies that use left-over samples, shall be conducted in accordance with applicable law on data protection."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:57",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

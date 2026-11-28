@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-pipa-2011:39-5",
+ "label": "KR-pipa-2011 제39조의5",
+ "instrument": "KR-pipa-2011",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "34fc26bb2804800d5654bdfb682b137a0646dad62a7ede280bf2157ad9d8eb92",
+ "sha256_v1": "",
+ "sha256_v2": "34fc26bb2804800d5654bdfb682b137a0646dad62a7ede280bf2157ad9d8eb92",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "34fc26bb2804800d5654bdfb682b137a0646dad62a7ede280bf2157ad9d8eb92",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-pipa-2011:39-5/s2",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "② 법원은 비밀유지명령의 취소신청에 대한 재판이 있는 경우에는 그 결정서를 그 신청을 한 자 및 상대방에게 송달하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-pipa-2011:39-5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

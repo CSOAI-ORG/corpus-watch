@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "TW-ai-basic-act-2026:11",
+ "label": "TW-ai-basic-act-2026 Article 11",
+ "instrument": "TW-ai-basic-act-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "8f6577d4d2283b14f7d0465f76a4d2af3495defcecea218e3bc0535756cbcb1c",
+ "sha256_v1": "",
+ "sha256_v2": "8f6577d4d2283b14f7d0465f76a4d2af3495defcecea218e3bc0535756cbcb1c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "TW",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8f6577d4d2283b14f7d0465f76a4d2af3495defcecea218e3bc0535756cbcb1c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "TW-ai-basic-act-2026:11/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "政府應於人工智慧開發、訓練、測試及驗證新興技術運作之影響時，提供合理使用、扶持及補助措施，並完善人工智慧研發及應用之法規。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=TW-ai-basic-act-2026:11",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

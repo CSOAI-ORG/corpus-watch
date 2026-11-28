@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s103",
+ "label": "GB-dpa-2018 Section 103",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "a9cfecc3da6c79c0ee89578624fce1ed1dcccfe15d5f4dff525e0dce0770f91c",
+ "sha256_v1": "",
+ "sha256_v2": "a9cfecc3da6c79c0ee89578624fce1ed1dcccfe15d5f4dff525e0dce0770f91c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a9cfecc3da6c79c0ee89578624fce1ed1dcccfe15d5f4dff525e0dce0770f91c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s103/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Data protection by design\n(1)\nWhere a controller proposes that a particular type of processing of personal data be carried out by or on behalf of the controller, the controller must, prior to the processing, consider the impact of the proposed processing on the rights and freedoms of data subjects."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s103/p0/s2",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "(2)\nA controller must implement appropriate technical and organisational measures which are designed to ensure that—\n(a)\nthe data protection principles are implemented, and\n(b)\nrisks to the rights and freedoms of data subjects are minimised."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s103",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

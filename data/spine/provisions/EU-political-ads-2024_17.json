@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-political-ads-2024:17",
+ "label": "EU-political-ads-2024 Article 17",
+ "instrument": "EU-political-ads-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "059fbded08aa3f3e36492e603a58239b07df8ecb24afb92d8b9ef0a95355bbde",
+ "sha256_v1": "",
+ "sha256_v2": "059fbded08aa3f3e36492e603a58239b07df8ecb24afb92d8b9ef0a95355bbde",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "059fbded08aa3f3e36492e603a58239b07df8ecb24afb92d8b9ef0a95355bbde",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-political-ads-2024:17/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "At the request of interested entities, providers of political advertising services shall transmit promptly and free of charge, and where technically possible in a machine-readable format, to those entities the information that those providers of political advertising services are required to have pursuant to Articles 9, 11 and 12."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:17/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Interested entities requesting the transmission of information pursuant to paragraph 1 shall be independent from commercial interests and shall fall in one or more of the following categories:"
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:17/p3/s1",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Following a request from an interested entity, the provider of political advertising services shall make best efforts to provide the requested information or a reasoned response under paragraph 5 as soon as possible and, at the latest, within one month."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:17/p5/s1",
+   "paragraph": "5",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In such cases, the provider of political advertising services shall send a reasoned response to the interested entity making the request along with information on the possibilities for redress, including, where applicable, those that exist under Directive (EU) 2020/1828."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:17/p6/s1",
+   "paragraph": "6",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the processing of the requests pursuant to paragraph 1 entails significant costs, the provider of political advertising services may charge a reasonable and proportionate fee, which in any event shall not exceed the administrative costs of providing the information requested."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:17/p7/s1",
+   "paragraph": "7",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of political advertising services shall bear the burden of demonstrating that a request is manifestly unclear, excessive or concerns information not in their possession, or that requests entail significant processing costs."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-political-ads-2024:17",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

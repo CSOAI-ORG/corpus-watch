@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s50C",
+ "label": "GB-dpa-2018 Section 50C",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "f02b6e4d83d4069b98f23fd06f58b4bb9ee10c1cfb5962f52f152485d75c6d8d",
+ "sha256_v1": "",
+ "sha256_v2": "f02b6e4d83d4069b98f23fd06f58b4bb9ee10c1cfb5962f52f152485d75c6d8d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f02b6e4d83d4069b98f23fd06f58b4bb9ee10c1cfb5962f52f152485d75c6d8d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s50C/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Safeguards for automated decision-making\n(1)\nSubject to subsection (3), where a significant decision taken by or on behalf of a controller in relation to a data subject is—\n(a)\nbased entirely or partly on personal data, and\n(b)\nbased solely on automated processing,\nthe controller must ensure that safeguards for the data subject’s rights, freedoms and legitimate interests are in place which comply with subsection (2) and any regulations under section 50D(4)."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s50C/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "(2)\nThe safeguards must consist of or include measures which—\n(a)\nprovide the data subject with information about decisions described in subsection (1) taken in relation to the data subject;"
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s50C/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nWhen considering whether there is meaningful human involvement in the reconsideration of a decision, a person must consider, among other things, the extent to which the conclusion reached on reconsideration is reached by means of profiling."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s50C",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s216",
+ "label": "GB-osa-2023 Section 216",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6b8d7fffbb617a1ac0dc9b1103e3b860924ce483bd50bda54e254ae98e8ff950",
+ "sha256_v1": "",
+ "sha256_v2": "6b8d7fffbb617a1ac0dc9b1103e3b860924ce483bd50bda54e254ae98e8ff950",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "6b8d7fffbb617a1ac0dc9b1103e3b860924ce483bd50bda54e254ae98e8ff950",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s216/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nRegulations may make provision having the effect that app stores provided from outside the United Kingdom are regulated by this Act (as well as app stores provided from within the United Kingdom), but, if they do so, must contain provision corresponding or similar to section 4(5) and (6) (UK links)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s216",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

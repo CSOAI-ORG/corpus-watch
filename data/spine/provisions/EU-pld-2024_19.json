@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-pld-2024:19",
+ "label": "EU-pld-2024 Article 19",
+ "instrument": "EU-pld-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "cd03ddac98ecd1eab1c34a6bb01ff191ac7a9cc7fe0b78e8b1593a57bd57076b",
+ "sha256_v1": "",
+ "sha256_v2": "cd03ddac98ecd1eab1c34a6bb01ff191ac7a9cc7fe0b78e8b1593a57bd57076b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "cd03ddac98ecd1eab1c34a6bb01ff191ac7a9cc7fe0b78e8b1593a57bd57076b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-pld-2024:19/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall publish, in an easily accessible and electronic format, any final judgment delivered by their national courts of appeal or of the highest instance in proceedings launched pursuant to this Directive."
+  },
+  {
+   "obligation_id": "EU-pld-2024:19/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The publication of such a judgment shall be carried out in accordance with national law."
+  },
+  {
+   "obligation_id": "EU-pld-2024:19/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall set up and maintain an easily accessible and publicly available database containing the judgments referred to in paragraph 1."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-pld-2024:19",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

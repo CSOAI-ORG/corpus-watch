@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022L2555:17",
+ "label": "NIS2 Directive Art. 17",
+ "instrument": "NIS2 Directive",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "54aedbeae86389045a302ec3b907aedbb906dc16d45ee1a33152f6c572403c39",
+ "sha256_v1": "54aedbeae86389045a302ec3b907aedbb906dc16d45ee1a33152f6c572403c39",
+ "sha256_v2": "22225649646b1cd861ad145696c867620af6a8dd015c9d940e2d5ef2a0cf7e18",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "22225649646b1cd861ad145696c867620af6a8dd015c9d940e2d5ef2a0cf7e18",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022L2555:17/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such agreements shall comply with Union data protection law."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022L2555:17",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

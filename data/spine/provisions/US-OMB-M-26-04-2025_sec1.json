@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-OMB-M-26-04-2025:sec1",
+ "label": "US-OMB-M-26-04-2025 Section 1",
+ "instrument": "US-OMB-M-26-04-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "c4536b35c4cc5f2980c29d7a06c8551af95b1c6160c9e782086106ea8f7109a8",
+ "sha256_v1": "",
+ "sha256_v2": "c4536b35c4cc5f2980c29d7a06c8551af95b1c6160c9e782086106ea8f7109a8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 4,
+ "sha256_current": "c4536b35c4cc5f2980c29d7a06c8551af95b1c6160c9e782086106ea8f7109a8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-OMB-M-26-04-2025:sec1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "CONTRACTUAL REQUIREMENTS When procuring an LLM, agencies must obtain sufficient information from the vendor to determine whether that LLM complies with the Unbiased AI Principles."
+  },
+  {
+   "obligation_id": "US-OMB-M-26-04-2025:sec1/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Consistent with the requirements of Section 3(g) of OMB Memorandum M-25-22, best Page 1 of 4 In addition to obtaining information about standalone LLMs under consideration for procurement, agencies must also request information regarding LLM development and operation when those models are integrated into other software products or services to be procured.14 A."
+  },
+  {
+   "obligation_id": "US-OMB-M-26-04-2025:sec1/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Minimum Threshold for LLM Transparency In solicitations for LLMs, agencies must request the following from a vendor: i."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-OMB-M-26-04-2025:sec1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

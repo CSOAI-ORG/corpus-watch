@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "ES-ai-sandbox-rd-817-2023:13",
+ "label": "ES-ai-sandbox-rd-817-2023 Artículo 13",
+ "instrument": "ES-ai-sandbox-rd-817-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "e4ef0b516bda0afb10d0bdefe80c2b80a1c1ddf153d84dab683bf522eb8e07ad",
+ "sha256_v1": "",
+ "sha256_v2": "e4ef0b516bda0afb10d0bdefe80c2b80a1c1ddf153d84dab683bf522eb8e07ad",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "ES",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "e4ef0b516bda0afb10d0bdefe80c2b80a1c1ddf153d84dab683bf522eb8e07ad",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:13/s2",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A la finalización de esta primera etapa, una vez que los proveedores IA participantes y usuarios participantes han realizado las debidas actuaciones para la implementación de los requisitos recogidos en el artículo 11 del presente real decreto, el proveedor IA participante deberá realizar la declaración de cumplimiento.\n2."
+  },
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:13/s4",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "es:internal-record",
+   "status": "DRAFT",
+   "text": "Tanto el proveedor IA participante como, en su caso, el usuario participante deberá realizar las siguientes acciones para completar la autoevaluación:\na) Comprobará la correcta implementación de los requisitos establecidos en el artículo 11 del presente real decreto en sus sistemas de inteligencia artificial y de acuerdo con el plan de implementación previamente acordado.\nb) Comprobará que el sistema de gestión de la calidad es acorde con las especificaciones que ofrezca el órgano competente.\nc) Verificará que el diseño y desarrollo del proceso del sistema de inteligencia artificial y su seguimiento posterior a la comercialización son coherentes con lo establecido en la documentación técnica"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=ES-ai-sandbox-rd-817-2023:13",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

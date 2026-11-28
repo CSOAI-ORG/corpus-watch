@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s149",
+ "label": "GB-osa-2023 Section 149",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "fb3ad8f52c392a9607ff2513365a5738689676c6c93f0b3d0ac5e2508d8aec54",
+ "sha256_v1": "",
+ "sha256_v2": "fb3ad8f52c392a9607ff2513365a5738689676c6c93f0b3d0ac5e2508d8aec54",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "fb3ad8f52c392a9607ff2513365a5738689676c6c93f0b3d0ac5e2508d8aec54",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s149/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(2)\nOFCOM must publish details identifying the person and describing—\n(a)\nthe failure (or failures) to which the decision or notice relates, and\n(b)\nOFCOM’s response."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s149/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(7)\nOFCOM must notify the person concerned that information has been published under this section."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s149",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

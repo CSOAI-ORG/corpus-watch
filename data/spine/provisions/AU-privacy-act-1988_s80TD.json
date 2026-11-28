@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s80TD",
+ "label": "AU-privacy-act-1988 Section 80TD",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9d9dea8208063a2feaa6005ff85aec22638518a65c9738461e95d21d04487916",
+ "sha256_v1": "",
+ "sha256_v2": "9d9dea8208063a2feaa6005ff85aec22638518a65c9738461e95d21d04487916",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "9d9dea8208063a2feaa6005ff85aec22638518a65c9738461e95d21d04487916",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s80TD/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(7)\tA person exercising powers or performing functions under a delegation under subsection (6) must comply with any directions of the relevant chief executive."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s80TD",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

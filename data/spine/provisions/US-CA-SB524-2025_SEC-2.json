@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB524-2025:SEC-2",
+ "label": "US-CA-SB524-2025 SEC. 2.",
+ "instrument": "US-CA-SB524-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "00bd86b91a955bfd8715a5fe47b8b54edab1eaf6a82e0dd4bd78090d75729fc9",
+ "sha256_v1": "",
+ "sha256_v2": "00bd86b91a955bfd8715a5fe47b8b54edab1eaf6a82e0dd4bd78090d75729fc9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "00bd86b91a955bfd8715a5fe47b8b54edab1eaf6a82e0dd4bd78090d75729fc9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB524-2025:SEC-2/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "If the Commission on State Mandates determines that this act contains costs mandated by the state, reimbursement to local agencies and school districts for those costs shall be made pursuant to Part 7 (commencing with Section 17500) of Division 4 of Title 2 of the Government Code."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB524-2025:SEC-2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

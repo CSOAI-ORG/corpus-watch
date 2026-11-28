@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:1",
+ "label": "EU-ivdr-2017 Article 1",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "d84caa3fc37b2a8d5018fa5b128802cec1e331a0acfeb5ec2812a53e8eb9bcc9",
+ "sha256_v1": "",
+ "sha256_v2": "d84caa3fc37b2a8d5018fa5b128802cec1e331a0acfeb5ec2812a53e8eb9bcc9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d84caa3fc37b2a8d5018fa5b128802cec1e331a0acfeb5ec2812a53e8eb9bcc9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:1/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:subject matter",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-uk-gdpr-2016:45C",
+ "label": "GB-uk-gdpr-2016 Article 45C",
+ "instrument": "GB-uk-gdpr-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "4ea560151b8c4131d347eeed7a9627e8278c1eff40652cb1e53a3859c6a3fad6",
+ "sha256_v1": "",
+ "sha256_v2": "4ea560151b8c4131d347eeed7a9627e8278c1eff40652cb1e53a3859c6a3fad6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "4ea560151b8c4131d347eeed7a9627e8278c1eff40652cb1e53a3859c6a3fad6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-uk-gdpr-2016:45C/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Secretary of State must, on an ongoing basis, monitor developments in third countries and international organisations that could affect decisions to make regulations under Article 45A or to amend or revoke such regulations."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:45C/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the Secretary of State becomes aware that the data protection test is no longer met in relation to transfers approved, or of a description approved, in regulations under Article 45A, the Secretary of State must, to the extent necessary, amend or revoke the regulations."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:45C/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where regulations under Article 45A are amended or revoked in accordance with paragraph 2, the Secretary of State must enter into consultations with the third country or international organisation concerned with a view to improving the protection provided to data subjects with regard to the processing of personal data in the country or by the organisation."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:45C/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "The Secretary of State must publish—\n(a)\na list of the third countries and international organisations, and the descriptions of such countries and organisations, which are for the time being approved by regulations under Article 45A as places or persons to which personal data may be transferred, and\n(b)\na list of the third countries and international organisations, and the descriptions of such countries and organisations, which have been but are no longer approved by such regulations."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:45C/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "In the case of regulations under Article 45A which approve only certain transfers to a third country or international organisation specified or described in the regulations (in accordance with Article 45A(4)(b)), the lists published under paragraph 4 must specify or describe the relevant transfers."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-uk-gdpr-2016:45C",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

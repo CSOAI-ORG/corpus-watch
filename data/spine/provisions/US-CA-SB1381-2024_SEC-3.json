@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB1381-2024:SEC-3",
+ "label": "US-CA-SB1381-2024 SEC. 3.",
+ "instrument": "US-CA-SB1381-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "4251efb0e70bc6a987a8822aeb0c6a8d5b5ee913947075c93e6a0a69b225c899",
+ "sha256_v1": "",
+ "sha256_v2": "4251efb0e70bc6a987a8822aeb0c6a8d5b5ee913947075c93e6a0a69b225c899",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "4251efb0e70bc6a987a8822aeb0c6a8d5b5ee913947075c93e6a0a69b225c899",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB1381-2024:SEC-3/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)Every person who, with knowledge that a person is a minor, or who, while in possession of any facts on the basis of which they should reasonably know that the person is a minor, hires, employs, or uses the minor to do or assist in doing any of the acts described in Section 311.2, shall be punished by imprisonment in the county jail for up to one year, or by a fine not exceeding two thousand dollars ($2,000), or by both that fine and imprisonment, or by imprisonment in the state prison."
+  },
+  {
+   "obligation_id": "US-CA-SB1381-2024:SEC-3/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)Every person who, with knowledge that a person is a minor under 18 years of age, or who, while in possession of any facts on the basis of which they should reasonably know that the person is a minor under 18 years of age, knowingly promotes, employs, uses, persuades, induces, or coerces a minor under 18 years of age, or any parent or guardian of a minor under 18 years of age who is under their control who knowingly permits the minor, to engage in or assist others to engage in either posing or modeling alone or with others for purposes of preparing any representation of information, data, or image, including, but not limited to, any film, filmstrip, photograph, negative, slide, photocopy, "
+  },
+  {
+   "obligation_id": "US-CA-SB1381-2024:SEC-3/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(f)In every prosecution under this section involving a minor under 14 years of age at the time of the offense, the age of the victim shall be pled and proven for the purpose of the enhanced penalty provided in Section 647.6."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB1381-2024:SEC-3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

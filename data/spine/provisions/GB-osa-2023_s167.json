@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s167",
+ "label": "GB-osa-2023 Section 167",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6042a7bf6fedb7fe78e12313780a04a6df35c75393598b3864dbbc7ae7ef5000",
+ "sha256_v1": "",
+ "sha256_v2": "6042a7bf6fedb7fe78e12313780a04a6df35c75393598b3864dbbc7ae7ef5000",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "6042a7bf6fedb7fe78e12313780a04a6df35c75393598b3864dbbc7ae7ef5000",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s167/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nThe Upper Tribunal must decide the appeal by applying the same principles as would be applied—\n(a)\nby the High Court on an application for judicial review, or\n(b)\nin Scotland, on an application to the supervisory jurisdiction of the Court of Session."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s167/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(7)\nWhere a decision is quashed, the Upper Tribunal must remit the decision to OFCOM for reconsideration with such directions (if any) as the Tribunal considers appropriate."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s167",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,49 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:44",
+ "label": "GDPR Art. 44",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9f2d77c84c17846b5ea4cabbe598c0c1696bfcec3e6593be8894004f963a982b",
+ "sha256_v1": "9f2d77c84c17846b5ea4cabbe598c0c1696bfcec3e6593be8894004f963a982b",
+ "sha256_v2": "7b94bc3e829038ad5d8b3e9fe95a84ac0f11b3b8f4159226cd1af82f95641a18",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "7b94bc3e829038ad5d8b3e9fe95a84ac0f11b3b8f4159226cd1af82f95641a18",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:44/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Article 44 General principle for transfers Any transfer of personal data which are undergoing processing or are intended for processing after transfer to a third country or to an international organisation shall take place only if, subject to the other provisions of this Regulation, the conditions laid down in this Chapter are complied with by the controller and processor, including for onward transfers of personal data from the third country or an international organisation to another third country or to another international organisation."
+  },
+  {
+   "obligation_id": "32016R0679:44/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "All provisions in this Chapter shall be applied in order to ensure that the level of protection of natural persons guaranteed by this Regulation is not undermined."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:44",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-pld-2024:13",
+ "label": "EU-pld-2024 Article 13",
+ "instrument": "EU-pld-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "cc32696377b9d2ac07df71013ceb429957a7abad3ddc09e7725a2821d7d31038",
+ "sha256_v1": "",
+ "sha256_v2": "cc32696377b9d2ac07df71013ceb429957a7abad3ddc09e7725a2821d7d31038",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "cc32696377b9d2ac07df71013ceb429957a7abad3ddc09e7725a2821d7d31038",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-pld-2024:13/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Without prejudice to national law concerning rights of contribution or recourse, Member States shall ensure that the liability of an economic operator is not reduced or disallowed where the damage is caused both by the defectiveness of a product and by an act or omission of a third party."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-pld-2024:13",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

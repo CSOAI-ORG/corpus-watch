@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s122",
+ "label": "GB-dpa-2018 Section 122",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "b443cd45fef9f705260a8ae488abf09cb2b45820e3e1cade4beac81e3af0e0ce",
+ "sha256_v1": "",
+ "sha256_v2": "b443cd45fef9f705260a8ae488abf09cb2b45820e3e1cade4beac81e3af0e0ce",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "b443cd45fef9f705260a8ae488abf09cb2b45820e3e1cade4beac81e3af0e0ce",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s122/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Direct marketing code\n(1)\nThe Commission must prepare a code of practice which contains—\n(a)\npractical guidance in relation to the carrying out of direct marketing in accordance with the requirements of the data protection legislation and the Privacy and Electronic Communications (EC Directive) Regulations 2003 (S.I. 2003/2426), and\n(b)\nsuch other guidance as the Commission considers appropriate to promote good practice in direct marketing."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s122/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(3)\nBefore preparing a code or amendments under this section, the Commission must consult the Secretary of State and such of the following as the Commission considers appropriate—\n(a)\ntrade associations;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s122",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

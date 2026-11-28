@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s121",
+ "label": "GB-dpa-2018 Section 121",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "884cc88f59d8c291c2de5d0fff40337c81d2a9908f10cdc4f7304cc55cb75f6d",
+ "sha256_v1": "",
+ "sha256_v2": "884cc88f59d8c291c2de5d0fff40337c81d2a9908f10cdc4f7304cc55cb75f6d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "884cc88f59d8c291c2de5d0fff40337c81d2a9908f10cdc4f7304cc55cb75f6d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s121/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Data-sharing code\n(1)\nThe Commission must prepare a code of practice which contains—\n(a)\npractical guidance in relation to the sharing of personal data in accordance with the requirements of the data protection legislation, and\n(b)\nsuch other guidance as the Commission considers appropriate to promote good practice in the sharing of personal data."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s121/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(3)\nBefore preparing a code or amendments under this section, the Commission must consult the Secretary of State and such of the following as the Commission considers appropriate—\n(a)\ntrade associations;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s121",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14179-2025:sec6",
+ "label": "US-EO14179-2025 Section 6",
+ "instrument": "US-EO14179-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f43c049402b75ed98b7e65c9244efa9989e3489b091315f32339e9da1df002cd",
+ "sha256_v1": "",
+ "sha256_v2": "f43c049402b75ed98b7e65c9244efa9989e3489b091315f32339e9da1df002cd",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "f43c049402b75ed98b7e65c9244efa9989e3489b091315f32339e9da1df002cd",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14179-2025:sec6/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14179-2025:sec6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

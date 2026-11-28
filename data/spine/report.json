@@ -1,0 +1,847 @@
+{
+ "generated_at": "2026-11-28T14:01:52+00:00",
+ "root_v1_matches_frozen": true,
+ "adapters": [
+  {
+   "adapter": "au_legislation_gov_au",
+   "status": "REACHABLE",
+   "documents": 2,
+   "gates": {
+    "STABLE": 2
+   },
+   "provisions": 374,
+   "hosts": [
+    "api.prod.legislation.gov.au"
+   ],
+   "latest_version": "pinned (compilation start date in URL)",
+   "insertion_detection": false,
+   "note": "Federal Register of Legislation API, Word compilation"
+  },
+  {
+   "adapter": "ca_justice_laws",
+   "status": "REACHABLE",
+   "documents": 2,
+   "gates": {
+    "STABLE": 2
+   },
+   "provisions": 81,
+   "hosts": [
+    "laws-lois.justice.gc.ca"
+   ],
+   "latest_version": "inherent",
+   "insertion_detection": false,
+   "note": "Justice Laws consolidated FullText.html (current); index/page URLs resolve to it"
+  },
+  {
+   "adapter": "cl_bcn_leychile",
+   "status": "REACHABLE",
+   "documents": 1,
+   "gates": {
+    "STABLE": 1
+   },
+   "provisions": 102,
+   "hosts": [
+    "www.bcn.cl"
+   ],
+   "latest_version": "inherent",
+   "insertion_detection": false,
+   "note": "BCN Ley Chile XML service (obtxml); the navegar page is a JS shell"
+  },
+  {
+   "adapter": "cn_flk_npc",
+   "status": "REACHABLE",
+   "documents": 4,
+   "gates": {
+    "STABLE": 4
+   },
+   "provisions": 274,
+   "hosts": [
+    "flk.npc.gov.cn"
+   ],
+   "latest_version": "pinned (bbbs = one published version of the law)",
+   "insertion_detection": true,
+   "note": "NPC national law database: download API returns a signed object-store URL for the DOCX"
+  },
+  {
+   "adapter": "cn_gov_cn",
+   "status": "REACHABLE",
+   "documents": 4,
+   "gates": {
+    "STABLE": 4
+   },
+   "provisions": 98,
+   "hosts": [
+    "www.gov.cn"
+   ],
+   "latest_version": "pinned (policy-library page)",
+   "insertion_detection": true,
+   "note": "State Council policy library page (republishes CAC orders; cac.gov.cn blocks automated clients)"
+  },
+  {
+   "adapter": "es_boe_api",
+   "status": "REACHABLE",
+   "documents": 2,
+   "gates": {
+    "STABLE": 2
+   },
+   "provisions": 102,
+   "hosts": [
+    "www.boe.es"
+   ],
+   "latest_version": "inherent",
+   "insertion_detection": false,
+   "note": "BOE open-data API legislacion-consolidada/texto (current consolidated text)"
+  },
+  {
+   "adapter": "eu_cellar",
+   "status": "REACHABLE",
+   "documents": 33,
+   "gates": {
+    "STABLE": 33
+   },
+   "provisions": 1694,
+   "hosts": [
+    "publications.europa.eu"
+   ],
+   "latest_version": "pinned-OJ (current law via spine.fluid consolidated diff)",
+   "insertion_detection": true,
+   "note": "OJ XHTML manifestation; EU-six resolved from CELEX via SPARQL"
+  },
+  {
+   "adapter": "gb_ico_guidance",
+   "status": "REACHABLE",
+   "documents": 14,
+   "gates": {
+    "STABLE": 14
+   },
+   "provisions": 14,
+   "hosts": [
+    "ico.org.uk"
+   ],
+   "latest_version": "inherent",
+   "insertion_detection": false,
+   "note": "ICO guidance chapter pages: <main> content with <nav>/<form>/<aside> removed (as frozen)"
+  },
+  {
+   "adapter": "identifier_only",
+   "status": "NOT_FETCHED",
+   "documents": 40,
+   "gates": {
+    "NO_FETCH": 40
+   },
+   "provisions": 162,
+   "hosts": [],
+   "latest_version": "inherent",
+   "insertion_detection": false,
+   "note": "IDS_ONLY rows: no text frozen (licence or access), nothing to re-fetch"
+  },
+  {
+   "adapter": "it_normattiva_akn",
+   "status": "REACHABLE",
+   "documents": 3,
+   "gates": {
+    "STABLE": 3
+   },
+   "provisions": 104,
+   "hosts": [
+    "www.normattiva.it"
+   ],
+   "latest_version": "pinned (dataVigenza in URL)",
+   "insertion_detection": false,
+   "note": "Normattiva Akoma Ntoso export; authorialNote (editorial notes) removed as frozen"
+  },
+  {
+   "adapter": "jp_egov",
+   "status": "REACHABLE",
+   "documents": 2,
+   "gates": {
+    "STABLE": 2
+   },
+   "provisions": 215,
+   "hosts": [
+    "laws.e-gov.go.jp"
+   ],
+   "latest_version": "inherent",
+   "insertion_detection": true,
+   "note": "e-Gov law API v2 law_data (current revision); title rendered before caption as frozen"
+  },
+  {
+   "adapter": "kr_law_go_kr",
+   "status": "REACHABLE",
+   "documents": 3,
+   "gates": {
+    "STABLE": 3
+   },
+   "provisions": 212,
+   "hosts": [
+    "www.law.go.kr",
+    "law.go.kr"
+   ],
+   "latest_version": "pinned (efYd effective-date version in URL)",
+   "insertion_detection": true,
+   "note": ""
+  },
+  {
+   "adapter": "legislation_gov_uk",
+   "status": "REACHABLE",
+   "documents": 6,
+   "gates": {
+    "STABLE": 6
+   },
+   "provisions": 1095,
+   "hosts": [
+    "www.legislation.gov.uk",
+    "legislation.gov.uk"
+   ],
+   "latest_version": "inherent",
+   "insertion_detection": true,
+   "note": "data.xml (latest revised); provision text hashed, so page metadata churn is not drift"
+  },
+  {
+   "adapter": "pinned_document",
+   "status": "REACHABLE",
+   "documents": 102,
+   "gates": {
+    "STABLE": 102
+   },
+   "provisions": 2522,
+   "hosts": [],
+   "latest_version": "pinned (recorded URL)",
+   "insertion_detection": false,
+   "note": "generic: fetch the recorded URL, sniff PDF/DOCX/HTML, apply the per-instrument recipe"
+  },
+  {
+   "adapter": "tw_law_moj",
+   "status": "REACHABLE",
+   "documents": 2,
+   "gates": {
+    "STABLE": 2
+   },
+   "provisions": 86,
+   "hosts": [
+    "law.moj.gov.tw"
+   ],
+   "latest_version": "inherent",
+   "insertion_detection": true,
+   "note": "LawAll page (current). Page bytes change per request (ASP.NET state); provision hashes do not"
+  },
+  {
+   "adapter": "us_ca_leginfo_bulk",
+   "status": "REACHABLE",
+   "documents": 63,
+   "gates": {
+    "STABLE": 63
+   },
+   "provisions": 366,
+   "hosts": [
+    "downloads.leginfo.legislature.ca.gov"
+   ],
+   "latest_version": "pinned (session archive member = one bill version)",
+   "insertion_detection": false,
+   "note": "California pubinfo bulk ZIP; only the named .lob member is fetched, by HTTP Range"
+  },
+  {
+   "adapter": "us_ecfr",
+   "status": "REACHABLE",
+   "documents": 21,
+   "gates": {
+    "STABLE": 21
+   },
+   "provisions": 143,
+   "hosts": [
+    "www.ecfr.gov"
+   ],
+   "latest_version": "inherent",
+   "insertion_detection": false,
+   "note": "eCFR renderer API (current); HTML pages redirect automated clients to a challenge"
+  },
+  {
+   "adapter": "us_federal_register",
+   "status": "REACHABLE",
+   "documents": 14,
+   "gates": {
+    "STABLE": 14
+   },
+   "provisions": 115,
+   "hosts": [
+    "www.federalregister.gov"
+   ],
+   "latest_version": "pinned (a published FR document does not change)",
+   "insertion_detection": false,
+   "note": "FR full_text HTML route; document pages redirect automated clients to a challenge"
+  },
+  {
+   "adapter": "us_govinfo",
+   "status": "REACHABLE",
+   "documents": 8,
+   "gates": {
+    "STABLE": 8
+   },
+   "provisions": 86,
+   "hosts": [
+    "www.govinfo.gov"
+   ],
+   "latest_version": "pinned (USCODE edition in URL)",
+   "insertion_detection": false,
+   "note": ""
+  },
+  {
+   "adapter": "us_state_pinned",
+   "status": "REACHABLE",
+   "documents": 27,
+   "gates": {
+    "STABLE": 27
+   },
+   "provisions": 266,
+   "hosts": [
+    "capitol.texas.gov",
+    "leg.colorado.gov",
+    "cppa.ca.gov"
+   ],
+   "latest_version": "pinned (enrolled bill / approved regulation text)",
+   "insertion_detection": false,
+   "note": "enrolled bill or approved text; later amendments arrive as new instruments in the registry"
+  },
+  {
+   "adapter": "us_state_utah",
+   "status": "REACHABLE",
+   "documents": 27,
+   "gates": {
+    "STABLE": 27
+   },
+   "provisions": 117,
+   "hosts": [
+    "le.utah.gov"
+   ],
+   "latest_version": "resolved: page shell's versionDefault = 'Current Version'",
+   "insertion_detection": false,
+   "note": "xcode shell page names the current version; its .xml holds history + catchline + text (as frozen)"
+  },
+  {
+   "adapter": "uy_impo",
+   "status": "REACHABLE",
+   "documents": 5,
+   "gates": {
+    "STABLE": 5
+   },
+   "provisions": 112,
+   "hosts": [
+    "www.impo.com.uy"
+   ],
+   "latest_version": "inherent",
+   "insertion_detection": false,
+   "note": "IMPO consolidated text via ?json=true (the method the frozen slice used)"
+  }
+ ],
+ "engine_exit_code": 0,
+ "root_v2": "57959dd0b128a6939acc57996ded63a60ee6af204590884a0a6f9755449d972f",
+ "counts": {
+  "provisions": 8361,
+  "source_state": {
+   "REPRODUCED": 8050,
+   "INSERTED_BY_AMENDMENT": 18,
+   "UNKNOWN": 293
+  },
+  "ladder": {
+   "HASH_ONLY": 293,
+   "SOURCE_RECOVERED": 3275,
+   "OBLIGATIONS_DRAFTED": 4742,
+   "CROSSWALK_ONLY": 38,
+   "RELATED_MEASURE": 12,
+   "PREDICATE": 1,
+   "CAPSULE_BOUND": 0
+  },
+  "evidence_kind_by_provision": {
+   "NONE": 3298,
+   "SUBMITTED": 655,
+   "UNTRIAGED": 2071,
+   "OBSERVED": 433,
+   "AUTHORITY": 386,
+   "UNKNOWN": 1518
+  },
+  "obligation_rows": 21926,
+  "obligation_rows_by_kind": {
+   "NONE": 3298,
+   "SUBMITTED": 1884,
+   "AUTHORITY": 3111,
+   "UNTRIAGED": 13023,
+   "OBSERVED": 610
+  },
+  "truncated_in_v1": 11,
+  "capsules_bound_provisions": 0,
+  "by_jurisdiction": {
+   "EU": 1690,
+   "AU": 374,
+   "CA": 81,
+   "CL": 102,
+   "CN": 404,
+   "ES": 102,
+   "CoE": 36,
+   "GB": 1143,
+   "ID": 76,
+   "IN": 21,
+   "INTL": 374,
+   "OECD": 26,
+   "UN": 215,
+   "IT": 104,
+   "JP": 215,
+   "KR": 212,
+   "US": 1969,
+   "PE": 43,
+   "HK": 130,
+   "DE": 106,
+   "DK": 13,
+   "FI": 29,
+   "IE": 150,
+   "LV": 12,
+   "HU": 22,
+   "MT": 11,
+   "CH": 77,
+   "AR": 49,
+   "BR": 80,
+   "MU": 60,
+   "NG": 62,
+   "PY": 62,
+   "RW": 70,
+   "SA": 43,
+   "TW": 86,
+   "UY": 112
+  },
+  "change_since_oj": {
+   "AMENDED": 108,
+   "UNCHANGED": 3059,
+   "NOISE": 27,
+   "UNKNOWN": 683,
+   "INSERTED": 18,
+   "PINNED_NOT_CHECKED": 4466
+  },
+  "engine_inputs": [
+   "registry_americas.jsonl",
+   "registry_apac_standards.jsonl",
+   "registry_asia_pacific.jsonl",
+   "registry_eu_six.jsonl",
+   "registry_europe_intl.jsonl",
+   "registry_europe_national.jsonl",
+   "registry_latam_africa_me.jsonl",
+   "registry_us.jsonl",
+   "provisions_americas.jsonl",
+   "provisions_apac_standards.jsonl",
+   "provisions_asia_pacific.jsonl",
+   "provisions_eu_six.jsonl",
+   "provisions_europe_intl.jsonl",
+   "provisions_europe_national.jsonl",
+   "provisions_latam_africa_me.jsonl",
+   "provisions_us.jsonl"
+  ],
+  "engine_documents": 385,
+  "engine_gates": {
+   "STABLE": 345,
+   "NO_FETCH": 40
+  },
+  "change_vs_frozen": {
+   "UNCHANGED": 8044,
+   "NOT_IN_CORPUS_V2": 3,
+   "INSERTED": 18,
+   "UNKNOWN": 293,
+   "AMENDED": 2,
+   "NOISE": 1
+  },
+  "current_law_class": {
+   "AMENDED": 108,
+   "UNCHANGED": 3059,
+   "NOISE": 27,
+   "UNKNOWN": 683,
+   "INSERTED": 18,
+   "PINNED_NOT_CHECKED": 4466
+  },
+  "by_jurisdiction_class": {
+   "AR": {
+    "UNCHANGED": 49,
+    "_total": 49
+   },
+   "AU": {
+    "UNCHANGED": 374,
+    "_total": 374
+   },
+   "BR": {
+    "UNCHANGED": 80,
+    "_total": 80
+   },
+   "CA": {
+    "UNCHANGED": 81,
+    "_total": 81
+   },
+   "CH": {
+    "UNCHANGED": 77,
+    "_total": 77
+   },
+   "CL": {
+    "UNCHANGED": 49,
+    "_total": 102,
+    "UNKNOWN": 53
+   },
+   "CN": {
+    "UNCHANGED": 404,
+    "_total": 404
+   },
+   "CoE": {
+    "UNCHANGED": 36,
+    "_total": 36
+   },
+   "DE": {
+    "UNCHANGED": 106,
+    "_total": 106
+   },
+   "DK": {
+    "UNCHANGED": 13,
+    "_total": 13
+   },
+   "ES": {
+    "UNCHANGED": 102,
+    "_total": 102
+   },
+   "EU": {
+    "UNCHANGED": 1668,
+    "_total": 1690,
+    "NOT_IN_CORPUS_V2": 3,
+    "INSERTED": 18,
+    "UNKNOWN": 1
+   },
+   "FI": {
+    "UNCHANGED": 29,
+    "_total": 29
+   },
+   "GB": {
+    "UNCHANGED": 1113,
+    "_total": 1143,
+    "AMENDED": 2,
+    "UNKNOWN": 28
+   },
+   "HK": {
+    "UNCHANGED": 82,
+    "_total": 130,
+    "UNKNOWN": 48
+   },
+   "HU": {
+    "UNCHANGED": 20,
+    "_total": 22,
+    "UNKNOWN": 1,
+    "NOISE": 1
+   },
+   "ID": {
+    "UNKNOWN": 76,
+    "_total": 76
+   },
+   "IE": {
+    "UNCHANGED": 150,
+    "_total": 150
+   },
+   "IN": {
+    "UNKNOWN": 21,
+    "_total": 21
+   },
+   "INTL": {
+    "UNKNOWN": 61,
+    "_total": 374,
+    "UNCHANGED": 313
+   },
+   "IT": {
+    "UNCHANGED": 104,
+    "_total": 104
+   },
+   "JP": {
+    "UNCHANGED": 215,
+    "_total": 215
+   },
+   "KR": {
+    "UNCHANGED": 212,
+    "_total": 212
+   },
+   "LV": {
+    "UNCHANGED": 11,
+    "_total": 12,
+    "UNKNOWN": 1
+   },
+   "MT": {
+    "UNCHANGED": 11,
+    "_total": 11
+   },
+   "MU": {
+    "UNCHANGED": 60,
+    "_total": 60
+   },
+   "NG": {
+    "UNCHANGED": 62,
+    "_total": 62
+   },
+   "OECD": {
+    "UNKNOWN": 2,
+    "_total": 26,
+    "UNCHANGED": 24
+   },
+   "PE": {
+    "UNCHANGED": 43,
+    "_total": 43
+   },
+   "PY": {
+    "UNCHANGED": 62,
+    "_total": 62
+   },
+   "RW": {
+    "UNCHANGED": 70,
+    "_total": 70
+   },
+   "SA": {
+    "UNCHANGED": 43,
+    "_total": 43
+   },
+   "TW": {
+    "UNCHANGED": 86,
+    "_total": 86
+   },
+   "UN": {
+    "UNKNOWN": 1,
+    "_total": 215,
+    "UNCHANGED": 214
+   },
+   "US": {
+    "UNCHANGED": 1969,
+    "_total": 1969
+   },
+   "UY": {
+    "UNCHANGED": 112,
+    "_total": 112
+   }
+  },
+  "wave_conflicts": 0,
+  "wave_rejected": 0,
+  "missing_shards": [],
+  "duplicate_records_dropped": [],
+  "agent_register_rows": 2620,
+  "agent_rows_stale_amended": 434,
+  "two_method_agreement": {
+   "OBSERVED": {
+    "both": 10,
+    "deterministic_only": 24,
+    "agent_only": 21
+   },
+   "SUBMITTED": {
+    "both": 99,
+    "deterministic_only": 21,
+    "agent_only": 98
+   }
+  },
+  "predicate_shortlist": [
+   "32016R0679:13",
+   "32016R0679:14",
+   "32016R0679:37",
+   "32022L2464:29",
+   "32022L2464:40",
+   "32024R1689:26",
+   "32024R1689:50",
+   "32024R1689:71",
+   "32024R2847:13",
+   "32024R2847:19"
+  ]
+ },
+ "drift": {
+  "baseline": true
+ },
+ "unknown_instruments": [],
+ "amendments": [
+  {
+   "celex": "32024R1689",
+   "consolidated": "02024R1689-20260727",
+   "gate": "STABLE",
+   "classes": {
+    "AMENDED": 39,
+    "INSERTED": 7,
+    "UNCHANGED": 80,
+    "NOISE": 7
+   }
+  },
+  {
+   "celex": "32016R0679",
+   "consolidated": "02016R0679-20160504",
+   "gate": "STABLE",
+   "classes": {
+    "UNCHANGED": 90,
+    "AMENDED": 9
+   }
+  },
+  {
+   "celex": "32024R2847",
+   "consolidated": "02024R2847-20241120",
+   "gate": "STABLE",
+   "classes": {
+    "UNCHANGED": 74,
+    "NOISE": 2,
+    "AMENDED": 3
+   }
+  },
+  {
+   "celex": "32022R2554",
+   "consolidated": "02022R2554-20221227",
+   "gate": "NO_XHTML",
+   "classes": {
+    "UNKNOWN": 64
+   }
+  },
+  {
+   "celex": "32022L2555",
+   "consolidated": "02022L2555-20221227",
+   "gate": "STABLE",
+   "classes": {
+    "UNCHANGED": 48,
+    "AMENDED": 1
+   }
+  },
+  {
+   "celex": "32022L2464",
+   "consolidated": "02022L2464-20260318",
+   "gate": "STABLE",
+   "classes": {
+    "AMENDED": 5,
+    "UNCHANGED": 3
+   }
+  }
+ ],
+ "amended_provisions": [
+  "32016R0679:37",
+  "32016R0679:41",
+  "32016R0679:42",
+  "32016R0679:43",
+  "32016R0679:57",
+  "32016R0679:64",
+  "32016R0679:65",
+  "32016R0679:69",
+  "32016R0679:70",
+  "32022L2464:1",
+  "32022L2464:2",
+  "32022L2464:3",
+  "32022L2464:5",
+  "32022L2464:6",
+  "32022L2555:19",
+  "32024R1689:-1",
+  "32024R1689:-8",
+  "32024R1689:1",
+  "32024R1689:10",
+  "32024R1689:108",
+  "32024R1689:11",
+  "32024R1689:111",
+  "32024R1689:113",
+  "32024R1689:17",
+  "32024R1689:2",
+  "32024R1689:25",
+  "32024R1689:27",
+  "32024R1689:28",
+  "32024R1689:29",
+  "32024R1689:3",
+  "32024R1689:30",
+  "32024R1689:4",
+  "32024R1689:40",
+  "32024R1689:42",
+  "32024R1689:43",
+  "32024R1689:5",
+  "32024R1689:50",
+  "32024R1689:56",
+  "32024R1689:57",
+  "32024R1689:58",
+  "32024R1689:6",
+  "32024R1689:60",
+  "32024R1689:63",
+  "32024R1689:64",
+  "32024R1689:69",
+  "32024R1689:70",
+  "32024R1689:72",
+  "32024R1689:75",
+  "32024R1689:76",
+  "32024R1689:77",
+  "32024R1689:95",
+  "32024R1689:96",
+  "32024R1689:97",
+  "32024R1689:99",
+  "EU-ccd2-2023:10",
+  "EU-ccd2-2023:16",
+  "EU-ccd2-2023:2",
+  "EU-ccd2-2023:3",
+  "EU-ccd2-2023:annex-I",
+  "EU-ccd2-2023:annex-II",
+  "EU-gpsr-2023:2",
+  "EU-gpsr-2023:3",
+  "EU-gpsr-2023:48",
+  "EU-ivdr-2017:110",
+  "EU-ivdr-2017:112",
+  "EU-ivdr-2017:113",
+  "EU-ivdr-2017:40",
+  "EU-ivdr-2017:48",
+  "EU-ivdr-2017:70",
+  "EU-ivdr-2017:74",
+  "EU-ivdr-2017:annex-I",
+  "EU-ivdr-2017:annex-III",
+  "EU-ivdr-2017:annex-IX",
+  "EU-ivdr-2017:annex-VII",
+  "EU-ivdr-2017:annex-VIII",
+  "EU-led-2016:51",
+  "EU-machinery-2023:20",
+  "EU-machinery-2023:3",
+  "EU-machinery-2023:47",
+  "EU-machinery-2023:8",
+  "EU-machinery-2023:annex-III",
+  "EU-machinery-2023:annex-V",
+  "EU-mdr-2017:106",
+  "EU-mdr-2017:120",
+  "EU-mdr-2017:122",
+  "EU-mdr-2017:123",
+  "EU-mdr-2017:2",
+  "EU-mdr-2017:34",
+  "EU-mdr-2017:44",
+  "EU-mdr-2017:52",
+  "EU-mdr-2017:59",
+  "EU-mdr-2017:61",
+  "EU-mdr-2017:7",
+  "EU-mdr-2017:74",
+  "EU-mdr-2017:78",
+  "EU-mdr-2017:annex-I",
+  "EU-mdr-2017:annex-II",
+  "EU-mdr-2017:annex-III",
+  "EU-mdr-2017:annex-IX",
+  "EU-mdr-2017:annex-VI",
+  "EU-mdr-2017:annex-VII",
+  "EU-mdr-2017:annex-VIII",
+  "EU-mdr-2017:annex-XV",
+  "EU-mica-2023:81",
+  "EU-mica-2023:92",
+  "EU-platform-work-2024:2",
+  "GB-ico-ai-data-protection-guidance:what-are-the-accountability-and-governan",
+  "GB-uk-gdpr-2016:4"
+ ],
+ "inserted_provisions": [
+  "32024R1689:-14",
+  "32024R1689:4a",
+  "32024R1689:60a",
+  "32024R1689:75a",
+  "32024R1689:75b",
+  "32024R1689:75c",
+  "32024R1689:75d",
+  "EU-gpsr-2023:8a",
+  "EU-gpsr-2023:8b",
+  "EU-gpsr-2023:8c",
+  "EU-ivdr-2017:10a",
+  "EU-machinery-2023:25a",
+  "EU-machinery-2023:25b",
+  "EU-machinery-2023:25c",
+  "EU-machinery-2023:25d",
+  "EU-machinery-2023:25e",
+  "EU-mdr-2017:10a",
+  "EU-mica-2023:110a"
+ ],
+ "files_sha256": {
+  "corpus_current.jsonl": "929e8ffc74b7aec58e77c83f7b9445cd58f57bbabef0943c3b4dd808b7ffcd3d",
+  "corpus_v2.jsonl": "bedaa9d6f765c24804515cca4f61fa5f58220565c9a3a81b0fa93292f81b9d35",
+  "corpus_v1_reproduction.jsonl": "b4656a262f53c59fd24ab86dee30f5acfb42396d8a741364ee043b1753edcc08",
+  "obligations.jsonl": "81f8ab6627c0bdea708427812d9f1743f0229a7e9093e41968af56f1f9f0a0ac",
+  "provision_state.jsonl": "ca016f122f673f8f2f0cbe9d9e165dde0187ef2f6f7258f1bec9195990e2d9f1",
+  "stale_drafts.jsonl": "6f72cde854880b3bfe741cbfe37d0a885fd475bf26c867e1de0917de60bc6c0d"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:64",
+ "label": "EU-mdr-2017 Article 64",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "066e96d334689b33c87d35e777cb48efef1080cfeca1e293bdf47b09fe270224",
+ "sha256_v1": "",
+ "sha256_v2": "066e96d334689b33c87d35e777cb48efef1080cfeca1e293bdf47b09fe270224",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "066e96d334689b33c87d35e777cb48efef1080cfeca1e293bdf47b09fe270224",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:64/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The subject shall as far as possible take part in the informed consent procedure."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:64",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

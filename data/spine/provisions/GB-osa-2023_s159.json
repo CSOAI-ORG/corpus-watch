@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s159",
+ "label": "GB-osa-2023 Section 159",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "3ad146568978ce75b09f80b37348ab80c3042987a5b85c6fb15eb58593f762d9",
+ "sha256_v1": "",
+ "sha256_v2": "3ad146568978ce75b09f80b37348ab80c3042987a5b85c6fb15eb58593f762d9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "3ad146568978ce75b09f80b37348ab80c3042987a5b85c6fb15eb58593f762d9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s159/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "OFCOM’s transparency reports\n(1)\nOFCOM must produce transparency reports based on information contained in the transparency reports produced by providers of Part 3 services under section 77."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s159/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nOFCOM’s transparency reports must contain—\n(a)\na summary of conclusions drawn from the transparency reports produced under section 77 regarding patterns or trends which OFCOM have identified in such reports,\n(b)\na summary of measures mentioned in such transparency reports which OFCOM consider to be good industry practice, and\n(c)\nany other information from such transparency reports which OFCOM consider it appropriate to include."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s159/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(3)\nOFCOM’s first transparency report must be published by the end of the period of one year beginning with—\n(a)\nthe day on which the first report under section 77 is published by a provider of a Part 3 service (see subsection (3)(d) of that section), or\n(b)\nif later, the earliest date specified by OFCOM for submission of a report under section 77 in a notice given to a provider (see subsection (3)(c) of that section)."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s159/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(4)\nOFCOM must publish a transparency report at least once a year after the publication of their first transparency report."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s159",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

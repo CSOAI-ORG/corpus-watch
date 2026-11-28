@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s40",
+ "label": "GB-duaa-2025 Section 40",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "000ae5481705583c622a44a573c87a9898b1a0d0c62e8ac881833f5d51604f92",
+ "sha256_v1": "",
+ "sha256_v2": "000ae5481705583c622a44a573c87a9898b1a0d0c62e8ac881833f5d51604f92",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "000ae5481705583c622a44a573c87a9898b1a0d0c62e8ac881833f5d51604f92",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s40/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Duty to remove person from the DVS register\n(1)\nThe Secretary of State must remove a person from the DVS register if the person—\n(a)\nasks to be removed from the register,\n(b)\nceases to provide all of the digital verification services in respect of which the person is registered in the register, or\n(c)\nno longer holds a certificate from an accredited conformity assessment body certifying that at least one of those digital verification services is provided in accordance with the DVS trust framework."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s40/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nFor the purposes of subsection (1)(c), a certificate is to be ignored if—\n(a)\nit has expired in accordance with its terms,\n(b)\nit has been withdrawn by the body that issued it, or\n(c)\nit is required to be ignored by reason of provision included in the DVS trust framework under section 28(8)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s40",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

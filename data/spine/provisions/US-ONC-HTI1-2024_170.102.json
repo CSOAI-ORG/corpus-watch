@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-ONC-HTI1-2024:170.102",
+ "label": "US-ONC-HTI1-2024 45 CFR 170.102",
+ "instrument": "US-ONC-HTI1-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "eb93d4b08207d2d432680a21ac8b8a43820c085ea3e036d41ce7eeeb4f123f75",
+ "sha256_v1": "",
+ "sha256_v2": "eb93d4b08207d2d432680a21ac8b8a43820c085ea3e036d41ce7eeeb4f123f75",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "eb93d4b08207d2d432680a21ac8b8a43820c085ea3e036d41ce7eeeb4f123f75",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-ONC-HTI1-2024:170.102/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i) The patient's diastolic blood pressure, systolic blood pressure, body height, body weight, heart rate, respiratory rate, body temperature, pulse oximetry, and inhaled oxygen concentration must be exchanged in numerical values only; and (ii) In accordance with the standard specified in § 170.207(c)(3) and with the associated applicable unit of measure for the vital sign measurement in the standard specified in § 170.207(m)(1)."
+  },
+  {
+   "obligation_id": "US-ONC-HTI1-2024:170.102/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The patient's BMI percentile per age and sex for youth 2-20 years of age, weight for age per length and sex for children less than 3 years of age, and head occipital-frontal circumference for children less than 3 years of age must be recorded in numerical values only in accordance with the standard specified in § 170.207(c)(3) and with the associated applicable unit of measure for the vital sign measurement in the standard specified in § 170.207(m)(1)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-ONC-HTI1-2024:170.102",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

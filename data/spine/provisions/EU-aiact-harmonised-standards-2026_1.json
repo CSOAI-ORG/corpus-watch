@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-aiact-harmonised-standards-2026:1",
+ "label": "EU-aiact-harmonised-standards-2026 Article 1",
+ "instrument": "EU-aiact-harmonised-standards-2026",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "8d7f65c207a88da50ff85f0d4cff464555a8f2652ac3d03df99dda2ef7b4faee",
+ "sha256_v1": "",
+ "sha256_v2": "8d7f65c207a88da50ff85f0d4cff464555a8f2652ac3d03df99dda2ef7b4faee",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8d7f65c207a88da50ff85f0d4cff464555a8f2652ac3d03df99dda2ef7b4faee",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-aiact-harmonised-standards-2026:1/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-aiact-harmonised-standards-2026:1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

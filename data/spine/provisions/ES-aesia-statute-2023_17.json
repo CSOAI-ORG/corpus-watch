@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "ES-aesia-statute-2023:17",
+ "label": "ES-aesia-statute-2023 Artículo 17",
+ "instrument": "ES-aesia-statute-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "923aeeb0878e51c4584bcd85d66c2b0056628439ce9b5e13d6b6f8b5d7f1f049",
+ "sha256_v1": "",
+ "sha256_v2": "923aeeb0878e51c4584bcd85d66c2b0056628439ce9b5e13d6b6f8b5d7f1f049",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "ES",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "923aeeb0878e51c4584bcd85d66c2b0056628439ce9b5e13d6b6f8b5d7f1f049",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "ES-aesia-statute-2023:17/s4",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Para la válida constitución del Consejo Rector, además de la persona titular de la Presidencia y la Secretaría o de quienes los sustituyan, deberán estar presentes o representados, en primera convocatoria, la mitad de las vocalías y, en segunda convocatoria, la tercera parte de los mismos."
+  },
+  {
+   "obligation_id": "ES-aesia-statute-2023:17/s5",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Entre la primera y segunda convocatoria deberá transcurrir, al menos, el plazo de una hora.\n4."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=ES-aesia-statute-2023:17",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

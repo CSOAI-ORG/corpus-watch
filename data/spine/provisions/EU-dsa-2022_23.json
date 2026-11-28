@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:23",
+ "label": "EU-dsa-2022 Article 23",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "aa0c4751acd48c2e5cd1e968848109442e2d4ecbab0797467009302b727725ee",
+ "sha256_v1": "",
+ "sha256_v2": "aa0c4751acd48c2e5cd1e968848109442e2d4ecbab0797467009302b727725ee",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "aa0c4751acd48c2e5cd1e968848109442e2d4ecbab0797467009302b727725ee",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:23/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of online platforms shall suspend, for a reasonable period of time and after having issued a prior warning, the provision of their services to recipients of the service that frequently provide manifestly illegal content."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:23/p2/s1",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of online platforms shall suspend, for a reasonable period of time and after having issued a prior warning, the processing of notices and complaints submitted through the notice and action mechanisms and internal complaints-handling systems referred to in Articles 16 and 20, respectively, by individuals or entities or by complainants that frequently submit notices or complaints that are manifestly unfounded."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:23/p3/s1",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When deciding on suspension, providers of online platforms shall assess, on a case-by-case basis and in a timely, diligent and objective manner, whether the recipient of the service, the individual, the entity or the complainant engages in the misuse referred to in paragraphs 1 and 2, taking into account all relevant facts and circumstances apparent from the information available to the provider of online platforms."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:23/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those circumstances shall include at least the following:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:23/p4/s1",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of online platforms shall set out, in a clear and detailed manner, in their terms and conditions their policy in respect of the misuse referred to in paragraphs 1 and 2, and shall give examples of the facts and circumstances that they take into account when assessing whether certain behaviour constitutes misuse and the duration of the suspension."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:23",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

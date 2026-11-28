@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:54",
+ "label": "EU-mica-2023 Article 54",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "c991bd920b0e6493e90824d77c40cf042134b14c15913f4bded1fbc0cf65da48",
+ "sha256_v1": "",
+ "sha256_v2": "c991bd920b0e6493e90824d77c40cf042134b14c15913f4bded1fbc0cf65da48",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "c991bd920b0e6493e90824d77c40cf042134b14c15913f4bded1fbc0cf65da48",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:54/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Investment of funds received in exchange for e-money tokens\nFunds received by issuers of e-money tokens in exchange for e-money tokens and safeguarded in accordance with Article 7(1) of Directive 2009/110/EC shall comply with the following:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:54",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:112",
+ "label": "EU-mica-2023 Article 112",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "2a2d70966ce067fd460ffb0874248b48c275231dd18263797726873e5f818dff",
+ "sha256_v1": "",
+ "sha256_v2": "2a2d70966ce067fd460ffb0874248b48c275231dd18263797726873e5f818dff",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "2a2d70966ce067fd460ffb0874248b48c275231dd18263797726873e5f818dff",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:112/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Competent authorities, when determining the type and level of an administrative penalty or other administrative measure to be imposed in accordance with Article 111, shall take into account all relevant circumstances, including, where appropriate:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:112/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In the exercise of their powers to impose administrative penalties and other administrative measures under Article 111, competent authorities shall cooperate closely to ensure that the exercise of their supervisory and investigative powers, and the administrative penalties and other administrative measures that they impose, are effective and appropriate."
+  },
+  {
+   "obligation_id": "EU-mica-2023:112/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "They shall coordinate their action in order to avoid duplication and overlaps when exercising their supervisory and investigative powers and when imposing administrative penalties and other administrative measures in cross-border cases."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:112",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

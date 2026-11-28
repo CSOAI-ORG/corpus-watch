@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14434-2026:sec2",
+ "label": "US-EO14434-2026 Section 2",
+ "instrument": "US-EO14434-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b80cafe6ed7730c65d432c19230cac88da3ad4edfffa6cb692764b97ef0b4751",
+ "sha256_v1": "",
+ "sha256_v2": "b80cafe6ed7730c65d432c19230cac88da3ad4edfffa6cb692764b97ef0b4751",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "b80cafe6ed7730c65d432c19230cac88da3ad4edfffa6cb692764b97ef0b4751",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14434-2026:sec2/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) To the maximum extent permitted by law, executive departments and agencies (agencies) shall use ``Super Intelligence'' and ``SI'' in place of ``Artificial Intelligence'' and ``AI'' in official correspondence, public communications, websites, reports, policy documents, and other non- statutory documents within the executive branch."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14434-2026:sec2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

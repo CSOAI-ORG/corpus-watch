@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s75",
+ "label": "AU-privacy-act-1988 Section 75",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f0e7a25956ec864e687307977bf6dd0cc6fbf63c2ba36c1aeff4e32071150438",
+ "sha256_v1": "",
+ "sha256_v2": "f0e7a25956ec864e687307977bf6dd0cc6fbf63c2ba36c1aeff4e32071150438",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "f0e7a25956ec864e687307977bf6dd0cc6fbf63c2ba36c1aeff4e32071150438",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s75/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "75  Draft determination\n(1)\tThe Commissioner shall prepare a draft of his or her proposed determination in relation to the application unless the Commissioner dismisses the application under subsection 73(1A)."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s75/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\tIf the applicant is an agency, the Commissioner must send to the agency, and to each other person (if any) who is interested in the application, a written invitation to notify the Commissioner, within the period specified in the invitation, whether or not the agency or other person wishes the Commissioner to hold a conference about the draft determination."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s75/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2A)\tIf the applicant is an organisation, the Commissioner must:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s75/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\tAn invitation under subsection (2) or subsection (2A) shall specify a period that begins on the day on which the invitation is sent and is not shorter than the prescribed period."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s75",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

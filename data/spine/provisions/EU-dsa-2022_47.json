@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:47",
+ "label": "EU-dsa-2022 Article 47",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "f7fe85cd6cf392a8b4ac3a0d004c942fb272caec0b4c343b2deb6bc24344c76f",
+ "sha256_v1": "",
+ "sha256_v2": "f7fe85cd6cf392a8b4ac3a0d004c942fb272caec0b4c343b2deb6bc24344c76f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "f7fe85cd6cf392a8b4ac3a0d004c942fb272caec0b4c343b2deb6bc24344c76f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:47/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall encourage and facilitate the drawing up of codes of conduct at Union level with the involvement of providers of online platforms and other relevant service providers, organisations representing recipients of the service and civil society organisations or relevant authorities to promote full and effective, equal participation, by improving access to online services that, through their initial design or subsequent adaptation, address the particular needs of persons with disabilities."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:47/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall aim to ensure that the codes of conduct pursue the objective of ensuring that those services are accessible in compliance with Union and national law, in order to maximise their foreseeable use by persons with disabilities."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:47/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall aim to ensure that the codes of conduct address at least the following objectives:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:47/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall encourage the development of the codes of conduct by 18 February 2025 and their application by 18 August 2025."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:47",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO13960-2020:sec6",
+ "label": "US-EO13960-2020 Section 6",
+ "instrument": "US-EO13960-2020",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "e9142c6b472dfaf8f813c97095a591d79a219d69b35742e8adaa0c7020b02140",
+ "sha256_v1": "",
+ "sha256_v2": "e9142c6b472dfaf8f813c97095a591d79a219d69b35742e8adaa0c7020b02140",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "e9142c6b472dfaf8f813c97095a591d79a219d69b35742e8adaa0c7020b02140",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO13960-2020:sec6/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Within 45 days of this order, the CIO Council shall publish a list of recommended interagency bodies and forums in which agencies may elect to participate, as appropriate and consistent with their respective authorities and missions."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO13960-2020:sec6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,70 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:37",
+ "label": "GDPR Art. 37",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "c4fbac215a841424521dffa9206fc937587a5eae86c12a4453817c9f38427fbc",
+ "sha256_v1": "c4fbac215a841424521dffa9206fc937587a5eae86c12a4453817c9f38427fbc",
+ "sha256_v2": "e9ce42c8385300386f6bf42d56774ab461ba704c850c175f6b9fe8cb3639adb7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": 1,
+ "sha256_current": "560f9e9137c41e04610c1a72f3f74fe935bb9594dbe9502011488f4b642d4a6e",
+ "agent_register_kinds": [
+  "NONE",
+  "OBSERVED",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": true,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:37/p1/s1",
+   "paragraph": "1",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller and the processor shall designate a data protection officer in any case where:"
+  },
+  {
+   "obligation_id": "32016R0679:37/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In cases other than those referred to in paragraph 1, the controller or processor or associations and other bodies representing categories of controllers or processors may or, where required by Union or Member State law shall, designate a data protection officer."
+  },
+  {
+   "obligation_id": "32016R0679:37/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The data protection officer shall be designated on the basis of professional qualities and, in particular, expert knowledge of data protection law and practices and the ability to fulfil the tasks referred to in Article 39."
+  },
+  {
+   "obligation_id": "32016R0679:37/p7/s1",
+   "paragraph": "7",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "The controller or the processor shall publish the contact details of the data protection officer and communicate them to the supervisory authority."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:37",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:86",
+ "label": "EU-dsa-2022 Article 86",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "80e7ee932c2f98564bab4f7a8d3a279b01c6af5d3900101ac310d5a1f1596d4c",
+ "sha256_v1": "",
+ "sha256_v2": "80e7ee932c2f98564bab4f7a8d3a279b01c6af5d3900101ac310d5a1f1596d4c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "80e7ee932c2f98564bab4f7a8d3a279b01c6af5d3900101ac310d5a1f1596d4c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:86/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Without prejudice to Directive (EU) 2020/1828 or to any other type of representation under national law, recipients of intermediary services shall at least have the right to mandate a body, organisation or association to exercise the rights conferred by this Regulation on their behalf, provided the body, organisation or association meets all of the following conditions:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:86/p2/s1",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of online platforms shall take the necessary technical and organisational measures to ensure that complaints submitted by bodies, organisations or associations referred to in paragraph 1 of this Article on behalf of recipients of the service through the mechanisms referred to in Article 20(1) are processed and decided upon with priority and without undue delay."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:86",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

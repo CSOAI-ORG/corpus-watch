@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s101",
+ "label": "GB-duaa-2025 Section 101",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "0beb0358b8452fc12d025b7ed2ce3f72e6b169cfae6c3b846718269f7418a5ab",
+ "sha256_v1": "",
+ "sha256_v2": "0beb0358b8452fc12d025b7ed2ce3f72e6b169cfae6c3b846718269f7418a5ab",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "0beb0358b8452fc12d025b7ed2ce3f72e6b169cfae6c3b846718269f7418a5ab",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s101/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(A2)\nWithin the period of 6 months beginning when the notice is given, or as soon as reasonably practicable thereafter, the Commission must give to the person—\n(a)\na penalty notice, or\n(b)\nwritten notice that the Commissioner has decided not to give a penalty notice to the person.\n,\n(b)\nin sub-paragraph (1)—\n(i)\nat the beginning, insert “But”, and\n(ii)\nafter “penalty notice” insert “to the person”, and\n(c)\nin sub-paragraph (2), for “a person” substitute “the person”."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s101",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

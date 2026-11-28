@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB1405-2026:SEC-1:11549.84.",
+ "label": "US-CA-AB1405-2026 SECTION 1. / 11549.84.",
+ "instrument": "US-CA-AB1405-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "85b12450d051ff346634793460ccee5df97fb9342b68e8381829d4857c8cac1c",
+ "sha256_v1": "",
+ "sha256_v2": "85b12450d051ff346634793460ccee5df97fb9342b68e8381829d4857c8cac1c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "85b12450d051ff346634793460ccee5df97fb9342b68e8381829d4857c8cac1c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB1405-2026:SEC-1:11549.84./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)A violation of this chapter by a registered AI auditor shall constitute grounds for removal from the registry and referral to the Attorney General or other appropriate enforcement authority."
+  },
+  {
+   "obligation_id": "US-CA-AB1405-2026:SEC-1:11549.84./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)Before removing a registered AI auditor from the registry pursuant to paragraph (2), the agency shall provide the AI auditor with written notice of the basis for removal and a reasonable opportunity to cure or contest the removal, in a manner prescribed by the agency."
+  },
+  {
+   "obligation_id": "US-CA-AB1405-2026:SEC-1:11549.84./p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)(1)If the agency determines that a certified public accountant, public accountant, or accounting firm in good standing as certified by the California Board of Accountancy has violated this chapter, the agency shall notify in writing the certified public accountant, public accountant, or accounting firm and the California Board of Accountancy."
+  },
+  {
+   "obligation_id": "US-CA-AB1405-2026:SEC-1:11549.84./p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)The California Board of Accountancy shall investigate the complaint in accordance with its existing authority and procedures and, upon completion of the investigation, provide the agency with a report of its findings and any resulting action."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB1405-2026:SEC-1:11549.84.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

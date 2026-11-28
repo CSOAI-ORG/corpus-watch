@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO13859-2019:sec8",
+ "label": "US-EO13859-2019 Section 8",
+ "instrument": "US-EO13859-2019",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "4a77fa4ca330fb2f1d04f1d65f2964991d6612044f7e31a2985a60edb4230b1b",
+ "sha256_v1": "",
+ "sha256_v2": "4a77fa4ca330fb2f1d04f1d65f2964991d6612044f7e31a2985a60edb4230b1b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "4a77fa4ca330fb2f1d04f1d65f2964991d6612044f7e31a2985a60edb4230b1b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO13859-2019:sec8/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) As directed by the NSPM, the Assistant to the President for National Security Affairs, in coordination with the OSTP Director and the recipients of the NSPM, shall organize the development of an action plan to protect the United States advantage in AI and AI technology critical to United States economic and national security interests against strategic competitors and adversarial nations."
+  },
+  {
+   "obligation_id": "US-EO13859-2019:sec8/p8/s2",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) The action plan shall be provided to the President within 120 days of the date of this order, and may be classified in full or in part, as appropriate."
+  },
+  {
+   "obligation_id": "US-EO13859-2019:sec8/p8/s3",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) Upon approval by the President, the action plan shall be implemented by all agencies who are recipients of the NSPM, for all AI-related activities, including those conducted pursuant to this order."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO13859-2019:sec8",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

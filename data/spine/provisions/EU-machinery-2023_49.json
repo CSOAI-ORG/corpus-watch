@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-machinery-2023:49",
+ "label": "EU-machinery-2023 Article 49",
+ "instrument": "EU-machinery-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "2f6c2beb5e14365da8dcd53bdca00caa9dc02b08838c2f6033bbd16d7180a471",
+ "sha256_v1": "",
+ "sha256_v2": "2f6c2beb5e14365da8dcd53bdca00caa9dc02b08838c2f6033bbd16d7180a471",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "2f6c2beb5e14365da8dcd53bdca00caa9dc02b08838c2f6033bbd16d7180a471",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-machinery-2023:49/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "All parties shall respect the confidentiality of the following information and data obtained in carrying out their tasks in accordance with this Regulation:"
+  },
+  {
+   "obligation_id": "EU-machinery-2023:49/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Without prejudice to paragraph 1, information exchanged on a confidential basis between the competent national authorities and between competent national authorities and the Commission shall not be disclosed without the prior agreement of the competent national authority that originally provided the information."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:49/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Paragraphs 1 and 2 shall not affect the rights and obligations of the Commission, Member States and notified bodies with regard to the exchange of information and the dissemination of warnings, nor shall it affect the obligations of the persons concerned to provide information under criminal law."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-machinery-2023:49",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

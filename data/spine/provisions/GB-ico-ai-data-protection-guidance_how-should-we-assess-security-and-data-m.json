@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-ico-ai-data-protection-guidance:how-should-we-assess-security-and-data-m",
+ "label": "GB-ico-ai-data-protection-guidance How should we assess security and data minimisation in AI?",
+ "instrument": "GB-ico-ai-data-protection-guidance",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "d5f4b59929dd02b8db3737a05012074e8045d97ef1dc81d9e887248f52f1cf2c",
+ "sha256_v1": "",
+ "sha256_v2": "d5f4b59929dd02b8db3737a05012074e8045d97ef1dc81d9e887248f52f1cf2c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d5f4b59929dd02b8db3737a05012074e8045d97ef1dc81d9e887248f52f1cf2c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-should-we-assess-security-and-data-m/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In detail\nWhat security risks does AI introduce?\nWhat types of privacy attacks apply to AI models?\nWhat steps should we take to manage the risks of privacy attacks on AI models?\nWhat data minimisation and privacy-preserving techniques are available for AI systems?\nWhat security risks does AI introduce?\nYou must process personal data in a manner that ensures appropriate levels of security against its unauthorised or unlawful processing, accidental loss, destruction or damage."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-should-we-assess-security-and-data-m/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, you must take care not to conflate commercial interests with data protection requirements (eg commercial security and data protection security), and instead you should consider the extent to which such a trade-off genuinely exists."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-should-we-assess-security-and-data-m/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Personal data shall be\nadequate, relevant and limited to what is necessary in relation to the purposes for which they are processed (data minimisation)’\nHowever, AI systems generally require large amounts of data."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-should-we-assess-security-and-data-m/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "You must therefore implement risk management practices designed to ensure that data minimisation, and all relevant minimisation techniques, are fully considered from the design phase."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-should-we-assess-security-and-data-m/p2/s4",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "You must not collect personal data on the off-chance that it might be useful in the future, although you may be able to hold information for a foreseeable event that may not occur, but only if you are able to justify it."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:how-should-we-assess-security-and-data-m/p2/s5",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where that real data can be related to identified or identifiable individuals, then the processing of such data must comply with data protection laws."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-ico-ai-data-protection-guidance:how-should-we-assess-security-and-data-m",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

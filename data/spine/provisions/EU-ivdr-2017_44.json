@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:44",
+ "label": "EU-ivdr-2017 Article 44",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "c354d349408bc5319bb332dd171d6a609fbc09ddae058ef5d95dac46d1f93138",
+ "sha256_v1": "",
+ "sha256_v2": "c354d349408bc5319bb332dd171d6a609fbc09ddae058ef5d95dac46d1f93138",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "c354d349408bc5319bb332dd171d6a609fbc09ddae058ef5d95dac46d1f93138",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:44/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall provide for the organisation of exchange of experience and coordination of administrative practice between the authorities responsible for notified bodies."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:44/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such exchange shall cover elements including:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:44/p2/s1",
+   "paragraph": "2",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The authorities responsible for notified bodies shall participate in a peer review every third year through the mechanism developed pursuant to paragraph 1 of this Article."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:44/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such reviews shall normally be conducted in parallel with the on-site joint assessments described in Article"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:44/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall participate in the organisation and provide support to the implementation of the peer review mechanism."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:44/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall compile an annual summary report of the peer review activities, which shall be made publicly available."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:44/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(3)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:44",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

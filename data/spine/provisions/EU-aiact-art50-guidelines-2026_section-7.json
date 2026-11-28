@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-aiact-art50-guidelines-2026:section-7",
+ "label": "EU-aiact-art50-guidelines-2026 Section 7",
+ "instrument": "EU-aiact-art50-guidelines-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d21e15681fed9776f430a9ab527fab077550592836d496f95c51bcee32826383",
+ "sha256_v1": "",
+ "sha256_v2": "d21e15681fed9776f430a9ab527fab077550592836d496f95c51bcee32826383",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "d21e15681fed9776f430a9ab527fab077550592836d496f95c51bcee32826383",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-7/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It must be also easily understood by the audience, including by specific groups, such as children or persons with disabilities when they are part of the audience foreseeably exposed to the content or interacting with the system (40)."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-7/p7/s2",
+   "paragraph": "7",
+   "addressee": "deployer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Compliance with applicable accessibility requirements\n(144)\nProviders and deployers of AI systems falling within scope of the various transparency obligations listed in Article 50(1)-(4) AI Act must be aware of the applicable accessibility requirements (e.g. under Directive 2016/2102 (41) and Directive 2019/882 (42)) and assess whether their product, service or content needs to comply with those rules."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-7/p7/s3",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In such a case, they must ensure accessibility of the information conveyed in line with Article 50 AI Act in accordance with the applicable accessibility requirements."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-aiact-art50-guidelines-2026:section-7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

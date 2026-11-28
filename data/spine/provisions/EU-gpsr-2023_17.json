@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-gpsr-2023:17",
+ "label": "EU-gpsr-2023 Article 17",
+ "instrument": "EU-gpsr-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "c51cef31c6059404605868dcbd9ef268831e5c1eb0e9231bebaadbb9081f4b2b",
+ "sha256_v1": "",
+ "sha256_v2": "c51cef31c6059404605868dcbd9ef268831e5c1eb0e9231bebaadbb9081f4b2b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "c51cef31c6059404605868dcbd9ef268831e5c1eb0e9231bebaadbb9081f4b2b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-gpsr-2023:17/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall provide economic operators, free of charge, with general information with respect to this Regulation."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:17/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall provide economic operators, at their request and free of charge, with specific information with respect to the implementation of this Regulation at national level and national rules on product safety applicable to products covered by this Regulation."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:17/p2/s3",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall adopt specific guidelines for economic operators, with particular regard to the needs of those that qualify as SMEs, including micro-enterprises, on how to fulfil the obligations laid down in this Regulation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-gpsr-2023:17",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

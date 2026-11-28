@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-NIST-AI100-4-2024:3.1.1.1",
+ "label": "US-NIST-AI100-4-2024 3.1.1.1",
+ "instrument": "US-NIST-AI100-4-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "1fc8a9a96c649e2ea260f1b42e3cfcc2fa78d433dc1f8154fa4ba98070ce864c",
+ "sha256_v1": "",
+ "sha256_v2": "1fc8a9a96c649e2ea260f1b42e3cfcc2fa78d433dc1f8154fa4ba98070ce864c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 4,
+ "sha256_current": "1fc8a9a96c649e2ea260f1b42e3cfcc2fa78d433dc1f8154fa4ba98070ce864c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-NIST-AI100-4-2024:3.1.1.1/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "3.1.1.1 Technical methods for covertly watermarking synthetic content7\nMethods for covert watermarking must choose some property of the content that can be subtly perturbed,\nsuch as some known portion of the content (e.g., particular pixels) or the statistical properties of the content\n(e.g., the prevalence of certain words in certain contexts)."
+  },
+  {
+   "obligation_id": "US-NIST-AI100-4-2024:3.1.1.1/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "There must also be a systematic perturbation\nalgorithm to manipulate the chosen property so that the watermark can easily be generated, and a detector\ncan reliably recognize when it is present and when it is not.\n6 There may be circumstances where high distortion is desirable in a watermark, e.g., if a stock photo vendor watermarks an image preview to prevent\nuse without payment."
+  },
+  {
+   "obligation_id": "US-NIST-AI100-4-2024:3.1.1.1/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A\nrandomly selected key\ncan be used to\ndetermine what\nperturbations are\nperformed (e.g., how\nmuch a text token’s\nprobability is boosted\nIndividual samples, frequency\ncoefficients, space of possible\noutputs, next token\nprobabilities\nMirror\ndiffusion\nmodels\n(image),\ndistortion-free\nLLM\nwatermark\n(text)\nWatermark detector\nmust have access to the\nkey, which normally\nimplies private\noperation (public\nrelease of the key could\nallow anyone to\nreproduce the\nor decreased, or what\npixel configurations are\ndeemed forbidden from\nwatermarked outputs).\nrandomized\nperturbations and thus\npotentially apply the\nwatermark)\nMachine learning:"
+  },
+  {
+   "obligation_id": "US-NIST-AI100-4-2024:3.1.1.1/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Usually, a matching\nmachine learning-based\ndetector must also be\ntrained."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-NIST-AI100-4-2024:3.1.1.1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s69",
+ "label": "GB-dpa-2018 Section 69",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "6fbbc19c858e98faa6ddd53abbfd28c05fd4ee0911b53b3a7cd192191bf56762",
+ "sha256_v1": "",
+ "sha256_v2": "6fbbc19c858e98faa6ddd53abbfd28c05fd4ee0911b53b3a7cd192191bf56762",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "6fbbc19c858e98faa6ddd53abbfd28c05fd4ee0911b53b3a7cd192191bf56762",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s69/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Designation of a data protection officer\n(1)\nThe controller must designate a data protection officer, unless the controller is a court, or other judicial authority, acting in its judicial capacity."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s69/p0/s2",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nWhen designating a data protection officer, the controller must have regard to the professional qualities of the proposed officer, in particular—\n(a)\nthe proposed officer's expert knowledge of data protection law and practice, and\n(b)\nthe ability of the proposed officer to perform the tasks mentioned in section 71."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s69/p0/s3",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(4)\nThe controller must publish the contact details of the data protection officer and communicate these to the Commission."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s69",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

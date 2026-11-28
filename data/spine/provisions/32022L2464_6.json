@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022L2464:6",
+ "label": "CSRD Art. 6",
+ "instrument": "CSRD",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "d74b5a4eb7b29a817fc2f6b58f29d8a141529dc475609f65ac38d4f39c17a1ea",
+ "sha256_v1": "d74b5a4eb7b29a817fc2f6b58f29d8a141529dc475609f65ac38d4f39c17a1ea",
+ "sha256_v2": "d74b5a4eb7b29a817fc2f6b58f29d8a141529dc475609f65ac38d4f39c17a1ea",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": 75,
+ "sha256_current": "b4f33d73e1d3f3580da225ad10bb0d7248deca258190f648bf522949de3d6c47",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022L2464:6/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 6 review",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022L2464:6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

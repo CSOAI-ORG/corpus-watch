@@ -1,0 +1,156 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:87",
+ "label": "EU-mdr-2017 Article 87",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "e50c0dc7d7ceaaa5f973e10ee9f2ad82e262fe52fabb260fcb4da4b44c8bfff6",
+ "sha256_v1": "",
+ "sha256_v2": "e50c0dc7d7ceaaa5f973e10ee9f2ad82e262fe52fabb260fcb4da4b44c8bfff6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "e50c0dc7d7ceaaa5f973e10ee9f2ad82e262fe52fabb260fcb4da4b44c8bfff6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:87/p1/s1",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Manufacturers of devices made available on the Union market, other than investigational devices, shall report, to the relevant competent authorities, in accordance with Articles 92(5) and (7), the following:"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:87/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The reports referred to in the first subparagraph shall be submitted through the electronic system referred to in Article 92."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:87/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As a general rule, the period for the reporting referred to in paragraph 1 shall take account of the severity of the serious incident."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:87/p3/s1",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Manufacturers shall report any serious incident as referred to in point (a) of paragraph 1 immediately after they have established the causal relationship between that incident and their device or that such causal relationship is reasonably possible and not later than 15 days after they become aware of the incident."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:87/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Notwithstanding paragraph 3, in the event of a serious public health threat the report referred to in paragraph 1 shall be provided immediately, and not later than 2 days after the manufacturer becomes aware of that threat."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:87/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Notwithstanding paragraph 3, in the event of death or an unanticipated serious deterioration in a person's state of health the report shall be provided immediately after the manufacturer has established or as soon as it suspects a causal relationship between the device and the serious incident but not later than 10 days after the date on which the manufacturer becomes aware of the serious incident."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:87/p7/s1",
+   "paragraph": "7",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If, after becoming aware of a potentially reportable incident, the manufacturer is uncertain about whether the incident is reportable, it shall nevertheless submit a report within the timeframe required in accordance with paragraphs 2 to 5."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:87/p8/s1",
+   "paragraph": "8",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Except in cases of urgency in which the manufacturer needs to undertake field safety corrective action immediately, the manufacturer shall, without undue delay, report the field safety corrective action referred to in point (b) of paragraph 1 in advance of the field safety corrective action being undertaken."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:87/p10/s1",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The Member States shall take appropriate measures such as organising targeted information campaigns, to encourage and enable healthcare professionals, users and patients to report to the competent authorities suspected serious incidents referred to in point (a) of paragraph"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:87/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authorities shall record centrally at national level reports they receive from healthcare professionals, users and patients."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:87/p11/s1",
+   "paragraph": "11",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a competent authority of a Member State obtains such reports on suspected serious incidents referred to in point (a) of paragraph 1 from healthcare professionals, users or patients, it shall take the necessary steps to ensure that the manufacturer of the device concerned is informed of the suspected serious incident without delay."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:87/p11/s2",
+   "paragraph": "11",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Where the manufacturer of the device concerned considers that the incident is a serious incident, it shall provide a report in accordance with paragraphs 1 to 5 of this Article on that serious incident to the competent authority of the Member State in which that serious incident occurred and shall take the appropriate follow-up action in accordance with Article"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:87/p89/s1",
+   "paragraph": "89",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the manufacturer of the device concerned considers that the incident is not a serious incident or is an expected undesirable side-effect, which will be covered by trend reporting in accordance with Article 88, it shall provide an explanatory statement."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:87",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

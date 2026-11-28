@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:123",
+ "label": "EU-mdr-2017 Article 123",
+ "instrument": "EU-mdr-2017",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "ef8bbe2b5bf3a32ddcf7e69edb35bf19e42aaaea597556e97093ef1916035e62",
+ "sha256_v1": "",
+ "sha256_v2": "ef8bbe2b5bf3a32ddcf7e69edb35bf19e42aaaea597556e97093ef1916035e62",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": null,
+ "sha256_current": "ef8bbe2b5bf3a32ddcf7e69edb35bf19e42aaaea597556e97093ef1916035e62",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:123/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 123 entry into force",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:123",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

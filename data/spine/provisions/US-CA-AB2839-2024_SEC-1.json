@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB2839-2024:SEC-1",
+ "label": "US-CA-AB2839-2024 SECTION 1.",
+ "instrument": "US-CA-AB2839-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "48f40a2740873a42e8a0e31c724918b76c37297a27b2f4e064bbdf982c984774",
+ "sha256_v1": "",
+ "sha256_v2": "48f40a2740873a42e8a0e31c724918b76c37297a27b2f4e064bbdf982c984774",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "48f40a2740873a42e8a0e31c724918b76c37297a27b2f4e064bbdf982c984774",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB2839-2024:SEC-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)Proceedings in cases involving the registration or denial of registration of voters, the certification or denial of certification of candidates, the certification or denial of certification of ballot measures, election contests, actions under Section 20010 or 20012 of the Elections Code, and actions under Chapter 2 (commencing with Section 21100) of Division 21 of the Elections Code shall be placed on the calendar in the order of their date of filing and shall be given precedence."
+  },
+  {
+   "obligation_id": "US-CA-AB2839-2024:SEC-1/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)This section shall remain in effect only until January 1, 2027, and as of that date is repealed, unless a later enacted statute, that is enacted before January 1, 2027, deletes or extends that date."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB2839-2024:SEC-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

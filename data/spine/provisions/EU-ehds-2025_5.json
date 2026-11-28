@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:5",
+ "label": "EU-ehds-2025 Article 5",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "c03f6ebf782e217398cb4adeb21136ba12498003bc5e9d645aeae8655bed40c7",
+ "sha256_v1": "",
+ "sha256_v2": "c03f6ebf782e217398cb4adeb21136ba12498003bc5e9d645aeae8655bed40c7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "c03f6ebf782e217398cb4adeb21136ba12498003bc5e9d645aeae8655bed40c7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:5/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Right of natural persons to insert information in their own EHR\nNatural persons, or their representatives referred to in Article 4(2), shall have the right to insert information in the EHR of those natural persons through electronic health data access services or applications linked to those services as referred to in that Article."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:5/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That information shall be clearly distinguishable as having been inserted by the natural person or by his or her representative."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:5/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Natural persons, or their representatives referred to in Article 4(2), shall not be able to directly alter the electronic health data and related information inserted by health professionals."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

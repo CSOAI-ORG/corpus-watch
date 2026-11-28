@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CO-HB26-1139-healthAI-UR-2026:SECTION-3",
+ "label": "US-CO-HB26-1139-healthAI-UR-2026 SECTION 3",
+ "instrument": "US-CO-HB26-1139-healthAI-UR-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "39448bd63df7ea47784e00fd11a978f2cbdc58176907f7dd167424b21bac7c55",
+ "sha256_v1": "",
+ "sha256_v2": "39448bd63df7ea47784e00fd11a978f2cbdc58176907f7dd167424b21bac7c55",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "39448bd63df7ea47784e00fd11a978f2cbdc58176907f7dd167424b21bac7c55",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CO-HB26-1139-healthAI-UR-2026:SECTION-3/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A PAYER OF MENTAL OR BEHAVIORAL HEALTH-CARE SERVICES PROVIDED UNDER THE \"COLORADO MEDICAL ASSISTANCE ACT\", AS SPECIFIED IN ARTICLES 4, 5, AND 6 OF THIS TITLE 25.5, OR THE \"CHILDREN'S BASIC HEALTH PLAN ACT\", AS SPECIFIED IN ARTICLE 8 OF THIS TITLE 25.5, SHALL NOT PAY FOR SERVICES THAT CONSTITUTE PSYCHOTHERAPY SERVICES, AS DEFINED IN SECTION 12-245-202 (14), THAT ARE PROVIDED DIRECTLY TO AN INDIVIDUAL AND THAT ARE CONDUCTED BY AN ARTIFICIAL INTELLIGENCE SYSTEM, AS THAT TERM IS DEFINED IN SECTION 10-16-112.7 (1)(b)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CO-HB26-1139-healthAI-UR-2026:SECTION-3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-29CFR1607-UGESP-1978:1607.15",
+ "label": "US-29CFR1607-UGESP-1978 29 CFR 1607.15",
+ "instrument": "US-29CFR1607-UGESP-1978",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "44a25229d67810ad314241fadbb7f66a1b48943b43985a1f48a118d608b4675e",
+ "sha256_v1": "",
+ "sha256_v2": "44a25229d67810ad314241fadbb7f66a1b48943b43985a1f48a118d608b4675e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "44a25229d67810ad314241fadbb7f66a1b48943b43985a1f48a118d608b4675e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-29CFR1607-UGESP-1978:1607.15/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Establishment of time limits, if any, and how these limits are related to the speed with which duties must be performed on the job, should be explained."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-29CFR1607-UGESP-1978:1607.15",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

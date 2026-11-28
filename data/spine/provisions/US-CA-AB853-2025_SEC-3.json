@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB853-2025:SEC-3",
+ "label": "US-CA-AB853-2025 SEC. 3.",
+ "instrument": "US-CA-AB853-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d7da198ea14414ad8d685a1cf28f459cbfc372c1e41a67ef11facf14a3c20b5b",
+ "sha256_v1": "",
+ "sha256_v2": "d7da198ea14414ad8d685a1cf28f459cbfc372c1e41a67ef11facf14a3c20b5b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "d7da198ea14414ad8d685a1cf28f459cbfc372c1e41a67ef11facf14a3c20b5b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB853-2025:SEC-3/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)A GenAI system hosting platform shall not knowingly make available a GenAI system that does not place disclosures pursuant to Section 22757.3."
+  },
+  {
+   "obligation_id": "US-CA-AB853-2025:SEC-3/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)This section shall become operative on January 1, 2027."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB853-2025:SEC-3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

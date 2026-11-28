@@ -1,0 +1,286 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14144-2025:sec4",
+ "label": "US-EO14144-2025 Sec. 4",
+ "instrument": "US-EO14144-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "d430b3ce4a46ed64b58265114197142ee3e37ea837d17a57306ad897edef7a2a",
+ "sha256_v1": "",
+ "sha256_v2": "d430b3ce4a46ed64b58265114197142ee3e37ea837d17a57306ad897edef7a2a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 0,
+ "sha256_current": "d430b3ce4a46ed64b58265114197142ee3e37ea837d17a57306ad897edef7a2a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) To improve the security of Federal Government communications against adversarial nations and criminals, the Federal Government must implement, to the extent practicable and consistent with mission needs, strong identity authentication and encryption using modern, standardized, and commercially available algorithms and protocols."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i) Within 90 days of the date of this order, FCEB agencies shall take steps to ensure that all of their assigned internet number resources (internet Protocol (IP) address blocks and Autonomous System Numbers) are covered by a Registration Services Agreement with the American Registry for internet Numbers or another appropriate regional internet registry."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s3",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Thereafter, FCEB agencies shall annually review and update in their regional internet registry accounts organizational identifiers related to assigned number resources such as organization names, points of contact, and associated email addresses."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s4",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(ii) Within 120 days of the date of this order, all FCEB agencies that hold IP address blocks shall create and publish Route Origin Authorizations in the public Resource Public Key Infrastructure repository hosted or delegated by the American Registry for internet Numbers or the appropriate regional internet registry for the IP address blocks they hold."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s5",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(iii) Within 120 days of the date of this order, the National Cyber Director, in coordination with the heads of other agencies as appropriate, shall recommend contract language to the FAR Council to require contracted providers of internet services to agencies to adopt and deploy internet routing security technologies, including publishing Route Origin Authorizations and performing Route Origin Validation filtering."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s6",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The recommended language shall include requirements or exceptions, as appropriate, for agency contracts regarding overseas operations and overseas local service providers."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s7",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Within 270 days of receiving these recommendations, the FAR Council shall review the recommended contract language and, as appropriate and consistent with applicable law, the agency members of the FAR Council shall jointly take steps to amend the FAR."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s8",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(iv) Within 180 days of the date of this order, the Secretary of Commerce, acting through the Director of NIST, shall publish updated guidance to agencies on deployment of current, operationally viable BGP security methods for Federal Government networks and service providers."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s9",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Secretary of Commerce, acting through the Director of NIST, shall also provide updated guidance on other emerging technologies to improve internet routing security and resilience, such as route leak mitigation and source address validation."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s10",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(i) Within 90 days of the date of this order, the Secretary of Homeland Security, acting through the Director of CISA, shall publish template contract language requiring that any product that acts as a DNS resolver (whether client or server) for the Federal Government support encrypted DNS and shall recommend that language to the FAR Council."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s11",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Within 120 days of receiving the recommended language, the FAR Council shall review it, and, as appropriate and consistent with applicable law, the agency members of the FAR Council shall jointly take steps to amend the FAR."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s12",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(ii) Within 180 days of the date of this order, FCEB agencies shall enable encrypted DNS protocols wherever their existing clients and servers support those protocols."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s13",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "FCEB agencies shall also enable such protocols within 180 days of any additional clients and servers supporting such protocols."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s14",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d) The Federal Government must encrypt email messages in transport and, where practical, use end-to- end encryption in order to protect messages from compromise."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s15",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i) Within 120 days of the date of this order, each FCEB agency shall technically enforce encrypted and authenticated transport for all connections between the agency's email clients and their associated email servers."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s16",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(ii) Within 180 days of the date of this order, the Director of OMB shall establish a requirement for expanded use of authenticated transport-layer encryption between email servers used by FCEB agencies to send and receive email."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s17",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(iii) Within 90 days of the establishment of the requirement described in subsection (d)(ii) of this section, the Secretary of Homeland Security, acting through the Director of CISA, shall take appropriate steps to assist agencies in meeting that requirement, including by issuing implementing directives, as well as technical guidance to address any identified capability gaps."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s18",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Within 180 days of the date of this order, to advance the security of internet-based voice and video conferencing and instant messaging, the Director of OMB, in coordination with the Secretary of Homeland Security, acting through the Director of CISA; the Secretary of Defense, acting through the Director of the National Security Agency (NSA); the Secretary of Commerce, acting through the Director of NIST; the Archivist of the United States, acting through the Chief Records Officer for the United States Government; and the Administrator of General Services shall take appropriate steps to require agencies to:"
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s19",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i) Within 180 days of the date of this order, the Secretary of Homeland Security, acting through the Director of CISA, shall release and thereafter regularly update a list of product categories in which products that support post-quantum cryptography (PQC) are widely available."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s20",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(ii) Within 90 days of a product category being placed on the list described in subsection (f)(i) of this section, agencies shall take steps to include in any solicitations for products in that category a requirement that products support PQC."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s21",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(iii) Agencies shall implement PQC key establishment or hybrid key establishment including a PQC algorithm as soon as practicable upon support being provided by network security products and services already deployed in their network architectures."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s22",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(iv) Within 90 days of the date of this order, the Secretary of State and the Secretary of Commerce, acting through the Director of NIST and the Under Secretary for International Trade, shall identify and engage foreign governments and industry groups in key countries to encourage their transition to PQC algorithms standardized by NIST."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s23",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(v) Within 180 days of the date of this order, to prepare for transition to PQC, the Secretary of Defense with respect to National Security Systems (NSS), and the Director of OMB with respect to non-NSS, shall each issue requirements for agencies to support, as soon as practicable, but not later than January 2, 2030, Transport Layer Security protocol version 1.3 or a successor version."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s24",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i) Within 270 days of the date of this order, the Secretary of Commerce, acting through the Director of NIST, in consultation with the Secretary of Homeland Security, acting through the Director of CISA, and the Administrator of General Services shall develop guidelines for the secure management of access tokens and cryptographic keys used by cloud service providers."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s25",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(ii) Within 60 days of the publication of the guidelines described in subsection (g)(i) of this section, the Administrator of General Services, acting through the FedRAMP Director, in consultation with the Secretary of Commerce, acting through the Director of NIST, and the Secretary of Homeland Security, acting through the Director of CISA, shall develop updated FedRAMP requirements, incorporating the guidelines described in subsection (g)(i) of this section, as appropriate and consistent with guidance issued by the Director of OMB, concerning cryptographic key management security practices."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec4/p4/s26",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(iii) Within 60 days of the publication of the guidelines described in subsection (g)(i) of this section, the Director of OMB, in consultation with the Secretary of Commerce, acting through the Director of NIST; the Secretary of Homeland Security, acting through the Director of CISA; and the Administrator of General Services shall take appropriate steps to require FCEB agencies to follow best practices concerning the protection and management of hardware security modules, trusted execution environments, or other isolation technologies for access tokens and cryptographic keys used by cloud service providers in the provision of services to agencies."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14144-2025:sec4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

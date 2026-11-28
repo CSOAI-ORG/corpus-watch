@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-15USC9401-NAIIA-2020:s9441",
+ "label": "US-15USC9401-NAIIA-2020 15 U.S.C. 9441",
+ "instrument": "US-15USC9401-NAIIA-2020",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6d70edc75353f8b6ac393f411db7a7b06cd1983db40e47cf4e1fe7a5932c0645",
+ "sha256_v1": "",
+ "sha256_v2": "6d70edc75353f8b6ac393f411db7a7b06cd1983db40e47cf4e1fe7a5932c0645",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "6d70edc75353f8b6ac393f411db7a7b06cd1983db40e47cf4e1fe7a5932c0645",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-15USC9401-NAIIA-2020:s9441/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Stakeholder outreach\nIn carrying out the activities under section 278h–1 of this title as amended by title III of this Act,1 the Director shall—\n(1) solicit input from university researchers, private sector experts, relevant Federal agencies, Federal laboratories, State, Tribal, and local governments, civil society groups, and other relevant stakeholders;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-15USC9401-NAIIA-2020:s9441",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

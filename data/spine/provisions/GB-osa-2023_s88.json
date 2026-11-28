@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s88",
+ "label": "GB-osa-2023 Section 88",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "83ad60c79aea1e933335db472a77b5358d122f962261e99fab518f32f62ea2ec",
+ "sha256_v1": "",
+ "sha256_v2": "83ad60c79aea1e933335db472a77b5358d122f962261e99fab518f32f62ea2ec",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "83ad60c79aea1e933335db472a77b5358d122f962261e99fab518f32f62ea2ec",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s88/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nThose principles must be such as appear to OFCOM to be likely to secure, on the basis of such estimates of the likely costs as it is practicable for them to make—\n(a)\nthat on a year by year basis, the aggregate amount of the fees payable to OFCOM under section 84 is sufficient to meet, but does not exceed, the annual cost to OFCOM of the exercise of their online safety functions;"
+  },
+  {
+   "obligation_id": "GB-osa-2023:s88/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nA statement of principles mentioned in subsection (1) must (among other things)—\n(a)\ninclude details relating to the computation model used to calculate fees payable under section 84, including details of factors mentioned in subsection (2)(a)(ii) of that section (if any),\n(b)\ninclude details about the meaning of “qualifying worldwide revenue” and “qualifying period” for the purposes of this Part, and\n(c)\nspecify the threshold figure contained in regulations under section 86."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s88/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nBefore making or revising such a statement of principles, OFCOM must consult such persons as they consider appropriate."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s88/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(6)\nOFCOM must publish such a statement of principles (and any revised or replacement statement)."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s88/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(7)\nAs soon as reasonably practicable after the end of each charging year, OFCOM must publish a statement setting out, in respect of that year—\n(a)\nthe aggregate amount of the fees payable under section 84 for that year that has been received by OFCOM,\n(b)\nthe aggregate amount of the fees payable under that section for that year that remains outstanding and is likely to be paid or recovered, and\n(c)\nthe cost to OFCOM of the exercise of their online safety functions."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s88/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(8)\nAny deficit or surplus shown (after applying this subsection for all previous years) by a statement under subsection (7) must be carried forward and taken into account in determining what is required to satisfy the requirement imposed by virtue of subsection (2)(a) in relation to the following year."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s88",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

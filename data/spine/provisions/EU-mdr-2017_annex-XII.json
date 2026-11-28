@@ -1,0 +1,146 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:annex-XII",
+ "label": "EU-mdr-2017 Annex XII",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "776c88aa4ed708df30df12226c06a7da95fbfc5f241a7d77e056793d73ce692e",
+ "sha256_v1": "",
+ "sha256_v2": "776c88aa4ed708df30df12226c06a7da95fbfc5f241a7d77e056793d73ce692e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "776c88aa4ed708df30df12226c06a7da95fbfc5f241a7d77e056793d73ce692e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:annex-XII/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Certificates shall be drawn up in one of the official languages of the Union."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XII/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Each certificate shall refer to only one conformity assessment procedure."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XII/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Certificates shall only be issued to one manufacturer."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XII/p3/s2",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The name and address of the manufacturer included in the certificate shall be the same as that registered in the electronic system referred to in Article 30."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XII/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The scope of the certificates shall unambiguously identify the device or devices covered:"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XII/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "(a)\nEU technical documentation assessment certificates, EU type-examination certificates and EU product verification certificates shall include a clear identification, including the name, model and type, of the device or devices, the intended purpose, as included by the manufacturer in the instructions for use and in relation to which the device has been assessed in the conformity assessment procedure, risk classification and the Basic UDI-DI as referred to in Article 27(6);"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XII/p4/s3",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "(b)\nEU quality management system certificates and EU quality assurance certificates shall include the identification of the devices or groups of devices, the risk classification, and, for class IIb devices, the intended purpose."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XII/p5/s1",
+   "paragraph": "5",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notified body shall be able to demonstrate on request, which (individual) devices are covered by the certificate."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XII/p5/s2",
+   "paragraph": "5",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notified body shall set up a system that enables the determination of the devices, including their classification, covered by the certificate."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XII/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Certificates shall contain, if applicable, a note that, for the placing on the market of the device or devices it covers, another certificate issued in accordance with this Regulation is required."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XII/p7/s1",
+   "paragraph": "7",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "EU quality management system certificates and EU quality assurance certificates for class I devices for which the involvement of a notified body is required pursuant to Article 52(7) shall include a statement that the audit by the notified body of the quality management system was limited to the aspects required under that paragraph."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XII/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where a certificate is supplemented, modified or re-issued, the new certificate shall contain a reference to the preceding certificate and its date of issue with identification of the changes."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:annex-XII",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

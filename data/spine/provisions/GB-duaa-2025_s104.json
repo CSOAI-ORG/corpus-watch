@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s104",
+ "label": "GB-duaa-2025 Section 104",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "4b20799a54ce20a596d927a10f61a7746e606eb24fac15a1a79ed9e25c09bfdb",
+ "sha256_v1": "",
+ "sha256_v2": "4b20799a54ce20a596d927a10f61a7746e606eb24fac15a1a79ed9e25c09bfdb",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "4b20799a54ce20a596d927a10f61a7746e606eb24fac15a1a79ed9e25c09bfdb",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s104/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nAfter section 180 insert—\nProcedure in connection with subject access requests\n180A\n(1)\nThis section applies where a court is required to determine whether a data subject is entitled to information by virtue of a right under—\n(a)\nArticle 15 of the UK GDPR (right of access by the data subject);"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s104",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s26WR",
+ "label": "AU-privacy-act-1988 Section 26WR",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "fe12feb544da2dade0d5e1c936bc5e9b43c2d71b52bfe8e87bda90645630cc80",
+ "sha256_v1": "",
+ "sha256_v2": "fe12feb544da2dade0d5e1c936bc5e9b43c2d71b52bfe8e87bda90645630cc80",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "fe12feb544da2dade0d5e1c936bc5e9b43c2d71b52bfe8e87bda90645630cc80",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s26WR/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\tThe direction must also require the entity to:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s26WR/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(3)\tBefore giving a direction to an entity under subsection (1), the Commissioner must invite the entity to make a submission to the Commissioner in relation to the direction within the period specified in the invitation."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s26WR/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\tThe statement referred to in paragraph (1)(a) must set out:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s26WR/p0/s4",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(6)\tIn deciding whether to give a direction to an entity under subsection (1), the Commissioner must have regard to the following:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s26WR/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Compliance with direction\n(10)\tAn entity must comply with a direction under subsection (1) as soon as practicable after the direction is given."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s26WR",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

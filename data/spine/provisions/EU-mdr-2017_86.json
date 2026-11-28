@@ -1,0 +1,136 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:86",
+ "label": "EU-mdr-2017 Article 86",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "f6d5185505f8877aaa12bb01e5b32906ea3ffe230a59d9682adeca8b2843297b",
+ "sha256_v1": "",
+ "sha256_v2": "f6d5185505f8877aaa12bb01e5b32906ea3ffe230a59d9682adeca8b2843297b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f6d5185505f8877aaa12bb01e5b32906ea3ffe230a59d9682adeca8b2843297b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:86/p1/s1",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Manufacturers of class IIa, class IIb and class III devices shall prepare a periodic safety update report (‘PSUR’) for each device and where relevant for each category or group of devices summarising the results and conclusions of the analyses of the post-market surveillance data gathered as a result of the post-market surveillance plan referred to in Article 84 together with a rationale and description of any preventive and corrective actions taken."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:86/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Throughout the lifetime of the device concerned, that PSUR shall set out:"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:86/p1/s3",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Manufacturers of class IIb and class III devices shall update the PSUR at least annually."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:86/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "That PSUR shall, except in the case of custom-made devices, be part of the technical documentation as specified in Annexes II and III."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:86/p1/s5",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Manufacturers of class IIa devices shall update the PSUR when necessary and at least every two years."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:86/p1/s6",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "That PSUR shall, except in the case of custom-made devices, be part of the technical documentation as specified in Annexes II and III."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:86/p1/s7",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For custom-made devices, the PSUR shall be part of the documentation referred to in Section 2 of Annex XIII."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:86/p2/s1",
+   "paragraph": "2",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "For class III devices or implantable devices, manufacturers shall submit PSURs by means of the electronic system referred to in Article 92 to the notified body involved in the conformity assessment in accordance with Article"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:86/p52/s1",
+   "paragraph": "52",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notified body shall review the report and add its evaluation to that electronic system with details of any action taken."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:86/p52/s2",
+   "paragraph": "52",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such PSURs and the evaluation by the notified body shall be made available to competent authorities through that electronic system."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:86/p3/s1",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "For devices other than those referred to in paragraph 2, manufacturers shall make PSURs available to the notified body involved in the conformity assessment and, upon request, to competent authorities."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:86",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

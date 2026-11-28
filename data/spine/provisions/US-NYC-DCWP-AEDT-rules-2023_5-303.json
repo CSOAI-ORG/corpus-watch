@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-NYC-DCWP-AEDT-rules-2023:5-303",
+ "label": "US-NYC-DCWP-AEDT-rules-2023 6 RCNY 5-303",
+ "instrument": "US-NYC-DCWP-AEDT-rules-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "841bd04df0b860eee4fa6809a6adf9bd0d9742251bb01e00c3b4c962426cd222",
+ "sha256_v1": "",
+ "sha256_v2": "841bd04df0b860eee4fa6809a6adf9bd0d9742251bb01e00c3b4c962426cd222",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "841bd04df0b860eee4fa6809a6adf9bd0d9742251bb01e00c3b4c962426cd222",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-NYC-DCWP-AEDT-rules-2023:5-303/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(a) Before the use of an AEDT, an employer or employment agency in the city must make the following publicly available on the employment section of their website in a clear and conspicuous manner:"
+  },
+  {
+   "obligation_id": "US-NYC-DCWP-AEDT-rules-2023:5-303/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "(1) The date of the most recent bias audit of the AEDT and a summary of the results, which shall include the source and explanation of the data used to conduct the bias audit, the number of individuals the AEDT assessed that fall within an unknown category, and the number of applicants or candidates, the selection or scoring rates, as applicable, and the impact ratios for all categories; and, (2) The distribution date of the AEDT."
+  },
+  {
+   "obligation_id": "US-NYC-DCWP-AEDT-rules-2023:5-303/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) An employer or employment agency must keep the summary of results and distribution date posted for at least 6 months after its latest use of the AEDT for an employment decision."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-NYC-DCWP-AEDT-rules-2023:5-303",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

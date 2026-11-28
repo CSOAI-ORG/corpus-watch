@@ -1,0 +1,916 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-c2pa-spec-2026:section-15",
+ "label": "INTL-c2pa-spec-2026 Section 15",
+ "instrument": "INTL-c2pa-spec-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "81fa6b6c982a35fd34de88d353005cd83a3b2727fb3eacdab61ce0a192d80cf3",
+ "sha256_v1": "",
+ "sha256_v2": "81fa6b6c982a35fd34de88d353005cd83a3b2727fb3eacdab61ce0a192d80cf3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "81fa6b6c982a35fd34de88d353005cd83a3b2727fb3eacdab61ce0a192d80cf3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p15/s1",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The two key parts of that are (1) any hashing of content shall be done using a standard bmff-hash-map (where the target of the hash is a segment) or, for content contributed over Enhanced RTMP (V2), as described in Section 15.5.3, “Carriage over Enhanced RTMP (E-RTMP)”, and (2) anytime that a C2PA Manifest Store is included in a live media stream, it shall be incorporated into a uuid box as described in Section A.5.1, “The 'uuid' Box for C2PA”, or for content contributed over Enhanced RTMP (V2), it shall be delivered in a c2paManifest [name, value] pair in a VideoPacketType.Metadata or AudioPacketType.Metadata message."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p15/s2",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "C2PA Manifest binding in an initialization segment\nFor those use cases that require (or desire) the presence of an initialization segment, it shall contain a uuid box, whose bmff-hash-map includes the moov box to establish a cryptographic relationship between the initialization segment and the media segments."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p15/s3",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When using this approach, each media segment shall contain a C2PA Manifest Box carried in a uuid box as defined in Section A.5.1, “The 'uuid' Box for C2PA”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p15/s4",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The active C2PA Manifest for each segment shall contain a BMFF hash assertion (c2pa.hash.bmff.v3) with a hash field that covers the bytes of that segment and with no merkle field, a Section 15.4.2, “Live Media Segment Assertion”, and may also contain any other assertions relevant to that segment."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p15/s5",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Live Media Segment Assertion\nWhen using the per-segment C2PA Manifest Box method, a live media segment assertion shall be included in the C2PA Manifest of each segment."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p15/s6",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This assertion, which provides metadata about the segment and its relationship to the live media stream, shall have a label of c2pa.livevideo.segment."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p15/s7",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The live media segment assertion shall contain a sequenceNumber field that provides a unique identifier for the segment."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p15/s8",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It shall also contain a streamId field that provides a unique identifier for the entire live media stream."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p15/s9",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "To facilitate this, the live media segment assertion shall contain a continuityMethod field that indicates the method used to ensure continuity between segments, through the use of cryptographic links between adjacent segments."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p15/s10",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Implementers may define additional continuity methods and shall use a label as described in Section 8.2, “Labels” to identify them."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p15/s11",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When using the c2pa.manifestId continuity method, the live media segment assertion shall contain a previousManifestId field that provides the manifest identifier of the previous segment’s C2PA Manifest (described in the livevideo-segment-map-manifestId rule)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p15/s12",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The payload shall be present and shall not be detached."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p15/s13",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The protected header shall carry the identifier of the algorithm used for the signature (alg field)\nand optionally, a timestamp representing \"claimed time of signing\" for the segment (iat field, RFC 8392)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p15/s14",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The unprotected header shall carry the identifier of the session key (kid field)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p15/s15",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A segment-info-map shall contain the following fields:\nsequenceNumber\nA unique identifier for the segment that is used to ensure the content order."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p15/s16",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This value shall either match the mfhd.sequence_number field defined in ISO/IEC 14496-12, ISO BMFF or shall follow the segment-indexing rules defined in ISO/IEC 23009-9, Section 6.2 (conditions (a) and (f))."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p15/s17",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When used in conjunction with the per-segment C2PA Manifest Box method, the sequenceNumber in the verifiable-segment-info-map shall match the sequenceNumber value in the Section 15.4.2, “Live Media Segment Assertion”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p15/s18",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This is either the identifier of the manifest included in the current segment (via uuid box), or the identifier of the manifest referenced by manifestUrl, or the identifier of the manifest included in a previous segment (including an init segment) that is still the active manifest.\nbmffHash\nA C2PA bmff-hash-map that shall contain the hash of the segment (as described in Section 16.3.2.2, “Hash Computation”), excluding all the C2PA emsg boxes (i.e., all emsg boxes with the scheme_id_uri described above)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p15/s19",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The merkle field shall be absent."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p15/s20",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In order to exclude the C2PA emsg boxes, bmffHash shall at least contain one exclusion-map with:\nxpath set to \"/emsg\".\ndata set with offset field equal to 0 and the value field set to urn:c2pa:verifiable-segment-info."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p15/s21",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Use in an emsg box\nWhen using the verifiable-segment-info in a live media workflow, a verifiable-segment-info shall be present in the emsg box of each segment of a live media stream to verify the integrity of the content during playback."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p15/s22",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The C2PA emsg box fields shall have:\nversion set to 0\nscheme_id_uri set to urn:c2pa:verifiable-segment-info\nvalue set to \"fseg\"\npresentation_time_delta set to 0\ntimescale and event_duration set to cover the whole segment\nid set to a session-unique value\nmessage_data set to the encoded verifiable-segment-info\nThe schema for verifiable-segment-info is defined in the following CDDL Definition (see Section G.8.2, “Verifiable Segment Info” for the complete normative schema):\nverifiable-segment-info = COSE_Sign1_Tagged\n;"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p15/s23",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "C2PA c2pa.hash.bmff.v3\n\"manifestId\" => tstr, ; shall be as described in <<manifest-identifier>>\n; optional hashed-ext-uri-map to where manifest can be retrieved\n? \"manifestUri\" => $hashed-ext-uri-map\n}\n15.5.3."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Metadata message carrying a rtmp-verifiable-segment-info shall belong to the track it identifies."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A video segment shall begin at the VideoTagHeader of the first video frame following the previous video segment of that track (or, for a track’s first segment, at the start of that track) and shall consist of one or more complete video frames, followed by one or more E-RTMP VideoPacketType.Metadata messages, each carrying a rtmp-verifiable-segment-info whose payload is an rtmp-segment-info-map describing those frames."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An audio segment shall begin at the AudioTagHeader of the first audio frame following the previous audio segment of that track (or, for a track’s first segment, at the start of that track) and shall consist of one or more complete audio frames, followed by one or more E-RTMP AudioPacketType.Metadata messages, each carrying a rtmp-verifiable-segment-info whose payload is an rtmp-segment-info-map describing those frames."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A publisher shall send each VideoPacketType.Metadata message on the same chunk stream (that is, with the same Chunk Stream ID, as defined by Adobe’s Real Time Messaging Protocol) as the video messages carrying the coded frames of the track it describes."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Likewise, a publisher shall send each AudioPacketType.Metadata message on the same RTMP chunk stream as the audio messages carrying the coded frames of the track it describes."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The RTMP message timestamp of a Metadata message carrying a rtmp-verifiable-segment-info shall be equal to that of the last frame of the segment it closes."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A segment boundary shall occur only at the completion of a frame; it shall not split a frame across two segments."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As with the segment-info-map used for BMFF content, the sequenceNumber shall increase monotonically by 1 for each subsequent segment of a given mediaType and trackId, independently of any other track."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s9",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A given session key shall be used to sign the rtmp-verifiable-segment-info of only one track (that is, of one combination of mediaType and trackId).\n15.5.3.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s10",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Segment hash computation\nThe segmentHash field of an rtmp-segment-info-map shall be computed, using the algorithm identified in its alg field, over the concatenation, in transmission order, of the following fields of each coded-frame packet of the segment:\nthe RTMP message timestamp of the message carrying the packet, as a 32-bit unsigned big-endian integer;\nthe composition time offset of the packet, as a 24-bit signed big-endian integer, or 0 if the packet carries none (for example, a CodedFramesX packet or an audio packet);\nthe coded media data of the packet (for example, [AvcCodedData], [HevcCodedData] or [AacCodedData], as defined by Enhanced RTMP (V2))."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s11",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "From a Multitrack message, only the packet of the segment’s track shall be included, using the RTMP message timestamp of the Multitrack message."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s12",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The audio and video messages contained in an RTMP Aggregate Message (message type 22) shall be treated as if they had been transmitted individually, with their normalized timestamps as defined by Adobe’s Real Time Messaging Protocol."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s13",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "No other bytes shall be included in the hash."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s14",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Initialization data binding\nA C2PA Manifest delivered in a c2paManifest [name, value] pair shall contain, as its hard binding, a data hash assertion without an exclusions field, whose hash is computed over the E-RTMP initialization data."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s15",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When validating that hard binding, the E-RTMP initialization data shall be treated as the content of the asset."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s16",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A publisher shall send the codec configuration of each track before the c2paManifest that binds to it."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s17",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If codec configuration for any track is sent after a c2paManifest (for example, because of a change of codec configuration), the publisher shall send a new c2paManifest, bound to the updated E-RTMP initialization data, before the first coded frame that depends on that configuration."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s18",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A publisher shall send the codec configuration of each track on the same chunk stream as the coded frames of that track."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s19",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A validator shall validate the hard binding of a C2PA Manifest delivered in a c2paManifest [name, value] pair when it validates the first segment, of any track, whose manifestId identifies that C2PA Manifest, rather than when the c2paManifest is received."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s20",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That hard binding shall be validated against the E-RTMP initialization data formed from the codec configuration of each track most recently received before the c2paSegmentInfo that closes that segment."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s21",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "AMF carriage\nWithin a VideoPacketType.Metadata or AudioPacketType.Metadata message, AMF3 object encoding shall be used, and the value of each of the following [name, value] pairs, when present, shall be carried as a native AMF3 ByteArray:\nc2paSegmentInfo\nThe binary-encoded rtmp-verifiable-segment-info, whose payload is an rtmp-segment-info-map, present in the Metadata message(s) that close each segment of the track carrying it."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s22",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "More than one c2paSegmentInfo may be present consecutively for the same segment (for example, signed with different session keys during key rotation); in that case, the segment shall be considered valid if at least one of them validates."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s23",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It is signaled by the [name, value] pair [\"c2paSegmentInfo\", ByteArray].\nc2paManifest\nA binary-encoded C2PA Manifest Store, which shall include a c2pa.session-keys assertion, present for the first manifest, and when the active manifest is updated."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s24",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Capability negotiation\nBecause E-RTMP is also used by endpoints that do not support this specification, support for C2PA Manifests shall be negotiated during the connection handshake using the C2PA bit (0x10) of CapsExMask, as defined by Enhanced RTMP (V2)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p0/s25",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A client that supports C2PA Manifests shall set this bit in the capsEx property of the Command Object of its connect command, and shall set the objectEncoding property of that same Command Object to"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A server that supports C2PA Manifests shall set this bit in the Info Object it returns in the _result command."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An endpoint shall not send a c2paSegmentInfo or c2paManifest [name, value] pair unless both endpoints have signaled support in this way, and an endpoint that has not signaled support should not expect to receive either."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An endpoint receiving a VideoPacketType.Metadata or AudioPacketType.Metadata message shall ignore any [name, value] pair whose name it does not recognize, and shall continue to process the remaining pairs in that message."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p3/s4",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Reconnection\nThe C2PA state of a stream (the active C2PA Manifest, its session keys and the sequenceNumber of each track) is not affected by an Enhanced RTMP (V2) reconnection (for example, in response to a NetConnection.Connect.ReconnectRequest): segments sent on the new connection shall continue the sequenceNumber of each track."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p3/s5",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "After reconnecting, a publisher shall send the active C2PA Manifest again in a c2paManifest [name, value] pair, after the codec configuration of each track and before the first coded frame."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p3/s6",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "C2PA Manifest Updates\nWhen different assertions are required for a new segment (for example, to indicate different provenance or replace expiring session keys), a new C2PA Manifest Store shall be provided, either embedded in the segment via a C2PA Manifest Box or linked externally, or for E-RTMP-delivered segments, via a c2paManifest [name, value] pair in a VideoPacketType.Metadata or AudioPacketType.Metadata message."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p3/s7",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The new manifest shall be used for all subsequent segments until another manifest is provided."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p3/s8",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When using session-specific keys, they shall be generated at the start of a live media session, but may also be generated and delivered via updated manifests in later segments (either initialization or other segments)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p3/s9",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The initial set of keys shall be part of the C2PA Manifest included in the initialization segment, or for E-RTMP-delivered segments, via a c2paManifest [name, value] pair in a VideoPacketType.Metadata or AudioPacketType.Metadata message sent before the c2paSegmentInfo that references them."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p3/s10",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If no C2PA Manifest is present in the current segment, the receiver shall look in the C2PA Manifest that accompanied the initialization segment."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p3/s11",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For E-RTMP-delivered segments, which have neither a C2PA Manifest Box nor an initialization segment, the receiver shall instead look in the C2PA Manifest delivered in a c2paManifest [name, value] pair whose manifest identifier matches the manifestId field of the rtmp-segment-info-map and, if no such C2PA Manifest has been received or the session key is not found there, should attempt to retrieve a C2PA Manifest Store from the manifestUri field of the rtmp-segment-info-map, if present."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p3/s12",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "After retrieving the C2PA Manifest, the receiver shall ensure that its manifest identifier matches the one provided in the manifestId field of the verifiable-segment-info."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s1",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In addition, a Section 15.4.2, “Live Media Segment Assertion” shall be included in the manifest to provide metadata about the segment.\n15.7.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s2",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "These session keys are included in the C2PA Manifest in the C2PA Manifest Box that shall be present in the initialization segment(s), or in an E-RTMP VideoPacketType.Metadata or AudioPacketType.Metadata message."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s3",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Signing the Box Hash\nFor BMFF/CMAF content, each segment of a live media or dynamically packaged stream shall have an emsg box containing the verifiable-segment-info,\nwhich is a segment-info-map signed by a session key."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s4",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Initial/Common Validation Steps\nIf the segment being validated is an initialization segment, the validator shall look for the presence of an mdat box."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s5",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If an mdat box is found, the validation shall fail with a failure code of livevideo.init.invalid."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s6",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a BMFF/CMAF segment contains neither a C2PA Manifest Box nor an emsg box that meets the requirements defined above, the validation of that segment shall fail with a failure code of livevideo.segment.invalid."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s7",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If an E-RTMP-delivered segment is not closed by one or more Metadata messages carrying a c2paSegmentInfo that meets the requirements defined above, the validation of that segment shall fail with a failure code of livevideo.segment.invalid."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s8",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a C2PA Manifest Box is found in a given segment, it shall be validated according to the general C2PA validation rules described in Chapter 14, Validation."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s9",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the C2PA Manifest fails validation, the validation of that segment shall fail with a failure code of livevideo.manifest.invalid."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s10",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For content contributed over Enhanced RTMP (V2), when a validator validates a segment, it shall have obtained the C2PA Manifest identified by the manifestId field of the segment’s rtmp-segment-info-map, either from a c2paManifest [name, value] pair or from the manifestUri field of that rtmp-segment-info-map (see Section 15.5.5, “Session Keys”); if it has not, the validation of that segment shall fail with a failure code of livevideo.init.invalid."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s11",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any C2PA Manifest Store obtained this way shall be validated according to the general C2PA validation rules described in Chapter 14, Validation, with its hard binding validated against the E-RTMP initialization data as described in Section 15.5.3.3, “Initialization data binding”; if it fails validation, the validation of that segment shall fail with a failure code of livevideo.manifest.invalid."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s12",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If, for any coded frame of an E-RTMP-delivered segment, the most recent codec configuration of its track received before that frame (carried in a SequenceStart packet or, for legacy codec signaling, the equivalent sequence header) is not the codec configuration of that track bound by the C2PA Manifest identified by the manifestId field of the segment’s rtmp-segment-info-map, the validation of that segment shall fail with a failure code of livevideo.init.invalid.\n15.8.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s13",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Per-segment C2PA Manifest Box Validation\nIf the C2PA Manifest present in the C2PA Manifest Box contains a live media segment assertion, the validator shall perform the following tests:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s14",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it is not, the validation of that segment shall fail with a failure code of livevideo.assertion.invalid."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s15",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If they do not match, the validation of that segment shall fail with a failure code of livevideo.assertion.invalid."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s16",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it is not, the validation of that segment shall fail with a failure code of livevideo.continuityMethod.invalid."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s17",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the continuityMethod field in the live media segment assertion has a value of \"c2pa.manifestId\", then the live media segment assertion shall contain a previousManifestId field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s18",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it does not, the validation of that segment shall fail with a failure code of livevideo.continuityMethod.invalid."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s19",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If they do not match, the validation of that segment shall fail with a failure code of livevideo.segment.invalid."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s20",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the continuityMethod field in the live media segment assertion has a value other than \"c2pa.manifestId\", and the validator does not recognize or support that continuity method, the validation of that segment shall fail with a failure code of livevideo.continuityMethod.invalid.\n15.8.3."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s21",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Verifiable Segment Info Validation\nIf the C2PA Manifest present in the C2PA Manifest Box contains a session keys assertion, the public session keys shall be extracted and stored for use in validating subsequent segments."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s22",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If any public session key does not conform to the requirements described in Session Keys Assertion, the validation of that segment shall fail with a failure code of livevideo.sessionkey.invalid."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s23",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Similarly, if signature validation (signerBinding) of any public session key structure fails, that session key is invalid and shall not be used to validate any media segment, and validation shall fail with a failure code of livevideo.sessionkey.invalid."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s24",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a segment contains an emsg box that meets the requirements defined above, and the segment is not an initialization segment, and the validator does not have any valid session keys, the validation of that segment shall fail with a failure code of livevideo.segment.invalid."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s25",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If there is a valid emsg box containing a valid verifiable-segment-info, the validator shall extract the value of kid from its unprotected header and use that to identify the correct public session key."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s26",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Validation fails if the key cannot be found or if the signature in verifiable-segment-info cannot be verified with it, and shall fail with a failure code of livevideo.segment.invalid."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s27",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Subsequently, when parsing the segment-info-map, validation of that segment shall fail with a failure code of livevideo.segment.invalid if any of the following errors occurs:\nthe segment is not the first segment, and its sequenceNumber is lower than or equal to the sequenceNumber of the previous segment;\nthe segment’s sequenceNumber is lower than the minSequenceNumber (of the matching session key);\nfor BMFF/CMAF content, the segment’s presentation time is outside the key’s validity period;\nthe segment’s hash does not match the bmffHash field (see Section 16.3.2, “BMFF-Based Hash”)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s28",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it is not, the validation of that segment shall fail with a failure code of livevideo.sessionkey.invalid.\n15.8.4."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-15/p14/s29",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Subsequently, when parsing the rtmp-segment-info-map, validation of that segment shall fail with a failure code of livevideo.segment.invalid if any of the following errors occurs:\nthe segment is not the first segment of its track, and its sequenceNumber is lower than or equal to the sequenceNumber of the previous segment of the same track;\nthe segment’s sequenceNumber is lower than the minSequenceNumber (of the matching session key);\nthe time at which the segment is validated is outside the key’s validity period, that is, earlier than createdAt or later than createdAt plus validityPeriod seconds;\nthe segment’s hash does not match the segmentHash field;\nthe session key identified by kid has a"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-c2pa-spec-2026:section-15",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

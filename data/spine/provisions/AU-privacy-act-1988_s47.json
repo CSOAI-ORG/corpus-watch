@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s47",
+ "label": "AU-privacy-act-1988 Section 47",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3cc7edad805c9e3974da0b24b02ccc4278bed272becfd4f15d1bdb5da821d955",
+ "sha256_v1": "",
+ "sha256_v2": "3cc7edad805c9e3974da0b24b02ccc4278bed272becfd4f15d1bdb5da821d955",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "3cc7edad805c9e3974da0b24b02ccc4278bed272becfd4f15d1bdb5da821d955",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s47/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\tA conference under this Division shall be held in private and shall be conducted in such manner as the Commissioner thinks fit."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s47",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

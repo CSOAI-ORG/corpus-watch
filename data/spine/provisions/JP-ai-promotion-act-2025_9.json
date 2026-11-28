@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-ai-promotion-act-2025:9",
+ "label": "JP-ai-promotion-act-2025 Article 9",
+ "instrument": "JP-ai-promotion-act-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "ca269a94468247780d7b0a75fae313092b0c3f141578cb0fd84f1b90e68aa1de",
+ "sha256_v1": "",
+ "sha256_v2": "ca269a94468247780d7b0a75fae313092b0c3f141578cb0fd84f1b90e68aa1de",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ca269a94468247780d7b0a75fae313092b0c3f141578cb0fd84f1b90e68aa1de",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-ai-promotion-act-2025:9/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "国は、国、地方公共団体、研究開発機関及び活用事業者が相互に連携を図りながら協力することにより人工知能関連技術の研究開発及び活用の推進が図られることに鑑み、これらの者の間の連携の強化に必要な施策を講ずるものとする。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-ai-promotion-act-2025:9",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

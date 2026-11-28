@@ -1,0 +1,146 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-12CFR1002-RegB-1977:supp1-1002.109",
+ "label": "US-12CFR1002-RegB-1977 Supplement I, Section 1002.109—Reporting of Data to the Bureau",
+ "instrument": "US-12CFR1002-RegB-1977",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3fb597dc86a7d983ff44fd696786e7345040f224a9008d30650209a52d6b923d",
+ "sha256_v1": "",
+ "sha256_v2": "3fb597dc86a7d983ff44fd696786e7345040f224a9008d30650209a52d6b923d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "3fb597dc86a7d983ff44fd696786e7345040f224a9008d30650209a52d6b923d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.109/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A financial institution shall report the action that it takes on a covered application, whether or not the covered credit transaction closed in the financial institution's name and even if the financial institution used underwriting criteria supplied by another financial institution."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.109/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, where it is necessary for more than one financial institution to make a credit decision in order to approve a single covered credit transaction, only the last financial institution with authority to set the material terms of the covered credit transaction is required to report."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.109/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The financial institution must also report the application if it was withdrawn."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.109/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where it is necessary for more than one financial institution to make a credit decision in order to approve a single covered credit transaction and where more than one financial institution denies the application or otherwise does not approve the application, the reporting financial institution (the last financial institution with authority to set the material terms of the covered credit transaction) shall have a consistent procedure for determining how it reports inconsistent or differing data points for purposes of subpart B of this part."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.109/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Examples vii and viii describe situations where more than one financial institution must make a credit decision in order to approve the covered credit transaction."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.109/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a financial institution's information required pursuant to § 1002.109(b) changes, the financial institution shall provide the new information with the data submission for the collection year of the change."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.109/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The surviving institution must report the new TIN with its data submission for its 2029 data (which is due by June 1, 2030) pursuant to § 1002.109(b)(5)."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.109/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Likewise, if that financial institution's Federal prudential regulator changes in February 2029 as a result of the merger, it must identify its new Federal prudential regulator in its annual submission for its 2029 data."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.109/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A financial institution that does not currently possess an LEI number must obtain an LEI number, and has an ongoing obligation to maintain the LEI number."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.109/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For purposes of § 1002.109(b)(8)(ii) and (v), a financial institution shall report the LEI of a parent entity if the parent entity has an LEI number."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.109/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For purposes of § 1002.109(b)(8)(iii) and § 1002.109(b)(8)(vi), a financial institution shall report the RSSD ID number of a parent entity if the entity has an RSSD ID number."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.109/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A financial institution shall select all applicable types. i."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-12CFR1002-RegB-1977:supp1-1002.109",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

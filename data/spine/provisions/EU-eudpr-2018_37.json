@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:37",
+ "label": "EU-eudpr-2018 Article 37",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ecc40021a9cbba4345c5868b16398d0bb0259fb6f93e6bdd03720873bf371813",
+ "sha256_v1": "",
+ "sha256_v2": "ecc40021a9cbba4345c5868b16398d0bb0259fb6f93e6bdd03720873bf371813",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "ecc40021a9cbba4345c5868b16398d0bb0259fb6f93e6bdd03720873bf371813",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:37/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Protection of information transmitted to, stored in, related to, processed by and collected from users’ terminal equipment\nUnion institutions and bodies shall protect the information transmitted to, stored in, related to, processed by and collected from the terminal equipment of users accessing their publicly available websites and mobile applications, in accordance with Article 5(3) of Directive 2002/58/EC."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:37",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-equality-act-2010:sch11",
+ "label": "GB-equality-act-2010 Schedule 11",
+ "instrument": "GB-equality-act-2010",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b86b52b6e1f49a3cfc208efaeb82739caaf3366c6bee08031ae656032a3141ff",
+ "sha256_v1": "",
+ "sha256_v2": "b86b52b6e1f49a3cfc208efaeb82739caaf3366c6bee08031ae656032a3141ff",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "b86b52b6e1f49a3cfc208efaeb82739caaf3366c6bee08031ae656032a3141ff",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-equality-act-2010:sch11/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(7)\nAn application under sub-paragraph (6) must specify—\n(a)\nthe period proposed by the responsible body as the transitional period to be specified in the order,\n(b)\nthe stages within that period by which the body proposes to move to the position where section 85(1)(a) and (c), so far as relating to sex, is complied with, and\n(c)\nany other matters relevant to the terms and operation of the order applied for."
+  },
+  {
+   "obligation_id": "GB-equality-act-2010:sch11/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(8)\nThe Commission must not make an order on an application under sub-paragraph (6) unless satisfied that the terms of the application are reasonable, having regard to—\n(a)\nthe nature of the school's premises,\n(b)\nthe accommodation, equipment and facilities available, and\n(c)\nthe responsible body's financial resources."
+  },
+  {
+   "obligation_id": "GB-equality-act-2010:sch11/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nBefore making an order under this paragraph the Minister must consult—\n(a)\nthe Welsh Ministers,\n(b)\nthe Scottish Ministers, and\n(c)\nsuch other persons as the Minister thinks appropriate."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-equality-act-2010:sch11",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

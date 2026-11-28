@@ -1,0 +1,126 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:44",
+ "label": "EU-eudpr-2018 Article 44",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "8e2f4e5666dc1caef35a74d268d85153a07df74bfc5b1fa64014bb5f4e724bdf",
+ "sha256_v1": "",
+ "sha256_v2": "8e2f4e5666dc1caef35a74d268d85153a07df74bfc5b1fa64014bb5f4e724bdf",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "8e2f4e5666dc1caef35a74d268d85153a07df74bfc5b1fa64014bb5f4e724bdf",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:44/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "The Union institutions and bodies shall ensure that the data protection officer is involved, properly and in a timely manner, in all issues which relate to the protection of personal data."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:44/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Union institutions and bodies shall support the data protection officer in performing the tasks referred to in Article 45 by providing resources necessary to carry out those tasks and access to personal data and processing operations, and to maintain his or her expert knowledge."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:44/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "The Union institutions and bodies shall ensure that the data protection officer does not receive any instructions regarding the exercise of those tasks."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:44/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "He or she shall not be dismissed or penalised by the controller or the processor for performing his or her tasks."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:44/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The data protection officer shall directly report to the highest management level of the controller or the processor."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:44/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The data protection officer and his or her staff shall be bound by secrecy or confidentiality concerning the performance of their tasks, in accordance with Union law."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:44/p6/s1",
+   "paragraph": "6",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "The controller or processor shall ensure that any such tasks and duties do not result in a conflict of interests."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:44/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "No one shall suffer prejudice on account of a matter brought to the attention of the competent data protection officer alleging that a breach of the provisions of this Regulation has taken place."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:44/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The data protection officer shall be designated for a term of three to five years and shall be eligible for reappointment."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:44/p9/s1",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "After his or her designation the data protection officer shall be registered with the European Data Protection Supervisor by the Union institution or body which designated him or her."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:44",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

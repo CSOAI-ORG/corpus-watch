@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-platform-work-2024:19",
+ "label": "EU-platform-work-2024 Article 19",
+ "instrument": "EU-platform-work-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "d4d5ea28fef41afa723ef0b900c0638391902a12e64888953f01091296e24dac",
+ "sha256_v1": "",
+ "sha256_v2": "d4d5ea28fef41afa723ef0b900c0638391902a12e64888953f01091296e24dac",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d4d5ea28fef41afa723ef0b900c0638391902a12e64888953f01091296e24dac",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-platform-work-2024:19/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Procedures on behalf or in support of persons performing platform work\nWithout prejudice to Article 80 of Regulation (EU) 2016/679, Member States shall ensure that representatives of persons performing platform work and legal entities which have, in accordance with national law or practice, a legitimate interest in defending the rights of persons performing platform work are able to engage in any judicial or administrative procedure to enforce any of the rights or obligations arising from this Directive."
+  },
+  {
+   "obligation_id": "EU-platform-work-2024:19/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that such representatives and legal entities are able to act on behalf or in support of one or several persons performing platform work in the case of the infringement of any right or obligation arising from this Directive, in accordance with national law and practice."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-platform-work-2024:19",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

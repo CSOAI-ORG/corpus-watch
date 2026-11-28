@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-TX-HB149-TRAIGA-2025:SECTION-4-intro",
+ "label": "US-TX-HB149-TRAIGA-2025 SECTION 4 (introductory text)",
+ "instrument": "US-TX-HB149-TRAIGA-2025",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "bac7af25ba4c6d026e8c3aa97b0c8c34dc56e78d8efd78efa670ea513329a474",
+ "sha256_v1": "",
+ "sha256_v2": "bac7af25ba4c6d026e8c3aa97b0c8c34dc56e78d8efd78efa670ea513329a474",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "bac7af25ba4c6d026e8c3aa97b0c8c34dc56e78d8efd78efa670ea513329a474",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-TX-HB149-TRAIGA-2025:SECTION-4-intro/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-TX-HB149-TRAIGA-2025:SECTION-4-intro",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

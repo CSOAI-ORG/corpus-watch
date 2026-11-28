@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-ai-basic-act-enforcement-decree-2026:18",
+ "label": "KR-ai-basic-act-enforcement-decree-2026 제18조",
+ "instrument": "KR-ai-basic-act-enforcement-decree-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "256b02781efc063314abfe1f2fbc9f052cfcc63ed25638d0d2e0a97c0f069a8f",
+ "sha256_v1": "",
+ "sha256_v2": "256b02781efc063314abfe1f2fbc9f052cfcc63ed25638d0d2e0a97c0f069a8f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "256b02781efc063314abfe1f2fbc9f052cfcc63ed25638d0d2e0a97c0f069a8f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:18/s12",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "② 전담기관은 매 회계연도가 시작되기 전까지 다음 회계연도의 사업운영 계획과 예산에 관하여 과학기술정보통신부장관에게 보고해야 한다."
+  },
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:18/s15",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "다만, 제1호에 해당하는 경우에는 그 지정을 취소해야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-ai-basic-act-enforcement-decree-2026:18",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:33",
+ "label": "EU-dma-2022 Article 33",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "edbc007d5ac2f3cd39e732444cd8977ab2a3a4490701d6e706ea447e75353f0c",
+ "sha256_v1": "",
+ "sha256_v2": "edbc007d5ac2f3cd39e732444cd8977ab2a3a4490701d6e706ea447e75353f0c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "edbc007d5ac2f3cd39e732444cd8977ab2a3a4490701d6e706ea447e75353f0c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:33/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The power of the Commission to enforce decisions taken pursuant to Articles 30 and 31 shall be subject to a limitation period of 5 years."
+  },
+  {
+   "obligation_id": "EU-dma-2022:33/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Time shall begin to run from the day on which the decision becomes final."
+  },
+  {
+   "obligation_id": "EU-dma-2022:33/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The limitation period for the enforcement of penalties shall be interrupted:"
+  },
+  {
+   "obligation_id": "EU-dma-2022:33/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each interruption shall start time running afresh."
+  },
+  {
+   "obligation_id": "EU-dma-2022:33/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The limitation period for the enforcement of penalties shall be suspended for so long as:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:33",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

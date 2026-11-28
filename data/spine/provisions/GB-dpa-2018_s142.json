@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s142",
+ "label": "GB-dpa-2018 Section 142",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "576e162529e45fa1460f1e30918dfa20086a7126945d84af4ffb92039c43a2f2",
+ "sha256_v1": "",
+ "sha256_v2": "576e162529e45fa1460f1e30918dfa20086a7126945d84af4ffb92039c43a2f2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "576e162529e45fa1460f1e30918dfa20086a7126945d84af4ffb92039c43a2f2",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s142/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nAn information notice must state—\n(a)\nwhether it is given under subsection (1)(a), (b)(i) or (b)(ii), and\n(b)\nwhy the Commission requires the information or documents."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s142/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)\nmay specify the form in which the information or documents must be provided;"
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s142/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)\nmay specify the time at which, or the period within which, the information or documents must be provided;"
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s142/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d)\nmay specify the place where the information or documents must be provided;"
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s142/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nAn information notice must provide information about—\n(a)\nthe consequences of failure to comply with it, and\n(b)\nthe rights under sections 162 and 164 (appeals etc)."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s142/p0/s6",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(7)\nIf an information notice—\n(a)\nstates that, in the Commission's opinion, the informationor documents are required urgently, and\n(b)\ngives the Commission's reasons for reaching that opinion,\nsubsections (5) and (6) do not apply but the notice must not require the information or documents to be provided before the end of the period of 24 hours beginning when the notice is given."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s142",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

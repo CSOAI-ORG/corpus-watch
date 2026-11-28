@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CO-HB26-1139-healthAI-UR-2026:SECTION-25",
+ "label": "US-CO-HB26-1139-healthAI-UR-2026 SECTION 25",
+ "instrument": "US-CO-HB26-1139-healthAI-UR-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "a59f07fc562b4ddc518295c4d7f1d2e9b3361469e0fbbe8ffc570d12b8176272",
+ "sha256_v1": "",
+ "sha256_v2": "a59f07fc562b4ddc518295c4d7f1d2e9b3361469e0fbbe8ffc570d12b8176272",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 46,
+ "sha256_current": "a59f07fc562b4ddc518295c4d7f1d2e9b3361469e0fbbe8ffc570d12b8176272",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CO-HB26-1139-healthAI-UR-2026:SECTION-25/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "(3) A PERSON DESCRIBED IN SUBSECTION (2) OF THIS SECTION THAT USES AN ARTIFICIAL INTELLIGENCE SYSTEM TO CONDUCT UTILIZATION REVIEW SHALL ENSURE THAT:"
+  },
+  {
+   "obligation_id": "US-CO-HB26-1139-healthAI-UR-2026:SECTION-25/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4) A PERSON DESCRIBED IN SUBSECTION (2) OF THIS SECTION SHALL PROVIDE WRITTEN DISCLOSURES TO THE DIVISION, THE DEPARTMENT OF HUMAN SERVICES, OR THE DEPARTMENT OF HEALTH CARE POLICY AND FINANCING, AS APPLICABLE, THAT IDENTIFY:"
+  },
+  {
+   "obligation_id": "US-CO-HB26-1139-healthAI-UR-2026:SECTION-25/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) THE HUMAN OVERSIGHT PROCESS, INCLUDING THE QUALIFICATIONS OF THE REVIEWER AND WHETHER A HUMAN MUST APPROVE AN ADVERSE DETERMINATION;"
+  },
+  {
+   "obligation_id": "US-CO-HB26-1139-healthAI-UR-2026:SECTION-25/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) A CARRIER'S DENIAL OF COVERAGE BASED IN WHOLE OR IN PART ON MEDICAL NECESSITY SHALL NOT BE ISSUED SOLELY ON THE OUTPUT OF AN ARTIFICIAL INTELLIGENCE SYSTEM WITHOUT HUMAN REVIEW AND APPROVAL OF THE DENIAL BY A LICENSED CLINICIAN, LICENSED PHYSICIAN, OR OTHER REGULATED PROFESSIONAL THAT IS COMPETENT TO EVALUATE THE SPECIFIC CLINICAL ISSUES INVOLVED IN THE HEALTH-CARE SERVICES REQUESTED BY THE PROVIDER AND A REVIEW OF THE HEALTH BENEFIT PLAN'S TERMS OF COVERAGE FOR THE HEALTH-CARE SERVICE."
+  },
+  {
+   "obligation_id": "US-CO-HB26-1139-healthAI-UR-2026:SECTION-25/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) A CARRIER OFFERING A HEALTH BENEFIT PLAN ISSUED OR RENEWED IN THE STATE ON OR AFTER THE EFFECTIVE DATE OF THIS SECTION SHALL NOT PROVIDE COVERAGE FOR SERVICES THAT CONSTITUTE PSYCHOTHERAPY SERVICES, AS DEFINED IN SECTION 12-245-202 (14), THAT ARE PROVIDED DIRECTLY TO AN INDIVIDUAL AND THAT ARE CONDUCTED BY AN ARTIFICIAL INTELLIGENCE SYSTEM."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CO-HB26-1139-healthAI-UR-2026:SECTION-25",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

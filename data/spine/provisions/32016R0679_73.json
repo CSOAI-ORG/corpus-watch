@@ -1,0 +1,48 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:73",
+ "label": "GDPR Art. 73",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "0fc28bb73b79c1cb6f99d8a5149bb744084c99cfbe7e6c2a4324e457e6e7bbaf",
+ "sha256_v1": "0fc28bb73b79c1cb6f99d8a5149bb744084c99cfbe7e6c2a4324e457e6e7bbaf",
+ "sha256_v2": "3b98cb3dfc55b99444888ac71624c48b0c8f91a80a027b15957e04e7d8e0fe82",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "3b98cb3dfc55b99444888ac71624c48b0c8f91a80a027b15957e04e7d8e0fe82",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:73/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Board shall elect a chair and two deputy chairs from amongst its members by simple majority."
+  },
+  {
+   "obligation_id": "32016R0679:73/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The term of office of the Chair and of the deputy chairs shall be five years and be renewable once."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:73",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

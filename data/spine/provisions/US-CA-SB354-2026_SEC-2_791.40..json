@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB354-2026:SEC-2:791.40.",
+ "label": "US-CA-SB354-2026 SEC. 2. / 791.40.",
+ "instrument": "US-CA-SB354-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "003cd2a61b7465204b8fcfa0e3a0f75fb87cdb4785685df4161d91edd6967a77",
+ "sha256_v1": "",
+ "sha256_v2": "003cd2a61b7465204b8fcfa0e3a0f75fb87cdb4785685df4161d91edd6967a77",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "003cd2a61b7465204b8fcfa0e3a0f75fb87cdb4785685df4161d91edd6967a77",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.40./p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(b)When adopting regulations pursuant to this section, the commissioner shall, to the extent reasonably possible, ensure that the commissioner’s regulations do not conflict with regulations adopted by California Privacy Protection Agency, to the extent that the regulations pertain to the same subject matter and are adopted pursuant to substantially similar authorizing statutes."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.40./p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(c)The commissioner shall adopt regulations providing model policies, forms, and contracts that licensees may use for compliance with this article."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB354-2026:SEC-2:791.40.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

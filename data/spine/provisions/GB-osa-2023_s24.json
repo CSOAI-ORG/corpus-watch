@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s24",
+ "label": "GB-osa-2023 Section 24",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9338e86d25057d4703445b86acbb2d05ab3c3c48a7bfc1d24fa70c504953b24f",
+ "sha256_v1": "",
+ "sha256_v2": "9338e86d25057d4703445b86acbb2d05ab3c3c48a7bfc1d24fa70c504953b24f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9338e86d25057d4703445b86acbb2d05ab3c3c48a7bfc1d24fa70c504953b24f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s24/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of search services: duties of care\n(1)\nSubsections (2) to (4) apply to determine which of the duties set out in this Chapter must be complied with by providers of regulated search services."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s24/p0/s2",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nAll providers of regulated search services must comply with the following duties in relation to each such service which they provide—\n(a)\nthe duties about illegal content risk assessments set out in section 26,\n(b)\nthe duties about illegal content set out in section 27(2) to (8),\n(c)\nthe duty about content reporting set out in section 31,\n(d)\nthe duties about complaints procedures set out in section 32,\n(e)\nthe duties about freedom of expression and privacy set out in section 33, and\n(f)\nthe duties about record-keeping and review set out in section 34(2) to (6)."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s24/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nAdditional duties must be complied with by providers of particular kinds of regulated search services, as follows."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s24/p0/s4",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nAll providers of regulated search services that are likely to be accessed by children must comply with the following duties in relation to each such service which they provide—\n(a)\nthe duties about children’s risk assessments set out in section 28, and\n(b)\nthe duties to protect children’s online safety set out in section 29(2) to (8)."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s24/p0/s5",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nAll providers of regulated search services that are Category 2A services must comply with the following duties in relation to each such service which they provide—\n(a)\nthe duty about illegal content risk assessments set out in section 27(9),\n(b)\nthe duty about children’s risk assessments set out in section 29(9), and\n(c)\nthe duty about record-keeping set out in section 34(9)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s24",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

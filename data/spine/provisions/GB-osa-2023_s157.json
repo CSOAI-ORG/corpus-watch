@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s157",
+ "label": "GB-osa-2023 Section 157",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "7056440f7d3f4fd0b2c550e0c28b47a8025d3212b3a19542b9b099dcdbaa326b",
+ "sha256_v1": "",
+ "sha256_v2": "7056440f7d3f4fd0b2c550e0c28b47a8025d3212b3a19542b9b099dcdbaa326b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "7056440f7d3f4fd0b2c550e0c28b47a8025d3212b3a19542b9b099dcdbaa326b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s157/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "OFCOM’s reports about use of age assurance\n(1)\nOFCOM must produce and publish a report assessing—\n(a)\nhow providers of regulated services have used age assurance for the purpose of compliance with their duties set out in this Act,\n(b)\nhow effective the use of age assurance has been for that purpose, and\n(c)\nwhether there are factors that have prevented or hindered the effective use of age assurance, or a particular kind of age assurance, for that purpose,\n(and in this section, references to a report are to a report described in this subsection)."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s157/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nA report must, in particular, consider whether the following have prevented or hindered the effective use of age assurance—\n(a)\nthe costs to providers of using it, and\n(b)\nthe need to protect users from a breach of any statutory provision or rule of law concerning privacy that is relevant to the use or operation of a regulated service (including, but not limited to, any such provision or rule concerning the processing of personal data)."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s157/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nIn preparing a report, OFCOM must consult—\n(a)\nthe Information Commission, and\n(b)\nsuch other persons as OFCOM consider appropriate."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s157/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nOFCOM must send a copy of a report to the Secretary of State, and the Secretary of State must lay it before Parliament."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s157",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s154",
+ "label": "GB-osa-2023 Section 154",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e0def72a482e3da549b8f902cacffb239738c5d121c667bb19b5fa98671ee4b5",
+ "sha256_v1": "",
+ "sha256_v2": "e0def72a482e3da549b8f902cacffb239738c5d121c667bb19b5fa98671ee4b5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "e0def72a482e3da549b8f902cacffb239738c5d121c667bb19b5fa98671ee4b5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s154/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nAfter subsection (6A) insert—\n(6B)\nOFCOM must make arrangements for ascertaining—\n(a)\nthe state of public opinion from time to time concerning providers of regulated services and their manner of operating their services;"
+  },
+  {
+   "obligation_id": "GB-osa-2023:s154/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6C)\nOFCOM’s report under paragraph 12 of the Schedule to the Office of Communications Act 2002 for each financial year must contain a statement by OFCOM about the research that has been carried out in that year under subsection (6B)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s154",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

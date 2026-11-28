@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-equality-act-2010:s112",
+ "label": "GB-equality-act-2010 Section 112",
+ "instrument": "GB-equality-act-2010",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3b86e8c106fd113656922810bc9f9a516ec360234b740266111631f860d03c83",
+ "sha256_v1": "",
+ "sha256_v2": "3b86e8c106fd113656922810bc9f9a516ec360234b740266111631f860d03c83",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "3b86e8c106fd113656922810bc9f9a516ec360234b740266111631f860d03c83",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-equality-act-2010:s112/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Aiding contraventions\n(1)\nA person (A) must not knowingly help another (B) to do anything which contravenes Part 3, 4, 5, 6 or 7 or section 108(1) or (2) or 111 (a basic contravention)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-equality-act-2010:s112",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

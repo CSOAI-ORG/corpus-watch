@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB1831-2024:SEC-2",
+ "label": "US-CA-AB1831-2024 SEC. 2.",
+ "instrument": "US-CA-AB1831-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "2ad4f0ecf99fa4a143e3181cd27c4d3f1f967ab08bfb01518e981064d28e9dec",
+ "sha256_v1": "",
+ "sha256_v2": "2ad4f0ecf99fa4a143e3181cd27c4d3f1f967ab08bfb01518e981064d28e9dec",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "2ad4f0ecf99fa4a143e3181cd27c4d3f1f967ab08bfb01518e981064d28e9dec",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB1831-2024:SEC-2/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1)If it appears from the nature of the matter or the circumstances of its dissemination, distribution, or exhibition that it is designed for clearly defined deviant sexual groups, the appeal of the matter shall be judged with reference to its intended recipient group."
+  },
+  {
+   "obligation_id": "US-CA-AB1831-2024:SEC-2/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1)If it appears from the nature of the conduct or the circumstances of its production, presentation, or exhibition that it is designed for clearly defined deviant sexual groups, the appeal of the conduct shall be judged with reference to its intended recipient group."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB1831-2024:SEC-2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

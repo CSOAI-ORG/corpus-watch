@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:59",
+ "label": "EU-eudpr-2018 Article 59",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8cdc50c09681b9f6f66998f356ab27b489f3e5b686b7794ec5c63a7e9e94f318",
+ "sha256_v1": "",
+ "sha256_v2": "8cdc50c09681b9f6f66998f356ab27b489f3e5b686b7794ec5c63a7e9e94f318",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "8cdc50c09681b9f6f66998f356ab27b489f3e5b686b7794ec5c63a7e9e94f318",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:59/p0/s1",
+   "paragraph": "0",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Obligation of controllers and processors to react to allegations\nWhere the European Data Protection Supervisor exercises the powers provided for in points (a), (b) and (c) of Article 58(2), the controller or processor concerned shall inform the European Data Protection Supervisor of its views within a reasonable period to be specified by the European Data Protection Supervisor, taking into account the circumstances of each case."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:59/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The reply shall also include a description of the measures taken, if any, in response to the remarks of the European Data Protection Supervisor."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:59",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

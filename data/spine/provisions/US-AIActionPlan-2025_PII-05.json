@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-AIActionPlan-2025:PII-05",
+ "label": "US-AIActionPlan-2025 Train a Skilled Workforce for AI Infrastructure",
+ "instrument": "US-AIActionPlan-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ea838c54db8c5100ac11d75503281c8ccb10edd7e72b0f10e82877bf29af32c3",
+ "sha256_v1": "",
+ "sha256_v2": "ea838c54db8c5100ac11d75503281c8ccb10edd7e72b0f10e82877bf29af32c3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 9,
+ "sha256_current": "ea838c54db8c5100ac11d75503281c8ccb10edd7e72b0f10e82877bf29af32c3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-AIActionPlan-2025:PII-05/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Train a Skilled Workforce for AI Infrastructure To build the infrastructure needed to power America’s AI future, we must also invest in the workforce that will build, operate, and maintain it—including roles such as electricians, advanced HVAC technicians, and a host of other high-paying occupations."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-AIActionPlan-2025:PII-05",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

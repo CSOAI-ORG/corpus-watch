@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-machinery-2023:17",
+ "label": "EU-machinery-2023 Article 17",
+ "instrument": "EU-machinery-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d0606ade270dfffe7737e20c25f5a872f73ea53bc26b52d9da03087b58e94591",
+ "sha256_v1": "",
+ "sha256_v2": "d0606ade270dfffe7737e20c25f5a872f73ea53bc26b52d9da03087b58e94591",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d0606ade270dfffe7737e20c25f5a872f73ea53bc26b52d9da03087b58e94591",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-machinery-2023:17/p0/s1",
+   "paragraph": "0",
+   "addressee": "distributor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Cases in which obligations of manufacturers apply to importers and distributors\nAn importer or distributor shall be considered to be a manufacturer for the purposes of this Regulation, and shall be subject to the obligations of the manufacturer set out in Articles 10 and 11, where that importer or distributor places a product within the scope of this Regulation on the market under its name or trademark or modifies a product already placed on the market in such a way that compliance with the applicable requirements might be affected."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-machinery-2023:17",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

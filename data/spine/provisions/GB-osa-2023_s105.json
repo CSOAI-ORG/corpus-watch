@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s105",
+ "label": "GB-osa-2023 Section 105",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "42d139585f49b817dadf391ca495ac206b329a7a61d8e39319834eaf0d3d68f7",
+ "sha256_v1": "",
+ "sha256_v2": "42d139585f49b817dadf391ca495ac206b329a7a61d8e39319834eaf0d3d68f7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "42d139585f49b817dadf391ca495ac206b329a7a61d8e39319834eaf0d3d68f7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s105/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Investigations\n(1)\nIf OFCOM open an investigation into whether a provider of a regulated service has failed, or is failing, to comply with any requirement mentioned in subsection (2), the provider must co-operate fully with the investigation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s105",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

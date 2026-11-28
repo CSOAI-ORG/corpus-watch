@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-pipa-2011:35-3",
+ "label": "KR-pipa-2011 제35조의3",
+ "instrument": "KR-pipa-2011",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "64157503c7bc68580b396ffff3f8dcea0160ecc4bcaaf0efba90f0804779046a",
+ "sha256_v1": "",
+ "sha256_v2": "64157503c7bc68580b396ffff3f8dcea0160ecc4bcaaf0efba90f0804779046a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "64157503c7bc68580b396ffff3f8dcea0160ecc4bcaaf0efba90f0804779046a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-pipa-2011:35-3/s10",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ko:internal-record",
+   "status": "DRAFT",
+   "text": "③ 개인정보관리 전문기관은 다음 각 호의 어느 하나에 해당하는 행위를 하여서는 아니 된다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:35-3/s14",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "다만, 제1호에 해당하는 경우에는 지정을 취소하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:35-3/s17",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "⑤ 보호위원회 및 관계 중앙행정기관의 장은 제4항에 따라 지정을 취소하는 경우에는 「행정절차법」에 따른 청문을 실시하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-pipa-2011:35-3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

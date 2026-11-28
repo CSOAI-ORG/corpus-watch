@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-aiact-scientific-panel-2025:16",
+ "label": "EU-aiact-scientific-panel-2025 Article 16",
+ "instrument": "EU-aiact-scientific-panel-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "872a3c41e79816785b545b6ef982c603db49c51f4042919986987e16553703b2",
+ "sha256_v1": "",
+ "sha256_v2": "872a3c41e79816785b545b6ef982c603db49c51f4042919986987e16553703b2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "872a3c41e79816785b545b6ef982c603db49c51f4042919986987e16553703b2",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:16/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The AI Office shall assess whether issuing a request for documentation or information to a provider of a general-purpose AI model is necessary and proportionate for the fulfilment of the tasks of the scientific panel, taking into account the need to protect trade secrets and confidential business information."
+  },
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:16/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the AI Office ascertains that the requested assistance is not necessary and proportionate, it shall notify the scientific panel, stating the reasons for refusal."
+  },
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:16/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The AI Office shall regularly report to the Board about the requests received and the decisions taken in relation to those requests."
+  },
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:16/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The AI Office shall process the request within two weeks from the receipt of the complete request."
+  },
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:16/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In this case the request shall not be considered complete until the additional information has been provided."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-aiact-scientific-panel-2025:16",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

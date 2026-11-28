@@ -1,0 +1,686 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-c2pa-spec-2026:section-13",
+ "label": "INTL-c2pa-spec-2026 Section 13",
+ "instrument": "INTL-c2pa-spec-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "c80ec8573e3fdea9804b92fb9eb1fab98d355232410e88d023241bc52aa7151f",
+ "sha256_v1": "",
+ "sha256_v2": "c80ec8573e3fdea9804b92fb9eb1fab98d355232410e88d023241bc52aa7151f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "c80ec8573e3fdea9804b92fb9eb1fab98d355232410e88d023241bc52aa7151f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s1",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The credential shall be listed in the COSE protected headers of the COSE_Sign1_Tagged structure used for digital signatures in all C2PA manifests."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s2",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Exactly one instance of an identity credential shall appear in the union of the protected and unprotected headers."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s3",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "COSE_Sign1_Tagged structures with no credentials, or two or more credentials, shall be rejected."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s4",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Repeating the same credential more than once, including separately in the protected and unprotected headers, is also an instance of two or more credentials and shall be rejected."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s5",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An exception is the case where the same X.509 certificate chain is present under both the string label x5chain and the integer label 33, as described in Section 13.5, “X.509 Certificates”; in that case the two labels shall be treated as a single credential."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s6",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "C2PA Signers\nA validator shall maintain the following information for evaluating C2PA signers:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s7",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An individual trust anchor configuration shall include the X.509 certificate for that trust anchor."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s8",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a \"notBefore\" date/time is present, the trust anchor configuration shall not be used for claim signatures whose timestamp (or current time, if no timestamp is present) is before that date/time."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s9",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a \"notAfter\" date/time is present, the trust anchor configuration shall not be used for claim signatures whose timestamp (or current time, if no timestamp is present) is after that date/time."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s10",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the c2pa-kp-claimSigning (1.3.6.1.4.1.62558.2.1) EKU, the list of trust anchor configurations shall include, but need not be limited to, the signer trust anchor configurations provided by C2PA (i.e., the C2PA Trust List)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s11",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Time Stamping Authorities\nA validator shall maintain a list of trust anchor configurations for Time Stamping Authorities (TSAs), which shall be separate from the lists for C2PA signers."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s12",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An individual TSA trust anchor configuration shall include the X.509 certificate for that trust anchor."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s13",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a \"notBefore\" date/time is present, the trust anchor configuration shall not be used for time-stamps asserting times before that date/time."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s14",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a \"notAfter\" date/time is present, the trust anchor configuration shall not be used for time-stamps asserting times after that date/time."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s15",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The list shall include, but need not be limited to, the Time Stamping Authority trust anchors provided by the C2PA (i.e., the C2PA TSA Trust List)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s17",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If present, the private credential store shall only allow trust in signer credentials directly; entries in the private credential store cannot issue credentials and shall not be included as trust anchors during validation."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s18",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A validator shall not be pre-configured with any entries in a private credential store."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s19",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A validator shall only add entries to a private credential store in response to a user request to trust the credential."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s20",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Similarly, a validator shall only remove entries from a private credential store in response to a user request to stop trusting the credential.\n13.5."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s21",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The trust mechanism MUST process any certificates in this parameter as untrusted input."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s22",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The presence of a self-signed certificate in the parameter MUST NOT cause the update of the set of trust anchors without some out-of-band confirmation."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s23",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The end-entity certificate MUST be integrity protected by COSE."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s24",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Therefore, when creating the x5chain header as part of signing, the claim generator shall include the signer’s certificate and all intermediate certificate authorities in the header’s value."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s25",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Claim generators shall use only the integer 33 as the label when inserting this header into a COSE signature."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s26",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Claim generators shall place this header only in the protected header bucket of the COSE signature as required above."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s27",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Validators shall accept either the string x5chain or the integer 33 as the label for this header."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s28",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If both labels are present, this shall be treated as a single credential for the purpose of Section 13.2, “Identity of Signers”; validators shall use the header with the integer label 33 and ignore the header with the string x5chain as the label."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s29",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Validators shall accept the header from either the protected or unprotected bucket, to maintain compatibility with previous versions of this specification."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s30",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In compliance with Section 13.2, “Identity of Signers”, if this header appears in both the protected and unprotected buckets with the same label, a validator shall reject the claim signature as malformed due to the presence of multiple credentials.\n13.5.1."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s31",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "All C2PA Claim signing certificates shall fulfill the following requirements."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s32",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The algorithm field of the signatureAlgorithm field shall be one of the following values:\necdsa-with-SHA256\nRFC 5758, section 3.2\necdsa-with-SHA384\nRFC 5758, section 3.2\necdsa-with-SHA512\nRFC 5758, section 3.2\nsha256WithRSAEncryption\nRFC 8017, appendix A.2.4\nsha384WithRSAEncryption\nRFC 8017, appendix A.2.4\nsha512WithRSAEncryption\nRFC 8017, appendix A.2.4\nid-RSASSA-PSS\nRFC 8017, appendix A.2.3\nid-Ed25519\nRFC 8410, section 3\nid-ml-dsa-44\nRFC 9881, section 3\nid-ml-dsa-65\nRFC 9881, section 3\nid-ml-dsa-87\nRFC 9881, section 3\nIf the algorithm field of the signatureAlgorithm field is id-RSASSA-PSS, the parameters field is of type RSASSA-PSS-params."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s33",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Its fields shall have the following requirements as defined in RFC 8017, appendix A.2.3:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s34",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The hashAlgorithm field shall be present."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s35",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The algorithm field of the hashAlgorithm field shall be one of the following values as defined in RFC 8017, appendix B.1:\nid-sha256.\nid-sha384.\nid-sha512."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s36",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The maskGenAlgorithm field shall be present."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s37",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The algorithm field of the parameters field of the maskGenAlgorithm field shall be equal to the algorithm field of the hashAlgorithm field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p11/s38",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the algorithm field of the signatureAlgorithm field is id-ml-dsa-44, id-ml-dsa-65, or id-ml-dsa-87, the parameters field shall be absent, as required by RFC 9881, section"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the algorithm field of the algorithm field of the certificate’s subjectPublicKeyInfo is id-ecPublicKey, the parameters field shall be one of the following named curves from RFC 5480, section 2.1.1.1:\nprime256v1.\nsecp384r1.\nsecp521r1."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the algorithm field of the algorithm field of the certificate’s subjectPublicKeyInfo is rsaEncryption or id-RSASSA-PSS, the modulus field of the parameters field shall have a length of at least 2048 bits."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the algorithm field of the algorithm field of the certificate’s subjectPublicKeyInfo is id-ml-dsa-44, id-ml-dsa-65, or id-ml-dsa-87, the parameters field shall be absent, and the subjectPublicKey field shall contain an ML-DSA public key encoded as defined in RFC 9881, section"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "All certificates except those in the private credential store for X.509 certificates shall fulfil the following additional requirements to be acceptable."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Version shall be v3 as per RFC 5280, section 4.1.2.1."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s3",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The issuerUniqueID and subjectUniqueID optional fields of the TBSCertificate sequence shall not be present, as per RFC 5280, section 4.1.2.8."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s4",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Basic Constraints extension shall follow RFC 5280, section 4.2.1.9."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s5",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In particular, one of the following shall be true:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s6",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the certified public key is used to sign certificates, the Basic Constraints extension shall be present with the cA boolean asserted."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s7",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the certified public key is used to sign C2PA Claims, time stamps, or OCSP responses, the cA boolean in the Basic Constraints extension shall not be asserted, and the keyCertSign boolean in the key usage extension shall not be asserted."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s8",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Only end entity certificates shall be used to sign C2PA Claims, time stamps, and OCSP responses."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s9",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Authority Key Identifier extension shall be present in any certificate that is not self-signed, as per RFC 5280, section 4.2.1.1."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s10",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As prescribed in RFC 5280, section 4.2.1.2, the Subject Key Identifier extension shall be present in any certificate that acts as a CA."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s11",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As prescribed in RFC 5280, section 4.2.1.3, the Key Usage extension shall be present and should be marked as critical."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s12",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Certificates used to sign C2PA manifests shall assert the digitalSignature bit."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s13",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The keyCertSign bit shall only be asserted if the cA boolean is asserted in the Basic Constraints extension."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s14",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Extended Key Usage (EKU) extension shall be present and non-empty in any certificate where the Basic Constraints extension is absent or the cA boolean is not asserted, as per RFC 5280, section 4.2.1.12."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s15",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The anyExtendedKeyUsage EKU (2.5.29.37.0) shall not be present."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s16",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A certificate that signs time stamp countersignatures shall be valid for the id-kp-timeStamping (1.3.6.1.5.5.7.3.8) purpose."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s17",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A certificate that signs OCSP responses for certificates shall be valid for the id-kp-OCSPSigning (1.3.6.1.5.5.7.3.9) purpose."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s18",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a certificate is valid for either id-kp-timeStamping or id-kp-OCSPSigning, it shall be valid for exactly one of those two purposes, and not valid for any other purpose."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s19",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A certificate should not be valid for any other purposes outside of the purposes listed above, but the presence of any EKUs not mentioned in this profile and not in the list of EKUs in the configuration store shall not cause the certificate to be rejected.\n13.5.1.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s20",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "If the certificate is not present in the private credential store, or the validator does not implement one, the trust chain shall be built and validated according to the procedure in RFC 5280, section 6 for the particular purpose required (signing, time stamping, or OCSP signing) and for the appropriate trust anchor store for that purpose."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s22",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "A validator shall ensure a signing certificate is authorized for the purpose for which it is being used, and reject certificates used for an unauthorized purpose."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s23",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When validating a certificate used to sign a C2PA Claim, the signing certificate shall have at least one of the EKUs for which the validator has an associated list of trust anchors (see Section 13.4.1, “C2PA Signers”), and the validator shall use only the trust anchors it associates with EKUs present in the certificate."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s24",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Except for certificates accepted through the private credential store for X.509 certificates, a validator shall verify a certificate’s compliance with the Certificate Profile, and reject certificates that do not comply."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s25",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If one is present, then the validator shall ignore it.\n13.5.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s26",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The claim generator shall not use Certificate Revocation Lists (CRLs, RFC 5280)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-13/p4/s27",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the certificate has an AIA extension, revocation information shall be stored in an unprotected header of the COSE_Sign1 structure with the string label rVals and the value’s schema shall follow the rVals rule in the following CDDL Definition (see Section G.6.4, “Revocation Values (rVals)” for the complete normative schema):\n;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-c2pa-spec-2026:section-13",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

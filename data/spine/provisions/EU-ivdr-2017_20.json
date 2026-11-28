@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:20",
+ "label": "EU-ivdr-2017 Article 20",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "ca6b4f3ef134a763794d33c95c5aa475a947b293ded7d1a94fb843a590f4427f",
+ "sha256_v1": "",
+ "sha256_v2": "ca6b4f3ef134a763794d33c95c5aa475a947b293ded7d1a94fb843a590f4427f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ca6b4f3ef134a763794d33c95c5aa475a947b293ded7d1a94fb843a590f4427f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:20/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Any natural or legal person who makes available on the market an item specifically intended to replace an identical or similar integral part or component of a device that is defective or worn in order to maintain or restore the function of the device without changing its performance or safety characteristics or its intended purpose, shall ensure that the item does not adversely affect the safety and performance of the device."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:20/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Supporting evidence shall be kept available for the competent authorities of the Member States."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:20/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An item that is intended specifically to replace a part or component of a device and that significantly changes the performance or safety characteristics or the intended purpose of the device shall be considered to be a device and shall meet the requirements laid down in this Regulation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:20",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

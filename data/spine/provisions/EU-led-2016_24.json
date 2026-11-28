@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-led-2016:24",
+ "label": "EU-led-2016 Article 24",
+ "instrument": "EU-led-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f8da859e16fc4f91f4190c380427f898693020911aa6c2a2eae8e2c942d5dad7",
+ "sha256_v1": "",
+ "sha256_v2": "f8da859e16fc4f91f4190c380427f898693020911aa6c2a2eae8e2c942d5dad7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f8da859e16fc4f91f4190c380427f898693020911aa6c2a2eae8e2c942d5dad7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-led-2016:24/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall provide for controllers to maintain a record of all categories of processing activities under their responsibility."
+  },
+  {
+   "obligation_id": "EU-led-2016:24/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That record shall contain all of the following information:"
+  },
+  {
+   "obligation_id": "EU-led-2016:24/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall provide for each processor to maintain a record of all categories of processing activities carried out on behalf of a controller, containing:"
+  },
+  {
+   "obligation_id": "EU-led-2016:24/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The records referred to in paragraphs 1 and 2 shall be in writing, including in electronic form."
+  },
+  {
+   "obligation_id": "EU-led-2016:24/p3/s2",
+   "paragraph": "3",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller and the processor shall make those records available to the supervisory authority on request."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-led-2016:24",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

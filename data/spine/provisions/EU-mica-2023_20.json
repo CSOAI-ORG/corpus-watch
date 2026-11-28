@@ -1,0 +1,156 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:20",
+ "label": "EU-mica-2023 Article 20",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8ddb69674cc0ec32c57febbfd83c0c50254cfd5f69e4dfcd8aa21fe91b6b41d3",
+ "sha256_v1": "",
+ "sha256_v2": "8ddb69674cc0ec32c57febbfd83c0c50254cfd5f69e4dfcd8aa21fe91b6b41d3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8ddb69674cc0ec32c57febbfd83c0c50254cfd5f69e4dfcd8aa21fe91b6b41d3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:20/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Competent authorities receiving an application for authorisation as referred to in Article 18 shall, within 25 working days of receipt of such application, assess whether that application, including the crypto-asset white paper referred to in Article 19, comprises all of the required information."
+  },
+  {
+   "obligation_id": "EU-mica-2023:20/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "They shall immediately notify the applicant issuer whether the application, including the crypto-asset white paper, is missing required information."
+  },
+  {
+   "obligation_id": "EU-mica-2023:20/p1/s3",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the application, including the crypto-asset white paper, is not complete, competent authorities shall set a deadline by which the applicant issuer is to provide any missing information."
+  },
+  {
+   "obligation_id": "EU-mica-2023:20/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Competent authorities shall, within 60 working days of receipt of a complete application, assess whether the applicant issuer complies with the requirements of this Title and take a fully reasoned draft decision granting or refusing authorisation."
+  },
+  {
+   "obligation_id": "EU-mica-2023:20/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The assessment period under paragraphs 1 and 2 shall be suspended for the period between the date of request for missing information by the competent authorities and the receipt by them of a response thereto from the applicant issuer."
+  },
+  {
+   "obligation_id": "EU-mica-2023:20/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The suspension shall not exceed 20 working days."
+  },
+  {
+   "obligation_id": "EU-mica-2023:20/p3/s3",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Any further requests by the competent authorities for completion or clarification of the information shall be at their discretion but shall not result in a suspension of the assessment period under paragraphs 1 and 2."
+  },
+  {
+   "obligation_id": "EU-mica-2023:20/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Competent authorities shall, after the period of 60 working days referred to in paragraph 2, transmit their draft decision and the application to EBA, ESMA and the ECB."
+  },
+  {
+   "obligation_id": "EU-mica-2023:20/p4/s2",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the applicant issuer is established in a Member State whose official currency is not the euro, or where an official currency of a Member State that is not the euro is referenced by the asset-referenced token, the competent authorities shall transmit their draft decision and the application also to the central bank of that Member State."
+  },
+  {
+   "obligation_id": "EU-mica-2023:20/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "EBA and ESMA shall, at the request of the competent authority, and within 20 working days of receipt of the draft decision and the application, issue an opinion as regards their evaluation of the legal opinion referred to in Article 18(2), point (e), and transmit their respective opinions to the competent authority concerned."
+  },
+  {
+   "obligation_id": "EU-mica-2023:20/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The ECB or, where applicable, the central bank referred to in paragraph 4 shall, within 20 working days of receipt of the draft decision and the application, issue an opinion as regards its evaluation of the risks that issuing that asset-referenced token might pose to financial stability, the smooth operation of payment systems, monetary policy transmission and monetary sovereignty, and transmit its opinion to the competent authority concerned."
+  },
+  {
+   "obligation_id": "EU-mica-2023:20/p5/s3",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Without prejudice to Article 21(4), the opinions referred to in the first and second subparagraphs of this paragraph shall be non-binding."
+  },
+  {
+   "obligation_id": "EU-mica-2023:20/p5/s4",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authority shall, however, duly consider the opinions referred in the first and second subparagraphs of this paragraph."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:20",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

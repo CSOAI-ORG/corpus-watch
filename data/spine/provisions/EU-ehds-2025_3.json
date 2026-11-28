@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:3",
+ "label": "EU-ehds-2025 Article 3",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "0102c8a791c05b2593784128870b314d9bcf17339a0b62c41e268848a6b14593",
+ "sha256_v1": "",
+ "sha256_v2": "0102c8a791c05b2593784128870b314d9bcf17339a0b62c41e268848a6b14593",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "0102c8a791c05b2593784128870b314d9bcf17339a0b62c41e268848a6b14593",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:3/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Natural persons shall have the right to access at least personal electronic health data relating to them that belong to the priority categories referred to in Article 14 and are processed for the provision of healthcare through the electronic health data access services referred to in Article"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:3/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Access shall be provided immediately after the personal electronic health data have been registered in an EHR system, while respecting the need for technological practicability, and shall be provided free of charge and in an easily readable, consolidated and accessible format."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:3/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Natural persons, or their representatives referred to in Article 4(2), shall have the right to download free of charge an electronic copy of at least the personal electronic health data in the priority categories referred to in Article 14 related to those natural persons, through the electronic health data access services referred to in Article 4, in the European electronic health record exchange format referred to in Article 15."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

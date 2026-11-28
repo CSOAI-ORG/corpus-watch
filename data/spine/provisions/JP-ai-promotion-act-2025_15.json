@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-ai-promotion-act-2025:15",
+ "label": "JP-ai-promotion-act-2025 Article 15",
+ "instrument": "JP-ai-promotion-act-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "1810c97836378c56608b60b1b6a5bf2d2a6421831a21b74cf7d4177a4e5938db",
+ "sha256_v1": "",
+ "sha256_v2": "1810c97836378c56608b60b1b6a5bf2d2a6421831a21b74cf7d4177a4e5938db",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "1810c97836378c56608b60b1b6a5bf2d2a6421831a21b74cf7d4177a4e5938db",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-ai-promotion-act-2025:15/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "国は、国民が広く人工知能関連技術に対する理解と関心を深めるよう、人工知能関連技術に関する教育及び学習の振興、広報活動の充実その他の必要な施策を講ずるものとする。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-ai-promotion-act-2025:15",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:51",
+ "label": "EU-ivdr-2017 Article 51",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "92ea15d5655b185ddd4b593a00c682b6bd059e9111cab1dcc4962571c4709949",
+ "sha256_v1": "",
+ "sha256_v2": "92ea15d5655b185ddd4b593a00c682b6bd059e9111cab1dcc4962571c4709949",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "92ea15d5655b185ddd4b593a00c682b6bd059e9111cab1dcc4962571c4709949",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:51/p1/s1",
+   "paragraph": "1",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The certificates issued by the notified bodies in accordance with Annexes IX, X and XI shall be in an official Union language determined by the Member State in which the notified body is established or otherwise in an official Union language acceptable to the notified body."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:51/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The minimum content of the certificates shall be as set out in Annex XII."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:51/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The certificates shall be valid for the period they indicate, which shall not exceed five years."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:51/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any supplement to a certificate shall remain valid as long as the certificate which it supplements is valid."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:51/p4/s1",
+   "paragraph": "4",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where a notified body finds that the requirements of this Regulation are no longer met by the manufacturer, it shall, taking account of the principle of proportionality, suspend or withdraw the certificate issued or impose any restrictions on it unless compliance with such requirements is ensured by appropriate corrective action taken by the manufacturer within an appropriate deadline set by the notified body."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:51/p4/s2",
+   "paragraph": "4",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notified body shall give the reasons for its decision."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:51/p5/s1",
+   "paragraph": "5",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notified body shall enter in the electronic system referred to in Article 52 any information regarding certificates issued, including amendments and supplements thereto, and regarding suspended, reinstated, withdrawn or refused certificates and restrictions imposed on certificates."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:51/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such information shall be accessible to the public."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:51",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

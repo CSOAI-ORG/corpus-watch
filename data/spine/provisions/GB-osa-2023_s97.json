@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s97",
+ "label": "GB-osa-2023 Section 97",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "a4b273b7a8b97c38fd2cbf4893eb607061d53eefab3a19d01f4aaf2caf3e2529",
+ "sha256_v1": "",
+ "sha256_v2": "a4b273b7a8b97c38fd2cbf4893eb607061d53eefab3a19d01f4aaf2caf3e2529",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a4b273b7a8b97c38fd2cbf4893eb607061d53eefab3a19d01f4aaf2caf3e2529",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s97/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "List of emerging Category 1 services\n(1)\nAs soon as reasonably practicable after the first regulations under paragraph 1(1) of Schedule 11 come into force (regulations specifying Category 1 threshold conditions), OFCOM must comply with subsections (2) and (3)."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s97/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nOFCOM must assess each regulated user-to-user service which does not meet the Category 1 threshold conditions and which they consider is likely to meet each of the following conditions, to determine whether the service does, or does not, meet them—\n(a)\nthe first condition is that the number of United Kingdom users of the user-to-user part of the service is at least 75% of the figure specified in any of the Category 1 threshold conditions relating to number of users (calculating the number of users in accordance with the threshold condition in question);"
+  },
+  {
+   "obligation_id": "GB-osa-2023:s97/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)\nthe second condition is that—\n(i)\nat least one of the Category 1 threshold conditions relating to functionalities of the user-to-user part of the service is met, or\n(ii)\nif the regulations under paragraph 1(1) of Schedule 11 specify that a Category 1 threshold condition relating to a functionality of the user-to-user part of the service must be met in combination with a Category 1 threshold condition relating to another characteristic of that part of the service or a factor relating to that part of the service (see paragraph 1(4) of Schedule 11), at least one of those combinations of conditions is met."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s97/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nOFCOM must prepare a list of regulated user-to-user services which meet the conditions in subsection (2)."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s97/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nThe list must contain the following details about a service included in it—\n(a)\nthe name of the service,\n(b)\na description of the service,\n(c)\nthe name of the provider of the service, and\n(d)\na description of the Category 1 threshold conditions by reference to which the conditions in subsection (2) are met."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s97/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\nOFCOM must take appropriate steps to keep the list up to date, including by carrying out further assessments of regulated user-to-user services."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s97/p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(7)\nOFCOM must publish the list when it is first prepared and each time it is revised."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s97/p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(8)\nWhen assessing whether a service does, or does not, meet the conditions in subsection (2), OFCOM must take such steps as are reasonably practicable to obtain or generate information or evidence for the purposes of the assessment."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s97",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

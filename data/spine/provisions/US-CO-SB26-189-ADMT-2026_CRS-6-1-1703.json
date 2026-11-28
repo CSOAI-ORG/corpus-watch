@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CO-SB26-189-ADMT-2026:CRS-6-1-1703",
+ "label": "US-CO-SB26-189-ADMT-2026 C.R.S. § 6-1-1703",
+ "instrument": "US-CO-SB26-189-ADMT-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "b59b23379531c26a02dfeeebaeb376ea90047bf8620d3069732ce9ed7d954c1d",
+ "sha256_v1": "",
+ "sha256_v2": "b59b23379531c26a02dfeeebaeb376ea90047bf8620d3069732ce9ed7d954c1d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 6,
+ "sha256_current": "b59b23379531c26a02dfeeebaeb376ea90047bf8620d3069732ce9ed7d954c1d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CO-SB26-189-ADMT-2026:CRS-6-1-1703/p0/s1",
+   "paragraph": "0",
+   "addressee": "deployer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "A DEPLOYER SHALL RETAIN, FOR NOT LESS THAN THREE YEARS AFTER THE DATE OF A CONSEQUENTIAL DECISION OR FOR A LONGER PERIOD IF REQUIRED BY APPLICABLE STATE OR FEDERAL LAW, RECORDS REASONABLY NECESSARY TO DEMONSTRATE COMPLIANCE WITH THIS PART"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CO-SB26-189-ADMT-2026:CRS-6-1-1703",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

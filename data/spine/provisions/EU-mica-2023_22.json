@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:22",
+ "label": "EU-mica-2023 Article 22",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "6c53e535b743ffdc9b87080ce7f788793624a0a363ad0beea99468c3eec2c508",
+ "sha256_v1": "",
+ "sha256_v2": "6c53e535b743ffdc9b87080ce7f788793624a0a363ad0beea99468c3eec2c508",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "6c53e535b743ffdc9b87080ce7f788793624a0a363ad0beea99468c3eec2c508",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:22/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "For each asset-referenced token with an issue value that is higher than EUR 100 000 000, the issuer shall report on a quarterly basis to the competent authority the following information:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:22/p1/s3",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Transactions that are associated with the exchange for funds or other crypto-assets with the issuer or with a crypto-asset service provider shall not be considered associated to uses of the asset-referenced token as a means of exchange, unless there is evidence that the asset-referenced token is used for the settlement of transactions in other crypto-assets."
+  },
+  {
+   "obligation_id": "EU-mica-2023:22/p3/s1",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers that provide services related to asset-referenced tokens shall provide the issuer of the asset-referenced token with the information necessary to prepare the report referred to in paragraph 1, including by reporting transactions outside the distributed ledger."
+  },
+  {
+   "obligation_id": "EU-mica-2023:22/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authority shall share the information received with the ECB and, where applicable, the central bank referred to in Article 20(4) and the competent authorities of host Member States."
+  },
+  {
+   "obligation_id": "EU-mica-2023:22/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "EBA, in close cooperation with the ECB, shall develop draft regulatory technical standards to specify the methodology to estimate the quarterly average number and average aggregate value of transactions per day that are associated to uses of the asset-referenced token as a means of exchange within a single currency area."
+  },
+  {
+   "obligation_id": "EU-mica-2023:22/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "EBA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024."
+  },
+  {
+   "obligation_id": "EU-mica-2023:22/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "EBA shall develop draft implementing technical standards to establish standard forms, formats and templates for the purposes of reporting referred to in paragraph 1 and the provision of the information referred to in paragraph"
+  },
+  {
+   "obligation_id": "EU-mica-2023:22/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "EBA shall submit the draft implementing technical standards referred to in the first subparagraph to the Commission by 30 June 2024."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:22",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

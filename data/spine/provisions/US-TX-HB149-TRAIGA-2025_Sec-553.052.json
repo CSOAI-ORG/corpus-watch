@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-TX-HB149-TRAIGA-2025:Sec-553.052",
+ "label": "US-TX-HB149-TRAIGA-2025 Sec. 553.052",
+ "instrument": "US-TX-HB149-TRAIGA-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6d43d13cf0c8407e234d3f8dc1bcf7110e69364db593a9b82a7b3c5ad78ff5fb",
+ "sha256_v1": "",
+ "sha256_v2": "6d43d13cf0c8407e234d3f8dc1bcf7110e69364db593a9b82a7b3c5ad78ff5fb",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "6d43d13cf0c8407e234d3f8dc1bcf7110e69364db593a9b82a7b3c5ad78ff5fb",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-TX-HB149-TRAIGA-2025:Sec-553.052/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) A person must obtain approval from the department and any applicable agency before testing an artificial intelligence system under the program."
+  },
+  {
+   "obligation_id": "US-TX-HB149-TRAIGA-2025:Sec-553.052/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) The department by rule shall prescribe the application form."
+  },
+  {
+   "obligation_id": "US-TX-HB149-TRAIGA-2025:Sec-553.052/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The form must require the applicant to:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-TX-HB149-TRAIGA-2025:Sec-553.052",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-12CFR1002-RegB-1977:supp1-1002.104",
+ "label": "US-12CFR1002-RegB-1977 Supplement I, Section 1002.104—Covered Credit Transactions and Excluded Transactions",
+ "instrument": "US-12CFR1002-RegB-1977",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e7e3cce704f0b3d760a8058d71ed1865490a1a063c36282a1e851ccef697a006",
+ "sha256_v1": "",
+ "sha256_v2": "e7e3cce704f0b3d760a8058d71ed1865490a1a063c36282a1e851ccef697a006",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "e7e3cce704f0b3d760a8058d71ed1865490a1a063c36282a1e851ccef697a006",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.104/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A financial institution shall report an extension of business credit incident to a factoring arrangement that is otherwise a covered credit transaction as “Other” under § 1002.107(a)(5)."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.104/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The base for computing each adjustment is the January 2030 CPI-U; this base value shall be compared to the CPI-U value in January 2035 and every five years thereafter."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.104/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If publication of the CPI-U ceases, or if the CPI-U otherwise becomes unavailable or is altered in such a way as to be unusable, then the Bureau shall substitute another reliable cost of living indicator from the United States Government for the purpose of calculating adjustments pursuant to § 1002.104(b)(9)(ii)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-12CFR1002-RegB-1977:supp1-1002.104",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

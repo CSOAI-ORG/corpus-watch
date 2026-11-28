@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "TW-ai-basic-act-2026:12",
+ "label": "TW-ai-basic-act-2026 Article 12",
+ "instrument": "TW-ai-basic-act-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "01cbb091176de591298b7cdecf5e11e224991c2f3c08aed763705ad64787a8fc",
+ "sha256_v1": "",
+ "sha256_v2": "01cbb091176de591298b7cdecf5e11e224991c2f3c08aed763705ad64787a8fc",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "TW",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "01cbb091176de591298b7cdecf5e11e224991c2f3c08aed763705ad64787a8fc",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "TW-ai-basic-act-2026:12/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "政府應致力推動人工智慧相關之國際合作；"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=TW-ai-basic-act-2026:12",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

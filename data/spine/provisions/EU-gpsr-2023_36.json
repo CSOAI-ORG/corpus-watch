@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-gpsr-2023:36",
+ "label": "EU-gpsr-2023 Article 36",
+ "instrument": "EU-gpsr-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "02093e80ed846b3e07e4c8178d05c7abb129e9efab2e5ca93b0361edc084241b",
+ "sha256_v1": "",
+ "sha256_v2": "02093e80ed846b3e07e4c8178d05c7abb129e9efab2e5ca93b0361edc084241b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "02093e80ed846b3e07e4c8178d05c7abb129e9efab2e5ca93b0361edc084241b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-gpsr-2023:36/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where information on a product safety recall is provided to consumers in a written form, in accordance with Article 35(1) and (4), it shall take the form of a recall notice."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:36/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A recall notice which can be easily understood by consumers shall be available in the language(s) of the Member State(s) where the product has been made available on the market and include the following elements:"
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:36/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall, by means of implementing acts, set out the template for a recall notice, taking into account scientific and market developments."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:36/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 46(2)."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:36/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That template shall be made available by the Commission in a format that enables economic operators to easily create a recall notice, including in accessible formats for persons with disabilities."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-gpsr-2023:36",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

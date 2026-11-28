@@ -1,0 +1,286 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:84",
+ "label": "EU-ivdr-2017 Article 84",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "e7f6ead47f48672d500e9347eef7ca3aac9d94799847fbccc18f9f771f2bed87",
+ "sha256_v1": "",
+ "sha256_v2": "e7f6ead47f48672d500e9347eef7ca3aac9d94799847fbccc18f9f771f2bed87",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "e7f6ead47f48672d500e9347eef7ca3aac9d94799847fbccc18f9f771f2bed87",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:84/p1/s1",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Following the reporting of a serious incident pursuant to Article 82(1), the manufacturer shall, without delay, perform the necessary investigations in relation to the serious incident and the devices concerned."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "This shall include risk assessment of the incident and field safety corrective action taking into account the criteria as referred to in paragraph 3 of this Article as appropriate."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p1/s3",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "prohibition",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "The manufacturer shall co-operate with the competent authorities and where relevant with the notified body concerned during the investigations referred to in the first subparagraph and shall not perform any investigation which involves altering the device or a sample of the batch concerned in a way which may affect any subsequent evaluation of the causes of the incident, prior to informing the competent authorities of such action."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall take the necessary steps to ensure that any information regarding a serious incident that has occurred within their territory, or a field safety corrective action that has been or is to be undertaken within their territory, and that is brought to their knowledge in accordance with Article 82 is evaluated centrally at national level by their competent authority, if possible together with the manufacturer, and, where relevant, the notified body concerned."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In the context of the evaluation referred to in paragraph 2, the competent authority shall evaluate the risks arising from the reported serious incident and evaluate any field safety corrective actions, taking into account the protection of public health and criteria such as causality, detectability and probability of recurrence of the problem, frequency of use of the device, probability of occurrence of direct or indirect harm, the severity of that harm, the clinical benefit of the device, intended and potential users, and the population affected."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p3/s2",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authority shall also evaluate the adequacy of the field safety corrective action envisaged or undertaken by the manufacturer and the need for, and kind of, any other corrective action, in particular taking into account the principle of inherent safety contained in Annex I."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p3/s3",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "Upon request by the national competent authority, manufacturers shall provide for all documents necessary for the risk assessment."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authority shall monitor the manufacturer's investigation of a serious incident."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p5/s1",
+   "paragraph": "5",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The manufacturer shall provide a final report to the competent authority setting out its findings from the investigation by means of the electronic system referred to in Article"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p87/s1",
+   "paragraph": "87",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The report shall set out conclusions and where relevant indicate corrective actions to be taken."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In the case of companion diagnostic, the evaluating competent authority or the coordinating competent authority referred to in paragraph 9 of this Article shall, depending on whether the relevant competent authority of the Member State that authorised the medicinal products or the EMA was consulted by the notified body in accordance with the procedures set out in Section 5.2 of Annex IX and Section 3.11 of Annex X, inform that national competent authority or the EMA, as appropriate."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p7/s1",
+   "paragraph": "7",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "After carrying out the evaluation in accordance with paragraph 3 of this Article, the evaluating competent authority shall, through the electronic system referred to in Article 87, inform without delay the other competent authorities of the corrective action taken or envisaged by the manufacturer or required of it to minimise the risk of recurrence of the serious incident, including information on the underlying serious incidents and the outcome of its assessment."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p8/s1",
+   "paragraph": "8",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "The manufacturer shall ensure that information about the field safety corrective action taken is brought without delay to the attention of users of the device in question by means of a field safety notice."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p8/s2",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The field safety notice shall be edited in an official Union language or languages determined by the Member State in which the field safety corrective action is taken."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p8/s3",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Except in cases of urgency, the content of the draft field safety notice shall be submitted to the evaluating competent authority or, in the cases referred to in paragraph 9, to the coordinating competent authority to allow them to make comments."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p8/s4",
+   "paragraph": "8",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Unless duly justified by the situation of the individual Member State, the content of the field safety notice shall be consistent in all Member States."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p8/s5",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The field safety notice shall allow the correct identification of the device or devices involved, in particular by including the relevant UDIs, and the correct identification, in particular by including the SRN, if already issued, of the manufacturer that has undertaken the field safety corrective action."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p8/s6",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The field safety notice shall explain, in a clear manner, without understating the level of risk, the reasons for the field safety corrective action with reference to the device malfunction and associated risks for patients, users or other persons and shall clearly indicate all the actions to be taken by users."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p8/s7",
+   "paragraph": "8",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The manufacturer shall enter the field safety notice in the electronic system referred to in Article 87 through which that notice shall be accessible to the public."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p9/s1",
+   "paragraph": "9",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authorities shall actively participate in a procedure in order to coordinate their assessments referred to in paragraph 3 in the following cases:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p9/s2",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That coordinated procedure shall cover the following:\n—\ndesignation of a coordinating competent authority on a case by case basis, when required;\n—\ndefining the coordinated assessment process, including the tasks and responsibilities of the coordinating competent authority and the involvement of other competent authorities."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p9/s3",
+   "paragraph": "9",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Unless otherwise agreed between the competent authorities, the coordinating competent authority shall be the competent authority of the Member State in which the manufacturer has its registered place of business."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p9/s4",
+   "paragraph": "9",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The coordinating competent authority shall, through the electronic system referred to in Article 87, inform the manufacturer, the other competent authorities and the Commission that it has assumed the role of coordinating authority."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p10/s1",
+   "paragraph": "10",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The designation of a coordinating competent authority shall not affect the rights of the other competent authorities to perform their own assessment and to adopt measures in accordance with this Regulation in order to ensure the protection of public health and patient safety."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p10/s2",
+   "paragraph": "10",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The coordinating competent authority and the Commission shall be kept informed of the outcome of any such assessment and the adoption of any such measures."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:84/p11/s1",
+   "paragraph": "11",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall provide administrative support to the coordinating competent authority in the accomplishment of its tasks under this Chapter."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:84",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:7",
+ "label": "EU-ccd2-2023 Article 7",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "40b3745ab6964221e50d2b68ec5fb1a2c7e7642a855e91f48f3acf024c12c676",
+ "sha256_v1": "",
+ "sha256_v2": "40b3745ab6964221e50d2b68ec5fb1a2c7e7642a855e91f48f3acf024c12c676",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "40b3745ab6964221e50d2b68ec5fb1a2c7e7642a855e91f48f3acf024c12c676",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:7/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Advertising and marketing of credit agreements\nWithout prejudice to Directive 2005/29/EC, Member States shall require that any advertising and marketing communications concerning credit agreements are fair, clear and not misleading."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:7/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Wording in such advertising and marketing communications that may create false expectations for a consumer regarding the availability or the cost of credit or the total amount payable by the consumer shall be prohibited."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

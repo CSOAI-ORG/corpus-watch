@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-political-ads-2024:24",
+ "label": "EU-political-ads-2024 Article 24",
+ "instrument": "EU-political-ads-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "2d289da2e9276d9fc6cf5aa894929ab9ed9812ae62d4021e660300e8748f1418",
+ "sha256_v1": "",
+ "sha256_v2": "2d289da2e9276d9fc6cf5aa894929ab9ed9812ae62d4021e660300e8748f1418",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "2d289da2e9276d9fc6cf5aa894929ab9ed9812ae62d4021e660300e8748f1418",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-political-ads-2024:24/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Right to lodge a complaint\nWithout prejudice to other administrative procedures or judicial remedies, competent authorities shall duly address every notification of possible infringements of this Regulation and, upon request, inform the person or entity who made the notification of the follow up."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:24/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "During the last month preceding elections or referendums, any notification received in relation to those elections or referendums shall be addressed without undue delay."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:24/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Competent authorities shall without undue delay transmit complaints that fall within the competence of another competent authority in another Member State to that competent authority."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-political-ads-2024:24",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

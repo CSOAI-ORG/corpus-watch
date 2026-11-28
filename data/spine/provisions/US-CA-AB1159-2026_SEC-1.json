@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB1159-2026:SEC-1",
+ "label": "US-CA-AB1159-2026 SECTION 1.",
+ "instrument": "US-CA-AB1159-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "693ea94bec9bf714d1a1abe6922a59d66cd0888bb927574762412b2812b4eea5",
+ "sha256_v1": "",
+ "sha256_v2": "693ea94bec9bf714d1a1abe6922a59d66cd0888bb927574762412b2812b4eea5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "693ea94bec9bf714d1a1abe6922a59d66cd0888bb927574762412b2812b4eea5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB1159-2026:SEC-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(G)If the school or local educational agency that the operator serves reviews the operator’s deidentification processes under subparagraph (E), the operator shall not use, share, or retain the information as deidentified information unless that school or local educational agency determines that the operator’s deidentification process is sufficient under these standards."
+  },
+  {
+   "obligation_id": "US-CA-AB1159-2026:SEC-1/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(9)“Online service” includes cloud computing services, which must comply with this section if they otherwise meet the definition of an operator."
+  },
+  {
+   "obligation_id": "US-CA-AB1159-2026:SEC-1/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)An operator shall not knowingly engage in any of the following activities with respect to the operator’s site, service, or application:"
+  },
+  {
+   "obligation_id": "US-CA-AB1159-2026:SEC-1/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d)An operator shall do all of the following:"
+  },
+  {
+   "obligation_id": "US-CA-AB1159-2026:SEC-1/p1/s5",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(B)Before deleting any information described in subparagraph (A), the operator shall require documentation that the pupil is no longer enrolled in the local educational agency."
+  },
+  {
+   "obligation_id": "US-CA-AB1159-2026:SEC-1/p1/s6",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "(5)(A)Establish, implement, and maintain a written data retention policy, which shall be made available upon request to a pupil, parent, guardian, education rights holder, or K–12 personnel, that states the purposes for which covered information is collected, the purpose for retaining the information, and a timeframe for deleting the information pursuant to paragraph (4)."
+  },
+  {
+   "obligation_id": "US-CA-AB1159-2026:SEC-1/p1/s7",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "(B)A written data retention policy under this paragraph shall not exceed the retention period for the same information or record if that information or record is maintained by the school or local educational agency."
+  },
+  {
+   "obligation_id": "US-CA-AB1159-2026:SEC-1/p1/s8",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(p)This section shall not be interpreted to limit or supersede any rights or requirements under the federal Individuals with Disabilities Education Act (20 U.S.C."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB1159-2026:SEC-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

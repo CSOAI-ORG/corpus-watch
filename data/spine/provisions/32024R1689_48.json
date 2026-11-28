@@ -1,0 +1,108 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:48",
+ "label": "EU AI Act Art. 48",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "5d5ff013af73b1764d86be4995e92fe3076ffa9c127ea200911f5f44c7cda678",
+ "sha256_v1": "5d5ff013af73b1764d86be4995e92fe3076ffa9c127ea200911f5f44c7cda678",
+ "sha256_v2": "5d5ff013af73b1764d86be4995e92fe3076ffa9c127ea200911f5f44c7cda678",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "5d5ff013af73b1764d86be4995e92fe3076ffa9c127ea200911f5f44c7cda678",
+ "agent_register_kinds": [
+  "OBSERVED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:48/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The CE marking shall be subject to the general principles set out in Article 30 of Regulation (EC) No 765/2008."
+  },
+  {
+   "obligation_id": "32024R1689:48/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For high-risk AI systems provided digitally, a digital CE marking shall be used, only if it can easily be accessed via the interface from which that system is accessed or via an easily accessible machine-readable code or other electronic means."
+  },
+  {
+   "obligation_id": "32024R1689:48/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The CE marking shall be affixed visibly, legibly and indelibly for high-risk AI systems."
+  },
+  {
+   "obligation_id": "32024R1689:48/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where that is not possible or not warranted on account of the nature of the high-risk AI system, it shall be affixed to the packaging or to the accompanying documentation, as appropriate."
+  },
+  {
+   "obligation_id": "32024R1689:48/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Where applicable, the CE marking shall be followed by the identification number of the notified body responsible for the conformity assessment procedures set out in Article"
+  },
+  {
+   "obligation_id": "32024R1689:48/p43/s1",
+   "paragraph": "43",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The identification number of the notified body shall be affixed by the body itself or, under its instructions, by the provider or by the provider’s authorised representative."
+  },
+  {
+   "obligation_id": "32024R1689:48/p43/s2",
+   "paragraph": "43",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The identification number shall also be indicated in any promotional material which mentions that the high-risk AI system fulfils the requirements for CE marking."
+  },
+  {
+   "obligation_id": "32024R1689:48/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where high-risk AI systems are subject to other Union law which also provides for the affixing of the CE marking, the CE marking shall indicate that the high-risk AI system also fulfil the requirements of that other law."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:48",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

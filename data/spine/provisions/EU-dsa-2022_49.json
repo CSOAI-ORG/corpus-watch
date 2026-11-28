@@ -1,0 +1,126 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:49",
+ "label": "EU-dsa-2022 Article 49",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "d3d070e6847016872cef99e2bd06bbaf92cd783c934135167393c5b3797c424e",
+ "sha256_v1": "",
+ "sha256_v2": "d3d070e6847016872cef99e2bd06bbaf92cd783c934135167393c5b3797c424e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "d3d070e6847016872cef99e2bd06bbaf92cd783c934135167393c5b3797c424e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:49/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Member States shall designate one or more competent authorities to be responsible for the supervision of providers of intermediary services and enforcement of this Regulation (‘competent authorities’)."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:49/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Member States shall designate one of the competent authorities as their Digital Services Coordinator."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:49/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Digital Services Coordinator shall be responsible for all matters relating to supervision and enforcement of this Regulation in that Member State, unless the Member State concerned has assigned certain specific tasks or sectors to other competent authorities."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:49/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Digital Services Coordinator shall in any event be responsible for ensuring coordination at national level in respect of those matters and for contributing to the effective and consistent supervision and enforcement of this Regulation throughout the Union."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:49/p2/s4",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "cooperate",
+   "status": "DRAFT",
+   "text": "For that purpose, Digital Services Coordinators shall cooperate with each other, other national competent authorities, the Board and the Commission, without prejudice to the possibility for Member States to provide for cooperation mechanisms and regular exchanges of views between the Digital Services Coordinator and other national authorities where relevant for the performance of their respective tasks."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:49/p2/s5",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a Member State designates one or more competent authorities in addition to the Digital Services Coordinator, it shall ensure that the respective tasks of those authorities and of the Digital Services Coordinator are clearly defined and that they cooperate closely and effectively when performing their tasks."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:49/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Member States shall designate the Digital Services Coordinators by 17 February 2024."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:49/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Member States shall make publicly available, and communicate to the Commission and the Board, the name of their competent authority designated as Digital Services Coordinator and information on how it can be contacted."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:49/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The Member State concerned shall communicate to the Commission and the Board the name of the other competent authorities referred to in paragraph 2, as well as their respective tasks."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:49/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The provisions applicable to Digital Services Coordinators set out in Articles 50, 51 and 56 shall also apply to any other competent authorities that the Member States designate pursuant to paragraph 1 of this Article."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:49",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

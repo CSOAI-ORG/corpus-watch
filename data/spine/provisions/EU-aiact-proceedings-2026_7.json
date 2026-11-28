@@ -1,0 +1,116 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-aiact-proceedings-2026:7",
+ "label": "EU-aiact-proceedings-2026 Article 7",
+ "instrument": "EU-aiact-proceedings-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "ad5e269721d4ffd4fa0ba5c1567871076dc66015f5da6e5f17b1d80966774001",
+ "sha256_v1": "",
+ "sha256_v2": "ad5e269721d4ffd4fa0ba5c1567871076dc66015f5da6e5f17b1d80966774001",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ad5e269721d4ffd4fa0ba5c1567871076dc66015f5da6e5f17b1d80966774001",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:7/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The addressee shall send those observations within a time limit set by the Commission that shall be no less than 21 days."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:7/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall not be obliged to take account of information received from the addressee after the expiration of that time limit."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:7/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Information submitted to the Commission pursuant to paragraph 1 shall be correct, complete and not misleading."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:7/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It shall be presented in a clear, well-structured and intelligible manner."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:7/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The written observations referred to in paragraph 1 shall be in one of the official languages of the Union."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:7/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Supporting documents shall be submitted in their original language and, where their original language is not one of the official languages of the Union, they shall be accompanied by a faithful translation into an official language of the Union."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:7/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Documents, technical documentation, source code or any other information shall be submitted to the Commission in accordance with Article 14."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:7/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Information submitted to the Commission pursuant to paragraph 1 shall be accompanied by written proof that the persons submitting that information are authorised to act on behalf of the addressee of the preliminary findings concerned."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:7/p7/s1",
+   "paragraph": "7",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall acknowledge, without delay and in writing, to the addressee of the preliminary findings concerned or to its representatives the receipt of the information submitted pursuant to paragraph 1."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-aiact-proceedings-2026:7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

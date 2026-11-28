@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "TW-pdpa-1995:22",
+ "label": "TW-pdpa-1995 Article 22",
+ "instrument": "TW-pdpa-1995",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "dc6c95a84274a1930cd7019c4cd3bddb37bc273f1f1044c78fc068419a72dc03",
+ "sha256_v1": "",
+ "sha256_v2": "dc6c95a84274a1930cd7019c4cd3bddb37bc273f1f1044c78fc068419a72dc03",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "TW",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "dc6c95a84274a1930cd7019c4cd3bddb37bc273f1f1044c78fc068419a72dc03",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "TW-pdpa-1995:22/s8",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "對於應扣留或複製之物，得要求其所有人、持有人或保管人提出或交付；"
+  },
+  {
+   "obligation_id": "TW-pdpa-1995:22/s10",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "prohibition",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "對於依第一項或前項所為之通知、進入、檢查或處分，非公務機關及其相關人員無正當理由不得規避、妨礙或拒絕。"
+  },
+  {
+   "obligation_id": "TW-pdpa-1995:22/s12",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "參與檢查之人員，對於因執行檢查所知悉或持有之資料，負保密義務，並應注意被檢查者之名譽。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=TW-pdpa-1995:22",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

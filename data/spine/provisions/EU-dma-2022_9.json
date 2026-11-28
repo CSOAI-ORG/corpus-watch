@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:9",
+ "label": "EU-dma-2022 Article 9",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "bf2e9c0d128e29901c25129ea84948fbe7b93a1da994a6e1ba7d41bba27a8b08",
+ "sha256_v1": "",
+ "sha256_v2": "bf2e9c0d128e29901c25129ea84948fbe7b93a1da994a6e1ba7d41bba27a8b08",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "bf2e9c0d128e29901c25129ea84948fbe7b93a1da994a6e1ba7d41bba27a8b08",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:9/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In that implementing act, the Commission shall substantiate its suspension decision by identifying the exceptional circumstances justifying the suspension."
+  },
+  {
+   "obligation_id": "EU-dma-2022:9/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That implementing act shall be limited to the extent and the duration necessary to address such threat to the gatekeeper’s viability."
+  },
+  {
+   "obligation_id": "EU-dma-2022:9/p1/s3",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall aim to adopt that implementing act without delay and at the latest 3 months following receipt of a complete reasoned request."
+  },
+  {
+   "obligation_id": "EU-dma-2022:9/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That implementing act shall be adopted in accordance with the advisory procedure referred to in Article 50(2)."
+  },
+  {
+   "obligation_id": "EU-dma-2022:9/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where suspension is granted pursuant to paragraph 1, the Commission shall review its suspension decision every year, unless a shorter interval is specified in that decision."
+  },
+  {
+   "obligation_id": "EU-dma-2022:9/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Following such a review the Commission shall either wholly or partly lift the suspension, or decide that the conditions in paragraph 1 continue to be met."
+  },
+  {
+   "obligation_id": "EU-dma-2022:9/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In assessing the request referred to in paragraphs 1 and 3, the Commission shall take into account, in particular, the impact of the compliance with the specific obligation on the economic viability of the operation of the gatekeeper in the Union as well as on third parties, in particular SMEs and consumers."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:9",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

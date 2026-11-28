@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB1159-2026:SEC-5",
+ "label": "US-CA-AB1159-2026 SEC. 5.",
+ "instrument": "US-CA-AB1159-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "1198150a6b5722dda484e9bae06ece19e1efa4ff1ba8ccc45f9c9efc6ca36cb9",
+ "sha256_v1": "",
+ "sha256_v2": "1198150a6b5722dda484e9bae06ece19e1efa4ff1ba8ccc45f9c9efc6ca36cb9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "1198150a6b5722dda484e9bae06ece19e1efa4ff1ba8ccc45f9c9efc6ca36cb9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB1159-2026:SEC-5/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)(1)At least 60 days before bringing an action pursuant to this section, a pupil shall do both of the following:"
+  },
+  {
+   "obligation_id": "US-CA-AB1159-2026:SEC-5/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)The notice required by this subdivision shall be sent by certified or registered mail, return receipt requested, to the operator’s address on file with the state or to the operator’s principal place of business within the state."
+  },
+  {
+   "obligation_id": "US-CA-AB1159-2026:SEC-5/p5/s3",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)An action pursuant to this section brought by a pupil only on that pupil’s behalf shall not be maintained upon a showing by an operator that an appropriate correction and remedy has been made, or agreed to be made within a reasonable time, to the pupil within 60 days after receipt of the notice required by subdivision (b)."
+  },
+  {
+   "obligation_id": "US-CA-AB1159-2026:SEC-5/p5/s4",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d)An action pursuant to this section brought by a pupil on both the pupil’s behalf and on behalf of a similarly situated class of pupils shall not be maintained upon a showing by an operator that all of the following are true:"
+  },
+  {
+   "obligation_id": "US-CA-AB1159-2026:SEC-5/p5/s5",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)Any similarly situated pupil identified has been notified that, upon the pupil’s request, the operator shall make the appropriate correction and remedy."
+  },
+  {
+   "obligation_id": "US-CA-AB1159-2026:SEC-5/p5/s7",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(f)A pupil, or the pupil’s parent, education rights holder, or guardian, who brings an action under this section shall furnish a copy of the complaint to the Attorney General within 10 days after filing the action."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB1159-2026:SEC-5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

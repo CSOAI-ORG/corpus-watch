@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:101",
+ "label": "EU-ehds-2025 Article 101",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "c42cae8ba67e4d720bfc36c1a5f0fcfebcab70301bab69322d6ca6944ff05c3a",
+ "sha256_v1": "",
+ "sha256_v2": "c42cae8ba67e4d720bfc36c1a5f0fcfebcab70301bab69322d6ca6944ff05c3a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "c42cae8ba67e4d720bfc36c1a5f0fcfebcab70301bab69322d6ca6944ff05c3a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:101/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Representation of a natural person\nWhere a natural person considers that his or her rights under this Regulation have been infringed, he or she shall have the right to mandate a not-for-profit body, organisation or association, constituted in accordance with national law, having statutory public interest objectives and active in the field of the protection of personal data, to lodge a complaint on his or her behalf or to exercise the rights referred to in Articles 21 and 81."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:101",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

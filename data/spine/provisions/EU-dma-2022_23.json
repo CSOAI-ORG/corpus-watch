@@ -1,0 +1,116 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:23",
+ "label": "EU-dma-2022 Article 23",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "b27014a59db1d582e4c1dab7a18baf9af8c84d511d60d575227238f5c4b801ad",
+ "sha256_v1": "",
+ "sha256_v2": "b27014a59db1d582e4c1dab7a18baf9af8c84d511d60d575227238f5c4b801ad",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "b27014a59db1d582e4c1dab7a18baf9af8c84d511d60d575227238f5c4b801ad",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:23/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The officials and other accompanying persons authorised by the Commission to conduct an inspection shall exercise their powers upon production of a written authorisation specifying the subject matter and purpose of the inspection and the fines provided for in Article 30 applicable in the event that the production of the required books or other records related to the business is incomplete or where the answers to questions asked under paragraphs 2 and 4 of this Article are incorrect or misleading."
+  },
+  {
+   "obligation_id": "EU-dma-2022:23/p5/s2",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In good time before the inspection, the Commission shall give notice of the inspection to the national competent authority of the Member State enforcing the rules referred to in Article 1(6) in whose territory it is to be conducted."
+  },
+  {
+   "obligation_id": "EU-dma-2022:23/p6/s1",
+   "paragraph": "6",
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Undertakings or associations of undertakings are required to submit to an inspection ordered by a Commission decision."
+  },
+  {
+   "obligation_id": "EU-dma-2022:23/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That decision shall specify the subject matter and purpose of the inspection, set the date on which it is to begin and indicate the fines and periodic penalty payments provided for in Articles 30 and 31 respectively, and the right to have that decision reviewed by the Court of Justice."
+  },
+  {
+   "obligation_id": "EU-dma-2022:23/p7/s1",
+   "paragraph": "7",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Officials of, and the persons authorised or appointed by, the national competent authority of the Member State enforcing the rules referred to in Article 1(6) in whose territory the inspection is to be conducted shall, at the request of that authority or of the Commission, actively assist the officials and other accompanying persons authorised by the Commission."
+  },
+  {
+   "obligation_id": "EU-dma-2022:23/p7/s2",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "To this end, they shall enjoy the powers set out in paragraphs 2 and 4 of this Article."
+  },
+  {
+   "obligation_id": "EU-dma-2022:23/p8/s1",
+   "paragraph": "8",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the officials and other accompanying persons authorised by the Commission find that an undertaking or association of undertakings opposes an inspection ordered pursuant to this Article, the Member State concerned shall afford them the necessary assistance, requesting, where appropriate, the assistance of the police or of an equivalent enforcement authority, so as to enable them to conduct their inspection."
+  },
+  {
+   "obligation_id": "EU-dma-2022:23/p10/s1",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where authorisation referred to in paragraph 9 of this Article is applied for, the national judicial authority shall verify that the Commission decision is authentic and that the coercive measures envisaged are neither arbitrary nor excessive having regard to the subject matter of the inspection."
+  },
+  {
+   "obligation_id": "EU-dma-2022:23/p10/s2",
+   "paragraph": "10",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The lawfulness of the Commission decision shall be subject to review only by the Court of Justice."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:23",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

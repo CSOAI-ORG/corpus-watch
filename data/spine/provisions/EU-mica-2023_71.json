@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:71",
+ "label": "EU-mica-2023 Article 71",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "140aec12c4b126ca59833f20176bc4d5b5d9054e11aa06683f86446983921a20",
+ "sha256_v1": "",
+ "sha256_v2": "140aec12c4b126ca59833f20176bc4d5b5d9054e11aa06683f86446983921a20",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "140aec12c4b126ca59833f20176bc4d5b5d9054e11aa06683f86446983921a20",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:71/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers shall establish and maintain effective and transparent procedures for the prompt, fair and consistent handling of complaints received from clients and shall publish descriptions of those procedures."
+  },
+  {
+   "obligation_id": "EU-mica-2023:71/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Clients shall be able to file complaints free of charge with crypto-asset service providers."
+  },
+  {
+   "obligation_id": "EU-mica-2023:71/p3/s1",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers shall inform clients of the possibility of filing a complaint."
+  },
+  {
+   "obligation_id": "EU-mica-2023:71/p3/s2",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers shall make available to clients a template for filing complaints and shall keep a record of all complaints received and any measures taken in response thereto."
+  },
+  {
+   "obligation_id": "EU-mica-2023:71/p4/s1",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers shall investigate all complaints in a timely and fair manner and communicate the outcome of such investigations to their clients within a reasonable period."
+  },
+  {
+   "obligation_id": "EU-mica-2023:71/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ESMA, in close cooperation with EBA, shall develop draft regulatory technical standards to further specify the requirements, templates and procedures for handling complaints."
+  },
+  {
+   "obligation_id": "EU-mica-2023:71/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:71",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

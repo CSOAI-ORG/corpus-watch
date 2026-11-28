@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:45",
+ "label": "EU-ehds-2025 Article 45",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f336a888bcee4e871a9daa362b3005b37afee6288c279e22027156a64115b695",
+ "sha256_v1": "",
+ "sha256_v2": "f336a888bcee4e871a9daa362b3005b37afee6288c279e22027156a64115b695",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "f336a888bcee4e871a9daa362b3005b37afee6288c279e22027156a64115b695",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:45/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a market surveillance authority makes a finding of non-compliance, it shall require the manufacturer of the EHR system concerned, its authorised representative and all other relevant economic operators to take, by a specific deadline, adequate corrective action to bring the EHR system into conformity."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:45/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the manufacturer of the EHR system concerned, its authorised representative or any other relevant economic operator does not take adequate corrective action within a reasonable period, the market surveillance authorities shall take all appropriate provisional measures to prohibit or restrict the EHR system from being made available on the market of their Member States, or to recall or withdraw the EHR system from that market."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:45/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The market surveillance authorities shall inform the Commission and the other Member States’ market surveillance authorities, without delay, of those provisional measures."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:45/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That information shall include all available details, in particular the data necessary for the identification of the non-compliant EHR system, the origin of that EHR system, the nature of the non-compliance alleged and the risk involved, the nature and duration of the measures taken by the market surveillance authorities and the arguments put forward by the relevant economic operator."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:45/p2/s4",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In particular, the market surveillance authorities shall indicate whether the non-compliance is due to any of the following:"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:45/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Market surveillance authorities other than the market surveillance authorities initiating the procedure under this Article shall inform without delay the Commission and the other Member States’ market surveillance authorities of any measures adopted, of any additional information at their disposal relating to the non-compliance of the EHR system concerned and, in the event of disagreement with the adopted national measure, of their objections."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:45/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the non-compliance referred to in paragraph 1 persists, the market surveillance authority concerned shall take all appropriate measures to prohibit or restrict the EHR system from being made available on the market or ensure that it is recalled or withdrawn from the market."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:45",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

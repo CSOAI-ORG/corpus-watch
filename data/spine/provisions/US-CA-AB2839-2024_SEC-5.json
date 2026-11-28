@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB2839-2024:SEC-5",
+ "label": "US-CA-AB2839-2024 SEC. 5.",
+ "instrument": "US-CA-AB2839-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "81e6286a2bfd43b3153256a55ce26c567c9203c9614c6b017cb2cf736fd904c4",
+ "sha256_v1": "",
+ "sha256_v2": "81e6286a2bfd43b3153256a55ce26c567c9203c9614c6b017cb2cf736fd904c4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "81e6286a2bfd43b3153256a55ce26c567c9203c9614c6b017cb2cf736fd904c4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB2839-2024:SEC-5/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That section of this bill shall only become operative if (1) both bills are enacted and become effective on or before January 1, 2025, but this bill becomes operative first, (2) each bill amends Section 35 of the Code of Civil Procedure, as amended by Section 2 of Chapter 343 of the Statutes of 2023, and (3) this bill is enacted after Assembly Bill 2655, in which case Section 35 of the Code of Civil Procedure, as amended by Section 2 of this bill, shall remain operative only until the operative date of Assembly Bill 2655, at which time Section 2.5 of this bill shall become operative."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB2839-2024:SEC-5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

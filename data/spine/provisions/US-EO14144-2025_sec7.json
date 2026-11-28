@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14144-2025:sec7",
+ "label": "US-EO14144-2025 Sec. 7",
+ "instrument": "US-EO14144-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "687b0809ed574c49d7b66eee267d09e6b2c81d69cd956bd2850c3303f51102a0",
+ "sha256_v1": "",
+ "sha256_v2": "687b0809ed574c49d7b66eee267d09e6b2c81d69cd956bd2850c3303f51102a0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "687b0809ed574c49d7b66eee267d09e6b2c81d69cd956bd2850c3303f51102a0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14144-2025:sec7/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Agencies' policies must align investments and priorities to improve network visibility and security controls to reduce cyber risks."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec7/p7/s2",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i) Within 3 years of the date of this order, the Director of OMB shall issue guidance, including any necessary revision to OMB Circular A-130, to address critical risks and adapt modern practices and architectures across Federal information systems and networks."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec7/p7/s3",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This guidance shall, at a minimum:"
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec7/p7/s4",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(ii) The Secretary of Commerce, acting through the Director of NIST; the Secretary of Homeland Security, acting through the Director of CISA; and the Director of OMB shall establish a pilot program of a rules-as-code approach for machine-readable versions of policy and guidance that OMB, NIST, and CISA publish and manage regarding cybersecurity."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec7/p7/s5",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "Within 240 days of the date of this order, the Secretary of Commerce, acting through the Director of NIST, shall evaluate common cybersecurity practices and security control outcomes that are commonly used or recommended across industry sectors, international standards bodies, and other risk management programs, and based on that evaluation issue guidance identifying minimum cybersecurity practices."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec7/p7/s6",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In developing this guidance, the Secretary of Commerce, acting through the Director of NIST, shall solicit input from the Federal Government, the private sector, academia, and other appropriate actors."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec7/p7/s7",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Within 180 days of the issuance of the guidance described in subsection (b) of this section, the FAR Council shall review the guidance and, as appropriate and consistent with applicable law, the agency members of the FAR Council shall jointly take steps to amend the FAR to:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14144-2025:sec7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

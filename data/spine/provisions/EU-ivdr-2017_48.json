@@ -1,0 +1,236 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:48",
+ "label": "EU-ivdr-2017 Article 48",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "da16ae6ec6ed693a55a98fecb70dc667afda3065ae9138c0ed8f921723df8594",
+ "sha256_v1": "",
+ "sha256_v2": "da16ae6ec6ed693a55a98fecb70dc667afda3065ae9138c0ed8f921723df8594",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": null,
+ "sha256_current": "da16ae6ec6ed693a55a98fecb70dc667afda3065ae9138c0ed8f921723df8594",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:48/p1/s1",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Prior to placing a device on the market, manufacturers shall undertake an assessment of the conformity of that device, in accordance with the applicable conformity assessment procedures set out in Annexes IX to XI."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:48/p2/s1",
+   "paragraph": "2",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Prior to putting into service a device that is not placed on the market, with the exception of in-house devices manufactured pursuant to Article 5(5), manufacturers shall undertake an assessment of the conformity of that device, in accordance with the applicable conformity assessment procedures set out in Annexes IX to XI."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:48/p3/s1",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Manufacturers of class D devices, other than devices for performance study, shall be subject to a conformity assessment as specified in Chapters I, II except for Section 5, and in Chapter III of Annex IX."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:48/p3/s2",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "In addition to the procedures referred to in the first subparagraph, for devices for self-testing and near-patient testing, the manufacturer shall follow the procedure for technical documentation assessment set out in Section 5.1 of Annex IX."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:48/p3/s3",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In addition to the procedures referred to in the first and second subparagraphs, for companion diagnostics, the notified body shall consult a competent authority designated by the Member States in accordance with Directive 2001/83/EC of the European Parliament and of the Council ( 4 ) or the EMA, as applicable, in accordance with the procedure set out in Section 5.2 of Annex IX."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:48/p4/s1",
+   "paragraph": "4",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For companion diagnostics, the notified body shall in particular consult a competent authority designated by the Member States in accordance with Directive 2001/83/EC or the EMA, as applicable, in accordance with the procedure set out in point (k) of Section 3 of Annex X."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:48/p5/s1",
+   "paragraph": "5",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "In particular, and without prejudice to any of the obligations pursuant to the other procedures referred to in paragraphs 3 and 4, for devices for which one or more EU reference laboratories have been designated in accordance with Article 100, the notified body performing the conformity assessment shall request one of the EU reference laboratories to verify by laboratory testing the performance claimed by the manufacturer and the compliance of the device with the applicable CS, or with other solutions chosen by the manufacturer to ensure a level of safety and performance that is at least equivalent, as specified in Section 4.9 of Annex IX and in point (j) of Section 3 of Annex X."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:48/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Laboratory tests performed by an EU reference laboratory shall in particular focus on analytical and diagnostic sensitivity using the best available reference materials."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:48/p6/s1",
+   "paragraph": "6",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In addition to the procedure applicable pursuant to paragraphs 3 and 4, where no CS are available for class D devices and where it is also the first certification for that type of device, the notified body shall consult the relevant experts referred to in Article 106 of Regulation (EU) 2017/745 on the performance evaluation report of the manufacturer."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:48/p6/s2",
+   "paragraph": "6",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "To that end, the notified body shall provide the performance evaluation report of the manufacturer to the expert panel within five days of receiving it from the manufacturer."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:48/p6/s3",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The relevant experts shall, under the supervision of the Commission, provide their views, in accordance with Section 4.9 of Annex IX or point (j) of Section 3 of Annex X, as applicable, to the notified body within the deadline for delivery of the scientific opinion by the EU reference laboratory as specified therein."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:48/p7/s1",
+   "paragraph": "7",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Manufacturers of class C devices, other than devices for performance study, shall be subject to a conformity assessment as specified in Chapters I and III ►C1 of Annex IX, and, in addition, to an assessment of the technical documentation as specified in Section 4 of that Annex for at least one ◄ representative device per generic device group."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:48/p7/s2",
+   "paragraph": "7",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "In addition to the procedures referred to in the first subparagraph, for devices for self-testing and near-patient testing, the manufacturer shall follow the procedure for technical documentation assessment set out in Section 5.1 of Annex IX."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:48/p5/s1",
+   "paragraph": "5",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For companion diagnostics the notified body shall in particular for every device consult a competent authority designated by the Member States in accordance with Directive 2001/83/EC or the EMA, as applicable, in accordance with the procedure set out in point (k) of Section 3 of Annex X."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:48/p9/s1",
+   "paragraph": "9",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Manufacturers of class B devices, other than devices for performance study, shall be subject to a conformity assessment as specified in Chapters I and III ►C1 of Annex IX, and, in addition, to an assessment of the technical documentation as specified in Section 4 of that Annex for at least one representative ◄ device per category of devices."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:48/p9/s2",
+   "paragraph": "9",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "In addition to the procedures referred to in the first subparagraph, for devices for self-testing and near-patient testing, the manufacturer shall follow the procedure for assessment of the technical documentation set out in Section 5.1 of Annex IX."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:48/p10/s1",
+   "paragraph": "10",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Manufacturers of class A devices, other than devices for performance study, shall declare the conformity of their products by issuing the EU declaration of conformity referred to in Article 17, after drawing up the technical documentation set out in Annexes II and III."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:48/p10/s3",
+   "paragraph": "10",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Involvement of the notified body shall be limited to the aspects relating to establishing, securing and maintaining sterile conditions."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:48/p11/s1",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Devices for performance studies shall be subject to the requirements set out in Articles 57 to 77."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:48/p12/s1",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the absence of such requirement, those documents shall be available in any official Union language acceptable to the notified body."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:48/p13/s1",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The implementing acts referred to in the first subparagraph shall be adopted in accordance with the examination procedure referred to in Article 107(3)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:48",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

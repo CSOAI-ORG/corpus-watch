@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-12CFR1002-RegB-1977:appx-Appendix-C-to-Part-1002",
+ "label": "US-12CFR1002-RegB-1977 Appendix C to Part 1002—Sample Notification Forms",
+ "instrument": "US-12CFR1002-RegB-1977",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "50e87b96561a332f97331d3fe23bc36313e0f3da18e3e59da345586ebef793a1",
+ "sha256_v1": "",
+ "sha256_v2": "50e87b96561a332f97331d3fe23bc36313e0f3da18e3e59da345586ebef793a1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "50e87b96561a332f97331d3fe23bc36313e0f3da18e3e59da345586ebef793a1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:appx-Appendix-C-to-Part-1002/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A creditor must provide the section 615(a) disclosure when adverse action is taken against a consumer based on information from a consumer reporting agency."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:appx-Appendix-C-to-Part-1002/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A creditor must provide the section 615(b) disclosure when adverse action is taken based on information from an outside source other than a consumer reporting agency."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:appx-Appendix-C-to-Part-1002/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In addition, a creditor must provide the section 615(b) disclosure if the creditor obtained information from an affiliate other than information in a consumer report or other than information concerning the affiliate's own transactions or experiences with the consumer."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:appx-Appendix-C-to-Part-1002/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Form C-1—Sample Notice of Action Taken and Statement of Reasons Statement of Credit Denial, Termination or Change Part I—Principal Reason(s) for Credit Denial, Termination, or Other Action Taken Concerning Credit This section must be completed in all instances. ____Credit application incomplete ____Insufficient number of credit references provided ____Unacceptable type of credit references provided ____Unable to verify credit references ____Temporary or irregular employment ____Unable to verify employment ____Length of employment ____Income insufficient for amount of credit requested ____Excessive obligations in relation to income ____Unable to verify income ____Length of residence ____Tempo"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-12CFR1002-RegB-1977:appx-Appendix-C-to-Part-1002",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

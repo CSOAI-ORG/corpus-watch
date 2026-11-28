@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO13960-2020:sec8",
+ "label": "US-EO13960-2020 Section 8",
+ "instrument": "US-EO13960-2020",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3448e111a51efc2f42ed1851e888c01f90c592c4b27b99bac1273ea9fd9916fc",
+ "sha256_v1": "",
+ "sha256_v2": "3448e111a51efc2f42ed1851e888c01f90c592c4b27b99bac1273ea9fd9916fc",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "3448e111a51efc2f42ed1851e888c01f90c592c4b27b99bac1273ea9fd9916fc",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO13960-2020:sec8/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) Within 30 days of the date of this order, each agency shall specify the responsible official(s) at that agency who will coordinate implementation of the Principles set forth in section 3 of this order with the Agency Data Governance Body and other relevant officials and will collaborate with the interagency coordination bodies identified pursuant to section 6 of this order."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO13960-2020:sec8",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

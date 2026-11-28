@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s84",
+ "label": "GB-osa-2023 Section 84",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "78c4e9a49a07c602326defed57124057c759721356ac1441c317ac50d6882ddf",
+ "sha256_v1": "",
+ "sha256_v2": "78c4e9a49a07c602326defed57124057c759721356ac1441c317ac50d6882ddf",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "78c4e9a49a07c602326defed57124057c759721356ac1441c317ac50d6882ddf",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s84/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nWhen determining fees payable under this section, OFCOM must do so in accordance with a statement of principles as mentioned in section 88(1)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s84",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

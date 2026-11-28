@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-WA-SB6280-facialrecognition-2020:Sec-5",
+ "label": "US-WA-SB6280-facialrecognition-2020 Sec. 5",
+ "instrument": "US-WA-SB6280-facialrecognition-2020",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "fa6d3e6f078c8c2521f9a03cad91b3d0ac6fd5804178033ef3ebf0b7e59f4f38",
+ "sha256_v1": "",
+ "sha256_v2": "fa6d3e6f078c8c2521f9a03cad91b3d0ac6fd5804178033ef3ebf0b7e59f4f38",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "fa6d3e6f078c8c2521f9a03cad91b3d0ac6fd5804178033ef3ebf0b7e59f4f38",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-WA-SB6280-facialrecognition-2020:Sec-5/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Prior to deploying a facial recognition service in the context in which it will be used, a state or local government agency using a facial recognition service to make decisions that produce legal effects on individuals or similarly significant effects on individuals must test the facial recognition service in operational conditions."
+  },
+  {
+   "obligation_id": "US-WA-SB6280-facialrecognition-2020:Sec-5/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An agency must take reasonable steps to ensure best quality results by following all guidance provided by the developer of the facial recognition service."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-WA-SB6280-facialrecognition-2020:Sec-5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

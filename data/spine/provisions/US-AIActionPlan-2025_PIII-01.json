@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-AIActionPlan-2025:PIII-01",
+ "label": "US-AIActionPlan-2025 Export American AI to Allies and Partners",
+ "instrument": "US-AIActionPlan-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9ea319a928099e541a953cc8e9530c0aa1c606173b8cb2d7f8864f65364e3521",
+ "sha256_v1": "",
+ "sha256_v2": "9ea319a928099e541a953cc8e9530c0aa1c606173b8cb2d7f8864f65364e3521",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "9ea319a928099e541a953cc8e9530c0aa1c606173b8cb2d7f8864f65364e3521",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-AIActionPlan-2025:PIII-01/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Export American AI to Allies and Partners The United States must meet global demand for AI by exporting its full AI technology stack— hardware, models, software, applications, and standards—to all countries willing to join America’s AI alliance."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-AIActionPlan-2025:PIII-01",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

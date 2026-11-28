@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s107",
+ "label": "GB-dpa-2018 Section 107",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "dfa4fdb5cad5a76df362a6699bf92cfac61cd5a59e28de576afd4b58a6decf05",
+ "sha256_v1": "",
+ "sha256_v2": "dfa4fdb5cad5a76df362a6699bf92cfac61cd5a59e28de576afd4b58a6decf05",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "dfa4fdb5cad5a76df362a6699bf92cfac61cd5a59e28de576afd4b58a6decf05",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s107/p0/s1",
+   "paragraph": "0",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Security of processing\n(1)\nEach controller and each processor must implement security measures appropriate to the risks arising from the processing of personal data."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s107/p0/s2",
+   "paragraph": "0",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "(2)\nIn the case of automated processing, each controller and each processor must, following an evaluation of the risks, implement measures designed to—\n(a)\nprevent unauthorised processing or unauthorised interference with the systems used in connection with it,\n(b)\nensure that it is possible to establish the precise details of any processing that takes place,\n(c)\nensure that any systems used in connection with the processing function properly and may, in the case of interruption, be restored, and\n(d)\nensure that stored personal data cannot be corrupted if a system used in connection with the processing malfunctions."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s107",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

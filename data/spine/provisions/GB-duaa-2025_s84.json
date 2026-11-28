@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s84",
+ "label": "GB-duaa-2025 Section 84",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "07199e7e9ff71ab697c67306730483cafbbcd4ba16a45899b3e0add47f420e26",
+ "sha256_v1": "",
+ "sha256_v2": "07199e7e9ff71ab697c67306730483cafbbcd4ba16a45899b3e0add47f420e26",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "07199e7e9ff71ab697c67306730483cafbbcd4ba16a45899b3e0add47f420e26",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s84/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(6)\nAfter section 71 insert—\nCodes of conduct\nCodes of conduct\n71A\n(1)\nThe Commissioner must encourage expert public bodies to produce codes of conduct intended to contribute to compliance with this Part."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s84/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\nUnder subsection (1), the Commissioner must, among other things, encourage the production of codes which take account of the specific features of the various processing sectors."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s84/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(5)\nThe Commissioner must encourage expert public bodies to submit codes of conduct described in subsection (1) to the Commissioner in draft."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s84/p0/s4",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(6)\nWhere an expert public body does so, the Commissioner must—\n(a)\nprovide the body with an opinion on whether the code correctly reflects the requirements of this Part,\n(b)\ndecide whether to approve the code, and\n(c)\nif the code is approved, register and publish the code."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s84",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

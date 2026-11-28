@@ -1,0 +1,126 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-political-ads-2024:7",
+ "label": "EU-political-ads-2024 Article 7",
+ "instrument": "EU-political-ads-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "d12febbdf06f47464687103c880256e7d1ab5f3b7d04e74d5376d0612857789f",
+ "sha256_v1": "",
+ "sha256_v2": "d12febbdf06f47464687103c880256e7d1ab5f3b7d04e74d5376d0612857789f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "d12febbdf06f47464687103c880256e7d1ab5f3b7d04e74d5376d0612857789f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-political-ads-2024:7/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A provider of advertising services shall request sponsors, and providers of advertising services acting on behalf of sponsors, to declare whether the advertising service that they have requested the provider of advertising services to perform constitutes a political advertising service within the meaning of Article 3, point 5, and whether they fulfil any of the requirements under Article 5(2)."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:7/p1/s2",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Sponsors, and providers of advertising services acting on behalf of sponsors, shall make such declarations truthfully and shall be responsible for their accuracy."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:7/p2/s1",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Providers of political advertising services shall ensure that the contractual arrangements concluded for the provision of a political advertising service require the sponsor, or providers of advertising services acting on behalf of sponsors, to provide the declaration in accordance with paragraph 1 of this Article and the relevant information necessary to comply with Articles 9(1), 11(1) and 12(1)."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:7/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That information shall be transmitted in a complete and accurate manner and without undue delay."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:7/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Sponsors shall provide and ensure the accuracy of the information necessary for the providers of political advertising services to comply with Article 9(1), points (a), (d), (e) and (f), Article 11(1), points (a) to (d), and Article 12(1), points (a), (b), (c), (e), (h) and (k), before or during the period of publication, delivery, or dissemination of the political advertisement."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:7/p3/s2",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Where a sponsor, or a provider of advertising services acting on behalf of a sponsor, becomes aware that information which it has transmitted has changed, it shall ensure that updated information is transmitted to the relevant provider of political advertising services in a timely, complete and accurate manner."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:7/p3/s3",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Where a sponsor, or a provider of advertising services acting on behalf of a sponsor, becomes aware that any information transmitted to or published by the political advertising publisher is incomplete or inaccurate, it shall contact, without undue delay, the political advertising publisher concerned and shall transmit completed or corrected information to that political advertising publisher."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:7/p4/s1",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of political advertising services shall require sponsors, or providers of advertising services acting on behalf of sponsors, who submit a declaration or information in accordance with this Article that is manifestly erroneous to correct that declaration or that information."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:7/p4/s2",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Sponsors, or providers of advertising services acting on behalf of sponsors, shall make such corrections, which shall be complete and accurate, without undue delay."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:7/p5/s1",
+   "paragraph": "5",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Providers of political advertising services using an online interface shall ensure that that online interface is designed and organised in a way that facilitates compliance by sponsors, and providers of advertising services acting on behalf of sponsors, with their obligations as referred to in paragraph 1 of this Article and in Article 9(1)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-political-ads-2024:7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

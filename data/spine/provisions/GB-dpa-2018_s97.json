@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s97",
+ "label": "GB-dpa-2018 Section 97",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "0db1f86aedc91cd0cb4241067e937960a533cbb90db2f557de4e6f07561f5b70",
+ "sha256_v1": "",
+ "sha256_v2": "0db1f86aedc91cd0cb4241067e937960a533cbb90db2f557de4e6f07561f5b70",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "0db1f86aedc91cd0cb4241067e937960a533cbb90db2f557de4e6f07561f5b70",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s97/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nThe controller must as soon as reasonably practicable notify the data subject that such a decision has been made."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s97/p0/s2",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "(5)\nIf a request is made to the controller under subsection (4), the controller must, before the end of the period of 1 month beginning with receipt of the request—\n(a)\nconsider the request, including any information provided by the data subject that is relevant to it, and\n(b)\nby notice in writing inform the data subject of the outcome of that consideration."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s97",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

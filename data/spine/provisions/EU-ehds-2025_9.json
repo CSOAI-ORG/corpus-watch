@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:9",
+ "label": "EU-ehds-2025 Article 9",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5b9722dc9087c96cca23f0547de13de8109d791410c52bf6497da11cee56b93a",
+ "sha256_v1": "",
+ "sha256_v2": "5b9722dc9087c96cca23f0547de13de8109d791410c52bf6497da11cee56b93a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "5b9722dc9087c96cca23f0547de13de8109d791410c52bf6497da11cee56b93a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:9/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Natural persons shall have the right to obtain information, including through automatic notifications, on any access to their personal electronic health data through the health professional access service obtained in the context of healthcare, including access provided in accordance with Article 11(5)."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:9/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The information referred to in paragraph 1 shall be provided, free of charge and without delay, through electronic health data access services and shall be available for at least three years from each date of access to the data."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:9/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That information shall include at least the following:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:9",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

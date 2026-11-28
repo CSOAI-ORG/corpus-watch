@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s20ZA",
+ "label": "AU-privacy-act-1988 Section 20ZA",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5651100499b0b53482c26f814a53c50d7dd176ae22f42adf3a4a93d16548b1bf",
+ "sha256_v1": "",
+ "sha256_v2": "5651100499b0b53482c26f814a53c50d7dd176ae22f42adf3a4a93d16548b1bf",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "5651100499b0b53482c26f814a53c50d7dd176ae22f42adf3a4a93d16548b1bf",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s20ZA/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Use or disclosure\n(2)\tThe credit reporting body must not use or disclose the information under Subdivision D of this Division."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s20ZA/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\tIf the credit reporting body uses or discloses the information under subsection (3), the body must make a written note of the use or disclosure."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s20ZA",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

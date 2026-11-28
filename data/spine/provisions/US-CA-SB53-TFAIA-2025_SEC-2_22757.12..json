@@ -1,0 +1,116 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB53-TFAIA-2025:SEC-2:22757.12.",
+ "label": "US-CA-SB53-TFAIA-2025 SEC. 2. / 22757.12.",
+ "instrument": "US-CA-SB53-TFAIA-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "3cd8bc1eedd8c6698baac623f8ca70e4c620f1170254bf33605f2446966d6f0c",
+ "sha256_v1": "",
+ "sha256_v2": "3cd8bc1eedd8c6698baac623f8ca70e4c620f1170254bf33605f2446966d6f0c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "3cd8bc1eedd8c6698baac623f8ca70e4c620f1170254bf33605f2446966d6f0c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB53-TFAIA-2025:SEC-2:22757.12./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(a)A large frontier developer shall write, implement, comply with, and clearly and conspicuously publish on its internet website a frontier AI framework that applies to the large frontier developer’s frontier models and describes how the large frontier developer approaches all of the following:"
+  },
+  {
+   "obligation_id": "US-CA-SB53-TFAIA-2025:SEC-2:22757.12./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)(1)A large frontier developer shall review and, as appropriate, update its frontier AI framework at least once per year."
+  },
+  {
+   "obligation_id": "US-CA-SB53-TFAIA-2025:SEC-2:22757.12./p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(2)If a large frontier developer makes a material modification to its frontier AI framework, the large frontier developer shall clearly and conspicuously publish the modified frontier AI framework and a justification for that modification within 30 days."
+  },
+  {
+   "obligation_id": "US-CA-SB53-TFAIA-2025:SEC-2:22757.12./p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(c)(1)Before, or concurrently with, deploying a new frontier model or a substantially modified version of an existing frontier model, a frontier developer shall clearly and conspicuously publish on its internet website a transparency report containing all of the following:"
+  },
+  {
+   "obligation_id": "US-CA-SB53-TFAIA-2025:SEC-2:22757.12./p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)Before, or concurrently with, deploying a new frontier model or a substantially modified version of an existing frontier model, a large frontier developer shall include in the transparency report required by paragraph (1) summaries of all of the following:"
+  },
+  {
+   "obligation_id": "US-CA-SB53-TFAIA-2025:SEC-2:22757.12./p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d)A large frontier developer shall transmit to the Office of Emergency Services a summary of any assessment of catastrophic risk resulting from internal use of its frontier models every three months or pursuant to another reasonable schedule specified by the large frontier developer and communicated in writing to the Office of Emergency Services with written updates, as appropriate."
+  },
+  {
+   "obligation_id": "US-CA-SB53-TFAIA-2025:SEC-2:22757.12./p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e)(1)(A)A frontier developer shall not make a materially false or misleading statement about catastrophic risk from its frontier models or its management of catastrophic risk."
+  },
+  {
+   "obligation_id": "US-CA-SB53-TFAIA-2025:SEC-2:22757.12./p0/s9",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(B)A large frontier developer shall not make a materially false or misleading statement about its implementation of, or compliance with, its frontier AI framework."
+  },
+  {
+   "obligation_id": "US-CA-SB53-TFAIA-2025:SEC-2:22757.12./p0/s10",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(2)If a frontier developer redacts information in a document pursuant to this subdivision, the frontier developer shall describe the character and justification of the redaction in any published version of the document to the extent permitted by the concerns that justify redaction and shall retain the unredacted information for five years."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB53-TFAIA-2025:SEC-2:22757.12.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

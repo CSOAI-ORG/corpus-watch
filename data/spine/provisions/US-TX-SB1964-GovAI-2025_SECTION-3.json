@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-TX-SB1964-GovAI-2025:SECTION-3",
+ "label": "US-TX-SB1964-GovAI-2025 SECTION 3",
+ "instrument": "US-TX-SB1964-GovAI-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5ea5f7d44212b82fd86c341c5a5eb2ffe07597d27d87172e01e1daf580994e84",
+ "sha256_v1": "",
+ "sha256_v2": "5ea5f7d44212b82fd86c341c5a5eb2ffe07597d27d87172e01e1daf580994e84",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 1,
+ "sha256_current": "5ea5f7d44212b82fd86c341c5a5eb2ffe07597d27d87172e01e1daf580994e84",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-TX-SB1964-GovAI-2025:SECTION-3/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) Except as otherwise modified by rules adopted by the\ndepartment, the review must include:"
+  },
+  {
+   "obligation_id": "US-TX-SB1964-GovAI-2025:SECTION-3/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) Local governments shall complete a review of the\ndeployment and use of heightened scrutiny artificial intelligence\nsystems and, on request, provide the review to the department in the\nmanner the department prescribes."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-TX-SB1964-GovAI-2025:SECTION-3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,166 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:44",
+ "label": "EU-ehds-2025 Article 44",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "acfde83817498d2f751631cccdca00dd3a4dad26a244d7c52d0b1810145cf391",
+ "sha256_v1": "",
+ "sha256_v2": "acfde83817498d2f751631cccdca00dd3a4dad26a244d7c52d0b1810145cf391",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "acfde83817498d2f751631cccdca00dd3a4dad26a244d7c52d0b1810145cf391",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:44/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a market surveillance authority of one Member State has reason to believe that an EHR system poses a risk to the health, safety or rights of natural persons or to the protection of personal data, that market surveillance authority shall carry out an evaluation in relation to the EHR system concerned covering all relevant requirements laid down in this Regulation."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:44/p1/s2",
+   "paragraph": "1",
+   "addressee": "authorised_representative",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The manufacturer, the manufacturer’s authorised representative and all other relevant economic operators shall cooperate as necessary with the market surveillance authority for that purpose and take all appropriate measures to ensure that the EHR system concerned no longer poses that risk when placed on the market or to recall or withdraw the EHR system from the market within a reasonable period."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:44/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the market surveillance authorities of a Member State consider that the non-compliance of the EHR system is not limited to their national territory, they shall inform the Commission and the other Member States’ market surveillance authorities of the results of the evaluation referred to in paragraph 1 of this Article and of the corrective action which they have required the economic operator to take pursuant to Article 16(2) of Regulation (EU) 2019/1020."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:44/p3/s1",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where a market surveillance authority finds that an EHR system has caused harm to the health or safety of natural persons or to certain aspects of public interest protection, the manufacturer shall immediately provide information and documentation, as applicable, to the affected natural person or user and, where applicable, other third parties affected by that harm, without prejudice to data protection rules."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:44/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "The economic operator concerned referred to in paragraph 1 shall ensure that corrective action is taken in respect of all the EHR systems concerned that it has placed on the market throughout the Union."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:44/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The market surveillance authority shall without undue delay inform the Commission and the market surveillance authorities, or, if applicable, the supervisory authorities under Regulation (EU) 2016/679, of other Member States of the corrective action referred to in paragraph"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:44/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That information shall include all available details, in particular the data necessary for the identification of the EHR system concerned, the origin and the supply chain of the EHR system, the nature of the risk involved and the nature and duration of the national measures taken."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:44/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a finding of a market surveillance authority, or a serious incident it is informed of, concerns personal data protection, that market surveillance authority shall without undue delay inform the relevant supervisory authorities under Regulation (EU) 2016/679 and cooperate with them."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:44/p7/s1",
+   "paragraph": "7",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Manufacturers of EHR systems placed on the market or put into service shall report any serious incident involving an EHR system to the market surveillance authorities of the Member States where such serious incident occurred and of the Member States where such EHR systems are placed on the market or put into service."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:44/p7/s2",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That reporting shall also include a description of the corrective action taken or envisaged by the manufacturer."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:44/p7/s3",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The reporting required pursuant to the first subparagraph of this paragraph shall be carried out, without prejudice to incident notification requirements under Directive (EU) 2022/2555, immediately after the manufacturer has established a causal link between the EHR system and the serious incident or the reasonable likelihood of such a link and, in any event, not later than three days after the manufacturer becomes aware of the serious incident involving the EHR system."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:44/p8/s1",
+   "paragraph": "8",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The market surveillance authorities referred to in paragraph 7 shall inform the other market surveillance authorities, without delay, of the serious incident and the corrective action taken or envisaged by the manufacturer or required of it to minimise the risk of recurrence of the serious incident."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:44/p9/s1",
+   "paragraph": "9",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where its tasks are not performed by the digital health authority, the market surveillance authority shall cooperate with the digital health authority."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:44/p9/s2",
+   "paragraph": "9",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The market surveillance authority shall inform the digital health authority of any serious incidents, of EHR systems presenting a risk, including risks related to interoperability, security and patient safety, of any corrective action and of any recall or withdrawal of such EHR systems."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:44",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

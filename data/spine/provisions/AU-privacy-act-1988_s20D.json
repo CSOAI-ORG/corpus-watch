@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s20D",
+ "label": "AU-privacy-act-1988 Section 20D",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "55a27e4bf83c9d4a81a479f31c978158c35e0476d6b521a68cf8ad85e93c9262",
+ "sha256_v1": "",
+ "sha256_v2": "55a27e4bf83c9d4a81a479f31c978158c35e0476d6b521a68cf8ad85e93c9262",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "55a27e4bf83c9d4a81a479f31c978158c35e0476d6b521a68cf8ad85e93c9262",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s20D/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\ta credit reporting body receives credit information about an individual; and\n(b)\tthe body did not solicit the information;\nthe body must, within a reasonable period after receiving the information, determine whether or not the body could have collected the information under section 20C if the body had solicited the information."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s20D/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\tIf the credit reporting body determines that it could not have collected the credit information, the body must, as soon as practicable, destroy the information."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s20D",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

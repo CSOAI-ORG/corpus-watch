@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-FDA-PCCP-AI-DSF-2025:sec-VII",
+ "label": "US-FDA-PCCP-AI-DSF-2025 VII. Modification Protocol",
+ "instrument": "US-FDA-PCCP-AI-DSF-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "3ff525792dced6600e0662cf6687007a7710daae36989b820842abad76e3bbe2",
+ "sha256_v1": "",
+ "sha256_v2": "3ff525792dced6600e0662cf6687007a7710daae36989b820842abad76e3bbe2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 28,
+ "sha256_current": "3ff525792dced6600e0662cf6687007a7710daae36989b820842abad76e3bbe2",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-FDA-PCCP-AI-DSF-2025:sec-VII/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Documentation of modifications verified and validated per the Modification Protocol must be compliant with the QSR, including that the manufacturer must document the change in accordance with the manufacturer’s quality system.95 The QSR requires manufacturers of finished medical devices to review and approve modifications to device design and production (21 CFR 820.30(i) and 820.70(b)) and document changes and approvals in the device master record (21 CFR 820.181)."
+  },
+  {
+   "obligation_id": "US-FDA-PCCP-AI-DSF-2025:sec-VII/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The available labeling must include adequate directions for use.107 The available labeling should also reflect information about the current version(s) of the AI-DSF available to the user, including information regarding site-specific modifications."
+  },
+  {
+   "obligation_id": "US-FDA-PCCP-AI-DSF-2025:sec-VII/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "New unique device identifiers (UDIs) are required for devices that are required to bear a UDI on its label when there is a new version and/or model, and for new device packages.108 FDA recommends that the labeling not include information on modifications to the AI-DSF that have not been implemented in the available version because it could cause confusion and would be misleading."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-FDA-PCCP-AI-DSF-2025:sec-VII",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

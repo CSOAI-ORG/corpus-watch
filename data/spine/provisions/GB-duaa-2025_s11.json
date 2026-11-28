@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s11",
+ "label": "GB-duaa-2025 Section 11",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "6514c1eeabe99e6a0967a7bdc7e85646debf7eb7adb79689446f7c4bfbd95688",
+ "sha256_v1": "",
+ "sha256_v2": "6514c1eeabe99e6a0967a7bdc7e85646debf7eb7adb79689446f7c4bfbd95688",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "6514c1eeabe99e6a0967a7bdc7e85646debf7eb7adb79689446f7c4bfbd95688",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s11/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Fees\n(1)\nThe Secretary of State or the Treasury may by regulations—\n(a)\nmake provision enabling a person listed in subsection (2), or a person acting on their behalf, to require other persons to pay fees in connection with activities described in subsection (3), and\n(b)\nmake provision about what must or may be done with amounts paid as fees."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s11/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nRegulations under subsection (1) must provide for the amount of a fee to be—\n(a)\na specified amount or an amount determined in accordance with the regulations, or\n(b)\nan amount not exceeding such an amount,\nunless section 15 confers power to provide otherwise."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s11/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(7)\nRegulations under subsection (1) enabling a person to determine the amount of a fee must require the person to publish information about the amount and how it is determined."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s11",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

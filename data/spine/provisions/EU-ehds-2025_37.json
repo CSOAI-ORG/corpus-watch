@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:37",
+ "label": "EU-ehds-2025 Article 37",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "e779e793e92408121e398ad2de4664a1f7fe440204324a03202d21f0430f9e30",
+ "sha256_v1": "",
+ "sha256_v2": "e779e793e92408121e398ad2de4664a1f7fe440204324a03202d21f0430f9e30",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "e779e793e92408121e398ad2de4664a1f7fe440204324a03202d21f0430f9e30",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:37/p1/s1",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Manufacturers shall draw up technical documentation before the EHR system is placed on the market or put into service, and shall keep that documentation up to date."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:37/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "The technical documentation referred to in paragraph 1 of this Article shall demonstrate that the EHR system complies with the essential requirements laid down in Annex II and provide market surveillance authorities with all the necessary information to assess the conformity of the EHR system with those requirements."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:37/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "That technical documentation shall contain, as a minimum, the elements set out in Annex III and a reference to the results obtained from a European digital testing environment referred to in Article 40."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:37/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "The technical documentation referred to in paragraph 1 shall be drawn up in an official language of the Member State concerned or a language that is easily understandable in that Member State."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:37/p3/s2",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Following a reasoned request from the market surveillance authority of a Member State, the manufacturer shall provide a translation of the relevant parts of the technical documentation into an official language of that Member State."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:37/p4/s1",
+   "paragraph": "4",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "When a market surveillance authority requests the technical documentation or a translation of parts thereof from a manufacturer, the manufacturer shall provide such technical documentation or translation within 30 days of the date of the request, unless a shorter deadline is justified because of a serious and immediate risk."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:37",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

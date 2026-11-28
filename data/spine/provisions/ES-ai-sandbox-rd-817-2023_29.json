@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "ES-ai-sandbox-rd-817-2023:29",
+ "label": "ES-ai-sandbox-rd-817-2023 Artículo 29",
+ "instrument": "ES-ai-sandbox-rd-817-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "48f062e1755e60fd0ac273f4e096d521bb7eb3738f707cc0cd5516a434e52d1b",
+ "sha256_v1": "",
+ "sha256_v2": "48f062e1755e60fd0ac273f4e096d521bb7eb3738f707cc0cd5516a434e52d1b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "ES",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "48f062e1755e60fd0ac273f4e096d521bb7eb3738f707cc0cd5516a434e52d1b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:29/s2",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "El órgano competente podrá invitar como observadora a cualquier autoridad competente que, por su actividad de supervisión, control, garantía de cumplimiento normativo específico, u otras competencias específicas, pueda ser relevante en la implantación y revisión de los requisitos que se deberán implantar en los sistemas de inteligencia artificial en el contexto del entorno controlado de pruebas.\n2."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=ES-ai-sandbox-rd-817-2023:29",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

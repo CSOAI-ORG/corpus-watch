@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:7",
+ "label": "EU-mdr-2017 Article 7",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7e416059d23da6333cbb8fa78cdb8bf26afe97dd1457cac71a9d9b0433d33c15",
+ "sha256_v1": "",
+ "sha256_v2": "7e416059d23da6333cbb8fa78cdb8bf26afe97dd1457cac71a9d9b0433d33c15",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": null,
+ "sha256_current": "7e416059d23da6333cbb8fa78cdb8bf26afe97dd1457cac71a9d9b0433d33c15",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:7/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Article 7 Claims ►C1 In the labelling, instructions for use, making available, putting into service and advertising of devices, it shall be prohibited to use text, names, trade marks, pictures and ◄ figurative or other signs that may mislead the user or the patient with regard to the device's intended purpose, safety and performance by:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s22A",
+ "label": "AU-privacy-act-1988 Section 22A",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "a4ebaf5c16363216d1cdb1e62376ec1dd6bf6c350ce60c2abd05a661b828e2a0",
+ "sha256_v1": "",
+ "sha256_v2": "a4ebaf5c16363216d1cdb1e62376ec1dd6bf6c350ce60c2abd05a661b828e2a0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "a4ebaf5c16363216d1cdb1e62376ec1dd6bf6c350ce60c2abd05a661b828e2a0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s22A/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "(2)\tAn affected information recipient must take such steps as are reasonable in the circumstances to implement practices, procedures and systems relating to the recipient’s functions or activities that:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s22A/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Policy about the management of regulated information\n(3)\tAn affected information recipient must have a clearly expressed and uptodate policy about the recipient’s management of the regulated information of the recipient."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s22A/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\tWithout limiting subsection (3), the policy of the affected information recipient must contain the following information:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s22A/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\tAn affected information recipient must take such steps as are reasonable in the circumstances to make the policy available:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s22A/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\tIf a person or body requests a copy, in a particular form, of the policy of an affected information recipient, the recipient must take such steps as are reasonable in the circumstances to give the person or body a copy in that form."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s22A",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

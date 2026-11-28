@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-edpb-opinion-28-2024:1.1",
+ "label": "EU-edpb-opinion-28-2024 section 1.1",
+ "instrument": "EU-edpb-opinion-28-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "2c36512a86d54f96739e4083e1848e79ace1f13312a47bae09e1f0ebc459e9a4",
+ "sha256_v1": "",
+ "sha256_v2": "2c36512a86d54f96739e4083e1848e79ace1f13312a47bae09e1f0ebc459e9a4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 6,
+ "sha256_current": "2c36512a86d54f96739e4083e1848e79ace1f13312a47bae09e1f0ebc459e9a4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-edpb-opinion-28-2024:1.1/p11/s1",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "According to Article 64(3) GDPR 9, the EDPB shall not issue an opinion if it has already issued one on\nthe matter."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-edpb-opinion-28-2024:1.1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

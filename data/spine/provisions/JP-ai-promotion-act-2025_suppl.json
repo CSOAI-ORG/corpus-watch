@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-ai-promotion-act-2025:suppl",
+ "label": "JP-ai-promotion-act-2025 Supplementary Provisions (original enactment)",
+ "instrument": "JP-ai-promotion-act-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "05bf99d0e814047a793eeeda68274ed8f06b22eef6cb65212c051034c551b123",
+ "sha256_v1": "",
+ "sha256_v2": "05bf99d0e814047a793eeeda68274ed8f06b22eef6cb65212c051034c551b123",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "05bf99d0e814047a793eeeda68274ed8f06b22eef6cb65212c051034c551b123",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-ai-promotion-act-2025:suppl/s6",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "政府は、人工知能関連技術の研究開発及び活用の推進に関する諸施策についての国際的動向その他の社会経済情勢の変化を勘案しつつ、この法律の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-ai-promotion-act-2025:suppl",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

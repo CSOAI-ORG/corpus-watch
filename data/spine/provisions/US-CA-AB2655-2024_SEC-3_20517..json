@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB2655-2024:SEC-3:20517.",
+ "label": "US-CA-AB2655-2024 SEC. 3. / 20517.",
+ "instrument": "US-CA-AB2655-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7dd8bded6b6c5d93d70708e6992cd4611732db69dc0b869ac3f7515d3ae2f925",
+ "sha256_v1": "",
+ "sha256_v2": "7dd8bded6b6c5d93d70708e6992cd4611732db69dc0b869ac3f7515d3ae2f925",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "7dd8bded6b6c5d93d70708e6992cd4611732db69dc0b869ac3f7515d3ae2f925",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB2655-2024:SEC-3:20517./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the language used is not English, the disclosure required by subdivision (d) of Section 20513 and the label required by Section 20514 must appear in the language used as well as in English."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB2655-2024:SEC-3:20517.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

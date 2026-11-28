@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14409-2026:sec5",
+ "label": "US-EO14409-2026 Section 5",
+ "instrument": "US-EO14409-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "834bdeff1d5abd368b4a183bc000538dc2175ba41f8b42d763bb6cfe427a632c",
+ "sha256_v1": "",
+ "sha256_v2": "834bdeff1d5abd368b4a183bc000538dc2175ba41f8b42d763bb6cfe427a632c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "834bdeff1d5abd368b4a183bc000538dc2175ba41f8b42d763bb6cfe427a632c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14409-2026:sec5/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations."
+  },
+  {
+   "obligation_id": "US-EO14409-2026:sec5/p5/s3",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d) The costs for publication of this order shall be borne by the Department of War."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14409-2026:sec5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

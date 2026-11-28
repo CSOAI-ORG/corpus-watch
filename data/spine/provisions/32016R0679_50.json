@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:50",
+ "label": "GDPR Art. 50",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "27de6eb0e4f10da0076f68e47c9682e3f503e6b4897d8b1f00a634d38be94831",
+ "sha256_v1": "27de6eb0e4f10da0076f68e47c9682e3f503e6b4897d8b1f00a634d38be94831",
+ "sha256_v2": "5759bf0b2607db3d469ca30b612ec8ae6427be9817ef43aa4f4d2e4910e6d2de",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "5759bf0b2607db3d469ca30b612ec8ae6427be9817ef43aa4f4d2e4910e6d2de",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:50/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Article 50 International cooperation for the protection of personal data In relation to third countries and international organisations, the Commission and supervisory authorities shall take appropriate steps to:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:50",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:56",
+ "label": "EU-ehds-2025 Article 56",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "8b4ddce4f67347f88cc129c7c2edbbf8bb3f8b5a6d39d0cc74f28aaf5d0d7e4d",
+ "sha256_v1": "",
+ "sha256_v2": "8b4ddce4f67347f88cc129c7c2edbbf8bb3f8b5a6d39d0cc74f28aaf5d0d7e4d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "8b4ddce4f67347f88cc129c7c2edbbf8bb3f8b5a6d39d0cc74f28aaf5d0d7e4d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:56/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall perform the tasks set out in Articles 57 and 59 where the health data holders are Union institutions, bodies, offices or agencies."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:56/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall ensure that the necessary human, technical and financial resources, premises and infrastructure are allocated for the effective performance of the tasks set out in Articles 57 and 59 and the exercise of its duties."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:56",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

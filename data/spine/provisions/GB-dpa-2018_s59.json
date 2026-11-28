@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s59",
+ "label": "GB-dpa-2018 Section 59",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "55a44675909491f902505241b0c1e9dd246f544bb204f9c992fe534cb7d415c8",
+ "sha256_v1": "",
+ "sha256_v2": "55a44675909491f902505241b0c1e9dd246f544bb204f9c992fe534cb7d415c8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "55a44675909491f902505241b0c1e9dd246f544bb204f9c992fe534cb7d415c8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s59/p0/s1",
+   "paragraph": "0",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nWhere the controller gives a general written authorisation to a processor, the processor must inform the controller if the processor proposes to add to the number of sub-processors engaged by it or to replace any of them (so that the controller has the opportunity to object to the proposal)."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s59/p0/s2",
+   "paragraph": "0",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nThe processing by the processor must be governed by a contract in writing between the controller and the processor setting out the following—\n(a)\nthe subject-matter and duration of the processing;"
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s59/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\nThe contract must, in particular, provide that the processor must—\n(a)\nact only on instructions from the controller,\n(b)\nensure that the persons authorised to process personal data are subject to an appropriate duty of confidentiality,\n(c)\nassist the controller by any appropriate means to ensure compliance with the rights of the data subject under this Part,\n(d)\nat the end of the provision of services by the processor to the controller—\n(i)\neither delete or return to the controller (at the choice of the controller) the personal data to which the services relate, and\n(ii)\ndelete copies of the personal data unless subject to a legal obligation to store the copies,\n(e)\nmake available to the"
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s59/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(7)\nThe terms included in the contract in accordance with subsection (6)(a) must provide that the processor may transfer personal data to a third country or international organisation only if instructed by the controller to make the particular transfer."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s59",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

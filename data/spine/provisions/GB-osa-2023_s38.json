@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s38",
+ "label": "GB-osa-2023 Section 38",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9223fe5026bc8297c04ce388da3389f5e4cb2bdd375d825be0175d09817e83fa",
+ "sha256_v1": "",
+ "sha256_v2": "9223fe5026bc8297c04ce388da3389f5e4cb2bdd375d825be0175d09817e83fa",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9223fe5026bc8297c04ce388da3389f5e4cb2bdd375d825be0175d09817e83fa",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s38/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Category 1 services\n(1)\nA provider of a Category 1 service must operate the service using proportionate systems and processes designed to—\n(a)\nprevent individuals from encountering content consisting of fraudulent advertisements by means of the service;"
+  },
+  {
+   "obligation_id": "GB-osa-2023:s38/p0/s2",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nA provider of a Category 1 service must include clear and accessible provisions in the terms of service giving information about any proactive technology used by the service for the purpose of compliance with the duty set out in subsection (1) (including the kind of technology, when it is used, and how it works)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s38",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

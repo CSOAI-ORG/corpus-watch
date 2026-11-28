@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-UT-HB289-AI-CSAM-2026:Section-23",
+ "label": "US-UT-HB289-AI-CSAM-2026 Section 23",
+ "instrument": "US-UT-HB289-AI-CSAM-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f93b160ea814d0dfdeb3db6e72c36f77e76eaf607967c49e7079c7b4ce5e2c29",
+ "sha256_v1": "",
+ "sha256_v2": "f93b160ea814d0dfdeb3db6e72c36f77e76eaf607967c49e7079c7b4ce5e2c29",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f93b160ea814d0dfdeb3db6e72c36f77e76eaf607967c49e7079c7b4ce5e2c29",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-UT-HB289-AI-CSAM-2026:Section-23/p23/s1",
+   "paragraph": "23",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) assesses a minor's risk of failing to appear in court or reoffending before adjudication; and (b) is designed to assist in making a determination of whether a minor shall be held in detention."
+  },
+  {
+   "obligation_id": "US-UT-HB289-AI-CSAM-2026:Section-23/p23/s2",
+   "paragraph": "23",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d) the right to determine where and with whom the minor shall live; and (e) the right, in an emergency, to authorize surgery or other extraordinary care."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-UT-HB289-AI-CSAM-2026:Section-23",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

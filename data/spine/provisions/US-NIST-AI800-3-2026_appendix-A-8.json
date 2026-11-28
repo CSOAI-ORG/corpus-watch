@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-NIST-AI800-3-2026:appendix-A-8",
+ "label": "US-NIST-AI800-3-2026 appendix-A-8",
+ "instrument": "US-NIST-AI800-3-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "1f2a99752f7b3c12ae60dbcaef930638af4df74cf11ce080e1a564bd9309795c",
+ "sha256_v1": "",
+ "sha256_v2": "1f2a99752f7b3c12ae60dbcaef930638af4df74cf11ce080e1a564bd9309795c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 11,
+ "sha256_current": "1f2a99752f7b3c12ae60dbcaef930638af4df74cf11ce080e1a564bd9309795c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-NIST-AI800-3-2026:appendix-A-8/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "We must approximate the\nintegral:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-NIST-AI800-3-2026:appendix-A-8",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

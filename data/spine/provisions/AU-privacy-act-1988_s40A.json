@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s40A",
+ "label": "AU-privacy-act-1988 Section 40A",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "0ba64f7a9eccd69523559e34bb1f69d56ce5008d0871dba9de01dc20cf4d3e1b",
+ "sha256_v1": "",
+ "sha256_v2": "0ba64f7a9eccd69523559e34bb1f69d56ce5008d0871dba9de01dc20cf4d3e1b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "0ba64f7a9eccd69523559e34bb1f69d56ce5008d0871dba9de01dc20cf4d3e1b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s40A/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(a)\ta complaint about an act or practice is made under section 36; and\n(b)\tthe Commissioner considers it is reasonably possible that the complaint may be conciliated successfully;\nthe Commissioner must make a reasonable attempt to conciliate the complaint."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s40A/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(3)\tIf the Commissioner is satisfied that there is no reasonable likelihood that the complaint will be resolved by conciliation, the Commissioner must, in writing, notify the complainant and respondent of that matter."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s40A",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

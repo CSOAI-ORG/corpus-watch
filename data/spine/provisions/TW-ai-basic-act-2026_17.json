@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "TW-ai-basic-act-2026:17",
+ "label": "TW-ai-basic-act-2026 Article 17",
+ "instrument": "TW-ai-basic-act-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "ff8f94d0fa577ede36498b8496700d6f72bf317ba347e972f8ce932a3513d474",
+ "sha256_v1": "",
+ "sha256_v2": "ff8f94d0fa577ede36498b8496700d6f72bf317ba347e972f8ce932a3513d474",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "TW",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ff8f94d0fa577ede36498b8496700d6f72bf317ba347e972f8ce932a3513d474",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "TW-ai-basic-act-2026:17/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "政府應就高風險人工智慧之應用，明確其責任歸屬及歸責條件，並建立其救濟、補償或保險機制。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=TW-ai-basic-act-2026:17",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

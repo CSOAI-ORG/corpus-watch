@@ -1,0 +1,4036 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-c2pa-spec-2026:section-14",
+ "label": "INTL-c2pa-spec-2026 Section 14",
+ "instrument": "INTL-c2pa-spec-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "680868ca573b1ee1ccd3f7da58619c1280d2bad7d95c92dc2b85d50d06de19c6",
+ "sha256_v1": "",
+ "sha256_v2": "680868ca573b1ee1ccd3f7da58619c1280d2bad7d95c92dc2b85d50d06de19c6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "680868ca573b1ee1ccd3f7da58619c1280d2bad7d95c92dc2b85d50d06de19c6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s1",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "General\nThe validation algorithm shall return a consolidated set of validation results, per the CDDL Definition schema in Section 14.2.2, “Validation Structures”, for the all manifests in the asset’s C2PA Manifest Store, including the active manifest as well all other manifests in the C2PA Manifest Store that are referenced via ingredient assertions."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s2",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Custom codes shall conform to the same syntax as entity-specific namespaces, e.g. com.litware."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s3",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When a claim generator adds an ingredient asset via an ingredient assertion, it shall act as a validator, and perform the full validation algorithm described in this section on the ingredient."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s4",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The claim generator shall record the validation results of the ingredient, per the CDDL Definition schema in Section 14.2.2, “Validation Structures”, as the value of the validationResults field in the ingredient assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s5",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the Manifest Consumer chooses to display such data, it shall include as part of the display:\na warning about the lack of validity,\na warning that the data shall not be attributed to the manifest’s signer, and in the case of an ingredient manifest, additional not to the asset’s manifest’s signer."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s6",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the alg field is present, it shall be used as the hashing algorithm for the hard binding assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s7",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If no alg field is present in the hard binding assertion, the value of the alg field in the Claim shall be used as the hash algorithm."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s8",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If no alg field is present in the Claim, the Claim shall be rejected with a failure code of algorithm.unsupported.\n14.4.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s9",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If there is an alg field in the hashed_uri structure, it shall be used as the hashing algorithm."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s10",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the alg field is not present in the hashed_uri structure, the hash algorithm shall be determined by evaluating the nearest enclosing structure that contains an alg field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s11",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If no alg field is found in any of these locations, the value of the alg field in the claim shall be used as the hash algorithm."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s12",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If no alg field is present in any of these locations, the claim shall be rejected with a failure code of algorithm.unsupported.\n14.4.3."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s13",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If there is an alg field in the hashed_ext_uri structure, it shall be used as the hashing algorithm."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s14",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the alg field is not present in the hashed_ext_uri structure, the failure code of algorithm.unsupported shall be used."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s15",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Algorithm validation\nOnce the hashing algorithm is determined, it shall be compared to the values in the allowed list or the deprecated list in Section 12.1, “Hashing”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s16",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it is not present in either list, the claim shall be rejected with a failure code of algorithm.unsupported."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s17",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the algorithm is present in the deprecated list, the claim shall be issued an informational code of algorithm.deprecated.\n14.5."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s18",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "General\nThe last C2PA Manifest superbox in the C2PA Manifest Store superbox shall be considered the active manifest, but locating the C2PA Manifest Store may involve looking in a number of possible locations."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s19",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If no C2PA Manifest Store can be located by the methods described below, the asset shall be treated as if no manifests were located."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s20",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where an embedding method admits only a single C2PA Manifest Store within a given location, more than one in that location shall likewise be treated as if no manifests were located."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s21",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "General\nThe C2PA Manifest Store shall be located by the validator embedded inside the asset at the standard locations for embedding manifests."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s22",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If there are multiple C2PA Manifest Stores embedded in an asset, they shall all be considered as invalid and the validation should treat this as if no manifests were located."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s23",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the case where this asset is being added as an ingredient, none of these embedded C2PA Manifests shall be included in the ingredient assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s24",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If an asset has both an embedded C2PA Manifest Store and a Link header indicating the presence of a remote C2PA Manifest Store, the embedded C2PA Manifest Store shall be considered the active manifest and the remote C2PA Manifest Store shall be ignored."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s25",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the embedded C2PA Manifest Store is encrypted, or is otherwise located within an encrypted region of the asset, such that the validator is unable to read its contents, the validator shall reject the manifest with a failure code of manifest.inaccessible.encrypted."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s26",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the embedded C2PA Manifest Store is readable but its contents cannot be interpreted as a valid C2PA Manifest Store — for example, due to a malformed JUMBF structure, or an unsupported or unrecognized box format — the validator shall reject the manifest with a failure code of manifest.inaccessible.malformed.\n14.5.2.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s27",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This requires that PDF files support multiple C2PA Manifest Stores - though there shall only be one per update section."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s28",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If there are multiple C2PA Manifest Stores present in a single update section, they shall all be considered as invalid and the validation should treat this as if no manifests were located."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s29",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, any C2PA Manifest Stores present in early updates of the PDF or of the original PDF, shall still be considered valid and processed accordingly.\n14.5.2.3."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s30",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Special Considerations for HTML\nFor HTML-based assets, the C2PA Manifest Store shall be located by following the procedure defined in Section A.7, “Embedding Manifests into HTML”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s31",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If more than one C2PA manifest element is present in the head element — more than one script element with type=\"application/c2pa\", both a script element and a link element referencing a C2PA Manifest Store, or otherwise — the asset shall be treated as if no manifests were located.\n14.5.2.4."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s32",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Special Considerations for Structured Text\nFor assets consisting of structured text, the C2PA Manifest Store shall be located by following the procedure defined in Section A.9, “Embedding Manifests into Structured Text”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s33",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The validator shall read the file in binary mode and search for the -----BEGIN C2PA MANIFEST----- and -----END C2PA MANIFEST----- delimiters."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s34",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the delimiters are not found, only one delimiter is found, or more than one manifest block is found, the asset shall be treated as if no manifests were located."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s35",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a manifest block is found, the validator shall extract the manifest reference between the delimiters."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s36",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The validator shall trim leading and trailing whitespace (U+0020, U+0009, U+000A, U+000D) from the extracted reference before further processing."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s37",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The trimmed reference shall be resolved as follows:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s38",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Retrieval of external manifest stores is optional; if the validator does not retrieve the manifest store, the asset shall be treated as if no manifests were located."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s39",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Special Considerations for Append-Only Text Files\nFor append-only plain-text files and JSONL streams, the C2PA Manifest Store shall be located by following the procedure defined in Section A.3.17, “Embedding manifests into append-only text files”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s40",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The validator shall:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s41",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If no such line is found, or if the last candidate line is malformed, the asset shall be treated as if no manifests were located and the validator shall report manifest.appendOnlyText.noSentinel."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s42",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Special Considerations for Unstructured Text\nFor assets consisting of unstructured text, the C2PA Manifest Store shall be located by following the procedure defined in Section A.8, “Embedding Manifests into Unstructured Text”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s43",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If no valid C2PATextManifestWrapper is found, or more than one valid C2PATextManifestWrapper is found, the asset shall be treated as if no manifests were located.\n14.5.2.7."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s44",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Special Considerations for TIFF\nFor assets consisting of TIFF based format, the C2PA Manifest Store shall be located in either the first IFD or the last IFD.\n14.5.2.8."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s45",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Special Considerations for WARC\nFor WARC files, the C2PA Manifest Store shall be located by following the procedure defined in Section A.10, “Embedding manifests into WARC files”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s46",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The validator shall scan the file for a record whose WARC-Type is c2pa-provenance and whose Content-Type is application/c2pa."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s47",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If more than one such record is present, the asset shall be treated as if no manifests were located."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s48",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If exactly one C2PA manifest record is found, the validator shall extract the C2PA Manifest Store from its block."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s49",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a manifest was documented to exist in a remote location, but is not present there, or the location is not currently available (such as in an offline scenario), the manifest.inaccessible error code shall be used to report the situation."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s50",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a C2PA Manifest Store is retrieved from a remote location but is encrypted such that the validator is unable to read its contents, the validator shall reject the manifest with a failure code of manifest.inaccessible.encrypted."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s51",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a C2PA Manifest Store is retrieved from a remote location but its contents cannot be interpreted as a valid C2PA Manifest Store, the validator shall reject the manifest with a failure code of manifest.inaccessible.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s52",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "References to specific C2PA Manifests within the C2PA Manifest Store are not permitted and the validator shall ignore any childlabel portion of the JUMBF URI fragment."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s53",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When a compressed manifest is encountered, a validator shall decompress it before proceeding with the standard validation process."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s54",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the data contained in the brob box of a compressed manifest is not either a standard or update manifest or if the decompression fails, the validator shall reject the manifest with a failure code of manifest.compressed.invalid.\n14.5.5."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s55",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the C2PA Manifest Store was located then the hard binding assertion present in its active manifest shall be used to validate that it is the matching manifest and whether the asset has been modified without manifest updates."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s56",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Accordingly, the validator shall treat this as a non-matching hard binding and reject the manifest with a failure code of assertion.dataHash.mismatch if a data hash assertion is used, assertion.boxesHash.mismatch if a general box hash assertion is used, assertion.collectionHash.mismatch if a collection data hash assertion is used, assertion.segmentHash.mismatch if a segment hash assertion is used, or assertion.bmffHash.mismatch if a BMFF hash assertion is used.\n14.6."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s57",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "There shall only be one such box in the current manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s58",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If more than one is located, the C2PA Manifest shall be rejected with a failure code of claim.multiple.\n14.6.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s59",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Validating\nIf the content of the claim is not well-formed CBOR, the claim shall be rejected with a failure code of claim.cbor.invalid."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s60",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If any are absent, then the claim shall be rejected with a failure code of claim.malformed.\ninstanceID\nsignature\ncreated_assertions\nclaim_generator_info\nIf the claim_generator_info field does not contain a name field, the claim shall be rejected with a failure code of claim.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s61",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If there is an icon field in the generator-info-map referenced by the claim_generator_info field of the claim-map or claim-map-v2, then its value shall be validated as described in Section 14.10.4.3, “Validation of References”.\n14.7."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s62",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Validate the Signature\nThe validator shall retrieve the URI reference for the signature from the value of the claim’s signature field and resolve the URI reference to obtain the COSE signature."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s63",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the signature field is not present, or the URI cannot be resolved, or the URI does not resolve to a location within the same C2PA Manifest box (as the claim), then the claim shall be rejected with a failure code of claimSignature.missing."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s64",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For all types of C2PA Manifests, the validation of the credential used in the signature shall be performed according to Chapter 13, Trust Model."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s65",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the credential is not acceptable per the requirements of the credential’s type, then the claim shall be rejected with a failure code of signingCredential.invalid."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s66",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the signature algorithm is not on the allowed or deprecated list in Section 12.3, “Digital Signatures”, then the claim shall be rejected with a failure code of algorithm.unsupported."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s67",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Before a chain of trust to a trust anchor is established, the validator shall first determine if a valid time stamp is present."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s68",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a \"notBefore\" date/time is present in a trust anchor configuration, that configuration shall not validate claim signatures whose time stamp (or current time, if no time stamp is present) is before that date/time."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s69",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a \"notAfter\" date/time is present, that configuration shall not validate claim signatures whose time stamp (or current time, if no time stamp is present) is after that date/time."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s70",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a chain of trust cannot be verified, the claim shall be rejected with a failure code of signingCredential.untrusted; otherwise, the claim signature shall be assigned a success code of signingCredential.trusted."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s71",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the claim has not yet been rejected, validation shall proceed according to the specified procedure in Section 12.3, “Digital Signatures”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s72",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If validation of the signature fails, then the claim shall be rejected with a failure code of claimSignature.mismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s73",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Otherwise, the claim signature shall be assigned a success code of claimSignature.validated."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s74",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the header contains more than one tstToken, the validator shall issue a timeStamp.malformed informational code and ignore the time stamps."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s75",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A validator that supports sigTst shall perform the following procedures to validate the time stamp response:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s76",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Retrieve the val property from the tstToken, which shall be an RFC3161-compliant TimeStampResp (time stamp response)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s77",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it contains any value other than 0 (granted) or 1 (grantedWithMods), the validator shall issue a timeStamp.malformed informational code and ignore that time stamp."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s78",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A validator for sigTst2 shall retrieve the val property from the tstToken, which shall be an RFC3161-compliant timeStampToken (TimeStampToken, TST).\n14.8.1.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s79",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Referenced by a time stamp assertion\nIf a validator has already located a TimeStampToken in a sigTst or sigTst2 header, that passes validation (as per Section 14.8.2, “Validating the TimeStampToken”), then it shall skip this step."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s80",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When no such header exists or the TimeStampToken located there did not pass validation, this step shall be followed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s81",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a validator had previously located any time stamp assertions, which were then maintained in a mapping of C2PA Manifest identifiers to TimeStampTokens, then the validator shall check if the current C2PA Manifest’s identifier is present in the mapping."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s82",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it is, the validator shall use the TimeStampToken associated with the identifier in the mapping for the TimeStampToken in the validation process described in Section 14.8.2, “Validating the TimeStampToken”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s83",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If more than one TimeStampToken for that identifier is found in the mapping, the validator shall try each one until one successfully passes validation (and then should ignore the others)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s84",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Validating the TimeStampToken\nAll validators shall continue the process as follows:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s85",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the signature algorithm in the timeStampToken is not on the allowed or deprecated list in Section 12.3, “Digital Signatures”, then the validator shall issue a timeStamp.untrusted informational code and ignore the time stamp."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s86",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the signature is not valid, then the validator shall issue a timeStamp.mismatch informational code and ignore the time stamp."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s87",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the timeStampToken does not contain a messageImprint field, the validator shall issue a timeStamp.malformed informational code and ignore the time stamp."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s88",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the message imprint hash algorithm is not on the allowed or deprecated list in Section 12.1, “Hashing”, then the validator shall issue a timeStamp.untrusted informational code and ignore the time stamp."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s89",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the values do not match, the validator shall issue a timeStamp.mismatch informational code and ignore the time stamp."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s90",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the certificate cannot be located or a trust chain cannot be constructed, the validator shall issue a timeStamp.untrusted informational code and ignore the time stamp."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s91",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it does not, the validator shall issue a timeStamp.outsideValidity informational code and ignore the time stamp."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s92",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the time stamp validation does not stop or fail due to any of the above conditions, then the validator shall issue the success codes of timeStamp.trusted and timeStamp.validated."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s93",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the validator issued both timeStamp.trusted and timeStamp.validated success codes, then the validator shall validate that the time attested by the Time Stamping Authority (TSA), as found in the genTime field (in the timeStampToken), falls within the validity period of the claim signing certificate and all CA certificates up to the trust anchor."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s94",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If this validation is successful, then the validator shall return a success code of claimSignature.insideValidity."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s95",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it is not successful, then the validator shall reject the claim with a claimSignature.outsideValidity failure code."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s96",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "At time of validation, when a time stamp is present, trusted, and validated, validators shall use the attested time, and not the current time, when determining the time validity of the signing certificate and the time stamp authority’s certificate."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s97",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it is, the validator shall return a success code of claimSignature.insideValidity."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s98",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it is not, the C2PA Manifest shall be rejected with a failure code of claimSignature.outsideValidity.\n14.8.3."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s99",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the validator does the validation of this value, and it falls inside the validity period, the validator shall return the timeOfSigning.insideValidity informational code, but if it falls outside the validity period, then the validator shall return the timeOfSigning.outsideValidity informational code.\n14.9."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s100",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the validator determines that a CA certificate was revoked at the time indicated in a trusted time stamp, or at the current time if no trusted time stamp is present, then the claim signature shall be rejected with a failure status of signingCredential.untrusted."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s101",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the signer’s certificate, the validator shall use the following process."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s102",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a certificate does not support revocation status, or the certificate issuer did not provide a method to query its revocation status, the validator shall treat the credential as not revoked."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s103",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the claim generator \"stapled\" OCSP responses in the rVals header of the COSE_Sign1 structure, the validator shall decode and validate the stapled OCSP responses as described in Section 14.9.1, “Determining revocation through OCSP responses in the C2PA Manifest Store”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s104",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If subsequent claim generators added certificate status assertions in other C2PA Manifests in the C2PA Manifest Store, the validator shall use those OCSP response(s) in the validation process described in Section 14.9.1, “Determining revocation through OCSP responses in the C2PA Manifest Store”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s105",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If more than one OCSP response for the certificate is found, the validator shall try each one until one successfully passes validation (and then should ignore the others)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s106",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Determining revocation through OCSP responses in the C2PA Manifest Store\nA validator shall decode OCSP responses per the requirements of RFC 6960, in particular requirements 1 through 4 of section 3.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s107",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the above conditions are met for any OCSP response in the C2PA Manifest Store, then the validator shall either issue a signingCredential.ocsp.notRevoked success code, indicating that the certificate is considered not revoked at the time of signing, or (for additional assurance) perform an online OCSP check as described in Section 14.9.2, “Determining revocation from online OCSP response”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s108",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Otherwise, if an OCSP response in the C2PA Manifest Store meets all of the above conditions except that the certStatus field is revoked, the certificate shall be considered revoked and the claim shall be rejected with a signingCredential.ocsp.revoked failure code.\n14.9.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s109",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the validator chooses not to perform an online OCSP check, it shall issue a signingCredential.ocsp.skipped informational code."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s110",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the validator attempts to query the OCSP responder but is unable to receive a response, the validator shall issue a signingCredential.ocsp.inaccessible informational code."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s111",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a response is received and accepted per the requirements 1 - 4 of RFC 6960, section 3.2, it shall establish the signer’s certificate was not revoked at the time of signing if either of the following requirements is fulfilled:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s112",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the certStatus field of the response is revoked but with a revocationReason that is not removeFromCRL, it shall establish the signer’s certificate was not revoked at the time of signing if both of the following requirements are met:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s113",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the above conditions are met, the certificate shall be considered not revoked at the time of signing, and the validator shall issue a signingCredential.ocsp.notRevoked success code."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s114",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the certStatus field of the response is unknown, a signingCredential.ocsp.unknown informational code shall be recorded."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s115",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Else, the certificate shall be considered revoked and the claim shall be rejected with a signingCredential.ocsp.revoked failure code.\n14.10."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s116",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A validator shall check for required and not-permitted assertions.\n14.10.1.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s117",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If no such assertion is present, the manifest shall be rejected with a failure code of claim.hardBindings.missing."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s118",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If there is more than one such assertion, the manifest shall be rejected with a failure code of assertion.multipleHardBindings."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s119",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If there is more than one, the manifest shall be rejected with a failure code of manifest.multipleParents."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s120",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If there is none, the manifest shall be rejected with a failure code of claim.actions.missing."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s121",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If none is present, or if more than one is present, the manifest shall be rejected with a failure code of assertion.action.malformed.\n14.10.1.3."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s122",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If there is not (i.e., either it is missing, there are more than one, or the value of relationship is not parentOf), the manifest shall be rejected with a failure code of manifest.update.wrongParents."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s123",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If there are, the manifest shall be rejected with a failure code of manifest.update.invalid."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s124",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If there are, the manifest shall be rejected with a failure code of manifest.update.invalid."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s125",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it is not, the manifest shall be rejected with a failure code of manifest.update.invalid.\n14.10.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s126",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Preparing the list of redacted assertions\nA validator, when processing a claim, shall gather the set of redacted assertions for each ingredient’s manifest (if present) based on each JUMBF URI listed in its redacted_assertions field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s127",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A claim’s redacted_assertions field shall never include a JUMBF URI to any of its own assertions."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s128",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A validator shall accept either representation as a validly redacted assertion, as described in Section 14.10.4, “Assertion Validation”.\n14.10.4."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s129",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For each assertion, the validator shall first determine if the URI reference in the url field is in the list of redacted assertions."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s130",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it is in the list of redacted assertions, then if the assertion’s label is c2pa.actions or c2pa.actions.v2, the claim shall be rejected with a failure code of assertion.action.redacted."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s131",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the URI does not refer to a location within the same C2PA Manifest (a self#jumbf location), the claim shall be rejected with a failure code of assertion.outsideManifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s132",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the URI cannot be resolved and the data retrieved, the claim shall be rejected with a failure code of assertion.missing."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s133",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If they do not match, the claim shall be rejected with a failure code of assertion.hashedURI.mismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s134",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Otherwise, a success code of assertion.hashedURI.match shall be recorded."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s135",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the content of a standard assertion is not well-formed CBOR or is non-conforming JSON, the claim shall be rejected with a failure code of assertion.cbor.invalid or assertion.json.invalid."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s136",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If an assertion that is present in the assertion store is not referenced by an element of either the created_assertions or gathered_assertions arrays in the claim (or the assertions array in the v1 claim), the claim shall be rejected with a failure code of assertion.undeclared."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s137",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For each URI in the claim’s redacted_assertions array, if the URI points into the claim’s own manifest, the claim shall be rejected with a failure code of assertion.selfRedacted."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s138",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For those assertions that support assertion metadata (via a metadata field), if the metadata field is present, the validator shall not perform any validation on the contents of that structure, except for the following check: if both processStart and processEnd are present, validate that the time value represented by processStart is less than or equal to the time value represented by processEnd."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s139",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If not, the claim shall be rejected with a failure code of assertion.metadata.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s140",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Specific Assertion Validation\nFor each assertion, the validator shall check the assertion’s label and if it is listed below, the validator shall perform the specific validation steps for that assertion type."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s141",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the value of any field of a standard assertion is a hashed_uri or hashed_ext_uri, the validator shall perform the steps described in Section 14.10.4.3, “Validation of References”, except for the activeManifest field in c2pa.ingredient.v3 and the entries of the externalResources array in c2pa.linked-resource-integrity, for which special validation behavior is specified in Section 14.11.3, “Ingredient Assertion Validation” and Section 14.10.4.2.3, “c2pa.linked-resource-integrity validation” respectively.\n14.10.4.2.1. c2pa.cloud-data validation\nIf the assertion’s label is c2pa.cloud-data:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s142",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If any of those fields are missing, the claim shall be rejected with a failure code of assertion.cloud-data.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s143",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the label field of the external assertion is any of the following values, the claim shall be rejected with a failure code of assertion.cloud-data.hardBinding.\nc2pa.hash.bmff.v2 (deprecated)\nc2pa.hash.bmff.v3\nc2pa.hash.boxes\nc2pa.hash.collection.data\nc2pa.hash.data\nc2pa.hash.multi-asset\nc2pa.hash.segment\nIf the manifest is an update manifest and the label field of the external assertion is c2pa.actions or c2pa.actions.v2, the claim shall be rejected with a failure code of assertion.cloud-data.actions."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s144",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the label field of the external assertion is any of the following values, the claim shall be rejected with a failure code of assertion.cloud-data.malformed.\nc2pa.actions (deprecated)\nc2pa.actions.v2\nc2pa.cloud-data\nc2pa.ingredient (deprecated)\nc2pa.ingredient.v2 (deprecated)\nc2pa.ingredient.v3\nThe location field shall be validated according to Section 14.10.5.2, “Validation of External References”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s145",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the data for the external assertion is retrieved (from the specified location), the label of the JUMBF box retrieved from that location shall match the value of the label field in the c2pa.cloud-data assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s146",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it does not, the claim shall be rejected with a failure code of assertion.cloud-data.labelMismatch.\n14.10.4.2.2. c2pa.external-reference validation\nIf the assertion’s label is c2pa.external-reference:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s147",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it is missing, the claim shall be rejected with a failure code of assertion.external-reference.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s148",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the location field contains one of alg or hash but not both, the claim shall be rejected with a failure code of assertion.external-reference.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s149",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the location field contains both alg and hash (hashed variant) and the data is retrieved from the URI in the location field, the validator shall compute the hash of the retrieved data and compare it against the hash in the location field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s150",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If they do not match, the validator shall report a failure code of assertion.external-reference.hashMismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s151",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the label field is present and its value is any of the following, the claim shall be rejected with a failure code of assertion.external-reference.malformed:\nc2pa.actions (deprecated)\nc2pa.actions.v2\nc2pa.cloud-data\nc2pa.external-reference\nc2pa.hash.bmff.v2 (deprecated)\nc2pa.hash.bmff.v3\nc2pa.hash.boxes\nc2pa.hash.collection.data\nc2pa.hash.data\nc2pa.hash.multi-asset\nc2pa.hash.segment\nc2pa.ingredient (deprecated)\nc2pa.ingredient.v2 (deprecated)\nc2pa.ingredient.v3\nIf the label field is present and the data is retrieved from the URI in the location field, the label of the retrieved JUMBF box shall match the value of the label field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s152",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it does not, the validator shall report a failure code of assertion.external-reference.labelMismatch.\n14.10.4.2.3. c2pa.linked-resource-integrity validation\nIf the assertion’s label is c2pa.linked-resource-integrity:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s153",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it does not, the claim shall be rejected with a failure code of assertion.linkedResourceIntegrity.notCreated."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s154",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the resources field is missing or matches neither of these shapes, the claim shall be rejected with a failure code of assertion.linkedResourceIntegrity.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s155",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Every success, informational, or failure code reported under this procedure for a specific entry in the externalResources or relativeResources array shall include a resourceUrl field in its status result, set to the value of that entry’s url or uri field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s156",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For each well-formed entry in the externalResources or relativeResources array, the validator shall report exactly one terminal code for that entry, as determined by the steps below: an informational code of assertion.linkedResourceIntegrity.skipped if a validator does not attempt to retrieve its data; otherwise, if a validator attempts to retrieve its data, exactly one of a success code of assertion.linkedResourceIntegrity.match, or an informational code of assertion.linkedResourceIntegrity.inaccessible, assertion.linkedResourceIntegrity.sizeMismatch, assertion.linkedResourceIntegrity.formatMismatch, or assertion.linkedResourceIntegrity.hashMismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s157",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "None of these codes, when reported under this procedure, shall cause the claim to be rejected."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s158",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If any are missing, the claim shall be rejected with a failure code of assertion.linkedResourceIntegrity.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s159",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For each entry in the externalResources array whose data a validator chooses to retrieve, the validator shall perform the resolution, size-comparison, content-type-comparison, algorithm-determination, and hash-comparison steps described in Section 14.10.5.2, “Validation of External References”, except that:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s160",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the URI cannot be resolved or the data otherwise cannot be obtained, including when the validator aborts the attempt by applying a countermeasure described in Section 14.10.5.3, “Retrieval Security”, the validator shall report an informational code of assertion.linkedResourceIntegrity.inaccessible as the terminal code for that entry."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s161",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the size-comparison step would return a failure code of assertion.hashedURI.mismatch, the validator shall instead report an informational code of assertion.linkedResourceIntegrity.sizeMismatch for that entry."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s162",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the content-type-comparison step would return a failure code of assertion.hashedURI.mismatch, the validator shall instead report an informational code of assertion.linkedResourceIntegrity.formatMismatch for that entry."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s163",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the hash-comparison step would return a failure code of assertion.hashedURI.mismatch, the validator shall instead report an informational code of assertion.linkedResourceIntegrity.hashMismatch for that entry."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s164",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Otherwise, the validator shall report a success code of assertion.linkedResourceIntegrity.match for that entry."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s165",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If either is missing, the claim shall be rejected with a failure code of assertion.linkedResourceIntegrity.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s166",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The shared alg field shall be validated as described in Section 14.4.4, “Algorithm validation”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s167",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it is not present in either the allowed list or the deprecated list, the claim shall be rejected with a failure code of algorithm.unsupported."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s168",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it is present in the deprecated list, the validator shall report an informational code of algorithm.deprecated."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s169",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Before use, a validator shall percent-decode the value of each entry’s uri field and validate the decoded URI, ensuring that no path segment of the decoded URI (i.e., a substring delimited by /) is exactly ..."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s170",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If this is found, the manifest shall be rejected with a failure code of assertion.linkedResourceIntegrity.invalidURI."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s171",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the URI cannot be resolved or the data otherwise cannot be obtained, the validator shall report an informational code of assertion.linkedResourceIntegrity.inaccessible for that entry."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s172",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the size field is present and the size of the retrieved data does not equal its value, the validator shall report an informational code of assertion.linkedResourceIntegrity.sizeMismatch for that entry."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s173",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the dc:format field is present and the media type of the retrieved data does not match its value, the validator shall report an informational code of assertion.linkedResourceIntegrity.formatMismatch for that entry."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s174",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Otherwise, the hash of the retrieved data shall be computed using the determined algorithm over the decoded content of the resource, after any transfer or content encoding has been removed but before any character decoding, parsing, normalization, or other transformation."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s175",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the resultant hash does not match the value of the hash field, the validator shall report an informational code of assertion.linkedResourceIntegrity.hashMismatch for that entry."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s176",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Otherwise, the validator shall report a success code of assertion.linkedResourceIntegrity.match for that entry.\n14.10.4.2.4. c2pa.actions validation\nIf the assertion’s label is c2pa.actions or c2pa.actions.v2:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s178",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If not, the claim shall be rejected with a failure code of assertion.action.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s179",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the assertion’s label is c2pa.actions.v2 and when is present together with whenStart or whenEnd, the claim shall be rejected with a failure code of assertion.action.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s180",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If not, the claim shall be rejected with a failure code of assertion.action.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s181",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the action field is either c2pa.created or c2pa.opened, then the claim shall be rejected with a failure code of assertion.action.malformed unless all of the following are true:\nthe assertion is the first actions assertion in the created_assertions or gathered_assertions array (of a v2 claim), or the first actions assertion in the assertions array of a v1 claim, and\nthe action is the first element in the actions array in this assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s182",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the action has no parameters field, or that field’s value is empty, the claim shall be rejected with a failure code of assertion.action.ingredientMismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s183",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the action’s parameters field contains no ingredients field (or ingredient field for c2pa.actions), the claim shall be rejected with a failure code of assertion.action.ingredientMismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s184",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the value of the ingredients field is not an array with at least one element, the claim shall be rejected with a failure code of assertion.action.ingredientMismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s185",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If not, then the claim shall be rejected with a failure code of assertion.action.ingredientMismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s186",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If not, then the claim shall be rejected with a failure code of assertion.action.ingredientMismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s187",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If not, then an informational code of assertion.action.ingredientLocationMismatch shall be returned."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s188",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If not, then the claim shall be rejected with a failure code of assertion.action.ingredientMismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s189",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If not, then the claim shall be rejected with a failure code of assertion.action.ingredientMismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s190",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If not, then the claim shall be rejected with a failure code of assertion.action.ingredientMismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s191",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the JUMBF URI is not present, or cannot be resolved to an assertion, the claim shall be rejected with a failure code of assertion.action.redactionMismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s192",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If there is an icon field in the generator-info-map, then it shall be validated as described in Section 14.10.4.3, “Validation of References”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s193",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the value of relatedAssertions is not an array with at least one element, the claim shall be rejected with a failure code of assertion.action.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s194",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the referenced assertion cannot be resolved, or does not resolve to an assertion (which may or may not be redacted) within the current manifest, the claim shall be rejected with a failure code of assertion.action.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s195",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the referenced assertion is of type c2pa.ingredient, c2pa.ingredient.v2, c2pa.ingredient.v3, c2pa.actions, or c2pa.actions.v2, the claim shall be rejected with a failure code of assertion.action.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s196",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the referenced assertion has been redacted (it can be found in the list of redacted assertions), the informational code assertion.redacted shall be recorded."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s197",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If there is not, the claim shall be rejected with a failure code of assertion.action.softBindingMissing."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s198",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If there is an icon field in the action-template-map-v2, then it shall be validated as described in Section 14.10.4.3, “Validation of References”.\n14.10.4.2.5. c2pa.metadata validation\nNo assertion-specific validation is required for c2pa.metadata."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s199",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "While generators are still required to limit provided metadata to this set of fields, validators should not reject assertions containing unlisted fields, to support forward compatibility as the allowed list evolves.\n14.10.4.2.6. c2pa.session-keys validation\nIf the assertion’s label is c2pa.session-keys, the validator shall ensure that the signerBinding signature is correct (which indicates that the session key private key is known to the Signer)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s200",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Session keys are only valid if the signerBinding signature is successfully validated.\n14.10.4.2.7. c2pa.time-stamp validation\nIf the assertion’s label is c2pa.time-stamp, the validator shall ensure that the assertion is well-formed CBOR consisting of a single map (Major type 5) with at least one key/value pair."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s201",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If this is not the case, the claim shall be rejected with a failure code of assertion.timestamp.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s202",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Since validation of the time stamp token is performed as described in Section 14.8.2, “Validating the TimeStampToken”, the validator needs to store the time stamp token (and its associated C2PA Manifest identifier) for later use.\n14.10.4.2.8. c2pa.alternative-content-representation validation\nIf the assertion’s label is c2pa.alternative-content-representation, a validator shall perform the following steps:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s203",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the type field is exif.originalPreservationImage, the validator shall proceed to the original preservation image representation validation defined in original-preservation-image-representation validation.\noriginal-preservation-image-representation validation\nCheck that no more than one c2pa.alternative-content-representation assertion where the type field is exif.originalPreservationImage is present in the active manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s204",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If more than one is found, the active manifest shall be rejected with a failure code of assertion.alternativeContentRepresentation.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s205",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If both fields are present, or neither is present, the assertion shall be rejected with a failure code of assertion.alternativeContentRepresentation.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s206",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the active manifest does not include a c2pa.hash.multi-asset assertion, the assertion shall be rejected with a failure code of assertion.alternativeContentRepresentation.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s207",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The multiAssetPartIndex field shall be a valid zero-based index for an element within the parts array of the located c2pa.hash.multi-asset assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s208",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the index is out of bounds (i.e., greater than or equal to the total length of the parts array), the assertion shall be rejected with a failure code of assertion.alternativeContentRepresentation.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s209",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The embeddedOriginalPreservationImage field shall be a hashed-uri-map structure, and its hash field shall be present."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s210",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If this hash field is missing, the assertion shall be rejected with a failure code of assertion.alternativeContentRepresentation.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s211",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the computed hash does not match the hash value provided in the embeddedOriginalPreservationImage field, the assertion shall be rejected with a failure code of assertion.alternativeContentRepresentation.hashMismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s212",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If no failure codes are encountered during the validation of the c2pa.alternative-content-representation assertion, a success code of assertion.alternativeContentRepresentation.match shall be recorded.\n14.10.4.3."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s213",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For all hashed_uri and hashed_ext_uri fields in standard assertions, except for the activeManifest field in c2pa.ingredient.v3 (for which special validation behaviour is specified in Section 14.11.3, “Ingredient Assertion Validation”) and the entries of the externalResources array in c2pa.linked-resource-integrity (for which special validation behaviour is specified in Section 14.10.4.2.3, “c2pa.linked-resource-integrity validation”), the validator shall perform the following validation:\n."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s214",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For a hashed_ext_uri whose resource the validator chooses to retrieve, the validator shall perform the steps described in Section 14.10.5.2, “Validation of External References”.\n."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s215",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For a hashed_uri, the validator shall perform the steps described below."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s216",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the field is not present or the destination cannot be located (i.e., that data isn’t present where it is supposed to be) then it shall be treated as a validation failure with code hashedURI.missing."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s217",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it is not, the claim shall be rejected with a failure code of hashedURI.mismatch.\n."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s218",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If they do not match, the claim shall be rejected with a failure code of hashedURI.mismatch.\n14.10.5."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s219",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A validator shall first successfully validate a claim before attempting to retrieve the external data referenced."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s220",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A validator shall not attempt to retrieve external data from a rejected claim."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s221",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As the retrieval of external data is optional, the inability to retrieve or validate external data shall not cause a claim to be rejected."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s222",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a validator chooses to retrieve any of the external data in a cloud data or hashed external reference assertion, the validator shall perform the steps described in Section 14.10.5.2, “Validation of External References”, and may apply the countermeasures described in Section 14.10.5.3, “Retrieval Security”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s223",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If successful, retrieved externally hosted assertions (identified by a label field) shall be validated as if the same assertion were embedded.\n14.10.5.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s224",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Validation of External References\nThe following procedure shall be used to validate the external data referenced in a cloud data or hashed external reference assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s225",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the url field is not present, the validator aborts the attempt by applying a countermeasure described in Section 14.10.5.3, “Retrieval Security”, or the URI otherwise cannot be resolved and the data retrieved, the validator shall abort the attempt to retrieve the external data and shall not perform the remaining steps."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s226",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the length of the retrieved representation is not equal to the value of the size field, the validator shall return a failure code of assertion.hashedURI.mismatch to the application and not provide the retrieved data."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s227",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If they do not match, the validator shall return a failure code of assertion.hashedURI.mismatch to the application and not provide the retrieved data."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s228",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For a cloud data assertion, if the dc:format field is not present in its location field, the media type shall default to application/jumbf."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s229",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The content_type field in the cloud data assertion, if present, shall be ignored."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s230",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the hash field is not present or they do not match, the validator shall return a failure code of assertion.hashedURI.mismatch to the application and not provide the retrieved data."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s231",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Otherwise, the validator shall record a success code of assertion.hashedURI.match and provide the retrieved data to the application.\n14.10.5.3."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s232",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Declared size comparison, media type validation, and hash computation shall all be performed against this same representation.\n14.10.5.3.6."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s233",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Explanation\nA validator shall perform the validation steps for the asset being presented and its active manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s234",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If any of the steps conclude the active manifest is invalid, that manifest shall be rejected with the indicated failure code."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s235",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Standard Manifests in an ingredient\nWhen processing a standard manifest, a validator shall validate each ingredient (regardless of the value of its relationship field), as described below.\n14.11.2.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s236",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Update Manifests in an ingredient\nFor update manifests, the parentOf ingredient of the update manifest shall be validated as described below.\n14.11.2.3."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p12/s237",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any time stamp manifests found in an ingredient shall be ignored.\n14.11.3."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s1",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Performing explicit validation\nIf the relationship field is not present in an ingredient assertion, the assertion shall be rejected with a failure code of assertion.ingredient.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s2",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The value of the relationship field shall be one of the following: parentOf, inputTo, or componentOf."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s3",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the value of the relationship field is not one of these, the assertion shall be rejected with a failure code of assertion.ingredient.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s4",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If both an activeManifest and a digitalSourceType field are present, the assertion shall be rejected with a failure code of assertion.ingredient.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s5",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the value of relatedAssertions is not an array with at least one element, the assertion shall be rejected with a failure code of assertion.ingredient.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s6",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the referenced assertion cannot be resolved, or does not resolve to an assertion (which may or may not be redacted) within the same C2PA Manifest as the ingredient assertion, the assertion shall be rejected with a failure code of assertion.ingredient.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s7",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the referenced assertion is of type c2pa.ingredient, c2pa.ingredient.v2, c2pa.ingredient.v3, c2pa.actions, or c2pa.actions.v2, the assertion shall be rejected with a failure code of assertion.ingredient.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s8",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the referenced assertion’s label, disregarding any multiple-instance suffix, does not end with .ingredient, the assertion shall be rejected with a failure code of assertion.ingredient.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s9",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the referenced assertion has been redacted (it can be found in the list of redacted assertions), the informational code assertion.redacted shall be recorded.\n14.11.3.3."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s10",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Performing recursive validation\nThe validator shall recursively validate all ingredient manifests in the asset, for example using a depth-first search as described below."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s11",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A validator need not implement the algorithm exactly as described, but the results of the validation shall be equivalent to the results of this algorithm."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s12",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Having compiled a list of all ingredient manifests and a list of all redacted assertions, the validator shall perform the following validation algorithm:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s13",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For each URI in the list of redacted assertions with a matching manifest label, if the referenced assertion is present and any JUMBF Content box or padding box within it contains anything other than zero or more 0x00 bytes (see Section 14.10.3, “Redacted Assertion Representation”), the claim shall be rejected with a failure code of assertion.notRedacted."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s14",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When using the claim signature hash validation method, the validator shall not record hash mismatch failure codes for the activeManifest field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s15",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Validate the Asset’s Content\nThe asset’s content shall be validated using the hard binding in the active manifest if the active manifest is a standard manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s16",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the active manifest is an update manifest, the hard binding shall be found in the parentOf ingredient’s manifest, or if that manifest is also an update manifest, by following the chain of parentOf ingredients to the first standard manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s17",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If no standard manifest is found, or the standard manifest has no hard binding in created_assertions, then the active manifest’s claim shall be rejected with a failure code of claim.hardBindings.missing."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s18",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "General\nOnce a standard manifest (and its bindings) has been located, the exclusion range(s) shall be extracted from the c2pa.hash.data assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s19",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the ending byte offset of one exclusion range (start + length) is greater than the starting byte offset of the next exclusion range in the array, or a start or length value is negative, then the manifest shall be rejected with a failure code of assertion.dataHash.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s20",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If any update manifests were encountered then the length value of the exclusion range whose start value is the offset of the start of the entire C2PA Manifest Store shall be treated as the current length of the entire C2PA Manifest Store plus any file format specific extras."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s21",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any other exclusion ranges that occur after this C2PA exclusion range must be modified to reflect the fact that all content after the C2PA Manifest Store has been shifted; the start value of each subsequent exclusion range must be incremented by the adjustment value."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s22",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The hash shall be computed over the bytes of the asset, except for those specified in the exclusion range(s)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s23",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the end of an exclusion range falls beyond the end of the asset, then the manifest shall be rejected with a failure code of assertion.dataHash.mismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s24",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the hash algorithm specified in the alg field does not appear in the allowed or deprecated list in Section 12.1, “Hashing”, then the manifest shall be rejected with a failure code of algorithm.unsupported."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s25",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the hash field is not present, then the manifest shall be rejected with a failure code of assertion.dataHash.mismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s26",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "A validator shall ensure that the data contained within the exclusion range containing the C2PA Manifest Store consists of only the C2PA Manifest Store and any appropriate padding (e.g., zero’d data) in clearly marked pad fields or free/skip boxes."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s27",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a validator encounters any data other than what is permitted, then the manifest shall be rejected with a failure code of assertion.dataHash.mismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s28",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a validator encounters exclusion ranges other than for just the C2PA Manifest Store and appropriate padding (e.g., zero’d data), such as for all or part of the asset metadata (as described in Section 12.2.2.9, “Binding Non-C2PA Asset Metadata”), the informational code assertion.dataHash.additionalExclusionsPresent shall be issued."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s29",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The validator shall ignore the presence and contents of pad and pad2 fields."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s30",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If no error conditions were encountered, the validator shall add the success code assertion.dataHash.match to the list it eventually returns."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s31",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the hash computed over all the asset’s data (minus any exclusion ranges) does not match the value of the hash field in the c2pa.hash.data, then the validator shall look for presence of a multi-asset hash assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s32",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If one is present, it shall be validated as described in Section 14.12.4, “Validating a multi-asset hash”, but if one is not present, the manifest shall be rejected with a failure code of assertion.dataHash.mismatch.\n14.12.1.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s33",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Because the segment lengths are inside the exclusion range, a validator shall match the total length of the exclusion range with that of the total length of all APP11 segments representing the C2PA Manifest to ensure that the length was not tampered with."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s34",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Validating a text data hash\nFor assets consisting of unstructured text with an embedded C2PATextManifestWrapper, validators shall perform the following when validating a c2pa.hash.data hard binding:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s35",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When decoding a wrapper, a validator shall accept a decoded byte stream whose length is greater than or equal to manifestLength + 13 (the header size)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s36",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The manifest bytes are extracted using manifestLength; trailing bytes are padding and shall be ignored."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s37",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Hashing of Structured Text\nFor structured text assets, the data hash shall be computed over the raw bytes of the file with the manifest block excluded via the exclusion range in the data hash assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s38",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The validator shall follow the general data hash validation procedure defined in Section 12.2.2, “Hard Bindings”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s39",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Hashing of ONNX files\nFor ONNX files, the data hash shall be computed over the raw bytes of the serialized ModelProto with the Base64-encoded c2pa:manifest value bytes excluded via the exclusion range in the data hash assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s40",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The validator shall follow the general data hash validation procedure defined in Section 12.2.2, “Hard Bindings”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s41",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A validator shall verify that exactly one StringStringEntryProto entry with a key of c2pa:manifest exists in the ModelProto.metadata_props list."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s42",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If more than one such entry is encountered, the asset shall be treated as if no manifests were located."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s43",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The validator shall verify that the exclusion range corresponds to the byte offset and length of the Base64-encoded manifest value within the serialized file.\n14.12.1.6."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s44",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Hashing of SafeTensors files\nFor SafeTensors files, the data hash shall be computed over the raw bytes of the complete file (8-byte header length field + JSON header + tensor data) with the Base64-encoded c2pa:manifest value bytes excluded via the exclusion range in the data hash assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s45",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The validator shall follow the general data hash validation procedure defined in Section 12.2.2, “Hard Bindings”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s46",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A validator shall verify that exactly one c2pa:manifest key exists in the __metadata__ object of the JSON header."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s47",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If more than one such key is encountered, the asset shall be treated as if no manifests were located."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s48",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The validator shall verify that the 8-byte header length field is consistent with the actual byte length of the JSON header."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s49",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the header length field does not match the actual header byte length, the validator shall reject the asset with a failure code of assertion.dataHash.malformed.\n14.12.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s50",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Validating a BMFF-hash\nFor any portions of an asset rendered for presentation to a user, including but not limited to audio, video, or text, the corresponding hard binding corresponding to the rendered content shall be validated in accordance with Section 12.2.2, “Hard Bindings”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s51",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the standard hard binding does not validate, and a multi-asset hash assertion is present, it shall be validated as described in Section 14.12.4, “Validating a multi-asset hash”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s52",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If at any time content fails to be validated, the validator shall clearly signal to the user that some of the content does not match the claim, and if possible, should indicate what part of the content did not validate."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s53",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The validator shall continue to report validation has failed, even if later portions of the content validate correctly."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s54",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As the content becomes available, the validator shall validate each portion of the content before it is rendered as previously described."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s55",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In addition, the validator shall validate that the sequence of said content is the same as when the manifest was produced."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s56",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Unless the player has explicitly signalled the validator that a discontinuity is expected (e.g., when the consumer performs a manual seek operation via the UI), the validator shall clearly signal to the user that an unexpected discontinuity has occurred whenever the sequence does not match."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s57",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The desired blocks shall be fetched, validated and the tracks within them selected for rendering."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s58",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In this case, the validator shall clearly signal to the user that the content cannot be validated during the corresponding operation."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s59",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The BMFF hash of this manifest content shall be validated in accordance with Section 12.2.2, “Hard Bindings”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s60",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the bmff-hash-map does not contain an exclusions field or that field’s value is not of type array with at least one entry, then the manifest shall be rejected with a failure code of assertion.bmffHash.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s61",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the BMFF asset is fragmented and the bmff-hash-map contains both the hash and merkle fields, then the manifest shall be rejected with a failure code of assertion.bmffHash.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s62",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a validator encounters exclusion ranges other the required exclusions (as described in Section A.5.5, “Exclusion List Requirements”), free, or skip, the informational code assertion.bmffHash.additionalExclusionsPresent shall be issued."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s63",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The validator shall ignore the presence and contents of pad and pad2 fields."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s64",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the ending byte offset of one subset range (offset + length) is greater than the offset value of the next range in the array, or an offset or length value is negative, then the manifest shall be rejected with a failure code of assertion.bmffHash.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s65",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Otherwise, the validator shall add the success code assertion.bmffHash.match to the list it eventually returns."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s66",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the BMFF hashing process produces a assertion.bmffHash.mismatch failure code, then the validator shall look for presence of a multi-asset hash assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s67",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If one is present, the assertion.bmffHash.mismatch failure code shall not be issued, and instead the multi-asset hash assertion shall be validated as described in Section 14.12.4, “Validating a multi-asset hash”; otherwise, the manifest shall be rejected with a failure code of assertion.bmffHash.mismatch.\n14.12.2.1."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s68",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Non-fragmented asset using Merkle tree\nIf the bmff-hash-map.merkle field is present, the validator shall validate the Merkle tree."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s69",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the number of elements is not equal to count or sum of the values is not equal to size of payload of mdat, then the manifest shall be rejected with a failure code of assertion.bmffHash.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s70",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the merkle-map.fixedBlockSize and merkle-map.variableBlockSizes fields are present, then the manifest shall be rejected with a failure code of assertion.bmffHash.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s71",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If merkle-map.count is equal to the number of elements of merkle-map.hashes, and if the hash of a leaf node doesn’t match the corresponding element of merkle-map.hashes, then the manifest shall be rejected with a failure code of assertion.bmffHash.mismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s72",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If merkle-map.count is larger than the number of elements of merkle-map.hashes, and if the auxiliary uuid C2PA box doesn’t exist as described in Section A.5.3, “Auxiliary 'c2pa' Boxes for Large and Fragmented Files”, then the manifest shall be rejected with a failure code of assertion.bmffHash.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s73",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the hash calculated from the auxiliary uuid C2PA box and leaf node doesn’t match the corresponding element of merkle-map.hashes, then the manifest shall be rejected with a failure code of assertion.bmffHash.mismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s74",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If merkle-map.count is smaller than the number of calculated leaf nodes (either the number of auxiliary uuid C2PA boxes or the number of leaf node merkle-map.hashes), then the manifest shall be rejected with a failure code of assertion.bmffHash.malformed.\n14.12.2.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s75",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Fragmented asset using Merkle tree\nIf the bmff-hash-map.merkle field is present, the validator shall validate the Merkle tree."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s76",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the auxiliary uuid C2PA box doesn’t exist as described in Section A.5.3, “Auxiliary 'c2pa' Boxes for Large and Fragmented Files”, then the manifest shall be rejected with a failure code of assertion.bmffHash.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s77",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the hash calculated from the auxiliary uuid C2PA box and leaf node doesn’t match the corresponding element of merkle-map.hashes, then the manifest shall be rejected with a failure code of assertion.bmffHash.mismatch\n14.12.3."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s78",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Validating a general box hash\nOnce a standard manifest (and its bindings) has been located, the list of boxes to be validated shall be extracted from the boxes field of the box-map structure stored in the c2pa.hash.boxes assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s79",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If no such field is present, then the manifest shall be rejected with a failure code of assertion.boxesHash.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s80",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The boxes shall appear in the asset in the same order that they appear in the boxes array, including the box containing the C2PA Manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s81",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If there are any other boxes present in the asset, then the manifest shall be rejected with a failure code of assertion.boxesHash.unknownBox."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s82",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the boxes appear out of order, then the manifest shall be rejected with a failure code of assertion.boxesHash.mismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s83",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The hash algorithm for each box-hash-map shall be determined by its alg field, or if that is not present, by the alg field in the containing box-map, or if that is not present, by the alg field in the Claim."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s84",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the hash algorithm is not specified in any of these places, or does not appear in the allowed or deprecated list in Section 12.1, “Hashing”, then the manifest shall be rejected with a failure code of algorithm.unsupported."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s85",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the box indicated by boxIndex does not exist, the manifest shall be rejected with a failure code of assertion.boxesHash.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s86",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the ending byte offset of one exclusion range (start + length) is greater than the starting byte offset of the next exclusion range in the array, or a start or length value is negative, then the manifest shall be rejected with a failure code of assertion.boxesHash.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s87",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The validator shall ignore the presence and contents of pad and pad2 fields."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s88",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The hash shall be computed over the bytes of the asset, except for the ranges specified in the exclusions field and any boxes where excluded field is true."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s89",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the end of an exclusion range falls beyond the end of the box that contains the exclusion range, then the manifest shall be rejected with a failure code of assertion.boxesHash.mismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s90",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "For this reason a validator shall ensure that the data contained within the exclusion range including a C2PA Manifest Store consists only of the C2PA Manifest Store and appropriate padding (e.g., zero’d data) in clearly marked pad fields or free/skip boxes."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s91",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a validator encounters any data other than those permitted above, then the manifest shall be rejected with a failure code of assertion.boxesHash.mismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s92",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a validator encounters exclusion ranges other than that for the C2PA Manifest Store and appropriate padding (e.g., zero’d data) in clearly marked pad fields or free/skip boxes, an informational code assertion.boxesHash.additionalExclusionsPresent shall be set."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s93",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the hash value for any box does not match, and that box does not have an excluded field with a value of true, then the manifest shall be rejected with a failure code of assertion.boxesHash.mismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s94",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If any box-hash-map in the boxes array does not contain a names field, then the manifest shall be rejected with a failure code of assertion.boxesHash.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s95",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For each box listed in the names and boxes array, the specified hash algorithm shall be computed over the bytes of the box (along with any associated header)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s96",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If there are multiple entries in a names array, the hash value for that range of boxes shall be computed from the start of the first box (in the range) until the end of the last box (in the range)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s97",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the hash field is not present, or any resultant hash does not match the value of the hash field for those boxes, then the manifest shall be rejected with a failure code of assertion.boxesHash.mismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s98",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the box hashing process produces a assertion.boxesHash.mismatch failure code, then the validator shall look for presence of a multi-asset hash assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s99",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If one is present, it shall be validated as described in Section 14.12.4, “Validating a multi-asset hash”, but if one is not present, the manifest shall be rejected with a failure code of assertion.boxesHash.mismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s100",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Otherwise, the validator shall add the success code assertion.boxesHash.match to the list it eventually returns.\n14.12.3.1."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s101",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "JPEG 1 Special Handling\nWhen validating a JPEG 1 asset, a validator shall check that each box identified with the special C2PA box identifier is indeed an APP11 containing some or all of the C2PA Manifest Store."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s102",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If an APP11 that is not part of the C2PA Manifest Store is present and not included in the list of hashed boxes, then the manifest shall be rejected with a failure code of assertion.boxesHash.unknownBox.\n14.12.3.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s103",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The box containing the C2PA Manifest Store shall be identified with the special C2PA box identifier."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s104",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Font Special Handling\nWhen validating a font, a validator shall check that the box corresponding with the font’s C2PA table is present, and determine whether it contains an embedded manifest, a remote manifest URI or both."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s105",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If any font tables are present which are not covered by any box, then the manifest shall be rejected with a failure code of assertion.boxesHash.unknownBox.\n14.12.4."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s106",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Validating a multi-asset hash\nIf the standard validation of the hard binding in the standard manifest fails, and the standard manifest contains a multi-asset hash assertion in created_assertions, then the validator shall proceed to validate the multi-asset hash assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s107",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If more than one multi-asset hash assertion is present, then the manifest shall be rejected with a failure code of assertion.multiAssetHash.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s108",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Validation of the multi-asset hash assertion (c2pa.hash.multi-asset) shall be performed by iterating over the array of parts in the multi-asset-hash-map."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s109",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the parts field is not present, or it is present with a value that is an empty array, then the manifest shall be rejected with a failure code of assertion.multiAssetHash.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s110",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "For each part, the validator shall ensure that it contains both valid a locator and a valid hashAssertion field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s111",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If either of these are missing, then the manifest shall be rejected with a failure code of assertion.multiAssetHash.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s112",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "If the locator is a byte-offset-locator, then the validator shall ensure that the byteOffset and length fields are present and non-negative."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s113",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If these conditions are not met, then the manifest shall be rejected with a failure code of assertion.multiAssetHash.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s114",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "If the locator is a bmffBox, then the validator shall ensure that the specified box is present in the asset."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s115",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the box is not present, then the manifest shall be rejected with a failure code of assertion.multiAssetHash.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s116",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Given a valid locator and hash, the validator shall attempt to locate the part using the locator information."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s117",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it is not present, and the optional field is either not present or present with a value of false, then the manifest shall be rejected with a failure code of assertion.multiAssetHash.missingPart."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s118",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the optional field is present with a value of true, then the validator shall skip over this part and continue with the next part."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s119",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the located parts are overlapping or do not, in aggregate, cover every byte of the asset, then the manifest shall be rejected with a failure code of assertion.multiAssetHash.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s120",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For each located part, the validator shall compute the hash of the part using the specified algorithm & methodology (i.e., data hash, general box hash, or BMFF hash) over the bytes of the part."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s121",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any uses of absolute byte offsets in a part’s hash assertion (e.g., the start value in a data hash exclusion range) shall be interpreted relative to the beginning of that part."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s122",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the part is truncated (shorter than the length in the locator), or the resultant hash does not match the value present in the hard binding assertion referenced from the hashAssertion field, then the manifest shall be rejected with a failure code of assertion.multiAssetHash.mismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s123",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "If the hash assertion for each located part validates successfully, then the validator shall record the success code assertion.multiAssetHash.match and shall not record any failure codes associated with the asset’s hard binding.\n14.12.5."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s124",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "General\nValidation of a collection data hash assertion (c2pa.hash.collection.data) that has been located in a standard manifest shall be performed by iterating over the array of uris in the collection-data-hash-map."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s125",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If there is no uris field present, then the manifest shall be rejected with a failure code of assertion.collectionHash.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s126",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Once determined, hashing shall be processed as specified in Section 14.4.4, “Algorithm validation”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s127",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "For each uri-hashed-data-map in the uris array, the validator shall ensure that it contains both a uri and a hash field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s128",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If either of these fields are missing, then the manifest shall be rejected with a failure code of assertion.collectionHash.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s129",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In order to avoid any potential security concerns, a validator shall validate the URIs (i.e., the value of the uri field) before use, ensuring that neither . nor .. appear as part of the URI."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s130",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If either of these are found in a URI, the manifest shall be rejected with a failure code of assertion.collectionHash.invalidURI."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s131",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the asset retrieved from the URI, its hash shall be computing using the specified algorithm over all bytes of its data."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s132",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the resultant hash does not match the value of the hash field, then the manifest shall be rejected with a failure code of assertion.collectionHash.mismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s133",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Otherwise, the validator shall add the success code assertion.collectionHash.match to the list it eventually returns."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s134",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If there are any files listed in the collection data hash assertion that are not found by the validator, then the manifest shall be rejected with a failure code of assertion.collectionHash.incorrectFileCount.\n14.12.5.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s135",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When validating a ZIP file, the validator shall check that the zip_central_directory_hash field is present and that the hash of the ZIP Central Directory and \"end of central directory record\" matches its value."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s136",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the hash does not match, then the manifest shall be rejected with a failure code of assertion.collectionHash.mismatch.\n14.12.5.3."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s137",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "A validator shall reject the manifest with a failure code of assertion.collectionHash.mismatch if any two records in the file, other than the C2PA manifest record, share the same WARC-Record-ID."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s138",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "A validator shall then verify that the correspondence between the file’s remaining records and the entries of the uris array, formed by matching each entry’s uri field against a record’s WARC-Record-ID, is a bijection: every record corresponds to exactly one entry, and every entry corresponds to exactly one record."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s139",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "A record covered by no entry, an entry covered by no record, or any record or entry covered by more than one counterpart, shall be rejected with a failure code of assertion.collectionHash.mismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s140",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where a record is stored compressed, the validator shall decompress it before computing its hash."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s141",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "To bound the cost of decompressing untrusted input, the validator shall enforce an implementation-defined maximum decompressed record size, shall reject any record whose decompressed size exceeds that maximum, and shall reject any record whose decompressed block length does not equal its declared Content-Length."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s142",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A record failing either check shall be rejected with a failure code of assertion.collectionHash.mismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s143",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "General\nValidation of a segment hash assertion (c2pa.hash.segment) that has been located in a standard manifest, as described in Section 14.5.2.5, “Special Considerations for Append-Only Text Files”, shall be performed over the file read in binary mode."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s144",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the version field is absent, or contains a value that the validator does not recognise, then the manifest shall be rejected with a failure code of assertion.segmentHash.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s145",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the hash, segmentStart or segmentEnd field is absent, or segmentEnd is less than segmentStart, then the manifest shall be rejected with a failure code of assertion.segmentHash.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s146",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a predecessorSentinel field is present but does not contain all of the start, length and hash fields, then the manifest shall be rejected with a failure code of assertion.segmentHash.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s147",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the sentinelLength field is absent while the sentinel line carrying this manifest references the C2PA Manifest Store by an external URI, or is present while that sentinel line carries the C2PA Manifest Store inline, then the manifest shall be rejected with a failure code of assertion.segmentHash.malformed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s148",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Once determined, hashing shall be processed as specified in Section 14.4.4, “Algorithm validation”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s149",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The validator shall verify that the byte offset at which the sentinel line carrying this manifest begins is equal to the value of the segmentEnd field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s150",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it is not, then the manifest shall be rejected with a failure code of assertion.segmentHash.mismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s151",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The hash shall be computed over the bytes [segmentStart, segmentEnd) of the file."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s152",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the resultant hash does not match the value of the hash field, then the manifest shall be rejected with a failure code of assertion.segmentHash.mismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s153",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Otherwise, the validator shall add the success code assertion.segmentHash.match to the list it eventually returns.\n14.12.6.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s154",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Coverage of the asset\nThe checkpoints present in a file shall together cover every byte of it, so that content cannot be added, removed or replaced without a covering checkpoint."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s155",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the active checkpoint only, the validator shall verify that the sentinel line carrying its manifest ends at the end of the file, so that no content has been appended without a covering checkpoint."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s156",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The end boundary shall be determined as follows:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s157",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the end boundary is not equal to the length of the file, then the manifest shall be rejected with a failure code of assertion.segmentHash.partialCoverage."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s158",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For a checkpoint whose segment hash assertion contains no predecessorSentinel field, the validator shall verify that the value of the segmentStart field is 0, so that the segment covered by the first checkpoint begins at the start of the file."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s159",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it is not, then the manifest shall be rejected with a failure code of assertion.segmentHash.partialCoverage."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s160",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For every other checkpoint, the validator shall verify that the value of the segmentStart field is equal to predecessorSentinel.start plus predecessorSentinel.length, so that the segment covered by this checkpoint begins immediately after the sentinel line of the checkpoint that precedes it."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s161",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it is not, then the manifest shall be rejected with a failure code of assertion.segmentHash.partialCoverage."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s162",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Beginning with the active checkpoint, the validator shall, for each checkpoint whose segment hash assertion contains a predecessorSentinel field:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s163",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the resultant hash does not match the value of the predecessorSentinel.hash field, then the manifest shall be rejected with a failure code of assertion.segmentHash.predecessorMismatch."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s164",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the C2PA Manifest Store of a checkpoint other than the active checkpoint is stored at an external URI and cannot be retrieved, then the validator shall report manifest.inaccessible and shall treat the segments covered by that checkpoint and every earlier checkpoint as unverified."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-14/p13/s165",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The active checkpoint shall not be rejected on that basis alone."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-c2pa-spec-2026:section-14",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

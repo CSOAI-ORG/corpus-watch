@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-NIST-AI100-4-2024:3.1.1",
+ "label": "US-NIST-AI100-4-2024 3.1.1",
+ "instrument": "US-NIST-AI100-4-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7eb8a6e775b3e2d62f2ac3fcac4389e5821290cd02a21c9f50874b161b160d88",
+ "sha256_v1": "",
+ "sha256_v2": "7eb8a6e775b3e2d62f2ac3fcac4389e5821290cd02a21c9f50874b161b160d88",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 2,
+ "sha256_current": "7eb8a6e775b3e2d62f2ac3fcac4389e5821290cd02a21c9f50874b161b160d88",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-NIST-AI100-4-2024:3.1.1/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A\ncovert watermark must be detected by a watermark detector, which will have some\nnonzero probability of false positives and false negatives."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-NIST-AI100-4-2024:3.1.1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

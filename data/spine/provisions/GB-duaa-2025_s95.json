@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s95",
+ "label": "GB-duaa-2025 Section 95",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "dc353f2c7e68c0ac9e43a02f5c7028ebe269bc333bb27b7c3036fcabef76800d",
+ "sha256_v1": "",
+ "sha256_v2": "dc353f2c7e68c0ac9e43a02f5c7028ebe269bc333bb27b7c3036fcabef76800d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "dc353f2c7e68c0ac9e43a02f5c7028ebe269bc333bb27b7c3036fcabef76800d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s95/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Analysis of performance\nIn the 2018 Act, after section 139 insert—\nAnalysis of performance\n139A\n(1)\nThe Commissioner must prepare and publish an analysis of the Commissioner’s performance using key performance indicators."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s95/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(2)\nThe analysis must be prepared and published at least annually."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s95",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

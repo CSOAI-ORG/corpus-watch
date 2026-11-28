@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-42USC2000e-TitleVII-1964:s2000e-3",
+ "label": "US-42USC2000e-TitleVII-1964 42 U.S.C. 2000e-3",
+ "instrument": "US-42USC2000e-TitleVII-1964",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "f333f6e88825403a8f1db97805d0478e62ea0083fb48d5f46a3bdf9e363112d5",
+ "sha256_v1": "",
+ "sha256_v2": "f333f6e88825403a8f1db97805d0478e62ea0083fb48d5f46a3bdf9e363112d5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "f333f6e88825403a8f1db97805d0478e62ea0083fb48d5f46a3bdf9e363112d5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-42USC2000e-TitleVII-1964:s2000e-3/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Other unlawful employment practices\n(a) Discrimination for making charges, testifying, assisting, or participating in enforcement proceedings\nIt shall be an unlawful employment practice for an employer to discriminate against any of his employees or applicants for employment, for an employment agency, or joint labor-management committee controlling apprenticeship or other training or retraining, including on-the-job training programs, to discriminate against any individual, or for a labor organization to discriminate against any member thereof or applicant for membership, because he has opposed any practice made an unlawful employment practice by this subchapter, or because he has made a cha"
+  },
+  {
+   "obligation_id": "US-42USC2000e-TitleVII-1964:s2000e-3/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(b) Printing or publication of notices or advertisements indicating prohibited preference, limitation, specification, or discrimination; occupational qualification exception\nIt shall be an unlawful employment practice for an employer, labor organization, employment agency, or joint labor-management committee controlling apprenticeship or other training or retraining, including on-the-job training programs, to print or publish or cause to be printed or published any notice or advertisement relating to employment by such an employer or membership in or any classification or referral for employment by such a labor organization, or relating to any classification or referral for employment by suc"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-42USC2000e-TitleVII-1964:s2000e-3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

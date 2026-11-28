@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s52",
+ "label": "GB-dpa-2018 Section 52",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "b4868c318764b18decbacbb3ee4e59e693ccc2685502ed94ac8498dc5911afcc",
+ "sha256_v1": "",
+ "sha256_v2": "b4868c318764b18decbacbb3ee4e59e693ccc2685502ed94ac8498dc5911afcc",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "b4868c318764b18decbacbb3ee4e59e693ccc2685502ed94ac8498dc5911afcc",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s52/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Form of provision of information etc\n(1)\nThe controller must take reasonable steps to ensure that any information that is required by or under this Chapter to be provided to the data subject is provided in a concise, intelligible and easily accessible form, using clear and plain language."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s52/p0/s2",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "cooperate",
+   "status": "DRAFT",
+   "text": "(3)\nWhere information is provided in response to a request made by the data subject under or by virtue of any of sections 45, 46, 47, 50C or 50D, the controller must provide the information in the same form as the request where it is practicable to do so."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s52/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nSubject to section 53, any information that is required by or under this Chapter to be provided to the data subject must be provided free of charge."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s52/p0/s4",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\nThe controller must facilitate the exercise of the rights of the data subject arising under or by virtue of sections 45 to 50D."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s52",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

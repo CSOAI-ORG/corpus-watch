@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s136",
+ "label": "GB-dpa-2018 Section 136",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "255b2aeddac6a3da1804ca0804c3e7e808302606b12bae93bbd48d3dfebbb223",
+ "sha256_v1": "",
+ "sha256_v2": "255b2aeddac6a3da1804ca0804c3e7e808302606b12bae93bbd48d3dfebbb223",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "255b2aeddac6a3da1804ca0804c3e7e808302606b12bae93bbd48d3dfebbb223",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s136/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Guidance about fees\n(1)\nThe Commission must produce and publish guidance about the fees the Commission proposes to charge in accordance with—\n(a)\nsection 134 or 135, ..."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s136/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\nBefore publishing the guidance, the Commission must consult the Secretary of State."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s136",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "ES-ai-sandbox-rd-817-2023:3",
+ "label": "ES-ai-sandbox-rd-817-2023 Artículo 3",
+ "instrument": "ES-ai-sandbox-rd-817-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "a10412ef6932793431a3f1ddd0749d737ce5e220c89a0c2bc6fbc4f8aefa6eac",
+ "sha256_v1": "",
+ "sha256_v2": "a10412ef6932793431a3f1ddd0749d737ce5e220c89a0c2bc6fbc4f8aefa6eac",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "ES",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a10412ef6932793431a3f1ddd0749d737ce5e220c89a0c2bc6fbc4f8aefa6eac",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:3/s3",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "es:internal-record",
+   "status": "DRAFT",
+   "text": "Secretaría de Estado de Digitalización e Inteligencia Artificial.\n2. «Entorno controlado de pruebas o experiencia»: entorno o experiencia, con una duración determinada, que proporciona un contexto estructurado para el desarrollo de las actuaciones necesarias que posibiliten a proveedores y usuarios de los sistemas de inteligencia artificial de alto riesgo, sistemas de propósito general y modelos fundacionales que realicen las pruebas necesarias para la implementación de los requisitos establecidos en este real decreto, bajo la supervisión del órgano competente.\n3. «Sistema de inteligencia artificial»: sistema diseñado para funcionar con un cierto nivel de autonomía y que, basándose en datos "
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=ES-ai-sandbox-rd-817-2023:3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

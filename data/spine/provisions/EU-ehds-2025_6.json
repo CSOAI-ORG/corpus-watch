@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:6",
+ "label": "EU-ehds-2025 Article 6",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ebdb9f1086a6011e0ab642848b66ea55b48d0a487cef250b4abbe99b0ba2dd78",
+ "sha256_v1": "",
+ "sha256_v2": "ebdb9f1086a6011e0ab642848b66ea55b48d0a487cef250b4abbe99b0ba2dd78",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "ebdb9f1086a6011e0ab642848b66ea55b48d0a487cef250b4abbe99b0ba2dd78",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:6/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Right of natural persons to rectification\nElectronic health data access services referred to in Article 4 shall enable natural persons to easily request online the rectification of their personal electronic health data in accordance with Article 16 of Regulation (EU) 2016/679."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:6/p0/s2",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where appropriate, the controller shall verify with a relevant health professional the accuracy of the information provided in the request."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

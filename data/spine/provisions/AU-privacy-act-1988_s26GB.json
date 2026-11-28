@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s26GB",
+ "label": "AU-privacy-act-1988 Section 26GB",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8465bcb788a031f3ac39f0c6c2e4702d998b2afefa8c445bf91ed094be6e7206",
+ "sha256_v1": "",
+ "sha256_v2": "8465bcb788a031f3ac39f0c6c2e4702d998b2afefa8c445bf91ed094be6e7206",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "8465bcb788a031f3ac39f0c6c2e4702d998b2afefa8c445bf91ed094be6e7206",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s26GB/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\tspecify one or more matters that the code must deal with; and\n(b)\tspecify the APP entities, or a class of APP entities, that should be bound by the code."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s26GB/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Commissioner must develop and register code\n(4)\tThe Commissioner must develop and register a temporary APP code if the Minister has given the Commissioner a direction under subsection (1) to develop the code."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s26GB/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Matters covered by code\n(5)\tHowever, despite paragraph 26C(3)(b), the temporary APP code must not cover an act or practice that is exempt within the meaning of subsection 7B(1), (2) or (3)."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s26GB/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Period code is in force\n(7)\tThe period set out for the temporary APP code for the purposes of paragraph 26C(2)(c) must not be longer than 12 months."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s26GB",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

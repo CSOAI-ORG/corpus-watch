@@ -1,0 +1,92 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:53",
+ "label": "EU AI Act Art. 53",
+ "instrument": "EU AI Act",
+ "ladder": "RELATED_MEASURE",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "74c1adf00052f52b3de3b01ec66ecd47838d141b71fb5e0c2a8f3bcc5b423719",
+ "sha256_v1": "74c1adf00052f52b3de3b01ec66ecd47838d141b71fb5e0c2a8f3bcc5b423719",
+ "sha256_v2": "74c1adf00052f52b3de3b01ec66ecd47838d141b71fb5e0c2a8f3bcc5b423719",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "74c1adf00052f52b3de3b01ec66ecd47838d141b71fb5e0c2a8f3bcc5b423719",
+ "agent_register_kinds": [
+  "NONE",
+  "OBSERVED",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [
+  "openness"
+ ],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:53/p1/s1",
+   "paragraph": "1",
+   "addressee": "gpai_provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of general-purpose AI models shall:"
+  },
+  {
+   "obligation_id": "32024R1689:53/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "(a) draw up and keep up-to-date the technical documentation of the model, including its training and testing process and the results of its evaluation, which shall contain, at a minimum, the information set out in Annex XI for the purpose of providing it, upon request, to the AI Office and the national competent authorities;"
+  },
+  {
+   "obligation_id": "32024R1689:53/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Without prejudice to the need to observe and protect intellectual property rights and confidential business information or trade secrets in accordance with Union and national law, the information and documentation shall:"
+  },
+  {
+   "obligation_id": "32024R1689:53/p3/s1",
+   "paragraph": "3",
+   "addressee": "gpai_provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of general-purpose AI models shall cooperate as necessary with the Commission and the national competent authorities in the exercise of their competences and powers pursuant to this Regulation."
+  },
+  {
+   "obligation_id": "32024R1689:53/p4/s1",
+   "paragraph": "4",
+   "addressee": "gpai_provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of general-purpose AI models who do not adhere to an approved code of practice or do not comply with a European harmonised standard shall demonstrate alternative adequate means of compliance for assessment by the Commission."
+  },
+  {
+   "obligation_id": "32024R1689:53/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any information or documentation obtained pursuant to this Article, including trade secrets, shall be treated in accordance with the confidentiality obligations set out in Article 78."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:53",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

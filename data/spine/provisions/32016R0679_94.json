@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:94",
+ "label": "GDPR Art. 94",
+ "instrument": "GDPR",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "36fd06015f5f5f448ffb15d28b49e478c8543f1dc9f5ccd69cad1826df3a6817",
+ "sha256_v1": "36fd06015f5f5f448ffb15d28b49e478c8543f1dc9f5ccd69cad1826df3a6817",
+ "sha256_v2": "38f10243bb2f1c7bb1c66e2fda0877140d4e5f44e44041e0584f4b74e2ddc105",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "38f10243bb2f1c7bb1c66e2fda0877140d4e5f44e44041e0584f4b74e2ddc105",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:94/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 94 repeal",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:94",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

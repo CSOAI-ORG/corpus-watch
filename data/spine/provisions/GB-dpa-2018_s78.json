@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s78",
+ "label": "GB-dpa-2018 Section 78",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "11b83ff501730a8d0af4d0cf0dba0a09246087757c51c20f810126065c169d16",
+ "sha256_v1": "",
+ "sha256_v2": "11b83ff501730a8d0af4d0cf0dba0a09246087757c51c20f810126065c169d16",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "11b83ff501730a8d0af4d0cf0dba0a09246087757c51c20f810126065c169d16",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s78/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The transferring controller must make it a condition of the transfer —\n(a)\nthat the personal data is not to be further transferred to a third country or international organisation without the authorisation of the transferring controller or another competent authority (the “UK authoriser”), or\n(b)\nthat—\n(i)\nthe personal data is not to be so transferred without such authorisation except where subsection (1A) applies, and\n(ii)\nwhere a transfer is made without such authorisation, the UK authoriser must be informed without delay."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s78/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nIn deciding whether to give the authorisation, the UK authoriser must take into account (among any other relevant factors)—\n(a)\nthe seriousness of the circumstances leading to the request for authorisation,\n(b)\nthe purpose for which the personal data was originally transferred, and\n(c)\nthe standards for the protection of personal data that apply in the third country or international organisation to which the personal data would be transferred."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s78/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\nWhere a transfer is made in a case described in subsection (4) without the authorisation mentioned in that subsection (whether made with or without authorisation from the UK authoriser), the UK authoriser must, without delay, inform, the authority in the member State which would have been responsible for deciding whether to authorise the transfer ...."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s78/p0/s4",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(7)\nWhere a transfer takes place in reliance on section 73(4)(aa) (transfer to processor), the transferring controller must make it a condition of the transfer that the data is only to be further transferred to a third country or international organisation where—\n(a)\nthe terms of any relevant contract entered into, or authorisation given, by the transferring controller in accordance with section 59 are complied with, and\n(b)\nthe further transfer satisfies the requirements in section 73(1)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s78",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

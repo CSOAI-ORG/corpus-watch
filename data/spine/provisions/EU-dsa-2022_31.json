@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:31",
+ "label": "EU-dsa-2022 Article 31",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "65e1de148fd19548939c4b90804fb2caa0d2ea538ae1d37a4537ea0fcc6ad2f4",
+ "sha256_v1": "",
+ "sha256_v2": "65e1de148fd19548939c4b90804fb2caa0d2ea538ae1d37a4537ea0fcc6ad2f4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "65e1de148fd19548939c4b90804fb2caa0d2ea538ae1d37a4537ea0fcc6ad2f4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:31/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Providers of online platforms allowing consumers to conclude distance contracts with traders shall ensure that its online interface is designed and organised in a way that enables traders to comply with their obligations regarding pre-contractual information, compliance and product safety information under applicable Union law."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:31/p1/s2",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "In particular, the provider concerned shall ensure that its online interface enables traders to provide information on the name, address, telephone number and email address of the economic operator, as defined in Article 3, point (13), of Regulation (EU) 2019/1020 and other Union law."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:31/p2/s1",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Providers of online platforms allowing consumers to conclude distance contracts with traders shall ensure that its online interface is designed and organised in a way that it allows traders to provide at least the following:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:31/p3/s1",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of online platforms allowing consumers to conclude distance contracts with traders shall make best efforts to assess whether such traders have provided the information referred to in paragraphs 1 and 2 prior to allowing them to offer their products or services on those platforms."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:31/p3/s2",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "After allowing the trader to offer products or services on its online platform that allows consumers to conclude distance contracts with traders, the provider shall make reasonable efforts to randomly check in any official, freely accessible and machine-readable online database or online interface whether the products or services offered have been identified as illegal."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:31",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

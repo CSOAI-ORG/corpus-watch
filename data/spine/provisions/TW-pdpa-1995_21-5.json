@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "TW-pdpa-1995:21-5",
+ "label": "TW-pdpa-1995 Article 21-5",
+ "instrument": "TW-pdpa-1995",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "c0d361159cd9c1c783ae6fe04902cf8df64ac6a70dab4564c1b64c7c007eeba7",
+ "sha256_v1": "",
+ "sha256_v2": "c0d361159cd9c1c783ae6fe04902cf8df64ac6a70dab4564c1b64c7c007eeba7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "TW",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "c0d361159cd9c1c783ae6fe04902cf8df64ac6a70dab4564c1b64c7c007eeba7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "TW-pdpa-1995:21-5/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=TW-pdpa-1995:21-5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

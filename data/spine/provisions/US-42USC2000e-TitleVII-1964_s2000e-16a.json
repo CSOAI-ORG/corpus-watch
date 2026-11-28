@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-42USC2000e-TitleVII-1964:s2000e-16a",
+ "label": "US-42USC2000e-TitleVII-1964 42 U.S.C. 2000e-16a",
+ "instrument": "US-42USC2000e-TitleVII-1964",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "1d2036cf2519eca9e25678670ec78011e3403872265916284f4bb931ee3de2f6",
+ "sha256_v1": "",
+ "sha256_v2": "1d2036cf2519eca9e25678670ec78011e3403872265916284f4bb931ee3de2f6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "1d2036cf2519eca9e25678670ec78011e3403872265916284f4bb931ee3de2f6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-42USC2000e-TitleVII-1964:s2000e-16a/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-42USC2000e-TitleVII-1964:s2000e-16a",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

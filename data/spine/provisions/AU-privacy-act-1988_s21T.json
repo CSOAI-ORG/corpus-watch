@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s21T",
+ "label": "AU-privacy-act-1988 Section 21T",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "57f8f16b721d781d2c570d328ac2d3395c51d9dafc1872de4c74347be4e7077e",
+ "sha256_v1": "",
+ "sha256_v2": "57f8f16b721d781d2c570d328ac2d3395c51d9dafc1872de4c74347be4e7077e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "57f8f16b721d781d2c570d328ac2d3395c51d9dafc1872de4c74347be4e7077e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s21T/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "21T  Access to credit eligibility information\nAccess\n(1)\tIf a credit provider holds credit eligibility information about an individual, the provider must, on request by an access seeker in relation to the information, give the access seeker access to the information."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s21T/p0/s2",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Dealing with requests for access\n(3)\tThe credit provider must respond to the request within a reasonable period after the request is made."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s21T/p0/s3",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Means of access\n(4)\tIf the credit provider gives access to the credit eligibility information, the access must be given in the manner set out in the registered CR code."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s21T/p0/s4",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Access charges\n(5)\tIf the credit provider is an agency, the provider must not charge the access seeker for the making of the request or for giving access to the information."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s21T/p0/s5",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\tIf a credit provider is an organisation or small business operator, any charge by the provider for giving access to the information must not be excessive and must not apply to the making of the request."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s21T/p0/s6",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Refusal to give access\n(7)\tIf the provider refuses to give access to the information because of subsection (2), the provider must give the access seeker a written notice that:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s21T",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:113",
+ "label": "EU AI Act Art. 113",
+ "instrument": "EU AI Act",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "ff10f407c801f07e1e17b55e4b106a9db56337c19fc1c7bc5abf4b6d173f9c5b",
+ "sha256_v1": "ff10f407c801f07e1e17b55e4b106a9db56337c19fc1c7bc5abf4b6d173f9c5b",
+ "sha256_v2": "8b81f98d86802fdbf9b239740f08937d5b5abc7d123bc906f37cf95505da09bf",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": 85,
+ "sha256_current": "80bcd5784b35b4673583936ea484fedd6424cb5be98802b6ecb30cf131c148dc",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:113/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 113 entry into force",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:113",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

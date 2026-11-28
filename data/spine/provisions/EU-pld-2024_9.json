@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-pld-2024:9",
+ "label": "EU-pld-2024 Article 9",
+ "instrument": "EU-pld-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "2b8a4f4d3f3786bbc4c5fd48943cb17ab0e8994e302c11151455832cb53f39d6",
+ "sha256_v1": "",
+ "sha256_v2": "2b8a4f4d3f3786bbc4c5fd48943cb17ab0e8994e302c11151455832cb53f39d6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "2b8a4f4d3f3786bbc4c5fd48943cb17ab0e8994e302c11151455832cb53f39d6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-pld-2024:9/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that, at the request of a person who is claiming compensation in proceedings before a national court for damage caused by a defective product (the ‘claimant’) and who has presented facts and evidence sufficient to support the plausibility of the claim for compensation, the defendant is required to disclose relevant evidence that is at the defendant’s disposal, subject to the conditions set out in this Article."
+  },
+  {
+   "obligation_id": "EU-pld-2024:9/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that, at the request of a defendant that has presented facts and evidence sufficient to demonstrate the defendant’s need for evidence for the purposes of countering a claim for compensation, the claimant is required, in accordance with national law, to disclose relevant evidence that is at the claimant’s disposal."
+  },
+  {
+   "obligation_id": "EU-pld-2024:9/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that the disclosure of evidence pursuant to paragraphs 1 and 2, and in accordance with national law, is limited to what is necessary and proportionate."
+  },
+  {
+   "obligation_id": "EU-pld-2024:9/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that, when determining whether the disclosure of evidence requested by a party is necessary and proportionate, national courts consider the legitimate interests of all parties concerned, including third parties, in particular in relation to the protection of confidential information and trade secrets."
+  },
+  {
+   "obligation_id": "EU-pld-2024:9/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that, where a defendant is required to disclose information that is a trade secret or an alleged trade secret, national courts are empowered, upon a duly reasoned request of a party or on their own initiative, to take the specific measures necessary to preserve the confidentiality of that information when it is used or referred to in the course of or after the legal proceedings."
+  },
+  {
+   "obligation_id": "EU-pld-2024:9/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that, where a party is required to disclose evidence, national courts are empowered, upon a duly reasoned request of the opposing party or where the national court concerned deems it appropriate and in accordance with national law, to require such evidence to be presented in an easily accessible and easily understandable manner, if such presentation is deemed proportionate by the national court in terms of costs and effort for the required party."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-pld-2024:9",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

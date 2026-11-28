@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-ai-basic-act-2025:36",
+ "label": "KR-ai-basic-act-2025 제36조",
+ "instrument": "KR-ai-basic-act-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "bc461cb2fc0ef354adfb15490e65671c5fca88852fa7fac9987024b79d6b2d43",
+ "sha256_v1": "",
+ "sha256_v2": "bc461cb2fc0ef354adfb15490e65671c5fca88852fa7fac9987024b79d6b2d43",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "bc461cb2fc0ef354adfb15490e65671c5fca88852fa7fac9987024b79d6b2d43",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-ai-basic-act-2025:36/s1",
+   "paragraph": null,
+   "addressee": "authorised_representative",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ko:internal-record",
+   "status": "DRAFT",
+   "text": "제36조(국내대리인 지정) ① 국내에 주소 또는 영업소가 없는 인공지능사업자로서 이용자 수, 매출액 등이 대통령령으로 정하는 기준에 해당하는 자는 다음 각 호의 사항을 대리하는 자(이하 “국내대리인”이라 한다)를 서면으로 지정하고, 이를 과학기술정보통신부장관에게 신고하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-ai-basic-act-2025:36",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

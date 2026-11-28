@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022L2464:7",
+ "label": "CSRD Art. 7",
+ "instrument": "CSRD",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "aa9b1a60e313edc6ca98818965179247405e9e4489d0a30c44adef7dcd87d7ef",
+ "sha256_v1": "aa9b1a60e313edc6ca98818965179247405e9e4489d0a30c44adef7dcd87d7ef",
+ "sha256_v2": "aa9b1a60e313edc6ca98818965179247405e9e4489d0a30c44adef7dcd87d7ef",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "aa9b1a60e313edc6ca98818965179247405e9e4489d0a30c44adef7dcd87d7ef",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022L2464:7/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 7 entry into force",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022L2464:7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

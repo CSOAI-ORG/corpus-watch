@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "ES-aesia-statute-2023:9",
+ "label": "ES-aesia-statute-2023 Artículo 9",
+ "instrument": "ES-aesia-statute-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "f38fdde845798b3ebfeddf5ff95c618c70037f5c1a445509c2c703a0cd44babd",
+ "sha256_v1": "",
+ "sha256_v2": "f38fdde845798b3ebfeddf5ff95c618c70037f5c1a445509c2c703a0cd44babd",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "ES",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f38fdde845798b3ebfeddf5ff95c618c70037f5c1a445509c2c703a0cd44babd",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "ES-aesia-statute-2023:9/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "La Agencia dictará las normas internas necesarias para el cumplimiento de su objeto y para su funcionamiento, que podrán adoptar la forma de:\na) Resoluciones de la persona titular de la Presidencia de la Agencia.\nb) Resoluciones del Consejo Rector que deberán ser suscritas por su Presidente/a.\nc) Resoluciones, instrucciones, y protocolos de actuación de la persona titular de la Dirección de la Agencia.\n2."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=ES-aesia-statute-2023:9",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

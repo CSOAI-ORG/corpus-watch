@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-machinery-2023:41",
+ "label": "EU-machinery-2023 Article 41",
+ "instrument": "EU-machinery-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "9f7d645dfdca893e5da464441192c2274280e0c89a3c9b46921b7bebfd9e57dc",
+ "sha256_v1": "",
+ "sha256_v2": "9f7d645dfdca893e5da464441192c2274280e0c89a3c9b46921b7bebfd9e57dc",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9f7d645dfdca893e5da464441192c2274280e0c89a3c9b46921b7bebfd9e57dc",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-machinery-2023:41/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Exchange of experience\nThe Commission shall provide for the organisation of exchange of experience between the Member States’ national authorities responsible for notification policy."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-machinery-2023:41",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

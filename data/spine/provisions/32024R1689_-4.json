@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:-4",
+ "label": "EU AI Act Annex IV",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "63a4971caba2912a5a9f79d7ebabb64d7e46f5cbde2e1c233bd9ebfe8224de5c",
+ "sha256_v1": "63a4971caba2912a5a9f79d7ebabb64d7e46f5cbde2e1c233bd9ebfe8224de5c",
+ "sha256_v2": "63a4971caba2912a5a9f79d7ebabb64d7e46f5cbde2e1c233bd9ebfe8224de5c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "63a4971caba2912a5a9f79d7ebabb64d7e46f5cbde2e1c233bd9ebfe8224de5c",
+ "agent_register_kinds": [
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:-4/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "ANNEX IV Technical documentation referred to in Article 11(1) The technical documentation referred to in Article 11(1) shall contain at least the following information, as applicable to the relevant AI system:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:-4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

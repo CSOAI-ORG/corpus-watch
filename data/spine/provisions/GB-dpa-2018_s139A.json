@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s139A",
+ "label": "GB-dpa-2018 Section 139A",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "be476f2febfd113c5762a6131a16563f8233be013e3edd26d9759faf646c265d",
+ "sha256_v1": "",
+ "sha256_v2": "be476f2febfd113c5762a6131a16563f8233be013e3edd26d9759faf646c265d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "be476f2febfd113c5762a6131a16563f8233be013e3edd26d9759faf646c265d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s139A/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Analysis of performance\n(1)\nThe Commission must prepare and publish an analysis of the Commissioner’s performance using key performance indicators."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s139A/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(2)\nThe analysis must be prepared and published at least annually."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s139A",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

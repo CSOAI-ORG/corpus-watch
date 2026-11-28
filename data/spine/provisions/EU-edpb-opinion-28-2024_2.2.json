@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-edpb-opinion-28-2024:2.2",
+ "label": "EU-edpb-opinion-28-2024 section 2.2",
+ "instrument": "EU-edpb-opinion-28-2024",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "0ae5a6f9f83db06166ee434a060a7a647a7e6e89ea0e5b75f8ef38eedc0d68b8",
+ "sha256_v1": "",
+ "sha256_v2": "0ae5a6f9f83db06166ee434a060a7a647a7e6e89ea0e5b75f8ef38eedc0d68b8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "0ae5a6f9f83db06166ee434a060a7a647a7e6e89ea0e5b75f8ef38eedc0d68b8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-edpb-opinion-28-2024:2.2/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-edpb-opinion-28-2024:2.2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

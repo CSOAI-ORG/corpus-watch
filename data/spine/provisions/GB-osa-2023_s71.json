@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s71",
+ "label": "GB-osa-2023 Section 71",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3e130df9ffdc315d57434e7cb3c9d34f178f4ad60d1c0b731f2a484fe9c79381",
+ "sha256_v1": "",
+ "sha256_v2": "3e130df9ffdc315d57434e7cb3c9d34f178f4ad60d1c0b731f2a484fe9c79381",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "3e130df9ffdc315d57434e7cb3c9d34f178f4ad60d1c0b731f2a484fe9c79381",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s71/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Duty not to act against users except in accordance with terms of service\n(1)\nA provider of a Category 1 service must operate the service using proportionate systems and processes designed to ensure that the provider does not—\n(a)\ntake down regulated user-generated content from the service,\n(b)\nrestrict users’ access to regulated user-generated content, or\n(c)\nsuspend or ban users from using the service,\nexcept in accordance with the terms of service."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s71",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:31",
+ "label": "EU-ehds-2025 Article 31",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "1a6c00992fd769101384eb4ef2a88ce927261d4fc544770df14efbaa461fab8b",
+ "sha256_v1": "",
+ "sha256_v2": "1a6c00992fd769101384eb4ef2a88ce927261d4fc544770df14efbaa461fab8b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "1a6c00992fd769101384eb4ef2a88ce927261d4fc544770df14efbaa461fab8b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:31/p1/s1",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Prior to making an EHR system available on the Union market, a manufacturer of an EHR system established outside of the Union shall, by written mandate, appoint an authorised representative which is established in the Union."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:31/p2/s1",
+   "paragraph": "2",
+   "addressee": "authorised_representative",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An authorised representative shall perform the tasks specified in the mandate agreed with the manufacturer."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:31/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The mandate shall allow the authorised representative to do at least the following:"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:31/p3/s1",
+   "paragraph": "3",
+   "addressee": "authorised_representative",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the event of a change of the authorised representative, the detailed arrangements for such change shall address at least the following:"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:31/p4/s1",
+   "paragraph": "4",
+   "addressee": "authorised_representative",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the manufacturer is established outside the Union and has not complied with the obligations laid down in Article 30, the authorised representative shall be jointly and severally liable for non-compliance with this Regulation on the same basis as the manufacturer."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:31",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:96",
+ "label": "EU-mica-2023 Article 96",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "37b1cd713f992893d4bc92ab6dd8c4f396ece3fb430e0049f1b8462cf78a6dc0",
+ "sha256_v1": "",
+ "sha256_v2": "37b1cd713f992893d4bc92ab6dd8c4f396ece3fb430e0049f1b8462cf78a6dc0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "37b1cd713f992893d4bc92ab6dd8c4f396ece3fb430e0049f1b8462cf78a6dc0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:96/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "For the purposes of this Regulation, the competent authorities shall cooperate closely with ESMA in accordance with Regulation (EU) No 1095/2010 and with EBA in accordance with Regulation (EU) No 1093/2010."
+  },
+  {
+   "obligation_id": "EU-mica-2023:96/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "They shall exchange information in order to carry out their duties under this Chapter and Chapters 2 and 3 of this Title."
+  },
+  {
+   "obligation_id": "EU-mica-2023:96/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authorities shall without delay provide EBA and ESMA with all information necessary to perform their duties, in accordance with Article 35 of Regulation (EU) No 1093/2010 and Article 35 of Regulation (EU) No 1095/2010 respectively."
+  },
+  {
+   "obligation_id": "EU-mica-2023:96/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "ESMA, in close cooperation with EBA, shall develop draft implementing technical standards to establish standard forms, templates and procedures for the cooperation and exchange of information between competent authorities and EBA and ESMA."
+  },
+  {
+   "obligation_id": "EU-mica-2023:96/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "ESMA shall submit the draft implementing technical standards referred to in the first subparagraph to the Commission by 30 June 2024."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:96",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

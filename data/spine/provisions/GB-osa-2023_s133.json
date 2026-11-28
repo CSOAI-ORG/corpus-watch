@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s133",
+ "label": "GB-osa-2023 Section 133",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "429274697ff619240a7bf08c52f0e993876520cf1af5e96c276617d2c9c3811c",
+ "sha256_v1": "",
+ "sha256_v2": "429274697ff619240a7bf08c52f0e993876520cf1af5e96c276617d2c9c3811c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "429274697ff619240a7bf08c52f0e993876520cf1af5e96c276617d2c9c3811c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s133/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nA confirmation decision that includes requirements as described in subsection (1) must—\n(a)\nspecify the steps that are required,\n(b)\ngive OFCOM’s reasons for their decision to impose those requirements,\n(c)\nspecify which of those requirements (if any) have been designated as CSEA requirements (see subsections (6) and (7)),\n(ca)\nspecify which of those requirements (if any) have been designated as intimate image content requirements (see subsections (7A) and (7B)),\n(d)\nspecify each notified requirement to which the steps relate,\n(e)\nspecify the period during which the failure to comply with a notified requirement has occurred, and whether the failure is continuing,\n(f)\nspecify a reasonable"
+  },
+  {
+   "obligation_id": "GB-osa-2023:s133/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\nIf the condition in subsection (7) is met in relation to a requirement imposed by a confirmation decision which is of a kind described in subsection (1), OFCOM must designate the requirement as a “CSEA requirement” for the purposes of section 138(3) (offence of failure to comply with confirmation decision)."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s133/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(7A)\nIf the condition in subsection (7B) is met in relation to a requirement imposed by a confirmation decision which is of a kind described in subsection (1), OFCOM must designate the requirement as an “intimate image content requirement” for the purposes of section 138(3A) (offence of failure to comply with confirmation decision)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s133",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

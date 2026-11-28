@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s29",
+ "label": "AU-privacy-act-1988 Section 29",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "4d51f3af73bc8e067f370dc6d75c82d5c4e19a6b4920be3d1357dfc9efef6d14",
+ "sha256_v1": "",
+ "sha256_v2": "4d51f3af73bc8e067f370dc6d75c82d5c4e19a6b4920be3d1357dfc9efef6d14",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "4d51f3af73bc8e067f370dc6d75c82d5c4e19a6b4920be3d1357dfc9efef6d14",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s29/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "29  Commissioner must have due regard to the objects of the Act\nThe Commissioner must have due regard to the objects of this Act in performing the Commissioner’s functions, and exercising the Commissioner’s powers, conferred by this Act."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s29",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:98",
+ "label": "EU-mica-2023 Article 98",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "e9f049065b0663631ef1d52e13ba41604c2e8cf8ece0454491f380df5f814b58",
+ "sha256_v1": "",
+ "sha256_v2": "e9f049065b0663631ef1d52e13ba41604c2e8cf8ece0454491f380df5f814b58",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "e9f049065b0663631ef1d52e13ba41604c2e8cf8ece0454491f380df5f814b58",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:98/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Cooperation with other authorities\nWhere an offeror, person seeking admission to trading, an issuer of an asset-referenced token or e-money token or a crypto-asset service provider engages in activities other than those covered by this Regulation, the competent authorities shall cooperate with the authorities responsible for the supervision or oversight of such other activities pursuant to Union or national law, including tax authorities and relevant supervisory authorities of third countries."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:98",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

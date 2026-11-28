@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-equality-act-2010:s163",
+ "label": "GB-equality-act-2010 Section 163",
+ "instrument": "GB-equality-act-2010",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "52b81b483480fcb378171791b7cf9c8aa692d8ee048e8971aa22ea2f0c88d713",
+ "sha256_v1": "",
+ "sha256_v2": "52b81b483480fcb378171791b7cf9c8aa692d8ee048e8971aa22ea2f0c88d713",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "52b81b483480fcb378171791b7cf9c8aa692d8ee048e8971aa22ea2f0c88d713",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-equality-act-2010:s163/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Taxi licence conditional on compliance with taxi accessibility regulations\n(1)\nA licence for a taxi to ply for hire must not be granted unless the vehicle conforms with the provisions of taxi accessibility regulations with which a vehicle is required to conform if it is licensed."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-equality-act-2010:s163",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

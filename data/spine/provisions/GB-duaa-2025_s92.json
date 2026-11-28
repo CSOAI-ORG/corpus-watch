@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s92",
+ "label": "GB-duaa-2025 Section 92",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5fdf2d49b04c3775075fb5ff1ee800027fddcbe16705e1fbd54c535e69208eb5",
+ "sha256_v1": "",
+ "sha256_v2": "5fdf2d49b04c3775075fb5ff1ee800027fddcbe16705e1fbd54c535e69208eb5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "5fdf2d49b04c3775075fb5ff1ee800027fddcbe16705e1fbd54c535e69208eb5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s92/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\nAfter section 124 insert—\nOther codes of practice\n124A\n(1)\nThe Commissioner must prepare appropriate codes of practice giving guidance as to good practice in the processing of personal data if required to do so by regulations made by the Secretary of State."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s92/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nRegulations under this section—\n(a)\nmust describe the personal data or processing to which the code of practice is to relate, and\n(b)\nmay describe the persons or classes of person to whom it is to relate."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s92/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(4)\nBefore preparing a code or amendments under this section, the Commissioner must consult the Secretary of State and such of the following as the Commissioner considers appropriate—\n(a)\ntrade associations;"
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s92/p0/s4",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(3)\nIn section 125 (approval of codes prepared under sections 121 to 124)—\n(a)\nin the heading, for “124” substitute “124A”,\n(b)\nin subsection (1), for “or 124” substitute “, 124 or 124A”,\n(c)\nin subsection (3), for “or 124” substitute “, 124 or 124A”,\n(d)\nfor subsection (5) substitute—\n(5)\nIf the Commissioner is prevented by subsection (3) from issuing a code that is not a replacement code, the Commissioner must prepare another version of the code.\n, and\n(e)\nin subsection (9), for “or 124” substitute “, 124 or 124A”."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s92",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

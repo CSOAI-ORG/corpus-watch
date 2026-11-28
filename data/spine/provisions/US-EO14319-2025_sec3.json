@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14319-2025:sec3",
+ "label": "US-EO14319-2025 Section 3",
+ "instrument": "US-EO14319-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7b030cb3c5d02cdc360f6bead19ec5e612b2fd672b7fd4d1d0d2a517b89fd4d3",
+ "sha256_v1": "",
+ "sha256_v2": "7b030cb3c5d02cdc360f6bead19ec5e612b2fd672b7fd4d1d0d2a517b89fd4d3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "7b030cb3c5d02cdc360f6bead19ec5e612b2fd672b7fd4d1d0d2a517b89fd4d3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14319-2025:sec3/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "To advance that policy, agency heads shall, consistent with applicable law and in consideration of guidance issued pursuant to section 4 of this order, procure only those LLMs developed in accordance with the following two principles (Unbiased AI Principles):"
+  },
+  {
+   "obligation_id": "US-EO14319-2025:sec3/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "LLMs shall be truthful in responding to user prompts seeking factual information or analysis."
+  },
+  {
+   "obligation_id": "US-EO14319-2025:sec3/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "LLMs shall prioritize historical accuracy, scientific inquiry, and objectivity, and shall acknowledge uncertainty where reliable information is incomplete or contradictory."
+  },
+  {
+   "obligation_id": "US-EO14319-2025:sec3/p3/s4",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "LLMs shall be neutral, nonpartisan tools that do not manipulate responses in favor of ideological dogmas such as DEI."
+  },
+  {
+   "obligation_id": "US-EO14319-2025:sec3/p3/s5",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Developers shall not intentionally encode partisan or ideological judgments into an LLM's outputs unless those judgments are prompted by or otherwise readily accessible to the end user."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14319-2025:sec3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

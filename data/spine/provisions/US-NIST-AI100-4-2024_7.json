@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-NIST-AI100-4-2024:7",
+ "label": "US-NIST-AI100-4-2024 7",
+ "instrument": "US-NIST-AI100-4-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "0add872c7e77b488636b1c5a40cdb3cf678d5f061af01ca82921972cbc7941e7",
+ "sha256_v1": "",
+ "sha256_v2": "0add872c7e77b488636b1c5a40cdb3cf678d5f061af01ca82921972cbc7941e7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 1,
+ "sha256_current": "0add872c7e77b488636b1c5a40cdb3cf678d5f061af01ca82921972cbc7941e7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-NIST-AI100-4-2024:7/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Digital content transparency approaches across the AI lifecycle described in NIST AI\nRMF.\nsynthetic content detection approaches must be applied in tandem with social efforts and initiatives."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-NIST-AI100-4-2024:7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

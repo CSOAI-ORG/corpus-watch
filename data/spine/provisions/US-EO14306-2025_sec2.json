@@ -1,0 +1,186 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14306-2025:sec2",
+ "label": "US-EO14306-2025 Sec. 2",
+ "instrument": "US-EO14306-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "1ec8f2c55c2a24bef57040d08a0f7e74a33a0e09a75c7b7fa7c8816e9a0c9f78",
+ "sha256_v1": "",
+ "sha256_v2": "1ec8f2c55c2a24bef57040d08a0f7e74a33a0e09a75c7b7fa7c8816e9a0c9f78",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 0,
+ "sha256_current": "1ec8f2c55c2a24bef57040d08a0f7e74a33a0e09a75c7b7fa7c8816e9a0c9f78",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14306-2025:sec2/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "More must be done to improve the Nation's cybersecurity against these threats."
+  },
+  {
+   "obligation_id": "US-EO14306-2025:sec2/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) striking subsection 2(c) and inserting, in lieu thereof, the following: ``(c) Relevant executive departments and agencies (agencies) shall take the following actions:"
+  },
+  {
+   "obligation_id": "US-EO14306-2025:sec2/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "(i) By August 1, 2025, the Secretary of Commerce, acting through the Director of NIST, shall establish a consortium with industry at the National Cybersecurity Center of Excellence to develop guidance, informed by the consortium as appropriate, that demonstrates the implementation of secure software development, security, and operations practices based on NIST Special Publication 800-218 (Secure Software Development Framework (SSDF))."
+  },
+  {
+   "obligation_id": "US-EO14306-2025:sec2/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(ii) By September 2, 2025, the Secretary of Commerce, acting through the Director of NIST, shall update NIST Special Publication 800-53 (Security and Privacy Controls for Information Systems and Organizations) to provide guidance on how to securely and reliably deploy patches and updates."
+  },
+  {
+   "obligation_id": "US-EO14306-2025:sec2/p1/s5",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(iii) By December 1, 2025, the Secretary of Commerce, acting through the Director of NIST, in consultation with the heads of such agencies as the Director of NIST deems appropriate, shall develop and publish a preliminary update to the SSDF."
+  },
+  {
+   "obligation_id": "US-EO14306-2025:sec2/p1/s6",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This preliminary update shall include practices, procedures, controls, and implementation examples regarding the secure and reliable development and delivery of software as well as the security of the software itself."
+  },
+  {
+   "obligation_id": "US-EO14306-2025:sec2/p1/s7",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Within 120 days of publishing the preliminary update, the Secretary of Commerce, acting through the Director of NIST, shall publish a final version of the updated SSDF.'';"
+  },
+  {
+   "obligation_id": "US-EO14306-2025:sec2/p1/s8",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Routing information originated and propagated across the Internet, utilizing the Border Gateway Protocol (BGP), is vulnerable to attack and misconfiguration.'' and inserting, in lieu thereof, the following: ``Relevant agencies shall take the following actions:'';"
+  },
+  {
+   "obligation_id": "US-EO14306-2025:sec2/p1/s9",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i) By December 1, 2025, the Secretary of Homeland Security, acting through the Director of the Cybersecurity and Infrastructure Security Agency (CISA), and in consultation with the Director of the National Security Agency, shall release and thereafter regularly update a list of product categories in which products that support post-quantum cryptography (PQC) are widely available."
+  },
+  {
+   "obligation_id": "US-EO14306-2025:sec2/p1/s10",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(ii) By December 1, 2025, to prepare for transition to PQC, the Director of the National Security Agency with respect to National Security Systems (NSS), and the Director of OMB with respect to non-NSS, shall each issue requirements for agencies to support, as soon as practicable, but not later than January 2, 2030, Transport Layer Security protocol version 1.3 or a successor version.'';"
+  },
+  {
+   "obligation_id": "US-EO14306-2025:sec2/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "(a) By November 1, 2025, the Secretary of Commerce, acting through the Director of NIST; the Secretary of Energy; the Secretary of Homeland Security, acting through the Under Secretary for Science and Technology; and the Director of the National Science Foundation shall ensure that existing datasets for cyber defense research have been made accessible to the broader academic research community (either securely or publicly) to the maximum extent feasible, in consideration of business confidentiality and national security."
+  },
+  {
+   "obligation_id": "US-EO14306-2025:sec2/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) By November 1, 2025, the Secretary of Defense, the Secretary of Homeland Security, and the Director of National Intelligence, in coordination with appropriate officials within the Executive Office of the President, to include officials within the Office of Science and Technology Policy, the Office of the National Cyber Director, and the Director of OMB, shall incorporate management of AI software vulnerabilities and compromises into their respective agencies' existing processes and interagency coordination mechanisms for vulnerability management, including through incident tracking, response, and reporting, and by sharing indicators of compromise for AI systems.'';"
+  },
+  {
+   "obligation_id": "US-EO14306-2025:sec2/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Agencies' policies must align investments and priorities to improve network visibility and security controls to reduce cyber risks."
+  },
+  {
+   "obligation_id": "US-EO14306-2025:sec2/p7/s2",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In consultation with the National Cyber Director, agencies shall take the following actions:"
+  },
+  {
+   "obligation_id": "US-EO14306-2025:sec2/p7/s3",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) Within 3 years of the date of this order, the Director of OMB shall issue guidance, including any necessary revision to OMB Circular A-130, to address critical risks and adapt modern practices and architectures across Federal information systems and networks."
+  },
+  {
+   "obligation_id": "US-EO14306-2025:sec2/p7/s4",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(b) Within 1 year of the date of this order, the Secretary of Commerce, acting through the Director of NIST; the Secretary of Homeland Security, acting through the Director of CISA; and the Director of OMB shall establish a pilot program of a rules-as-code approach for machine-readable versions of policy and guidance that OMB, NIST, and CISA publish and manage regarding cybersecurity."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14306-2025:sec2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

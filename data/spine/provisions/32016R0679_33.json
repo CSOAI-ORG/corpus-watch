@@ -1,0 +1,88 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:33",
+ "label": "GDPR Art. 33",
+ "instrument": "GDPR",
+ "ladder": "CROSSWALK_ONLY",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "cc7d81854ffbc4a027a9af53d1e8ac9ccf07361121cfcc9f988c624458ad8207",
+ "sha256_v1": "cc7d81854ffbc4a027a9af53d1e8ac9ccf07361121cfcc9f988c624458ad8207",
+ "sha256_v2": "5681a8c88f29498a66cf444057f0fbf2c99cb24a71ee1d6308e761005da79a2d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "5681a8c88f29498a66cf444057f0fbf2c99cb24a71ee1d6308e761005da79a2d",
+ "agent_register_kinds": [
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:33/p1/s1",
+   "paragraph": "1",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "In the case of a personal data breach, the controller shall without undue delay and, where feasible, not later than 72 hours after having become aware of it, notify the personal data breach to the supervisory authority competent in accordance with Article 55, unless the personal data breach is unlikely to result in a risk to the rights and freedoms of natural persons."
+  },
+  {
+   "obligation_id": "32016R0679:33/p1/s2",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the notification to the supervisory authority is not made within 72 hours, it shall be accompanied by reasons for the delay."
+  },
+  {
+   "obligation_id": "32016R0679:33/p2/s1",
+   "paragraph": "2",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The processor shall notify the controller without undue delay after becoming aware of a personal data breach."
+  },
+  {
+   "obligation_id": "32016R0679:33/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notification referred to in paragraph 1 shall at least:"
+  },
+  {
+   "obligation_id": "32016R0679:33/p5/s1",
+   "paragraph": "5",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller shall document any personal data breaches, comprising the facts relating to the personal data breach, its effects and the remedial action taken."
+  },
+  {
+   "obligation_id": "32016R0679:33/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That documentation shall enable the supervisory authority to verify compliance with this Article."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:33",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:98",
+ "label": "EU-eudpr-2018 Article 98",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "79482a852b37ed72f6c13fcd31c4c0ebb0dcf03c2e58f37e8caa08764cd1a5ab",
+ "sha256_v1": "",
+ "sha256_v2": "79482a852b37ed72f6c13fcd31c4c0ebb0dcf03c2e58f37e8caa08764cd1a5ab",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "79482a852b37ed72f6c13fcd31c4c0ebb0dcf03c2e58f37e8caa08764cd1a5ab",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:98/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:review",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:98",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

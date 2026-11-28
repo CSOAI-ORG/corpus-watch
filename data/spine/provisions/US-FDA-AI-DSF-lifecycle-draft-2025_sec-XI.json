@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-FDA-AI-DSF-lifecycle-draft-2025:sec-XI",
+ "label": "US-FDA-AI-DSF-lifecycle-draft-2025 XI. Device Performance Monitoring",
+ "instrument": "US-FDA-AI-DSF-lifecycle-draft-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "ad93409b3c67a85f1d831e95d238b1c53784e5ee6b17cf973addcaf5a44c8f4d",
+ "sha256_v1": "",
+ "sha256_v2": "ad93409b3c67a85f1d831e95d238b1c53784e5ee6b17cf973addcaf5a44c8f4d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "ad93409b3c67a85f1d831e95d238b1c53784e5ee6b17cf973addcaf5a44c8f4d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-FDA-AI-DSF-lifecycle-draft-2025:sec-XI/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "In addition, sponsors must develop and implement plans for comprehensive risk analysis programs and documentation consistent with the Quality System Regulation (21 CFR Part 820) to manage risks related to undesirable changes in device performance for AI-enabled devices.56 These regulations include, but are not limited to, management responsibility (21 CFR 820.20), design validation (21 CFR 820.30(g)), design changes (21 CFR 820.30(i)), nonconforming product (21 CFR 820.90), and corrective and preventive action (21 CFR 820.100)."
+  },
+  {
+   "obligation_id": "US-FDA-AI-DSF-lifecycle-draft-2025:sec-XI/p0/s2",
+   "paragraph": "0",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "Further, manufacturers must monitor device performance and report to FDA information about deaths, serious injuries, and malfunctions in accordance with 21 CFR Parts 803 and 806. 56 When the final rule amending the device QSR, 21 CFR Part 820, takes effect on February 2, 2026, the term “risk analysis” will be replaced with “risk management.” FDA generally does not assess quality system regulation compliance as part of its review of marketing submissions under section 510(k) of the FD&C Act."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-FDA-AI-DSF-lifecycle-draft-2025:sec-XI",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

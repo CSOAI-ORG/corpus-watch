@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s75",
+ "label": "GB-dpa-2018 Section 75",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5dd5c00ed08764335537c4a12c18a5fa25bb5c315212a03f8516effc6bf76937",
+ "sha256_v1": "",
+ "sha256_v2": "5dd5c00ed08764335537c4a12c18a5fa25bb5c315212a03f8516effc6bf76937",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "5dd5c00ed08764335537c4a12c18a5fa25bb5c315212a03f8516effc6bf76937",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s75/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nThe controller must inform the Commission about the categories of data transfers that take place in reliance on subsection (1A)(b) but not in reliance on section 73(4)(aa) (transfer to processor)."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s75/p0/s2",
+   "paragraph": "0",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nWhere a transfer of data takes place in reliance on this section but not in reliance on section 73(4)(aa) (transfer to processor)—\n(a)\nthe transfer must be documented,\n(b)\nthe documentation must be provided to the Commission on request, and\n(c)\nthe documentation must include, in particular—\n(i)\nthe date and time of the transfer,\n(ii)\nthe name of and any other pertinent information about the recipient,\n(iii)\nthe justification for the transfer, and\n(iv)\na description of the personal data transferred."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s75",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

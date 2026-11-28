@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:95",
+ "label": "GDPR Art. 95",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e214a8afe3df02cd21a3ac962932e56fa932c1ef15179eceb6d07df7ef33acac",
+ "sha256_v1": "e214a8afe3df02cd21a3ac962932e56fa932c1ef15179eceb6d07df7ef33acac",
+ "sha256_v2": "328c424f891b15fd92e3efb82fdbd37e10d4d4ca66e0eb4fd53a60e87401dea8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "328c424f891b15fd92e3efb82fdbd37e10d4d4ca66e0eb4fd53a60e87401dea8",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:95/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Article 95 Relationship with Directive 2002/58/EC This Regulation shall not impose additional obligations on natural or legal persons in relation to processing in connection with the provision of publicly available electronic communications services in public communication networks in the Union in relation to matters for which they are subject to specific obligations with the same objective set out in Directive 2002/58/EC."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:95",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

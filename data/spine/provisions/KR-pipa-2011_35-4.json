@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-pipa-2011:35-4",
+ "label": "KR-pipa-2011 제35조의4",
+ "instrument": "KR-pipa-2011",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "2cbeaa4b91593dc75b9512b5feffc0a7ca94642d8ac8edda1d168285e2099038",
+ "sha256_v1": "",
+ "sha256_v2": "2cbeaa4b91593dc75b9512b5feffc0a7ca94642d8ac8edda1d168285e2099038",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "2cbeaa4b91593dc75b9512b5feffc0a7ca94642d8ac8edda1d168285e2099038",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-pipa-2011:35-4/s1",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "제35조의4(개인정보 전송 관리 및 지원) ① 보호위원회는 제35조의2제1항 및 제2항에 따른 개인정보처리자 및 제35조의3제1항에 따른 개인정보관리 전문기관 현황, 활용내역 및 관리실태 등을 체계적으로 관리ㆍ감독하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:35-4/s8",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ko:internal-record",
+   "status": "DRAFT",
+   "text": "이 경우 관계 중앙행정기관의 장 및 해당 개인정보관리 전문기관과 사전에 협의하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-pipa-2011:35-4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

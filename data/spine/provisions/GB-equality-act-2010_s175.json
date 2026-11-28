@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-equality-act-2010:s175",
+ "label": "GB-equality-act-2010 Section 175",
+ "instrument": "GB-equality-act-2010",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "30c0331714311b7603d8e37d3addf6c17ed5b4e341adedb91c8621307a0dacfe",
+ "sha256_v1": "",
+ "sha256_v2": "30c0331714311b7603d8e37d3addf6c17ed5b4e341adedb91c8621307a0dacfe",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "30c0331714311b7603d8e37d3addf6c17ed5b4e341adedb91c8621307a0dacfe",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-equality-act-2010:s175/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)\nusing on a road a regulated public service vehicle which does not conform with a provision of the regulations with which it is required to conform;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-equality-act-2010:s175",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

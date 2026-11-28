@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:annex-IV",
+ "label": "EU-mdr-2017 Annex IV",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ed538296ea40225974785007fcffac967b2d23372d74b271901a440248839a6f",
+ "sha256_v1": "",
+ "sha256_v2": "ed538296ea40225974785007fcffac967b2d23372d74b271901a440248839a6f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ed538296ea40225974785007fcffac967b2d23372d74b271901a440248839a6f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:annex-IV/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ANNEX IV\nEU DECLARATION OF CONFORMITY\nThe EU declaration of conformity shall contain all of the following information:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:annex-IV",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s70",
+ "label": "GB-dpa-2018 Section 70",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ba4a617be672a37168795fd6cfd24e41b6c013d61db3a8deba4f5e772d6c8f39",
+ "sha256_v1": "",
+ "sha256_v2": "ba4a617be672a37168795fd6cfd24e41b6c013d61db3a8deba4f5e772d6c8f39",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ba4a617be672a37168795fd6cfd24e41b6c013d61db3a8deba4f5e772d6c8f39",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s70/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Position of data protection officer\n(1)\nThe controller must ensure that the data protection officer is involved, properly and in a timely manner, in all issues which relate to the protection of personal data."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s70/p0/s2",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nThe controller must provide the data protection officer with the necessary resources and access to personal data and processing operations to enable the data protection officer to—\n(a)\nperform the tasks mentioned in section 71, and\n(b)\nmaintain his or her expert knowledge of data protection law and practice."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s70/p0/s3",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nThe controller—\n(a)\nmust ensure that the data protection officer does not receive any instructions regarding the performance of the tasks mentioned in section 71;"
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s70/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)\nmust ensure that the data protection officer does not perform a task or fulfil a duty other than those mentioned in this Part where such task or duty would result in a conflict of interests;"
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s70/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)\nmust not dismiss or penalise the data protection officer for performing the tasks mentioned in section 71."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s70/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nThe data protection officer, in the performance of this role, must report to the highest management level of the controller."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s70",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

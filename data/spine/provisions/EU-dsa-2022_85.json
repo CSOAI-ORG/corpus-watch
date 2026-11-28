@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:85",
+ "label": "EU-dsa-2022 Article 85",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b69f8209c6775244fc59e64d63c5d7c60fd79c19ad239c1653a58e85394a2cc9",
+ "sha256_v1": "",
+ "sha256_v2": "b69f8209c6775244fc59e64d63c5d7c60fd79c19ad239c1653a58e85394a2cc9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "b69f8209c6775244fc59e64d63c5d7c60fd79c19ad239c1653a58e85394a2cc9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:85/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall establish and maintain a reliable and secure information sharing system supporting communications between Digital Services Coordinators, the Commission and the Board."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:85/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Digital Services Coordinators, the Commission and the Board shall use the information sharing system for all communications pursuant to this Regulation."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:85/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall adopt implementing acts laying down the practical and operational arrangements for the functioning of the information sharing system and its interoperability with other relevant systems."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:85/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 88."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:85",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

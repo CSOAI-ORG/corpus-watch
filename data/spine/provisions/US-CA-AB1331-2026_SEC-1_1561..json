@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB1331-2026:SEC-1:1561.",
+ "label": "US-CA-AB1331-2026 SECTION 1. / 1561.",
+ "instrument": "US-CA-AB1331-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3ee77d8d99a24353bcf455afa6f1de6ae700a05fb02b77a35150d303b82874ce",
+ "sha256_v1": "",
+ "sha256_v2": "3ee77d8d99a24353bcf455afa6f1de6ae700a05fb02b77a35150d303b82874ce",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "3ee77d8d99a24353bcf455afa6f1de6ae700a05fb02b77a35150d303b82874ce",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB1331-2026:SEC-1:1561./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)Unless directed by a court order, an employer shall not use a workplace surveillance tool to monitor or surveil employees in a bathroom located in the workplace."
+  },
+  {
+   "obligation_id": "US-CA-AB1331-2026:SEC-1:1561./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)(1)An employee shall have the right to leave behind workplace surveillance tools that are on their person or in their possession when entering a bathroom."
+  },
+  {
+   "obligation_id": "US-CA-AB1331-2026:SEC-1:1561./p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)Paragraph (1) does not apply if an employee is required to remain available during meal or rest periods pursuant to federal law or existing state law."
+  },
+  {
+   "obligation_id": "US-CA-AB1331-2026:SEC-1:1561./p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)An employee brings a workplace surveillance tool, including a badge or personal alarm system, into a bathroom in the workplace because the employer has a policy that requires that workplace surveillance tool to be in the employee’s possession while on work premises for identification or safety purposes or if the tool is required to access a locked or secured bathroom, if the workplace surveillance tool meets both of the following conditions:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB1331-2026:SEC-1:1561.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

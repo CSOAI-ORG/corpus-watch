@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14319-2025:sec4",
+ "label": "US-EO14319-2025 Section 4",
+ "instrument": "US-EO14319-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "2ad993a662795898df8c6e65c6a0f501d1664a9168b40b5848859da21fa1ce32",
+ "sha256_v1": "",
+ "sha256_v2": "2ad993a662795898df8c6e65c6a0f501d1664a9168b40b5848859da21fa1ce32",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "2ad993a662795898df8c6e65c6a0f501d1664a9168b40b5848859da21fa1ce32",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14319-2025:sec4/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) Within 120 days of the date of this order, the Director of the Office of Management and Budget (OMB), in consultation with the Administrator for Federal Procurement Policy, the Administrator of General Services, and the Director of the Office of Science and Technology Policy, shall issue guidance to agencies to implement section 3 of this order."
+  },
+  {
+   "obligation_id": "US-EO14319-2025:sec4/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That guidance shall:"
+  },
+  {
+   "obligation_id": "US-EO14319-2025:sec4/p4/s3",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) Each agency head shall, to the maximum extent consistent with applicable law:"
+  },
+  {
+   "obligation_id": "US-EO14319-2025:sec4/p4/s4",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i) include in each Federal contract for an LLM entered into following the date of the OMB guidance issued under subsection (a) of this section terms requiring that the procured LLM comply with the Unbiased AI Principles and providing that decommissioning costs shall be charged to the vendor in the event of termination by the agency for the vendor's noncompliance with the contract following a reasonable period to cure;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14319-2025:sec4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

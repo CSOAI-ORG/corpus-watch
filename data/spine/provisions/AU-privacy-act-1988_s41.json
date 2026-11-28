@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s41",
+ "label": "AU-privacy-act-1988 Section 41",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e89e3cfbf6a08203409138439a09a1f5efef30329a9f23b547a72d52a38cefa1",
+ "sha256_v1": "",
+ "sha256_v2": "e89e3cfbf6a08203409138439a09a1f5efef30329a9f23b547a72d52a38cefa1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "e89e3cfbf6a08203409138439a09a1f5efef30329a9f23b547a72d52a38cefa1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s41/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "41  Commissioner may or must decide not to investigate etc. in certain circumstances\n(1)\tThe Commissioner may decide not to investigate, or not to investigate further, an act or practice about which a complaint has been made under section 36 if the Commissioner is satisfied that:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s41/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(1A)\tThe Commissioner must not investigate, or investigate further, an act or practice about which a complaint has been made under section 36 if the Commissioner is satisfied that the complainant has withdrawn the complaint."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s41",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

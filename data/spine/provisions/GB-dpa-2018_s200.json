@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s200",
+ "label": "GB-dpa-2018 Section 200",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "a51e832491e3a49c8cf192639138c54832ca6e45677286c47d5775aac5025ffc",
+ "sha256_v1": "",
+ "sha256_v2": "a51e832491e3a49c8cf192639138c54832ca6e45677286c47d5775aac5025ffc",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a51e832491e3a49c8cf192639138c54832ca6e45677286c47d5775aac5025ffc",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s200/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Guidance about PACE codes of practice\n(1)\nThe Commission must produce and publish guidance about how the Commission proposes to perform the duty under section 67(9) of the Police and Criminal Evidence Act 1984 (duty to have regard to codes of practice under that Act when investigating offences and charging offenders) in connection with offences under this Act."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s200/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\nThe Commission—\n(a)\nmay alter or replace the guidance, and\n(b)\nmust publish any altered or replacement guidance."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s200/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(3)\nThe Commission must consult the Secretary of State before publishing guidance under this section (including any altered or replacement guidance)."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s200/p0/s4",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(4)\nThe Commission must arrange for guidance under this section (including any altered or replacement guidance) to be laid before Parliament."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s200",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

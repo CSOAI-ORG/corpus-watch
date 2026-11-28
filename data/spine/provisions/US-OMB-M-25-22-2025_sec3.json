@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-OMB-M-25-22-2025:sec3",
+ "label": "US-OMB-M-25-22-2025 Section 3",
+ "instrument": "US-OMB-M-25-22-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "3fe7d6ba741ed5ad8b248ed2a8cc7010ed5d125065691e1baacd0bdcf441c2be",
+ "sha256_v1": "",
+ "sha256_v2": "3fe7d6ba741ed5ad8b248ed2a8cc7010ed5d125065691e1baacd0bdcf441c2be",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 10,
+ "sha256_current": "3fe7d6ba741ed5ad8b248ed2a8cc7010ed5d125065691e1baacd0bdcf441c2be",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec3/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Within 270 days of the issuance ofthis memorandum, agencies must revisit, and update where necessary, existing internal procedures on acquisition to comply with the requirements of this memorandum and ensure the agency's use of the acquired AI will conform to 0MB Memorandum M-25-21."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec3/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "At a minimum, agencies must update internal procedures on acquisition to enable relevant agency officials to:"
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec3/p11/s1",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "A-130, 16 agencies shall establish policies and processes, including contractual terms and conditions, that ensure compliance with privacy requirements in law and policy whenever agencies acquire an AI system or service, or an agency contractor uses an AI system or service, that will create, collect, use, process, store, maintain, disseminate, disclose, or dispose of Federal information containing personally identifiable information (PII)."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec3/p11/s2",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Agencies shall ensure that Senior Agency Officials for Privacy17 have early and ongoing involvement in agency acquisition or contractor use of AI involving PII, including during pre-solicitation acquisition planning and when defining requirements, to manage privacy risks and ensure compliance with law and policy related to pnvacy. e."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec3/p11/s3",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Consistent with applicable laws and government-wide policy, 18 agencies must have appropriate processes for addressing use of government data and include appropriate contractual terms that clearly delineate the respective ownership and IP rights ofthe government and the contractor."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec3/p11/s4",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each agency must revisit, and update where necessary, its process for the treatment of data ownership and IP rights in procurements for AI systems or services."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec3/p11/s5",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providing clear guidance on handling, access, and use of agency data 111. or information to ensure, among other purposes, that such information must only be collected and retained by a vendor when reasonably necessary to serve the intended purposes of the contract; 16 See, for example, 0MB Circular No."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec3/p11/s6",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Agencies must be cognizant of the risks posed by the unsolicited use of AI systems by vendors and determine whether there are circumstances that merit including a provision in a solicitation requiring disclosure of AI use as part of any given contract's performance."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-OMB-M-25-22-2025:sec3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

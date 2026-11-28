@@ -1,0 +1,166 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-c2pa-spec-2026:section-8",
+ "label": "INTL-c2pa-spec-2026 Section 8",
+ "instrument": "INTL-c2pa-spec-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "413d728a3cfd14492d758cf2a07116c072820d506332c3b9e5f6a60356ebf324",
+ "sha256_v1": "",
+ "sha256_v2": "413d728a3cfd14492d758cf2a07116c072820d506332c3b9e5f6a60356ebf324",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "413d728a3cfd14492d758cf2a07116c072820d506332c3b9e5f6a60356ebf324",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-8/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The C2PA namespace, c2pa, shall be the beginning of any string value defined in this specification."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-8/p8/s2",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Entity-specific namespaces, meaning any namespace other than c2pa or those on the registry, shall begin with the Internet domain name for the entity, beginning with a valid IANA top-level domain, similar to how Java packages are defined (e.g., com.litware, net.fineartschool)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-8/p8/s3",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The period-separated components of an entity-specific namespace shall follow the variable naming convention ([a-zA-Z0-9][a-zA-Z0-9_-]*) specified in the POSIX or C locale, as defined in the ABNF below (ABNF for Namespaces)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-8/p8/s4",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Existing fields shall not be removed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-8/p8/s5",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Deprecated fields for C2PA standard assertions shall be indicated in Chapter 16, C2PA Standard Assertions."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-8/p8/s6",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Claim generators shall not insert data into deprecated assertion fields when creating assertions."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-8/p8/s7",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In those situations where a non-backwards compatible change is required, instead of increasing the label’s version number, the assertion shall be given a new label."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-8/p8/s8",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Multiple Instances\nMultiple assertions of the same type can occur in the same manifest, but since assertions are referenced by claims via their label, the assertion labels are required to be unique."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-8/p8/s9",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The assertions and assertion store shall be stored as described in Section 11.5, “Serialization”; in particular, each assertion referenced in a claim’s created_assertions or gathered_assertions (but not redacted_assertions) shall be present in the assertion store located in the same C2PA Manifest as the claim."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-8/p8/s10",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Redaction shall be performed either by removing the entire assertion from the manifest’s assertion store or by replacing its content, as described in Section 14.10.3, “Redacted Assertion Representation”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-8/p8/s12",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When redacting an ingredient assertion that references a C2PA Manifest, the associated manifest shall be removed from the C2PA Manifest Store if no other references to it remain after redacting."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-8/p8/s13",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Claim generators shall not redact assertions with a label of c2pa.actions or c2pa.actions.v2 as this assertion type represents essential information in understanding the history of an asset."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-8/p8/s14",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When creating an update manifest, the claim generator shall not redact the hard binding to content assertion that applies to the current asset."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-8/p8/s15",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A direct tdate, or a map without timeStampType, shall be interpreted as absolute.\nabsolute indicates recorded time. lowerBound indicates a lower bound on the recorded time but makes no guarantee about the actual time. upperBound indicates an upper bound on the recorded time but makes no guarantee about the actual time."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-c2pa-spec-2026:section-8",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s163",
+ "label": "GB-dpa-2018 Section 163",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "88fc1341f5b5bc5b102b7c47440850de0563279b87650dd9fbe23b1d66624158",
+ "sha256_v1": "",
+ "sha256_v2": "88fc1341f5b5bc5b102b7c47440850de0563279b87650dd9fbe23b1d66624158",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "88fc1341f5b5bc5b102b7c47440850de0563279b87650dd9fbe23b1d66624158",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s163/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(3)\nIf the Tribunal considers—\n(a)\nthat the notice or decision against which the appeal is brought is not in accordance with the law, or\n(b)\nto the extent that the notice or decision involved an exercise of discretion by the Commission, that the Commission ought to have exercised the discretion differently,\nthe Tribunal must allow the appeal or substitute another notice or decision which the Commission could have given or made."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s163/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nOtherwise, the Tribunal must dismiss the appeal."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s163/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nOn an appeal under section 162(2), if the Tribunal considers that the enforcement notice ought to be cancelled or varied by reason of a change in circumstances, the Tribunal must cancel or vary the notice."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s163",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

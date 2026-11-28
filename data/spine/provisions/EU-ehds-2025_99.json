@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:99",
+ "label": "EU-ehds-2025 Article 99",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d552ca8fb2c0b35767cb5de15904cbcc534b02166944b3dc6674c91eef5dc0a9",
+ "sha256_v1": "",
+ "sha256_v2": "d552ca8fb2c0b35767cb5de15904cbcc534b02166944b3dc6674c91eef5dc0a9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "d552ca8fb2c0b35767cb5de15904cbcc534b02166944b3dc6674c91eef5dc0a9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:99/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Penalties\nMember States shall lay down the rules on penalties applicable to infringements of this Regulation, in particular for infringements which are not subject to administrative fines pursuant to Articles 63 and 64, and shall take all measures necessary to ensure that they are implemented."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:99/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The penalties provided for shall be effective, proportionate and dissuasive."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:99/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall, by 26 March 2027, notify the Commission of those rules and of those measures and shall notify it, without delay, of any subsequent amendment affecting them."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:99/p0/s4",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall take into account the following non-exhaustive and indicative criteria for the imposition of penalties for infringements of this Regulation, where appropriate:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:99",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s26P",
+ "label": "AU-privacy-act-1988 Section 26P",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "830c12f405e1d8a757d496a3afa5a7aed92f76da575e210f547a9a30021f9143",
+ "sha256_v1": "",
+ "sha256_v2": "830c12f405e1d8a757d496a3afa5a7aed92f76da575e210f547a9a30021f9143",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "830c12f405e1d8a757d496a3afa5a7aed92f76da575e210f547a9a30021f9143",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s26P/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\tThe request must:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s26P/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\tspecify the period within which the request must be complied with; and\n(b)\tset out the effect of section 26L."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s26P/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\tmust run for at least 120 days from the date the request is made; and\n(b)\tmay be extended by the Commissioner."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s26P/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\tspecify one or more matters that the CR code must deal with; and\n(b)\tspecify the credit providers, or a class of credit providers, that should be bound by the code; and\n(c)\tspecify the other entities, or a class of other entities, subject to Part IIIA that should be bound by the code."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s26P/p0/s5",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(5)\tThe Commissioner must make a copy of the request publicly available as soon as practicable after the request is made."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s26P",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

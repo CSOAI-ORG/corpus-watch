@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s58",
+ "label": "AU-privacy-act-1988 Section 58",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "e7b0cec68db1b06c55100083028385edce2ba4a5b5696d3919aeed2589c6ec15",
+ "sha256_v1": "",
+ "sha256_v2": "e7b0cec68db1b06c55100083028385edce2ba4a5b5696d3919aeed2589c6ec15",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "e7b0cec68db1b06c55100083028385edce2ba4a5b5696d3919aeed2589c6ec15",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s58/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(a)\tmust not repeat or continue conduct that is covered by a declaration included in the determination under subparagraph 52(1)(b)(i) or paragraph 52(1A)(a); and\n(b)\tmust take the steps that are specified in a declaration included in the determination under subparagraph 52(1)(b)(ia) or paragraph 52(1A)(b) within the specified period; and\n(c)\tmust perform the act or course of conduct that is covered by a declaration included in the determination under subparagraph 52(1)(b)(ii) or paragraph 52(1A)(c); and\n(d)\tmust prepare and publish, or otherwise communicate, a statement in accordance with a declaration included in the determination under subparagraph 52(1)(b)(iia) or paragraph 52(1A)(ba) and"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s58",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

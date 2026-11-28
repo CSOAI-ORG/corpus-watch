@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s95",
+ "label": "GB-dpa-2018 Section 95",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5c18595a4d4366273a161b043cd7d1a9100d79a7117a4d94c59a3fba92892e55",
+ "sha256_v1": "",
+ "sha256_v2": "5c18595a4d4366273a161b043cd7d1a9100d79a7117a4d94c59a3fba92892e55",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "5c18595a4d4366273a161b043cd7d1a9100d79a7117a4d94c59a3fba92892e55",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s95/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Right of access: supplementary\n(1)\nThe controller must comply with the obligation imposed by section 94(1)(b)(i) by supplying the data subject with a copy of the information in writing unless—\n(a)\nthe supply of such a copy is not possible or would involve disproportionate effort, or\n(b)\nthe data subject agrees otherwise;\nand where any of the information referred to in section 94(1)(b)(i) is expressed in terms which are not intelligible without explanation the copy must be accompanied by an explanation of those terms."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s95/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nIn determining for the purposes of subsection (2) whether requests under section 94 are made at reasonable intervals, regard must be had to—\n(a)\nthe nature of the data,\n(b)\nthe purpose for which the data is processed, and\n(c)\nthe frequency with which the data is altered."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s95/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nThe information to be supplied pursuant to a request under section 94 must be supplied by reference to the data in question at the time when the request is received, except that it may take account of any amendment or deletion made between that time and the time when the information is supplied, being an amendment or deletion that would have been made regardless of the receipt of the request."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s95",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

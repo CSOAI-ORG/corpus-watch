@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-uk-gdpr-2016:23",
+ "label": "GB-uk-gdpr-2016 Article 23",
+ "instrument": "GB-uk-gdpr-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "be09b71e02e51ecfd06212145c2f501e7ca9c386b66d3b03a9887fb096924bc2",
+ "sha256_v1": "",
+ "sha256_v2": "be09b71e02e51ecfd06212145c2f501e7ca9c386b66d3b03a9887fb096924bc2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "be09b71e02e51ecfd06212145c2f501e7ca9c386b66d3b03a9887fb096924bc2",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-uk-gdpr-2016:23/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In particular, provision made in exercise of the power under paragraph 1 shall contain specific provisions at least, where relevant, as to:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-uk-gdpr-2016:23",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

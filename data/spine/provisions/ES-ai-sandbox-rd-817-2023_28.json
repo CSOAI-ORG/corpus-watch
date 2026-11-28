@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "ES-ai-sandbox-rd-817-2023:28",
+ "label": "ES-ai-sandbox-rd-817-2023 Artículo 28",
+ "instrument": "ES-ai-sandbox-rd-817-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "47192e4ecb438f0f5754daaf10192e771160460924a6c762b0989466381f1c05",
+ "sha256_v1": "",
+ "sha256_v2": "47192e4ecb438f0f5754daaf10192e771160460924a6c762b0989466381f1c05",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "ES",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "47192e4ecb438f0f5754daaf10192e771160460924a6c762b0989466381f1c05",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:28/s4",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "La persona jurídica privada o entidad del sector público, cuando actúen como usuarios participantes deberán colaborar implantando las medidas especificadas en las guías que el órgano competente proporcione para el seguimiento tras la puesta en marcha del sistema de inteligencia artificial y en su caso, con respecto al tratamiento de datos personales según lo previsto en el artículo 16 del presente real decreto.\n3."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=ES-ai-sandbox-rd-817-2023:28",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

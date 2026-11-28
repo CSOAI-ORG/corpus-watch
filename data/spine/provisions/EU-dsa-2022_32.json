@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:32",
+ "label": "EU-dsa-2022 Article 32",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "7d3a39b96694acde8d885697e113549812b6dd03de3c818eb9e741ca33e70c4f",
+ "sha256_v1": "",
+ "sha256_v2": "7d3a39b96694acde8d885697e113549812b6dd03de3c818eb9e741ca33e70c4f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "7d3a39b96694acde8d885697e113549812b6dd03de3c818eb9e741ca33e70c4f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:32/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "contact-point",
+   "status": "DRAFT",
+   "text": "Where a provider of an online platform allowing consumers to conclude distance contracts with traders becomes aware, irrespective of the means used, that an illegal product or service has been offered by a trader to consumers located in the Union through its services, that provider shall inform, insofar as it has their contact details, consumers who purchased the illegal product or service through its services of the following:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:32/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The obligation laid down in the first subparagraph shall be limited to purchases of illegal products or services made within the six months preceding the moment that the provider became aware of the illegality."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:32/p2/s1",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Where, in the situation referred to in paragraph 1, the provider of the online platform allowing consumers to conclude distance contracts with traders does not have the contact details of all consumers concerned, that provider shall make publicly available and easily accessible on its online interface the information concerning the illegal product or service, the identity of the trader and any relevant means of redress."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:32",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

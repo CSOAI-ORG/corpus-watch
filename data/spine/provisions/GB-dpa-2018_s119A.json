@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s119A",
+ "label": "GB-dpa-2018 Section 119A",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "c2bb8e61a47caff84dcd5f01cce68e5788f781a47c6d1e5e1369c92d4b8ab516",
+ "sha256_v1": "",
+ "sha256_v2": "c2bb8e61a47caff84dcd5f01cce68e5788f781a47c6d1e5e1369c92d4b8ab516",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "c2bb8e61a47caff84dcd5f01cce68e5788f781a47c6d1e5e1369c92d4b8ab516",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s119A/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nA document issued under this section—\n(a)\nmust specify when it comes into force,\n(aa)\nmay make provision generally or in relation to types of transfer described in the document,\n(b)\nmay make different provision for different purposes, and\n(c)\nmay include transitional provision or savings."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s119A/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(4)\nBefore issuing a document under this section, the Commission must consult the Secretary of State and such of the following as the Commission considers appropriate—\n(a)\ntrade associations;"
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s119A/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(5)\nAfter a document is issued under this section—\n(a)\nthe Commission must send a copy to the Secretary of State, and\n(b)\nthe Secretary of State must lay it before Parliament."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s119A/p0/s4",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(8)\nThe Commission must publish—\n(a)\na document issued under this section, and\n(b)\na notice identifying any document which, under subsection (6), is treated as not having been issued under this section."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s119A/p0/s5",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(9)\nThe Commission must keep under review the clauses specified in a document issued under this section for the time being in force."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s119A",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

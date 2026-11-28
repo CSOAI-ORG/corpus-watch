@@ -1,0 +1,79 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:17",
+ "label": "EU AI Act Art. 17",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "b0c15f74e86002117c3c24ae679f93f99fa1a0c8a6a4cb7bf4a865c95087225f",
+ "sha256_v1": "b0c15f74e86002117c3c24ae679f93f99fa1a0c8a6a4cb7bf4a865c95087225f",
+ "sha256_v2": "b0c15f74e86002117c3c24ae679f93f99fa1a0c8a6a4cb7bf4a865c95087225f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": 15,
+ "sha256_current": "bb5855b3615e35c8f22ce5d6c8e0919a45f7fd5af6a3e5a0d8567f31913c18b6",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:17/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Providers of high-risk AI systems shall put a quality management system in place that ensures compliance with this Regulation."
+  },
+  {
+   "obligation_id": "32024R1689:17/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That system shall be documented in a systematic and orderly manner in the form of written policies, procedures and instructions, and shall include at least the following aspects:"
+  },
+  {
+   "obligation_id": "32024R1689:17/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The implementation of the aspects referred to in paragraph 1 shall be proportionate to the size of the provider’s organisation, in particular, if the provider is an SME, including a start-up, or an SMC."
+  },
+  {
+   "obligation_id": "32024R1689:17/p2/s2",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers shall, in any event, respect the degree of rigour and the level of protection required to ensure the compliance of their high-risk AI systems with this Regulation. ▼B"
+  },
+  {
+   "obligation_id": "32024R1689:17/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "To that end, any harmonised standards referred to in Article 40 shall be taken into account."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:17",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s13C",
+ "label": "AU-privacy-act-1988 Section 13C",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b5a1a5b761aaf6de3950fb47808f5e38aa4aa83d3bc9f67607bae5190b19090c",
+ "sha256_v1": "",
+ "sha256_v2": "b5a1a5b761aaf6de3950fb47808f5e38aa4aa83d3bc9f67607bae5190b19090c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "b5a1a5b761aaf6de3950fb47808f5e38aa4aa83d3bc9f67607bae5190b19090c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s13C/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, in using or holding the information, they must comply with the Australian Privacy Principles and a registered APP code that binds them."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s13C",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-equality-act-2010:sch3",
+ "label": "GB-equality-act-2010 Schedule 3",
+ "instrument": "GB-equality-act-2010",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "680534d4fb2a6e20f8f73f0dcda87947cd1ee8d1df2550c8ade5a9f0603030ba",
+ "sha256_v1": "",
+ "sha256_v2": "680534d4fb2a6e20f8f73f0dcda87947cd1ee8d1df2550c8ade5a9f0603030ba",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "680534d4fb2a6e20f8f73f0dcda87947cd1ee8d1df2550c8ade5a9f0603030ba",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-equality-act-2010:sch3/p21/s1",
+   "paragraph": "21",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nBefore making an order under this paragraph the Minister must consult the Commission."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-equality-act-2010:sch3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

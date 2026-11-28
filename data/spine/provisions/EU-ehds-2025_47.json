@@ -1,0 +1,146 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:47",
+ "label": "EU-ehds-2025 Article 47",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "9804ac21d9860d81fcce8e665d38ed446317588b38c6a3534ac6a081cbeec19c",
+ "sha256_v1": "",
+ "sha256_v2": "9804ac21d9860d81fcce8e665d38ed446317588b38c6a3534ac6a081cbeec19c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "9804ac21d9860d81fcce8e665d38ed446317588b38c6a3534ac6a081cbeec19c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:47/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where a manufacturer of a wellness application claims interoperability with an EHR system in relation to the harmonised software components of EHR systems and therefore compliance with the common specifications referred to in Article 36 and essential requirements laid down in Annex II, such wellness application shall be accompanied by a label, clearly indicating its compliance with those specifications and requirements."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:47/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That label shall be issued by the manufacturer of the wellness application."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:47/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The label referred to in paragraph 1 shall indicate the following information:"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:47/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall, by means of implementing acts, determine the format and content of the label referred to in paragraph"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:47/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 98(2)."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:47/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The label shall be drawn-up in one or more official languages of the Union or in an easily understandable language determined by the Member State in which the wellness application is placed on the market or put into service."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:47/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The validity of the label shall not exceed three years."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:47/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the wellness application is an integral part of a device or is embedded in a device after it has been put into service, the accompanying label shall be shown in the application itself or placed on that device."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:47/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the wellness application consists only of software, the label shall have a digital format and shall be shown in the application itself."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:47/p7/s1",
+   "paragraph": "7",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The market surveillance authorities shall check the compliance of wellness applications with the essential requirements laid down in Annex II."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:47/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Each supplier of a wellness application for which a label has been issued shall ensure that the wellness application that is placed on the market or put into service is accompanied by the label for each individual unit, free of charge."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:47/p9/s1",
+   "paragraph": "9",
+   "addressee": "distributor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each distributor of a wellness application for which a label has been issued shall make the label available to customers at the point of sale in electronic form."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:47",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

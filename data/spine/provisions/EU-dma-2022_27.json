@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:27",
+ "label": "EU-dma-2022 Article 27",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "64be97332be0ec65b9fb724284dde5d26a6a020933e38975e96ce7f2d15ce522",
+ "sha256_v1": "",
+ "sha256_v2": "64be97332be0ec65b9fb724284dde5d26a6a020933e38975e96ce7f2d15ce522",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "64be97332be0ec65b9fb724284dde5d26a6a020933e38975e96ce7f2d15ce522",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:27/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The national competent authority of the Member State, enforcing the rules referred to in Article 1(6), and the Commission shall have full discretion as regards the appropriate measures and are under no obligation to follow-up on the information received."
+  },
+  {
+   "obligation_id": "EU-dma-2022:27/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the national competent authority of the Member State, enforcing the rules referred to in Article 1(6), determines, based on the information received pursuant to paragraph 1 of this Article, that there may be an issue of non-compliance with this Regulation, it shall transfer that information to the Commission."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:27",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

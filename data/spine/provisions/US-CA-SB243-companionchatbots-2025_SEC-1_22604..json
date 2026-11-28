@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB243-companionchatbots-2025:SEC-1:22604.",
+ "label": "US-CA-SB243-companionchatbots-2025 SECTION 1. / 22604.",
+ "instrument": "US-CA-SB243-companionchatbots-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "4c8f014b375728c5a51cddf11c63ec49b302f553446ede2cf3fcd24374b4b0b8",
+ "sha256_v1": "",
+ "sha256_v2": "4c8f014b375728c5a51cddf11c63ec49b302f553446ede2cf3fcd24374b4b0b8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "4c8f014b375728c5a51cddf11c63ec49b302f553446ede2cf3fcd24374b4b0b8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB243-companionchatbots-2025:SEC-1:22604./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An operator shall disclose to a user of its companion chatbot platform, on the application, the browser, or any other format that a user can use to access the companion chatbot platform, that companion chatbots may not be suitable for some minors."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB243-companionchatbots-2025:SEC-1:22604.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

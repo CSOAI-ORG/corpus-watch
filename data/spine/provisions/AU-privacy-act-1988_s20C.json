@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s20C",
+ "label": "AU-privacy-act-1988 Section 20C",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6045ef2685fe2a89bbeb8907a05aee2f8a00ef0b246867e04968748fb2918bc0",
+ "sha256_v1": "",
+ "sha256_v2": "6045ef2685fe2a89bbeb8907a05aee2f8a00ef0b246867e04968748fb2918bc0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "6045ef2685fe2a89bbeb8907a05aee2f8a00ef0b246867e04968748fb2918bc0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s20C/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "20C  Collection of solicited credit information\nProhibition on collection\n(1)\tA credit reporting body must not collect credit information about an individual."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s20C/p18/s1",
+   "paragraph": "18",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Means of collection\n(7)\tA credit reporting body must collect credit information only by lawful and fair means."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s20C",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

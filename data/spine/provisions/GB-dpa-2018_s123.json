@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s123",
+ "label": "GB-dpa-2018 Section 123",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "33b2e2aaf8c47568a2c7dbd4b6ece35bea8ed9cf73fbe54df57b3701509de830",
+ "sha256_v1": "",
+ "sha256_v2": "33b2e2aaf8c47568a2c7dbd4b6ece35bea8ed9cf73fbe54df57b3701509de830",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "33b2e2aaf8c47568a2c7dbd4b6ece35bea8ed9cf73fbe54df57b3701509de830",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s123/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Age-appropriate design code\n(1)\nThe Commission must prepare a code of practice which contains such guidance as the Commission considers appropriate on standards of age-appropriate design of relevant information society services which are likely to be accessed by children."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s123/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(3)\nBefore preparing a code or amendments under this section, the Commission must consult the Secretary of State and such other persons as the Commission considers appropriate, including—\n(a)\nchildren,\n(b)\nparents,\n(c)\npersons who appear to the Commission to represent the interests of children,\n(d)\nchild development experts, and\n(e)\ntrade associations."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s123/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(4)\nIn preparing a code or amendments under this section, the Commission must have regard—\n(a)\nto the fact that children have different needs at different ages, and\n(b)\nto the United Kingdom's obligations under the United Nations Convention on the Rights of the Child."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s123/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\nAny transitional provision included in the first code under this section must cease to have effect before the end of the period of 12 months beginning when the code comes into force."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s123",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

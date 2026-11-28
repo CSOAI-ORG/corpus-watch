@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s20S",
+ "label": "AU-privacy-act-1988 Section 20S",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ba0c7c888725686f625806c55d0bfa7185f2a8c7d39c4a31d936ffb03168deb1",
+ "sha256_v1": "",
+ "sha256_v2": "ba0c7c888725686f625806c55d0bfa7185f2a8c7d39c4a31d936ffb03168deb1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "ba0c7c888725686f625806c55d0bfa7185f2a8c7d39c4a31d936ffb03168deb1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s20S/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\ta credit reporting body holds credit reporting information about an individual; and\n(b)\tthe body is satisfied that, having regard to a purpose for which the information is held by the body, the information is inaccurate, outofdate, incomplete, irrelevant or misleading;\nthe body must take such steps (if any) as are reasonable in the circumstances to correct the information to ensure that, having regard to the purpose for which it is held, the information is accurate, uptodate, complete, relevant and not misleading."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s20S/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\tthe credit reporting body corrects credit reporting information under subsection (1); and\n(b)\tthe body has previously disclosed the information under this Division (other than subsections 20D(2) and 20T(4));\nthe body must, within a reasonable period, give each recipient of the information written notice of the correction."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s20S",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

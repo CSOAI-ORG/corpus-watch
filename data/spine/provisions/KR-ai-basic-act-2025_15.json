@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-ai-basic-act-2025:15",
+ "label": "KR-ai-basic-act-2025 제15조",
+ "instrument": "KR-ai-basic-act-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "66b71cbb2408a412689441789ed82e38bc1e3ed0d07f92feb0ea50eeafcdd555",
+ "sha256_v1": "",
+ "sha256_v2": "66b71cbb2408a412689441789ed82e38bc1e3ed0d07f92feb0ea50eeafcdd555",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "66b71cbb2408a412689441789ed82e38bc1e3ed0d07f92feb0ea50eeafcdd555",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-ai-basic-act-2025:15/s1",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "제15조(인공지능 학습용데이터 관련 시책의 수립 등) ① 과학기술정보통신부장관은 관계 중앙행정기관의 장과 협의하여 학습용데이터의 생산ㆍ수집ㆍ관리ㆍ유통ㆍ활용 촉진 및 품질수준 확보 등을 위하여 필요한 시책을 추진하여야 한다."
+  },
+  {
+   "obligation_id": "KR-ai-basic-act-2025:15/s5",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "④ 과학기술정보통신부장관은 학습용데이터 구축사업의 효율적 수행을 위하여 학습용데이터를 통합적으로 제공ㆍ관리할 수 있는 시스템(이하 “통합제공시스템”이라 한다)을 구축ㆍ관리하고 민간이 자유롭게 이용할 수 있도록 제공하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-ai-basic-act-2025:15",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:118",
+ "label": "EU-mica-2023 Article 118",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "1b3f2730f288abe864288627d52621160c2a03ccf01b52a74ef995dc35876296",
+ "sha256_v1": "",
+ "sha256_v2": "1b3f2730f288abe864288627d52621160c2a03ccf01b52a74ef995dc35876296",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "1b3f2730f288abe864288627d52621160c2a03ccf01b52a74ef995dc35876296",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:118/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "EBA shall create a permanent internal committee pursuant to Article 41 of Regulation (EU) No 1093/2010 for the purposes of preparing EBA’s decisions to be taken in accordance with Article 44 thereof, including decisions relating to the supervisory tasks that have been conferred on EBA by this Regulation."
+  },
+  {
+   "obligation_id": "EU-mica-2023:118/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "EBA shall ensure that the crypto-asset committee performs only the activities referred to in paragraphs 1 and 2 and any other tasks necessary for the performance of its activities related to crypto-assets."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:118",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

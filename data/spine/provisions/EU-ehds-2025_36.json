@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:36",
+ "label": "EU-ehds-2025 Article 36",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "c5e9de0d00e7276e166a3f06813ae7b0a82d48a1db6bcf81f80caba6cb55a1f2",
+ "sha256_v1": "",
+ "sha256_v2": "c5e9de0d00e7276e166a3f06813ae7b0a82d48a1db6bcf81f80caba6cb55a1f2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "c5e9de0d00e7276e166a3f06813ae7b0a82d48a1db6bcf81f80caba6cb55a1f2",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:36/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "By 26 March 2027, the Commission shall, by means of implementing acts, adopt common specifications in respect of the essential requirements laid down in Annex II, including a common template and a time limit for implementing those common specifications."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:36/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where relevant, those common specifications shall take into account the specificities of medical devices and high-risk AI systems referred to in Article 27(1) and (2), respectively, including the state-of-the-art standards for health informatics and the European electronic health record exchange format."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:36/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 98(2)."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:36/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The common specifications referred to in paragraph 1 shall include the following information and elements:"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:36/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "EHR systems, medical devices, in vitro diagnostic medical devices and high-risk AI systems referred to in Articles 25 and 27 that are in conformity with the common specifications referred to in paragraph 1 of this Article shall be considered to be in conformity with the essential requirements covered by those common specifications or parts thereof, laid down in Annex II, and covered by those common specifications or the relevant parts thereof."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:36/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where common specifications covering interoperability and security requirements of medical devices, in vitro diagnostic medical devices or high-risk AI systems falling under other legal acts, such as Regulation (EU) 2017/745, (EU) 2017/746 or (EU) 2024/1689, affect EHR systems, the Commission shall ensure that the adoption of those common specifications is preceded by a consultation with the EHDS Board and the EDPB, as applicable."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:36",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

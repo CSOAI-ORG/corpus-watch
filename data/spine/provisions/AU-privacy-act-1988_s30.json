@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s30",
+ "label": "AU-privacy-act-1988 Section 30",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "4a1a4fbe7c6d83ed2f6afcc0bff8025656f92d8eb8e4b9dee572129a1ba88aab",
+ "sha256_v1": "",
+ "sha256_v2": "4a1a4fbe7c6d83ed2f6afcc0bff8025656f92d8eb8e4b9dee572129a1ba88aab",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "4a1a4fbe7c6d83ed2f6afcc0bff8025656f92d8eb8e4b9dee572129a1ba88aab",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s30/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "30  Reports following investigation of act or practice\n(1)\tWhere the Commissioner has investigated an act or practice without a complaint having been made under section 36, the Commissioner may report to the Minister about the act or practice, and shall do so:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s30/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\tWhere the Commissioner reports under subsection (1) about an act done in accordance with a practice, the Commissioner shall also report to the Minister about the practice."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s30/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\tshall set out in the report his or her findings and the reasons for those findings;"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s30/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d)\tshall serve a copy of the report on the agency, file number recipient, credit reporting body or credit provider concerned and the Minister (if any) responsible for the agency, recipient, credit reporting body or credit provider; and\n(e)\tmay serve a copy of the report on any person affected by the act or practice."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s30/p0/s5",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(a)\tstill thinks that the act or practice is an interference with the privacy of an individual; and\n(b)\tis not satisfied that reasonable steps have been taken to prevent a repetition of the act or a continuation of the practice;\nthe Commissioner shall give to the Minister a further report that:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s30/p0/s6",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(d)\tstates whether, to the knowledge of the Commissioner, any action has been taken as a result of the findings, and recommendations (if any), set out in the firstmentioned report and, if so, the nature of that action; and\n(e)\tstates why the Commissioner is not satisfied that reasonable steps have been taken to prevent a repetition of the act or a continuation of the practice;\nand shall serve a copy of the report on the Minister (if any) responsible for the agency, recipient, credit reporting body or credit provider."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s30/p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\tThe Minister shall cause a copy of a report given to the Minister under subsection (4) to be laid before each House of the Parliament within 15 sitting days of that House after the report is received by the Minister."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s30",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

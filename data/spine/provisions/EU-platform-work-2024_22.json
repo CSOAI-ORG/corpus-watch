@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-platform-work-2024:22",
+ "label": "EU-platform-work-2024 Article 22",
+ "instrument": "EU-platform-work-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "20a7afa06302cbab6d217ff69a94fc9311110942913950416997893e8e482dc3",
+ "sha256_v1": "",
+ "sha256_v2": "20a7afa06302cbab6d217ff69a94fc9311110942913950416997893e8e482dc3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "20a7afa06302cbab6d217ff69a94fc9311110942913950416997893e8e482dc3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-platform-work-2024:22/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Protection against adverse treatment or consequences\nMember States shall introduce the measures necessary to protect persons performing platform work, including those who are their representatives, from any adverse treatment by the digital labour platform and from any adverse consequences resulting from a complaint lodged with the digital labour platform or resulting from any proceedings initiated with the aim of enforcing compliance with the rights provided for in this Directive."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-platform-work-2024:22",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

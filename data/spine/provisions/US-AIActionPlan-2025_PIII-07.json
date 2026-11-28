@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-AIActionPlan-2025:PIII-07",
+ "label": "US-AIActionPlan-2025 Invest in Biosecurity",
+ "instrument": "US-AIActionPlan-2025",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "aef88f6543bf16f5a219f4b70b3c6dd90dc73c077f25908aa8ca5d1c613cd15b",
+ "sha256_v1": "",
+ "sha256_v2": "aef88f6543bf16f5a219f4b70b3c6dd90dc73c077f25908aa8ca5d1c613cd15b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "aef88f6543bf16f5a219f4b70b3c6dd90dc73c077f25908aa8ca5d1c613cd15b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-AIActionPlan-2025:PIII-07/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-AIActionPlan-2025:PIII-07",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

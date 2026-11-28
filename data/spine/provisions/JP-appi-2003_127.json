@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:127",
+ "label": "JP-appi-2003 Article 127",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "61f41ed166e8141afa12e90b00374f240657e3b9d497c00440616a141ae0b8f0",
+ "sha256_v1": "",
+ "sha256_v2": "61f41ed166e8141afa12e90b00374f240657e3b9d497c00440616a141ae0b8f0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "61f41ed166e8141afa12e90b00374f240657e3b9d497c00440616a141ae0b8f0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:127/s3",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "）をしようとする者がそれぞれ容易かつ的確に開示請求等をすることができるよう、当該行政機関の長等の属する行政機関等が保有する保有個人情報の特定又は当該提案に資する情報の提供その他開示請求等をしようとする者の利便を考慮した適切な措置を講ずるものとする。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:127",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

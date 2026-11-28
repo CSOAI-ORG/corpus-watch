@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:10",
+ "label": "EU-ehds-2025 Article 10",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "abe2f1e9b526d08fcfd602e7b6ec53b19a586c073cce2a718d66278ba96d407d",
+ "sha256_v1": "",
+ "sha256_v2": "abe2f1e9b526d08fcfd602e7b6ec53b19a586c073cce2a718d66278ba96d407d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "abe2f1e9b526d08fcfd602e7b6ec53b19a586c073cce2a718d66278ba96d407d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:10/p12/s1",
+   "paragraph": "12",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In such cases, Member States shall ensure that the exercise of that right is reversible."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:10/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "If a Member State provides for a right referred to in paragraph 1 of this Article, it shall establish the rules and specific safeguards regarding the opt-out mechanism."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:10",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

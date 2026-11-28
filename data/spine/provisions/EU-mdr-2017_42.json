@@ -1,0 +1,196 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:42",
+ "label": "EU-mdr-2017 Article 42",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "b2a302192b569e16f4b0e6ba40c0b52b0a7cfe1d0686bd4f61656eaf315bf34b",
+ "sha256_v1": "",
+ "sha256_v2": "b2a302192b569e16f4b0e6ba40c0b52b0a7cfe1d0686bd4f61656eaf315bf34b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "b2a302192b569e16f4b0e6ba40c0b52b0a7cfe1d0686bd4f61656eaf315bf34b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:42/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Member States shall notify the Commission and the other Member States of the conformity assessment bodies they have designated, using the electronic notification tool within the database of notified bodies developed and managed by the Commission (NANDO)."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:42/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "The notification shall clearly specify, using the codes referred to in paragraph 13 of this Article, the scope of the designation indicating the conformity assessment activities as defined in this Regulation and the types of devices which the notified body is authorised to assess and, without prejudice to Article 44, any conditions associated with the designation."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:42/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The notification shall be accompanied by the final assessment report of the authority responsible for notified bodies, the final opinion of the joint assessment team referred to in Article 39(9) and the recommendation of the MDCG."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:42/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the notifying Member State does not follow the recommendation of the MDCG, it shall provide a duly substantiated justification."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:42/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notifying Member State shall, without prejudice to Article 44, inform the Commission and the other Member States of any conditions associated with the designation and provide documentary evidence regarding the arrangements in place to ensure that the notified body will be monitored regularly and will continue to satisfy the requirements set out in Annex VII."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:42/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where no objection is raised, the Commission shall publish in NANDO the notification within 42 days of its having been notified as referred to in paragraph 2."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:42/p7/s1",
+   "paragraph": "7",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When a Member State or the Commission raises objections in accordance with paragraph 6, the Commission shall bring the matter before the MDCG within 10 days of the expiry of the period referred to in paragraph"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:42/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "After consulting the parties involved, the MDCG shall give its opinion at the latest within 40 days of the matter having been brought before it."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:42/p6/s2",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the MDCG is of the opinion that the notification can be accepted, the Commission shall publish in NANDO the notification within 14 days."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:42/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the MDCG, after having been consulted in accordance with paragraph 7, confirms the existing objection or raises another objection, the notifying Member State shall provide a written response to the MDCG opinion within 40 days of its receipt."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:42/p8/s2",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "The response shall address the objections raised in the opinion, and set out the reasons for the notifying Member State's decision to designate or not designate the conformity assessment body."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:42/p9/s1",
+   "paragraph": "9",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the notifying Member State decides to uphold its decision to designate the conformity assessment body, having given its reasons in accordance with paragraph 8, the Commission shall publish in NANDO the notification within 14 days of being informed thereof."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:42/p10/s1",
+   "paragraph": "10",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When publishing the notification in NANDO, the Commission shall also add to the electronic system referred to in Article 57 the information relating to the notification of the notified body along with the documents mentioned in paragraph 4 of this Article and the opinion and responses referred to in paragraphs 7 and 8 of this Article."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:42/p11/s1",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "The designation shall become valid the day after the notification is published in NANDO."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:42/p11/s2",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "The published notification shall state the scope of lawful conformity assessment activity of the notified body."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:42/p13/s1",
+   "paragraph": "13",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall by 26 November 2017, by means of implementing acts, draw up a list of codes and corresponding types of devices for the purpose of specifying the scope of the designation of notified bodies."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:42/p13/s2",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 114(3)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:42",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

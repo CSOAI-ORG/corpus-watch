@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:17",
+ "label": "EU-ivdr-2017 Article 17",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "4a2b6fe654911315faec17bdeb7a658f7ac8e15d32be1c540816fafeeb11de80",
+ "sha256_v1": "",
+ "sha256_v2": "4a2b6fe654911315faec17bdeb7a658f7ac8e15d32be1c540816fafeeb11de80",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "4a2b6fe654911315faec17bdeb7a658f7ac8e15d32be1c540816fafeeb11de80",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:17/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The EU declaration of conformity shall state that the requirements specified in this Regulation have been fulfilled."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:17/p1/s2",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The manufacturer shall continuously update the EU declaration of conformity."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:17/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The EU declaration of conformity shall, as a minimum, contain the information set out in Annex IV and shall be translated into an official Union language or languages required by the Member State(s) in which the device is made available."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:17/p2/s1",
+   "paragraph": "2",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where, concerning aspects not covered by this Regulation, devices are subject to other Union legislation which also requires an EU declaration of conformity by the manufacturer that fulfilment of the requirements of that legislation has been demonstrated, a single EU declaration of conformity shall be drawn up in respect of all Union acts applicable to the device."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:17/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The declaration shall contain all the information required for identification of the Union legislation to which the declaration relates."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:17/p3/s1",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "By drawing up the EU declaration of conformity, the manufacturer shall assume responsibility for compliance with the requirements of this Regulation and all other Union legislation applicable to the device."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:17",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

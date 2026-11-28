@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:15",
+ "label": "EU-ccd2-2023 Article 15",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7a9f45d5e959b59c85c474e377eb6ed29f3db6df83605ecea92789f43759a978",
+ "sha256_v1": "",
+ "sha256_v2": "7a9f45d5e959b59c85c474e377eb6ed29f3db6df83605ecea92789f43759a978",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "7a9f45d5e959b59c85c474e377eb6ed29f3db6df83605ecea92789f43759a978",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:15/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that creditors and credit intermediaries do not infer the agreement of the consumer for the conclusion of any credit agreement or for the purchase of ancillary services presented through default options."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:15/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The agreement of the consumer to the conclusion of any credit agreement or to the purchase of ancillary services presented through boxes shall be given by an unambiguous and clear affirmative act establishing a freely given, specific, informed and unambiguous indication of the consumer’s approval to the content and substance associated to the boxes."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:15",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

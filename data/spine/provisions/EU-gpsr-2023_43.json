@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-gpsr-2023:43",
+ "label": "EU-gpsr-2023 Article 43",
+ "instrument": "EU-gpsr-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "843d216b81206e39419e5a54fce7287d62ffa6244befb2deb2041bc3325f6513",
+ "sha256_v1": "",
+ "sha256_v2": "843d216b81206e39419e5a54fce7287d62ffa6244befb2deb2041bc3325f6513",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "843d216b81206e39419e5a54fce7287d62ffa6244befb2deb2041bc3325f6513",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-gpsr-2023:43/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any decision taken pursuant to this Regulation that imposes restrictions on the placing of or making a product available on the market or requires its withdrawal or its recall shall not affect the assessment of the liability of the party concerned, in the light of the national law applicable in the case in question."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:43/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This Regulation shall not affect Council Directive 85/374/EEC (34)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-gpsr-2023:43",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

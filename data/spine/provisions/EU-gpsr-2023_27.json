@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-gpsr-2023:27",
+ "label": "EU-gpsr-2023 Article 27",
+ "instrument": "EU-gpsr-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "3417572cf50ec164bdfc82cabb5a575708138016b9c94c8f2aff648451718220",
+ "sha256_v1": "",
+ "sha256_v2": "3417572cf50ec164bdfc82cabb5a575708138016b9c94c8f2aff648451718220",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "3417572cf50ec164bdfc82cabb5a575708138016b9c94c8f2aff648451718220",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-gpsr-2023:27/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall maintain a web portal enabling economic operators and providers of online marketplaces to provide, in an easy way, market surveillance authorities and consumers with the information referred to in Article 9(8) and (9), Article 10(2), point (c), Article 11(2) and (8), Article 12(4), Articles 20 and 22 (the ‘Safety Business Gateway’)."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:27/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall draw up guidelines for the practical implementation of the Safety Business Gateway."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-gpsr-2023:27",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

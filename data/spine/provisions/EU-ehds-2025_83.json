@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:83",
+ "label": "EU-ehds-2025 Article 83",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3d5ba590d1d1ecfa60c2740343060530855fc9077a2cff5463ed9777f08ea76e",
+ "sha256_v1": "",
+ "sha256_v2": "3d5ba590d1d1ecfa60c2740343060530855fc9077a2cff5463ed9777f08ea76e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "3d5ba590d1d1ecfa60c2740343060530855fc9077a2cff5463ed9777f08ea76e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:83/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall develop and implement or provide access to training programmes and provide access to information for health professionals in order for them to understand and effectively carry out their role in the primary use of and in the accessing of electronic health data, including in relation to Articles 11, 13 and"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:83/p16/s1",
+   "paragraph": "16",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall support Member States in that regard."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:83/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The training programmes and information shall be accessible to and affordable for all health professionals, without prejudice to the organisation of healthcare systems at national level."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:83",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB2025-2026:SEC-2",
+ "label": "US-CA-AB2025-2026 SEC. 2.",
+ "instrument": "US-CA-AB2025-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a7cdc2bd99ac9c966e95a38527cdffc4fb91920c8b343a0c0527f3fbe2eb08ff",
+ "sha256_v1": "",
+ "sha256_v2": "a7cdc2bd99ac9c966e95a38527cdffc4fb91920c8b343a0c0527f3fbe2eb08ff",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "a7cdc2bd99ac9c966e95a38527cdffc4fb91920c8b343a0c0527f3fbe2eb08ff",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB2025-2026:SEC-2/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)(1)A person who includes a digitally altered image in an advertisement or other promotional material for rental of real property shall include in the advertisement or promotional material a disclosure that the image has been altered."
+  },
+  {
+   "obligation_id": "US-CA-AB2025-2026:SEC-2/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The disclosure shall be reasonably conspicuous and located on or adjacent to the image."
+  },
+  {
+   "obligation_id": "US-CA-AB2025-2026:SEC-2/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)(A)An advertisement or promotional material described in paragraph (1) shall include the unaltered version of the images from which the digitally altered images were created in the posting."
+  },
+  {
+   "obligation_id": "US-CA-AB2025-2026:SEC-2/p2/s4",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the person complies with this requirement by including a link, URL, or QR code to the unaltered images, the disclosure required by paragraph (1) shall include language indicating the unaltered images can be accessed via the link, URL, or QR code."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB2025-2026:SEC-2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

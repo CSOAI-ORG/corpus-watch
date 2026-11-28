@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-mhra-samd-change-programme-roadmap:wp-1-qualification",
+ "label": "GB-mhra-samd-change-programme-roadmap section wp-1-qualification",
+ "instrument": "GB-mhra-samd-change-programme-roadmap",
+ "ladder": "HASH_ONLY",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8822c82d678cbb1fd80f6b9ea8839a0948a7c8f43b09e53376684d92abcb46bf",
+ "sha256_v1": "",
+ "sha256_v2": "",
+ "source_state": "UNKNOWN",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-mhra-samd-change-programme-roadmap:wp-1-qualification/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "There is currently a lack of clarity as to what qualifies as SaMD [footnote 1] and software in a medical device; this clarity is required to ensure appropriate, effective and proportionate regulation of these devices."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-mhra-samd-change-programme-roadmap:wp-1-qualification",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

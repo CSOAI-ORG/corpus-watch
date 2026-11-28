@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:177",
+ "label": "JP-appi-2003 Article 177",
+ "instrument": "JP-appi-2003",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "59099b7a8dca4d7d03086a3ab192d3721c1246c7bd92f3bea8dd68c55bce8b6d",
+ "sha256_v1": "",
+ "sha256_v2": "59099b7a8dca4d7d03086a3ab192d3721c1246c7bd92f3bea8dd68c55bce8b6d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "59099b7a8dca4d7d03086a3ab192d3721c1246c7bd92f3bea8dd68c55bce8b6d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:177/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:177",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

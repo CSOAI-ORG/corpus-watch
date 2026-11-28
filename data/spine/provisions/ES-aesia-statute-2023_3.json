@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "ES-aesia-statute-2023:3",
+ "label": "ES-aesia-statute-2023 Artículo 3",
+ "instrument": "ES-aesia-statute-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "086ea6f15dc9834d98c40934a8341212fc1f54641fbfdfd3e3f8bd2cad99890e",
+ "sha256_v1": "",
+ "sha256_v2": "086ea6f15dc9834d98c40934a8341212fc1f54641fbfdfd3e3f8bd2cad99890e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "ES",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "086ea6f15dc9834d98c40934a8341212fc1f54641fbfdfd3e3f8bd2cad99890e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "ES-aesia-statute-2023:3/s4",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "En cuanto al ejercicio de sus competencias debe estar sujeta a lo dispuesto en la normativa europea en lo que respecta a la supervisión de sistemas de Inteligencia Artificial."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=ES-aesia-statute-2023:3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

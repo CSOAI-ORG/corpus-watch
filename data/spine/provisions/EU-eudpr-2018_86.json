@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:86",
+ "label": "EU-eudpr-2018 Article 86",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "2b1c4bdc64bc3047a115706c621550d2828c4a4dc6097b00e65e3ebff3cb0812",
+ "sha256_v1": "",
+ "sha256_v2": "2b1c4bdc64bc3047a115706c621550d2828c4a4dc6097b00e65e3ebff3cb0812",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "2b1c4bdc64bc3047a115706c621550d2828c4a4dc6097b00e65e3ebff3cb0812",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:86/p1/s1",
+   "paragraph": "1",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where two or more controllers or one or more controllers together with one or more controllers other than Union institutions and bodies jointly determine the purposes and means of processing, they shall be joint controllers."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:86/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "They shall in a transparent manner determine their respective responsibilities for compliance with their data protection obligations, in particular as regards the exercise of the rights of the data subject and their respective duties to provide the information referred to in Article 79, by means of an arrangement between them, unless and in so far as the respective responsibilities of the joint controllers are determined by Union or Member State law to which the joint controllers are subject."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:86/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The arrangement referred to in paragraph 1 shall duly reflect the respective roles and relationships of the joint controllers vis-à-vis the data subject."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:86/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The essence of the arrangement shall be made available to the data subject."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:86",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

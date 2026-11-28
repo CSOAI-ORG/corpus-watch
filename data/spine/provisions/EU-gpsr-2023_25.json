@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-gpsr-2023:25",
+ "label": "EU-gpsr-2023 Article 25",
+ "instrument": "EU-gpsr-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "42ebdd637cb83103683dd08d390d4f66983ebeda1dbda025a88a267f98bcad22",
+ "sha256_v1": "",
+ "sha256_v2": "42ebdd637cb83103683dd08d390d4f66983ebeda1dbda025a88a267f98bcad22",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "42ebdd637cb83103683dd08d390d4f66983ebeda1dbda025a88a267f98bcad22",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-gpsr-2023:25/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall further develop, modernise and maintain the rapid alert system for the exchange of information on corrective measures concerning dangerous products (‘the Safety Gate Rapid Alert System’) and enhance its efficiency."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:25/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission and the Member States shall have access to the Safety Gate Rapid Alert System."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:25/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "For that purpose, each Member State shall designate a single national contact point which shall be responsible at least for checking the completeness of the notifications and for the submission thereof for validation by the Commission, as well as for communication with the Commission with regard to the tasks provided for in Article 26(1) to (6)."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:25/p2/s3",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall adopt an implementing act specifying the roles and tasks of single national contact points."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:25/p2/s4",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That implementing act shall be adopted in accordance with the examination procedure referred to in Article 46(3)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-gpsr-2023:25",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

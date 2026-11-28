@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s83",
+ "label": "GB-osa-2023 Section 83",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "b0c446f6d47bfce87493fb8b5b3e7e8067772adadd274b17dfed889441039d72",
+ "sha256_v1": "",
+ "sha256_v2": "b0c446f6d47bfce87493fb8b5b3e7e8067772adadd274b17dfed889441039d72",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "b0c446f6d47bfce87493fb8b5b3e7e8067772adadd274b17dfed889441039d72",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s83/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Duty to notify OFCOM\n(1)\nA provider of a regulated service must notify OFCOM in relation to a charging year which is—\n(a)\nthe first fee-paying year in relation to that provider, or\n(b)\nany charging year after the first fee-paying year where—\n(i)\nthe previous charging year was not a fee-paying year in relation to the provider, and the charging year in question is a fee-paying year in relation to the provider, or\n(ii)\nthe previous charging year was a fee-paying year in relation to the provider, and the charging year in question is not a fee-paying year in relation to the provider."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s83/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nA notification under subsection (1) in relation to a charging year must include details of all regulated services provided by the provider, and where it is a notification under subsection (1)(a) or (b)(i), it must also include—\n(a)\ndetails of the provider’s qualifying worldwide revenue for the qualifying period that relates to that charging year, and\n(b)\nsupporting evidence, documents or other information as required by regulations made by OFCOM under section 85."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s83/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nA notification under subsection (1) must be provided to OFCOM—\n(a)\nin relation to the initial charging year, within four months of the date on which the first regulations under section 86 come into force (first threshold figure);"
+  },
+  {
+   "obligation_id": "GB-osa-2023:s83/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(9)\nDetails of an exemption or revocation must be published by OFCOM at least six months before the beginning of the first charging year for which the exemption or revocation is to have effect."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s83",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

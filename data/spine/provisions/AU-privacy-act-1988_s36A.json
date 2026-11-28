@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s36A",
+ "label": "AU-privacy-act-1988 Section 36A",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b7a7584af29e8eed703b90781b8eee09c7a4d7fa316461d7f1a30eb8d31f7fac",
+ "sha256_v1": "",
+ "sha256_v2": "b7a7584af29e8eed703b90781b8eee09c7a4d7fa316461d7f1a30eb8d31f7fac",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "b7a7584af29e8eed703b90781b8eee09c7a4d7fa316461d7f1a30eb8d31f7fac",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s36A/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "If a complaint is made, the Commissioner is required to investigate the act or practice except in certain circumstances."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s36A/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An entity to which a determination relates must comply with certain declarations included in the determination."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s36A",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

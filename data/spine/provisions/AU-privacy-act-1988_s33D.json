@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s33D",
+ "label": "AU-privacy-act-1988 Section 33D",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7066d789ed9705f74fef2efc52186111c59beab6850b25d0b6da28b42489e5f0",
+ "sha256_v1": "",
+ "sha256_v2": "7066d789ed9705f74fef2efc52186111c59beab6850b25d0b6da28b42489e5f0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "7066d789ed9705f74fef2efc52186111c59beab6850b25d0b6da28b42489e5f0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s33D/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Failure to comply with a direction\n(6)\tIf an agency does not comply with a direction under subsection (1), the Commissioner must advise both of the following of the failure:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s33D/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Review\n(7)\tBefore the fifth anniversary of the commencement of this section, the Minister must cause a review to be undertaken of whether this section should apply in relation to organisations."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s33D",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

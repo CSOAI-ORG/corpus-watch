@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s53A",
+ "label": "AU-privacy-act-1988 Section 53A",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8090358444a2279b5495c83eb7db8da70a428589ded1917dd0792d28b0cdb888",
+ "sha256_v1": "",
+ "sha256_v2": "8090358444a2279b5495c83eb7db8da70a428589ded1917dd0792d28b0cdb888",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "8090358444a2279b5495c83eb7db8da70a428589ded1917dd0792d28b0cdb888",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s53A/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\tmust give a copy of the determination to each agency:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s53A/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(3)\tAn agency that receives a recommendation from the Commissioner must tell the Commissioner in writing of any action the agency proposes to take in relation to the recommendation."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s53A/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The agency must do so within 60 days of receiving the recommendation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s53A",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

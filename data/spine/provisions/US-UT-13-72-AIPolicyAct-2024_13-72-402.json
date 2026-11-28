@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-UT-13-72-AIPolicyAct-2024:13-72-402",
+ "label": "US-UT-13-72-AIPolicyAct-2024 Utah Code § 13-72-402",
+ "instrument": "US-UT-13-72-AIPolicyAct-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e865a19b3673dddf2eecc5cbabcffc3bc4cb875cd4c23d4df0433992d665250b",
+ "sha256_v1": "",
+ "sha256_v2": "e865a19b3673dddf2eecc5cbabcffc3bc4cb875cd4c23d4df0433992d665250b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "e865a19b3673dddf2eecc5cbabcffc3bc4cb875cd4c23d4df0433992d665250b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-UT-13-72-AIPolicyAct-2024:13-72-402/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "To be eligible for a regulatory mitigation agreement or a joint interpretation agreement, a participant shall demonstrate to the office that: the participant has the technical expertise and capability to responsibly develop, implement, and use or supervise the use of the proposed artificial intelligence technology; the participant has sufficient financial resources to meet obligations during testing; the artificial intelligence technology provides potential substantial consumer benefits that may outweigh identified risks from mitigated enforcement of regulations; the participant has an effective plan to monitor and minimize identified risks from testing; and the scale, scope, and duration of"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-UT-13-72-AIPolicyAct-2024:13-72-402",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

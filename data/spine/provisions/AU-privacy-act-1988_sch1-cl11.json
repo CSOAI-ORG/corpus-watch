@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:sch1-cl11",
+ "label": "AU-privacy-act-1988 Schedule 1 clause 11",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "50a712299f6ad3174e48d7f166f374a96a46664d23a9026c336ff64d314abb6f",
+ "sha256_v1": "",
+ "sha256_v2": "50a712299f6ad3174e48d7f166f374a96a46664d23a9026c336ff64d314abb6f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "50a712299f6ad3174e48d7f166f374a96a46664d23a9026c336ff64d314abb6f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:sch1-cl11/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "11  Australian Privacy Principle 11—security of personal information\n11.1\tIf an APP entity holds personal information, the entity must take such steps as are reasonable in the circumstances to protect the information:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:sch1-cl11/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\tan APP entity holds personal information about an individual; and\n(b)\tthe entity no longer needs the information for any purpose for which the information may be used or disclosed by the entity under this Schedule; and\n(c)\tthe information is not contained in a Commonwealth record; and\n(d)\tthe entity is not required by or under an Australian law, or a court/tribunal order, to retain the information;\nthe entity must take such steps as are reasonable in the circumstances to destroy the information or to ensure that the information is deidentified.\n11.3\tFor the purposes of subclauses 11.1 and 11.2, without limiting those subclauses or any other provision of this Act, such steps include techn"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:sch1-cl11",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

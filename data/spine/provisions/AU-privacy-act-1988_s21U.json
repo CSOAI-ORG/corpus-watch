@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s21U",
+ "label": "AU-privacy-act-1988 Section 21U",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "0960c8810ff45d2a96e4cfd1f2d32da13351437b445c13af93277b20318abba3",
+ "sha256_v1": "",
+ "sha256_v2": "0960c8810ff45d2a96e4cfd1f2d32da13351437b445c13af93277b20318abba3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "0960c8810ff45d2a96e4cfd1f2d32da13351437b445c13af93277b20318abba3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s21U/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\ta credit provider holds credit information or credit eligibility information about an individual; and\n(b)\tthe provider is satisfied that, having regard to a purpose for which the information is held by the provider, the information is inaccurate, outofdate, incomplete, irrelevant or misleading;\nthe provider must take such steps (if any) as are reasonable in the circumstances to correct the information to ensure that, having regard to the purpose for which it is held, the information is accurate, uptodate, complete, relevant and not misleading."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s21U/p0/s2",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i)\tthis Division (other than subsection 21V(4)); or\n(ii)\tthe Australian Privacy Principles (other than Australian Privacy Principle 4.2);\nthe provider must, within a reasonable period, give each recipient of the information written notice of the correction."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s21U",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

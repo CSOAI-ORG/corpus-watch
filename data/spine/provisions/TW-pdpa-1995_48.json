@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "TW-pdpa-1995:48",
+ "label": "TW-pdpa-1995 Article 48",
+ "instrument": "TW-pdpa-1995",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "21610061dc4e0e1e5cf6628758eedcdee6adf6bd53d726722fc713c334773d9a",
+ "sha256_v1": "",
+ "sha256_v2": "21610061dc4e0e1e5cf6628758eedcdee6adf6bd53d726722fc713c334773d9a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "TW",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "21610061dc4e0e1e5cf6628758eedcdee6adf6bd53d726722fc713c334773d9a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "TW-pdpa-1995:48/s7",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "非公務機關違反第十二條第二項、第三項或依第四項所定辦法中有關通報之內容、方式、時限、應變措施、紀錄保存之規定者，由主管機關處新臺幣二萬元以上二十萬元以下罰鍰，並令其限期改正，屆期未改正者，按次處罰。"
+  },
+  {
+   "obligation_id": "TW-pdpa-1995:48/s10",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "二、違反依第二十條之一第二項所定辦法中有關個人資料檔案安全維護事項、管理機制、應採取措施之規定。"
+  },
+  {
+   "obligation_id": "TW-pdpa-1995:48/s12",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "四、違反第五十一條之一第四項所定辦法中有關計畫或處理方法應具備之內容、執行方式或基準之規定。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=TW-pdpa-1995:48",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

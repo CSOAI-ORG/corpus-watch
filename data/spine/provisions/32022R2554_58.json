@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022R2554:58",
+ "label": "DORA Art. 58",
+ "instrument": "DORA",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "a334b3b726cdba736c9fcf55aac400bb7a9515d80bbe867ec42dc4f6e6b1c999",
+ "sha256_v1": "a334b3b726cdba736c9fcf55aac400bb7a9515d80bbe867ec42dc4f6e6b1c999",
+ "sha256_v2": "8c61e80aedb8bbe9becf3e789fe4a57e15c7ef8d9fea1878f322701142a4eb62",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "8c61e80aedb8bbe9becf3e789fe4a57e15c7ef8d9fea1878f322701142a4eb62",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022R2554:58/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 58 review",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022R2554:58",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

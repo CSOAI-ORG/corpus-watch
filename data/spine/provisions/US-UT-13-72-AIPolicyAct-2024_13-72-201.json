@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-UT-13-72-AIPolicyAct-2024:13-72-201",
+ "label": "US-UT-13-72-AIPolicyAct-2024 Utah Code § 13-72-201",
+ "instrument": "US-UT-13-72-AIPolicyAct-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "bd384f016f9bfee0e77f6065660f00c98c702c27694b856cf0d90188e0976c04",
+ "sha256_v1": "",
+ "sha256_v2": "bd384f016f9bfee0e77f6065660f00c98c702c27694b856cf0d90188e0976c04",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "bd384f016f9bfee0e77f6065660f00c98c702c27694b856cf0d90188e0976c04",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-UT-13-72-AIPolicyAct-2024:13-72-201/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The executive director of the department shall appoint a director to oversee the management and operations of the office."
+  },
+  {
+   "obligation_id": "US-UT-13-72-AIPolicyAct-2024:13-72-201/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The office shall: create and administer an artificial intelligence learning laboratory program; consult with businesses and other stakeholders in the state about potential regulatory proposals; make rules in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, establishing: required participant disclosures to consumers; reporting requirements for participants to the office; criteria for limited extension of the participation period; and other requirements necessary to administer the learning laboratory; and report annually, before November 30, to the Business and Labor Interim Committee regarding: the proposed learning agenda for the learning laboratory; the findings, pa"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-UT-13-72-AIPolicyAct-2024:13-72-201",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

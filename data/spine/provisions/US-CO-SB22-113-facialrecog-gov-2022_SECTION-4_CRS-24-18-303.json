@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CO-SB22-113-facialrecog-gov-2022:SECTION-4:CRS-24-18-303",
+ "label": "US-CO-SB22-113-facialrecog-gov-2022 C.R.S. 24-18-303",
+ "instrument": "US-CO-SB22-113-facialrecog-gov-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "98ef4b85aab094a455d0b67fa395df4bb557c3609a5076cf4ef7a59cb9a3c885",
+ "sha256_v1": "",
+ "sha256_v2": "98ef4b85aab094a455d0b67fa395df4bb557c3609a5076cf4ef7a59cb9a3c885",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "98ef4b85aab094a455d0b67fa395df4bb557c3609a5076cf4ef7a59cb9a3c885",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CO-SB22-113-facialrecog-gov-2022:SECTION-4:CRS-24-18-303/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "AN AGENCY USING A FACIAL RECOGNITION SERVICE TO MAKE DECISIONS THAT PRODUCE LEGAL EFFECTS CONCERNING INDIVIDUALS OR SIMILARLY SIGNIFICANT EFFECTS CONCERNING INDIVIDUALS MUST ENSURE THAT THOSE DECISIONS ARE SUBJECT TO MEANINGFUL HUMAN REVIEW."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CO-SB22-113-facialrecog-gov-2022:SECTION-4:CRS-24-18-303",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

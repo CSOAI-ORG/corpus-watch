@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB1215-2019:SEC-2",
+ "label": "US-CA-AB1215-2019 SEC. 2.",
+ "instrument": "US-CA-AB1215-2019",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "878266f5c91edeec614ce6694364c152acdabf981060012ea6a3906830924c74",
+ "sha256_v1": "",
+ "sha256_v2": "878266f5c91edeec614ce6694364c152acdabf981060012ea6a3906830924c74",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "878266f5c91edeec614ce6694364c152acdabf981060012ea6a3906830924c74",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB1215-2019:SEC-2/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)A law enforcement agency or law enforcement officer shall not install, activate, or use any biometric surveillance system in connection with an officer camera or data collected by an officer camera."
+  },
+  {
+   "obligation_id": "US-CA-AB1215-2019:SEC-2/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e)This section shall remain in effect only until January 1, 2023, and as of that date is repealed."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB1215-2019:SEC-2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

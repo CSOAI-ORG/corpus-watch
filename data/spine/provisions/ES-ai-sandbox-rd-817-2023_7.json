@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "ES-ai-sandbox-rd-817-2023:7",
+ "label": "ES-ai-sandbox-rd-817-2023 Artículo 7",
+ "instrument": "ES-ai-sandbox-rd-817-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "252be564864acc0f22e7b0e179fc84f6fc63927c64786e5d78916fc4057690ae",
+ "sha256_v1": "",
+ "sha256_v2": "252be564864acc0f22e7b0e179fc84f6fc63927c64786e5d78916fc4057690ae",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "ES",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "252be564864acc0f22e7b0e179fc84f6fc63927c64786e5d78916fc4057690ae",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:7/s4",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Las solicitudes se presentarán a través del registro electrónico accesible en la sede electrónica asociada del Ministerio de Asuntos Económicos y Transformación Digital y deberán ir acompañadas de: una memoria técnica que deberá contemplar el contenido previsto en el anexo III y una declaración responsable que acredite el cumplimiento de la normativa relativa a la Protección de Datos Personales según el anexo IV.\n4."
+  },
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:7/s6",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Sin embargo, para participar, deberán realizar su correspondiente solicitud de participación, indicando en ella al proveedor de IA con el que participará en el entorno.\n5."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=ES-ai-sandbox-rd-817-2023:7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

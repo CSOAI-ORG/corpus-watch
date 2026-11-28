@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "TW-ai-basic-act-2026:18",
+ "label": "TW-ai-basic-act-2026 Article 18",
+ "instrument": "TW-ai-basic-act-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "c54e8eedbc5573ab9ffdd9a6c61cdd2d42a684ffe2f0d5c36f8c821dff23ca80",
+ "sha256_v1": "",
+ "sha256_v2": "c54e8eedbc5573ab9ffdd9a6c61cdd2d42a684ffe2f0d5c36f8c821dff23ca80",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "TW",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "c54e8eedbc5573ab9ffdd9a6c61cdd2d42a684ffe2f0d5c36f8c821dff23ca80",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "TW-ai-basic-act-2026:18/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "政府應依本法規定，檢討所主管之法規與行政措施；"
+  },
+  {
+   "obligation_id": "TW-ai-basic-act-2026:18/s3",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "有不符合本法規定或無法規可適用者，應自本法施行後二年內，完成法規之制（訂）定、修正或廢止，及行政措施之改進。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=TW-ai-basic-act-2026:18",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

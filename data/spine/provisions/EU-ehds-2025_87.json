@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:87",
+ "label": "EU-ehds-2025 Article 87",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3a3cf6d13d904f99d533f0d647d4f011fe619cd76cf02b95cb0b7a59bf890e82",
+ "sha256_v1": "",
+ "sha256_v2": "3a3cf6d13d904f99d533f0d647d4f011fe619cd76cf02b95cb0b7a59bf890e82",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "3a3cf6d13d904f99d533f0d647d4f011fe619cd76cf02b95cb0b7a59bf890e82",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:87/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Health data access bodies, trusted health data holders and the Union health data access service shall store and process personal electronic health data in the Union when performing pseudonymisation, anonymisation and any other personal data processing operations referred to in Articles 67 to 72, through secure processing environments within the meaning of Article 73 and Article 75(9) or through HealthData@EU."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:87",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:118",
+ "label": "JP-appi-2003 Article 118",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "d1183e934bcc4643a296bdc40867bf74502f3c0dde490f455218a09f4bb98723",
+ "sha256_v1": "",
+ "sha256_v2": "d1183e934bcc4643a296bdc40867bf74502f3c0dde490f455218a09f4bb98723",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d1183e934bcc4643a296bdc40867bf74502f3c0dde490f455218a09f4bb98723",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:118/s5",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ja:internal-record",
+   "status": "DRAFT",
+   "text": "この場合において、第百十二条第二項中「次に」とあるのは「第一号及び第四号から第八号までに」と、同項第四号中「前号に掲げるもののほか、提案」とあるのは「提案」と、「の作成に用いる第百十六条第一項の規定による加工の方法を特定する」とあるのは「を特定する」と、同項第八号中「前各号」とあるのは「第一号及び第四号から前号まで」と、第百十四条第一項中「次に」とあるのは「第一号及び第四号から第七号までに」と、同項第七号中「前各号」とあるのは「第一号及び前三号」と、同条第二項中「前項各号」とあるのは「前項第一号及び第四号から第七号まで」と、同条第三項中「第一項各号」とあるのは「第一項第一号及び第四号から第七号まで」と読み替えるものとする。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:118",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

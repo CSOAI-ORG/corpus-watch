@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:74",
+ "label": "JP-appi-2003 Article 74",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "59f5eaf491ef63b1901518c7e17d8ba559aa04be5488638cbbd78aa741e533ff",
+ "sha256_v1": "",
+ "sha256_v2": "59f5eaf491ef63b1901518c7e17d8ba559aa04be5488638cbbd78aa741e533ff",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "59f5eaf491ef63b1901518c7e17d8ba559aa04be5488638cbbd78aa741e533ff",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:74/s4",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "）が個人情報ファイルを保有しようとするときは、当該行政機関の長は、あらかじめ、個人情報保護委員会に対し、次に掲げる事項を通知しなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:74/s35",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "３ 行政機関の長は、第一項に規定する事項を通知した個人情報ファイルについて、当該行政機関がその保有をやめたとき、又はその個人情報ファイルが前項第九号に該当するに至ったときは、遅滞なく、個人情報保護委員会に対しその旨を通知しなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:74",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

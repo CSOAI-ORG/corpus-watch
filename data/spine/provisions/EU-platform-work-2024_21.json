@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-platform-work-2024:21",
+ "label": "EU-platform-work-2024 Article 21",
+ "instrument": "EU-platform-work-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "821585f5533c6bebe253d6a77f2779fcf4e9fb3795b1e329a6586af3ac8b3a04",
+ "sha256_v1": "",
+ "sha256_v2": "821585f5533c6bebe253d6a77f2779fcf4e9fb3795b1e329a6586af3ac8b3a04",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "821585f5533c6bebe253d6a77f2779fcf4e9fb3795b1e329a6586af3ac8b3a04",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-platform-work-2024:21/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that, in proceedings concerning the provisions of this Directive, national courts or competent authorities are able to order the digital labour platform to disclose any relevant evidence which lies in its control."
+  },
+  {
+   "obligation_id": "EU-platform-work-2024:21/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that national courts have the power to order the disclosure of evidence containing confidential information where they consider it relevant to the proceedings."
+  },
+  {
+   "obligation_id": "EU-platform-work-2024:21/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "They shall ensure that, when ordering the disclosure of such information, national courts have at their disposal effective measures to protect such information."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-platform-work-2024:21",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

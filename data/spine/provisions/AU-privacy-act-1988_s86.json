@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s86",
+ "label": "AU-privacy-act-1988 Section 86",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "958383c3ca006d1d720ee885179f3f9dd64e170f7ba9f0ecf8a1e286d63171e9",
+ "sha256_v1": "",
+ "sha256_v2": "958383c3ca006d1d720ee885179f3f9dd64e170f7ba9f0ecf8a1e286d63171e9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "958383c3ca006d1d720ee885179f3f9dd64e170f7ba9f0ecf8a1e286d63171e9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s86/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "86  Disclosure of interests of members\n(1)\tA member who has a direct or indirect pecuniary interest in a matter being considered or about to be considered by the Advisory Committee, being an interest that could conflict with the proper performance of that member’s functions in relation to the consideration of the matter, shall, as soon as practicable after the relevant facts have come to the knowledge of that member, disclose the nature of that interest at a meeting of the Advisory Committee."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s86/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\tA disclosure under subsection (1) at a meeting of the Advisory Committee shall be recorded in the minutes of the meeting."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s86",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

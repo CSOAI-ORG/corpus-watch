@@ -1,0 +1,136 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-political-ads-2024:13",
+ "label": "EU-political-ads-2024 Article 13",
+ "instrument": "EU-political-ads-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "78c27f592b92169fbfe5ffaf91d6cb4e9f1531771553e290bc6438208d1caaa7",
+ "sha256_v1": "",
+ "sha256_v2": "78c27f592b92169fbfe5ffaf91d6cb4e9f1531771553e290bc6438208d1caaa7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "78c27f592b92169fbfe5ffaf91d6cb4e9f1531771553e290bc6438208d1caaa7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-political-ads-2024:13/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall establish and ensure, directly or by entrusting this responsibility to a management authority, the management of a European repository for online political advertisements (the ‘European repository’) which is a public repository for all online political advertisements published in the Union or directed to Union citizens or residents in the Union."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:13/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That repository shall include:"
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:13/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\na functionality enabling public access to online political advertisements, together with the information provided by political advertising publishers referred to in Article 12(1) in respect of each online political advertisement from the moment of its first publication; the information shall be available in machine-readable format, shall allow for multicriteria queries and shall be publicly accessible via a single portal;"
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:13/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(b)\na hosting service that ensures the availability of online political advertising and the information published with it referred to in Article 12(1), for the entire period during which the political advertisement is presented and for seven years after the political advertisement was last presented; that hosting service, and access to the information hosted, shall respect and be without prejudice to any legal requirement for the removal of the political advertisement and of the information published with it; that hosting service shall be free of charge for the political advertising publishers that submit an online political advertisement to the European repository."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:13/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Political advertising publishers that are very large online platforms and very large online search engines shall ensure that each political advertisement, together with the information referred to in Article 12(1) of this Regulation, is made available in a repository, as referred to in Article 39 of Regulation (EU) 2022/2065."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:13/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In addition, those political advertising publishers shall enable access to that information through the European repository from the moment of publication and for the entire period during which they present the political advertisement and for seven years after the political advertisement was last presented on their online interfaces."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:13/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where political advertising publishers remove or disable access to a specific political advertisement on the basis of an alleged illegality or of an incompatibility with their terms and conditions, they shall continue to provide access to the information required by Article 12(1) of this Regulation for the period referred to in Article 9(3) of this Regulation."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:13/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Political advertising publishers other than those referred to in paragraph 2 of this Article that publish political advertisements through an online service shall make each such political advertisement and the information required under Article 12(1) available in the European repository no later than 72 hours after the first publication of the political advertisement."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:13/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission, or, as the case may be, the management authority referred to in paragraph 1, shall have no liability for the completeness and accuracy of the political advertising and the information published with it or its compliance with relevant Union or national law, and other applicable binding rules."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:13/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "By 10 April 2026, the Commission shall adopt implementing acts in accordance with Article 29 to set out detailed arrangements for the provision of a common data structure, standardised metadata to facilitate the inclusion of political advertisements in the European repository and the indexation of political advertising by online search engines, standardised authentication, and a common application programming interface, with a view to enabling the aggregation of the information published online pursuant to this Regulation to be accessed through a single portal."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:13/p6/s2",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When adopting those implementing acts, the Commission shall take into account technological, market, and scientific developments, and shall aim to achieve the following objectives:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-political-ads-2024:13",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

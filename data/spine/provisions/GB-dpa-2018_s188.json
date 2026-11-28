@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s188",
+ "label": "GB-dpa-2018 Section 188",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "bf2c24d3c859851d6dc370ee758d15a1d2bbc88628de68fb6692ef9c8e8a8712",
+ "sha256_v1": "",
+ "sha256_v2": "bf2c24d3c859851d6dc370ee758d15a1d2bbc88628de68fb6692ef9c8e8a8712",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "bf2c24d3c859851d6dc370ee758d15a1d2bbc88628de68fb6692ef9c8e8a8712",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s188/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d)\nthe persons to whom compensation may or must be paid, including compensation not claimed by the data subject;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s188",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

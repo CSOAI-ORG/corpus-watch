@@ -1,0 +1,136 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:110a",
+ "label": "EU-mica-2023 110a",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": null,
+ "sha256_v1": "",
+ "sha256_v2": "",
+ "source_state": "INSERTED_BY_AMENDMENT",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "INSERTED",
+ "change_edits": 640,
+ "sha256_current": "b8f42a7d78f8154db58b43a7a5b3aa1ed4e9f61f6e2be7b71052b9283636564c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:110a/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "From 10 January 2030, when making public any information referred to in Article 88(1) of this Regulation, the issuer, offeror or person seeking admission to trading shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council ( 20 )."
+  },
+  {
+   "obligation_id": "EU-mica-2023:110a/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That information shall comply with the following requirements:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:110a/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the purposes of paragraph 1, point (b)(ii), the issuer, offeror or person seeking admission to trading shall obtain a legal entity identifier."
+  },
+  {
+   "obligation_id": "EU-mica-2023:110a/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "By 9 January 2030, for the purpose of making the information referred to in paragraph 1 of this Article accessible on ESAP, Member States shall designate at least one collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 and notify ESMA thereof."
+  },
+  {
+   "obligation_id": "EU-mica-2023:110a/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "From 10 January 2030, the information referred to in Articles 109 and 110 of this Regulation shall be made accessible on ESAP."
+  },
+  {
+   "obligation_id": "EU-mica-2023:110a/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For that purpose, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be ESMA."
+  },
+  {
+   "obligation_id": "EU-mica-2023:110a/p4/s3",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That information shall comply with the following requirements:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:110a/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the purpose of ensuring the efficient collection and management of information submitted in accordance with paragraph 1, ESMA shall develop draft implementing technical standards to specify:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:110a/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the purposes of point (c), ESMA shall assess the advantages and disadvantages of different machine-readable formats and conduct appropriate field tests."
+  },
+  {
+   "obligation_id": "EU-mica-2023:110a/p5/s3",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "ESMA shall submit those draft implementing technical standards to the Commission."
+  },
+  {
+   "obligation_id": "EU-mica-2023:110a/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where necessary, ESMA shall adopt guidelines for entities to ensure that the metadata submitted in accordance with paragraph 5, first subparagraph, point (a), are correct."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:110a",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

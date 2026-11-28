@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CO-SB25B-004-delay-2025:SECTION-1",
+ "label": "US-CO-SB25B-004-delay-2025 SECTION 1",
+ "instrument": "US-CO-SB25B-004-delay-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "bcdec31fe948d9619fcd3a31380bd2e0019572539e793de317fe2102f66b2c26",
+ "sha256_v1": "",
+ "sha256_v2": "bcdec31fe948d9619fcd3a31380bd2e0019572539e793de317fe2102f66b2c26",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 28,
+ "sha256_current": "bcdec31fe948d9619fcd3a31380bd2e0019572539e793de317fe2102f66b2c26",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CO-SB25B-004-delay-2025:SECTION-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1) On and after JUNE 30, 2026, a developer of a high-risk artificial intelligence system shall use reasonable care to protect consumers from any known or reasonably foreseeable risks of algorithmic discrimination arising from the intended and contracted uses of the high-risk artificial intelligence system."
+  },
+  {
+   "obligation_id": "US-CO-SB25B-004-delay-2025:SECTION-1/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2) On and after JUNE 30, 2026, and except as provided in subsection (6) of this section, a developer of a high-risk artificial intelligence system shall make available to the deployer or other developer of the high-risk artificial intelligence system:"
+  },
+  {
+   "obligation_id": "US-CO-SB25B-004-delay-2025:SECTION-1/p1/s3",
+   "paragraph": "1",
+   "addressee": "deployer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "(3) (a) Except as provided in subsection (6) of this section, a developer that offers, sells, leases, licenses, gives, or otherwise makes available to a deployer or other developer a high-risk artificial intelligence system on or after JUNE 30, 2026, shall make available to the deployer or other developer, to the extent feasible, the documentation and information, through artifacts such as model cards, dataset cards, or other impact assessments, necessary for a deployer, or for a third party contracted by a deployer, to complete an impact assessment pursuant to section 6-1-1703 (3)."
+  },
+  {
+   "obligation_id": "US-CO-SB25B-004-delay-2025:SECTION-1/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4) (a) On and after JUNE 30, 2026, a developer shall make available, in a manner that is clear and readily available on the developer's website or in a public use case inventory, a statement summarizing:"
+  },
+  {
+   "obligation_id": "US-CO-SB25B-004-delay-2025:SECTION-1/p1/s5",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5) On and after JUNE 30, 2026, a developer of a high-risk artificial intelligence system shall disclose to the attorney general, in a form and manner prescribed by the attorney general, and to all known deployers or other developers of the high-risk artificial intelligence system, any known or reasonably foreseeable risks of algorithmic discrimination arising from the intended uses of the high-risk artificial intelligence system without unreasonable delay but no later than ninety days after the date on which:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CO-SB25B-004-delay-2025:SECTION-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

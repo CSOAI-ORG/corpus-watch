@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:72",
+ "label": "EU-ivdr-2017 Article 72",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a7ca8cc03daac0ce066d6ee30ceb9a72b902e77d073bcd97a73f052c8cbb4892",
+ "sha256_v1": "",
+ "sha256_v2": "a7ca8cc03daac0ce066d6ee30ceb9a72b902e77d073bcd97a73f052c8cbb4892",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a7ca8cc03daac0ce066d6ee30ceb9a72b902e77d073bcd97a73f052c8cbb4892",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:72/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Before the Member State concerned takes any of the measures referred to in paragraph 1 it shall, except where immediate action is required, ask the sponsor or the investigator or both for their opinion."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:72/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That opinion shall be delivered within seven days."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:72/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a Member State has taken a measure referred to in paragraph 1 of this Article, or has refused a performance study, or has been notified by the sponsor of the early termination of a performance study on safety grounds, that Member State shall communicate the corresponding decision and the grounds therefor to all Member States and the Commission by means of the electronic system referred to in Article 69."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:72/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where an application is withdrawn by the sponsor prior to a decision by a Member State, that information shall be made available through the electronic system referred to in Article 69 to all Member States and the Commission."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:72",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

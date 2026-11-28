@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:70",
+ "label": "EU-mica-2023 Article 70",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6a3e980abf81b59de1a2df73e83accfd7f29acc89791b15deb0f0edb6182cd4e",
+ "sha256_v1": "",
+ "sha256_v2": "6a3e980abf81b59de1a2df73e83accfd7f29acc89791b15deb0f0edb6182cd4e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "6a3e980abf81b59de1a2df73e83accfd7f29acc89791b15deb0f0edb6182cd4e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:70/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers that hold crypto-assets belonging to clients or the means of access to such crypto-assets shall make adequate arrangements to safeguard the ownership rights of clients, especially in the event of the crypto-asset service provider’s insolvency, and to prevent the use of clients’ crypto-assets for their own account."
+  },
+  {
+   "obligation_id": "EU-mica-2023:70/p2/s1",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where their business models or the crypto-asset services require holding clients’ funds other than e-money tokens, crypto-asset service providers shall have adequate arrangements in place to safeguard the ownership rights of clients and prevent the use of clients’ funds for their own account."
+  },
+  {
+   "obligation_id": "EU-mica-2023:70/p3/s1",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers shall, by the end of the business day following the day on which clients’ funds other than e-money tokens were received, place those funds with a credit institution or a central bank."
+  },
+  {
+   "obligation_id": "EU-mica-2023:70/p3/s2",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers shall take all necessary steps to ensure that clients’ funds other than e-money tokens held with a credit institution or a central bank are held in an account separately identifiable from any accounts used to hold funds belonging to the crypto-asset service providers."
+  },
+  {
+   "obligation_id": "EU-mica-2023:70/p4/s1",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where payment services are provided, crypto-asset service providers shall inform their clients of all of the following:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:70",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

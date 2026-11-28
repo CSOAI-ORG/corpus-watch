@@ -1,0 +1,316 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:annex-XI",
+ "label": "EU-mdr-2017 Annex XI",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "f2c1a0e47cc3077fa8040305c1476c0746e85dfe0162caf9b4074a30b9c751ac",
+ "sha256_v1": "",
+ "sha256_v2": "f2c1a0e47cc3077fa8040305c1476c0746e85dfe0162caf9b4074a30b9c751ac",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f2c1a0e47cc3077fa8040305c1476c0746e85dfe0162caf9b4074a30b9c751ac",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p4/s1",
+   "paragraph": "4",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "The manufacturer shall ensure that the quality management system approved for the manufacture of the devices concerned is implemented, shall carry out a final verification, as specified in Section 6, and shall be subject to the surveillance referred to in Section 7."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p5/s1",
+   "paragraph": "5",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "When the manufacturer fulfils the obligations laid down in Section 4, it shall draw up and keep an EU declaration of conformity in accordance with Article 19 and Annex IV for the device covered by the conformity assessment procedure."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p6/s1",
+   "paragraph": "6",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "The manufacturer shall lodge an application for assessment of its quality management system with a notified body."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "The application shall include:\n—\nall elements listed in Section 2.1 of Annex IX,\n—\nthe technical documentation referred to in Annexes II and III for the types approved, and\n—\na copy of the EU type-examination certificates referred to in Section 4 of Annex X; if the EU type-examination certificates have been issued by the same notified body with which the application is lodged, a reference to the technical documentation and its updates and the certificates issued shall also be included in the application.\n6.2."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p6/s3",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Implementation of the quality management system shall be such as to ensure that there is compliance with the type described in the EU type-examination certificate and with the provisions of this Regulation which apply to the devices at each stage."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p6/s4",
+   "paragraph": "6",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "All the elements, requirements and provisions adopted by the manufacturer for its quality management system shall be documented in a systematic and orderly manner in the form of a quality manual and written policies and procedures, such as quality programmes, quality plans and quality records."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p6/s5",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That documentation shall, in particular, include an adequate description of all elements listed in points (a), (b), (d) and (e) of Section 2.2 of Annex IX.\n6.3."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p6/s7",
+   "paragraph": "6",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "If the quality management system is such that it ensures that the devices conform to the type described in the EU type-examination certificate and that it conforms to the relevant provisions of this Regulation, the notified body shall issue an EU quality assurance certificate."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p6/s8",
+   "paragraph": "6",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notified body shall notify the manufacturer of its decision to issue the certificate."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p6/s9",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That decision shall contain the conclusions of the notified body's audit and a reasoned assessment.\n6.4."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p7/s2",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the case of class III devices, surveillance shall also include a check that the quantities of produced or purchased raw material or crucial components approved for the type and correspond to the quantities of finished devices."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p8/s1",
+   "paragraph": "8",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Upon completing the manufacture of each batch of devices that incorporate, as an integral part, a medicinal substance which, if used separately, would be considered to be a medicinal product derived from human blood or human plasma referred to in the first subparagraph of Article 1(8), the manufacturer shall inform the notified body of the release of the batch of devices and send it the official certificate concerning the release of the batch of human blood or plasma derivative used in the device, issued by a Member State laboratory or a laboratory designated for that purpose by a Member State in accordance with Article 114(2) of Directive 2001/83/EC."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p9/s1",
+   "paragraph": "9",
+   "addressee": "authorised_representative",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Administrative provisions\nThe manufacturer or, where the manufacturer does not have a registered place of business in a Member State, its authorised representative shall, for a period ending no sooner than 10 years, and in the case of implantable devices no sooner than 15 years, after the last device has been placed on the market, keep at the disposal of the competent authorities:\n—\nthe EU declaration of conformity,\n—\nthe documentation referred to in the fifth indent of Section 2.1 of Annex IX,\n—\nthe documentation referred to in the eighth indent of Section 2.1 of Annex IX, including the EU type-examination certificate referred to in Annex X,\n—\ninformation on the changes referred to in Secti"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p10/s2",
+   "paragraph": "10",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "For class IIa devices the notified body shall assess, as part of the assessment referred to in Section 6.3, whether the technical documentation as referred to in Annexes II and III for the devices selected on a representative basis is compliant with this Regulation."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p10/s3",
+   "paragraph": "10",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In choosing a representative sample or samples of devices, the notified body shall take into account the novelty of the technology, similarities in design, technology, manufacturing and sterilisation methods, the intended use and the results of any previous relevant assessments (e.g. with regard to physical, chemical, biological or clinical properties) that have been carried out in accordance with this Regulation."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p10/s4",
+   "paragraph": "10",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notified body shall document its rationale for the sample or samples of devices taken.\n10.3."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p10/s5",
+   "paragraph": "10",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Where the assessment under Section 10.2. confirms that the class IIa devices in question conform to the technical documentation referred to in Annexes II and III and meet the requirements of this Regulation which apply to them, the notified body shall issue a certificate pursuant to this Part of this Annex.\n10.4."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p10/s6",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Samples additional to those taken for the initial conformity assessment of devices shall be assessed by the notified body as part of the surveillance assessment referred to in Section 7.\n10.5."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p10/s7",
+   "paragraph": "10",
+   "addressee": "authorised_representative",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "By way of derogation from Section 6, the manufacturer or its authorised representative shall, for a period ending no sooner than 10 years after the last device has been placed on the market, keep at the disposal of the competent authorities:\n—\nthe EU declaration of conformity,\n—\nthe technical documentation referred to in Annexes II and III, and\n—\nthe certificate referred to in Section 10.3."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p12/s1",
+   "paragraph": "12",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The manufacturer shall take all the measures necessary to ensure that the manufacturing process produces devices which conform to the type described in the EU type-examination certificate and to the requirements of the Regulation which apply to them."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p12/s2",
+   "paragraph": "12",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Prior to the start of manufacture, the manufacturer shall prepare documents defining the manufacturing process, in particular as regards sterilisation where necessary, together with all routine, pre-established procedures to be implemented to ensure homogeneous production and, where appropriate, conformity of the devices with the type described in the EU type-examination certificate and with the requirements of this Regulation which apply to them."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p13/s1",
+   "paragraph": "13",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The manufacturer shall undertake to institute and keep up to date a post-market surveillance plan, including a PMCF plan, and the procedures ensuring compliance with the obligations of the manufacturer resulting from the provisions on vigilance and post-market surveillance system set out in Chapter VII."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p14/s1",
+   "paragraph": "14",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "The notified body shall carry out the appropriate examinations and tests in order to verify the conformity of the device with the requirements of the Regulation by examining and testing every product as specified in Section"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p15/s1",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Every device shall be examined individually and the appropriate physical or laboratory tests as defined in the relevant standard or standards referred to in Article 8, or equivalent tests and assessments, shall be carried out in order to verify, where appropriate, the conformity of the devices with the type described in the EU type-examination certificate and with the requirements of this Regulation which apply to them.\n15.2."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p15/s2",
+   "paragraph": "15",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notified body shall affix, or have affixed, its identification number to each approved device and shall draw up an EU product verification certificate relating to the tests and assessments carried out."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p16/s1",
+   "paragraph": "16",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Upon completing the manufacture of each batch of devices that incorporate, as an integral part, a medicinal substance which, if used separately, would be considered to be a medicinal product derived from human blood or human plasma referred to in the first subparagraph of Article 1(8), the manufacturer shall inform the notified body of the release of the batch of devices and send it the official certificate concerning the release of the batch of human blood or plasma derivative used in the device, issued by a Member State laboratory or a laboratory designated for that purpose by a Member State in accordance with Article 114(2) of Directive 2001/83/EC."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p17/s1",
+   "paragraph": "17",
+   "addressee": "authorised_representative",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Administrative provisions\nThe manufacturer or its authorised representative shall, for a period ending no sooner than 10 years, and in the case of implantable devices no sooner than 15 years, after the last device has been placed on the market, keep at the disposal of the competent authorities:\n—\nthe EU declaration of conformity,\n—\nthe documentation referred to in Section 12,\n—\nthe certificate referred to in Section 15.2, and\n—\nthe EU type-examination certificate referred to in Annex X."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p18/s2",
+   "paragraph": "18",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "If the verification referred to in Section 18.2 confirms that the class IIa devices in question conform to the technical documentation referred to in Annexes II and III and meet the requirements of this Regulation which apply to them, the notified body shall issue a certificate pursuant to this Part of this Annex.\n18.4."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XI/p18/s3",
+   "paragraph": "18",
+   "addressee": "authorised_representative",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "By way of derogation from Section 17, the manufacturer or its authorised representative shall, for a period ending no sooner than 10 years after the last device has been placed on the market, keep at the disposal of the competent authorities:\n—\nthe EU declaration of conformity,\n—\nthe technical documentation referred to in Annexes II and III, and\n—\nthe certificate referred to in Section 18.3."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:annex-XI",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

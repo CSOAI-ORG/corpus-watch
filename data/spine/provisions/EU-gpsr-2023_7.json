@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-gpsr-2023:7",
+ "label": "EU-gpsr-2023 Article 7",
+ "instrument": "EU-gpsr-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "bcff696eaa7298b02dc2237d4b8f94f73523c3c054f3c2db8fb763913b161ff0",
+ "sha256_v1": "",
+ "sha256_v2": "bcff696eaa7298b02dc2237d4b8f94f73523c3c054f3c2db8fb763913b161ff0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "bcff696eaa7298b02dc2237d4b8f94f73523c3c054f3c2db8fb763913b161ff0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-gpsr-2023:7/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the purpose of this Regulation, a product shall be presumed to be in conformity with the general safety requirement laid down in Article 5 of this Regulation in the following cases:"
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:7/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall adopt implementing acts determining the specific safety requirements to be covered by European standards in order to ensure that products which conform to those European standards satisfy the general safety requirement laid down in Article"
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:7/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 46(3)."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:7/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, the presumption of conformity with the general safety requirement under paragraph 1 shall not prevent market surveillance authorities from taking all appropriate measures under this Regulation where there is evidence that, despite such presumption, the product is dangerous."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-gpsr-2023:7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

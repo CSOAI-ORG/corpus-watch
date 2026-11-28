@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:53",
+ "label": "EU-dsa-2022 Article 53",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "22697b9dc04034e46e966bd15fca4e1a7249b3fd697c007a799f3388925f5613",
+ "sha256_v1": "",
+ "sha256_v2": "22697b9dc04034e46e966bd15fca4e1a7249b3fd697c007a799f3388925f5613",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "22697b9dc04034e46e966bd15fca4e1a7249b3fd697c007a799f3388925f5613",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:53/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Right to lodge a complaint\nRecipients of the service and any body, organisation or association mandated to exercise the rights conferred by this Regulation on their behalf shall have the right to lodge a complaint against providers of intermediary services alleging an infringement of this Regulation with the Digital Services Coordinator of the Member State where the recipient of the service is located or established."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:53/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Digital Services Coordinator shall assess the complaint and, where appropriate, transmit it to the Digital Services Coordinator of establishment, accompanied, where considered appropriate, by an opinion."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:53/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the complaint falls under the responsibility of another competent authority in its Member State, the Digital Services Coordinator receiving the complaint shall transmit it to that authority."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:53/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "During these proceedings, both parties shall have the right to be heard and receive appropriate information about the status of the complaint, in accordance with national law."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:53",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

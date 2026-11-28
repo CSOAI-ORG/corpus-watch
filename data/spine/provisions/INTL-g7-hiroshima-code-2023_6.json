@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-g7-hiroshima-code-2023:6",
+ "label": "INTL-g7-hiroshima-code-2023 item 6",
+ "instrument": "INTL-g7-hiroshima-code-2023",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "789374cc1c92f15a0805b24da472301d33172a6a8eb7119a20a3ce8798576054",
+ "sha256_v1": "",
+ "sha256_v2": "789374cc1c92f15a0805b24da472301d33172a6a8eb7119a20a3ce8798576054",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "789374cc1c92f15a0805b24da472301d33172a6a8eb7119a20a3ce8798576054",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-g7-hiroshima-code-2023:6/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-g7-hiroshima-code-2023:6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

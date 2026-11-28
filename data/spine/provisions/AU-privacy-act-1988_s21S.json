@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s21S",
+ "label": "AU-privacy-act-1988 Section 21S",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "dadd9b55708c9e88227a986b8fd9f4f0c233fbeabe609a77a815d0e0aa918fec",
+ "sha256_v1": "",
+ "sha256_v2": "dadd9b55708c9e88227a986b8fd9f4f0c233fbeabe609a77a815d0e0aa918fec",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "dadd9b55708c9e88227a986b8fd9f4f0c233fbeabe609a77a815d0e0aa918fec",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s21S/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "21S  Security of credit eligibility information\n(1)\tIf a credit provider holds credit eligibility information, the provider must take such steps as are reasonable in the circumstances to protect the information:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s21S/p0/s2",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\ta credit provider holds credit eligibility information about an individual; and\n(b)\tthe provider no longer needs the information for any purpose for which the information may be used or disclosed by the provider under this Division; and\n(c)\tthe provider is not required by or under an Australian law, or a court/tribunal order, to retain the information;\nthe provider must take such steps as are reasonable in the circumstances to destroy the information or to ensure that the information is deidentified."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s21S",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s99",
+ "label": "GB-osa-2023 Section 99",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "b6e07312e107848f26e7f5ccbf7db48456c6a8b60fc265f128f24e88df58b001",
+ "sha256_v1": "",
+ "sha256_v2": "b6e07312e107848f26e7f5ccbf7db48456c6a8b60fc265f128f24e88df58b001",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "b6e07312e107848f26e7f5ccbf7db48456c6a8b60fc265f128f24e88df58b001",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s99/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "OFCOM’s guidance about risk assessments\n(1)\nAs soon as reasonably practicable after OFCOM have published the first risk profiles relating to the illegality risks, OFCOM must produce guidance to assist providers of regulated user-to-user services in complying with their duties to carry out illegal content risk assessments under section 9."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s99/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(2)\nAs soon as reasonably practicable after OFCOM have published the first risk profiles relating to the risk of harm from illegal content, OFCOM must produce guidance to assist providers of regulated search services in complying with their duties to carry out illegal content risk assessments under section 26."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s99/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(3)\nAs soon as reasonably practicable after OFCOM have published the first risk profiles relating to the risk of harm to children, OFCOM must produce guidance to assist providers of Part 3 services in complying with their duties to carry out children’s risk assessments under section 11 or 28."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s99/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nBefore producing any guidance under this section (including revised or replacement guidance), OFCOM must consult the Information Commission."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s99/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nOFCOM must revise guidance under this section from time to time in response to further risk assessments under section 98 or to revisions of the risk profiles."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s99/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(6)\nOFCOM must publish guidance under this section (and any revised or replacement guidance)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s99",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

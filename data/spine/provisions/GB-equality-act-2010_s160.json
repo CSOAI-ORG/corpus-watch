@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-equality-act-2010:s160",
+ "label": "GB-equality-act-2010 Section 160",
+ "instrument": "GB-equality-act-2010",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7ed66f1453889698a1b809c25b8031e380cc37598258b31b16de8bb74af813b5",
+ "sha256_v1": "",
+ "sha256_v2": "7ed66f1453889698a1b809c25b8031e380cc37598258b31b16de8bb74af813b5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "7ed66f1453889698a1b809c25b8031e380cc37598258b31b16de8bb74af813b5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-equality-act-2010:s160/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nThe driver of a regulated taxi which is plying for hire or has been hired commits an offence—\n(a)\nby failing to comply with a requirement of the regulations, or\n(b)\nif the taxi fails to conform with any provision of the regulations with which it is required to conform."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-equality-act-2010:s160",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

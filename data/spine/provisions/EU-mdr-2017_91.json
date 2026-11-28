@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:91",
+ "label": "EU-mdr-2017 Article 91",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "64c2b686de21a9e306ddbf6f5f44cb9af2e0ad16346a042ab3fe0c8424b53c05",
+ "sha256_v1": "",
+ "sha256_v2": "64c2b686de21a9e306ddbf6f5f44cb9af2e0ad16346a042ab3fe0c8424b53c05",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "64c2b686de21a9e306ddbf6f5f44cb9af2e0ad16346a042ab3fe0c8424b53c05",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:91/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The implementing acts referred to in the first paragraph shall be adopted in accordance with the examination procedure referred to in Article 114(3)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:91",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

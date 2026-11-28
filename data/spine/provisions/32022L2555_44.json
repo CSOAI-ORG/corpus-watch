@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022L2555:44",
+ "label": "NIS2 Directive Art. 44",
+ "instrument": "NIS2 Directive",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "d0b21ead12329f517d72465b942fd1e7223acbacc6575d6ef16be6c333ee3d3f",
+ "sha256_v1": "d0b21ead12329f517d72465b942fd1e7223acbacc6575d6ef16be6c333ee3d3f",
+ "sha256_v2": "b6830751e6c7b930be234a7edba34fc06057a1483eb8ce8ea2e2ba73409a00ec",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "b6830751e6c7b930be234a7edba34fc06057a1483eb8ce8ea2e2ba73409a00ec",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022L2555:44/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 44 repeal",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022L2555:44",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

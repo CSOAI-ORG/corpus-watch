@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s35",
+ "label": "AU-privacy-act-1988 Section 35",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ca72be4db35880759710d09dd3be0166c511e5840b9da7814076bfb30fd5a074",
+ "sha256_v1": "",
+ "sha256_v2": "ca72be4db35880759710d09dd3be0166c511e5840b9da7814076bfb30fd5a074",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "ca72be4db35880759710d09dd3be0166c511e5840b9da7814076bfb30fd5a074",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s35/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\tAn agency shall comply with a direction given in accordance with subsection (1)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s35",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

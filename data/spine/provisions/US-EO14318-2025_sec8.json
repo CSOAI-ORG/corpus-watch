@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14318-2025:sec8",
+ "label": "US-EO14318-2025 Section 8",
+ "instrument": "US-EO14318-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f3b286647a19368658d9ed3c0f66a942f5c3beb073a51828910b6d646a0a8f3e",
+ "sha256_v1": "",
+ "sha256_v2": "f3b286647a19368658d9ed3c0f66a942f5c3beb073a51828910b6d646a0a8f3e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "f3b286647a19368658d9ed3c0f66a942f5c3beb073a51828910b6d646a0a8f3e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14318-2025:sec8/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) Upon identification of sites by the Secretary of the Interior and the Secretary of Energy as described in section 9 of this order, the action agency, as identified through the process described in the Endangered Species Act (16 U.S.C. 1531-1544) (ESA), shall initiate consultation under section 7 of the ESA with the Secretary of the Interior, the Secretary of Commerce, or both with respect to common construction activities for Qualifying Projects that will occur over the next 10 years at a programmatic level."
+  },
+  {
+   "obligation_id": "US-EO14318-2025:sec8/p8/s2",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Secretary of the Interior and the Secretary of Commerce shall utilize programmatic consultation to ensure timely and efficient completion of such consultation."
+  },
+  {
+   "obligation_id": "US-EO14318-2025:sec8/p8/s3",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) Within 180 days of the date of this order, the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works, shall review the nationwide permits issued under section 404 of the Clean Water Act of 1972 (33 U.S.C. 1344) and section 10 of the Rivers and Harbors Appropriation Act of 1899 (33 U.S.C. 403) to determine whether an activity-specific nationwide permit is needed to facilitate the efficient permitting of activities related to Qualifying Projects."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14318-2025:sec8",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

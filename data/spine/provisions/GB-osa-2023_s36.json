@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s36",
+ "label": "GB-osa-2023 Section 36",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "a45b0ebe58b6438fe795cc88ac2771a8464d1705fb2626a392ddc96c02d0f508",
+ "sha256_v1": "",
+ "sha256_v2": "a45b0ebe58b6438fe795cc88ac2771a8464d1705fb2626a392ddc96c02d0f508",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a45b0ebe58b6438fe795cc88ac2771a8464d1705fb2626a392ddc96c02d0f508",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s36/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Duties about children’s access assessments\n(1)\nA provider of a Part 3 service must carry out the first children’s access assessment at a time set out in, or as provided by, Schedule 3."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s36/p0/s2",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nThe provider must carry out children’s access assessments of the service not more than one year apart."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s36/p0/s3",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "(4)\nThe provider must carry out a children’s access assessment of the service—\n(a)\nbefore making any significant change to any aspect of the service’s design or operation to which such an assessment is relevant,\n(b)\nin response to evidence about reduced effectiveness of age verification or age estimation that is used on the service as mentioned in section 35(2), or\n(c)\nin response to evidence about a significant increase in the number of children using the service."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s36/p0/s4",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nIf a person is the provider of more than one Part 3 service, children’s access assessments must be carried out for each service separately."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s36/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\nChildren’s access assessments must be suitable and sufficient for the purposes of this Part."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s36/p0/s6",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "(7)\nA provider must make and keep a written record, in an easily understandable form, of every children’s access assessment."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s36",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

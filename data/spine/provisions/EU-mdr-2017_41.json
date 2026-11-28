@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:41",
+ "label": "EU-mdr-2017 Article 41",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "27fa0a83eb64788b0a859379f504c882d01433add7adc75e61be18b9e96f6d0f",
+ "sha256_v1": "",
+ "sha256_v2": "27fa0a83eb64788b0a859379f504c882d01433add7adc75e61be18b9e96f6d0f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "27fa0a83eb64788b0a859379f504c882d01433add7adc75e61be18b9e96f6d0f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:41/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Language requirements\nAll documents required pursuant to Articles 38 and 39 shall be drawn up in a language or languages which shall be determined by the Member State concerned."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:41/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Member States, in applying the first paragraph, shall consider accepting and using a commonly understood language in the medical field, for all or part of the documentation concerned."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:41/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall provide translations of the documentation pursuant to Articles 38 and 39, or parts thereof into an official Union language, such as is necessary for that documentation to be readily understood by the joint assessment team appointed in accordance with Article 39(3)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:41",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

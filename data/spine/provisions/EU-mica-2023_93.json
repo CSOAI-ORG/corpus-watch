@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:93",
+ "label": "EU-mica-2023 Article 93",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "ec3a52019cf97fe5a7d44dc8bb30b0c19bae7408661ac91ebaa73af50bf7619e",
+ "sha256_v1": "",
+ "sha256_v2": "ec3a52019cf97fe5a7d44dc8bb30b0c19bae7408661ac91ebaa73af50bf7619e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ec3a52019cf97fe5a7d44dc8bb30b0c19bae7408661ac91ebaa73af50bf7619e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:93/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall designate the competent authorities responsible for carrying out the functions and duties provided for in this Regulation."
+  },
+  {
+   "obligation_id": "EU-mica-2023:93/p1/s2",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall notify those competent authorities to EBA and ESMA."
+  },
+  {
+   "obligation_id": "EU-mica-2023:93/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where Member States designate more than one competent authority pursuant to paragraph 1, they shall determine their respective tasks and designate one competent authority as the single point of contact for cross-border administrative cooperation between competent authorities as well as with EBA and ESMA."
+  },
+  {
+   "obligation_id": "EU-mica-2023:93/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "ESMA shall publish on its website a list of the competent authorities designated in accordance with paragraphs 1 and 2."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:93",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

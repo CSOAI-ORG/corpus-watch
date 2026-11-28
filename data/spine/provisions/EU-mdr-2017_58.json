@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:58",
+ "label": "EU-mdr-2017 Article 58",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "6b56577470173a5ff560094b3a6c0bef1e438d86a2eaacf787209c4c287605d5",
+ "sha256_v1": "",
+ "sha256_v2": "6b56577470173a5ff560094b3a6c0bef1e438d86a2eaacf787209c4c287605d5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "6b56577470173a5ff560094b3a6c0bef1e438d86a2eaacf787209c4c287605d5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:58/p1/s1",
+   "paragraph": "1",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "In cases where a manufacturer terminates its contract with a notified body and enters into a contract with another notified body in respect of the conformity assessment of the same device, the detailed arrangements for the change of notified body shall be clearly defined in an agreement between the manufacturer, the incoming notified body and, where practicable the outgoing notified body."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:58/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That agreement shall cover at least the following aspects:"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:58/p2/s1",
+   "paragraph": "2",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The outgoing notified body shall withdraw the certificates it has issued for the device concerned on the date on which they become invalid."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:58",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

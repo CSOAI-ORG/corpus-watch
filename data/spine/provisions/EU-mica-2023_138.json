@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:138",
+ "label": "EU-mica-2023 Article 138",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3155910fe80c1c898250c5dd26b54e2ac5fcc302cfe4bbc37340aa2444ba7d09",
+ "sha256_v1": "",
+ "sha256_v2": "3155910fe80c1c898250c5dd26b54e2ac5fcc302cfe4bbc37340aa2444ba7d09",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "3155910fe80c1c898250c5dd26b54e2ac5fcc302cfe4bbc37340aa2444ba7d09",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:138/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Before delegating a task as referred to in paragraph 1, EBA shall consult the relevant competent authority about:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:138/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In accordance with the delegated act on fees adopted by the Commission pursuant to Article 137(3) and Article 139, EBA shall reimburse a competent authority for the costs incurred as a result of carrying out delegated tasks."
+  },
+  {
+   "obligation_id": "EU-mica-2023:138/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "EBA shall review the delegation of tasks at appropriate intervals."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:138",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

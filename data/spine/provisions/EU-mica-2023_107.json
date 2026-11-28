@@ -1,0 +1,116 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:107",
+ "label": "EU-mica-2023 Article 107",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "67cc1ebb3f469b4e7461740ff37c1253503fcbd4cdf435ed4c221f105a75078f",
+ "sha256_v1": "",
+ "sha256_v2": "67cc1ebb3f469b4e7461740ff37c1253503fcbd4cdf435ed4c221f105a75078f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "67cc1ebb3f469b4e7461740ff37c1253503fcbd4cdf435ed4c221f105a75078f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:107/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authorities of Member States shall, where necessary, conclude cooperation arrangements with supervisory authorities of third countries concerning the exchange of information with those supervisory authorities of third countries and the enforcement of obligations under this Regulation in those third countries."
+  },
+  {
+   "obligation_id": "EU-mica-2023:107/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Those cooperation arrangements shall ensure at least an efficient exchange of information that allows the competent authorities to carry out their duties under this Regulation."
+  },
+  {
+   "obligation_id": "EU-mica-2023:107/p1/s3",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "A competent authority shall inform EBA, ESMA and the other competent authorities where it intends to conclude such an arrangement."
+  },
+  {
+   "obligation_id": "EU-mica-2023:107/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ESMA, in close cooperation with EBA, shall, where possible, facilitate and coordinate the development of cooperation arrangements between the competent authorities and the relevant supervisory authorities of third countries."
+  },
+  {
+   "obligation_id": "EU-mica-2023:107/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ESMA, in close cooperation with EBA, shall develop draft regulatory technical standards establishing a template document for cooperation arrangements referred to in paragraph 1 for use by competent authorities of Member States where possible."
+  },
+  {
+   "obligation_id": "EU-mica-2023:107/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024."
+  },
+  {
+   "obligation_id": "EU-mica-2023:107/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ESMA, in close cooperation with EBA, shall also, where possible, facilitate and coordinate the exchange between competent authorities of information obtained from supervisory authorities of third countries that might be relevant for taking measures under Chapter 3 of this Title."
+  },
+  {
+   "obligation_id": "EU-mica-2023:107/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authorities shall conclude cooperation arrangements on exchange of information with the supervisory authorities of third countries only where the information disclosed is subject to guarantees of professional secrecy that are at least equivalent to those set out in Article 100."
+  },
+  {
+   "obligation_id": "EU-mica-2023:107/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such exchange of information shall be intended for the performance of the tasks under this Regulation of those competent authorities."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:107",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

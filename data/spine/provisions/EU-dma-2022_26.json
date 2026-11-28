@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:26",
+ "label": "EU-dma-2022 Article 26",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "3c9688ed16e76d2e12119f2c0fab070057e9e1e640ef6c4d631e4f689d25bd5f",
+ "sha256_v1": "",
+ "sha256_v2": "3c9688ed16e76d2e12119f2c0fab070057e9e1e640ef6c4d631e4f689d25bd5f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "3c9688ed16e76d2e12119f2c0fab070057e9e1e640ef6c4d631e4f689d25bd5f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:26/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall take the necessary actions to monitor the effective implementation and compliance with the obligations laid down in Articles 5, 6 and 7 and the decisions taken pursuant to Articles 8, 18, 24, 25 and"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:26",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

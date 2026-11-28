@@ -1,0 +1,166 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:109",
+ "label": "EU-mica-2023 Article 109",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "b508837ad8effba199b4425b79966bc87d47b1ee7b46a8b5cb95d53a002be249",
+ "sha256_v1": "",
+ "sha256_v2": "b508837ad8effba199b4425b79966bc87d47b1ee7b46a8b5cb95d53a002be249",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "b508837ad8effba199b4425b79966bc87d47b1ee7b46a8b5cb95d53a002be249",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:109/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ESMA shall establish a register of:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:109/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "ESMA’s register shall be publicly available on its website and shall be updated on a regular basis."
+  },
+  {
+   "obligation_id": "EU-mica-2023:109/p1/s3",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In order to facilitate such updating, the competent authorities shall communicate to ESMA any changes notified to them regarding the information specified in paragraphs 2 to"
+  },
+  {
+   "obligation_id": "EU-mica-2023:109/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authorities shall provide ESMA with the data necessary for the classification of crypto-asset white papers in the register, as specified in accordance with paragraph 8."
+  },
+  {
+   "obligation_id": "EU-mica-2023:109/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As regards crypto-asset white papers for crypto-assets other than asset-referenced tokens or e-money tokens, the register shall contain the crypto-asset white papers and any modified crypto-asset white papers."
+  },
+  {
+   "obligation_id": "EU-mica-2023:109/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any out-of-date versions of the crypto-asset white papers shall be kept in a separate archive and be clearly marked as out-of-date versions."
+  },
+  {
+   "obligation_id": "EU-mica-2023:109/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As regards issuers of asset-referenced tokens, the register shall contain the following information:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:109/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As regards issuers of e-money tokens, the register shall contain the following information:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:109/p5/s1",
+   "paragraph": "5",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As regards crypto-asset service providers, the register shall contain the following information:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:109/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Competent authorities shall notify ESMA without delay of the measures listed in Article 94(1), first subparagraph, point (b), (c), (f), (l), (m), (n), (o) or (t), and of any public precautionary measures taken pursuant to Article 102 affecting the provision of crypto-asset services or the issuance, offer to the public or use of crypto-assets."
+  },
+  {
+   "obligation_id": "EU-mica-2023:109/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ESMA shall include such information in the register."
+  },
+  {
+   "obligation_id": "EU-mica-2023:109/p7/s1",
+   "paragraph": "7",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Any withdrawal of an authorisation of an issuer of an asset-referenced token, of an issuer of an e-money token, or of a crypto-asset service provider, and any measure notified in accordance with paragraph 6, shall remain published in the register for five years."
+  },
+  {
+   "obligation_id": "EU-mica-2023:109/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ESMA shall develop draft regulatory technical standards to further specify the data necessary for the classification, by type of crypto-asset, of crypto-asset white papers, including the legal entity identifiers, in the register and specify the practical arrangements to ensure that such data is machine-readable."
+  },
+  {
+   "obligation_id": "EU-mica-2023:109/p8/s2",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:109",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

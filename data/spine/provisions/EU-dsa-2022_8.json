@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:8",
+ "label": "EU-dsa-2022 Article 8",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a8bd1125413e3f632e3c1c3fe84a1836af70ef10fb7f08617d1bbe2d9e97aaf3",
+ "sha256_v1": "",
+ "sha256_v2": "a8bd1125413e3f632e3c1c3fe84a1836af70ef10fb7f08617d1bbe2d9e97aaf3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "a8bd1125413e3f632e3c1c3fe84a1836af70ef10fb7f08617d1bbe2d9e97aaf3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:8/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "No general monitoring or active fact-finding obligations\nNo general obligation to monitor the information which providers of intermediary services transmit or store, nor actively to seek facts or circumstances indicating illegal activity shall be imposed on those providers."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:8",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

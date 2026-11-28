@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s43",
+ "label": "AU-privacy-act-1988 Section 43",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e89a59b7e3feb8b2680eff822b9d45f548973ef50a86f67b7b7f4b93932ee071",
+ "sha256_v1": "",
+ "sha256_v2": "e89a59b7e3feb8b2680eff822b9d45f548973ef50a86f67b7b7f4b93932ee071",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "e89a59b7e3feb8b2680eff822b9d45f548973ef50a86f67b7b7f4b93932ee071",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s43/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "43  Conduct of investigations\n(1)\tBefore commencing an investigation of a matter to which a complaint relates, the Commissioner shall inform the respondent that the matter is to be investigated."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s43/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(1AA)\tBefore commencing an investigation of an act or practice of a person or entity under subsection 40(2), the Commissioner must inform the person or entity that the act or practice is to be investigated."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s43/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(1A)\tBefore starting to investigate an act done, or practice engaged in, by a contracted service provider for the purpose of providing (directly or indirectly) a service to an agency under a Commonwealth contract, the Commissioner must also inform the agency that the act or practice is to be investigated."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s43/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\tAn investigation under this Division shall be conducted in such manner as the Commissioner thinks fit."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s43/p0/s5",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(7)\tWhere, in connection with an investigation of a matter under this Division, the Commissioner proposes to hold a hearing, or proposes to make a requirement of a person under section 44, the Commissioner shall, if he or she has not previously informed the responsible Minister (if any) that the matter is being investigated, inform that Minister accordingly."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s43/p0/s6",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(9)\tWhere the Commissioner forms the opinion, either before or after completing an investigation under this Division, that there is evidence that an officer of an agency has been guilty of a breach of duty or of misconduct and that the evidence is, in all the circumstances, of sufficient force to justify the Commissioner doing so, the Commissioner shall bring the evidence to the notice of:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s43",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

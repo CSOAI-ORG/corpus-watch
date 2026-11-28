@@ -1,0 +1,646 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:annex-VI",
+ "label": "EU-ivdr-2017 Annex VI",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "6d2e26efcac4a86f0151594eae70d9e4980838dae9cb77129352426b564c43ac",
+ "sha256_v1": "",
+ "sha256_v2": "6d2e26efcac4a86f0151594eae70d9e4980838dae9cb77129352426b564c43ac",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "6d2e26efcac4a86f0151594eae70d9e4980838dae9cb77129352426b564c43ac",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p0/s1",
+   "paragraph": "0",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "ANNEX VI\nINFORMATION TO BE SUBMITTED UPON THE REGISTRATION OF DEVICES AND ECONOMIC OPERATORS IN ACCORDANCE WITH ARTICLES 26(3) AND 28, CORE DATA ELEMENTS TO BE PROVIDED TO THE UDI DATABASE TOGETHER WITH THE UDI-DI IN ACCORDANCE WITH ARTICLES 25 AND 26 AND THE UDI SYSTEM\nPART A\nINFORMATION TO BE SUBMITTED UPON THE REGISTRATION OF DEVICES AND ECONOMIC OPERATORS IN ACCORDANCE WITH ARTICLES 26(3) AND 28\nManufacturers or, when applicable, authorised representatives, and, when applicable, importers shall submit the information referred to in Section 1 and shall ensure that the information on their devices referred to in Section 2 is complete, correct and updated by the relevant party."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member State in which the device shall or has been placed on the market in the Union,\n2.4.\nin the case of class B, class C or class D devices:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A device shall be considered to be ‘new’ if:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p2/s3",
+   "paragraph": "2",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "PART B\nCORE DATA ELEMENTS TO BE PROVIDED TO THE UDI DATABASE TOGETHER WITH THE UDI-DI IN ACCORDANCE WITH ARTICLES 25 AND 26\nThe manufacturer shall provide to the UDI database the UDI-DI and the following information relating to the manufacturer and the device:\n1.\nquantity per package configuration,\n2.\nthe Basic UDI-DI as referred to in Article 24(6) and any additional UDI-DIs,\n3.\nthe manner in which production of the device is controlled (expiry date or manufacturing date, lot number, serial number),\n4.\nif applicable, the ‘unit of use’ UDI-DI (where a UDI is not labelled on the device at the level of its ‘unit of use’, a ‘unit of use’ UDI-DI shall be assigned so as to associate the use of a "
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p2/s1",
+   "paragraph": "2",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The manufacturer shall assign and maintain unique UDIs for its devices.\n2.3."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A UDI shall be assigned to the device itself or its packaging."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Higher levels of packaging shall have their own UDI.\n3.2."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Shipping containers shall be exempted from the requirement in Section 3.1."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p3/s4",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "By way of example, a UDI shall not be required on a logistics unit; where a healthcare provider orders multiple devices using the UDI or model number of individual devices and the manufacturer places those devices in a container for shipping or to protect the individually packaged devices, the container (logistics unit) shall not be subject to UDI requirements.\n3.3."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p3/s5",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The UDI shall contain two parts: a UDI-DI and a UDI-PI.\n3.4."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p3/s6",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The UDI-DI shall be unique at each level of device packaging.\n3.5."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p3/s7",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a lot number, serial number, software identification or expiry date appears on the label, it shall be part of the UDI-PI."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p3/s8",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If there is only a manufacturing date on the label, this shall be used as the UDI-PI.\n3.6."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p3/s9",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each component that is considered to be a device and is commercially available on its own shall be assigned a separate UDI unless the components are part of a configurable device that is marked with its own UDI.\n3.7."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p3/s10",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Kits shall be assigned and bear their own UDI.\n3.8."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p3/s11",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The manufacturer shall assign the UDI to a device following the relevant coding standard.\n3.9."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p3/s12",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A new UDI-DI shall be required whenever there is a change that could lead to misidentification of the device and/or ambiguity in its traceability."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p3/s13",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In particular, any change of one of the following UDI database data elements shall require a new UDI-DI:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p3/s14",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Manufacturers that repackage or relabel devices with their own label shall retain a record of the original device manufacturer's UDI."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The UDI carrier (AIDC and HRI representation of the UDI) shall be placed on the label and on all higher levels of device packaging."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For single use class A and class B devices packaged and labelled individually, the UDI carrier shall not be required to appear on the packaging but it shall appear on a higher level of packaging e.g. a carton containing several packages."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p4/s3",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, when the healthcare provider is not expected to have access, in cases such as in home healthcare settings, to the higher level of device packaging, the UDI shall be placed on the packaging.\n4.4."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p4/s4",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For devices exclusively intended for retail point of sale, the UDI-PIs in AIDC shall not be required to appear on the point of sale packaging.\n4.5."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p4/s5",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When AIDC carriers other than the UDI carrier are part of the product labelling, the UDI carrier shall be readily identifiable.\n4.6."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p4/s6",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "All parts and elements of the linear bar code shall be distinguishable and identifiable.\n4.7."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p4/s7",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If there are significant constraints limiting the use of both AIDC and HRI on the label, only the AIDC format shall be required to appear on the label."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p4/s8",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For devices intended to be used outside healthcare facilities, such as devices for home care, the HRI shall however appear on the label even if this results in there being no space for the AIDC.\n4.8."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p4/s9",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The HRI format shall follow the rules of the UDI code-issuing entity.\n4.9."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p4/s10",
+   "paragraph": "4",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the manufacturer is using RFID technology, a linear or 2D bar code in line with the standard provided by the issuing entities shall also be provided on the label.\n4.10."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p4/s11",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Devices that are reusable shall bear a UDI carrier on the device itself."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p4/s12",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The UDI carrier for reusable devices that require disinfection, sterilisation or refurbishing between patient uses shall be permanent and readable after each process performed to make the device ready for the subsequent use throughout the intended lifetime of the device.\n4.11."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p4/s13",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The UDI carrier shall be readable during normal use and throughout the intended lifetime of the device.\n4.12."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p4/s14",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the UDI carrier is readily readable or scannable through the device's packaging, the placing of the UDI carrier on the packaging shall not be required.\n4.13."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p4/s15",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the case of single finished devices made up of multiple parts that must be assembled before first use, it shall be sufficient to place the UDI carrier on only one part of each device.\n4.14."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p4/s16",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The UDI carrier shall be placed in a manner such that the AIDC can be accessed during normal operation or storage.\n4.15."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The UDI database shall support the use of all core UDI database data elements referred to in Part B of this Annex.\n5.2."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p5/s2",
+   "paragraph": "5",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Manufacturers shall be responsible for the initial submission and updates of the identifying information and other device data elements in the UDI database.\n5.3."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p5/s3",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Appropriate methods/procedures for validation of the data provided shall be implemented.\n5.4."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p5/s4",
+   "paragraph": "5",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Manufacturers shall periodically verify the correctness of all of the data relevant to devices they have placed on the market, except for devices that are no longer available on the market.\n5.5."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p5/s5",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The presence of the device UDI-DI in the UDI database shall not be assumed to mean that the device is in conformity with this Regulation.\n5.6."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p5/s6",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The database shall allow for the linking of all the packaging levels of the device.\n5.7."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p5/s7",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The data for new UDI-DIs shall be available at the time the device is placed on the market.\n5.8."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p5/s8",
+   "paragraph": "5",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Manufacturers shall update the relevant UDI database record within 30 days of a change being made to an element, which does not require a new UDI-DI.\n5.9."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p5/s9",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Internationally accepted standards for data submission and updates shall, wherever possible, be used by the UDI database.\n5.10."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p5/s10",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The user interface of the UDI database shall be available in all official languages of the Union."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p5/s11",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The use of free-text fields shall, however, be minimised in order to reduce translations.\n5.11."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p5/s12",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Data relating to devices that are no longer available on the market shall be retained in the UDI database."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The UDI of such devices shall be placed on the device and shall be readable after each procedure to make the device ready for the next use;\n6.1.2."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The UDI-PI characteristics such as the lot or serial number shall be defined by the manufacturer.\n6.2."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p6/s3",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "UDI assignment Criteria\nThe UDI shall be assigned at the system level of the software."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p6/s4",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Only software which is commercially available on its own and software which constitutes a device in itself shall be subject to that requirement."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p6/s5",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The software identification shall be considered to be the manufacturing control mechanism and shall be displayed in the UDI-PI.\n6.2.2."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p6/s6",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A new UDI-DI shall be required whenever there is a modification that changes:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p6/s7",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Minor software revisions shall require a new UDI-PI and not a new UDI-DI:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p6/s8",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Minor software revisions shall be identified by a manufacturer-specific form of identification.\n6.2.4."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p6/s9",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "UDI placement criteria for software\n(a)\nwhere the software is delivered on a physical medium, for example via a CD or DVD, each packaging level shall bear the human readable and AIDC representation of the complete UDI."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p6/s10",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The UDI that is applied to the physical medium containing the software and its packaging shall be identical to the UDI assigned to the system level software;"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p6/s11",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)\nthe UDI shall be provided on a readily accessible screen for the user in an easily-readable plain-text format such as an ‘about’ file, or included on the start-up screen;"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p6/s12",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)\nsoftware lacking a user interface such as middleware for image conversion, shall be capable of transmitting the UDI through an application programming interface (API);"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p6/s13",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d)\nonly the human readable portion of the UDI shall be required in electronic displays of the software."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p6/s14",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The marking of UDI using AIDC shall not be required in the electronic displays such as ‘about’ menu, splash screen, etc.;"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VI/p6/s15",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e)\nthe human readable format of the UDI for the software shall include the application identifiers (AI) for the standard used by the issuing entities, so as to assist the user in identifying the UDI and determining which standard is being used to create the UDI."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:annex-VI",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

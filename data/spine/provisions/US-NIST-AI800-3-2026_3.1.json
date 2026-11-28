@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-NIST-AI800-3-2026:3.1",
+ "label": "US-NIST-AI800-3-2026 3.1",
+ "instrument": "US-NIST-AI800-3-2026",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "73a3647ed248bcccd842bbb8bbfe883d69dc203b167002ab2e67b3135d670239",
+ "sha256_v1": "",
+ "sha256_v2": "73a3647ed248bcccd842bbb8bbfe883d69dc203b167002ab2e67b3135d670239",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 16,
+ "sha256_current": "73a3647ed248bcccd842bbb8bbfe883d69dc203b167002ab2e67b3135d670239",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-NIST-AI800-3-2026:3.1/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-NIST-AI800-3-2026:3.1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

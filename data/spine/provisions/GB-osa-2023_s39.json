@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s39",
+ "label": "GB-osa-2023 Section 39",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b1e99520aea9019b94e592d9d12312520ca95f002fb06ab7b08a0479e1de0217",
+ "sha256_v1": "",
+ "sha256_v2": "b1e99520aea9019b94e592d9d12312520ca95f002fb06ab7b08a0479e1de0217",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "b1e99520aea9019b94e592d9d12312520ca95f002fb06ab7b08a0479e1de0217",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s39/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Category 2A services\n(1)\nA provider of a Category 2A service must operate the service using proportionate systems and processes designed to—\n(a)\nprevent individuals from encountering content consisting of fraudulent advertisements in or via search results of the service;"
+  },
+  {
+   "obligation_id": "GB-osa-2023:s39/p0/s2",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nA provider of a Category 2A service must include clear and accessible provisions in a publicly available statement giving information about any proactive technology used by the service for the purpose of compliance with the duty set out in subsection (1) (including the kind of technology, when it is used, and how it works)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s39",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

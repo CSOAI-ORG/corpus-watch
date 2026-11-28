@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-ai-basic-act-enforcement-decree-2026:20",
+ "label": "KR-ai-basic-act-enforcement-decree-2026 제20조",
+ "instrument": "KR-ai-basic-act-enforcement-decree-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "48d5285d3a1c0edcf44fe565723bbbea6ca894ce37d337f3ee9c29a237c331e4",
+ "sha256_v1": "",
+ "sha256_v2": "48d5285d3a1c0edcf44fe565723bbbea6ca894ce37d337f3ee9c29a237c331e4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "48d5285d3a1c0edcf44fe565723bbbea6ca894ce37d337f3ee9c29a237c331e4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:20/s1",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "제20조(한국인공지능진흥협회의 설립인가ㆍ지정 등) ① 인공지능등과 관련한 연구 및 업무에 종사하는 자는 법 제26조제1항에 따라 한국인공지능진흥협회(이하 “협회”라 한다)를 설립하려는 경우에는 인공지능등과 관련한 연구 및 업무에 종사하는 자 50명 이상이 발기인이 되어 정관을 작성한 후 발기인총회의 의결을 거쳐 과학기술정보통신부장관에게 인가를 신청해야 한다."
+  },
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:20/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "② 제1항에 따라 인가를 신청하려는 자는 다음 각 호의 서류를 첨부하여 과학기술정보통신부장관에게 제출해야 한다."
+  },
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:20/s18",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "④ 제1항부터 제3항까지에도 불구하고 「민법」 제32조에 따라 설립하고 인공지능등과 관련한 연구 및 업무에 종사하는 자 50명 이상의 회원을 보유한 비영리법인으로서 법 제26조제1항에 따라 협회로 지정받으려는 자는 다음 각 호의 서류를 첨부하여 과학기술정보통신부장관에게 신청해야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-ai-basic-act-enforcement-decree-2026:20",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}
