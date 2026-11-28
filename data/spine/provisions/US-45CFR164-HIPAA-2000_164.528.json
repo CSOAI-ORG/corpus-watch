@@ -1,0 +1,126 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-45CFR164-HIPAA-2000:164.528",
+ "label": "US-45CFR164-HIPAA-2000 45 CFR 164.528",
+ "instrument": "US-45CFR164-HIPAA-2000",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "0479dd5cb23ad27d0997fbb720b94c9a888c7ec3a273139d43252533f68fea98",
+ "sha256_v1": "",
+ "sha256_v2": "0479dd5cb23ad27d0997fbb720b94c9a888c7ec3a273139d43252533f68fea98",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "0479dd5cb23ad27d0997fbb720b94c9a888c7ec3a273139d43252533f68fea98",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.528/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)(i) The covered entity must temporarily suspend an individual's right to receive an accounting of disclosures to a health oversight agency or law enforcement official, as provided in § 164.512(d) or (f), respectively, for the time specified by such agency or official, if such agency or official provides the covered entity with a written statement that such an accounting to the individual would be reasonably likely to impede the agency's activities and specifying the time for which such a suspension is required."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.528/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(ii) If the agency or official statement in paragraph (a)(2)(i) of this section is made orally, the covered entity must:"
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.528/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The covered entity must provide the individual with a written accounting that meets the following requirements."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.528/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1) Except as otherwise provided by paragraph (a) of this section, the accounting must include disclosures of protected health information that occurred during the six years (or such shorter time period at the request of the individual as provided in paragraph (a)(3) of this section) prior to the date of the request for an accounting, including disclosures to or by business associates of the covered entity."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.528/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2) Except as otherwise provided by paragraphs (b)(3) or (b)(4) of this section, the accounting must include for each disclosure:"
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.528/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(ii) If the covered entity provides an accounting for research disclosures, in accordance with paragraph (b)(4) of this section, and if it is reasonably likely that the protected health information of the individual was disclosed for such research protocol or activity, the covered entity shall, at the request of the individual, assist in contacting the entity that sponsored the research and the researcher."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.528/p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1) The covered entity must act on the individual's request for an accounting, no later than 60 days after receipt of such a request, as follows."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.528/p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i) The covered entity must provide the individual with the accounting requested; or (ii) If the covered entity is unable to provide the accounting within the time required by paragraph (c)(1) of this section, the covered entity may extend the time to provide the accounting by no more than 30 days, provided that:"
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.528/p0/s9",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2) The covered entity must provide the first accounting to an individual in any 12 month period without charge."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.528/p0/s10",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "A covered entity must document the following and retain the documentation as required by § 164.530(j):"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-45CFR164-HIPAA-2000:164.528",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

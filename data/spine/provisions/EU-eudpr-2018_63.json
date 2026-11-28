@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:63",
+ "label": "EU-eudpr-2018 Article 63",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3a7485fa99e3aa9612719a15e4cba213039362dcf1976ba91e33837100660bea",
+ "sha256_v1": "",
+ "sha256_v2": "3a7485fa99e3aa9612719a15e4cba213039362dcf1976ba91e33837100660bea",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "3a7485fa99e3aa9612719a15e4cba213039362dcf1976ba91e33837100660bea",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:63/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Without prejudice to any judicial, administrative or non-judicial remedy, every data subject shall have the right to lodge a complaint with the European Data Protection Supervisor if the data subject considers that the processing of personal data relating to him or her infringes this Regulation."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:63/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The European Data Protection Supervisor shall inform the complainant of the progress and the outcome of the complaint, including of the possibility of a judicial remedy pursuant to Article 64."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:63",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

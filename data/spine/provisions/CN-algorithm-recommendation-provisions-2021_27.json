@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-algorithm-recommendation-provisions-2021:27",
+ "label": "CN-algorithm-recommendation-provisions-2021 第二十七条",
+ "instrument": "CN-algorithm-recommendation-provisions-2021",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "9e6023bcabb2b1015c2678bf4782569a248ae8bbc877e8e33e6e49d1a0dd5d8f",
+ "sha256_v1": "",
+ "sha256_v2": "9e6023bcabb2b1015c2678bf4782569a248ae8bbc877e8e33e6e49d1a0dd5d8f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "9e6023bcabb2b1015c2678bf4782569a248ae8bbc877e8e33e6e49d1a0dd5d8f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-algorithm-recommendation-provisions-2021:27/s1",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "第二十七条 具有舆论属性或者社会动员能力的算法推荐服务提供者应当按照国家有关规定开展安全评估。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-algorithm-recommendation-provisions-2021:27",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

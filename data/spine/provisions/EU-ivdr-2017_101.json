@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:101",
+ "label": "EU-ivdr-2017 Article 101",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ea32a2c444053edd75a25fc15e8b1dc469e431b88d9070be90dbd2d8e8c8a82c",
+ "sha256_v1": "",
+ "sha256_v2": "ea32a2c444053edd75a25fc15e8b1dc469e431b88d9070be90dbd2d8e8c8a82c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ea32a2c444053edd75a25fc15e8b1dc469e431b88d9070be90dbd2d8e8c8a82c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:101/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Device registers and databanks\nThe Commission and the Member States shall take all appropriate measures to encourage the establishment of registers and databanks for specific types of devices setting common principles to collect comparable information."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:101/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such registers and databanks shall contribute to the independent evaluation of the long-term safety and performance of devices."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:101",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

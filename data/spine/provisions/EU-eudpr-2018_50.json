@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:50",
+ "label": "EU-eudpr-2018 Article 50",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a54928c58916b1f72ade413a1112b022e76bb85dfb5c6c765806b27e64478860",
+ "sha256_v1": "",
+ "sha256_v2": "a54928c58916b1f72ade413a1112b022e76bb85dfb5c6c765806b27e64478860",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "a54928c58916b1f72ade413a1112b022e76bb85dfb5c6c765806b27e64478860",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:50/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the absence of an adequacy decision pursuant to Article 45(3) of Regulation (EU) 2016/679 or to Article 36(3) of Directive (EU) 2016/680, or of appropriate safeguards pursuant to Article 48 of this Regulation, a transfer or a set of transfers of personal data to a third country or an international organisation shall take place only on one of the following conditions:"
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:50/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The public interest referred to in point (d) of paragraph 1 shall be recognised in Union law."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:50/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A transfer pursuant to point (g) of paragraph 1 shall not involve the entirety of the personal data or entire categories of the personal data contained in the register, unless authorised by Union law."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:50/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the register is intended for consultation by persons having a legitimate interest, the transfer shall be made only at the request of those persons or if they are to be the recipients."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:50/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Union institutions and bodies shall inform the European Data Protection Supervisor of the categories of cases in which this Article has been applied."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:50",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

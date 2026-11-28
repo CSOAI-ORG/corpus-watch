@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-led-2016:21",
+ "label": "EU-led-2016 Article 21",
+ "instrument": "EU-led-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d06f01ee9c528583efaef8de8bc8aa8f72a2b8a489095927593d78037e2d3353",
+ "sha256_v1": "",
+ "sha256_v2": "d06f01ee9c528583efaef8de8bc8aa8f72a2b8a489095927593d78037e2d3353",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d06f01ee9c528583efaef8de8bc8aa8f72a2b8a489095927593d78037e2d3353",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-led-2016:21/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall, where two or more controllers jointly determine the purposes and means of processing, provide for them to be joint controllers."
+  },
+  {
+   "obligation_id": "EU-led-2016:21/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "They shall, in a transparent manner, determine their respective responsibilities for compliance with this Directive, in particular as regards the exercise of the rights of the data subject and their respective duties to provide the information referred to in Article 13, by means of an arrangement between them unless, and in so far as, the respective responsibilities of the controllers are determined by Union or Member State law to which the controllers are subject."
+  },
+  {
+   "obligation_id": "EU-led-2016:21/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The arrangement shall designate the contact point for data subjects."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-led-2016:21",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

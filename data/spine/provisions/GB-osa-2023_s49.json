@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s49",
+ "label": "GB-osa-2023 Section 49",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "1925e5ee466a86fefff2eae993cd670e1668857d628851798d8e2529f2756534",
+ "sha256_v1": "",
+ "sha256_v2": "1925e5ee466a86fefff2eae993cd670e1668857d628851798d8e2529f2756534",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "1925e5ee466a86fefff2eae993cd670e1668857d628851798d8e2529f2756534",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s49/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Alternative measures\n(5)\nA provider of a Part 3 service who seeks to comply with a relevant duty by acting otherwise than by taking or using a measure described in a code of practice or a fraudulent advertising code of practice which is recommended for the purpose of compliance with the duty must have particular regard to the importance of the following (where relevant)—\n(a)\nprotecting the right of users and (in the case of search services) interested persons to freedom of expression within the law, and\n(b)\nprotecting the privacy of users."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s49/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\nWhen assessing whether a provider of a Part 3 service is compliant with a relevant duty where the provider has acted otherwise than by taking or using a measure described in a code of practice or a fraudulent advertising code of practice which is recommended for the purpose of compliance with the duty, OFCOM must consider the extent to which the alternative measures taken or in use by the provider—\n(a)\nextend across all areas of a service as mentioned in section 10(4), 12(8), 27(4) or 29(4) (if relevant to the duty in question), and\n(b)\n(where appropriate) incorporate safeguards for the protection of the matters mentioned in subsection (5)(a) and (b)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s49",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

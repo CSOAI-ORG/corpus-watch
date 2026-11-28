@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:annex-V",
+ "label": "EU-mdr-2017 Annex V",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b4792f3e8f74bceb1b2152a1ad839673f980c7f07458145bd47f4ea3468aeb45",
+ "sha256_v1": "",
+ "sha256_v2": "b4792f3e8f74bceb1b2152a1ad839673f980c7f07458145bd47f4ea3468aeb45",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "b4792f3e8f74bceb1b2152a1ad839673f980c7f07458145bd47f4ea3468aeb45",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:annex-V/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The CE marking shall consist of the initials ‘CE’ taking the following form:"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-V/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the CE marking is reduced or enlarged, the proportions given in the above graduated drawing shall be respected."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-V/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The various components of the CE marking shall have substantially the same vertical dimension, which may not be less than 5 mm."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:annex-V",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

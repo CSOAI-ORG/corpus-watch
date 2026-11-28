@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s112",
+ "label": "GB-duaa-2025 Section 112",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "55e2aa4272766458dbd4be5bbe3b2dfa20af3be4b2dc247a7f7969bb845089d7",
+ "sha256_v1": "",
+ "sha256_v2": "55e2aa4272766458dbd4be5bbe3b2dfa20af3be4b2dc247a7f7969bb845089d7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "55e2aa4272766458dbd4be5bbe3b2dfa20af3be4b2dc247a7f7969bb845089d7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s112/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1)\nSubject to Schedule A1, a person must not store information, or gain access to information stored, in the terminal equipment of a subscriber or user."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s112/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nBefore making regulations under paragraph (1), the Secretary of State must consult—\n(a)\nthe Information Commissioner, and\n(b)\nsuch other persons as the Secretary of State considers appropriate."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s112",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

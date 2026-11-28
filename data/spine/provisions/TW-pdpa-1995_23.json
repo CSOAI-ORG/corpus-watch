@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "TW-pdpa-1995:23",
+ "label": "TW-pdpa-1995 Article 23",
+ "instrument": "TW-pdpa-1995",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "938a9eb1e275bd339e73e0235da374ec459fb128cac4ca819866fb1e4de0a9a3",
+ "sha256_v1": "",
+ "sha256_v2": "938a9eb1e275bd339e73e0235da374ec459fb128cac4ca819866fb1e4de0a9a3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "TW",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "938a9eb1e275bd339e73e0235da374ec459fb128cac4ca819866fb1e4de0a9a3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "TW-pdpa-1995:23/s2",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "對於前條第三項扣留物或複製物，應加封緘或其他標識，並為適當之處置；"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=TW-pdpa-1995:23",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:sch8",
+ "label": "GB-dpa-2018 Schedule 8",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f357ad2ed754e18eda6d20d4a94f9d3cfa4b63901599556bf4630e1d97305a4c",
+ "sha256_v1": "",
+ "sha256_v2": "f357ad2ed754e18eda6d20d4a94f9d3cfa4b63901599556bf4630e1d97305a4c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f357ad2ed754e18eda6d20d4a94f9d3cfa4b63901599556bf4630e1d97305a4c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:sch8/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)\nthe processing must be carried out without the consent of the data subject because obtaining the consent of the data subject would prejudice the provision of the protection mentioned in sub-paragraph (1)(a)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:sch8",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

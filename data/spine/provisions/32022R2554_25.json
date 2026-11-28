@@ -1,0 +1,58 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022R2554:25",
+ "label": "DORA Art. 25",
+ "instrument": "DORA",
+ "ladder": "CROSSWALK_ONLY",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "69d9f65e72db2efbf83d7286409e777b98469451acc89b60cee417121d734362",
+ "sha256_v1": "69d9f65e72db2efbf83d7286409e777b98469451acc89b60cee417121d734362",
+ "sha256_v2": "17d439db9552990580d4e85d9dbf97c94e43626a3eb804e6f4f84a9968c8bc8b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "17d439db9552990580d4e85d9dbf97c94e43626a3eb804e6f4f84a9968c8bc8b",
+ "agent_register_kinds": [
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022R2554:25/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The digital operational resilience testing programme referred to in Article 24 shall provide, in accordance with the criteria set out in Article 4(2), for the execution of appropriate tests, such as vulnerability assessments and scans, open source analyses, network security assessments, gap analyses, physical security reviews, questionnaires and scanning software solutions, source code reviews where feasible, scenario-based tests, compatibility testing, performance testing, end-to-end testing and penetration testing."
+  },
+  {
+   "obligation_id": "32022R2554:25/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Central securities depositories and central counterparties shall perform vulnerability assessments before any deployment or redeployment of new or existing applications and infrastructure components, and ICT services supporting critical or important functions of the financial entity."
+  },
+  {
+   "obligation_id": "32022R2554:25/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Microenterprises shall perform the tests referred to in paragraph 1 by combining a risk-based approach with a strategic planning of ICT testing, by duly considering the need to maintain a balanced approach between the scale of resources and the time to be allocated to the ICT testing provided for in this Article, on the one hand, and the urgency, type of risk, criticality of information assets and of services provided, as well as any other relevant factor, including the financial entity’s ability to take calculated risks, on the other hand."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022R2554:25",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

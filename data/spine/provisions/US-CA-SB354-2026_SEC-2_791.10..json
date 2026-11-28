@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB354-2026:SEC-2:791.10.",
+ "label": "US-CA-SB354-2026 SEC. 2. / 791.10.",
+ "instrument": "US-CA-SB354-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9f9c77d0e17cff6aa1e2d1746e4e8ba8393202abff45c5d68e3d05a432422d4e",
+ "sha256_v1": "",
+ "sha256_v2": "9f9c77d0e17cff6aa1e2d1746e4e8ba8393202abff45c5d68e3d05a432422d4e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "9f9c77d0e17cff6aa1e2d1746e4e8ba8393202abff45c5d68e3d05a432422d4e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.10./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)In the event of an adverse underwriting decision the licensee, surplus line insurer, or reinsurer responsible for the decision shall:"
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.10./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)Upon receipt of a written request within 90 business days from the date of the mailing of notice or other communication of an adverse underwriting decision to a consumer, the licensee, surplus line insurer, or reinsurer shall furnish to such person within 21 business days from the date of receipt of such written request:"
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.10./p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(A)The licensee, surplus line insurer, or reinsurer shall not be required to furnish specific items of privileged information if it has a reasonable suspicion, based upon specific information available for review by the commissioner, that the consumer proposed for coverage has engaged in criminal activity, fraud, material misrepresentation, or material nondisclosure."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.10./p0/s4",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(B)Specific items of health information supplied by a health care provider shall be disclosed either directly to the individual about whom the information relates or to a health care provider designated by the individual and licensed to provide health care with respect to the condition to which the information relates, whichever the individual prefers."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.10./p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Health information shall be supplied directly to the individual, pursuant to this subdivision, only with the approval of the qualified professional person with treatment responsibility for the condition to which the information relates."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.10./p0/s6",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)The names and addresses of the institutional sources that supplied the specific items of information given pursuant to paragraph (2) of subdivision (b), provided, however, that the identity of any health care provider shall be disclosed either directly to the individual or to the designated health care provider, whichever the individual prefers."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.10./p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e)Except as provided in subdivision (d), with respect to a declination, cancellation, or nonrenewal of a property insurance policy covered by Section 675 or an automobile insurance policy covered by Section 660, or an individual life, health, or disability insurance policy, the licensee, surplus line insurer, or reinsurer responsible for the decision shall provide the specific reason or reasons in writing at the time of the decision."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.10./p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The communication of health information for a life or health insurance policy shall be subject to the disclosure requirements of subparagraph (B) of paragraph (2) of subdivision (a)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB354-2026:SEC-2:791.10.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-12CFR1002-RegB-1977:1002.114",
+ "label": "US-12CFR1002-RegB-1977 12 CFR 1002.114",
+ "instrument": "US-12CFR1002-RegB-1977",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7b256656d2da1b8715eda70b60dc6386bbe04a5ec9f0966998b6ba4e735c6c20",
+ "sha256_v1": "",
+ "sha256_v2": "7b256656d2da1b8715eda70b60dc6386bbe04a5ec9f0966998b6ba4e735c6c20",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "7b256656d2da1b8715eda70b60dc6386bbe04a5ec9f0966998b6ba4e735c6c20",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.114/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1) A covered financial institution that originated at least 1,000 covered credit transactions for small businesses in each of calendar years 2026 and 2027 shall comply with the requirements of this subpart beginning January 1, 2028."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.114/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)-(3) [Reserved] (4) A financial institution that did not originate at least 1,000 covered credit transactions for small businesses in each of calendar years 2026 and 2027 but subsequently originates at least 1,000 such transactions in two consecutive calendar years shall comply with the requirements of this subpart in accordance with § 1002.105(b), but in any case no earlier than January 1, 2029."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.114/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A financial institution collecting such information pursuant to this paragraph (c)(1) must do so in accordance with the requirements set out in §§ 1002.107(a)(18) and (19), 1002.108, and 1002.111(b) and (c)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-12CFR1002-RegB-1977:1002.114",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

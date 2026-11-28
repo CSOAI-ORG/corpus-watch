@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB2839-2024:SEC-6",
+ "label": "US-CA-AB2839-2024 SEC. 6.",
+ "instrument": "US-CA-AB2839-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6288fc24e2d38c4316f5148f3cc10a8ef534efb038474de207c7fc1c59b34572",
+ "sha256_v1": "",
+ "sha256_v2": "6288fc24e2d38c4316f5148f3cc10a8ef534efb038474de207c7fc1c59b34572",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "6288fc24e2d38c4316f5148f3cc10a8ef534efb038474de207c7fc1c59b34572",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB2839-2024:SEC-6/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the California Constitution and shall go into immediate effect."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB2839-2024:SEC-6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,306 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:76",
+ "label": "EU-mica-2023 Article 76",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "4c606d424a6f195955bc6cb584dc9d4ebc083feff15e0e2822bec81f12803df7",
+ "sha256_v1": "",
+ "sha256_v2": "4c606d424a6f195955bc6cb584dc9d4ebc083feff15e0e2822bec81f12803df7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "4c606d424a6f195955bc6cb584dc9d4ebc083feff15e0e2822bec81f12803df7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:76/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers operating a trading platform for crypto-assets shall lay down, maintain and implement clear and transparent operating rules for the trading platform."
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those operating rules shall at least:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "For the purposes of point (a) of the first subparagraph, the operating rules shall clearly state that a crypto-asset is not to be admitted to trading where no corresponding crypto-asset white paper has been published in the cases required by this Regulation."
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p2/s1",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Before admitting a crypto-asset to trading, crypto-asset service providers operating a trading platform for crypto-assets shall ensure that the crypto-asset complies with the operating rules of the trading platform and shall assess the suitability of the crypto-asset concerned."
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p2/s2",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When assessing the suitability of a crypto-asset, the crypto-asset service providers operating a trading platform shall evaluate, in particular, the reliability of the technical solutions used and the potential association to illicit or fraudulent activities, taking into account the experience, track record and reputation of the issuer of those crypto-assets and its development team."
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p2/s3",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The crypto-asset service providers operating a trading platform shall also assess the suitability of the crypto-assets other than asset-referenced tokens or e-money tokens referred to in Article 4(3), first subparagraph, points (a) to (d)."
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The operating rules of the trading platform for crypto-assets shall prevent the admission to trading of crypto-assets that have an inbuilt anonymisation function unless the holders of those crypto-assets and their transaction history can be identified by the crypto-asset service providers operating a trading platform for crypto-assets."
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The operating rules referred to in paragraph 1 shall be drawn up in an official language of the home Member State, or in a language customary in the sphere of international finance."
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p4/s2",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "If the operation of a trading platform for crypto-assets is provided in another Member State, the operating rules referred to in paragraph 1 shall be drawn up in an official language of the host Member State, or in a language customary in the sphere of international finance."
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p5/s1",
+   "paragraph": "5",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers operating a trading platform for crypto-assets shall not deal on own account on the trading platform for crypto-assets they operate, including where they provide the exchange of crypto-assets for funds or other crypto-assets."
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p6/s1",
+   "paragraph": "6",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers operating a trading platform for crypto-assets shall only be allowed to engage in matched principal trading where the client has consented to that process."
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p6/s2",
+   "paragraph": "6",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers shall provide the competent authority with information explaining their use of matched principal trading."
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p6/s3",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authority shall monitor the engagement of crypto-asset service providers in matched principal trading, and ensure that their engagement in matched principal trading continues to fall within the definition of such trading and does not give rise to conflicts of interest between the crypto-asset service providers and their clients."
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p7/s1",
+   "paragraph": "7",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers operating a trading platform for crypto-assets shall have in place effective systems, procedures and arrangements to ensure that their trading systems:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p8/s1",
+   "paragraph": "8",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers operating a trading platform for crypto-assets shall inform their competent authority when they identify cases of market abuse or attempted market abuse occurring on or through their trading systems."
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p9/s1",
+   "paragraph": "9",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers operating a trading platform for crypto-assets shall make public any bid and ask prices and the depth of trading interests at those prices which are advertised for crypto-assets through their trading platforms."
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p9/s2",
+   "paragraph": "9",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The crypto-asset service providers concerned shall make that information available to the public on a continuous basis during trading hours."
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p10/s1",
+   "paragraph": "10",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers operating a trading platform for crypto-assets shall make public the price, volume and time of the transactions executed in respect of crypto-assets traded on their trading platforms."
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p10/s2",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "They shall make those details for all such transactions public as close to real-time as is technically possible."
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p11/s1",
+   "paragraph": "11",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers operating a trading platform for crypto-assets shall make the information published in accordance with paragraphs 9 and 10 available to the public on a reasonable commercial basis and ensure non-discriminatory access to that information."
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p11/s2",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "That information shall be made available free of charge 15 minutes after publication in a machine-readable format and it shall remain published for at least two years."
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p12/s1",
+   "paragraph": "12",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers operating a trading platform for crypto-assets shall initiate the final settlement of a crypto-asset transaction on the distributed ledger within 24 hours of the transaction being executed on the trading platform or, in the case of transactions settled outside the distributed ledger, by the closing of the day at the latest."
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p13/s1",
+   "paragraph": "13",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers operating a trading platform for crypto-assets shall ensure that their fee structures are transparent, fair and non-discriminatory and that they do not create incentives to place, modify or cancel orders or to execute transactions in a way that contributes to disorderly trading conditions or market abuse as referred to in Title VI."
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p14/s1",
+   "paragraph": "14",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers operating a trading platform for crypto-assets shall maintain resources and have back-up facilities in place to enable them to report to their competent authority at all times."
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p15/s1",
+   "paragraph": "15",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers operating a trading platform shall keep at the disposal of the competent authority, for at least five years, the relevant data relating to all orders in crypto-assets that are advertised through their systems, or give the competent authority access to the order book so that the competent authority is able to monitor the trading activity."
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p15/s2",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That relevant data shall contain the characteristics of the order, including those that link an order with the executed transactions that stem from that order."
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p16/s1",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ESMA shall develop draft regulatory technical standards to further specify:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:76/p15/s1",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:76",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

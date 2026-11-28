@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-data-security-law-2021:40",
+ "label": "CN-data-security-law-2021 第四十条",
+ "instrument": "CN-data-security-law-2021",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "60ee13e354d308771dbacea9f3f5d60a7eb2ad29c3eff15bf57e610c0932ff00",
+ "sha256_v1": "",
+ "sha256_v2": "60ee13e354d308771dbacea9f3f5d60a7eb2ad29c3eff15bf57e610c0932ff00",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "60ee13e354d308771dbacea9f3f5d60a7eb2ad29c3eff15bf57e610c0932ff00",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-data-security-law-2021:40/s1",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "第四十条　国家机关委托他人建设、维护电子政务系统，存储、加工政务数据，应当经过严格的批准程序，并应当监督受托方履行相应的数据安全保护义务。"
+  },
+  {
+   "obligation_id": "CN-data-security-law-2021:40/s2",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "受托方应当依照法律、法规的规定和合同约定履行数据安全保护义务，不得擅自留存、使用、泄露或者向他人提供政务数据。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-data-security-law-2021:40",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

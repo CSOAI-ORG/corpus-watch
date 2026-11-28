@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:28",
+ "label": "EU-ehds-2025 Article 28",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "43bcc5e31510597b940558af3580c74abc29542fc3415f4032d65cbdaf75e6c9",
+ "sha256_v1": "",
+ "sha256_v2": "43bcc5e31510597b940558af3580c74abc29542fc3415f4032d65cbdaf75e6c9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "43bcc5e31510597b940558af3580c74abc29542fc3415f4032d65cbdaf75e6c9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:28/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Claims\nIn the information sheet, instructions for use or other information accompanying EHR systems, and in the advertising of EHR systems, it shall be prohibited to use text, names, trademarks, pictures and figurative or other signs that may mislead the professional user as defined in Article 3, point (8), of Regulation (EU) 2018/1807 of the European Parliament and of the Council (34) with regard to their intended purpose, interoperability and security by:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:28",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

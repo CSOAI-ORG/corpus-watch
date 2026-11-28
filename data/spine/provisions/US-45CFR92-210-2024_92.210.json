@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-45CFR92-210-2024:92.210",
+ "label": "US-45CFR92-210-2024 § 92.210",
+ "instrument": "US-45CFR92-210-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9fd7043d9b6237dbf47cd89f277dfa9e65fde6bb71594bb104d459372cb9c1f4",
+ "sha256_v1": "",
+ "sha256_v2": "9fd7043d9b6237dbf47cd89f277dfa9e65fde6bb71594bb104d459372cb9c1f4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9fd7043d9b6237dbf47cd89f277dfa9e65fde6bb71594bb104d459372cb9c1f4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-45CFR92-210-2024:92.210/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A covered entity must not discriminate on the basis of race, color, national origin, sex, age, or disability in its health programs or activities through the use of patient care decision support tools."
+  },
+  {
+   "obligation_id": "US-45CFR92-210-2024:92.210/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For each patient care decision support tool identified in paragraph (b) of this section, a covered entity must make reasonable efforts to mitigate the risk of discrimination resulting from the tool's use in its health programs or activities."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-45CFR92-210-2024:92.210",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

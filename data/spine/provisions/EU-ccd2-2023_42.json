@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:42",
+ "label": "EU-ccd2-2023 Article 42",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "fc5718316298baeb76b63f220b3c1b6ff94c99ce3b236fc94f402a53f47691f4",
+ "sha256_v1": "",
+ "sha256_v2": "fc5718316298baeb76b63f220b3c1b6ff94c99ce3b236fc94f402a53f47691f4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "fc5718316298baeb76b63f220b3c1b6ff94c99ce3b236fc94f402a53f47691f4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:42/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Pending further harmonisation, where a Member State makes use of the regulatory choices provided for in Article 2(5) to (8), Article 8(8), Article 14(2) and (3), Article 16(4) and (6), Article 18(11), Article 24(5), Article 25(6), Article 26(4) and (8), Article 29(4), Article 31(2), Article 32(4) and (5), Article 35(3) and (4), Article 37(3) and Article 41(9), that Member State shall notify the Commission without delay thereof, as well as of any subsequent changes."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:42/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall make that information public on a website or in another easily accessible way."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:42/p2/s3",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall also take the appropriate measures to diffuse that information amongst national creditors, credit intermediaries and consumers."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:42",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

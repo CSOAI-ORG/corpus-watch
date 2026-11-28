@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s192",
+ "label": "GB-dpa-2018 Section 192",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "dade0908879be367191171554a3c96c78816473102e5c2cabac7af211fc806c1",
+ "sha256_v1": "",
+ "sha256_v2": "dade0908879be367191171554a3c96c78816473102e5c2cabac7af211fc806c1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "dade0908879be367191171554a3c96c78816473102e5c2cabac7af211fc806c1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s192/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Approval of the Framework\n(1)\nBefore issuing a document prepared under section 191, the Secretary of State must lay it before Parliament."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s192/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nIf, within the 40-day period, either House of Parliament resolves not to approve the document, the Secretary of State must not issue it."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s192/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nIf no such resolution is made within that period—\n(a)\nthe Secretary of State must issue the document, and\n(b)\nthe document comes into force at the end of the period of 21 days beginning with the day on which it is issued."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s192",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

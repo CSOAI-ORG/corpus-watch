@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:91",
+ "label": "EU-ehds-2025 Article 91",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8829efa5d8daee6bfcfa5c964caeb7b6338cbe7379ae5daefefe9a903bc23f91",
+ "sha256_v1": "",
+ "sha256_v2": "8829efa5d8daee6bfcfa5c964caeb7b6338cbe7379ae5daefefe9a903bc23f91",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "8829efa5d8daee6bfcfa5c964caeb7b6338cbe7379ae5daefefe9a903bc23f91",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:91/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Without prejudice to Articles 67, 68 and 69, health data access applications and health data requests submitted by a health data applicant established in a third country shall be considered eligible by health data access bodies and the Union health data access service if the third country concerned:"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:91/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 98(2)."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:91/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall make the list of implementing acts adopted pursuant to this paragraph publicly available."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:91/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall monitor developments in third countries and international organisations that could affect the application of the implementing acts adopted pursuant to paragraph 2, and shall provide for a periodic review of the application of this Article."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:91/p3/s2",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the Commission considers that a third country no longer meets the requirement laid down in paragraph 1, point (b), of this Article, it shall adopt an implementing act repealing the implementing act referred to in paragraph 2 of this Article relating to that third country that benefits from access."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:91/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That implementing act shall be adopted in accordance with the examination procedure referred to in Article 98(2)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:91",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

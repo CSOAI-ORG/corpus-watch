@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-AIActionPlan-2025:PI-13",
+ "label": "US-AIActionPlan-2025 Drive Adoption of AI within the Department of Defense",
+ "instrument": "US-AIActionPlan-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f33e72e999e6e6bb82f2fa9c71f8db46aeea85a8c71b6c15ef0076cb4cd4082a",
+ "sha256_v1": "",
+ "sha256_v2": "f33e72e999e6e6bb82f2fa9c71f8db46aeea85a8c71b6c15ef0076cb4cd4082a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 1,
+ "sha256_current": "f33e72e999e6e6bb82f2fa9c71f8db46aeea85a8c71b6c15ef0076cb4cd4082a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-AIActionPlan-2025:PI-13/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The United States must aggressively adopt AI within its Armed Forces if it is to maintain its global military preeminence while also ensuring, as outlined throughout this Action Plan, that its use of AI is secure and reliable."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-AIActionPlan-2025:PI-13",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

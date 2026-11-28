@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s139",
+ "label": "GB-dpa-2018 Section 139",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "e479073e3a218f740f69904b669fa1180630745027dc0fdbd3c6ec4a38e902c4",
+ "sha256_v1": "",
+ "sha256_v2": "e479073e3a218f740f69904b669fa1180630745027dc0fdbd3c6ec4a38e902c4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "e479073e3a218f740f69904b669fa1180630745027dc0fdbd3c6ec4a38e902c4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s139/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Reporting to Parliament\n(1)\nThe Commission must—\n(a)\nproduce a general report on the carrying out of the Commission's functions annually,\n(b)\narrange for it to be laid before Parliament, and\n(c)\npublish it."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s139/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(1A)\nIn connection with the Commission's functions under the data protection legislation, the report must contain (among other things)—\n(a)\na review of what the Commission has done during the reporting period to comply with the duties under—\n(i)\nsections 120A and 120B,\n(ii)\nsection 108 of the Deregulation Act 2015, and\n(iii)\nsection 21 of the Legislative and Regulatory Reform Act 2006,\nincluding a review of the operation of the strategy prepared and published under section 120C;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s139",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

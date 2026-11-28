@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s26S",
+ "label": "AU-privacy-act-1988 Section 26S",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "a44faa06c897e9a2a9aa4d6c1684787f31ddbc569c85049fcbde8268ab76cd14",
+ "sha256_v1": "",
+ "sha256_v2": "a44faa06c897e9a2a9aa4d6c1684787f31ddbc569c85049fcbde8268ab76cd14",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "a44faa06c897e9a2a9aa4d6c1684787f31ddbc569c85049fcbde8268ab76cd14",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s26S/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(3)\tIf the Commissioner decides not to register a CR code developed by a CR code developer, the Commissioner must give written notice of the decision to the developer, including reasons for the decision."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s26S/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(4)\tThe Commissioner must ensure that there is one, and only one, registered CR code at all times after this Part commences."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s26S",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:85",
+ "label": "EU-mdr-2017 Article 85",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "fa85ba9beac2ef176c9179014e4f0e6c7fb86af7cd4695f457aff9b46581c642",
+ "sha256_v1": "",
+ "sha256_v2": "fa85ba9beac2ef176c9179014e4f0e6c7fb86af7cd4695f457aff9b46581c642",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "fa85ba9beac2ef176c9179014e4f0e6c7fb86af7cd4695f457aff9b46581c642",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:85/p0/s1",
+   "paragraph": "0",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Post-market surveillance report\nManufacturers of class I devices shall prepare a post-market surveillance report summarising the results and conclusions of the analyses of the post-market surveillance data gathered as a result of the post-market surveillance plan referred to in Article 84 together with a rationale and description of any preventive and corrective actions taken."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:85/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The report shall be updated when necessary and made available to the competent authority upon request."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:85",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

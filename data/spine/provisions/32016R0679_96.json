@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:96",
+ "label": "GDPR Art. 96",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "3600e8211fe6ebd272212763f8f574ef96afe93c0a476006d12af4a0bc59e788",
+ "sha256_v1": "3600e8211fe6ebd272212763f8f574ef96afe93c0a476006d12af4a0bc59e788",
+ "sha256_v2": "583651122bd7b4429b3d6d96e4e99c9f33830e3b3a87d47add98912fcac23300",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "583651122bd7b4429b3d6d96e4e99c9f33830e3b3a87d47add98912fcac23300",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:96/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Article 96 Relationship with previously concluded Agreements International agreements involving the transfer of personal data to third countries or international organisations which were concluded by Member States prior to 24 May 2016, and which comply with Union law as applicable prior to that date, shall remain in force until amended, replaced or revoked."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:96",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

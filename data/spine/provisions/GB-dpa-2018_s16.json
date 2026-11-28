@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s16",
+ "label": "GB-dpa-2018 Section 16",
+ "instrument": "GB-dpa-2018",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "02ba09d6bc9eac1557e7f0cb3903ace9a33bc5e60ca0b4aee6b25a7b760787f4",
+ "sha256_v1": "",
+ "sha256_v2": "02ba09d6bc9eac1557e7f0cb3903ace9a33bc5e60ca0b4aee6b25a7b760787f4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "02ba09d6bc9eac1557e7f0cb3903ace9a33bc5e60ca0b4aee6b25a7b760787f4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s16/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s16",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

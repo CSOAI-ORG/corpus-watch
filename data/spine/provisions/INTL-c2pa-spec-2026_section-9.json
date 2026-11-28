@@ -1,0 +1,196 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-c2pa-spec-2026:section-9",
+ "label": "INTL-c2pa-spec-2026 Section 9",
+ "instrument": "INTL-c2pa-spec-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "da62a21d3000d15338c6154bd223aed3af192db5621ac4c171fe1558c924837e",
+ "sha256_v1": "",
+ "sha256_v2": "da62a21d3000d15338c6154bd223aed3af192db5621ac4c171fe1558c924837e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "da62a21d3000d15338c6154bd223aed3af192db5621ac4c171fe1558c924837e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-9/p9/s1",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A c2pa URN shall consist of two mandatory and two optional components, in the following order, with colons (:) between each section."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-9/p9/s2",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When present, the \"Claim Generator identifier\" string shall consist of no more than 32 characters from the ASCII range (as per RFC 20), but which are not Control Characters (RFC 20, 5.2) or Graphic Characters (RFC 20, 5.3)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-9/p9/s3",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When present, the \"Version and Reason\" string shall consist of a positive integer, followed by an underscore (_) and then another positive integer."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-9/p9/s4",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In addition, when a \"Version and Reason\" string is present, a \"Claim Generator identifier\" string shall also be present but it may be empty."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-9/p9/s5",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In such a case, the modified version of the ingredient manifest needs to be copied into the asset’s C2PA Manifest Store, and shall be re-labeled."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-9/p9/s6",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the current URN does not contain a \"Claim Generator identifier string\", then the claim generator shall append a :."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-9/p9/s7",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In all cases, the claim generator shall append a : to the URN followed by a monotonically increasing integer, starting with 1, followed by an underscore (_) and then an integer from the list below representing the reason for the re-labeling.\n1:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-9/p9/s8",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Identifying Non-C2PA Assets\nWhen working with assets that do not contain a C2PA Manifest, but the asset contains embedded XMP which include values for xmpMM:DocumentID and/or xmpMM:InstanceID as defined in XMP Specification Part 2, 2.2, those values shall be used as identifiers for the asset."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-9/p9/s9",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Standard URIs\nAll references to information in the manifest, whether stored internally to the asset (i.e., embedded) or stored externally to the asset (e.g., in the cloud), shall be referenced via JUMBF URI references as defined in ISO 19566-5:2023, C.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-9/p9/s10",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When the reference is to a compressed manifest, the JUMBF URI shall not contain anything about the brob box, but the URI to the manifest is treated as if the manifest was not compressed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-9/p9/s11",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In addition, the URI reference to a compressed manifest shall not include the label of the brob box - but only the label of the compressed manifest itself."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-9/p9/s12",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When resolving an internal JUMBF URI reference, if any label in the path is ambiguous due to multiple child boxes having the same label, a validator shall treat the reference as unresolved.\n9.4.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-9/p9/s13",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If no value is present in any of these places, this\n; structure is invalid; there is no default.\n? \"alg\": tstr .size (1..max-tstr-length),\n\"hash\": bstr, ; byte string containing the hash value\n}\n; with CBOR Head (#) and tail ($) are introduced in regexp, so not needed\n; explicitly\n; added support for `&cbor=` extensions in 2.5\njumbf-uri-type /= tstr .regexp \"self#jumbf=[A-Za-z0-9/][A-Za-z0-9./:&=-]*[A-Za-z0-9/]\"\nBecause assertion stores shall be located in the same C2PA Manifest box as the claim that refers to them, only self#jumbf URIs are permitted."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-9/p9/s14",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "These self#jumbf URIs may be relative to the entire C2PA Manifest Store, in which case they shall start with a / (U+002F, Slash), or relative to the current C2PA Manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-9/p9/s15",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "URIs shall not contain the sequence .."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-9/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If present, this field shall be used as the required format retrieved during any content negotiate/request."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-9/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Hashing JUMBF Boxes\nWhen creating a URI reference to any JUMBF box (e.g., assertions and data boxes), the hash shall be performed over the contents of the structure’s JUMBF superbox, which includes both the JUMBF Description Box and all content boxes therein (but does not include the structure’s JUMBF superbox header)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-c2pa-spec-2026:section-9",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

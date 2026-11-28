@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-WA-HB1170-AIprovenance-2026:preamble",
+ "label": "US-WA-HB1170-AIprovenance-2026 Certification, title and enacting clause",
+ "instrument": "US-WA-HB1170-AIprovenance-2026",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "c8c288ec487b29b857423841160bd20b6518b8b8a113b159ab9d9d55f2d36022",
+ "sha256_v1": "",
+ "sha256_v2": "c8c288ec487b29b857423841160bd20b6518b8b8a113b159ab9d9d55f2d36022",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 2,
+ "sha256_current": "c8c288ec487b29b857423841160bd20b6518b8b8a113b159ab9d9d55f2d36022",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-WA-HB1170-AIprovenance-2026:preamble/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-WA-HB1170-AIprovenance-2026:preamble",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

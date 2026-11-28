@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-cybersecurity-law-2016:28",
+ "label": "CN-cybersecurity-law-2016 第二十八条",
+ "instrument": "CN-cybersecurity-law-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "582b6cd31a640203cfb4d65d22e3d1897a6a1b50cfed42cb2c231d2695c113eb",
+ "sha256_v1": "",
+ "sha256_v2": "582b6cd31a640203cfb4d65d22e3d1897a6a1b50cfed42cb2c231d2695c113eb",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "582b6cd31a640203cfb4d65d22e3d1897a6a1b50cfed42cb2c231d2695c113eb",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-cybersecurity-law-2016:28/s1",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "第二十八条　开展网络安全认证、检测、风险评估等活动，向社会发布系统漏洞、计算机病毒、网络攻击、网络侵入等网络安全信息，应当遵守国家有关规定。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-cybersecurity-law-2016:28",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

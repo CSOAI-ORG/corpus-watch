@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-uk-gdpr-2016:67",
+ "label": "GB-uk-gdpr-2016 Article 67",
+ "instrument": "GB-uk-gdpr-2016",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "72382903bca444362ccd56bbbef1c7573e9cf487c375ef6009117e6d3375da96",
+ "sha256_v1": "",
+ "sha256_v2": "72382903bca444362ccd56bbbef1c7573e9cf487c375ef6009117e6d3375da96",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "72382903bca444362ccd56bbbef1c7573e9cf487c375ef6009117e6d3375da96",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-uk-gdpr-2016:67/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-uk-gdpr-2016:67",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

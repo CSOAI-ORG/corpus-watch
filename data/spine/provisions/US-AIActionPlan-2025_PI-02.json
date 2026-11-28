@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-AIActionPlan-2025:PI-02",
+ "label": "US-AIActionPlan-2025 Ensure that Frontier AI Protects Free Speech and American Values",
+ "instrument": "US-AIActionPlan-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "95820dd468d173c9a0ecc75a43d2fa18d7f3cf51764c223c1289748154b10289",
+ "sha256_v1": "",
+ "sha256_v2": "95820dd468d173c9a0ecc75a43d2fa18d7f3cf51764c223c1289748154b10289",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "95820dd468d173c9a0ecc75a43d2fa18d7f3cf51764c223c1289748154b10289",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-AIActionPlan-2025:PI-02/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "We must ensure that free speech flourishes in the era of AI and that AI procured by the Federal government objectively reflects truth rather than social engineering agendas."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-AIActionPlan-2025:PI-02",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

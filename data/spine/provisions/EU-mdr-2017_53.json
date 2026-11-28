@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:53",
+ "label": "EU-mdr-2017 Article 53",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "9d0de7f75d6bb006ff99d69d0e7ee5d1d221644480f5dd299c191e0e2cc2d18b",
+ "sha256_v1": "",
+ "sha256_v2": "9d0de7f75d6bb006ff99d69d0e7ee5d1d221644480f5dd299c191e0e2cc2d18b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9d0de7f75d6bb006ff99d69d0e7ee5d1d221644480f5dd299c191e0e2cc2d18b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:53/p2/s1",
+   "paragraph": "2",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "The notified body concerned shall, by means of the electronic system referred to in Article 57, inform the other notified bodies of any manufacturer that withdraws its application prior to the notified body's decision regarding the conformity assessment."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:53/p3/s1",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "When applying to a notified body under paragraph 1, manufacturers shall declare whether they have withdrawn an application with another notified body prior to the decision of that notified body and provide information about any previous application for the same conformity assessment that has been refused by another notified body."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:53/p5/s1",
+   "paragraph": "5",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Notified bodies and the personnel of notified bodies shall carry out their conformity assessment activities with the highest degree of professional integrity and the requisite technical and scientific competence in the specific field and shall be free from all pressures and inducements, particularly financial, which might influence their judgement or the results of their conformity assessment activities, especially as regards persons or groups with an interest in the results of those activities."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:53",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

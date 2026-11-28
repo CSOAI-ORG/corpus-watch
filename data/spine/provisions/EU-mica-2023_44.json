@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:44",
+ "label": "EU-mica-2023 Article 44",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "2b48b6adfe9f66d9bd3f49c5ad864b98a936dd8ee0f8e79b3aa2f67768a7c31f",
+ "sha256_v1": "",
+ "sha256_v2": "2b48b6adfe9f66d9bd3f49c5ad864b98a936dd8ee0f8e79b3aa2f67768a7c31f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "2b48b6adfe9f66d9bd3f49c5ad864b98a936dd8ee0f8e79b3aa2f67768a7c31f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:44/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In that case, the competent authority shall immediately notify such request of the applicant issuer to EBA, to the ECB and, in the cases referred to in Article 43(4), to the central bank of the Member State concerned."
+  },
+  {
+   "obligation_id": "EU-mica-2023:44/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In order for an asset-referenced token to be classified as significant under this Article, the applicant issuer of the asset-referenced token shall demonstrate, through a detailed programme of operations referred to in Article 17(1), point (b)(i), and Article 18(2), point (d), that it is likely to fulfil at least three of the criteria set out in Article 43(1)."
+  },
+  {
+   "obligation_id": "EU-mica-2023:44/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "EBA shall, within 20 working days of the notification referred to in paragraph 1 of this Article, prepare a draft decision containing its opinion based on the programme of operations whether the asset-referenced token fulfils or is likely to fulfil at least three of the criteria set out in Article 43(1) and notify that draft decision to the competent authority of the applicant issuer’s home Member State, to the ECB and, in the cases referred to in Article 43(4), second subparagraph, to the central bank of the Member State concerned."
+  },
+  {
+   "obligation_id": "EU-mica-2023:44/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Competent authorities of issuers of such asset-referenced tokens, the ECB and, where applicable, the central bank of the Member State concerned, shall have 20 working days from the date of notification of that draft decision to provide observations and comments in writing."
+  },
+  {
+   "obligation_id": "EU-mica-2023:44/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "EBA shall duly consider those observations and comments before adopting a final decision."
+  },
+  {
+   "obligation_id": "EU-mica-2023:44/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "EBA shall take its final decision on whether to classify an asset-referenced token as a significant asset-referenced token within 60 working days of the notification referred to in paragraph 1 and immediately notify that decision to the applicant issuer of such asset-referenced token and its competent authority."
+  },
+  {
+   "obligation_id": "EU-mica-2023:44/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where asset-referenced tokens have been classified as significant pursuant to a decision of EBA taken in accordance with paragraph 3 of this Article, the supervisory responsibilities with respect to issuers of those asset-referenced tokens shall be transferred from the competent authority to EBA on the date of the decision of the competent authority to grant the authorisation referred to in Article 21(1) or on the date of approval of the crypto-asset white paper pursuant to Article 17."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:44",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

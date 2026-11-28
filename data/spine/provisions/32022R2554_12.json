@@ -1,0 +1,188 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022R2554:12",
+ "label": "DORA Art. 12",
+ "instrument": "DORA",
+ "ladder": "CROSSWALK_ONLY",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "105e62d0d204b7e9c9c3d105636cd582cb5bfa8ca662d926b41e72049d349b96",
+ "sha256_v1": "105e62d0d204b7e9c9c3d105636cd582cb5bfa8ca662d926b41e72049d349b96",
+ "sha256_v2": "7e4d73fc1bf0c596eacdf01926cc00af99930eb71e1413af37fe019d87916ef5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "7e4d73fc1bf0c596eacdf01926cc00af99930eb71e1413af37fe019d87916ef5",
+ "agent_register_kinds": [
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022R2554:12/p1/s1",
+   "paragraph": "1",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "For the purpose of ensuring the restoration of ICT systems and data with minimum downtime, limited disruption and loss, as part of their ICT risk management framework, financial entities shall develop and document:"
+  },
+  {
+   "obligation_id": "32022R2554:12/p2/s1",
+   "paragraph": "2",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Financial entities shall set up backup systems that can be activated in accordance with the backup policies and procedures, as well as restoration and recovery procedures and methods."
+  },
+  {
+   "obligation_id": "32022R2554:12/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The activation of backup systems shall not jeopardise the security of the network and information systems or the availability, authenticity, integrity or confidentiality of data."
+  },
+  {
+   "obligation_id": "32022R2554:12/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Testing of the backup procedures and restoration and recovery procedures and methods shall be undertaken periodically."
+  },
+  {
+   "obligation_id": "32022R2554:12/p3/s1",
+   "paragraph": "3",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When restoring backup data using own systems, financial entities shall use ICT systems that are physically and logically segregated from the source ICT system."
+  },
+  {
+   "obligation_id": "32022R2554:12/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The ICT systems shall be securely protected from any unauthorised access or ICT corruption and allow for the timely restoration of services making use of data and system backups as necessary."
+  },
+  {
+   "obligation_id": "32022R2554:12/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For central counterparties, the recovery plans shall enable the recovery of all transactions at the time of disruption to allow the central counterparty to continue to operate with certainty and to complete settlement on the scheduled date."
+  },
+  {
+   "obligation_id": "32022R2554:12/p3/s4",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Data reporting service providers shall additionally maintain adequate resources and have back-up and restoration facilities in place in order to offer and maintain their services at all times."
+  },
+  {
+   "obligation_id": "32022R2554:12/p4/s1",
+   "paragraph": "4",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Financial entities, other than microenterprises, shall maintain redundant ICT capacities equipped with resources, capabilities and functions that are adequate to ensure business needs."
+  },
+  {
+   "obligation_id": "32022R2554:12/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Microenterprises shall assess the need to maintain such redundant ICT capacities based on their risk profile."
+  },
+  {
+   "obligation_id": "32022R2554:12/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Central securities depositories shall maintain at least one secondary processing site endowed with adequate resources, capabilities, functions and staffing arrangements to ensure business needs."
+  },
+  {
+   "obligation_id": "32022R2554:12/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The secondary processing site shall be:"
+  },
+  {
+   "obligation_id": "32022R2554:12/p6/s1",
+   "paragraph": "6",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In determining the recovery time and recovery point objectives for each function, financial entities shall take into account whether it is a critical or important function and the potential overall impact on market efficiency."
+  },
+  {
+   "obligation_id": "32022R2554:12/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Such time objectives shall ensure that, in extreme scenarios, the agreed service levels are met."
+  },
+  {
+   "obligation_id": "32022R2554:12/p7/s1",
+   "paragraph": "7",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When recovering from an ICT-related incident, financial entities shall perform necessary checks, including any multiple checks and reconciliations, in order to ensure that the highest level of data integrity is maintained."
+  },
+  {
+   "obligation_id": "32022R2554:12/p7/s2",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "These checks shall also be performed when reconstructing data from external stakeholders, in order to ensure that all data is consistent between systems."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022R2554:12",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

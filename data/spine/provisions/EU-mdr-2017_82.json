@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:82",
+ "label": "EU-mdr-2017 Article 82",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "edbd9d64bd31e97242e420107d1ebdacbd5f46447a1f49c0922af84fb848eb99",
+ "sha256_v1": "",
+ "sha256_v2": "edbd9d64bd31e97242e420107d1ebdacbd5f46447a1f49c0922af84fb848eb99",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "edbd9d64bd31e97242e420107d1ebdacbd5f46447a1f49c0922af84fb848eb99",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:82/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Clinical investigations, not performed pursuant to any of the purposes listed in Article 62(1), shall comply with the provisions of Article 62 (2) and (3), points (b), (c), (d), (f), (h), and (l) of Article 62(4) and Article 62(6)."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:82/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In order to protect the rights, safety, dignity and well-being of subjects and the scientific and ethical integrity of clinical investigations not performed for any of the purposes listed in Article 62(1), each Member State shall define any additional requirements for such investigations, as appropriate for each Member State concerned."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:82",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

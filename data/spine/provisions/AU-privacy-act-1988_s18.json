@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s18",
+ "label": "AU-privacy-act-1988 Section 18",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5c09f5ddc7d4a2ce5ffbb2281968606527fa418e6f1ceac8a65fe41353668d60",
+ "sha256_v1": "",
+ "sha256_v2": "5c09f5ddc7d4a2ce5ffbb2281968606527fa418e6f1ceac8a65fe41353668d60",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "5c09f5ddc7d4a2ce5ffbb2281968606527fa418e6f1ceac8a65fe41353668d60",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s18/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "18  File number recipients to comply with rules\nA file number recipient shall not do an act, or engage in a practice, that breaches a rule issued under section 17."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s18",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

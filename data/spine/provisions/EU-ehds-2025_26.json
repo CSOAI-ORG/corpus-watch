@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:26",
+ "label": "EU-ehds-2025 Article 26",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "4c7cc5eea112b27761aecf880d05130140f16805bed127ffa06d56fb5e28c257",
+ "sha256_v1": "",
+ "sha256_v2": "4c7cc5eea112b27761aecf880d05130140f16805bed127ffa06d56fb5e28c257",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "4c7cc5eea112b27761aecf880d05130140f16805bed127ffa06d56fb5e28c257",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:26/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "EHR systems shall be placed on the market or put into service only if they comply with the provisions laid down in this Chapter."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:26/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "EHR systems that are manufactured and used within health institutions established in the Union, as well as EHR systems offered as a service as defined in Article 1(1), point (b), of Directive (EU) 2015/1535 of the European Parliament and of the Council (33) to a natural or legal person established in the Union, shall be considered as having been put into service."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:26/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall not prohibit or restrict the placing on the market of EHR systems which comply with this Regulation, on account of considerations relating to aspects concerning the harmonised software components of EHR systems regulated by this Regulation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:26",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s26XE",
+ "label": "AU-privacy-act-1988 Section 26XE",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "a266ea4922391031d13446596427eca1b5a5c2804e64ad9f4f6e2bedc1dd1cee",
+ "sha256_v1": "",
+ "sha256_v2": "a266ea4922391031d13446596427eca1b5a5c2804e64ad9f4f6e2bedc1dd1cee",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "a266ea4922391031d13446596427eca1b5a5c2804e64ad9f4f6e2bedc1dd1cee",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s26XE/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s26XE",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB896-2024:SEC-2:11549.63.",
+ "label": "US-CA-SB896-2024 SEC. 2. / 11549.63.",
+ "instrument": "US-CA-SB896-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "645abfa0a0384e4a5b6782e02898717bbfa97ba88d29e1d62fba372442612c3e",
+ "sha256_v1": "",
+ "sha256_v2": "645abfa0a0384e4a5b6782e02898717bbfa97ba88d29e1d62fba372442612c3e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "645abfa0a0384e4a5b6782e02898717bbfa97ba88d29e1d62fba372442612c3e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB896-2024:SEC-2:11549.63./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, the Legislature also recognizes that the use of AI must be guided by principles of fairness, transparency, privacy, and accountability to ensure that the rights and opportunities of all Californians are protected in the age of artificial intelligence."
+  },
+  {
+   "obligation_id": "US-CA-SB896-2024:SEC-2:11549.63./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e)The Legislature recognizes that the use of GenAI systems must be consistent with the protection of privacy and civil liberties and must be guided by a commitment to equity and social justice."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB896-2024:SEC-2:11549.63.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

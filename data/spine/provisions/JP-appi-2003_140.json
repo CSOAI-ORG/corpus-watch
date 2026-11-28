@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:140",
+ "label": "JP-appi-2003 Article 140",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "fc7d671a7d09db1a4a856d2b06bfe64d8550baff872bb86d7840c1644ae0ee97",
+ "sha256_v1": "",
+ "sha256_v2": "fc7d671a7d09db1a4a856d2b06bfe64d8550baff872bb86d7840c1644ae0ee97",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "fc7d671a7d09db1a4a856d2b06bfe64d8550baff872bb86d7840c1644ae0ee97",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:140/s4",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "３ 専門委員は、当該専門の事項に関する調査が終了したときは、解任されるものとする。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:140",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

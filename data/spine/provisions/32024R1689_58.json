@@ -1,0 +1,108 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:58",
+ "label": "EU AI Act Art. 58",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "9ed92e28e7a486da39591d00a5c69151a04052a0e5192eae019000f8b525a998",
+ "sha256_v1": "9ed92e28e7a486da39591d00a5c69151a04052a0e5192eae019000f8b525a998",
+ "sha256_v2": "9ed92e28e7a486da39591d00a5c69151a04052a0e5192eae019000f8b525a998",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": 45,
+ "sha256_current": "c3e202ccd1e93c877ab973123213231b6c3039991b4d7caaf78e523fa7dad617",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:58/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In order to avoid fragmentation across the Union, the Commission shall adopt implementing acts specifying the detailed arrangements for the establishment, development, implementation, operation, governance, and supervision of the AI regulatory sandboxes."
+  },
+  {
+   "obligation_id": "32024R1689:58/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall include common principles on the following issues: ▼B (a) eligibility and selection criteria for participation in the AI regulatory sandbox;"
+  },
+  {
+   "obligation_id": "32024R1689:58/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) the terms and conditions applicable to the participants; ▼M1 (d) the detailed rules applicable to the governance of AI regulatory sandboxes covered pursuant to Article 57, including as regards the involvement of and supervision by the competent data protection authorities, where relevant, and the coordination and cooperation at national and Union level. ▼B Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 98(2)."
+  },
+  {
+   "obligation_id": "32024R1689:58/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "The implementing acts referred to in paragraph 1 shall ensure:"
+  },
+  {
+   "obligation_id": "32024R1689:58/p2/s2",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) that AI regulatory sandboxes are open to any applying provider or prospective provider of an AI system who fulfils eligibility and selection criteria, which shall be transparent and fair, and that national competent authorities inform applicants of their decision within three months of the application;"
+  },
+  {
+   "obligation_id": "32024R1689:58/p3/s1",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Prospective providers in the AI regulatory sandboxes, in particular SMEs and start-ups, shall be directed, where relevant, to pre-deployment services such as guidance on the implementation of this Regulation, to other value-adding services such as help with standardisation documents and certification, testing and experimentation facilities, European Digital Innovation Hubs and centres of excellence."
+  },
+  {
+   "obligation_id": "32024R1689:58/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where national competent authorities consider authorising testing in real world conditions supervised within the framework of an AI regulatory sandbox to be established under this Article, they shall specifically agree the terms and conditions of such testing and, in particular, the appropriate safeguards with the participants, with a view to protecting fundamental rights, health and safety."
+  },
+  {
+   "obligation_id": "32024R1689:58/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "cooperate",
+   "status": "DRAFT",
+   "text": "Where appropriate, they shall cooperate with other national competent authorities with a view to ensuring consistent practices across the Union."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:58",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

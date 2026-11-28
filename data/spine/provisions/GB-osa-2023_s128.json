@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s128",
+ "label": "GB-osa-2023 Section 128",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "c161a8da09267e5ece3041e9856f410148cc489c78042ccf37e296615446485e",
+ "sha256_v1": "",
+ "sha256_v2": "c161a8da09267e5ece3041e9856f410148cc489c78042ccf37e296615446485e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "c161a8da09267e5ece3041e9856f410148cc489c78042ccf37e296615446485e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s128/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "OFCOM’s annual report\n(1)\nOFCOM must produce and publish an annual report about—\n(a)\nthe exercise of their functions under this Chapter, and\n(b)\ntechnology which meets, or is in the process of development so as to meet, minimum standards of accuracy (see subsections (12) and (13) of section 125) for the purposes of this Chapter."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s128/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nOFCOM must send a copy of the report to the Secretary of State, and the Secretary of State must lay it before Parliament."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s128",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

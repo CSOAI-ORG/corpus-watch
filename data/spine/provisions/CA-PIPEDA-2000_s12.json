@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CA-PIPEDA-2000:s12",
+ "label": "CA-PIPEDA-2000 Section 12",
+ "instrument": "CA-PIPEDA-2000",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "24a1b28c3e5a77b0007ad7b49c597e0d88b83b9b79a8dacac3f9abd097cad795",
+ "sha256_v1": "",
+ "sha256_v2": "24a1b28c3e5a77b0007ad7b49c597e0d88b83b9b79a8dacac3f9abd097cad795",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CA",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "24a1b28c3e5a77b0007ad7b49c597e0d88b83b9b79a8dacac3f9abd097cad795",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CA-PIPEDA-2000:s12/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Examination of complaint by Commissioner 12 (1) The Commissioner shall conduct an investigation in respect of a complaint, unless the Commissioner is of the opinion that (a) the complainant ought first to exhaust grievance or review procedures otherwise reasonably available;"
+  },
+  {
+   "obligation_id": "CA-PIPEDA-2000:s12/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Notification (3) The Commissioner shall notify the complainant and the organization that the Commissioner will not investigate the complaint or any act alleged in the complaint and give reasons."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CA-PIPEDA-2000:s12",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-algorithm-recommendation-provisions-2021:17",
+ "label": "CN-algorithm-recommendation-provisions-2021 第十七条",
+ "instrument": "CN-algorithm-recommendation-provisions-2021",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8beb6f6554512ef1fefe6d2a88176bca166b38e38e18d0eb9373c65b4e29c48f",
+ "sha256_v1": "",
+ "sha256_v2": "8beb6f6554512ef1fefe6d2a88176bca166b38e38e18d0eb9373c65b4e29c48f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "8beb6f6554512ef1fefe6d2a88176bca166b38e38e18d0eb9373c65b4e29c48f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-algorithm-recommendation-provisions-2021:17/s1",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "第十七条 算法推荐服务提供者应当向用户提供不针对其个人特征的选项，或者向用户提供便捷的关闭算法推荐服务的选项。"
+  },
+  {
+   "obligation_id": "CN-algorithm-recommendation-provisions-2021:17/s2",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "用户选择关闭算法推荐服务的，算法推荐服务提供者应当立即停止提供相关服务。"
+  },
+  {
+   "obligation_id": "CN-algorithm-recommendation-provisions-2021:17/s3",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "算法推荐服务提供者应当向用户提供选择或者删除用于算法推荐服务的针对其个人特征的用户标签的功能。"
+  },
+  {
+   "obligation_id": "CN-algorithm-recommendation-provisions-2021:17/s4",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "算法推荐服务提供者应用算法对用户权益造成重大影响的，应当依法予以说明并承担相应责任。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-algorithm-recommendation-provisions-2021:17",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

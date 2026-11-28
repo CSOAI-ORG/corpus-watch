@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s74B",
+ "label": "GB-dpa-2018 Section 74B",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "8394e40826d61834bed325f18d5d8727337dd7b49dc7cb04a49067a3a69df6f3",
+ "sha256_v1": "",
+ "sha256_v2": "8394e40826d61834bed325f18d5d8727337dd7b49dc7cb04a49067a3a69df6f3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8394e40826d61834bed325f18d5d8727337dd7b49dc7cb04a49067a3a69df6f3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s74B/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nThe Secretary of State must, on an ongoing basis, monitor developments in third countries and international organisations that could affect decisions to make regulations giving approval under section 74AA or to amend or revoke such regulations."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s74B/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nWhere the Secretary of State becomes aware that the data protection test is no longer met in relation to transfers approved, or of a description approved, in regulations under section 74AA, the Secretary of State must, to the extent necessary, amend or revoke the regulations."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s74B/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nWhere regulations under section 74AA are amended or revoked in accordance with subsection (4), the Secretary of State must enter into consultations with the third country or international organisation concerned with a view to improving the protection provided to data subjects with regard to the processing of personal data in the country or by the organisation."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s74B/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(6)\nThe Secretary of State must publish—\n(a)\na list of the third countries ... and international organisations, and the descriptions of such countries ... and organisations, which are for the time being approved by regulations under section 74AA as places or persons to which personal data may be transferred, and\n(b)\na list of the third countries ... and international organisations, and the descriptions of such countries ... and organisations, which have been but are no longer approved by such regulations."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s74B/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(b)\nthe lists published under subsection (6) must specify or describe the relevant transfers."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s74B",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

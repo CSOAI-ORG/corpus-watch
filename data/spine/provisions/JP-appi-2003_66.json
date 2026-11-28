@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:66",
+ "label": "JP-appi-2003 Article 66",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "4f10c9e390b06c0e2d25d20abec39b219a1c81c6889055500df8f6f345ea2a6a",
+ "sha256_v1": "",
+ "sha256_v2": "4f10c9e390b06c0e2d25d20abec39b219a1c81c6889055500df8f6f345ea2a6a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "4f10c9e390b06c0e2d25d20abec39b219a1c81c6889055500df8f6f345ea2a6a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:66/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "行政機関の長等は、保有個人情報の漏えい、滅失又は毀損の防止その他の保有個人情報の安全管理のために必要かつ適切な措置を講じなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:66",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

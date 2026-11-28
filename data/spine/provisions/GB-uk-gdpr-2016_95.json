@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-uk-gdpr-2016:95",
+ "label": "GB-uk-gdpr-2016 Article 95",
+ "instrument": "GB-uk-gdpr-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "c219e990c7a014f0a63ce723ee06561fef4844afe522d0cdefc2be32aa98b1f9",
+ "sha256_v1": "",
+ "sha256_v2": "c219e990c7a014f0a63ce723ee06561fef4844afe522d0cdefc2be32aa98b1f9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "c219e990c7a014f0a63ce723ee06561fef4844afe522d0cdefc2be32aa98b1f9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-uk-gdpr-2016:95/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Relationship with domestic law made before IP completion day implementing Directive 2002/58/EC of the European Parliament and of the Council of 12th July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector\nThis Regulation shall not impose additional obligations on natural or legal persons in relation to processing in connection with the provision of publicly available electronic communications services in public communication networks in the United Kingdom in relation to matters for which they are subject to specific obligations with the same objective set out in domestic law made before IP completion day implementing Directiv"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-uk-gdpr-2016:95",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

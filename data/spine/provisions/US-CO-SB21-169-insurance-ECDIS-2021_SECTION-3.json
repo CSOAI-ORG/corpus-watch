@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CO-SB21-169-insurance-ECDIS-2021:SECTION-3",
+ "label": "US-CO-SB21-169-insurance-ECDIS-2021 SECTION 3",
+ "instrument": "US-CO-SB21-169-insurance-ECDIS-2021",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "e1595722bab2f3ab01305c43dcc510fa6c6985e8df8f20c8ed9ff53b9d682ec1",
+ "sha256_v1": "",
+ "sha256_v2": "e1595722bab2f3ab01305c43dcc510fa6c6985e8df8f20c8ed9ff53b9d682ec1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 6,
+ "sha256_current": "e1595722bab2f3ab01305c43dcc510fa6c6985e8df8f20c8ed9ff53b9d682ec1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CO-SB21-169-insurance-ECDIS-2021:SECTION-3/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CO-SB21-169-insurance-ECDIS-2021:SECTION-3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

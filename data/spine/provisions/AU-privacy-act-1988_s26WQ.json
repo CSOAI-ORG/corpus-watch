@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s26WQ",
+ "label": "AU-privacy-act-1988 Section 26WQ",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "ee1634cb8f6b23fac5b075efe670cdb09b6c6a3001ce80d6a4f2e19eb4195823",
+ "sha256_v1": "",
+ "sha256_v2": "ee1634cb8f6b23fac5b075efe670cdb09b6c6a3001ce80d6a4f2e19eb4195823",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "ee1634cb8f6b23fac5b075efe670cdb09b6c6a3001ce80d6a4f2e19eb4195823",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s26WQ/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(3)\tThe Commissioner must not make a declaration under subsection (1) unless the Commissioner is satisfied that it is reasonable in the circumstances to do so, having regard to the following:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s26WQ/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(a)\tthe Commissioner may refuse the application; and\n(b)\tif the Commissioner does so—the Commissioner must give written notice of the refusal to the entity."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s26WQ",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

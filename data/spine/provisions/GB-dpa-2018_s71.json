@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s71",
+ "label": "GB-dpa-2018 Section 71",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "202ae55b6190fbf3f9f67daa8cc0afe2fbdf252a159fbce0a97661b502bb307b",
+ "sha256_v1": "",
+ "sha256_v2": "202ae55b6190fbf3f9f67daa8cc0afe2fbdf252a159fbce0a97661b502bb307b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "202ae55b6190fbf3f9f67daa8cc0afe2fbdf252a159fbce0a97661b502bb307b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s71/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Tasks of data protection officer\n(1)\nThe controller must entrust the data protection officer with at least the following tasks—\n(a)\ninforming and advising the controller, any processor engaged by the controller, and any employee of the controller who carries out processing of personal data, of that person's obligations under this Part,\n(b)\nproviding advice on the carrying out of a data protection impact assessment under section 64 and monitoring compliance with that section,\n(c)\nco-operating with the Commission ,\n(d)\nacting as the contact point for the Commission on issues relating to processing, including in relation to the consultation mentioned in section 65, and consulting with the Commi"
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s71/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nIn performing the tasks set out in subsections (1) and (2), the data protection officer must have regard to the risks associated with processing operations, taking into account the nature, scope, context and purposes of processing."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s71",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

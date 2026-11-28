@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:15",
+ "label": "EU-dsa-2022 Article 15",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "f0db57a95f6c44502a727ae9b6071bce00fccd19d15526391af139883f7875e7",
+ "sha256_v1": "",
+ "sha256_v2": "f0db57a95f6c44502a727ae9b6071bce00fccd19d15526391af139883f7875e7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "f0db57a95f6c44502a727ae9b6071bce00fccd19d15526391af139883f7875e7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:15/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Providers of intermediary services shall make publicly available, in a machine-readable format and in an easily accessible manner, at least once a year, clear, easily comprehensible reports on any content moderation that they engaged in during the relevant period."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:15/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those reports shall include, in particular, information on the following, as applicable:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:15/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)\nfor providers of intermediary services, meaningful and comprehensible information about the content moderation engaged in at the providers’ own initiative, including the use of automated tools, the measures taken to provide training and assistance to persons in charge of content moderation, the number and type of measures taken that affect the availability, visibility and accessibility of information provided by the recipients of the service and the recipients’ ability to provide information through the service, and other related restrictions of the service; the information reported shall be categorised by the type of illegal content or violation of the terms and conditions of the servic"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:15/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 88."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:15",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

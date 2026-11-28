@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "TW-pdpa-1995:7",
+ "label": "TW-pdpa-1995 Article 7",
+ "instrument": "TW-pdpa-1995",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "e237707cf84e3edd590077cb718e3cae4ff24c96a11f599415b1206ad2e2bdbc",
+ "sha256_v1": "",
+ "sha256_v2": "e237707cf84e3edd590077cb718e3cae4ff24c96a11f599415b1206ad2e2bdbc",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "TW",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "e237707cf84e3edd590077cb718e3cae4ff24c96a11f599415b1206ad2e2bdbc",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "TW-pdpa-1995:7/s2",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "zh:public-trace",
+   "status": "DRAFT",
+   "text": "第十五條第二款及第十九條第一項第五款所稱同意，指當事人經蒐集者告知本法所定應告知事項後，所為允許之意思表示。"
+  },
+  {
+   "obligation_id": "TW-pdpa-1995:7/s4",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "公務機關或非公務機關明確告知當事人第八條第一項各款應告知事項時，當事人如未表示拒絕，並已提供其個人資料者，推定當事人已依第十五條第二款、第十九條第一項第五款之規定表示同意。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=TW-pdpa-1995:7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

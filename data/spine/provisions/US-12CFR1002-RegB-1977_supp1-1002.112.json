@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-12CFR1002-RegB-1977:supp1-1002.112",
+ "label": "US-12CFR1002-RegB-1977 Supplement I, Section 1002.112—Enforcement",
+ "instrument": "US-12CFR1002-RegB-1977",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "0569893454fc6c82382832673e6e82f41ccbefdc1bdb7620a8a103b18d4b291a",
+ "sha256_v1": "",
+ "sha256_v2": "0569893454fc6c82382832673e6e82f41ccbefdc1bdb7620a8a103b18d4b291a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "0569893454fc6c82382832673e6e82f41ccbefdc1bdb7620a8a103b18d4b291a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.112/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The size of the random sample, set out in column B, shall depend on the size of the financial institution's small business lending application register, as shown in column A of table 1 to appendix F."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.112/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The safe harbor in § 1002.112(c)(3) applies to an incorrect entry for the 3-digit NAICS code that financial institutions must collect and report pursuant to § 1002.107(a)(15), provided certain conditions are met."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-12CFR1002-RegB-1977:supp1-1002.112",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

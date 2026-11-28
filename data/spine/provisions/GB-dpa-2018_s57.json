@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s57",
+ "label": "GB-dpa-2018 Section 57",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "3fe9795cbe4d42f20208451365fd7efc1c186a146811f133b769f42e4e81a32e",
+ "sha256_v1": "",
+ "sha256_v2": "3fe9795cbe4d42f20208451365fd7efc1c186a146811f133b769f42e4e81a32e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "3fe9795cbe4d42f20208451365fd7efc1c186a146811f133b769f42e4e81a32e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s57/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Data protection by design and default\n(1)\nEach controller must implement appropriate technical and organisational measures which are designed—\n(a)\nto implement the data protection principles in an effective manner, and\n(b)\nto integrate into the processing itself the safeguards necessary for that purpose."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s57/p0/s2",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "(3)\nEach controller must implement appropriate technical and organisational measures for ensuring that, by default, only personal data which is necessary for each specific purpose of the processing is processed."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s57/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nIn particular, the measures implemented to comply with the duty under subsection (3) must ensure that, by default, personal data is not made accessible to an indefinite number of people without an individual's intervention."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s57",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

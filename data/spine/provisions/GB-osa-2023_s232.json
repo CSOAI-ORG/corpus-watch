@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s232",
+ "label": "GB-osa-2023 Section 232",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "688f415b0552058beec9ab4e3128e3615e974c06ac9d76e08b797480815b54d5",
+ "sha256_v1": "",
+ "sha256_v2": "688f415b0552058beec9ab4e3128e3615e974c06ac9d76e08b797480815b54d5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "688f415b0552058beec9ab4e3128e3615e974c06ac9d76e08b797480815b54d5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s232/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Content communicated “publicly” or “privately”\n(1)\nThis section specifies factors which OFCOM must, in particular, consider when deciding whether content is communicated “publicly” or “privately” by means of a user-to-user service for the purposes of—\n(a)\nsection 121 (notice to deal with terrorism content),\n(b)\nsection 136 (requirement to use proactive technology), or\n(c)\nparagraph 13(4) of Schedule 4 (recommendation of proactive technology in codes of practice)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s232",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

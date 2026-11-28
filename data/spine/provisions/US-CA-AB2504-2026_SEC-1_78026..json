@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB2504-2026:SEC-1:78026.",
+ "label": "US-CA-AB2504-2026 SECTION 1. / 78026.",
+ "instrument": "US-CA-AB2504-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "2b1e929203fa099602accb2c63a2d70d01469f0ddb7121cf64a63806d7f86291",
+ "sha256_v1": "",
+ "sha256_v2": "2b1e929203fa099602accb2c63a2d70d01469f0ddb7121cf64a63806d7f86291",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "2b1e929203fa099602accb2c63a2d70d01469f0ddb7121cf64a63806d7f86291",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB2504-2026:SEC-1:78026./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This article shall be known, and may be cited, as the Future of Creative Industries Pilot Program."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB2504-2026:SEC-1:78026.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

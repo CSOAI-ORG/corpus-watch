@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-led-2016:42",
+ "label": "EU-led-2016 Article 42",
+ "instrument": "EU-led-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "9e4d93e5c0ca38e3b1b3d3f9170dfc0130cc11e8cec0a10a49f1e46e38c50320",
+ "sha256_v1": "",
+ "sha256_v2": "9e4d93e5c0ca38e3b1b3d3f9170dfc0130cc11e8cec0a10a49f1e46e38c50320",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9e4d93e5c0ca38e3b1b3d3f9170dfc0130cc11e8cec0a10a49f1e46e38c50320",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-led-2016:42/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Each Member State shall provide for each supervisory authority to act with complete independence in performing its tasks and exercising its powers in accordance with this Directive."
+  },
+  {
+   "obligation_id": "EU-led-2016:42/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall provide for the member or members of their supervisory authorities in the performance of their tasks and exercise of their powers in accordance with this Directive, to remain free from external influence, whether direct or indirect, and that they shall neither seek nor take instructions from anybody."
+  },
+  {
+   "obligation_id": "EU-led-2016:42/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Members of Member States' supervisory authorities shall refrain from any action incompatible with their duties and shall not, during their term of office, engage in any incompatible occupation, whether gainful or not."
+  },
+  {
+   "obligation_id": "EU-led-2016:42/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Each Member State shall ensure that each supervisory authority is provided with the human, technical and financial resources, premises and infrastructure necessary for the effective performance of its tasks and exercise of its powers, including those to be carried out in the context of mutual assistance, cooperation and participation in the Board."
+  },
+  {
+   "obligation_id": "EU-led-2016:42/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Each Member State shall ensure that each supervisory authority chooses and has its own staff which shall be subject to the exclusive direction of the member or members of the supervisory authority concerned."
+  },
+  {
+   "obligation_id": "EU-led-2016:42/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Each Member State shall ensure that each supervisory authority is subject to financial control which does not affect its independence and that it has separate, public annual budgets, which may be part of the overall state or national budget."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-led-2016:42",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,48 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:84",
+ "label": "EU AI Act Art. 84",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a10e1390c6de11302a088f5222b647ed0df41a35b9622e21ce44f669db1b1e05",
+ "sha256_v1": "a10e1390c6de11302a088f5222b647ed0df41a35b9622e21ce44f669db1b1e05",
+ "sha256_v2": "2a41643bf4830c7a2a674ad92cc5e835dad091bbe2498fc1871d78609e2fe754",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "2a41643bf4830c7a2a674ad92cc5e835dad091bbe2498fc1871d78609e2fe754",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:84/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall designate one or more Union AI testing support structures to perform the tasks listed under Article 21(6) of Regulation (EU) 2019/1020 in the area of AI."
+  },
+  {
+   "obligation_id": "32024R1689:84/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Without prejudice to the tasks referred to in paragraph 1, Union AI testing support structures shall also provide independent technical or scientific advice at the request of the Board, the Commission, or of market surveillance authorities."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:84",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-led-2016:23",
+ "label": "EU-led-2016 Article 23",
+ "instrument": "EU-led-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "56e7084dba44270c065c7e49273a64fa2c6a32ed27491d784e844d1caf966454",
+ "sha256_v1": "",
+ "sha256_v2": "56e7084dba44270c065c7e49273a64fa2c6a32ed27491d784e844d1caf966454",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "56e7084dba44270c065c7e49273a64fa2c6a32ed27491d784e844d1caf966454",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-led-2016:23/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Processing under the authority of the controller or processor\nMember States shall provide for the processor and any person acting under the authority of the controller or of the processor, who has access to personal data, not to process those data except on instructions from the controller, unless required to do so by Union or Member State law."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-led-2016:23",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

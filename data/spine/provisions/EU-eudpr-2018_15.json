@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:15",
+ "label": "EU-eudpr-2018 Article 15",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "705acd1b75cca1f018ac9c8ca8c4e6cb6c5eeadb9d3ae227406996ef9924288e",
+ "sha256_v1": "",
+ "sha256_v2": "705acd1b75cca1f018ac9c8ca8c4e6cb6c5eeadb9d3ae227406996ef9924288e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "705acd1b75cca1f018ac9c8ca8c4e6cb6c5eeadb9d3ae227406996ef9924288e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:15/p1/s1",
+   "paragraph": "1",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "Where personal data relating to a data subject are collected from the data subject, the controller shall, at the time when personal data are obtained, provide the data subject with all of the following information:"
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:15/p2/s1",
+   "paragraph": "2",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "In addition to the information referred to in paragraph 1, the controller shall, at the time when personal data are obtained, provide the data subject with the following further information necessary to ensure fair and transparent processing:"
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:15/p3/s1",
+   "paragraph": "3",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "Where the controller intends to further process the personal data for a purpose other than that for which the personal data were collected, the controller shall provide the data subject prior to that further processing with information on that other purpose and with any relevant further information as referred to in paragraph 2."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:15",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

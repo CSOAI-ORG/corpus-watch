@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-gpsr-2023:13",
+ "label": "EU-gpsr-2023 Article 13",
+ "instrument": "EU-gpsr-2023",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "bb3d441e20b45e554982c5abcddc6798efafdca4d3d868e183786d6bcf7d4088",
+ "sha256_v1": "",
+ "sha256_v2": "bb3d441e20b45e554982c5abcddc6798efafdca4d3d868e183786d6bcf7d4088",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "bb3d441e20b45e554982c5abcddc6798efafdca4d3d868e183786d6bcf7d4088",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-gpsr-2023:13/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-gpsr-2023:13",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

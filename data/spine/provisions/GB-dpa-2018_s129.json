@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s129",
+ "label": "GB-dpa-2018 Section 129",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "2fc33333c49ef0297324822e267e81a28ba886546b6a3cb9afd95bbd0e69253f",
+ "sha256_v1": "",
+ "sha256_v2": "2fc33333c49ef0297324822e267e81a28ba886546b6a3cb9afd95bbd0e69253f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "2fc33333c49ef0297324822e267e81a28ba886546b6a3cb9afd95bbd0e69253f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s129/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\nThe Commission must inform the controller or processor of the results of such an assessment."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s129",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

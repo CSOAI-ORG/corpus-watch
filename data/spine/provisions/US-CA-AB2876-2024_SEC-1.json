@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB2876-2024:SEC-1",
+ "label": "US-CA-AB2876-2024 SECTION 1.",
+ "instrument": "US-CA-AB2876-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "513d1ab6add298d8dbf033292c305740132e456c2be2bb96a492848c2212a0c9",
+ "sha256_v1": "",
+ "sha256_v2": "513d1ab6add298d8dbf033292c305740132e456c2be2bb96a492848c2212a0c9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "513d1ab6add298d8dbf033292c305740132e456c2be2bb96a492848c2212a0c9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB2876-2024:SEC-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(b)When the English language arts/English language development (ELA/ELD) curriculum framework is next revised after January 1, 2024, the commission shall consider incorporating the Model Library Standards developed pursuant to Section 18101."
+  },
+  {
+   "obligation_id": "US-CA-AB2876-2024:SEC-1/p1/s2",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The commission shall also consider incorporating media literacy content at each grade level."
+  },
+  {
+   "obligation_id": "US-CA-AB2876-2024:SEC-1/p1/s3",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(c)(1)The commission shall consider incorporating media literacy content into the mathematics, science, and history-social science curriculum frameworks when those frameworks are next revised after January 1, 2024."
+  },
+  {
+   "obligation_id": "US-CA-AB2876-2024:SEC-1/p1/s4",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)When ELA/ELD instructional materials are next adopted by the state board after January 1, 2025, the commission shall consider including the Model Library Standards, developed pursuant to Section 18101, including media literacy content, in its criteria for evaluating instructional materials."
+  },
+  {
+   "obligation_id": "US-CA-AB2876-2024:SEC-1/p1/s5",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(3)When mathematics, science, and history-social science instructional materials are next adopted by the state board after January 1, 2025, the commission shall consider including media literacy content in its criteria for evaluating instructional materials."
+  },
+  {
+   "obligation_id": "US-CA-AB2876-2024:SEC-1/p1/s6",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(d)(1)The commission shall consider incorporating AI literacy content into the mathematics, science, and history-social science curriculum frameworks when those frameworks are next revised after January 1, 2025."
+  },
+  {
+   "obligation_id": "US-CA-AB2876-2024:SEC-1/p1/s7",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)When mathematics, science, and history-social science instructional materials are next adopted by the state board after January 1, 2025, the commission shall consider including AI literacy in its criteria for evaluating instructional materials."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB2876-2024:SEC-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

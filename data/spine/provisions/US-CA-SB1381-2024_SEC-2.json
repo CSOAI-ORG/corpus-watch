@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB1381-2024:SEC-2",
+ "label": "US-CA-SB1381-2024 SEC. 2.",
+ "instrument": "US-CA-SB1381-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7d7926f4b2fc69136fde96e1aa03a5f77f481f51e38f23b436bd3e7d0382a367",
+ "sha256_v1": "",
+ "sha256_v2": "7d7926f4b2fc69136fde96e1aa03a5f77f481f51e38f23b436bd3e7d0382a367",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "7d7926f4b2fc69136fde96e1aa03a5f77f481f51e38f23b436bd3e7d0382a367",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB1381-2024:SEC-2/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e)Every person who violates subdivision (a) shall be punished by a fine of not more than two thousand dollars ($2,000) or by imprisonment in a county jail for not more than one year, or by both that fine and imprisonment."
+  },
+  {
+   "obligation_id": "US-CA-SB1381-2024:SEC-2/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the person has been previously convicted of a violation of subdivision (a) or any section of this chapter, the person shall be punished by imprisonment in the state prison."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB1381-2024:SEC-2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

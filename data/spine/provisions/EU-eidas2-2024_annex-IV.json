@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eidas2-2024:annex-IV",
+ "label": "EU-eidas2-2024 Annex IV",
+ "instrument": "EU-eidas2-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b970bd90741ff5ec0495e144d374f1184dc9e3a0b022a1ba8ac2957aa7e2994f",
+ "sha256_v1": "",
+ "sha256_v2": "b970bd90741ff5ec0495e144d374f1184dc9e3a0b022a1ba8ac2957aa7e2994f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "b970bd90741ff5ec0495e144d374f1184dc9e3a0b022a1ba8ac2957aa7e2994f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eidas2-2024:annex-IV/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1)\npoint (c) is replaced by the following:\n‘(c)\nfor natural persons: at least the name of the person to whom the certificate has been issued, or a pseudonym; if a pseudonym is used, it shall be clearly indicated;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eidas2-2024:annex-IV",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-16CFR461-impersonation-2024:461.1",
+ "label": "US-16CFR461-impersonation-2024 § 461.1",
+ "instrument": "US-16CFR461-impersonation-2024",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "ca9ab0158ca444d3b43117c3760ba1e354c40db1d7e59ac953f4a4d47027e1ad",
+ "sha256_v1": "",
+ "sha256_v2": "ca9ab0158ca444d3b43117c3760ba1e354c40db1d7e59ac953f4a4d47027e1ad",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ca9ab0158ca444d3b43117c3760ba1e354c40db1d7e59ac953f4a4d47027e1ad",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-16CFR461-impersonation-2024:461.1/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-16CFR461-impersonation-2024:461.1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,78 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:81",
+ "label": "EU AI Act Art. 81",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "b0bc48025f4996124d50bdf9c8cb12485381fcce32943adcf70036fb4a2efc2c",
+ "sha256_v1": "b0bc48025f4996124d50bdf9c8cb12485381fcce32943adcf70036fb4a2efc2c",
+ "sha256_v2": "b0bc48025f4996124d50bdf9c8cb12485381fcce32943adcf70036fb4a2efc2c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "b0bc48025f4996124d50bdf9c8cb12485381fcce32943adcf70036fb4a2efc2c",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:81/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where, within three months of receipt of the notification referred to in Article 79(5), or within 30 days in the case of non-compliance with the prohibition of the AI practices referred to in Article 5, objections are raised by the market surveillance authority of a Member State to a measure taken by another market surveillance authority, or where the Commission considers the measure to be contrary to Union law, the Commission shall without undue delay enter into consultation with the market surveillance authority of the relevant Member State and the operator or operators, and shall evaluate the national measure."
+  },
+  {
+   "obligation_id": "32024R1689:81/p1/s2",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "On the basis of the results of that evaluation, the Commission shall, within six months, or within 60 days in the case of non-compliance with the prohibition of the AI practices referred to in Article 5, starting from the notification referred to in Article 79(5), decide whether the national measure is justified and shall notify its decision to the market surveillance authority of the Member State concerned."
+  },
+  {
+   "obligation_id": "32024R1689:81/p1/s3",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall also inform all other market surveillance authorities of its decision."
+  },
+  {
+   "obligation_id": "32024R1689:81/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the Commission considers the measure taken by the relevant Member State to be justified, all Member States shall ensure that they take appropriate restrictive measures in respect of the AI system concerned, such as requiring the withdrawal of the AI system from their market without undue delay, and shall inform the Commission accordingly."
+  },
+  {
+   "obligation_id": "32024R1689:81/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the Commission considers the national measure to be unjustified, the Member State concerned shall withdraw the measure and shall inform the Commission accordingly."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:81",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

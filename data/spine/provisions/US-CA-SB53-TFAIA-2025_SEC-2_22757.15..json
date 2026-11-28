@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB53-TFAIA-2025:SEC-2:22757.15.",
+ "label": "US-CA-SB53-TFAIA-2025 SEC. 2. / 22757.15.",
+ "instrument": "US-CA-SB53-TFAIA-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "cb60c0330daf9a8c450cd617ce6d27c01d75f1975e2bbfd2a8fc3faa2c829d42",
+ "sha256_v1": "",
+ "sha256_v2": "cb60c0330daf9a8c450cd617ce6d27c01d75f1975e2bbfd2a8fc3faa2c829d42",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "cb60c0330daf9a8c450cd617ce6d27c01d75f1975e2bbfd2a8fc3faa2c829d42",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB53-TFAIA-2025:SEC-2:22757.15./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(a)A large frontier developer that fails to publish or transmit a compliant document required to be published or transmitted under this chapter, makes a statement in violation of subdivision (e) of Section 22757.12, fails to report an incident as required by Section 22757.13, or fails to comply with its own frontier AI framework shall be subject to a civil penalty in an amount dependent upon the severity of the violation that does not exceed one million dollars ($1,000,000) per violation."
+  },
+  {
+   "obligation_id": "US-CA-SB53-TFAIA-2025:SEC-2:22757.15./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)A civil penalty described in this section shall be recovered in a civil action brought only by the Attorney General."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB53-TFAIA-2025:SEC-2:22757.15.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

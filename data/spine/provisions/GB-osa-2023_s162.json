@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s162",
+ "label": "GB-osa-2023 Section 162",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "cd61f4ef1fc6b0d035a827df655edbc69a39345a1ad11a33db89a240b2e89040",
+ "sha256_v1": "",
+ "sha256_v2": "cd61f4ef1fc6b0d035a827df655edbc69a39345a1ad11a33db89a240b2e89040",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "cd61f4ef1fc6b0d035a827df655edbc69a39345a1ad11a33db89a240b2e89040",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s162/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "OFCOM’s report about researchers’ access to information\n(1)\nOFCOM must produce a report—\n(a)\ndescribing how, and to what extent, persons carrying out independent research into online safety matters are currently able to obtain information from providers of regulated services to inform their research,\n(b)\nexploring the legal and other issues which currently constrain the sharing of information for such purposes, and\n(c)\nassessing the extent to which greater access to information for such purposes might be achieved."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s162/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nIn preparing the report, OFCOM must consult—\n(a)\nthe Information Commission,\n(b)\nthe Centre for Data Ethics and Innovation,\n(c)\nUnited Kingdom Research and Innovation,\n(d)\npersons who appear to OFCOM to represent providers of regulated services, and\n(e)\nsuch other persons as OFCOM consider appropriate."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s162/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(4)\nOFCOM must publish the report within the period of 18 months beginning with the day on which this section comes into force."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s162/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nOFCOM must send a copy of the report to the Secretary of State, and the Secretary of State must lay it before Parliament."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s162",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

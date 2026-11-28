@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:60",
+ "label": "EU-ehds-2025 Article 60",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "21b66995e6e849c122eabd9bfb0e8d638bd24c3479536b2bab7498d933c347a6",
+ "sha256_v1": "",
+ "sha256_v2": "21b66995e6e849c122eabd9bfb0e8d638bd24c3479536b2bab7498d933c347a6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "21b66995e6e849c122eabd9bfb0e8d638bd24c3479536b2bab7498d933c347a6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:60/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Health data holders shall make relevant electronic health data referred to in Article 51 available upon request to the health data access body, in accordance with a data permit issued pursuant to Article 68, or upon a health data request approved pursuant to Article 69."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:60/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Health data holders shall put the requested electronic health data referred to in paragraph 1 at the disposal of the health data access body within a reasonable time and no later than three months from the receipt of the request by the health data access body."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:60/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The health data holder shall communicate to the health data access body a description of the dataset it holds in accordance with Article"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:60/p77/s1",
+   "paragraph": "77",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The health data holder shall, at a minimum on an annual basis, check that its dataset description in the national dataset catalogue is accurate and up to date."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:60/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where a data quality and utility label accompanies the dataset pursuant to Article 78, the health data holder shall provide sufficient documentation to the health data access body for that body to verify the accuracy of the label."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:60/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Health data holders of non-personal electronic health data shall provide access to data through trusted open databases to ensure unrestricted access for all users and data storage and preservation."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:60/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Trusted open public databases shall have in place robust, transparent and sustainable governance and a transparent model of user access."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:60",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

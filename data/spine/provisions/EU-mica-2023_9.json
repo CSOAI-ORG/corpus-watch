@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:9",
+ "label": "EU-mica-2023 Article 9",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "d37eb8906777094932fa8514feeb9de5ddb7594ba111cf2f540f194bf6cd254b",
+ "sha256_v1": "",
+ "sha256_v2": "d37eb8906777094932fa8514feeb9de5ddb7594ba111cf2f540f194bf6cd254b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d37eb8906777094932fa8514feeb9de5ddb7594ba111cf2f540f194bf6cd254b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:9/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Offerors and persons seeking admission to trading of crypto-assets other than asset-referenced tokens or e-money tokens shall publish their crypto-asset white papers and, where applicable, their marketing communications, on their website, which shall be publicly accessible, at a reasonable time in advance of, and in any event before the starting date of, the offer to the public of those crypto-assets or the admission to trading of those crypto-assets."
+  },
+  {
+   "obligation_id": "EU-mica-2023:9/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The crypto-asset white papers and, where applicable, the marketing communications, shall remain available on the website of the offerors or persons seeking admission trading for as long as the crypto-assets are held by the public."
+  },
+  {
+   "obligation_id": "EU-mica-2023:9/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "The published crypto-asset white papers and, where applicable, the marketing communications, shall be identical to the version notified to the competent authority in accordance with Article 8 or, where applicable, to the version modified in accordance with Article 12."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:9",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

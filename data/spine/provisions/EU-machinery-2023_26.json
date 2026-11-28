@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-machinery-2023:26",
+ "label": "EU-machinery-2023 Article 26",
+ "instrument": "EU-machinery-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "bf159b2444c119289b1556732a0ee44a371ac0926ba6f71c0aaaf6a80d55bc77",
+ "sha256_v1": "",
+ "sha256_v2": "bf159b2444c119289b1556732a0ee44a371ac0926ba6f71c0aaaf6a80d55bc77",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "bf159b2444c119289b1556732a0ee44a371ac0926ba6f71c0aaaf6a80d55bc77",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-machinery-2023:26/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Notification\nMember States shall notify the Commission and the other Member States of bodies authorised to carry out third-party conformity assessment tasks in accordance with this Regulation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-machinery-2023:26",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

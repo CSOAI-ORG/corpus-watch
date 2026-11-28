@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s44",
+ "label": "AU-privacy-act-1988 Section 44",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "c4ccd10df6b74e224a6c9264364935a072181ebcb7a151941df00380e7a9446c",
+ "sha256_v1": "",
+ "sha256_v2": "c4ccd10df6b74e224a6c9264364935a072181ebcb7a151941df00380e7a9446c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "c4ccd10df6b74e224a6c9264364935a072181ebcb7a151941df00380e7a9446c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s44/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\tA notice given by the Commissioner under subsection (1) shall state:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s44/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\tmay take possession of, and may make copies of, or take extracts from, the documents; and\n(b)\tmay retain possession of the documents for any period that is necessary for the purposes of the investigation to which the documents relate; and\n(c)\tduring that period must permit a person who would be entitled to inspect any one or more of the documents if they were not in the Commissioner’s possession to inspect at all reasonable times any of the documents that the person would be so entitled to inspect."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s44",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

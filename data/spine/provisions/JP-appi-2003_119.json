@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:119",
+ "label": "JP-appi-2003 Article 119",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "19176a8db2401b8aaf663425a6d2819224875266e6b859902c63c0a15fe43d71",
+ "sha256_v1": "",
+ "sha256_v2": "19176a8db2401b8aaf663425a6d2819224875266e6b859902c63c0a15fe43d71",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "19176a8db2401b8aaf663425a6d2819224875266e6b859902c63c0a15fe43d71",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:119/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "第百十五条の規定により行政機関等匿名加工情報の利用に関する契約を行政機関の長と締結する者は、政令で定めるところにより、実費を勘案して政令で定める額の手数料を納めなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:119/s3",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "２ 前条第二項において準用する第百十五条の規定により行政機関等匿名加工情報の利用に関する契約を行政機関の長と締結する者は、政令で定めるところにより、前項の政令で定める額を参酌して政令で定める額の手数料を納めなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:119/s4",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "３ 第百十五条の規定により行政機関等匿名加工情報の利用に関する契約を地方公共団体の機関と締結する者は、条例で定めるところにより、実費を勘案して政令で定める額を標準として条例で定める額の手数料を納めなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:119/s5",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "４ 前条第二項において準用する第百十五条の規定により行政機関等匿名加工情報の利用に関する契約を地方公共団体の機関と締結する者は、条例で定めるところにより、前項の政令で定める額を参酌して政令で定める額を標準として条例で定める額の手数料を納めなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:119/s8",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "）により行政機関等匿名加工情報の利用に関する契約を独立行政法人等と締結する者は、独立行政法人等の定めるところにより、利用料を納めなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:119/s10",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "７ 独立行政法人等は、前二項の規定による定めを一般の閲覧に供しなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:119/s11",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "８ 第百十五条の規定により行政機関等匿名加工情報の利用に関する契約を地方独立行政法人と締結する者は、地方独立行政法人の定めるところにより、手数料を納めなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:119/s13",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "１０ 地方独立行政法人は、前二項の規定による定めを一般の閲覧に供しなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:119",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

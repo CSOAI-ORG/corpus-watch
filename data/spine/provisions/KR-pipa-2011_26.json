@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-pipa-2011:26",
+ "label": "KR-pipa-2011 제26조",
+ "instrument": "KR-pipa-2011",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "7297b093a532b677d18c28cfda7961b1fc0b345ede9b742fa18b79a8a615faca",
+ "sha256_v1": "",
+ "sha256_v2": "7297b093a532b677d18c28cfda7961b1fc0b345ede9b742fa18b79a8a615faca",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "7297b093a532b677d18c28cfda7961b1fc0b345ede9b742fa18b79a8a615faca",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-pipa-2011:26/s1",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "제26조(업무위탁에 따른 개인정보의 처리 제한) ① 개인정보처리자가 제3자에게 개인정보의 처리 업무를 위탁하는 경우에는 다음 각 호의 내용이 포함된 문서로 하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:26/s6",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "ko:public-trace",
+   "status": "DRAFT",
+   "text": "② 제1항에 따라 개인정보의 처리 업무를 위탁하는 개인정보처리자(이하 “위탁자”라 한다)는 위탁하는 업무의 내용과 개인정보 처리 업무를 위탁받아 처리하는 자(개인정보 처리 업무를 위탁받아 처리하는 자로부터 위탁받은 업무를 다시 위탁받은 제3자를 포함하며, 이하 “수탁자”라 한다)를 정보주체가 언제든지 쉽게 확인할 수 있도록 대통령령으로 정하는 방법에 따라 공개하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:26/s10",
+   "paragraph": null,
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ko:internal-record",
+   "status": "DRAFT",
+   "text": "④ 위탁자는 업무 위탁으로 인하여 정보주체의 개인정보가 유출등이 되지 아니하도록 수탁자를 교육하고, 처리 현황 점검 등 대통령령으로 정하는 바에 따라 수탁자가 개인정보를 안전하게 처리하는지를 감독하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:26/s12",
+   "paragraph": null,
+   "addressee": "processor",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "⑤ 수탁자는 개인정보처리자로부터 위탁받은 해당 업무 범위를 초과하여 개인정보를 이용하거나 제3자에게 제공하여서는 아니 된다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-pipa-2011:26",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

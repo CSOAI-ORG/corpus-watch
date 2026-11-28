@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-TX-HB581-AIsexmaterial-minors-2025:SECTION-6",
+ "label": "US-TX-HB581-AIsexmaterial-minors-2025 SECTION 6",
+ "instrument": "US-TX-HB581-AIsexmaterial-minors-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "01999f6b9d99c89a7e597422e229f54327d0250f5ee88746a51a97d7d8c7748c",
+ "sha256_v1": "",
+ "sha256_v2": "01999f6b9d99c89a7e597422e229f54327d0250f5ee88746a51a97d7d8c7748c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "01999f6b9d99c89a7e597422e229f54327d0250f5ee88746a51a97d7d8c7748c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-TX-HB581-AIsexmaterial-minors-2025:SECTION-6/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "(a) Except as provided by\nSubsection (b), a commercial entity that operates an Internet\nwebsite with a publicly accessible tool for creating artificial\nsexual material harmful to minors or otherwise makes publicly\navailable an application for creating artificial sexual material\nharmful to minors shall ensure that an individual used as a source\nfor the material:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-TX-HB581-AIsexmaterial-minors-2025:SECTION-6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

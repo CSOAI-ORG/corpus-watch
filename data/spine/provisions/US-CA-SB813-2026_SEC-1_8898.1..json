@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB813-2026:SEC-1:8898.1.",
+ "label": "US-CA-SB813-2026 SECTION 1. / 8898.1.",
+ "instrument": "US-CA-SB813-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "507832ddf6f3bcc41b69097b494b019b28e4feb08a50aeccb230f7b4cb463301",
+ "sha256_v1": "",
+ "sha256_v2": "507832ddf6f3bcc41b69097b494b019b28e4feb08a50aeccb230f7b4cb463301",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "507832ddf6f3bcc41b69097b494b019b28e4feb08a50aeccb230f7b4cb463301",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB813-2026:SEC-1:8898.1./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "On or before January 1, 2028, the agency shall do all of the following:"
+  },
+  {
+   "obligation_id": "US-CA-SB813-2026:SEC-1:8898.1./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)Develop application requirements for designation as an IVO, including the information required to apply for designation as an applicant IVO, which shall submit the following as part of its application:"
+  },
+  {
+   "obligation_id": "US-CA-SB813-2026:SEC-1:8898.1./p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In developing these procedures, the agency shall include procedures to consider all of the following:"
+  },
+  {
+   "obligation_id": "US-CA-SB813-2026:SEC-1:8898.1./p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(1)In developing these criteria, the agency shall identify and consider existing standards, frameworks, guidelines, criteria, and best practices developed or published by government agencies, standards-setting organizations, including national and international auditing and assurance organizations, AI auditors, AI entities that develop or deploy AI systems or models, or other independent experts with relevant expertise."
+  },
+  {
+   "obligation_id": "US-CA-SB813-2026:SEC-1:8898.1./p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)The agency shall consider, at a minimum, whether the IVO meets all of the following criteria with respect to an AI system or model in operation:"
+  },
+  {
+   "obligation_id": "US-CA-SB813-2026:SEC-1:8898.1./p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An IVO may accept payment from a party being assessed at reasonable market rates but shall not accept terms which condition any payment or the amount of any payment on the results of their assessment."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB813-2026:SEC-1:8898.1.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

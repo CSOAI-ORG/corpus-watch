@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:84",
+ "label": "EU-dsa-2022 Article 84",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f690582bddb59d84fd92e3b762f401a14739124ab8e488cb4f05a8b8ed15d7cd",
+ "sha256_v1": "",
+ "sha256_v2": "f690582bddb59d84fd92e3b762f401a14739124ab8e488cb4f05a8b8ed15d7cd",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "f690582bddb59d84fd92e3b762f401a14739124ab8e488cb4f05a8b8ed15d7cd",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:84/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Professional secrecy\nWithout prejudice to the exchange and to the use of information referred to in this Chapter, the Commission, the Board, Member States’ competent authorities and their respective officials, servants and other persons working under their supervision, and any other natural or legal person involved, including auditors and experts appointed pursuant to Article 72(2), shall not disclose information acquired or exchanged by them pursuant to this Regulation and of the kind covered by the obligation of professional secrecy."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:84",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

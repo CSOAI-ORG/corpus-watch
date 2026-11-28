@@ -1,0 +1,176 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:annex-XI",
+ "label": "EU-ivdr-2017 Annex XI",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "4e059c38230937322b45ba55e00efae95907c6f3453f055f6f4984bf1b47e33a",
+ "sha256_v1": "",
+ "sha256_v2": "4e059c38230937322b45ba55e00efae95907c6f3453f055f6f4984bf1b47e33a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "4e059c38230937322b45ba55e00efae95907c6f3453f055f6f4984bf1b47e33a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XI/p1/s1",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "The manufacturer shall ensure that the quality management system approved for the manufacture of the devices concerned is implemented, shall carry out final verification, as specified in Section 3, and shall be subject to the surveillance referred to in Section 4."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XI/p2/s1",
+   "paragraph": "2",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "When the manufacturer fulfils the obligations laid down in Section 1, it shall draw up and keep an EU declaration of conformity in accordance with Article 17 and Annex IV for the device covered by the conformity assessment procedure."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XI/p3/s1",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "The manufacturer shall lodge an application for assessment of its quality management system with a notified body."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XI/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "The application shall include:\n—\nall elements listed in Section 2.1 of Annex IX,\n—\nthe technical documentation referred to in Annexes II and III for the types approved,\n—\na copy of the EU type-examination certificates referred to in Section 4 of Annex X; if the EU type-examination certificates have been issued by the same notified body with which the application is lodged, a reference to the technical documentation and its updates and the certificates issued shall also be included in the application.\n3.2."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XI/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Implementation of the quality management system shall be such as to ensure that there is compliance with the type described in the EU type-examination certificate and with the provisions of this Regulation which apply to the devices at each stage."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XI/p3/s4",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "All the elements, requirements and provisions adopted by the manufacturer for its quality management system shall be documented in a systematic and orderly manner in the form of a quality manual and written policies and procedures, such as quality programmes, quality plans and quality records."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XI/p3/s5",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That documentation shall, in particular, include an adequate description of all elements listed in points (a), (b), (d) and (e) of Section 2.2. of Annex IX.\n3.3."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XI/p3/s7",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "If the quality management system is such that it ensures that the devices conform to the type described in the EU type-examination certificate and conform to the relevant provisions of this Regulation, the notified body shall issue an EU production quality assurance certificate."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XI/p3/s8",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notified body shall notify the manufacturer of its decision to issue the certificate."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XI/p3/s9",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That decision shall contain the conclusions of the notified body's audit and a reasoned assessment.\n3.4."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XI/p5/s1",
+   "paragraph": "5",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the case of class D devices, the manufacturer shall carry out tests on each manufactured batch of devices."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XI/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "After the conclusion of the controls and tests, it shall forward to the notified body without delay the relevant reports on those tests."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XI/p5/s3",
+   "paragraph": "5",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Furthermore, the manufacturer shall make samples of manufactured devices or batches of devices available to the notified body in accordance with pre-agreed conditions and detailed arrangements which shall include that the notified body or the manufacturer, shall send samples of the manufactured devices or batches of devices to an EU reference laboratory, where such a laboratory has been designated in accordance with Article 100, to carry out appropriate laboratory tests."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XI/p5/s4",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The EU reference laboratory shall inform the notified body about its findings.\n5.2."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-XI/p6/s1",
+   "paragraph": "6",
+   "addressee": "authorised_representative",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Administrative provisions\nThe manufacturer or, where the manufacturer does not have a registered place of business in a Member State, its authorised representative shall, for a period ending no sooner than 10 years after the last device has been placed on the market, keep at the disposal of the competent authorities:\n—\nthe EU declaration of conformity,\n—\nthe documentation referred to in the fifth indent of Section 2.1 of Annex IX,\n—\nthe documentation referred to in the eighth indent of Section 2.1 of Annex IX, including the EU type-examination certificate referred to in Annex X,\n—\ninformation on the changes referred to in Section 2.4 of Annex IX, and\n—\nthe decisions and reports from the noti"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:annex-XI",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-TX-HB3512-AItraining-2025:SECTION-7",
+ "label": "US-TX-HB3512-AItraining-2025 SECTION 7",
+ "instrument": "US-TX-HB3512-AItraining-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "b274a08a4caa58ce00ac4273cbb976fb020521affc46d19a7c60eb1ae617c348",
+ "sha256_v1": "",
+ "sha256_v2": "b274a08a4caa58ce00ac4273cbb976fb020521affc46d19a7c60eb1ae617c348",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "b274a08a4caa58ce00ac4273cbb976fb020521affc46d19a7c60eb1ae617c348",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-TX-HB3512-AItraining-2025:SECTION-7/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) The department, in consultation with a\nboard or council administratively attached to the department and\nauthorized to advise the department on artificial intelligence\nsystems and with other interested persons, shall annually:"
+  },
+  {
+   "obligation_id": "US-TX-HB3512-AItraining-2025:SECTION-7/p7/s2",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) To be certified under Subsection (a), an artificial\nintelligence training program must:"
+  },
+  {
+   "obligation_id": "US-TX-HB3512-AItraining-2025:SECTION-7/p7/s3",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(e) The department shall annually publish on the\ndepartment's Internet website the list of artificial intelligence\ntraining programs certified under this section."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-TX-HB3512-AItraining-2025:SECTION-7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

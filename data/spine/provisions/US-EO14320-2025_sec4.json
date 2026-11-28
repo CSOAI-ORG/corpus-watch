@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14320-2025:sec4",
+ "label": "US-EO14320-2025 Section 4",
+ "instrument": "US-EO14320-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3dd6b70c7d2d8101d3f8e1e52ed90466213766aa71664d1c162b55e6fb547355",
+ "sha256_v1": "",
+ "sha256_v2": "3dd6b70c7d2d8101d3f8e1e52ed90466213766aa71664d1c162b55e6fb547355",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "3dd6b70c7d2d8101d3f8e1e52ed90466213766aa71664d1c162b55e6fb547355",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14320-2025:sec4/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) The Economic Diplomacy Action Group (EDAG), established in the Presidential Memorandum of June 21, 2024, chaired by the Secretary of State, in consultation with the Secretary of Commerce and the United States Trade Representative, and as described in section 708 of the Championing American Business Through Diplomacy Act of 2019 (Title VII of Division J of Public Law 116-94) (CABDA), shall coordinate mobilization of Federal financing tools in support of priority AI export packages."
+  },
+  {
+   "obligation_id": "US-EO14320-2025:sec4/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) The Secretary of State, in consultation with the EDAG, shall be responsible for:"
+  },
+  {
+   "obligation_id": "US-EO14320-2025:sec4/p4/s3",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d) Members of the EDAG shall deploy, to the maximum extent permitted by law, available Federal tools to support the priority export packages selected for participation in the Program, including direct loans and loan guarantees (12 U.S.C.635); equity investments, co-financing, political risk insurance, and credit guarantees (22 U.S.C.9621); and technical assistance and feasibility studies (22 U.S.C. 2421(b))."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14320-2025:sec4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-ai-basic-act-2025:27",
+ "label": "KR-ai-basic-act-2025 제27조",
+ "instrument": "KR-ai-basic-act-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "5f5649cc149bfba691fb8347508304d04e8148e2cf59480022ac1f86a12c8533",
+ "sha256_v1": "",
+ "sha256_v2": "5f5649cc149bfba691fb8347508304d04e8148e2cf59480022ac1f86a12c8533",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "5f5649cc149bfba691fb8347508304d04e8148e2cf59480022ac1f86a12c8533",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-ai-basic-act-2025:27/s5",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "② 과학기술정보통신부장관은 사회 각계의 의견을 수렴하여 윤리원칙이 인공지능의 개발ㆍ활용 등에 관여하는 모든 사람에 의하여 실현될 수 있도록 실천방안을 수립하고 이를 공개 및 홍보ㆍ교육하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-ai-basic-act-2025:27",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

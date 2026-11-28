@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s202",
+ "label": "GB-dpa-2018 Section 202",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "273f503bbf1333add56c4c7fce804d29ca90584e323197e8b64d48b0dab7f4cd",
+ "sha256_v1": "",
+ "sha256_v2": "273f503bbf1333add56c4c7fce804d29ca90584e323197e8b64d48b0dab7f4cd",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "273f503bbf1333add56c4c7fce804d29ca90584e323197e8b64d48b0dab7f4cd",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s202/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nBefore exercising the power under subsection (3)(b), the Upper Tribunal must—\n(a)\nhear any witness who may be produced against or on behalf of the person charged with the offence, and\n(b)\nhear any statement that may be offered in defence."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s202",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

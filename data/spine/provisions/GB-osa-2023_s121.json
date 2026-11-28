@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s121",
+ "label": "GB-osa-2023 Section 121",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a52562907c2b5640744028647f42c8273cabd367f9f3e901b9dadb14dcbc13e6",
+ "sha256_v1": "",
+ "sha256_v2": "a52562907c2b5640744028647f42c8273cabd367f9f3e901b9dadb14dcbc13e6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a52562907c2b5640744028647f42c8273cabd367f9f3e901b9dadb14dcbc13e6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s121/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\nSee—\n(a)\nsection 122, which requires OFCOM to obtain a skilled person’s report before giving a notice under subsection (1),\n(b)\nsection 123, which requires OFCOM to give a warning notice before giving a notice under subsection (1), and\n(c)\nsection 124 for provision about matters which OFCOM must consider before giving a notice under subsection (1)."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s121/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(7)\nA notice under subsection (1) that relates to a user-to-user service (or to the user-to-user part of a combined service) and requires the use of technology in relation to terrorism content must identify the content, or parts of the service that include content, that OFCOM consider is communicated publicly on that service (see section 232)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s121",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

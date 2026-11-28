@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-network-data-security-regs-2024:9",
+ "label": "CN-network-data-security-regs-2024 第九条",
+ "instrument": "CN-network-data-security-regs-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "2f399c037ecee75ecea77adf4ebcbdb2fb80e6bd5339a3f5093be57c26931abf",
+ "sha256_v1": "",
+ "sha256_v2": "2f399c037ecee75ecea77adf4ebcbdb2fb80e6bd5339a3f5093be57c26931abf",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "2f399c037ecee75ecea77adf4ebcbdb2fb80e6bd5339a3f5093be57c26931abf",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-network-data-security-regs-2024:9/s1",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "第九条　网络数据处理者应当依照法律、行政法规的规定和国家标准的强制性要求，在网络安全等级保护的基础上，加强网络数据安全防护，建立健全网络数据安全管理制度，采取加密、备份、访问控制、安全认证等技术措施和其他必要措施，保护网络数据免遭篡改、破坏、泄露或者非法获取、非法利用，处置网络数据安全事件，防范针对和利用网络数据实施的违法犯罪活动，并对所处理网络数据的安全承担主体责任。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-network-data-security-regs-2024:9",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

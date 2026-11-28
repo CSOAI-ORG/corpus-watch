@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-g7-hiroshima-guiding-principles-2023:intro",
+ "label": "INTL-g7-hiroshima-guiding-principles-2023 intro",
+ "instrument": "INTL-g7-hiroshima-guiding-principles-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "82bad2f42a86c060ccf4415b5bd9c92a80b298303dab47ad5990b2f19a372185",
+ "sha256_v1": "",
+ "sha256_v2": "82bad2f42a86c060ccf4415b5bd9c92a80b298303dab47ad5990b2f19a372185",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 11,
+ "sha256_current": "82bad2f42a86c060ccf4415b5bd9c92a80b298303dab47ad5990b2f19a372185",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-g7-hiroshima-guiding-principles-2023:intro/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "States must abide by their obligations under international human rights law to promote that\nhuman rights are fully respected and protected, while private sector activities should be in line\nwith international frameworks such as the United Nations Guiding Principles on Business and\nHuman Rights and the OECD Guidelines for Multinational Enterprises."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-g7-hiroshima-guiding-principles-2023:intro",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

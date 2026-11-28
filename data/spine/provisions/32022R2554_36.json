@@ -1,0 +1,78 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022R2554:36",
+ "label": "DORA Art. 36",
+ "instrument": "DORA",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "01d88fcddb1f006be1074e234fc89b865166af67b609114ff3f774d3e1e8ddb4",
+ "sha256_v1": "01d88fcddb1f006be1074e234fc89b865166af67b609114ff3f774d3e1e8ddb4",
+ "sha256_v2": "ecac4efcdda67b4653b61dfcbb016ddac56f42493a8e4a6ac0cb6e51509ef411",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "ecac4efcdda67b4653b61dfcbb016ddac56f42493a8e4a6ac0cb6e51509ef411",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022R2554:36/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Without prejudice to the respective competences of the Union institutions and of Member States, for the purposes of paragraph 1, EBA, ESMA or EIOPA shall conclude administrative cooperation arrangements with the relevant authority of the third country in order to enable the smooth conduct of inspections in the third country concerned by the Lead Overseer and its designated team for its mission in that third country."
+  },
+  {
+   "obligation_id": "32022R2554:36/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those cooperation arrangements shall not create legal obligations in respect of the Union and its Member States nor shall they prevent Member States and their competent authorities from concluding bilateral or multilateral arrangements with those third countries and their relevant authorities."
+  },
+  {
+   "obligation_id": "32022R2554:36/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those cooperation arrangements shall specify at least the following elements:"
+  },
+  {
+   "obligation_id": "32022R2554:36/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When the Lead Overseer is not able to conduct oversight activities outside the Union, referred to in paragraphs 1 and 2, the Lead Overseer shall:"
+  },
+  {
+   "obligation_id": "32022R2554:36/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The potential consequences referred to in point (b) of this paragraph shall be taken into consideration in the Lead Overseer’s recommendations issued pursuant to Article 35(1), point (d)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022R2554:36",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

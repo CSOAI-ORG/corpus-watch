@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:13",
+ "label": "EU-dsa-2022 Article 13",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "78613dc79c26270f218cdff27e61c643d0b2048ce0b4eccdaa26f3d55c44de88",
+ "sha256_v1": "",
+ "sha256_v2": "78613dc79c26270f218cdff27e61c643d0b2048ce0b4eccdaa26f3d55c44de88",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "78613dc79c26270f218cdff27e61c643d0b2048ce0b4eccdaa26f3d55c44de88",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:13/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of intermediary services which do not have an establishment in the Union but which offer services in the Union shall designate, in writing, a legal or natural person to act as their legal representative in one of the Member States where the provider offers its services."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:13/p2/s1",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of intermediary services shall mandate their legal representatives for the purpose of being addressed in addition to or instead of such providers, by the Member States’ competent authorities, the Commission and the Board, on all issues necessary for the receipt of, compliance with and enforcement of decisions issued in relation to this Regulation."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:13/p2/s2",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of intermediary services shall provide their legal representative with necessary powers and sufficient resources to guarantee their efficient and timely cooperation with the Member States’ competent authorities, the Commission and the Board, and to comply with such decisions."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:13/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It shall be possible for the designated legal representative to be held liable for non-compliance with obligations under this Regulation, without prejudice to the liability and legal actions that could be initiated against the provider of intermediary services."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:13/p4/s1",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of intermediary services shall notify the name, postal address, email address and telephone number of their legal representative to the Digital Services Coordinator in the Member State where that legal representative resides or is established."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:13/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "They shall ensure that that information is publicly available, easily accessible, accurate and kept up to date."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:13/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The designation of a legal representative within the Union pursuant to paragraph 1 shall not constitute an establishment in the Union."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:13",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

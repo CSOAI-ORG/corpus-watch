@@ -1,0 +1,176 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:24",
+ "label": "EU-ivdr-2017 Article 24",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "16c4407dbbfbe30ccf0b3d20d1c49dd8b75e6ec403403eed61c2560689a4a565",
+ "sha256_v1": "",
+ "sha256_v2": "16c4407dbbfbe30ccf0b3d20d1c49dd8b75e6ec403403eed61c2560689a4a565",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "16c4407dbbfbe30ccf0b3d20d1c49dd8b75e6ec403403eed61c2560689a4a565",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:24/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Unique Device Identification system (‘UDI system’) described in Part C of Annex VI shall allow the identification and facilitate the traceability of devices, other than devices for performance studies, and shall consist of the following:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:24/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall, by means of implementing acts, designate one or several entities to operate a system for assignment of UDIs pursuant to this Regulation (‘issuing entity’)."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:24/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That entity or those entities shall satisfy all of the following criteria:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:24/p2/s3",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When designating issuing entities, the Commission shall endeavour to ensure that UDI carriers, as defined in Part C of Annex VI, are universally readable regardless of the system used by the issuing entity, with a view to minimising financial and administrative burdens for economic operators, health institutions and healthcare professionals."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:24/p3/s1",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Before placing a device, other than a device for performance study, on the market, the manufacturer shall assign to the device and, if applicable, to all higher levels of packaging, a UDI created in compliance with the rules of the issuing entity designated by the Commission in accordance with paragraph"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:24/p2/s1",
+   "paragraph": "2",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Before a device, other than a device for performance study, is placed on the market the manufacturer must ensure that the information referred to in Part B of Annex V of the device in question are correctly submitted and transferred to the UDI database referred to in Article 25."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:24/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "UDI carriers shall be placed on the label of the device and on all higher levels of packaging."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:24/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The UDI shall be used for reporting serious incidents and field safety corrective actions in accordance with Article 82."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:24/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Basic UDI-DI, as defined in Part C of Annex VI of the device shall appear on the EU declaration of conformity referred to in Article 17."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:24/p7/s1",
+   "paragraph": "7",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "As part of the technical documentation referred to in Annex II, the manufacturer shall keep up-to-date a list of all UDIs that it has assigned."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:24/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Economic operators shall store and keep, preferably by electronic means, the UDI of the devices which they have supplied or with which they have been supplied, if those devices belong to the devices, categories or groups of devices determined by a measure referred to in point (a) of paragraph 11."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:24/p9/s1",
+   "paragraph": "9",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall encourage, and may require, health institutions to store and keep, preferably by electronic means, the UDI of the devices with which they have been supplied."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:24/p9/s2",
+   "paragraph": "9",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall encourage, and may require, health care professionals to store and keep, preferably by electronic means, the UDI of the devices with which they have been supplied with."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:24/p11/s1",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The implementing acts referred to in the first subparagraph shall be adopted in accordance with the examination procedure referred to in Article 107(3)."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:24/p12/s1",
+   "paragraph": "12",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When adopting the measures referred to in paragraph 11, the Commission shall take into account all of the following:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:24",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

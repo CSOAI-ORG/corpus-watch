@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "TW-pdpa-1995:3",
+ "label": "TW-pdpa-1995 Article 3",
+ "instrument": "TW-pdpa-1995",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "1dd570a3d1b7c65afd6895a00186edb0a99b29c98d89f7fd1726ea0b4a237477",
+ "sha256_v1": "",
+ "sha256_v2": "1dd570a3d1b7c65afd6895a00186edb0a99b29c98d89f7fd1726ea0b4a237477",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "TW",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "1dd570a3d1b7c65afd6895a00186edb0a99b29c98d89f7fd1726ea0b4a237477",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "TW-pdpa-1995:3/s2",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "當事人就其個人資料依本法規定行使之下列權利，不得預先拋棄或以特約限制之："
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=TW-pdpa-1995:3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

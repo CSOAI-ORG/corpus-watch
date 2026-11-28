@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-pipl-2021:10",
+ "label": "CN-pipl-2021 第十条",
+ "instrument": "CN-pipl-2021",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "dc816cae001ae0b07a300dc4e35f2944c7eb88ee1799b833859e4f5c7ea72bc1",
+ "sha256_v1": "",
+ "sha256_v2": "dc816cae001ae0b07a300dc4e35f2944c7eb88ee1799b833859e4f5c7ea72bc1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "dc816cae001ae0b07a300dc4e35f2944c7eb88ee1799b833859e4f5c7ea72bc1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-pipl-2021:10/s1",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "OBSERVED",
+   "rule": "zh:public-trace",
+   "status": "DRAFT",
+   "text": "第十条　任何组织、个人不得非法收集、使用、加工、传输他人个人信息，不得非法买卖、提供或者公开他人个人信息；"
+  },
+  {
+   "obligation_id": "CN-pipl-2021:10/s2",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "不得从事危害国家安全、公共利益的个人信息处理活动。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-pipl-2021:10",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

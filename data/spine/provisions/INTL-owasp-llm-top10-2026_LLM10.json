@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-owasp-llm-top10-2026:LLM10",
+ "label": "INTL-owasp-llm-top10-2026 LLM10",
+ "instrument": "INTL-owasp-llm-top10-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "63f39a74838b7668f66219986a1aa649a0ee56db3b7635340f32d8faab4d9337",
+ "sha256_v1": "",
+ "sha256_v2": "63f39a74838b7668f66219986a1aa649a0ee56db3b7635340f32d8faab4d9337",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "63f39a74838b7668f66219986a1aa649a0ee56db3b7635340f32d8faab4d9337",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-owasp-llm-top10-2026:LLM10/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Encode them visibly when they must be preserved."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-owasp-llm-top10-2026:LLM10",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

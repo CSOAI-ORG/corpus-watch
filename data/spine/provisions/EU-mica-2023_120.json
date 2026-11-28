@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:120",
+ "label": "EU-mica-2023 Article 120",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f78cc8dff35fcfaa2313d9fbb62a1bcde79325f90162e3e9e12b36505c64cc2e",
+ "sha256_v1": "",
+ "sha256_v2": "f78cc8dff35fcfaa2313d9fbb62a1bcde79325f90162e3e9e12b36505c64cc2e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f78cc8dff35fcfaa2313d9fbb62a1bcde79325f90162e3e9e12b36505c64cc2e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:120/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An opinion of the college shall be adopted based on a simple majority of its members."
+  },
+  {
+   "obligation_id": "EU-mica-2023:120/p3/s2",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where there are several members of the college per Member State, only one of those members shall have a vote."
+  },
+  {
+   "obligation_id": "EU-mica-2023:120/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the ECB is a member of the college in several capacities, including supervisory capacities, it shall have only one vote."
+  },
+  {
+   "obligation_id": "EU-mica-2023:120/p3/s4",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Supervisory authorities of third countries referred to in Article 119(2), point (m), shall have no voting right in respect of an opinion of the college."
+  },
+  {
+   "obligation_id": "EU-mica-2023:120/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "EBA or the competent authorities, as applicable, shall duly consider the non-binding opinion of the college reached in accordance with paragraph 3, including any recommendations aimed at addressing shortcomings of the supervisory measure envisaged in respect of an issuer of a significant asset-referenced token, an issuer of a significant e-money token, an entity or a crypto-asset service provider as referred to in Article 119(2), points (d) to (h)."
+  },
+  {
+   "obligation_id": "EU-mica-2023:120/p4/s2",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where EBA or a competent authority does not agree with an opinion of the college, including any recommendations aimed at addressing shortcomings of the supervisory measure envisaged, its decision shall contain its reasons and an explanation for any significant deviation from that opinion or recommendations."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:120",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB853-2025:SEC-2",
+ "label": "US-CA-AB853-2025 SEC. 2.",
+ "instrument": "US-CA-AB853-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "57e63b514923643b6cc5476923beec535bfb33501801e24dd6244507216f0741",
+ "sha256_v1": "",
+ "sha256_v2": "57e63b514923643b6cc5476923beec535bfb33501801e24dd6244507216f0741",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "57e63b514923643b6cc5476923beec535bfb33501801e24dd6244507216f0741",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB853-2025:SEC-2/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)A large online platform shall do all of the following:"
+  },
+  {
+   "obligation_id": "US-CA-AB853-2025:SEC-2/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(B)The user interface required by this paragraph shall make clearly and conspicuously available to users information sufficient to identify the content’s authenticity, origin, or history of modification, including, but not limited to, all of the following:"
+  },
+  {
+   "obligation_id": "US-CA-AB853-2025:SEC-2/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)A large online platform shall not, to the extent technically feasible, knowingly strip any system provenance data or digital signature that is compliant with widely adopted specifications adopted by an established standards-setting body from content uploaded or distributed on the large online platform."
+  },
+  {
+   "obligation_id": "US-CA-AB853-2025:SEC-2/p2/s4",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)This section shall become operative on January 1, 2027."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB853-2025:SEC-2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

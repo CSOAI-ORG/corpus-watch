@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB1159-2026:SEC-6",
+ "label": "US-CA-SB1159-2026 SEC. 6.",
+ "instrument": "US-CA-SB1159-2026",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "99f8744203927a13ef2b5612bf41851000c1a04874cae5a8ef6e7cef0dd23d05",
+ "sha256_v1": "",
+ "sha256_v2": "99f8744203927a13ef2b5612bf41851000c1a04874cae5a8ef6e7cef0dd23d05",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "99f8744203927a13ef2b5612bf41851000c1a04874cae5a8ef6e7cef0dd23d05",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB1159-2026:SEC-6/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB1159-2026:SEC-6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

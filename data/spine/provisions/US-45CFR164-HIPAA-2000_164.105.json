@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-45CFR164-HIPAA-2000:164.105",
+ "label": "US-45CFR164-HIPAA-2000 45 CFR 164.105",
+ "instrument": "US-45CFR164-HIPAA-2000",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "8d539617c6598940924acc99065dab1f1786afd318b210371127b822b9871a17",
+ "sha256_v1": "",
+ "sha256_v2": "8d539617c6598940924acc99065dab1f1786afd318b210371127b822b9871a17",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8d539617c6598940924acc99065dab1f1786afd318b210371127b822b9871a17",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.105/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The covered entity that is a hybrid entity must ensure that a health care component of the entity complies with the applicable requirements of this part."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.105/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In particular, and without limiting this requirement, such covered entity must ensure that:"
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.105/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(C) If a person performs duties for both the health care component in the capacity of a member of the workforce of such component and for another component of the entity in the same capacity with respect to that component, such workforce member must not use or disclose protected health information created or received in the course of or incident to the member's work for the health care component in a way prohibited by subpart E of this part."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.105/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(D) The covered entity is responsible for designating the components that are part of one or more health care components of the covered entity and documenting the designation in accordance with paragraph (c) of this section, provided that, if the covered entity designates one or more health care components, it must include any component that would meet the definition of a covered entity or business associate if it were a separate legal entity."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.105/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(B) The designation of an affiliated covered entity must be documented and the documentation maintained as required by paragraph (c) of this section."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.105/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An affiliated covered entity must ensure that it complies with the applicable requirements of this part, including, if the affiliated covered entity combines the functions of a health plan, health care provider, or health care clearinghouse, §§ 164.308(a)(4)(ii)(A) and 164.504(g), as applicable."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.105/p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "A covered entity must maintain a written or electronic record of a designation as required by paragraphs (a) or (b) of this section."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.105/p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "A covered entity must retain the documentation as required by paragraph (c)(1) of this section for 6 years from the date of its creation or the date when it last was in effect, whichever is later. [68 FR 8375, Feb. 20, 2003, as amended at 78 FR 5692, Jan. 25, 2013]"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-45CFR164-HIPAA-2000:164.105",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-NIST-AI100-5-2024:a-1-6-non-ai-specific-horizontal-standards-highly-relevant-t",
+ "label": "US-NIST-AI100-5-2024 a-1-6-non-ai-specific-horizontal-standards-highly-relevant-t",
+ "instrument": "US-NIST-AI100-5-2024",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "a1ccd1b97335ba85bcb9162c4edda4e0b02c7e6a1611a16a843648dd5105ce75",
+ "sha256_v1": "",
+ "sha256_v2": "a1ccd1b97335ba85bcb9162c4edda4e0b02c7e6a1611a16a843648dd5105ce75",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "a1ccd1b97335ba85bcb9162c4edda4e0b02c7e6a1611a16a843648dd5105ce75",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-NIST-AI100-5-2024:a-1-6-non-ai-specific-horizontal-standards-highly-relevant-t/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-NIST-AI100-5-2024:a-1-6-non-ai-specific-horizontal-standards-highly-relevant-t",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:34",
+ "label": "EU-dsa-2022 Article 34",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "8dfa2c670ded2802761a02eee214d6064252c4c7d65bfe05db874abf3ba752b8",
+ "sha256_v1": "",
+ "sha256_v2": "8dfa2c670ded2802761a02eee214d6064252c4c7d65bfe05db874abf3ba752b8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "8dfa2c670ded2802761a02eee214d6064252c4c7d65bfe05db874abf3ba752b8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:34/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of very large online platforms and of very large online search engines shall diligently identify, analyse and assess any systemic risks in the Union stemming from the design or functioning of their service and its related systems, including algorithmic systems, or from the use made of their services."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:34/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "They shall carry out the risk assessments by the date of application referred to in Article 33(6), second subparagraph, and at least once every year thereafter, and in any event prior to deploying functionalities that are likely to have a critical impact on the risks identified pursuant to this Article."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:34/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "This risk assessment shall be specific to their services and proportionate to the systemic risks, taking into consideration their severity and probability, and shall include the following systemic risks:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:34/p2/s1",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When conducting risk assessments, providers of very large online platforms and of very large online search engines shall take into account, in particular, whether and how the following factors influence any of the systemic risks referred to in paragraph 1:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:34/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The assessments shall also analyse whether and how the risks pursuant to paragraph 1 are influenced by intentional manipulation of their service, including by inauthentic use or automated exploitation of the service, as well as the amplification and potentially rapid and wide dissemination of illegal content and of information that is incompatible with their terms and conditions."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:34/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The assessment shall take into account specific regional or linguistic aspects, including when specific to a Member State."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:34/p3/s1",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Providers of very large online platforms and of very large online search engines shall preserve the supporting documents of the risk assessments for at least three years after the performance of risk assessments, and shall, upon request, communicate them to the Commission and to the Digital Services Coordinator of establishment."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:34",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

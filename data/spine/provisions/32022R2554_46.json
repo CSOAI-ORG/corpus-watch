@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022R2554:46",
+ "label": "DORA Art. 46",
+ "instrument": "DORA",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7ea356abea983145379a5b4d0e208be5d77e49bf91b253aa73be1567dfb89354",
+ "sha256_v1": "7ea356abea983145379a5b4d0e208be5d77e49bf91b253aa73be1567dfb89354",
+ "sha256_v2": "a582f79df6860198aa37894260ede49925fc57767732452e9975e7b24a8179fb",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "a582f79df6860198aa37894260ede49925fc57767732452e9975e7b24a8179fb",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022R2554:46/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Article 46 Competent authorities Without prejudice to the provisions on the Oversight Framework for critical ICT third-party service providers referred to in Chapter V, Section II, of this Regulation, compliance with this Regulation shall be ensured by the following competent authorities in accordance with the powers granted by the respective legal acts:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022R2554:46",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

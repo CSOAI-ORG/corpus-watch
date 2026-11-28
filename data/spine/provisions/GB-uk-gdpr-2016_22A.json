@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-uk-gdpr-2016:22A",
+ "label": "GB-uk-gdpr-2016 Article 22A",
+ "instrument": "GB-uk-gdpr-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ed50246dfbe76086e416022978fd7863e25714a82fbed037d22c2b061c5bc483",
+ "sha256_v1": "",
+ "sha256_v2": "ed50246dfbe76086e416022978fd7863e25714a82fbed037d22c2b061c5bc483",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ed50246dfbe76086e416022978fd7863e25714a82fbed037d22c2b061c5bc483",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-uk-gdpr-2016:22A/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When considering whether there is meaningful human involvement in the taking of a decision, a person must consider, among other things, the extent to which the decision is reached by means of profiling."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-uk-gdpr-2016:22A",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

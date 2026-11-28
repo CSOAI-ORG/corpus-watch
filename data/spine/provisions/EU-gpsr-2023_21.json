@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-gpsr-2023:21",
+ "label": "EU-gpsr-2023 Article 21",
+ "instrument": "EU-gpsr-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "17a90eda6c1bfe49a0b61294c45621ccfbd5b559a5b411137c855b1dcfcdd682",
+ "sha256_v1": "",
+ "sha256_v2": "17a90eda6c1bfe49a0b61294c45621ccfbd5b559a5b411137c855b1dcfcdd682",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "17a90eda6c1bfe49a0b61294c45621ccfbd5b559a5b411137c855b1dcfcdd682",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-gpsr-2023:21/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That information shall be in a language which can be easily understood by consumers, as determined by the Member State in which the product is made available on the market, including in accessible formats for persons with disabilities."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-gpsr-2023:21",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

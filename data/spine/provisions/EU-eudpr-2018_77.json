@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:77",
+ "label": "EU-eudpr-2018 Article 77",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3b44e73bc02c3d7211426163f19ee57a47c5525a0926d33655aec6994041a791",
+ "sha256_v1": "",
+ "sha256_v2": "3b44e73bc02c3d7211426163f19ee57a47c5525a0926d33655aec6994041a791",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "3b44e73bc02c3d7211426163f19ee57a47c5525a0926d33655aec6994041a791",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:77/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A decision based solely on automated processing, including profiling, which produces an adverse legal effect concerning the data subject or significantly affects him or her shall be prohibited unless authorised by Union law to which the controller is subject and which provides appropriate safeguards for the rights and freedoms of the data subject, at least the right to obtain human intervention on the part of the controller."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:77/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Decisions referred to in paragraph 1 of this Article shall not be based on the special categories of personal data referred to in Article 76 unless suitable measures to safeguard the data subject’s rights, freedoms and legitimate interests are in place."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:77/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Profiling that results in discrimination against natural persons on the basis of special categories of personal data referred to in Article 76 shall be prohibited, in accordance with Union law."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:77",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

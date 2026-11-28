@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R2847:48",
+ "label": "Cyber Resilience Act Art. 48",
+ "instrument": "Cyber Resilience Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "3b514ffbea5a21850afb3e2786a787d80549ea36a3a0ac209fe06def0bb7b1c9",
+ "sha256_v1": "3b514ffbea5a21850afb3e2786a787d80549ea36a3a0ac209fe06def0bb7b1c9",
+ "sha256_v2": "87016f9cccc1672c9af4026ade0cae472f06f1b4ef226021a3796c0875cc5b05",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "87016f9cccc1672c9af4026ade0cae472f06f1b4ef226021a3796c0875cc5b05",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R2847:48/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Article 48 Appeal against decisions of notified bodies Member States shall ensure that an appeal procedure against decisions of the notified bodies is available."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R2847:48",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

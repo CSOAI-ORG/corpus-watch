@@ -1,0 +1,39 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R2847:69",
+ "label": "Cyber Resilience Act Art. 69",
+ "instrument": "Cyber Resilience Act",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "6df69209a998e6e26577bed129bb14d258289d6d9f70ad6f94028a8ae8355247",
+ "sha256_v1": "6df69209a998e6e26577bed129bb14d258289d6d9f70ad6f94028a8ae8355247",
+ "sha256_v2": "cda4adb3df9eda3428e4cac261ed1ed341c192ba67db656133f88b5758bb69b4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "cda4adb3df9eda3428e4cac261ed1ed341c192ba67db656133f88b5758bb69b4",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R2847:69/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 69 transitional provisions",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R2847:69",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

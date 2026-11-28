@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s98",
+ "label": "GB-osa-2023 Section 98",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "53e192f13b3432692fc770009ec59ebaeea886013467d79972459e3bdc07445e",
+ "sha256_v1": "",
+ "sha256_v2": "53e192f13b3432692fc770009ec59ebaeea886013467d79972459e3bdc07445e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "53e192f13b3432692fc770009ec59ebaeea886013467d79972459e3bdc07445e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s98/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "OFCOM’s register of risks, and risk profiles, of Part 3 services\n(1)\nOFCOM must carry out risk assessments to identify and assess the following risks of harm presented by Part 3 services of different kinds—\n(a)\nthe risks of harm to individuals in the United Kingdom presented by illegal content present on regulated user-to-user services and by the use of such services for the commission or facilitation of priority offences;"
+  },
+  {
+   "obligation_id": "GB-osa-2023:s98/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nThe risk assessments must, among other things, identify characteristics of different kinds of Part 3 services that are relevant to such risks of harm, and assess the impact of those kinds of characteristics on such risks."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s98/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nAs soon as reasonably practicable after completing their assessment of a risk of harm mentioned in a particular paragraph of subsection (1), OFCOM must prepare risk profiles for Part 3 services which relate to that risk of harm."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s98/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(7)\nOFCOM must publish risk profiles prepared under this section."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s98/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(8)\nOFCOM must from time to time review and revise the risk assessments and risk profiles so as to keep them up to date."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s98",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

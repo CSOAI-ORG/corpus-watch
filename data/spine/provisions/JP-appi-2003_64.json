@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:64",
+ "label": "JP-appi-2003 Article 64",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "156fe22264e7ea29524df7275079c63e750ba68130921a248bf1b29516c7e28a",
+ "sha256_v1": "",
+ "sha256_v2": "156fe22264e7ea29524df7275079c63e750ba68130921a248bf1b29516c7e28a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "156fe22264e7ea29524df7275079c63e750ba68130921a248bf1b29516c7e28a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:64/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "行政機関の長等は、偽りその他不正の手段により個人情報を取得してはならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:64",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

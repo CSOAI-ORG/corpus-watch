@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:12",
+ "label": "EU-ccd2-2023 Article 12",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "2d47e7db7edd31f0c0487b95b707619528309ac455829795249aab56c3133b05",
+ "sha256_v1": "",
+ "sha256_v2": "2d47e7db7edd31f0c0487b95b707619528309ac455829795249aab56c3133b05",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "2d47e7db7edd31f0c0487b95b707619528309ac455829795249aab56c3133b05",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:12/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that creditors and, where applicable, credit intermediaries are required to provide adequate explanations to the consumer on the proposed credit agreements and any ancillary services that make it possible for the consumer to assess whether the proposed credit agreements and ancillary services are adapted to the consumer’s needs and financial situation."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:12/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such explanations shall be provided free of charge and before concluding the credit agreement."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:12/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The explanations shall include the following elements:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:12",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

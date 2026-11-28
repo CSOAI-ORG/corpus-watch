@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB354-2026:SEC-2:791.28.",
+ "label": "US-CA-SB354-2026 SEC. 2. / 791.28.",
+ "instrument": "US-CA-SB354-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "0cab5f9c65b3407f6fe1452ad535710764625a748b5fd2f474246a0d80894368",
+ "sha256_v1": "",
+ "sha256_v2": "0cab5f9c65b3407f6fe1452ad535710764625a748b5fd2f474246a0d80894368",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "0cab5f9c65b3407f6fe1452ad535710764625a748b5fd2f474246a0d80894368",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.28./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An insurer under a personal lines residential property insurance policy, if it reports the claims history or loss experience of insureds under those policies to an insurance-support organization, shall provide the insured with the following additional disclosure at the time that it provides the disclosure required pursuant to paragraph (1) of subdivision (b) of Section 790.034:\n“This insurer reports claim information to one or more claims information databases."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB354-2026:SEC-2:791.28.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

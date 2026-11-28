@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-deep-synthesis-provisions-2022:12",
+ "label": "CN-deep-synthesis-provisions-2022 第十二条",
+ "instrument": "CN-deep-synthesis-provisions-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "fa1523069813a775eac47dd470a175211c84cdaabb88b05ca2ba16a23375b916",
+ "sha256_v1": "",
+ "sha256_v2": "fa1523069813a775eac47dd470a175211c84cdaabb88b05ca2ba16a23375b916",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "fa1523069813a775eac47dd470a175211c84cdaabb88b05ca2ba16a23375b916",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-deep-synthesis-provisions-2022:12/s1",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "zh:public-trace",
+   "status": "DRAFT",
+   "text": "第十二条 深度合成服务提供者应当设置便捷的用户申诉和公众投诉、举报入口，公布处理流程和反馈时限，及时受理、处理和反馈处理结果。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-deep-synthesis-provisions-2022:12",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

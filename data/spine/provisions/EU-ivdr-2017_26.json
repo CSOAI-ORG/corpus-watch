@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:26",
+ "label": "EU-ivdr-2017 Article 26",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "5841d7fccdd02fa507c3cdf4c28dce509fecc28b006f12496f6defc2debf1a77",
+ "sha256_v1": "",
+ "sha256_v2": "5841d7fccdd02fa507c3cdf4c28dce509fecc28b006f12496f6defc2debf1a77",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "5841d7fccdd02fa507c3cdf4c28dce509fecc28b006f12496f6defc2debf1a77",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:26/p1/s1",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Before placing a device on the market, the manufacturer shall, in accordance with the rules of the issuing entity referred to in Article 24(2), assign a Basic UDI-DI as defined in Part C of Annex VI to the device and shall provide it to the UDI database together with the other core data elements referred to in Part B of Annex VI related to that device."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:26/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "For devices that are the subject of a conformity assessment as referred to in Article 48(3) and (4), the second subparagraph of Article 48(7), Article 48(8) and the second subparagraph of Article 48(9), the assignment of a Basic UDI-DI referred to in paragraph 1 of this Article shall be done before the manufacturer applies to a notified body for that assessment."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:26/p2/s2",
+   "paragraph": "2",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the devices referred to in the first subparagraph, the notified body shall include a reference to the Basic UDI-DI on the certificate issued in accordance with point (a) of Section 4 of Annex XII and confirm in Eudamed that the information referred to in Section 2.2 of Part A of Annex VI is correct."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:26/p2/s3",
+   "paragraph": "2",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "After the issuing of the relevant certificate and before placing the device on the market, the manufacturer shall provide the Basic UDI-DI to the UDI database together with the other core data elements referred to in Part B of Annex VI related to that device."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:26/p3/s1",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Before placing a device on the market, the manufacturer shall enter or, if already provided, verify in Eudamed the information referred to in Section 2 of Part A of Annex VI, with the exception of Section 2.2 thereof, and thereafter shall keep the information updated."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:26",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:96",
+ "label": "EU-ehds-2025 Article 96",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f030e820c4b678853fea9d2e4deed18809cb45917273a458bd8a6bdd8a64a30c",
+ "sha256_v1": "",
+ "sha256_v2": "f030e820c4b678853fea9d2e4deed18809cb45917273a458bd8a6bdd8a64a30c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "f030e820c4b678853fea9d2e4deed18809cb45917273a458bd8a6bdd8a64a30c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:96/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In addition to its role in making available electronic health data held by Union institutions, bodies, offices or agencies, in accordance with Article 55, Article 56 and Article 75(2), and its tasks under Chapter III, in particular Article 40, the Commission shall develop, maintain, host and operate the infrastructures and central services required to support the functioning of the EHDS, for all relevant connected entities, by means of:"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:96/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The services referred to in paragraph 1 of this Article shall meet sufficient quality standards in terms of availability, security, capacity, interoperability, maintenance, monitoring and development to ensure the EHDS functions effectively."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:96/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall provide those services in accordance with the operational decisions of the relevant steering groups established in Article 95."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:96/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall prepare a report on the infrastructures and services supporting the EHDS that it provides in accordance with paragraph 1 every two years and make it publicly available."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:96",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:28",
+ "label": "EU-mdr-2017 Article 28",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "f92717ebb4a4b0386f67f25457ad1331274f9447a8894a03dadeafde7347bf04",
+ "sha256_v1": "",
+ "sha256_v2": "f92717ebb4a4b0386f67f25457ad1331274f9447a8894a03dadeafde7347bf04",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f92717ebb4a4b0386f67f25457ad1331274f9447a8894a03dadeafde7347bf04",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:28/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission, after consulting the MDCG shall set up and manage a UDI database to validate, collate, process and make available to the public the information mentioned in Part B of Annex VI."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:28/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When designing the UDI database, the Commission shall take into account the general principles set out in Section 5 of Part C of Annex VI."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:28/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The UDI database shall be designed in particular such that no UDI-PIs and no commercially confidential product information can be included therein."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:28/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The core data elements to be provided to the UDI database, referred to in Part B of Annex VI, shall be accessible to the public free of charge."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:28/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "The technical design of the UDI database shall ensure maximum accessibility to information stored therein, including multi-user access and automatic uploads and downloads of that information."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:28/p4/s2",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall provide for technical and administrative support to manufacturers and other users of the UDI database."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:28",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

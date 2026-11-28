@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:99",
+ "label": "EU-eudpr-2018 Article 99",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "6c74ed652c954587f8b8e8bc1d841beb167f180a47f3951a3e87ad3207855692",
+ "sha256_v1": "",
+ "sha256_v2": "6c74ed652c954587f8b8e8bc1d841beb167f180a47f3951a3e87ad3207855692",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "6c74ed652c954587f8b8e8bc1d841beb167f180a47f3951a3e87ad3207855692",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:99/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:repeal",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:99",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

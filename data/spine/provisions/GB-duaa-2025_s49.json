@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s49",
+ "label": "GB-duaa-2025 Section 49",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "bfcc350cec9757ff82451af794a527010315f3fa4b0db5bd0154fa2984c8ad8f",
+ "sha256_v1": "",
+ "sha256_v2": "bfcc350cec9757ff82451af794a527010315f3fa4b0db5bd0154fa2984c8ad8f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "bfcc350cec9757ff82451af794a527010315f3fa4b0db5bd0154fa2984c8ad8f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s49/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Code of practice about the disclosure of information\n(1)\nThe Secretary of State must prepare and publish a code of practice about the disclosure of information under section 45."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s49/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nThe code of practice must be consistent with the code of practice prepared under section 121 of the Data Protection Act 2018 (data-sharing code) and issued under section 125(4) of that Act (as altered or replaced from time to time)."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s49/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nA public authority must have regard to the code of practice in disclosing information under section 45."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s49/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nIn preparing or revising the code of practice, the Secretary of State must consult—\n(a)\nthe Information Commission,\n(b)\nthe Welsh Ministers,\n(c)\nthe Scottish Ministers,\n(d)\nthe Department of Finance in Northern Ireland, and\n(e)\nsuch other persons as the Secretary of State considers appropriate."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s49",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

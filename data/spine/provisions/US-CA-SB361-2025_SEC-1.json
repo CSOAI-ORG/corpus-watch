@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB361-2025:SEC-1",
+ "label": "US-CA-SB361-2025 SECTION 1.",
+ "instrument": "US-CA-SB361-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "be65545160069c685e3c504ffe30fb244cee3ab1eff12025658957fac56174ea",
+ "sha256_v1": "",
+ "sha256_v2": "be65545160069c685e3c504ffe30fb244cee3ab1eff12025658957fac56174ea",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "be65545160069c685e3c504ffe30fb244cee3ab1eff12025658957fac56174ea",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB361-2025:SEC-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)On or before January 31 following each year in which a business meets the definition of data broker as provided in this title, the business shall register with the California Privacy Protection Agency pursuant to the requirements of this section."
+  },
+  {
+   "obligation_id": "US-CA-SB361-2025:SEC-1/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)In registering with the California Privacy Protection Agency, as described in subdivision (a), a data broker shall do all of the following:"
+  },
+  {
+   "obligation_id": "US-CA-SB361-2025:SEC-1/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Registration fees shall be deposited in the Data Brokers’ Registry Fund, created within the State Treasury pursuant to Section 1798.99.81, and used for the purposes outlined in this paragraph."
+  },
+  {
+   "obligation_id": "US-CA-SB361-2025:SEC-1/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e)Any penalties, fines, fees, and expenses recovered in an action prosecuted under subdivision (c) or (d) shall be deposited in the Data Brokers’ Registry Fund, created within the State Treasury pursuant to Section 1798.99.81, with the intent that they be used to fully offset costs incurred by the state courts and the California Privacy Protection Agency in connection with this title."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB361-2025:SEC-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

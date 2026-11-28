@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:80",
+ "label": "GDPR Art. 80",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "af785931a3534c85205dfb07ab1c39505fb6fa13c2ec9186b3be0446b3c760f3",
+ "sha256_v1": "af785931a3534c85205dfb07ab1c39505fb6fa13c2ec9186b3be0446b3c760f3",
+ "sha256_v2": "1f96bc0487dc05500792cf5b71cfb445a54119b30cbf4d3a80ca74cf52f9aed6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "1f96bc0487dc05500792cf5b71cfb445a54119b30cbf4d3a80ca74cf52f9aed6",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:80/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The data subject shall have the right to mandate a not-for-profit body, organisation or association which has been properly constituted in accordance with the law of a Member State, has statutory objectives which are in the public interest, and is active in the field of the protection of data subjects' rights and freedoms with regard to the protection of their personal data to lodge the complaint on his or her behalf, to exercise the rights referred to in Articles 77, 78 and 79 on his or her behalf, and to exercise the right to receive compensation referred to in Article 82 on his or her behalf where provided for by Member State law."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:80",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

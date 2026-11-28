@@ -1,0 +1,126 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:32",
+ "label": "EU-dma-2022 Article 32",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "c142952ede1d68a1e5c876c8fe206b8d503973c69d6a93f7bf35816cea75b0f0",
+ "sha256_v1": "",
+ "sha256_v2": "c142952ede1d68a1e5c876c8fe206b8d503973c69d6a93f7bf35816cea75b0f0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "c142952ede1d68a1e5c876c8fe206b8d503973c69d6a93f7bf35816cea75b0f0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:32/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The powers conferred on the Commission by Articles 30 and 31 shall be subject to a 5 year limitation period."
+  },
+  {
+   "obligation_id": "EU-dma-2022:32/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Time shall begin to run on the day on which the infringement is committed."
+  },
+  {
+   "obligation_id": "EU-dma-2022:32/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, in the case of continuing or repeated infringements, time shall begin to run on the day on which the infringement ceases."
+  },
+  {
+   "obligation_id": "EU-dma-2022:32/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Any action taken by the Commission for the purpose of a market investigation or proceedings in respect of an infringement shall interrupt the limitation period for the imposition of fines or periodic penalty payments."
+  },
+  {
+   "obligation_id": "EU-dma-2022:32/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The limitation period shall be interrupted with effect from the date on which the action is notified to at least one undertaking or association of undertakings which has participated in the infringement."
+  },
+  {
+   "obligation_id": "EU-dma-2022:32/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Actions which interrupt the running of the period shall include in particular the following:"
+  },
+  {
+   "obligation_id": "EU-dma-2022:32/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each interruption shall start time running afresh."
+  },
+  {
+   "obligation_id": "EU-dma-2022:32/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, the limitation period shall expire at the latest on the day on which a period equal to twice the limitation period has elapsed without the Commission having imposed a fine or a periodic penalty payment."
+  },
+  {
+   "obligation_id": "EU-dma-2022:32/p4/s3",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That period shall be extended by the time during which limitation is suspended pursuant to paragraph 5."
+  },
+  {
+   "obligation_id": "EU-dma-2022:32/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The limitation period for the imposition of fines or periodic penalty payments shall be suspended for as long as the decision of the Commission is the subject of proceedings pending before the Court of Justice."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:32",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

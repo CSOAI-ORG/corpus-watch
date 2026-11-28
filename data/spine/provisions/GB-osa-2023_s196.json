@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s196",
+ "label": "GB-osa-2023 Section 196",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ccbd76f023e4d81fd9a38658d35e19d96baf2461398b1c87cc8469848894286b",
+ "sha256_v1": "",
+ "sha256_v2": "ccbd76f023e4d81fd9a38658d35e19d96baf2461398b1c87cc8469848894286b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ccbd76f023e4d81fd9a38658d35e19d96baf2461398b1c87cc8469848894286b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s196/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nA notice in respect of a matter that may or must be given by OFCOM under any provision of this Act may be given—\n(a)\nto only one of the individuals,\n(b)\njointly to two or more of them, or\n(c)\njointly to all of them,\nbut a separate notice may not be given to each of the individuals in respect of the matter."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s196",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

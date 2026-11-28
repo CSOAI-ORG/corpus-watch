@@ -1,0 +1,109 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:82",
+ "label": "EU AI Act Art. 82",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "009aefe7abbb4bab57e9ce69a3901e4392b6cba86765e3cc4a9e7551d3d747cd",
+ "sha256_v1": "009aefe7abbb4bab57e9ce69a3901e4392b6cba86765e3cc4a9e7551d3d747cd",
+ "sha256_v2": "009aefe7abbb4bab57e9ce69a3901e4392b6cba86765e3cc4a9e7551d3d747cd",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "009aefe7abbb4bab57e9ce69a3901e4392b6cba86765e3cc4a9e7551d3d747cd",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:82/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where, having performed an evaluation under Article 79, after consulting the relevant national public authority referred to in Article 77(1), the market surveillance authority of a Member State finds that although a high-risk AI system complies with this Regulation, it nevertheless presents a risk to the health or safety of persons, to fundamental rights, or to other aspects of public interest protection, it shall require the relevant operator to take all appropriate measures to ensure that the AI system concerned, when placed on the market or put into service, no longer presents that risk without undue delay, within a period it may prescribe."
+  },
+  {
+   "obligation_id": "32024R1689:82/p2/s1",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "The provider or other relevant operator shall ensure that corrective action is taken in respect of all the AI systems concerned that it has made available on the Union market within the timeline prescribed by the market surveillance authority of the Member State referred to in paragraph 1."
+  },
+  {
+   "obligation_id": "32024R1689:82/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Member States shall immediately inform the Commission and the other Member States of a finding under paragraph"
+  },
+  {
+   "obligation_id": "32024R1689:82/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That information shall include all available details, in particular the data necessary for the identification of the AI system concerned, the origin and the supply chain of the AI system, the nature of the risk involved and the nature and duration of the national measures taken."
+  },
+  {
+   "obligation_id": "32024R1689:82/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall without undue delay enter into consultation with the Member States concerned and the relevant operators, and shall evaluate the national measures taken."
+  },
+  {
+   "obligation_id": "32024R1689:82/p4/s2",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "On the basis of the results of that evaluation, the Commission shall decide whether the measure is justified and, where necessary, propose other appropriate measures."
+  },
+  {
+   "obligation_id": "32024R1689:82/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall immediately communicate its decision to the Member States concerned and to the relevant operators."
+  },
+  {
+   "obligation_id": "32024R1689:82/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It shall also inform the other Member States."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:82",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

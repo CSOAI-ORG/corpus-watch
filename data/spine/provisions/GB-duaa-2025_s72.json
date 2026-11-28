@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s72",
+ "label": "GB-duaa-2025 Section 72",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ed8161664a27a8fb6f6802faaa7bdd52d827e246954d5c4651ad6f87be62c930",
+ "sha256_v1": "",
+ "sha256_v2": "ed8161664a27a8fb6f6802faaa7bdd52d827e246954d5c4651ad6f87be62c930",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ed8161664a27a8fb6f6802faaa7bdd52d827e246954d5c4651ad6f87be62c930",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s72/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nIn Article 6(3) (lawfulness of processing: basis in domestic law)—\n(a)\nin the first subparagraph, omit “and (e)”,\n(b)\nafter that subparagraph insert—\nThe basis for the processing referred to in point (e) of paragraph 1 must be laid down by domestic law or relevant international law (see section 9A of the 2018 Act).\n, and\n(c)\nin the last subparagraph, in the last sentence, after “domestic law” insert “or relevant international law”."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s72",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14355-2025:sec4",
+ "label": "US-EO14355-2025 Section 4",
+ "instrument": "US-EO14355-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "23ff649c8456770015b47885780cda055f1c3eb97090af43213fe7c47c52e583",
+ "sha256_v1": "",
+ "sha256_v2": "23ff649c8456770015b47885780cda055f1c3eb97090af43213fe7c47c52e583",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "23ff649c8456770015b47885780cda055f1c3eb97090af43213fe7c47c52e583",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14355-2025:sec4/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Secretary, in consultation with the APST, shall work to ensure that AI innovation is appropriately integrated into current work on interoperability to maximize the potential for electronic health record and claims data to inform private sector and academic research and clinical trial design, while ensuring that patients and parents control their health information."
+  },
+  {
+   "obligation_id": "US-EO14355-2025:sec4/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In addition, the Secretary shall work to finalize interoperability standards for patient data to be used with AI that appropriately account for structured and unstructured data and enable safe and privacy-compliant exchanges of data."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14355-2025:sec4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

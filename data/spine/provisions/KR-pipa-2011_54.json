@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-pipa-2011:54",
+ "label": "KR-pipa-2011 제54조",
+ "instrument": "KR-pipa-2011",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "e662f12c72307b46be7da1de48154574e4ed116e524a1b1574e5738903b41f6b",
+ "sha256_v1": "",
+ "sha256_v2": "e662f12c72307b46be7da1de48154574e4ed116e524a1b1574e5738903b41f6b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "e662f12c72307b46be7da1de48154574e4ed116e524a1b1574e5738903b41f6b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-pipa-2011:54/s1",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ko:internal-record",
+   "status": "DRAFT",
+   "text": "제54조(소송허가신청) ① 단체소송을 제기하는 단체는 소장과 함께 다음 각 호의 사항을 기재한 소송허가신청서를 법원에 제출하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:54/s5",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "② 제1항에 따른 소송허가신청서에는 다음 각 호의 자료를 첨부하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-pipa-2011:54",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

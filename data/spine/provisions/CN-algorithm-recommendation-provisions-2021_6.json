@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-algorithm-recommendation-provisions-2021:6",
+ "label": "CN-algorithm-recommendation-provisions-2021 第六条",
+ "instrument": "CN-algorithm-recommendation-provisions-2021",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "c4278578c289fd74cd1c4377e3f62dd21c2819110ca1ef160e937ccb7def7d40",
+ "sha256_v1": "",
+ "sha256_v2": "c4278578c289fd74cd1c4377e3f62dd21c2819110ca1ef160e937ccb7def7d40",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "c4278578c289fd74cd1c4377e3f62dd21c2819110ca1ef160e937ccb7def7d40",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-algorithm-recommendation-provisions-2021:6/s1",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "第六条 算法推荐服务提供者应当坚持主流价值导向，优化算法推荐服务机制，积极传播正能量，促进算法应用向上向善。"
+  },
+  {
+   "obligation_id": "CN-algorithm-recommendation-provisions-2021:6/s2",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "算法推荐服务提供者不得利用算法推荐服务从事危害国家安全和社会公共利益、扰乱经济秩序和社会秩序、侵犯他人合法权益等法律、行政法规禁止的活动，不得利用算法推荐服务传播法律、行政法规禁止的信息，应当采取措施防范和抵制传播不良信息。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-algorithm-recommendation-provisions-2021:6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:91",
+ "label": "JP-appi-2003 Article 91",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a78a6a5a7599f6e8801c5da45d4d62d1f6885155c7ae1cda36374b214a5e6d1e",
+ "sha256_v1": "",
+ "sha256_v2": "a78a6a5a7599f6e8801c5da45d4d62d1f6885155c7ae1cda36374b214a5e6d1e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a78a6a5a7599f6e8801c5da45d4d62d1f6885155c7ae1cda36374b214a5e6d1e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:91/s3",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "）を行政機関の長等に提出してしなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:91/s7",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "２ 前項の場合において、訂正請求をする者は、政令で定めるところにより、訂正請求に係る保有個人情報の本人であること（前条第二項の規定による訂正請求にあっては、訂正請求に係る保有個人情報の本人の代理人であること）を示す書類を提示し、又は提出しなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:91",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

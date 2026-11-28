@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:9",
+ "label": "EU-ccd2-2023 Article 9",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9a7de4e61d6fb8648ebf9a316e9c321779b801e6c3a180fbace8a8c03d6e1823",
+ "sha256_v1": "",
+ "sha256_v2": "9a7de4e61d6fb8648ebf9a316e9c321779b801e6c3a180fbace8a8c03d6e1823",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9a7de4e61d6fb8648ebf9a316e9c321779b801e6c3a180fbace8a8c03d6e1823",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:9/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that clear and comprehensible general information about credit agreements is made available to consumers by creditors or, where applicable, by credit intermediaries, at all times on paper or on another durable medium chosen by the consumer."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:9/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "General information about credit agreements which is made available by creditors or, where applicable, by credit intermediaries at their premises shall be made available to consumers at least on paper."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:9/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The general information referred to in paragraph 1 shall include at least the following:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:9",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

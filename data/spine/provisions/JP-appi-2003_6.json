@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:6",
+ "label": "JP-appi-2003 Article 6",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "8704d0259391440db07dd26d6c8e51e67506c92478887f8b3b0aaacb317778ba",
+ "sha256_v1": "",
+ "sha256_v2": "8704d0259391440db07dd26d6c8e51e67506c92478887f8b3b0aaacb317778ba",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8704d0259391440db07dd26d6c8e51e67506c92478887f8b3b0aaacb317778ba",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:6/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "政府は、個人情報の性質及び利用方法に鑑み、個人の権利利益の一層の保護を図るため特にその適正な取扱いの厳格な実施を確保する必要がある個人情報について、保護のための格別の措置が講じられるよう必要な法制上の措置その他の措置を講ずるとともに、国際機関その他の国際的な枠組みへの協力を通じて、各国政府と共同して国際的に整合のとれた個人情報に係る制度を構築するために必要な措置を講ずるものとする。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

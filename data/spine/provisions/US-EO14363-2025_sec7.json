@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14363-2025:sec7",
+ "label": "US-EO14363-2025 Section 7",
+ "instrument": "US-EO14363-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "4662a3055416a4481426688f5d97278f9193d681a9aa5e6cd23422129a8b1fed",
+ "sha256_v1": "",
+ "sha256_v2": "4662a3055416a4481426688f5d97278f9193d681a9aa5e6cd23422129a8b1fed",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "4662a3055416a4481426688f5d97278f9193d681a9aa5e6cd23422129a8b1fed",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14363-2025:sec7/p7/s2",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations."
+  },
+  {
+   "obligation_id": "US-EO14363-2025:sec7/p7/s3",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d) The costs for publication of this order shall be borne by the Department of Energy."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14363-2025:sec7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

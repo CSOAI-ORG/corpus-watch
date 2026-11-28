@@ -1,0 +1,68 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022R2554:20",
+ "label": "DORA Art. 20",
+ "instrument": "DORA",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "930fabdf72c36de6b870625cf4d566cc815e260c1219da3b4e8afbea8176979b",
+ "sha256_v1": "930fabdf72c36de6b870625cf4d566cc815e260c1219da3b4e8afbea8176979b",
+ "sha256_v2": "39d1ab373f87eb0c17bfd609dbbd1268d9e952d4a1834b33f2d92397d65e26cc",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "39d1ab373f87eb0c17bfd609dbbd1268d9e952d4a1834b33f2d92397d65e26cc",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022R2554:20/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Article 20 Harmonisation of reporting content and templates The ESAs, through the Joint Committee, and in consultation with ENISA and the ECB, shall develop:"
+  },
+  {
+   "obligation_id": "32022R2554:20/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When developing those draft regulatory technical standards, the ESAs shall take into account the size and the overall risk profile of the financial entity, and the nature, scale and complexity of its services, activities and operations, and in particular, with a view to ensuring that, for the purposes of this paragraph, point (a), point (ii), different time limits may reflect, as appropriate, specificities of financial sectors, without prejudice to maintaining a consistent approach to ICT-related incident reporting pursuant to this Regulation and to Directive (EU) 2022/2555."
+  },
+  {
+   "obligation_id": "32022R2554:20/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The ESAs shall, as applicable, provide justification when deviating from the approaches taken in the context of that Directive;"
+  },
+  {
+   "obligation_id": "32022R2554:20/p0/s4",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The ESAs shall submit the common draft regulatory technical standards referred to in the first paragraph, point (a), and the common draft implementing technical standards referred to in the first paragraph, point (b), to the Commission by 17 July 2024."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022R2554:20",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

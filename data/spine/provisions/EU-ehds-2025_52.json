@@ -1,0 +1,126 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:52",
+ "label": "EU-ehds-2025 Article 52",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a594e8332e2611a876f14174a0278d744da94044e9898f977e1b406235ad2d89",
+ "sha256_v1": "",
+ "sha256_v2": "a594e8332e2611a876f14174a0278d744da94044e9898f977e1b406235ad2d89",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "a594e8332e2611a876f14174a0278d744da94044e9898f977e1b406235ad2d89",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:52/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Electronic health data protected by intellectual property rights, trade secrets or covered by the regulatory data protection right laid down in Article 10(1) of Directive 2001/83/EC of the European Parliament and of the Council (36) or Article 14(11) of Regulation (EC) No 726/2004 of the European Parliament and of the Council (37) shall be made available for secondary use in accordance with the rules laid down in this Regulation."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:52/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Health data holders shall inform the health data access body of any electronic health data containing content or information protected by intellectual property rights, trade secrets or covered by the regulatory data protection right laid down in Article 10(1) of Directive 2001/83/EC or Article 14(11) of Regulation (EC) No 726/2004."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:52/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Health data holders shall identify which parts of the datasets are concerned and justify the need for the specific protection of the data."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:52/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Health data holders shall provide that information when communicating to the health data access body the description of the dataset they hold pursuant to Article 60(3) of this Regulation or, at the latest, following a request received from the health data access body."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:52/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Health data access bodies shall take all specific appropriate and proportionate measures, including of a legal, organisational and technical nature, they deem necessary to protect the intellectual property rights, trade secrets or the regulatory data protection right laid down in Article 10(1) of Directive 2001/83/EC or Article 14(11) of Regulation (EC) No 726/2004."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:52/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Health data access bodies shall remain responsible for determining whether such measures are necessary and appropriate."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:52/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall develop and recommend non-binding models of contractual terms for such arrangements."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:52/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the granting of access to electronic health data for secondary use entails a serious risk of infringing intellectual property rights, trade secrets or the regulatory data protection right laid down in Article 10(1) of Directive 2001/83/EC or Article 14(11) of Regulation (EC) No 726/2004 which cannot be addressed in a satisfactory manner, the health data access body shall refuse access to the health data applicant to such data."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:52/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The health data access body shall inform the health data applicant of, and provide to the health data applicant a justification for, that refusal."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:52/p5/s3",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Health data holders and health data applicants shall have the right to lodge a complaint in accordance with Article 81 of this Regulation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:52",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

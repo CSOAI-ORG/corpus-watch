@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s26WA",
+ "label": "AU-privacy-act-1988 Section 26WA",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d71c149210c3ed15a00e3fe0b7bb64e3509b88d4174029f2ad0a83da3cac21d5",
+ "sha256_v1": "",
+ "sha256_v2": "d71c149210c3ed15a00e3fe0b7bb64e3509b88d4174029f2ad0a83da3cac21d5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "d71c149210c3ed15a00e3fe0b7bb64e3509b88d4174029f2ad0a83da3cac21d5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s26WA/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\tthere is unauthorised access to, unauthorised disclosure of, or loss of, personal information held by an entity; and\n(b)\tthe access, disclosure or loss is likely to result in serious harm to any of the individuals to whom the information relates.\n•\tAn entity must give a notification if:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s26WA",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-pipa-2011:5",
+ "label": "KR-pipa-2011 제5조",
+ "instrument": "KR-pipa-2011",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "755e7f4de1b01506746a1af2912ee7c7542153f86f01c6ebee230b4332266ee3",
+ "sha256_v1": "",
+ "sha256_v2": "755e7f4de1b01506746a1af2912ee7c7542153f86f01c6ebee230b4332266ee3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "755e7f4de1b01506746a1af2912ee7c7542153f86f01c6ebee230b4332266ee3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-pipa-2011:5/s1",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "제5조(국가 등의 책무) ① 국가와 지방자치단체는 개인정보의 목적 외 수집, 오용ㆍ남용 및 무분별한 감시ㆍ추적 등에 따른 폐해를 방지하여 인간의 존엄과 개인의 사생활 보호를 도모하기 위한 시책을 강구하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:5/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "② 국가와 지방자치단체는 제4조에 따른 정보주체의 권리를 보호하기 위하여 법령의 개선 등 필요한 시책을 마련하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:5/s3",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "③ 국가와 지방자치단체는 만 14세 미만 아동이 개인정보 처리가 미치는 영향과 정보주체의 권리 등을 명확하게 알 수 있도록 만 14세 미만 아동의 개인정보 보호에 필요한 시책을 마련하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:5/s5",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "④ 국가와 지방자치단체는 개인정보의 처리에 관한 불합리한 사회적 관행을 개선하기 위하여 개인정보처리자의 자율적인 개인정보 보호활동을 존중하고 촉진ㆍ지원하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:5/s7",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "⑤ 국가와 지방자치단체는 개인정보의 처리에 관한 법령 또는 조례를 적용할 때에는 정보주체의 권리가 보장될 수 있도록 개인정보 보호 원칙에 맞게 적용하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-pipa-2011:5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

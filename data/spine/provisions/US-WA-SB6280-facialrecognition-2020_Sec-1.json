@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-WA-SB6280-facialrecognition-2020:Sec-1",
+ "label": "US-WA-SB6280-facialrecognition-2020 Sec. 1",
+ "instrument": "US-WA-SB6280-facialrecognition-2020",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "adda5b5a59d67f74221b709cb9ed2769fc28c212e8a8f419c84af55e8f1cd537",
+ "sha256_v1": "",
+ "sha256_v2": "adda5b5a59d67f74221b709cb9ed2769fc28c212e8a8f419c84af55e8f1cd537",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "adda5b5a59d67f74221b709cb9ed2769fc28c212e8a8f419c84af55e8f1cd537",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-WA-SB6280-facialrecognition-2020:Sec-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Accordingly, legislation is required to establish safeguards that will allow state and local government agencies to use facial recognition services in a manner that benefits society while prohibiting uses that threaten our democratic freedoms and put our civil liberties at risk."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-WA-SB6280-facialrecognition-2020:Sec-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

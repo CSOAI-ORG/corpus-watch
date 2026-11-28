@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-ai-basic-act-enforcement-decree-2026:1",
+ "label": "KR-ai-basic-act-enforcement-decree-2026 제1조",
+ "instrument": "KR-ai-basic-act-enforcement-decree-2026",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "d88763d2d9dde56d54b63c7d85c456aab96bc9a07a67cba91df08619321a65a9",
+ "sha256_v1": "",
+ "sha256_v2": "d88763d2d9dde56d54b63c7d85c456aab96bc9a07a67cba91df08619321a65a9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "d88763d2d9dde56d54b63c7d85c456aab96bc9a07a67cba91df08619321a65a9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:1/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:ko",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-ai-basic-act-enforcement-decree-2026:1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

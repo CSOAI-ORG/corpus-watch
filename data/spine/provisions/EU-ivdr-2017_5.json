@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:5",
+ "label": "EU-ivdr-2017 Article 5",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "497020707e2896cac6702de301dda1fd6622a9a3670bc17d9c202fbc693b9916",
+ "sha256_v1": "",
+ "sha256_v2": "497020707e2896cac6702de301dda1fd6622a9a3670bc17d9c202fbc693b9916",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "497020707e2896cac6702de301dda1fd6622a9a3670bc17d9c202fbc693b9916",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:5/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A device shall meet the general safety and performance requirements set out in Annex I which apply to it, taking into account its intended purpose."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:5/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Demonstration of conformity with the general safety and performance requirements shall include a performance evaluation in accordance with Article 56."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:5/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Devices that are manufactured and used within health institutions, with the exception of devices for performance studies, shall be considered as having been put into service."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:5/p5/s2",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(e)\nthe health institution provides information upon request on the use of such devices to its competent authority, which shall include a justification of their manufacturing, modification and use;"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:5/p5/s3",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(f)\nthe health institution draws up a declaration which it shall make publicly available, including:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:5/p5/s4",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall retain the right to restrict the manufacture and use of any specific type of such devices and shall be permitted access to inspect the activities of the health institutions."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:5/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(3)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

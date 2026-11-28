@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:30",
+ "label": "EU-mica-2023 Article 30",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "d1964bd0dcd73a9a1d344383c3120b592c277c40efbfa833ce220ef0da24285c",
+ "sha256_v1": "",
+ "sha256_v2": "d1964bd0dcd73a9a1d344383c3120b592c277c40efbfa833ce220ef0da24285c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d1964bd0dcd73a9a1d344383c3120b592c277c40efbfa833ce220ef0da24285c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:30/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Issuers of asset-referenced tokens shall in a clear, accurate and transparent manner disclose, in a publicly and easily accessible place on their website, the amount of asset-referenced tokens in circulation, and the value and composition of the reserve of assets referred to in Article"
+  },
+  {
+   "obligation_id": "EU-mica-2023:30/p36/s1",
+   "paragraph": "36",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such information shall be updated at least monthly."
+  },
+  {
+   "obligation_id": "EU-mica-2023:30/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Issuers of asset-referenced tokens shall publish as soon as possible in a publicly and easily accessible place on their website a brief, clear, accurate and transparent summary of the audit report, as well as the full and unredacted audit report, in relation to the reserve of assets referred to in Article 36."
+  },
+  {
+   "obligation_id": "EU-mica-2023:30/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Without prejudice to Article 88, issuers of asset-referenced tokens shall as soon as possible and in a clear, accurate and transparent manner disclose, in a publicly and easily accessible place, on their website any event that has or is likely to have a significant effect on the value of the asset-referenced tokens or on the reserve of assets referred to in Article 36."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:30",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

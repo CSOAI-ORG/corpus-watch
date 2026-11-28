@@ -1,0 +1,109 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022L2555:3",
+ "label": "NIS2 Directive Art. 3",
+ "instrument": "NIS2 Directive",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "84dff6b23050849bc1fbf68b034142d826ca67c3594abd6b5630a513a9c18a78",
+ "sha256_v1": "84dff6b23050849bc1fbf68b034142d826ca67c3594abd6b5630a513a9c18a78",
+ "sha256_v2": "0be1a9aeb10e57c523500c9a5c248059ff2bfbe6f88ffacd8679199669467d39",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "0be1a9aeb10e57c523500c9a5c248059ff2bfbe6f88ffacd8679199669467d39",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022L2555:3/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the purposes of this Directive, the following entities shall be considered to be essential entities:"
+  },
+  {
+   "obligation_id": "32022L2555:3/p2/s1",
+   "paragraph": "2",
+   "addressee": "essential_or_important_entity",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the purposes of this Directive, entities of a type referred to in Annex I or II which do not qualify as essential entities pursuant to paragraph 1 of this Article shall be considered to be important entities."
+  },
+  {
+   "obligation_id": "32022L2555:3/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "By 17 April 2025, Member States shall establish a list of essential and important entities as well as entities providing domain name registration services."
+  },
+  {
+   "obligation_id": "32022L2555:3/p3/s2",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall review and, where appropriate, update that list on a regular basis and at least every two years thereafter."
+  },
+  {
+   "obligation_id": "32022L2555:3/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "For the purpose of establishing the list referred to in paragraph 3, Member States shall require the entities referred to in that paragraph to submit at least the following information to the competent authorities:"
+  },
+  {
+   "obligation_id": "32022L2555:3/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The entities referred to in paragraph 3 shall notify any changes to the details submitted pursuant to the first subparagraph of this paragraph without delay, and, in any event, within two weeks of the date of the change."
+  },
+  {
+   "obligation_id": "32022L2555:3/p4/s3",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission, with the assistance of the European Union Agency for Cybersecurity (ENISA), shall without undue delay provide guidelines and templates regarding the obligations laid down in this paragraph."
+  },
+  {
+   "obligation_id": "32022L2555:3/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "By 17 April 2025 and every two years thereafter, the competent authorities shall notify:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022L2555:3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

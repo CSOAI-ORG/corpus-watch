@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s65",
+ "label": "GB-osa-2023 Section 65",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "ec46cada723fb7b099b0ba7e622c1f49c695029870260fdc75b250c3246daa73",
+ "sha256_v1": "",
+ "sha256_v2": "ec46cada723fb7b099b0ba7e622c1f49c695029870260fdc75b250c3246daa73",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ec46cada723fb7b099b0ba7e622c1f49c695029870260fdc75b250c3246daa73",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s65/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "OFCOM’s guidance about user identity verification\n(1)\nOFCOM must produce guidance for providers of Category 1 services to assist them in complying with the duty set out in section 64(1)."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s65/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nIn producing the guidance (including revised or replacement guidance), OFCOM must have particular regard to the desirability of ensuring that providers of Category 1 services offer users a form of identity verification likely to be available to vulnerable adult users."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s65/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nBefore producing the guidance (including revised or replacement guidance), OFCOM must consult—\n(a)\nthe Information Commission,\n(b)\npersons whom OFCOM consider to have technological expertise relevant to the duty set out in section 64(1),\n(c)\npersons who appear to OFCOM to represent the interests of vulnerable adult users of Category 1 services, and\n(d)\nsuch other persons as OFCOM consider appropriate."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s65/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(4)\nOFCOM must publish the guidance (and any revised or replacement guidance)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s65",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

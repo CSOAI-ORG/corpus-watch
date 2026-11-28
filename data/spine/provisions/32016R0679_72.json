@@ -1,0 +1,48 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:72",
+ "label": "GDPR Art. 72",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "ffc67d39983da84eb9fe0810a6a7d528aa6cf8cc2bfed982c3b47ad58a1a7403",
+ "sha256_v1": "ffc67d39983da84eb9fe0810a6a7d528aa6cf8cc2bfed982c3b47ad58a1a7403",
+ "sha256_v2": "2aa73a4052055968368713414d70268981f4036c533abf49e955e9a6b46a014d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "2aa73a4052055968368713414d70268981f4036c533abf49e955e9a6b46a014d",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:72/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Board shall take decisions by a simple majority of its members, unless otherwise provided for in this Regulation."
+  },
+  {
+   "obligation_id": "32016R0679:72/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Board shall adopt its own rules of procedure by a two-thirds majority of its members and organise its own operational arrangements."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:72",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:7",
+ "label": "EU AI Act Art. 7",
+ "instrument": "EU AI Act",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "02e5cb2e3baa0f1adde8a6b90c9589bde8862a0d322f0c2990f865eaaea5fd23",
+ "sha256_v1": "02e5cb2e3baa0f1adde8a6b90c9589bde8862a0d322f0c2990f865eaaea5fd23",
+ "sha256_v2": "35d6daf667c6172f5e3226e7be19c521121d229695bcf23e8cf51d4f395bc776",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "35d6daf667c6172f5e3226e7be19c521121d229695bcf23e8cf51d4f395bc776",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:7/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 7 amendments to",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

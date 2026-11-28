@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-network-data-security-regs-2024:32",
+ "label": "CN-network-data-security-regs-2024 第三十二条",
+ "instrument": "CN-network-data-security-regs-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "f2bbf9e7ea5613afb5ccae7c5287513176f9adfd817d5152e375ac5ebdb3fc07",
+ "sha256_v1": "",
+ "sha256_v2": "f2bbf9e7ea5613afb5ccae7c5287513176f9adfd817d5152e375ac5ebdb3fc07",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "f2bbf9e7ea5613afb5ccae7c5287513176f9adfd817d5152e375ac5ebdb3fc07",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-network-data-security-regs-2024:32/s1",
+   "paragraph": null,
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "第三十二条　重要数据的处理者因合并、分立、解散、破产等可能影响重要数据安全的，应当采取措施保障网络数据安全，并向省级以上有关主管部门报告重要数据处置方案、接收方的名称或者姓名和联系方式等；"
+  },
+  {
+   "obligation_id": "CN-network-data-security-regs-2024:32/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "主管部门不明确的，应当向省级以上数据安全工作协调机制报告。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-network-data-security-regs-2024:32",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

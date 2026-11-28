@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:70",
+ "label": "EU-ehds-2025 Article 70",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "72fbe6d0f2c7b5c51fc700be2fc6890081c1162ad73410ee4b3a18f9655804ed",
+ "sha256_v1": "",
+ "sha256_v2": "72fbe6d0f2c7b5c51fc700be2fc6890081c1162ad73410ee4b3a18f9655804ed",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "72fbe6d0f2c7b5c51fc700be2fc6890081c1162ad73410ee4b3a18f9655804ed",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:70/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Templates to support access to electronic health data for secondary use\nBy 26 March 2027, the Commission shall, by means of implementing acts, set out the templates for the health data access application, the data permit and the health data request referred to in Articles 67, 68 and 69, respectively."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:70/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 98(2)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:70",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

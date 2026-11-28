@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-c2pa-spec-2026:section-17",
+ "label": "INTL-c2pa-spec-2026 Section 17",
+ "instrument": "INTL-c2pa-spec-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "fd89569f2e0af7205e56b844ea64b24d5c326ad1eb7ce8acac01df250e420602",
+ "sha256_v1": "",
+ "sha256_v2": "fd89569f2e0af7205e56b844ea64b24d5c326ad1eb7ce8acac01df250e420602",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "fd89569f2e0af7205e56b844ea64b24d5c326ad1eb7ce8acac01df250e420602",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-17/p17/s1",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "The Exclusion Notice for issued patents and published applications must include the patent number(s) or title and application number(s), as the case may be, for each of the issued patent(s) or pending patent application(s) that the Working Group Participant wishes to exclude from the licensing commitment set forth in Section 1 of this patent policy."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-17/p17/s2",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If an issued patent or pending patent application that may contain Essential Claims is not set forth in the Exclusion Notice, those Essential Claims shall continue to be subject to the licensing commitments under this agreement."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-17/p17/s3",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Exclusion Notice for unpublished patent applications must provide either:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-c2pa-spec-2026:section-17",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

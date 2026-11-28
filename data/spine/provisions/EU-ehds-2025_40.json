@@ -1,0 +1,126 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:40",
+ "label": "EU-ehds-2025 Article 40",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "fe943a25c4121c4885c9f90c92e5c052a88f1031cb6428b73927792df01e86e2",
+ "sha256_v1": "",
+ "sha256_v2": "fe943a25c4121c4885c9f90c92e5c052a88f1031cb6428b73927792df01e86e2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "fe943a25c4121c4885c9f90c92e5c052a88f1031cb6428b73927792df01e86e2",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:40/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall develop a European digital testing environment for the assessment of harmonised software components of EHR systems."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:40/p1/s2",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall make the software supporting the European digital testing environment available as open-source."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:40/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall operate digital testing environments for the assessment of harmonised software components of EHR systems."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:40/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such digital testing environments shall comply with the common specifications for the European digital testing environment laid down pursuant to paragraph"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:40/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall inform the Commission about their digital testing environments."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:40/p3/s1",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Before placing EHR systems on the market, manufacturers shall use the digital testing environments referred to in paragraphs 1 and 2 of this Article for the assessment of harmonised software components of EHR systems."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:40/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "The results of that assessment shall be included in the technical documentation referred to in Article"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:40/p37/s1",
+   "paragraph": "37",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The elements in relation to which the results of the assessment are positive shall be presumed to be in conformity with this Regulation."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:40/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall, by means of implementing acts, lay down the common specifications for the European digital testing environment."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:40/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 98(2)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:40",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:79",
+ "label": "EU-dsa-2022 Article 79",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "32dbd7f57791a48bead720edbe7dc74fb86b54e5c97c1a4d10e82e49905c87f7",
+ "sha256_v1": "",
+ "sha256_v2": "32dbd7f57791a48bead720edbe7dc74fb86b54e5c97c1a4d10e82e49905c87f7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "32dbd7f57791a48bead720edbe7dc74fb86b54e5c97c1a4d10e82e49905c87f7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:79/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Before adopting a decision pursuant to Article 73(1), Article 74 or 76, the Commission shall give the provider of the very large online platform or of the very large online search engine concerned or other person referred to in Article 67(1) the opportunity of being heard on:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:79/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall base its decisions only on objections on which the parties concerned have been able to comment."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:79/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The rights of defence of the parties concerned shall be fully respected in the proceedings."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:79/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "They shall be entitled to have access to the Commission's file under the terms of a negotiated disclosure, subject to the legitimate interest of the provider of the very large online platform or of the very large online search engine or other person concerned in the protection of their business secrets."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:79/p4/s4",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The right of access to the file of the Commission shall not extend to confidential information and internal documents of the Commission, the Board, Digital Service Coordinators, other competent authorities or other public authorities of the Member States."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:79/p4/s5",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In particular, the right of access shall not extend to correspondence between the Commission and those authorities."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:79/p4/s6",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Nothing in this paragraph shall prevent the Commission from disclosing and using information necessary to prove an infringement."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:79/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The information collected pursuant to Articles 67, 68 and 69 shall be used only for the purpose of this Regulation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:79",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

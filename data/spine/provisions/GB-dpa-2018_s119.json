@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s119",
+ "label": "GB-dpa-2018 Section 119",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "d94459841cfd7b40290aa309a1ba396f7edf632bc72d5cbb49f11403b7933e3e",
+ "sha256_v1": "",
+ "sha256_v2": "d94459841cfd7b40290aa309a1ba396f7edf632bc72d5cbb49f11403b7933e3e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d94459841cfd7b40290aa309a1ba396f7edf632bc72d5cbb49f11403b7933e3e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s119/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(4)\nBefore exercising the power under subsection (1), the Commission must by written notice inform the controller and any processor that the Commission intends to do so."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s119",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

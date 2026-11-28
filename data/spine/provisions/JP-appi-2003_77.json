@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:77",
+ "label": "JP-appi-2003 Article 77",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8f4047ded4a542fee77936859237d4d214f2c49d3df5aed26f38f968bd4f47ae",
+ "sha256_v1": "",
+ "sha256_v2": "8f4047ded4a542fee77936859237d4d214f2c49d3df5aed26f38f968bd4f47ae",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8f4047ded4a542fee77936859237d4d214f2c49d3df5aed26f38f968bd4f47ae",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:77/s3",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "）を行政機関の長等に提出してしなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:77/s6",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "２ 前項の場合において、開示請求をする者は、政令で定めるところにより、開示請求に係る保有個人情報の本人であること（前条第二項の規定による開示請求にあっては、開示請求に係る保有個人情報の本人の代理人であること）を示す書類を提示し、又は提出しなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:77/s9",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "この場合において、行政機関の長等は、開示請求者に対し、補正の参考となる情報を提供するよう努めなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:77",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

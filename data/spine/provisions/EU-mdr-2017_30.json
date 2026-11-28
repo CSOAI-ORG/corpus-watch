@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:30",
+ "label": "EU-mdr-2017 Article 30",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "dec759b88c43182298c71e3261ea478768ccc1635bba7e073c19dc4e0d74e545",
+ "sha256_v1": "",
+ "sha256_v2": "dec759b88c43182298c71e3261ea478768ccc1635bba7e073c19dc4e0d74e545",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "dec759b88c43182298c71e3261ea478768ccc1635bba7e073c19dc4e0d74e545",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:30/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission, after consulting the MDCG, shall set up and manage an electronic system to create the single registration number referred to in Article 31(2) and to collate and process information that is necessary and proportionate to identify the manufacturer and, where applicable, the authorised representative and the importer."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:30/p3/s1",
+   "paragraph": "3",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Within two weeks of placing a device, other than a custom-made device, on the market, importers shall verify that the manufacturer or authorised representative has provided to the electronic system the information referred to in paragraph"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:30/p1/s1",
+   "paragraph": "1",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where applicable, importers shall inform the relevant authorised representative or manufacturer if the information referred to in paragraph 1 is not included or is incorrect."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:30/p1/s2",
+   "paragraph": "1",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Importers shall add their details to the relevant entry/entries."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:30",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

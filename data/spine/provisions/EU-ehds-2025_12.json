@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:12",
+ "label": "EU-ehds-2025 Article 12",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3f8d1a35e3191b1df36f788ee525cf1a1a6ab5e8ebf942b57f8131963f5564bf",
+ "sha256_v1": "",
+ "sha256_v2": "3f8d1a35e3191b1df36f788ee525cf1a1a6ab5e8ebf942b57f8131963f5564bf",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "3f8d1a35e3191b1df36f788ee525cf1a1a6ab5e8ebf942b57f8131963f5564bf",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:12/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Health professional access services\nFor the provision of healthcare, Member States shall ensure that health professionals are able to access free of charge the priority categories of personal electronic health data referred to in Article 14, including for cross-border care, through health professional access services."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:12/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The services referred to in the first paragraph of this Article shall be accessible only to health professionals who are in possession of electronic identification means which are recognised pursuant to Article 6 of Regulation (EU) No 910/2014 or other electronic identification means compliant with common specifications referred to in Article 36 of this Regulation."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:12/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Personal electronic health data shall be presented in a user-friendly manner in the electronic health records to allow for easy use by health professionals."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:12",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

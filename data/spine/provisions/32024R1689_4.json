@@ -1,0 +1,68 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:4",
+ "label": "EU AI Act Art. 4",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "f940911d45d4ca30be836f6de6744ed2a6100efcd68c2fbc90e51fbf96bbfb88",
+ "sha256_v1": "f940911d45d4ca30be836f6de6744ed2a6100efcd68c2fbc90e51fbf96bbfb88",
+ "sha256_v2": "84f896d27c0946b1c54c091d43722094197f48e68958e4e5d7b292d39e07db1e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": 124,
+ "sha256_current": "2c3fa3ea05a33e2adec0b060c317953464b834187420ee840f41fbcf2ed39237",
+ "agent_register_kinds": [
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:4/p1/s1",
+   "paragraph": "1",
+   "addressee": "deployer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Providers and deployers of AI systems shall take measures to support the development of AI literacy of their staff and other persons dealing with the operation and use of AI systems on their behalf, taking into account their technical knowledge, experience, education and training and the context the AI systems are to be used in, and considering the persons or groups of persons on whom the AI systems are to be used."
+  },
+  {
+   "obligation_id": "32024R1689:4/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission and the Member States shall support and facilitate the efforts of providers and deployers of AI systems, in particular SMEs, in fulfilling their obligation under paragraph 1 of this Article."
+  },
+  {
+   "obligation_id": "32024R1689:4/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "For that purpose, the Commission shall publish practical examples of how to comply with that obligation on the single information platform referred to in Article 62(3), point (b)."
+  },
+  {
+   "obligation_id": "32024R1689:4/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Board shall adopt recommendations, taking into account European competence frameworks, to support the Commission and Member States in the promotion of AI literacy required under paragraph 1, including by setting out common objectives."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

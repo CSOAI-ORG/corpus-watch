@@ -1,0 +1,116 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:95",
+ "label": "EU-mdr-2017 Article 95",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "fba0b6de5b42f67050bd825fe455f7c13a986e84421cc9765dfcf9586ee4ad75",
+ "sha256_v1": "",
+ "sha256_v2": "fba0b6de5b42f67050bd825fe455f7c13a986e84421cc9765dfcf9586ee4ad75",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "fba0b6de5b42f67050bd825fe455f7c13a986e84421cc9765dfcf9586ee4ad75",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:95/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where, having performed an evaluation pursuant to Article 94, the competent authorities find that the device presents an unacceptable risk to the health or safety of patients, users or other persons, or to other aspects of the protection of public health, they shall without delay require the manufacturer of the devices concerned, its authorised representative and all other relevant economic operators to take all appropriate and duly justified corrective action to bring the device into compliance with the requirements of this Regulation relating to the risk presented by the device and, in a manner that is proportionate to the nature of the risk, to restrict the making available of the device "
+  },
+  {
+   "obligation_id": "EU-mdr-2017:95/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authorities shall, without delay, notify the Commission, the other Member States and, where a certificate has been issued in accordance with Article 56 for the device concerned, the notified body that issued that certificate, of the results of the evaluation and of the actions which they have required the economic operators to take, by means of the electronic system referred to in Article 100."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:95/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The economic operators as referred to in paragraph 1 shall, without delay, ensure that all appropriate corrective action is taken throughout the Union in respect of all the devices concerned that they have made available on the market."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:95/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the economic operator as referred to in paragraph 1 does not take adequate corrective action within the period referred to in paragraph 1, the competent authorities shall take all appropriate measures to prohibit or restrict the making available of the device on their national market, to withdraw the device from that market or to recall it."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:95/p4/s2",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authorities shall notify the Commission, the other Member States and the notified body referred to in paragraph 2 of this Article, without delay, of those measures, by means of the electronic system referred to in Article 100."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:95/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notification referred to in paragraph 4 shall include all available details, in particular the data necessary for the identification and tracing of the non-compliant device, the origin of the device, the nature of and the reasons for the non-compliance alleged and the risk involved, the nature and duration of the national measures taken and the arguments put forward by the relevant economic operator."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:95/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Member States other than the Member State initiating the procedure shall, without delay, inform the Commission and the other Member States, by means of the electronic system referred to in Article 100, of any additional relevant information at their disposal relating to the non-compliance of the device concerned and of any measures adopted by them in relation to the device concerned."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:95/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the event of disagreement with the notified national measure, they shall, without delay, inform the Commission and the other Member States of their objections, by means of the electronic system referred to in Article 100."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:95/p7/s2",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "In that case, all Member States shall ensure that corresponding appropriate restrictive or prohibitive measures, including withdrawing, recalling or limiting the availability of the device on their national market, are taken without delay in respect of the device concerned."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:95",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

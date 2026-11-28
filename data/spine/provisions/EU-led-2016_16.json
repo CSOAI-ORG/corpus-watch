@@ -1,0 +1,126 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-led-2016:16",
+ "label": "EU-led-2016 Article 16",
+ "instrument": "EU-led-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "8bba3c6f2150a13f22e2d861b5cceb7b72c79673bc85d0f891e1d5d6d0e763c7",
+ "sha256_v1": "",
+ "sha256_v2": "8bba3c6f2150a13f22e2d861b5cceb7b72c79673bc85d0f891e1d5d6d0e763c7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8bba3c6f2150a13f22e2d861b5cceb7b72c79673bc85d0f891e1d5d6d0e763c7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-led-2016:16/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall provide for the right of the data subject to obtain from the controller without undue delay the rectification of inaccurate personal data relating to him or her."
+  },
+  {
+   "obligation_id": "EU-led-2016:16/p1/s2",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Taking into account the purposes of the processing, Member States shall provide for the data subject to have the right to have incomplete personal data completed, including by means of providing a supplementary statement."
+  },
+  {
+   "obligation_id": "EU-led-2016:16/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall require the controller to erase personal data without undue delay and provide for the right of the data subject to obtain from the controller the erasure of personal data concerning him or her without undue delay where processing infringes the provisions adopted pursuant to Article 4, 8 or 10, or where personal data must be erased in order to comply with a legal obligation to which the controller is subject."
+  },
+  {
+   "obligation_id": "EU-led-2016:16/p3/s1",
+   "paragraph": "3",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Instead of erasure, the controller shall restrict processing where:"
+  },
+  {
+   "obligation_id": "EU-led-2016:16/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\nthe accuracy of the personal data is contested by the data subject and their accuracy or inaccuracy cannot be ascertained; or\n(b)\nthe personal data must be maintained for the purposes of evidence."
+  },
+  {
+   "obligation_id": "EU-led-2016:16/p3/s3",
+   "paragraph": "3",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "Where processing is restricted pursuant to point (a) of the first subparagraph, the controller shall inform the data subject before lifting the restriction of processing."
+  },
+  {
+   "obligation_id": "EU-led-2016:16/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall provide for the controller to inform the data subject in writing of any refusal of rectification or erasure of personal data or restriction of processing and of the reasons for the refusal."
+  },
+  {
+   "obligation_id": "EU-led-2016:16/p4/s2",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall provide for the controller to inform the data subject of the possibility of lodging a complaint with a supervisory authority or seeking a judicial remedy."
+  },
+  {
+   "obligation_id": "EU-led-2016:16/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall provide for the controller to communicate the rectification of inaccurate personal data to the competent authority from which the inaccurate personal data originate."
+  },
+  {
+   "obligation_id": "EU-led-2016:16/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall, where personal data has been rectified or erased or processing has been restricted pursuant to paragraphs 1, 2 and 3, provide for the controller to notify the recipients and that the recipients shall rectify or erase the personal data or restrict processing of the personal data under their responsibility."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-led-2016:16",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB972-2022:SEC-2",
+ "label": "US-CA-AB972-2022 SEC. 2.",
+ "instrument": "US-CA-AB972-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "445ad0bceb5fff1f59e5f2ab56ed128ebc0829848089d8b2655dc7b52b2fbd1e",
+ "sha256_v1": "",
+ "sha256_v2": "445ad0bceb5fff1f59e5f2ab56ed128ebc0829848089d8b2655dc7b52b2fbd1e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "445ad0bceb5fff1f59e5f2ab56ed128ebc0829848089d8b2655dc7b52b2fbd1e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB972-2022:SEC-2/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)Proceedings in cases involving the registration or denial of registration of voters, the certification or denial of certification of candidates, the certification or denial of certification of ballot measures, and election contests shall be placed on the calendar in the order of their date of filing and shall be given precedence."
+  },
+  {
+   "obligation_id": "US-CA-AB972-2022:SEC-2/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)This section shall become operative January 1, 2027."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB972-2022:SEC-2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

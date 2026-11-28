@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-aiact-scientific-panel-2025:17",
+ "label": "EU-aiact-scientific-panel-2025 Article 17",
+ "instrument": "EU-aiact-scientific-panel-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "df063b2acfdf92b13ae6739c411f86ab9d5939d603fae59a9e8e49a20b52c71e",
+ "sha256_v1": "",
+ "sha256_v2": "df063b2acfdf92b13ae6739c411f86ab9d5939d603fae59a9e8e49a20b52c71e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "df063b2acfdf92b13ae6739c411f86ab9d5939d603fae59a9e8e49a20b52c71e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:17/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The AI Office shall provide secure means through which it can make available the received documentation or information, which the Commission has requested following a request for assistance, to the requesting rapporteur of the scientific panel."
+  },
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:17/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Access to the requested information shall be restricted to the appointed rapporteur and contributors and shall be limited in time, with the possibility for extension upon duly justified request."
+  },
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:17/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Before granting access to the received documentation or information, the AI Office shall require that the rapporteur submits:"
+  },
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:17/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The AI Office shall be able to refuse access to the requested data, where on the basis of the information submitted pursuant to paragraph 3, it has grounds to assume that there are reasonably foreseeable risks related to data security or confidentiality."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-aiact-scientific-panel-2025:17",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

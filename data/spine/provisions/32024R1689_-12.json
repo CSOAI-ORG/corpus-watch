@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:-12",
+ "label": "EU AI Act Annex XII",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "61ea45235c396ecbd80c6939f69c3395b2583fb74bd83ad00d1c64b6ab018390",
+ "sha256_v1": "61ea45235c396ecbd80c6939f69c3395b2583fb74bd83ad00d1c64b6ab018390",
+ "sha256_v2": "61ea45235c396ecbd80c6939f69c3395b2583fb74bd83ad00d1c64b6ab018390",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "61ea45235c396ecbd80c6939f69c3395b2583fb74bd83ad00d1c64b6ab018390",
+ "agent_register_kinds": [
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:-12/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "ANNEX XII Transparency information referred to in Article 53(1), point (b) — technical documentation for providers of general-purpose AI models to downstream providers that integrate the model into their AI system The information referred to in Article 53(1), point (b) shall contain at least the following:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:-12",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:138",
+ "label": "JP-appi-2003 Article 138",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "f9fd89ab736a76ce1cd7baf7d583cfd6873d5598fee2496544fc4b01719c417c",
+ "sha256_v1": "",
+ "sha256_v2": "f9fd89ab736a76ce1cd7baf7d583cfd6873d5598fee2496544fc4b01719c417c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f9fd89ab736a76ce1cd7baf7d583cfd6873d5598fee2496544fc4b01719c417c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:138/s3",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "２ 委員会は、あらかじめ常勤の委員のうちから、委員長に事故がある場合に委員長を代理する者を定めておかなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:138",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

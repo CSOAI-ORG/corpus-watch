@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-pipa-2011:39",
+ "label": "KR-pipa-2011 제39조",
+ "instrument": "KR-pipa-2011",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "28438ed3b7acd71f6e9fd3c0fdebdeabe952580c90a0a4cb457e938783f0f5e7",
+ "sha256_v1": "",
+ "sha256_v2": "28438ed3b7acd71f6e9fd3c0fdebdeabe952580c90a0a4cb457e938783f0f5e7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "28438ed3b7acd71f6e9fd3c0fdebdeabe952580c90a0a4cb457e938783f0f5e7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-pipa-2011:39/s7",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "④ 법원은 제3항의 배상액을 정할 때에는 다음 각 호의 사항을 고려하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-pipa-2011:39",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

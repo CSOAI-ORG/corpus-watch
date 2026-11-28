@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:142",
+ "label": "JP-appi-2003 Article 142",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6ee6a295e58f083dde3a197844d2df994bf73a8e8731f4ff16dca08164bc3cd7",
+ "sha256_v1": "",
+ "sha256_v2": "6ee6a295e58f083dde3a197844d2df994bf73a8e8731f4ff16dca08164bc3cd7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "6ee6a295e58f083dde3a197844d2df994bf73a8e8731f4ff16dca08164bc3cd7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:142/s2",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "委員長及び委員は、在任中、政党その他の政治団体の役員となり、又は積極的に政治運動をしてはならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:142/s3",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "２ 委員長及び常勤の委員は、在任中、内閣総理大臣の許可のある場合を除くほか、報酬を得て他の職務に従事し、又は営利事業を営み、その他金銭上の利益を目的とする業務を行ってはならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:142",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,226 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-data-act-2023:4",
+ "label": "EU-data-act-2023 Article 4",
+ "instrument": "EU-data-act-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "0036e39d2a35006f667539ec571dd0f22a13e836f357f171bd19f3d2b80cb441",
+ "sha256_v1": "",
+ "sha256_v2": "0036e39d2a35006f667539ec571dd0f22a13e836f357f171bd19f3d2b80cb441",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "0036e39d2a35006f667539ec571dd0f22a13e836f357f171bd19f3d2b80cb441",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-data-act-2023:4/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where data cannot be directly accessed by the user from the connected product or related service, data holders shall make readily available data, as well as the relevant metadata necessary to interpret and use those data, accessible to the user without undue delay, of the same quality as is available to the data holder, easily, securely, free of charge, in a comprehensive, structured, commonly used and machine-readable format and, where relevant and technically feasible, continuously and in real-time."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:4/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This shall be done on the basis of a simple request through electronic means where technically feasible."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:4/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Where the data holder refuses to share data pursuant to this Article, it shall notify the competent authority designated pursuant to Article 37."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:4/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Data holders shall not make the exercise of choices or rights under this Article by the user unduly difficult, including by offering choices to the user in a non-neutral manner or by subverting or impairing the autonomy, decision-making or choices of the user via the structure, design, function or manner of operation of a user digital interface or a part thereof."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:4/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the purpose of verifying whether a natural or legal person qualifies as a user for the purposes of paragraph 1, a data holder shall not require that person to provide any information beyond what is necessary."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:4/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Data holders shall not keep any information, in particular log data, on the user’s access to the data requested beyond what is necessary for the sound execution of the user’s access request and for the security and maintenance of the data infrastructure."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:4/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Trade secrets shall be preserved and shall be disclosed only where the data holder and the user take all necessary measures prior to the disclosure to preserve their confidentiality in particular regarding third parties."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:4/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The data holder or, where they are not the same person, the trade secret holder shall identify the data which are protected as trade secrets, including in the relevant metadata, and shall agree with the user proportionate technical and organisational measures necessary to preserve the confidentiality of the shared data, in particular in relation to third parties, such as model contractual terms, confidentiality agreements, strict access protocols, technical standards and the application of codes of conduct."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:4/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The decision of the data holder shall be duly substantiated and provided in writing to the user without undue delay."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:4/p7/s2",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "In such cases, the data holder shall notify the competent authority designated pursuant to Article 37 that it has withheld or suspended data sharing and identify which measures have not been agreed or implemented and, where relevant, which trade secrets have had their confidentiality undermined."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:4/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That demonstration shall be duly substantiated on the basis of objective elements, in particular the enforceability of trade secrets protection in third countries, the nature and level of confidentiality of the data requested, and the uniqueness and novelty of the connected product, and shall be provided in writing to the user without undue delay."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:4/p8/s2",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Where the data holder refuses to share data pursuant to this paragraph, it shall notify the competent authority designated pursuant to Article 37."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:4/p9/s1",
+   "paragraph": "9",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(a)\nlodge, in accordance with Article 37(5), point (b), a complaint with the competent authority, which shall, without undue delay, decide whether and under which conditions data sharing is to start or resume; or\n(b)\nagree with the data holder to refer the matter to a dispute settlement body in accordance with Article 10(1)."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:4/p10/s1",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The user shall not use the data obtained pursuant to a request referred to in paragraph 1 to develop a connected product that competes with the connected product from which the data originate, nor share the data with a third party with that intent and shall not use such data to derive insights about the economic situation, assets and production methods of the manufacturer or, where applicable the data holder."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:4/p11/s1",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The user shall not use coercive means or abuse gaps in the technical infrastructure of a data holder which is designed to protect the data in order to obtain access to data."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:4/p12/s1",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the user is not the data subject whose personal data is requested, any personal data generated by the use of a connected product or related service shall be made available by the data holder to the user only where there is a valid legal basis for processing under Article 6 of Regulation (EU) 2016/679 and, where relevant, the conditions of Article 9 of that Regulation and of Article 5(3) of Directive 2002/58/EC are fulfilled."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:4/p13/s1",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A data holder shall only use any readily available data that is non-personal data on the basis of a contract with the user."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:4/p13/s2",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A data holder shall not use such data to derive insights about the economic situation, assets and production methods of, or the use by, the user in any other manner that could undermine the commercial position of that user on the markets in which the user is active."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:4/p14/s1",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Data holders shall not make available non-personal product data to third parties for commercial or non-commercial purposes other than the fulfilment of their contract with the user."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:4/p14/s2",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where relevant, data holders shall contractually bind third parties not to further share data received from them."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-data-act-2023:4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

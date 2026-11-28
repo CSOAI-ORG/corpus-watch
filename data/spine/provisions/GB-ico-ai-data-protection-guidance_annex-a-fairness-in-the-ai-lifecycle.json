@@ -1,0 +1,136 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-ico-ai-data-protection-guidance:annex-a-fairness-in-the-ai-lifecycle",
+ "label": "GB-ico-ai-data-protection-guidance Annex A: Fairness in the AI lifecycle",
+ "instrument": "GB-ico-ai-data-protection-guidance",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7d9ce45c08a43372f289204ece3ab11e70cd05b5f47a9799361013b64ba02304",
+ "sha256_v1": "",
+ "sha256_v2": "7d9ce45c08a43372f289204ece3ab11e70cd05b5f47a9799361013b64ba02304",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "7d9ce45c08a43372f289204ece3ab11e70cd05b5f47a9799361013b64ba02304",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:annex-a-fairness-in-the-ai-lifecycle/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Project initiation and design\nBefore you process personal data\nData collection and procurement\nData analysis and pre-processing\nModel development\nModel evaluation\nModel deployment and monitoring\nRetiring or decommissioning\nIf you process personal data, you must consider the data protection principles across the AI lifecycle, not just at specific stages."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:annex-a-fairness-in-the-ai-lifecycle/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For example, when you use AI to make solely automated decisions, you must consider an individual’s ability to understand and contest those decisions, throughout the lifecycle."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:annex-a-fairness-in-the-ai-lifecycle/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, you must also consider whether your system may influence other groups indirectly."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:annex-a-fairness-in-the-ai-lifecycle/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Also, when thinking about impacted groups, you must consider the possibility that because of their different contexts not all individuals in the group will be impacted in the same way."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:annex-a-fairness-in-the-ai-lifecycle/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Article 35(9) of the UK GDPR states that organisations, depending on their context, must seek the views of individuals or their representatives on the intended processing as part of a DPIA."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:annex-a-fairness-in-the-ai-lifecycle/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When transforming personal data to create the features, you must consider whether any features are proxies of protected characteristics or special category data."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:annex-a-fairness-in-the-ai-lifecycle/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "How should we evaluate our model’s statistical accuracy?\nYou must take note of the trade-offs between precision (specificity) and recall (sensitivity)."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:annex-a-fairness-in-the-ai-lifecycle/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It is important to note that from a data protection fairness perspective you must ensure that your overall processing is fair."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:annex-a-fairness-in-the-ai-lifecycle/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This can lead to emergent bias which you must to take into account."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:annex-a-fairness-in-the-ai-lifecycle/p7/s2",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "You must also have a transparent and simple-to-use mechanism that allows impacted individuals and groups to contest decisions they deem unfair."
+  },
+  {
+   "obligation_id": "GB-ico-ai-data-protection-guidance:annex-a-fairness-in-the-ai-lifecycle/p7/s3",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Even when you deploy the model on the same population but for a different purpose, you must still comply with data protection."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-ico-ai-data-protection-guidance:annex-a-fairness-in-the-ai-lifecycle",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

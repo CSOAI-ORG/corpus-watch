@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-12CFR1002-RegB-1977:1002.16",
+ "label": "US-12CFR1002-RegB-1977 12 CFR 1002.16",
+ "instrument": "US-12CFR1002-RegB-1977",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "1a82208b78a0ebc4bfe14263f755ccb94982a2fecd36ab3183ca4ab456cc0e21",
+ "sha256_v1": "",
+ "sha256_v2": "1a82208b78a0ebc4bfe14263f755ccb94982a2fecd36ab3183ca4ab456cc0e21",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "1a82208b78a0ebc4bfe14263f755ccb94982a2fecd36ab3183ca4ab456cc0e21",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.16/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the Bureau, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the Board of Governors of the Federal Reserve System, or the National Credit Union Administration has reason to believe that one or more creditors have engaged in a pattern or practice of discouraging or denying applications in violation of the Act or this part, the agency shall refer the matter to the Attorney General."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.16/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5) If the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the Board of Governors of the Federal Reserve System, or the National Credit Union Administration has reason to believe (as a result of a consumer complaint, a consumer compliance examination, or some other basis) that a violation of the Act or this part has occurred which is also a violation of the Fair Housing Act, and the matter is not referred to the Attorney General, the agency shall:"
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.16/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "On discovering an error under §§ 1002.9 and 1002.10, the creditor shall correct it as soon as possible."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-12CFR1002-RegB-1977:1002.16",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

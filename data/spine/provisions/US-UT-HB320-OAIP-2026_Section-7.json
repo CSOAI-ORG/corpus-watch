@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-UT-HB320-OAIP-2026:Section-7",
+ "label": "US-UT-HB320-OAIP-2026 Section 7",
+ "instrument": "US-UT-HB320-OAIP-2026",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "ead3ec212034582c2d73d8b0487ae02177a4af6f5366069f8672f569012be3ed",
+ "sha256_v1": "",
+ "sha256_v2": "ead3ec212034582c2d73d8b0487ae02177a4af6f5366069f8672f569012be3ed",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ead3ec212034582c2d73d8b0487ae02177a4af6f5366069f8672f569012be3ed",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-UT-HB320-OAIP-2026:Section-7/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-UT-HB320-OAIP-2026:Section-7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

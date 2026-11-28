@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-OMB-M-25-21-2025:sec2",
+ "label": "US-OMB-M-25-21-2025 Section 2",
+ "instrument": "US-OMB-M-25-21-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6adc0548f16a7b0df31d986c128e2fff7c157f7a65fd5735a65463bc99115c16",
+ "sha256_v1": "",
+ "sha256_v2": "6adc0548f16a7b0df31d986c128e2fff7c157f7a65fd5735a65463bc99115c16",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 6,
+ "sha256_current": "6adc0548f16a7b0df31d986c128e2fff7c157f7a65fd5735a65463bc99115c16",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec2/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Developing Agency AI Strategies Within 180 days ofthe issuance of this memorandum, each CFO Act agency must develop an AI Strategy for identifying and removing barriers to their responsible use of AI and for achieving enterprise-wide improvements in the maturity of their applications."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec2/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Agencies must use the AI Strategies template, to be provided by 0MB, and make their AI Strategies publicly 6 For guidance on regulatory and non-regulatory approaches to AI applications developed and deployed outside of the Federal government and best practices to reduce barriers to the development and adoption of AI technologies, agencies should consult 0MB Memorandum M-21-06, Guidance for Regulation ofArtificial Intelligence Applications (Nov. 17, 2020), https://trumpwhitehouse.archives.gov/wp-content/uploads/2020/11/M-2 l-06.pdf. 7 AI is not in scope when it is the target or potential target of such an action, but it is in scope when the AI is used to carry out an enforcement action."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec2/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For example, when evaluating an AI tool to determine whether it violates the law, the AI would not be in scope; if an agency was using that same AI tool to assess a different target, then the AI would be in scope. 8 AI innovation and risk for National Security Systems must be managed appropriately, but these systems are governed through other policy."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec2/p2/s4",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Agencies must strive to utilize and scale existing tools, processes, and resources for AI governance whenever possible to avoid the creation of additional bureaucracy, and invest in technical solutions to make compliance more efficient."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec2/p2/s5",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Agency AI Strategies must be consistent with this memorandum and include: 1. current and planned AI use cases that are most impactful to an agency's mission, operations, or service delivery;9 11. an assessment of the agency's current state of AI maturity and a plan to achieve the agency's AI maturity goals, by addressing, at a minimum, plans or processes to:"
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec2/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Agencies must proactively share across the Federal Government their custom-developed code-including models and model weights-whether agency developed or procured, for AI applications in active use, except in the circumstances described in paragraphs A through D below."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec2/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Agencies must also prioritize sharing AI code, models, and data government-wide, consistent with the Open, Public, Electronic and Necessary (OPEN) Government Data Act. 14 Agencies, where practicable, must also release and maintain AI code as open source software in a public repository15 unless the:"
+  },
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec2/p11/s1",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Agencies must include them in their comprehensive data inventories if required by the OPEN Government Data Act and 0MB Memorandum M-25-05, Phase 2 Implementation ofthe Foundations for Evidence- 14 Title II of the Foundations for Evidence-Based Policymaking Act of 2018, Pub."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-OMB-M-25-21-2025:sec2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

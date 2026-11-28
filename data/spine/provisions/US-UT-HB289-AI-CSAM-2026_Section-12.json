@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-UT-HB289-AI-CSAM-2026:Section-12",
+ "label": "US-UT-HB289-AI-CSAM-2026 Section 12",
+ "instrument": "US-UT-HB289-AI-CSAM-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "94a1331d07cb2b51e016dd5a21b06521469c0f74f95d9e2fddf18dc3d0a9a2af",
+ "sha256_v1": "",
+ "sha256_v2": "94a1331d07cb2b51e016dd5a21b06521469c0f74f95d9e2fddf18dc3d0a9a2af",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "94a1331d07cb2b51e016dd5a21b06521469c0f74f95d9e2fddf18dc3d0a9a2af",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-UT-HB289-AI-CSAM-2026:Section-12/p12/s1",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3) The increased term described in Subsection (2) shall be in addition to, and consecutive to, any other prison term served by the defendant."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-UT-HB289-AI-CSAM-2026:Section-12",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

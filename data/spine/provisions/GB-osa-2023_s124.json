@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s124",
+ "label": "GB-osa-2023 Section 124",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d82d8d6f8599574238a2a1b384bdfebaf4fb1eaafbfc2e132b67b537b6685d23",
+ "sha256_v1": "",
+ "sha256_v2": "d82d8d6f8599574238a2a1b384bdfebaf4fb1eaafbfc2e132b67b537b6685d23",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d82d8d6f8599574238a2a1b384bdfebaf4fb1eaafbfc2e132b67b537b6685d23",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s124/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Matters relevant to a decision to give a notice under section 121(1)\n(1)\nThis section specifies the matters which OFCOM must particularly consider in deciding whether it is necessary and proportionate to give a notice under section 121(1) relating to a Part 3 service to the provider of the service."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s124",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

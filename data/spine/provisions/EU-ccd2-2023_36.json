@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:36",
+ "label": "EU-ccd2-2023 Article 36",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f21b4df520ffc460d9f2817cc82b14c8d16a57f16e5a0d5565af631061a2f2ed",
+ "sha256_v1": "",
+ "sha256_v2": "f21b4df520ffc460d9f2817cc82b14c8d16a57f16e5a0d5565af631061a2f2ed",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f21b4df520ffc460d9f2817cc82b14c8d16a57f16e5a0d5565af631061a2f2ed",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:36/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that independent debt advisory services are made available to consumers who experience or might experience difficulties in meeting their financial commitments, with only limited charges payable for such services."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:36/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the purpose of fulfilling the obligations laid down in paragraph 1, creditors shall have processes and policies in place for the early detection of consumers experiencing financial difficulties."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:36/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that creditors refer consumers who experience difficulties in meeting their financial commitments to debt advisory services easily accessible to the consumer."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:36/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall, by 20 November 2028, present a report providing an overview of the availability of debt advisory services across Member States and identifying best practices for the further development of such services."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:36/p4/s2",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall, by 20 November 2026, and every year thereafter, report to the Commission on available debt advisory services."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:36",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

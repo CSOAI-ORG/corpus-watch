@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-NIST-AI100-5-2024:a-1-what-are-standards-and-why-are-they-important",
+ "label": "US-NIST-AI100-5-2024 a-1-what-are-standards-and-why-are-they-important",
+ "instrument": "US-NIST-AI100-5-2024",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "cb27504087a93b1bc6d4ce570c33c8459940f76b9125b359e1276e4a53bce399",
+ "sha256_v1": "",
+ "sha256_v2": "cb27504087a93b1bc6d4ce570c33c8459940f76b9125b359e1276e4a53bce399",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "cb27504087a93b1bc6d4ce570c33c8459940f76b9125b359e1276e4a53bce399",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-NIST-AI100-5-2024:a-1-what-are-standards-and-why-are-they-important/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-NIST-AI100-5-2024:a-1-what-are-standards-and-why-are-they-important",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

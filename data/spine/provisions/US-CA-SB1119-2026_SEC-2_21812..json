@@ -1,0 +1,176 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB1119-2026:SEC-2:21812.",
+ "label": "US-CA-SB1119-2026 SEC. 2. / 21812.",
+ "instrument": "US-CA-SB1119-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "960546412384fcb438e6f1f8b49c86ce37478b72059403f4b3d2eb962a9cf576",
+ "sha256_v1": "",
+ "sha256_v2": "960546412384fcb438e6f1f8b49c86ce37478b72059403f4b3d2eb962a9cf576",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "960546412384fcb438e6f1f8b49c86ce37478b72059403f4b3d2eb962a9cf576",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21812./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)Before making a new or substantially modified companion chatbot available to users in the state, an operator shall do all of the following:"
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21812./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "If the operator relied solely on publicly available benchmarks to evaluate the companion chatbot, the operator’s risk assessment shall contain a justification for why no other evaluations were conducted."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21812./p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(b)If an operator prohibits child users from accessing a companion chatbot, the operator shall publish on its internet website, and update as needed to ensure accuracy, a high-level description of how the operator complies with the age assurance requirements of Section 21811."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21812./p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(c)If an operator permits a child user to access a companion chatbot, the operator shall publish on its internet website, and update as needed to ensure accuracy, a child safety policy that provides a high-level description of all of the following:"
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21812./p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d)If an operator permits a child user to access a companion chatbot, the operator shall implement all of the following:"
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21812./p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(B)If the operator determines there is a credible and imminent threat that a child user will engage in suicide or self-harm, the operator shall take at least one of the following actions:"
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21812./p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i)If a child’s account is connected to a parent’s account, the operator shall provide a notification to the parent as soon as practicable if that notification does not risk a threat of serious harm to the child."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21812./p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The operator shall also provide notice to the child user that the parent is being notified."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21812./p0/s9",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(ib)Persistent conversational memory shall not be provided by default to a child user unless the operator implements controls that provide effective guardrails against the risk of degradation of the operator’s child safety measures, including controls that prevent persistent conversational memory from being used to reinforce, recall, or extend prior interactions on topics the operator has identified as posing elevated risk to child users or research-backed technical controls, including limits on multiturn conversations."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21812./p0/s10",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(B)(i)Parental controls shall enable the parent to adjust each default setting provided under subparagraph (A)."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21812./p0/s11",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(ii)Parental controls shall include the ability to disable access for a child user under 16 years of age."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21812./p0/s12",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(C)An operator shall actively promote parental controls through reasonable communication methods, including reminders, updates, and tutorials, that are designed to increase parental awareness and inform use of those parental controls."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21812./p0/s13",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(D)If a parent account is not linked to the child user’s account, the default settings shall not be changed."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21812./p0/s14",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(B)On or before January 1, 2028, and every two years thereafter, an operator shall test the interface design required by this paragraph with representative samples of child users and parents to ensure safety features are discoverable and usable and shall document interface design decisions related to those safety features."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21812./p0/s15",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e)This section shall become operative on July 1, 2027."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB1119-2026:SEC-2:21812.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

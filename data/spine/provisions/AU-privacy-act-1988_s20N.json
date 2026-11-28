@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s20N",
+ "label": "AU-privacy-act-1988 Section 20N",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "0b9745c47de101b40b5510a60c0d9619d51ffd083b7f25e83c06a6a95c17d8a3",
+ "sha256_v1": "",
+ "sha256_v2": "0b9745c47de101b40b5510a60c0d9619d51ffd083b7f25e83c06a6a95c17d8a3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "0b9745c47de101b40b5510a60c0d9619d51ffd083b7f25e83c06a6a95c17d8a3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s20N/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "20N  Quality of credit reporting information\n(1)\tA credit reporting body must take such steps as are reasonable in the circumstances to ensure that the credit information the body collects is accurate, uptodate and complete."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s20N/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\tA credit reporting body must take such steps as are reasonable in the circumstances to ensure that the credit reporting information the body uses or discloses is, having regard to the purpose of the use or disclosure, accurate, uptodate, complete and relevant."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s20N/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\tWithout limiting subsections (1) and (2), a credit reporting body must:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s20N",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

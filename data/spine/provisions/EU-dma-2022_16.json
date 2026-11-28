@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:16",
+ "label": "EU-dma-2022 Article 16",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a1cdaa8074beb03612ef3fe6e8f4ef269f1ee9a3e0cd519623da42221b6d9857",
+ "sha256_v1": "",
+ "sha256_v2": "a1cdaa8074beb03612ef3fe6e8f4ef269f1ee9a3e0cd519623da42221b6d9857",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a1cdaa8074beb03612ef3fe6e8f4ef269f1ee9a3e0cd519623da42221b6d9857",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:16/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When the Commission intends to carry out a market investigation with a view to the possible adoption of decisions pursuant to Articles 17, 18 and 19 it shall adopt a decision opening a market investigation."
+  },
+  {
+   "obligation_id": "EU-dma-2022:16/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The decision referred to in paragraph 1 shall specify:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:16",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CO-SB26-189-ADMT-2026:CRS-6-1-1708",
+ "label": "US-CO-SB26-189-ADMT-2026 C.R.S. § 6-1-1708",
+ "instrument": "US-CO-SB26-189-ADMT-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "10426efcc3c84aabbb968914cc95706b2d270df43975a9b9b079e5ecf8fbd823",
+ "sha256_v1": "",
+ "sha256_v2": "10426efcc3c84aabbb968914cc95706b2d270df43975a9b9b079e5ecf8fbd823",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "10426efcc3c84aabbb968914cc95706b2d270df43975a9b9b079e5ecf8fbd823",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CO-SB26-189-ADMT-2026:CRS-6-1-1708/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) IF AN INSURER IS NOT DEEMED IN COMPLIANCE PURSUANT TO SUBSECTION (1)(a) OF THIS SECTION, THE INSURER SHALL PROVIDE NOTICE AND DISCLOSURE OF ITS USE OF A COVERED ADMT IN MATERIALLY INFLUENCING A CONSEQUENTIAL DECISION REGARDING THE PRACTICE OF INSURANCE PURSUANT TO THE DISCLOSURE REQUIREMENTS OF SECTION 6-1-1704 (3), TO THE EXTENT APPLICABLE."
+  },
+  {
+   "obligation_id": "US-CO-SB26-189-ADMT-2026:CRS-6-1-1708/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) A COVERED ENTITY SHALL PROVIDE PATIENTS WITH A GENERAL NOTICE OF USE OF ADVANCED TECHNOLOGIES, INCLUDING A COVERED ADMT."
+  },
+  {
+   "obligation_id": "US-CO-SB26-189-ADMT-2026:CRS-6-1-1708/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d) NOTWITHSTANDING SUBSECTION (3)(a) OF THIS SECTION, A COVERED ENTITY THAT USES A COVERED ADMT TO DETERMINE A PATIENT'S ELIGIBILITY FOR FINANCIAL ASSISTANCE, INCLUDING DISCOUNTED CARE AS DESCRIBED IN SECTION 25.5-3-502, SHALL PROVIDE A PATIENT THE FOLLOWING DISCLOSURES:"
+  },
+  {
+   "obligation_id": "US-CO-SB26-189-ADMT-2026:CRS-6-1-1708/p0/s4",
+   "paragraph": "0",
+   "addressee": "deployer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "TO THE EXTENT COMPLIANCE WITH SECTION 6-1-1704 OR 6-1-1705 WOULD CONFLICT WITH FEDERAL HEALTH PRIVACY REQUIREMENTS, THE DEPLOYER SHALL COMPLY WITH APPLICABLE FEDERAL LAW AND PROVIDE DISCLOSURES AND ACCESS CONSISTENT WITH THAT LAW."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CO-SB26-189-ADMT-2026:CRS-6-1-1708",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

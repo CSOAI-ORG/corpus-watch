@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022L2555:43",
+ "label": "NIS2 Directive Art. 43",
+ "instrument": "NIS2 Directive",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "d7a9bafcf98bd4c81e711f1029275c66c55e1b62b18c15e64e0ef99c33263435",
+ "sha256_v1": "d7a9bafcf98bd4c81e711f1029275c66c55e1b62b18c15e64e0ef99c33263435",
+ "sha256_v2": "e44a665733942844bd84a85a2a80ac3435ba0b8a2ee33023bf4ed8764226ed52",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "e44a665733942844bd84a85a2a80ac3435ba0b8a2ee33023bf4ed8764226ed52",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022L2555:43/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022L2555:43",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

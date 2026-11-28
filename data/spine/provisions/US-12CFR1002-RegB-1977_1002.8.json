@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-12CFR1002-RegB-1977:1002.8",
+ "label": "US-12CFR1002-RegB-1977 12 CFR 1002.8",
+ "instrument": "US-12CFR1002-RegB-1977",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7798884e06771a1b527b62fa9392bf4d5bb81eac8bfa5fadc1f3ba0fd1ad3c05",
+ "sha256_v1": "",
+ "sha256_v2": "7798884e06771a1b527b62fa9392bf4d5bb81eac8bfa5fadc1f3ba0fd1ad3c05",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "7798884e06771a1b527b62fa9392bf4d5bb81eac8bfa5fadc1f3ba0fd1ad3c05",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.8/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(D) Explains why, under the organization's standards of creditworthiness, the class of persons would not receive such credit in the absence of the program; and (E) When the persons in the class are required to share one or more common characteristics that would otherwise be a prohibited basis, explains why meeting the special social needs addressed by the program:"
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.8/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A special purpose credit program described in paragraph (a)(3) of this section shall not use the race, color, national origin, or sex, or any combination thereof, of the applicant, as a common characteristic or factor in determining eligibility for the program."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.8/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If participants in a special purpose credit program described in paragraph (a) of this section are required to possess one or more common characteristics that would otherwise be a prohibited basis and if the program otherwise satisfies the requirements of paragraphs (a) and (b) of this section, a creditor may request and consider information regarding the common characteristic(s) in determining the applicant's eligibility for the program."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-12CFR1002-RegB-1977:1002.8",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

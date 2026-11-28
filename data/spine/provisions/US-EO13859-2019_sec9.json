@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO13859-2019:sec9",
+ "label": "US-EO13859-2019 Section 9",
+ "instrument": "US-EO13859-2019",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e67ab21a86a4f7f9257fa6554993bc4b84e2daff66a31e42e9f2349e3f96b39d",
+ "sha256_v1": "",
+ "sha256_v2": "e67ab21a86a4f7f9257fa6554993bc4b84e2daff66a31e42e9f2349e3f96b39d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "e67ab21a86a4f7f9257fa6554993bc4b84e2daff66a31e42e9f2349e3f96b39d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO13859-2019:sec9/p9/s1",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "AI prototype systems; application and adaptation of AI techniques; architectural and systems support for AI; and cyberinfrastructure, data sets, and standards for AI; and (b) the term ``open data'' shall, in accordance with OMB Circular A-130 and memorandum M-13-13, mean ``publicly available data structured in a way that enables the data to be fully discoverable and usable by end users.''"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO13859-2019:sec9",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

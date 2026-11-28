@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s37",
+ "label": "GB-duaa-2025 Section 37",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3e3dc892c5cea470480aaebb556e1add88bd4da7426b57bf0c870c72eb9b604a",
+ "sha256_v1": "",
+ "sha256_v2": "3e3dc892c5cea470480aaebb556e1add88bd4da7426b57bf0c870c72eb9b604a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "3e3dc892c5cea470480aaebb556e1add88bd4da7426b57bf0c870c72eb9b604a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s37/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nThe Secretary of State must amend the note to record that the person also provides the additional services referred to in subsection (1) in accordance with the supplementary code to which the note relates."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s37/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nFor the purposes of subsection (1)(c), a certificate is to be ignored if—\n(a)\nit has expired in accordance with its terms,\n(b)\nit has been withdrawn by the body that issued it, or\n(c)\nit is required to be ignored by reason of provision included in the supplementary code as a result of section 29(9)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s37",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

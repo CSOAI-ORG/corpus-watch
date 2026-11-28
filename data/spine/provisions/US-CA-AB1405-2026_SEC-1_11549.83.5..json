@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB1405-2026:SEC-1:11549.83.5.",
+ "label": "US-CA-AB1405-2026 SECTION 1. / 11549.83.5.",
+ "instrument": "US-CA-AB1405-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "1c88a5d787f5f5ed7de971456e39995cca9e000c078ecdebf5442d21ede013f0",
+ "sha256_v1": "",
+ "sha256_v2": "1c88a5d787f5f5ed7de971456e39995cca9e000c078ecdebf5442d21ede013f0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "1c88a5d787f5f5ed7de971456e39995cca9e000c078ecdebf5442d21ede013f0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB1405-2026:SEC-1:11549.83.5./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The registration number of a registered AI auditor shall be clearly and conspicuously displayed on all advertising materials offering or soliciting covered AI audit services."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB1405-2026:SEC-1:11549.83.5.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

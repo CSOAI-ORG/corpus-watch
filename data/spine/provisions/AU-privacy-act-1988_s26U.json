@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s26U",
+ "label": "AU-privacy-act-1988 Section 26U",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "bbf9d027cde8be355039e5d3a37cc995ab32a7e69d57bce5d81e9e7784cac26d",
+ "sha256_v1": "",
+ "sha256_v2": "bbf9d027cde8be355039e5d3a37cc995ab32a7e69d57bce5d81e9e7784cac26d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "bbf9d027cde8be355039e5d3a37cc995ab32a7e69d57bce5d81e9e7784cac26d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s26U/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "26U  Codes Register\n(1)\tThe Commissioner must keep a register (the Codes Register) which includes:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s26U/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(a)\tthe APP codes the Commissioner has decided to register under section 26H; and\n(b)\tthe APP codes the Commissioner must register under section 26J; and\n(c)\tthe CR code the Commissioner has decided to register under section 26S; and\n(d)\tthe CR code the Commissioner must register under section 26T."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s26U/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(3)\tThe Commissioner must make the Codes Register available on the Commissioner’s website."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s26U",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

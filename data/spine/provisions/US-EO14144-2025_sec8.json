@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14144-2025:sec8",
+ "label": "US-EO14144-2025 Sec. 8",
+ "instrument": "US-EO14144-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "425a7a612fb0b4cb3c5f1843d6c29fbea624add2954de01dc2f8099fddb75dae",
+ "sha256_v1": "",
+ "sha256_v2": "425a7a612fb0b4cb3c5f1843d6c29fbea624add2954de01dc2f8099fddb75dae",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "425a7a612fb0b4cb3c5f1843d6c29fbea624add2954de01dc2f8099fddb75dae",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14144-2025:sec8/p8/s2",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) Within 90 days of the date of this order, to help ensure that NSS and debilitating impact systems are protected with the most advanced security measures, the Secretary of Defense, acting through the Director of NSA as the National Manager for National Security Systems (National Manager), in coordination with the Director of National Intelligence and the Committee on National Security Systems (CNSS), and in consultation with the Director of OMB and the Assistant to the President for National Security Affairs (APNSA), shall develop requirements for NSS and debilitating impact systems that are consistent with the requirements set forth in this order, as appropriate and consistent with appli"
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec8/p8/s3",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such requirements shall be incorporated into a proposed National Security Memorandum, to be submitted to the President through the APNSA."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec8/p8/s4",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) To help protect space NSS with cybersecurity measures that keep pace with emerging threats, within 210 days of the date of this order, the CNSS shall review and update, as appropriate, relevant policies and guidance regarding space system cybersecurity."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec8/p8/s5",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In addition to appropriate updates, the CNSS shall identify and address appropriate requirements to implement cyber defenses on Federal Government-procured space NSS in the areas of intrusion detection, use of hardware roots of trust for secure booting, and development and deployment of security patches."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec8/p8/s6",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d) To enhance the effective governance and oversight of Federal information systems, within 90 days of the date of this order, the Director of OMB shall issue guidance as appropriate requiring agencies to inventory all major information systems and provide the inventory to CISA, the Department of Defense, or the National Manager, as applicable, which shall each maintain a registry of agency inventories within their purview."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14144-2025:sec8",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

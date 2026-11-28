@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-12CFR1002-RegB-1977:appx-Appendix-A-to-Part-1002",
+ "label": "US-12CFR1002-RegB-1977 Appendix A to Part 1002—Federal Agencies To Be Listed in Adverse Action Notices",
+ "instrument": "US-12CFR1002-RegB-1977",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f5d313ece12e640046e3d4a9e1629b211efd5b5679bf055634f129b6bba1207b",
+ "sha256_v1": "",
+ "sha256_v2": "f5d313ece12e640046e3d4a9e1629b211efd5b5679bf055634f129b6bba1207b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f5d313ece12e640046e3d4a9e1629b211efd5b5679bf055634f129b6bba1207b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:appx-Appendix-A-to-Part-1002/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Terms that are not defined in the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in the International Banking Act of 1978 (12 U.S.C. 3101)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-12CFR1002-RegB-1977:appx-Appendix-A-to-Part-1002",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

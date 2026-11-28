@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-genai-interim-measures-2023:7",
+ "label": "CN-genai-interim-measures-2023 第七条",
+ "instrument": "CN-genai-interim-measures-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "345f483fe84f29ffb78ab4e1e52f1e55ab7a5eb77562488c698ccc87b54518a1",
+ "sha256_v1": "",
+ "sha256_v2": "345f483fe84f29ffb78ab4e1e52f1e55ab7a5eb77562488c698ccc87b54518a1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "345f483fe84f29ffb78ab4e1e52f1e55ab7a5eb77562488c698ccc87b54518a1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-genai-interim-measures-2023:7/s1",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "第七条 生成式人工智能服务提供者（以下称提供者）应当依法开展预训练、优化训练等训练数据处理活动，遵守以下规定："
+  },
+  {
+   "obligation_id": "CN-genai-interim-measures-2023:7/s3",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "（二）涉及知识产权的，不得侵害他人依法享有的知识产权；"
+  },
+  {
+   "obligation_id": "CN-genai-interim-measures-2023:7/s4",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "（三）涉及个人信息的，应当取得个人同意或者符合法律、行政法规规定的其他情形；"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-genai-interim-measures-2023:7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-NIST-AI100-2E2025-2025:2.2.1",
+ "label": "US-NIST-AI100-2E2025-2025 2.2.1",
+ "instrument": "US-NIST-AI100-2E2025-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "93453034e7bacd23209771a5b12f4e004636d5ae4f2369bc94fbf60ac71f05e0",
+ "sha256_v1": "",
+ "sha256_v2": "93453034e7bacd23209771a5b12f4e004636d5ae4f2369bc94fbf60ac71f05e0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 14,
+ "sha256_current": "93453034e7bacd23209771a5b12f4e004636d5ae4f2369bc94fbf60ac71f05e0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-NIST-AI100-2E2025-2025:2.2.1/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In cybersecurity applications, adversarial examples must respect the\nconstraints imposed by the application semantics and feature representation of cy­\nber data, such as network traffic or program binaries."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-NIST-AI100-2E2025-2025:2.2.1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

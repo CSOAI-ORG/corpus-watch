@@ -1,0 +1,88 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022R2554:29",
+ "label": "DORA Art. 29",
+ "instrument": "DORA",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "f1ff90045cb97c21d212bc451612de26bbb41ac7cbd75ebf7c5f3ba3736ba133",
+ "sha256_v1": "f1ff90045cb97c21d212bc451612de26bbb41ac7cbd75ebf7c5f3ba3736ba133",
+ "sha256_v2": "c92b81bfb8e0ac3e872da731f0fa85331e36b066f9b0c5c0db72ee0878b822cd",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "c92b81bfb8e0ac3e872da731f0fa85331e36b066f9b0c5c0db72ee0878b822cd",
+ "agent_register_kinds": [
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022R2554:29/p1/s1",
+   "paragraph": "1",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "When performing the identification and assessment of risks referred to in Article 28(4), point (c), financial entities shall also take into account whether the envisaged conclusion of a contractual arrangement in relation to ICT services supporting critical or important functions would lead to any of the following:"
+  },
+  {
+   "obligation_id": "32022R2554:29/p1/s2",
+   "paragraph": "1",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Financial entities shall weigh the benefits and costs of alternative solutions, such as the use of different ICT third-party service providers, taking into account if and how envisaged solutions match the business needs and objectives set out in their digital resilience strategy."
+  },
+  {
+   "obligation_id": "32022R2554:29/p2/s1",
+   "paragraph": "2",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the contractual arrangements on the use of ICT services supporting critical or important functions include the possibility that an ICT third-party service provider further subcontracts ICT services supporting a critical or important function to other ICT third-party service providers, financial entities shall weigh benefits and risks that may arise in connection with such subcontracting, in particular in the case of an ICT subcontractor established in a third-country."
+  },
+  {
+   "obligation_id": "32022R2554:29/p2/s2",
+   "paragraph": "2",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where contractual arrangements concern ICT services supporting critical or important functions, financial entities shall duly consider the insolvency law provisions that would apply in the event of the ICT third-party service provider’s bankruptcy as well as any constraint that may arise in respect to the urgent recovery of the financial entity’s data."
+  },
+  {
+   "obligation_id": "32022R2554:29/p2/s3",
+   "paragraph": "2",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where contractual arrangements on the use of ICT services supporting critical or important functions are concluded with an ICT third-party service provider established in a third country, financial entities shall, in addition to the considerations referred to in the second subparagraph, also consider the compliance with Union data protection rules and the effective enforcement of the law in that third country."
+  },
+  {
+   "obligation_id": "32022R2554:29/p2/s4",
+   "paragraph": "2",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the contractual arrangements on the use of ICT services supporting critical or important functions provide for subcontracting, financial entities shall assess whether and how potentially long or complex chains of subcontracting may impact their ability to fully monitor the contracted functions and the ability of the competent authority to effectively supervise the financial entity in that respect."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022R2554:29",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

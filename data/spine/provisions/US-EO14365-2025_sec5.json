@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14365-2025:sec5",
+ "label": "US-EO14365-2025 Section 5",
+ "instrument": "US-EO14365-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6d30e03e379346390045d83abdd2823194af36a4d711976039d7a62277471bcd",
+ "sha256_v1": "",
+ "sha256_v2": "6d30e03e379346390045d83abdd2823194af36a4d711976039d7a62277471bcd",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "6d30e03e379346390045d83abdd2823194af36a4d711976039d7a62277471bcd",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14365-2025:sec5/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) Within 90 days of the date of this order, the Secretary of Commerce, through the Assistant Secretary of Commerce for Communications and Information, shall issue a Policy Notice specifying the conditions under which States may be eligible for remaining funding under the Broadband Equity Access and Deployment (BEAD) Program that was saved through my Administration's ``Benefit of the Bargain'' reforms, consistent with 47 U.S.C. 1702(e)-(f)."
+  },
+  {
+   "obligation_id": "US-EO14365-2025:sec5/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That Policy Notice must provide that States with onerous AI laws identified pursuant to section 4 of this order are ineligible for non- deployment funds, to the maximum extent allowed by Federal law."
+  },
+  {
+   "obligation_id": "US-EO14365-2025:sec5/p5/s3",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Policy Notice must also describe how a fragmented State regulatory landscape for AI threatens to undermine BEAD-funded deployments, the growth of AI applications reliant on high-speed networks, and BEAD's mission of delivering universal, high-speed connectivity."
+  },
+  {
+   "obligation_id": "US-EO14365-2025:sec5/p5/s4",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) Executive departments and agencies (agencies) shall assess their discretionary grant programs in consultation with the Special Advisor for AI and Crypto and determine whether agencies may condition such grants on States either not enacting an AI law that conflicts with the policy of this order, including any AI law identified pursuant to section 4 or challenged pursuant to section 3 of this order, or, for those States that have enacted such laws, on those States entering into a binding agreement with the relevant agency not to enforce any such laws during the performance period in which it receives the discretionary funding."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14365-2025:sec5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

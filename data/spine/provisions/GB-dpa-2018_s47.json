@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s47",
+ "label": "GB-dpa-2018 Section 47",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5dd4bccc0828c11b5fda1c24ae5a242f8054153c94510ad6efaf158a8fe57640",
+ "sha256_v1": "",
+ "sha256_v2": "5dd4bccc0828c11b5fda1c24ae5a242f8054153c94510ad6efaf158a8fe57640",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "5dd4bccc0828c11b5fda1c24ae5a242f8054153c94510ad6efaf158a8fe57640",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s47/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Right to erasure or restriction of processing\n(1)\nThe controller must erase personal data without undue delay where—\n(a)\nthe processing of the personal data would infringe section 35, 36(1) to (3), 37, 38(1), 39(1), 40, 41 or 42, or\n(b)\nthe controller has a legal obligation to erase the data."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s47/p0/s2",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nWhere the controller would be required to erase personal data under subsection (1) but the personal data must be maintained for the purposes of evidence, the controller must (instead of erasing the personal data) restrict its processing."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s47/p0/s3",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nWhere a data subject contests the accuracy of personal data (whether in making a request under this section or section 46 or in any other way), but it is not possible to ascertain whether it is accurate or not, the controller must restrict its processing."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s47",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

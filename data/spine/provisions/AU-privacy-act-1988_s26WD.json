@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s26WD",
+ "label": "AU-privacy-act-1988 Section 26WD",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b1c7347da75dbfb7172eac1afeb39981920530b2eb811b299c90e8152032eb1f",
+ "sha256_v1": "",
+ "sha256_v2": "b1c7347da75dbfb7172eac1afeb39981920530b2eb811b299c90e8152032eb1f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "b1c7347da75dbfb7172eac1afeb39981920530b2eb811b299c90e8152032eb1f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s26WD/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\tan unauthorised access to information; or\n(b)\tan unauthorised disclosure of information; or\n(c)\ta loss of information;\nhas been, or is required to be, notified under section 75 of the My Health Records Act 2012, this Part does not apply in relation to the access, disclosure or loss."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s26WD",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

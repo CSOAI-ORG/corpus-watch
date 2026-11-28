@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-machinery-2023:2",
+ "label": "EU-machinery-2023 Article 2",
+ "instrument": "EU-machinery-2023",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "8ce686e22ea8d9451cb4c7b68c25fa888bdc07e9f5697a3a7c9589784956fd7f",
+ "sha256_v1": "",
+ "sha256_v2": "8ce686e22ea8d9451cb4c7b68c25fa888bdc07e9f5697a3a7c9589784956fd7f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8ce686e22ea8d9451cb4c7b68c25fa888bdc07e9f5697a3a7c9589784956fd7f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-machinery-2023:2/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:scope",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-machinery-2023:2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

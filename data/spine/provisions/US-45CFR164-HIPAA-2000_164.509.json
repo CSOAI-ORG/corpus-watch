@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-45CFR164-HIPAA-2000:164.509",
+ "label": "US-45CFR164-HIPAA-2000 45 CFR 164.509",
+ "instrument": "US-45CFR164-HIPAA-2000",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "cb910e9614562477093b25fee197bc954bc65bab41148cd2848c7e6f0b2f374a",
+ "sha256_v1": "",
+ "sha256_v2": "cb910e9614562477093b25fee197bc954bc65bab41148cd2848c7e6f0b2f374a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "cb910e9614562477093b25fee197bc954bc65bab41148cd2848c7e6f0b2f374a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.509/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A valid attestation under this section must contain the following elements:"
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.509/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the attestation is signed by a representative of the person requesting the information, a description of such representative's authority to act for the person must also be provided."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.509/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The attestation must be written in plain language."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.509/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If, during the course of using or disclosing protected health information in reasonable reliance on a facially valid attestation, a covered entity or business associate discovers information reasonably showing that any representation made in the attestation was materially false, leading to a use or disclosure for a purpose prohibited under § 164.502(a)(5)(iii), the covered entity or business associate must cease such use or disclosure. [89 FR 33063, Apr. 26, 2024]"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-45CFR164-HIPAA-2000:164.509",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

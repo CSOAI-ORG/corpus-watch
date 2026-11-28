@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s74",
+ "label": "AU-privacy-act-1988 Section 74",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "d24311ac301c660cf2c2975e3f692c1931de72f38c73a703fa46ae51e111c6fd",
+ "sha256_v1": "",
+ "sha256_v2": "d24311ac301c660cf2c2975e3f692c1931de72f38c73a703fa46ae51e111c6fd",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "d24311ac301c660cf2c2975e3f692c1931de72f38c73a703fa46ae51e111c6fd",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s74/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(1)\tSubject to subsection (2), the Commissioner shall publish, in such manner as he or she thinks fit, notice of:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s74/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\tThe Commissioner shall not, except with the consent of the agency, permit the disclosure to another body or person of information contained in a document provided by an agency as part of, or in support of, an application if the agency has informed the Commissioner in writing that the agency claims that the document is an exempt document within the meaning of Part IV of the Freedom of Information Act 1982."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s74",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

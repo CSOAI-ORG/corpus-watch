@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB354-2026:SEC-2:791.37.",
+ "label": "US-CA-SB354-2026 SEC. 2. / 791.37.",
+ "instrument": "US-CA-SB354-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "1f0c18b671c76121dc7045adad5b744b0406034b7a689839c3975746107376f3",
+ "sha256_v1": "",
+ "sha256_v2": "1f0c18b671c76121dc7045adad5b744b0406034b7a689839c3975746107376f3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "1f0c18b671c76121dc7045adad5b744b0406034b7a689839c3975746107376f3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.37./p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "(a)Notwithstanding any other law, a licensee, surplus line insurer, reinsurer, or third-party service provider shall maintain sufficient evidence in its records of compliance with this article for the calendar year in which the activities governed by this article occurred and the five calendar years thereafter."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.37./p0/s2",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "(b)A licensee, surplus line insurer, reinsurer, or third-party service provider shall maintain all records necessary for compliance with this article, including all of the following:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB354-2026:SEC-2:791.37.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

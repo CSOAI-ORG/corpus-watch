@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-ai-content-labelling-measures-2025:11",
+ "label": "CN-ai-content-labelling-measures-2025 第十一条",
+ "instrument": "CN-ai-content-labelling-measures-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "8547ea583d71f9acda57be210cc8d1cf86b851f1d2dcfe3765df724620de7ce0",
+ "sha256_v1": "",
+ "sha256_v2": "8547ea583d71f9acda57be210cc8d1cf86b851f1d2dcfe3765df724620de7ce0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "8547ea583d71f9acda57be210cc8d1cf86b851f1d2dcfe3765df724620de7ce0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-ai-content-labelling-measures-2025:11/s1",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "zh:public-trace",
+   "status": "DRAFT",
+   "text": "第十一条 服务提供者开展标识活动的，还应当符合相关法律、行政法规、部门规章和强制性国家标准的要求。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-ai-content-labelling-measures-2025:11",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

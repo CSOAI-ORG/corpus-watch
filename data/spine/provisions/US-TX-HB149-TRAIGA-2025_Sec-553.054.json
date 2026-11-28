@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-TX-HB149-TRAIGA-2025:Sec-553.054",
+ "label": "US-TX-HB149-TRAIGA-2025 Sec. 553.054",
+ "instrument": "US-TX-HB149-TRAIGA-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "019a038cfba9c9e3aa9c497d512a1686484e8c6ab2dd907aa6040630d0971842",
+ "sha256_v1": "",
+ "sha256_v2": "019a038cfba9c9e3aa9c497d512a1686484e8c6ab2dd907aa6040630d0971842",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "019a038cfba9c9e3aa9c497d512a1686484e8c6ab2dd907aa6040630d0971842",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-TX-HB149-TRAIGA-2025:Sec-553.054/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The department shall coordinate the activities under this subchapter and any other law relating to artificial intelligence systems to ensure efficient system implementation and to streamline the use of department resources, including information sharing and personnel."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-TX-HB149-TRAIGA-2025:Sec-553.054",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

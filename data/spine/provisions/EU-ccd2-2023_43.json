@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:43",
+ "label": "EU-ccd2-2023 Article 43",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "e9d3c8f83b1f27e83b65083c59c89ab4a546d32669121088cc98e1827f16e84c",
+ "sha256_v1": "",
+ "sha256_v2": "e9d3c8f83b1f27e83b65083c59c89ab4a546d32669121088cc98e1827f16e84c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "e9d3c8f83b1f27e83b65083c59c89ab4a546d32669121088cc98e1827f16e84c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:43/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that consumers may not waive the rights conferred on them by the national measures transposing this Directive."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:43/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that the provisions adopted in order to transpose this Directive cannot be circumvented as a result of the way in which agreements are formulated."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:43",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

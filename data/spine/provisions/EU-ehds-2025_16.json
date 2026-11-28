@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:16",
+ "label": "EU-ehds-2025 Article 16",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7fceb9c0bbc9fc9131ae92d965d593e5d095f9222c7a14835f388ff76a0dbbe6",
+ "sha256_v1": "",
+ "sha256_v2": "7fceb9c0bbc9fc9131ae92d965d593e5d095f9222c7a14835f388ff76a0dbbe6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "7fceb9c0bbc9fc9131ae92d965d593e5d095f9222c7a14835f388ff76a0dbbe6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:16/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where natural persons use electronic health data access services referred to in Article 4, those natural persons shall have the right to identify themselves electronically using any electronic identification means which are recognised pursuant to Article 6 of Regulation (EU) No 910/2014."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:16/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall, by means of implementing acts, determine the requirements for the interoperable, cross-border identification and authentication mechanism for natural persons and health professionals, in accordance with Regulation (EU) No 910/2014."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:16/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That mechanism shall facilitate the transferability of personal electronic health data in a cross-border context."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:16/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 98(2)."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:16/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission, in cooperation with Member States, shall implement services required by the interoperable, cross-border identification and authentication mechanism referred to in paragraph 2 of this Article at Union level, as part of the cross-border infrastructure referred to in Article 23."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:16/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Member States’ competent authorities and the Commission shall implement the interoperable, cross-border identification and authentication mechanism at Member State and Union level, respectively."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:16",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

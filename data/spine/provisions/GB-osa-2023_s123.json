@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s123",
+ "label": "GB-osa-2023 Section 123",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5bf58741010ead46cedd7b0a3055983d2c259fa0611e5847e79f23cff0e7e32c",
+ "sha256_v1": "",
+ "sha256_v2": "5bf58741010ead46cedd7b0a3055983d2c259fa0611e5847e79f23cff0e7e32c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "5bf58741010ead46cedd7b0a3055983d2c259fa0611e5847e79f23cff0e7e32c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s123/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nA warning notice under subsection (1) relating to the use of accredited technology (see section 121(2)(a) and (3)(a)) must—\n(a)\ncontain a summary of the report obtained by OFCOM under section 122,\n(b)\ncontain details of the technology that OFCOM are considering requiring the provider to use,\n(c)\nspecify whether the technology is to be required in relation to terrorism content or CSEA content (or both),\n(d)\nspecify any other requirements that OFCOM are considering imposing (see section 125(2) to (4)),\n(e)\nspecify the period for which OFCOM are considering imposing the requirements (see section 125(7)),\n(f)\nstate that the provider may make representations to OFCOM (with any supporting evid"
+  },
+  {
+   "obligation_id": "GB-osa-2023:s123/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nA warning notice under subsection (1) relating to the development or sourcing of technology (see section 121(2)(b)and (3)(b)) must—\n(a)\ncontain a summary of the report obtained by OFCOM under section 122,\n(b)\ndescribe the proposed purpose for which the technology must be developed or sourced (see section 121(2)(a)(iii) and (iv) and (3)(a)(ii)),\n(c)\nspecify steps that OFCOM consider the provider needs to take in order to comply with the requirement described in section 121(2)(b) or (3)(b), or both those requirements (as the case may be),\n(d)\nspecify the proposed period within which the provider must take each of those steps,\n(e)\nspecify any other requirements that OFCOM are considering im"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s123",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

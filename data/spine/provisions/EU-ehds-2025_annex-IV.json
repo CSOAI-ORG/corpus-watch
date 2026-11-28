@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:annex-IV",
+ "label": "EU-ehds-2025 Annex IV",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8da2e558bf864f02a00162356934b7fb6ab3295c525918463acdf7351bd84a37",
+ "sha256_v1": "",
+ "sha256_v2": "8da2e558bf864f02a00162356934b7fb6ab3295c525918463acdf7351bd84a37",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "8da2e558bf864f02a00162356934b7fb6ab3295c525918463acdf7351bd84a37",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:annex-IV/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ANNEX IV\nEU declaration of conformity\nThe EU declaration of conformity for the harmonised software components of an EHR system shall contain all of the following information:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:annex-IV",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

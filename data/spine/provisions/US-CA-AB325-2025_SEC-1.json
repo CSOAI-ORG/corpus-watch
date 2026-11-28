@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB325-2025:SEC-1",
+ "label": "US-CA-AB325-2025 SECTION 1.",
+ "instrument": "US-CA-AB325-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ad6426a5ac8255a7be8d878f963b4e8b61ea0a1130f156f7662922052c18b58c",
+ "sha256_v1": "",
+ "sha256_v2": "ad6426a5ac8255a7be8d878f963b4e8b61ea0a1130f156f7662922052c18b58c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "ad6426a5ac8255a7be8d878f963b4e8b61ea0a1130f156f7662922052c18b58c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB325-2025:SEC-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)It shall be unlawful for a person to use or distribute a common pricing algorithm as part of a contract, combination in the form of a trust, or conspiracy to restrain trade or commerce in violation of this chapter."
+  },
+  {
+   "obligation_id": "US-CA-AB325-2025:SEC-1/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)It shall be unlawful for a person to use or distribute a common pricing algorithm if the person coerces another person to set or adopt a recommended price or commercial term recommended by the common pricing algorithm for the same or similar products or services in the jurisdiction of this state."
+  },
+  {
+   "obligation_id": "US-CA-AB325-2025:SEC-1/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)Nothing in this section shall impair or limit the applicability of antitrust laws."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB325-2025:SEC-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

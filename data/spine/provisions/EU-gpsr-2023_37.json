@@ -1,0 +1,136 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-gpsr-2023:37",
+ "label": "EU-gpsr-2023 Article 37",
+ "instrument": "EU-gpsr-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7697ef7ff453b610f484f0bfb7630df69f02b8af43c70b4b4516e0a24da8ab02",
+ "sha256_v1": "",
+ "sha256_v2": "7697ef7ff453b610f484f0bfb7630df69f02b8af43c70b4b4516e0a24da8ab02",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "7697ef7ff453b610f484f0bfb7630df69f02b8af43c70b4b4516e0a24da8ab02",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-gpsr-2023:37/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Without prejudice to Directives (EU) 2019/770 and (EU) 2019/771, in the case of a product safety recall initiated by an economic operator or ordered by a national competent authority, the economic operator responsible for the product safety recall shall offer the consumer an effective, cost-free and timely remedy."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:37/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Without prejudice to any other remedies that the economic operator responsible for the recall may offer the consumer, the economic operator shall offer the consumer the choice between at least two of the following remedies:"
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:37/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)\na replacement of the recalled product with a safe one of the same type and at least the same value and quality; or\n(c)\nan adequate refund of the value of the recalled product, provided that the amount of the refund shall be at least equal to the price paid by the consumer."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:37/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The consumer shall always be entitled to a refund of the product when the economic operator responsible for the product safety recall has not completed the repair or replacement within a reasonable time and without significant inconvenience to the consumer."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:37/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Repair by a consumer shall only be considered an effective remedy where it can be carried out easily and safely by the consumer and where envisaged in the recall notice."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:37/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In such cases, the economic operator responsible for the product safety recall shall provide consumers with the necessary instructions, free replacement parts or software updates."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:37/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Repair by a consumer shall not deprive the consumer of the rights provided for in Directives (EU) 2019/770 and (EU) 2019/771."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:37/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Disposal of the product by consumers shall only be included in the actions to be taken by consumers under Article 36(2), point (d) where such disposal can be carried out easily and safely by the consumer, and shall not affect the right of the consumer to receive a refund for or replacement of the recalled product under paragraph 1 of this Article."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:37/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The remedy shall not entail significant inconvenience for the consumer."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:37/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The consumer shall not bear the costs of shipping or otherwise returning the product."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:37/p5/s3",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For products that by their nature are not portable, the economic operator shall arrange for the collection of the product."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-gpsr-2023:37",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14144-2025:sec9",
+ "label": "US-EO14144-2025 Sec. 9",
+ "instrument": "US-EO14144-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f1d774b8b560d87b2f960446331261c93b73faf524d12348a5ce4f5ed098cdc3",
+ "sha256_v1": "",
+ "sha256_v2": "f1d774b8b560d87b2f960446331261c93b73faf524d12348a5ce4f5ed098cdc3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "f1d774b8b560d87b2f960446331261c93b73faf524d12348a5ce4f5ed098cdc3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14144-2025:sec9/p9/s1",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Because I find that additional steps must be taken to deal with the national emergency with respect to significant malicious cyber-enabled activities declared in Executive Order 13694 of April 1, 2015 (Blocking the Property of Certain Persons Engaging in Significant Malicious Cyber-Enabled Activities), as amended by Executive Order 13757 of December 28, 2016 (Taking Additional Steps to Address the National Emergency With Respect to Significant Malicious Cyber-Enabled Activities), and further amended by Executive Order 13984 of January 19, 2021 (Taking Additional Steps to Address the National Emergency With Respect to Significant Malicious Cyber-Enabled Activities), to protect against the gro"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14144-2025:sec9",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

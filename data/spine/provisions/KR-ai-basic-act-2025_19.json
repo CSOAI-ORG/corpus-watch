@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-ai-basic-act-2025:19",
+ "label": "KR-ai-basic-act-2025 제19조",
+ "instrument": "KR-ai-basic-act-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "50fb3bbb769f8fd29b978d9d2d24f369159bc27c222f0a7225ec742c733e372a",
+ "sha256_v1": "",
+ "sha256_v2": "50fb3bbb769f8fd29b978d9d2d24f369159bc27c222f0a7225ec742c733e372a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "50fb3bbb769f8fd29b978d9d2d24f369159bc27c222f0a7225ec742c733e372a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-ai-basic-act-2025:19/s1",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "제19조(인공지능 융합의 촉진) ① 정부는 인공지능산업과 그 밖의 산업 간 융합을 촉진하고 전 분야에서 인공지능 활용을 활성화하기 위하여 필요한 시책을 수립하여 추진하여야 한다."
+  },
+  {
+   "obligation_id": "KR-ai-basic-act-2025:19/s3",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "③ 정부는 제2항에 따라 개발된 인공지능 융합 제품 및 서비스에 대하여는 「정보통신 진흥 및 융합 활성화 등에 관한 특별법」 제37조에 따른 임시허가 및 같은 법 제38조의2에 따른 실증을 위한 규제특례가 원활히 시행될 수 있도록 적극 지원하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-ai-basic-act-2025:19",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

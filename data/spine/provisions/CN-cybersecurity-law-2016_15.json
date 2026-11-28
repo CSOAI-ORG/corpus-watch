@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-cybersecurity-law-2016:15",
+ "label": "CN-cybersecurity-law-2016 第十五条",
+ "instrument": "CN-cybersecurity-law-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "75f24dc30763409be3ea68a70366eabad7d3646dec8221af7f796ea9c3ff7f8a",
+ "sha256_v1": "",
+ "sha256_v2": "75f24dc30763409be3ea68a70366eabad7d3646dec8221af7f796ea9c3ff7f8a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "75f24dc30763409be3ea68a70366eabad7d3646dec8221af7f796ea9c3ff7f8a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-cybersecurity-law-2016:15/s2",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "收到举报的部门应当及时依法作出处理；"
+  },
+  {
+   "obligation_id": "CN-cybersecurity-law-2016:15/s3",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "不属于本部门职责的，应当及时移送有权处理的部门。"
+  },
+  {
+   "obligation_id": "CN-cybersecurity-law-2016:15/s4",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "有关部门应当对举报人的相关信息予以保密，保护举报人的合法权益。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-cybersecurity-law-2016:15",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

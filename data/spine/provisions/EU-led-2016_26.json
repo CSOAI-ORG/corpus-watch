@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-led-2016:26",
+ "label": "EU-led-2016 Article 26",
+ "instrument": "EU-led-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "455a292b01763ef9ca567980af4c5a5b50e5868bbaf990434068f573f6a315a2",
+ "sha256_v1": "",
+ "sha256_v2": "455a292b01763ef9ca567980af4c5a5b50e5868bbaf990434068f573f6a315a2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "455a292b01763ef9ca567980af4c5a5b50e5868bbaf990434068f573f6a315a2",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-led-2016:26/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Cooperation with the supervisory authority\nMember States shall provide for the controller and the processor to cooperate, on request, with the supervisory authority in the performance of its tasks on request."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-led-2016:26",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

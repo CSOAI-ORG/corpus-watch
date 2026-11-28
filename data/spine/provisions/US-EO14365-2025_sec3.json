@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14365-2025:sec3",
+ "label": "US-EO14365-2025 Section 3",
+ "instrument": "US-EO14365-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "9afa868143a48cb924765fa8fe7cde994e7c6eb7e1a66a7185dfc2880cc565c6",
+ "sha256_v1": "",
+ "sha256_v2": "9afa868143a48cb924765fa8fe7cde994e7c6eb7e1a66a7185dfc2880cc565c6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "9afa868143a48cb924765fa8fe7cde994e7c6eb7e1a66a7185dfc2880cc565c6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14365-2025:sec3/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Within 30 days of the date of this order, the Attorney General shall establish an AI Litigation Task Force (Task Force) whose sole responsibility shall be to challenge State AI laws inconsistent with the policy set forth in section 2 of this order, including on grounds that such laws unconstitutionally regulate interstate commerce, are preempted by existing Federal regulations, or are otherwise unlawful in the Attorney General's judgment, including, if appropriate, those laws identified pursuant to section 4 of this order."
+  },
+  {
+   "obligation_id": "US-EO14365-2025:sec3/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Task Force shall consult from time to time with the Special Advisor for AI and Crypto, the Assistant to the President for Science and Technology, the Assistant to the President for Economic Policy, and the Assistant to the President and Counsel to the President regarding the emergence of specific State AI laws that warrant challenge."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14365-2025:sec3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

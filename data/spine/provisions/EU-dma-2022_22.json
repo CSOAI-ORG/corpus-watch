@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:22",
+ "label": "EU-dma-2022 Article 22",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "1250beeb0a24fd7b01d9cd57a8554c1de95eb07d4b94686a31fce1deecda1f63",
+ "sha256_v1": "",
+ "sha256_v2": "1250beeb0a24fd7b01d9cd57a8554c1de95eb07d4b94686a31fce1deecda1f63",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "1250beeb0a24fd7b01d9cd57a8554c1de95eb07d4b94686a31fce1deecda1f63",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:22/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall be entitled to record such interviews by any technical means."
+  },
+  {
+   "obligation_id": "EU-dma-2022:22/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where an interview pursuant to paragraph 1 of this Article is conducted on the premises of an undertaking, the Commission shall inform the national competent authority of the Member State that is enforcing the rules referred to in Article 1(6) and in whose territory the interview takes place thereof."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:22",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022L2555:5",
+ "label": "NIS2 Directive Art. 5",
+ "instrument": "NIS2 Directive",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9938d2fa37f0fd0d76125519b19355b27058310da686b415a38de677d104a389",
+ "sha256_v1": "9938d2fa37f0fd0d76125519b19355b27058310da686b415a38de677d104a389",
+ "sha256_v2": "92a9435e9d274afb487566ab13c11e7407af1d251c23270217197b55b9fa8ed3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "92a9435e9d274afb487566ab13c11e7407af1d251c23270217197b55b9fa8ed3",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022L2555:5/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Article 5 Minimum harmonisation This Directive shall not preclude Member States from adopting or maintaining provisions ensuring a higher level of cybersecurity, provided that such provisions are consistent with Member States’ obligations laid down in Union law."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022L2555:5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

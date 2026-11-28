@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-mhra-software-ai-medical-device-guidance:artificial-intelligence",
+ "label": "GB-mhra-software-ai-medical-device-guidance section artificial-intelligence",
+ "instrument": "GB-mhra-software-ai-medical-device-guidance",
+ "ladder": "HASH_ONLY",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "6c1dde9b0b803fe11ff77f4a769fbf58098ffebfed33f3552d9b27cf1ff55087",
+ "sha256_v1": "",
+ "sha256_v2": "",
+ "source_state": "UNKNOWN",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-mhra-software-ai-medical-device-guidance:artificial-intelligence/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-mhra-software-ai-medical-device-guidance:artificial-intelligence",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

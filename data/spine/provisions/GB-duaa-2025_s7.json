@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s7",
+ "label": "GB-duaa-2025 Section 7",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8770f9d6838a2ceaad367fae7a0cc3f5f4dfc9045b1e8897eb836e19d54c22e2",
+ "sha256_v1": "",
+ "sha256_v2": "8770f9d6838a2ceaad367fae7a0cc3f5f4dfc9045b1e8897eb836e19d54c22e2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8770f9d6838a2ceaad367fae7a0cc3f5f4dfc9045b1e8897eb836e19d54c22e2",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s7/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nIn relation to an interface body (whether or not it is required to be set up by regulations under section 2 or 4), the regulations may—\n(a)\nmake provision about the body’s composition and governance;"
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s7/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)\nimpose other requirements relating to the body on a person who is required to set it up or to provide, or arrange for, assistance for the body;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

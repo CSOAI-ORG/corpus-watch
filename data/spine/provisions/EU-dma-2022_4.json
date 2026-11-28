@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:4",
+ "label": "EU-dma-2022 Article 4",
+ "instrument": "EU-dma-2022",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "318b6b7c20c86eab17ce381c09c1845bfd2e982ad92b6b81bb517a6022326d70",
+ "sha256_v1": "",
+ "sha256_v2": "318b6b7c20c86eab17ce381c09c1845bfd2e982ad92b6b81bb517a6022326d70",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "318b6b7c20c86eab17ce381c09c1845bfd2e982ad92b6b81bb517a6022326d70",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:4/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:review",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

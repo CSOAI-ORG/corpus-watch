@@ -1,0 +1,109 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:49",
+ "label": "GDPR Art. 49",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "1267f259557231d751ab1f36fc112b7b010b4bd4931448c7c4bae204fb5ab0ea",
+ "sha256_v1": "1267f259557231d751ab1f36fc112b7b010b4bd4931448c7c4bae204fb5ab0ea",
+ "sha256_v2": "210de976a191e7b077dd73e3e59c1a2e824117138788b12974f04c97798e9c2c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "210de976a191e7b077dd73e3e59c1a2e824117138788b12974f04c97798e9c2c",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:49/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the absence of an adequacy decision pursuant to Article 45(3), or of appropriate safeguards pursuant to Article 46, including binding corporate rules, a transfer or a set of transfers of personal data to a third country or an international organisation shall take place only on one of the following conditions:"
+  },
+  {
+   "obligation_id": "32016R0679:49/p1/s2",
+   "paragraph": "1",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller shall inform the supervisory authority of the transfer."
+  },
+  {
+   "obligation_id": "32016R0679:49/p1/s3",
+   "paragraph": "1",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "The controller shall, in addition to providing the information referred to in Articles 13 and 14, inform the data subject of the transfer and on the compelling legitimate interests pursued."
+  },
+  {
+   "obligation_id": "32016R0679:49/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A transfer pursuant to point (g) of the first subparagraph of paragraph 1 shall not involve the entirety of the personal data or entire categories of the personal data contained in the register."
+  },
+  {
+   "obligation_id": "32016R0679:49/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the register is intended for consultation by persons having a legitimate interest, the transfer shall be made only at the request of those persons or if they are to be the recipients."
+  },
+  {
+   "obligation_id": "32016R0679:49/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The public interest referred to in point (d) of the first subparagraph of paragraph 1 shall be recognised in Union law or in the law of the Member State to which the controller is subject."
+  },
+  {
+   "obligation_id": "32016R0679:49/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall notify such provisions to the Commission."
+  },
+  {
+   "obligation_id": "32016R0679:49/p6/s1",
+   "paragraph": "6",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "The controller or processor shall document the assessment as well as the suitable safeguards referred to in the second subparagraph of paragraph 1 of this Article in the records referred to in Article 30."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:49",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

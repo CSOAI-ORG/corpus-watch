@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:25",
+ "label": "EU-ehds-2025 Article 25",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "661cf5b08da8f21e375f521ddc7c372ffb3dff64f02061558284c56ac33b95da",
+ "sha256_v1": "",
+ "sha256_v2": "661cf5b08da8f21e375f521ddc7c372ffb3dff64f02061558284c56ac33b95da",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "661cf5b08da8f21e375f521ddc7c372ffb3dff64f02061558284c56ac33b95da",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:25/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "EHR systems shall include a European interoperability software component for EHR systems and a European logging software component for EHR systems (the ‘harmonised software components of EHR systems’), in accordance with the provisions laid down in this Chapter."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:25",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

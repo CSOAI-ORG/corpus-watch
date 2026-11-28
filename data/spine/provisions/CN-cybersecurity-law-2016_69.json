@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-cybersecurity-law-2016:69",
+ "label": "CN-cybersecurity-law-2016 第六十九条",
+ "instrument": "CN-cybersecurity-law-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "8dc672f2cd7930189b3ca910ca073e5990eb01efa87a1ff82929ba3f2e3881c4",
+ "sha256_v1": "",
+ "sha256_v2": "8dc672f2cd7930189b3ca910ca073e5990eb01efa87a1ff82929ba3f2e3881c4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "8dc672f2cd7930189b3ca910ca073e5990eb01efa87a1ff82929ba3f2e3881c4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-cybersecurity-law-2016:69/s1",
+   "paragraph": null,
+   "addressee": "network_operator",
+   "modality": "prohibition",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "第六十九条　网络运营者违反本法第四十九条规定，对法律、行政法规禁止发布或者传输的信息未停止传输、采取消除等处置措施、保存有关记录、向有关主管部门报告，或者违反本法第五十二条规定，不按照有关部门的要求对法律、行政法规禁止发布或者传输的信息停止传输、采取消除等处置措施、保存有关记录的，由有关主管部门责令改正，给予警告、予以通报，可以处五万元以上五十万元以下罚款；"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-cybersecurity-law-2016:69",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

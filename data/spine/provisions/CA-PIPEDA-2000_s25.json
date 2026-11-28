@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CA-PIPEDA-2000:s25",
+ "label": "CA-PIPEDA-2000 Section 25",
+ "instrument": "CA-PIPEDA-2000",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "5f5a6a02662bf10a3e635a6dfe0ed45b63de87b3797ecfa18f11338b6550ef4c",
+ "sha256_v1": "",
+ "sha256_v2": "5f5a6a02662bf10a3e635a6dfe0ed45b63de87b3797ecfa18f11338b6550ef4c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CA",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "5f5a6a02662bf10a3e635a6dfe0ed45b63de87b3797ecfa18f11338b6550ef4c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CA-PIPEDA-2000:s25/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Annual report 25 (1) The Commissioner shall, within three months after the end of each financial year, submit to Parliament a report concerning the application of this Part, the extent to which the provinces have enacted legislation that is substantially similar to this Part and the application of any such legislation."
+  },
+  {
+   "obligation_id": "CA-PIPEDA-2000:s25/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Consultation (2) Before preparing the report, the Commissioner shall consult with those persons in the provinces who, in the Commissioner’s opinion, are in a position to assist the Commissioner in making a report respecting personal information that is collected, used or disclosed interprovincially or internationally. 2000, c. 5, s. 25; 2015, c. 32, s. 20"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CA-PIPEDA-2000:s25",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

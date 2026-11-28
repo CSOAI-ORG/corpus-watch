@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-AIActionPlan-2025:PII-01",
+ "label": "US-AIActionPlan-2025 Create Streamlined Permitting for Data Centers, Semiconductor Manufacturing Facilities, and Energy Infrastructure while Guaranteeing Security",
+ "instrument": "US-AIActionPlan-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6b033fdbf44449581f3063c9827dec08e0b285475eab4ed6767fdad9c8aea923",
+ "sha256_v1": "",
+ "sha256_v2": "6b033fdbf44449581f3063c9827dec08e0b285475eab4ed6767fdad9c8aea923",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 3,
+ "sha256_current": "6b033fdbf44449581f3063c9827dec08e0b285475eab4ed6767fdad9c8aea923",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-AIActionPlan-2025:PII-01/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Additionally, this infrastructure must also not be built with any adversarial technology that could undermine U.S."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-AIActionPlan-2025:PII-01",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

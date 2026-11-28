@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:40",
+ "label": "EU-ccd2-2023 Article 40",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8a3d9536c51d8c1a988d14ad0135806c4a179276d3f7f013bb750ea8e0e972a4",
+ "sha256_v1": "",
+ "sha256_v2": "8a3d9536c51d8c1a988d14ad0135806c4a179276d3f7f013bb750ea8e0e972a4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8a3d9536c51d8c1a988d14ad0135806c4a179276d3f7f013bb750ea8e0e972a4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:40/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that consumers have access to adequate, prompt and effective out-of-court dispute resolution procedures for the settlement of disputes between consumers and creditors or credit intermediaries concerning rights and obligations relating to credit agreements established under this Directive, using existing entities performing out-of-court dispute resolution where appropriate."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:40/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such out-of-court dispute resolution procedures and the entities offering them shall comply with the quality requirements laid down by Directive 2013/11/EU."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:40/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall encourage the entities performing out-of-court dispute resolution referred to in paragraph 1 to cooperate in order to resolve cross-border disputes concerning credit agreements."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:40",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

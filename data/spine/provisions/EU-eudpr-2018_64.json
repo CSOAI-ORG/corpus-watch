@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:64",
+ "label": "EU-eudpr-2018 Article 64",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "96c1cce6211ab5298a3c58a36f487d8c7235bbdcf9cbea8f4ff21623d1058c55",
+ "sha256_v1": "",
+ "sha256_v2": "96c1cce6211ab5298a3c58a36f487d8c7235bbdcf9cbea8f4ff21623d1058c55",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "96c1cce6211ab5298a3c58a36f487d8c7235bbdcf9cbea8f4ff21623d1058c55",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:64/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Court of Justice shall have jurisdiction to hear all disputes relating to the provisions of this Regulation, including claims for damages."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:64/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Actions against decisions of the European Data Protection Supervisor, including decisions under Article 63(3), shall be brought before the Court of Justice."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:64/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Court of Justice shall have unlimited jurisdiction to review administrative fines referred to in Article"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:64",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

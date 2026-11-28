@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO13859-2019:sec3",
+ "label": "US-EO13859-2019 Section 3",
+ "instrument": "US-EO13859-2019",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "148c5680a25d10ade512b9bb0252f2fdaa5df411aade016fa483fdf1b43db40a",
+ "sha256_v1": "",
+ "sha256_v2": "148c5680a25d10ade512b9bb0252f2fdaa5df411aade016fa483fdf1b43db40a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "148c5680a25d10ade512b9bb0252f2fdaa5df411aade016fa483fdf1b43db40a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO13859-2019:sec3/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Initiative shall be coordinated through the National Science and Technology Council (NSTC) Select Committee on Artificial Intelligence (Select Committee)."
+  },
+  {
+   "obligation_id": "US-EO13859-2019:sec3/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Actions shall be implemented by agencies that conduct foundational AI R&D, develop and deploy applications of AI technologies, provide educational grants, and regulate and provide guidance for applications of AI technologies, as determined by the co-chairs of the NSTC Select Committee (implementing agencies)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO13859-2019:sec3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

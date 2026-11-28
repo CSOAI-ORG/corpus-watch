@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s76",
+ "label": "GB-duaa-2025 Section 76",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5a6b819aebb9b587377a8ec7ddbb9b30b02418b2107062387d09422dfd02aaa5",
+ "sha256_v1": "",
+ "sha256_v2": "5a6b819aebb9b587377a8ec7ddbb9b30b02418b2107062387d09422dfd02aaa5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "5a6b819aebb9b587377a8ec7ddbb9b30b02418b2107062387d09422dfd02aaa5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s76/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A notice under paragraph 3 must—\n(a)\nbe given before the end of the period of one month beginning with the relevant time, and\n(b)\nstate the reasons for the delay."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s76/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3B)\nA notice under subsection (3A) must—\n(a)\nbe given before the end of the period of one month beginning with the relevant time, and\n(b)\nstate the reasons for the delay."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s76/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(14B)\nA notice under subsection (14A) must—\n(a)\nbe given before the end of the period of one month beginning with the relevant time, and\n(b)\nstate the reasons for the delay."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s76",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

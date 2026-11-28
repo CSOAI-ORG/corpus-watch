@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s53",
+ "label": "GB-dpa-2018 Section 53",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "d3d92207916b7560d76ab66ccd63b6145a1253220bb796da9c11ff1b298d8d56",
+ "sha256_v1": "",
+ "sha256_v2": "d3d92207916b7560d76ab66ccd63b6145a1253220bb796da9c11ff1b298d8d56",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d3d92207916b7560d76ab66ccd63b6145a1253220bb796da9c11ff1b298d8d56",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s53/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(4A)\nThe Secretary of State may by regulations—\n(a)\nrequire controllers of a description specified in the regulations to produce and publish guidance about the fees that they charge in accordance with subsection (1)(a), and\n(b)\nspecify what the guidance must include."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s53/p0/s2",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "(6)\nIf, in reliance on subsection (1)(b), the controller does not take action on the request, the controller must inform the data subject of—\n(a)\nthe reasons for not doing so, and\n(b)\nthe data subject’s right to lodge a complaint with the Commission."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s53/p0/s3",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(7)\nThe controller must comply with subsection (6)—\n(a)\nwithout undue delay, and\n(b)\nin any event, before the end of the applicable time period (as to which see section 54)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s53",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-ai-content-labelling-measures-2025:4",
+ "label": "CN-ai-content-labelling-measures-2025 第四条",
+ "instrument": "CN-ai-content-labelling-measures-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "62902de400f0cca316f068f45f6e07401c0d6e4e651f1c607dbb4dfb3f033237",
+ "sha256_v1": "",
+ "sha256_v2": "62902de400f0cca316f068f45f6e07401c0d6e4e651f1c607dbb4dfb3f033237",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "62902de400f0cca316f068f45f6e07401c0d6e4e651f1c607dbb4dfb3f033237",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-ai-content-labelling-measures-2025:4/s1",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "zh:public-trace",
+   "status": "DRAFT",
+   "text": "第四条 服务提供者提供的生成合成服务属于《互联网信息服务深度合成管理规定》第十七条第一款情形的，应当按照下列要求对生成合成内容添加显式标识："
+  },
+  {
+   "obligation_id": "CN-ai-content-labelling-measures-2025:4/s8",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "zh:public-trace",
+   "status": "DRAFT",
+   "text": "服务提供者提供生成合成内容下载、复制、导出等功能时，应当确保文件中含有满足要求的显式标识。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-ai-content-labelling-measures-2025:4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

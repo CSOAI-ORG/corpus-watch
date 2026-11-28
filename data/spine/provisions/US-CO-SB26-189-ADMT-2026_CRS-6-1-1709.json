@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CO-SB26-189-ADMT-2026:CRS-6-1-1709",
+ "label": "US-CO-SB26-189-ADMT-2026 C.R.S. § 6-1-1709",
+ "instrument": "US-CO-SB26-189-ADMT-2026",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "6ce5a1781e4b6fedcc13ffec3fd2fbd6ccdb34ce8b0d7d16f184b44a1476ceae",
+ "sha256_v1": "",
+ "sha256_v2": "6ce5a1781e4b6fedcc13ffec3fd2fbd6ccdb34ce8b0d7d16f184b44a1476ceae",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 10,
+ "sha256_current": "6ce5a1781e4b6fedcc13ffec3fd2fbd6ccdb34ce8b0d7d16f184b44a1476ceae",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CO-SB26-189-ADMT-2026:CRS-6-1-1709/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CO-SB26-189-ADMT-2026:CRS-6-1-1709",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

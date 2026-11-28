@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-pipa-2011:49",
+ "label": "KR-pipa-2011 제49조",
+ "instrument": "KR-pipa-2011",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "277d7e16ea402198d9a16ff834177ce5bb81e3ad43f6088a09cfe3c5989c35bf",
+ "sha256_v1": "",
+ "sha256_v2": "277d7e16ea402198d9a16ff834177ce5bb81e3ad43f6088a09cfe3c5989c35bf",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "277d7e16ea402198d9a16ff834177ce5bb81e3ad43f6088a09cfe3c5989c35bf",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-pipa-2011:49/s3",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "이 경우 분쟁조정위원회는 대통령령으로 정하는 기간 동안 그 절차의 개시를 공고하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-pipa-2011:49",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

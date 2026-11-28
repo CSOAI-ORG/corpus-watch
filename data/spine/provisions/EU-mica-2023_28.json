@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:28",
+ "label": "EU-mica-2023 Article 28",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "032aa9a98758f97a15988c55772ef17e7248421a74e6ce3aac4a522e5f9240cd",
+ "sha256_v1": "",
+ "sha256_v2": "032aa9a98758f97a15988c55772ef17e7248421a74e6ce3aac4a522e5f9240cd",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "032aa9a98758f97a15988c55772ef17e7248421a74e6ce3aac4a522e5f9240cd",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:28/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Publication of the crypto-asset white paper\nAn issuer of an asset-referenced token shall publish on its website the approved crypto-asset white paper referred to in Article 17(1) or Article 21(1) and, where applicable, the modified crypto-asset white paper referred to in Article"
+  },
+  {
+   "obligation_id": "EU-mica-2023:28/p25/s1",
+   "paragraph": "25",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The approved crypto-asset white paper shall be publicly accessible by the starting date of the offer to the public of the asset-referenced token or the admission to trading of that token."
+  },
+  {
+   "obligation_id": "EU-mica-2023:28/p25/s2",
+   "paragraph": "25",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The approved crypto-asset white paper and, where applicable, the modified crypto-asset white paper shall remain available on the issuer’s website for as long as the asset-referenced token is held by the public."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:28",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

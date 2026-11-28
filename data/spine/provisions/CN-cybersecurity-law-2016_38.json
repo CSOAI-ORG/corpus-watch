@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-cybersecurity-law-2016:38",
+ "label": "CN-cybersecurity-law-2016 第三十八条",
+ "instrument": "CN-cybersecurity-law-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b75991cab3a489c79cdf4b15765d198069082acff69c9add86e4269c28e3bd5b",
+ "sha256_v1": "",
+ "sha256_v2": "b75991cab3a489c79cdf4b15765d198069082acff69c9add86e4269c28e3bd5b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "b75991cab3a489c79cdf4b15765d198069082acff69c9add86e4269c28e3bd5b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-cybersecurity-law-2016:38/s1",
+   "paragraph": null,
+   "addressee": "network_operator",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "第三十八条　关键信息基础设施的运营者采购网络产品和服务，应当按照规定与提供者签订安全保密协议，明确安全和保密义务与责任。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-cybersecurity-law-2016:38",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

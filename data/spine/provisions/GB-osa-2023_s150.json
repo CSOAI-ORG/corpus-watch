@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s150",
+ "label": "GB-osa-2023 Section 150",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "81c9dd1a0375444462a244cfdc0bf0f77074afaa87d9a5c75ab7a4aa34c2ae6a",
+ "sha256_v1": "",
+ "sha256_v2": "81c9dd1a0375444462a244cfdc0bf0f77074afaa87d9a5c75ab7a4aa34c2ae6a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "81c9dd1a0375444462a244cfdc0bf0f77074afaa87d9a5c75ab7a4aa34c2ae6a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s150/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(4)\nA publication notice must—\n(a)\nspecify the decision or notice mentioned in subsection (1)(a) to which it relates,\n(b)\nspecify or describe the details that must be published or notified,\n(c)\nspecify the form and manner in which the details must be published or notified,\n(d)\nspecify a date by which the details must be published or notified, and\n(e)\ncontain information about the consequences of not complying with the notice."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s150/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(5)\nWhere a publication notice requires a person to publish details under subsection (2)(a) the notice may also specify a period during which publication in the specified form and manner must continue."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s150",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,136 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:71",
+ "label": "EU-ehds-2025 Article 71",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "9108d7f48e78ba6ece25897f6c0b2208ff363ad97f07e4e95131fc54ec93997e",
+ "sha256_v1": "",
+ "sha256_v2": "9108d7f48e78ba6ece25897f6c0b2208ff363ad97f07e4e95131fc54ec93997e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "9108d7f48e78ba6ece25897f6c0b2208ff363ad97f07e4e95131fc54ec93997e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:71/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Natural persons shall have the right to opt out at any time, and without providing any reason, from the processing of personal electronic health data relating to them for secondary use under this Regulation."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:71/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The exercise of that right shall be reversible."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:71/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall provide for an accessible and easily understandable opt-out mechanism to exercise the right established in paragraph 1, whereby natural persons may explicitly state that they do not wish to have their personal electronic health data processed for secondary use."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:71/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Once natural persons have exercised the right to opt out, and where personal electronic health data relating to them can be identified in a dataset, personal electronic health data relating to those natural persons shall not be made available or otherwise processed pursuant to data permits issued under Article 68 or health data requests under Article 69 approved after the natural person has exercised the right to opt out."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:71/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The first subparagraph of this paragraph shall not affect the processing for secondary use of personal electronic health data relating to those natural persons pursuant to data permits or health data requests that were issued or approved before the natural persons exercised their right to opt out."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:71/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The national law providing for such a mechanism shall provide for specific and suitable measures in order to protect the fundamental rights and the personal data of natural persons."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:71/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "The rules on any mechanism to implement exceptions provided for under paragraph 4 by way of exception from paragraph 1 shall respect the essence of the fundamental rights and freedoms and shall be a necessary and proportionate measure in a democratic society to fulfil purposes of public interest in the area of legitimate scientific and societal objectives."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:71/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any processing carried out in accordance with a mechanism to implement exceptions provided for under paragraph 4 of this Article shall comply with the requirements of this Chapter, in particular the prohibition on re-identifying or attempting to re-identify natural persons in accordance with Article 61(3)."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:71/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any legislative measure providing for a mechanism in national law as referred to in paragraph 4 of this Article shall include specific provisions for the safety, and the protection of the rights, of natural persons."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:71/p7/s1",
+   "paragraph": "7",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall notify without delay the Commission of the provisions of their national law which they adopt pursuant to paragraph 4 and of any subsequent amendment affecting them."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:71/p8/s1",
+   "paragraph": "8",
+   "addressee": "controller",
+   "modality": "prohibition",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "When the purposes of the processing of personal electronic health data by a health data holder do not or no longer require the identification of a data subject by the controller, that health data holder shall not be obliged to maintain, acquire or process additional information in order to identify the data subject for the sole purpose of complying with the right to opt out under this Article."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:71",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

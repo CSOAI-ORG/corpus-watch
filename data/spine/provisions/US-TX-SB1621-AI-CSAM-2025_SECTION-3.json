@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-TX-SB1621-AI-CSAM-2025:SECTION-3",
+ "label": "US-TX-SB1621-AI-CSAM-2025 SECTION 3",
+ "instrument": "US-TX-SB1621-AI-CSAM-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "cdfc30b040d242138658af159f9a6dd58192558f7b68691fb254d4631ff2d830",
+ "sha256_v1": "",
+ "sha256_v2": "cdfc30b040d242138658af159f9a6dd58192558f7b68691fb254d4631ff2d830",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 3,
+ "sha256_current": "cdfc30b040d242138658af159f9a6dd58192558f7b68691fb254d4631ff2d830",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-TX-SB1621-AI-CSAM-2025:SECTION-3/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) In the manner provided by this article, a court shall\nallow discovery under Article 39.14 of property or material:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-TX-SB1621-AI-CSAM-2025:SECTION-3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

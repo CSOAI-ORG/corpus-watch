@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-ai-basic-act-2025:22-2",
+ "label": "KR-ai-basic-act-2025 제22조의2",
+ "instrument": "KR-ai-basic-act-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "79760e449f21c12e57bd8913bf8d82dce0d02b92f3820b573c1192ba577ae5ad",
+ "sha256_v1": "",
+ "sha256_v2": "79760e449f21c12e57bd8913bf8d82dce0d02b92f3820b573c1192ba577ae5ad",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "79760e449f21c12e57bd8913bf8d82dce0d02b92f3820b573c1192ba577ae5ad",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-ai-basic-act-2025:22-2/s28",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "다만, 제1호 또는 제2호에 해당하는 경우 그 허가를 취소하여야 한다."
+  },
+  {
+   "obligation_id": "KR-ai-basic-act-2025:22-2/s36",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "⑪ 과학기술정보통신부장관은 제10항에 따라 인공지능연구소의 설립허가를 취소하려는 경우에는 청문을 하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-ai-basic-act-2025:22-2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

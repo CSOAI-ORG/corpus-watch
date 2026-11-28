@@ -1,0 +1,79 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:30",
+ "label": "GDPR Art. 30",
+ "instrument": "GDPR",
+ "ladder": "CROSSWALK_ONLY",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "36c26f59ba659f871773aa43038fb5923be84e2222655c90996fca0ee32fda4b",
+ "sha256_v1": "36c26f59ba659f871773aa43038fb5923be84e2222655c90996fca0ee32fda4b",
+ "sha256_v2": "02afb8f6e33614a2aaadde24e8a3457c4cd968fde320e8d6eaf1ace64d62f9f0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "02afb8f6e33614a2aaadde24e8a3457c4cd968fde320e8d6eaf1ace64d62f9f0",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:30/p1/s1",
+   "paragraph": "1",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Each controller and, where applicable, the controller's representative, shall maintain a record of processing activities under its responsibility."
+  },
+  {
+   "obligation_id": "32016R0679:30/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That record shall contain all of the following information:"
+  },
+  {
+   "obligation_id": "32016R0679:30/p2/s1",
+   "paragraph": "2",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Each processor and, where applicable, the processor's representative shall maintain a record of all categories of processing activities carried out on behalf of a controller, containing:"
+  },
+  {
+   "obligation_id": "32016R0679:30/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The records referred to in paragraphs 1 and 2 shall be in writing, including in electronic form."
+  },
+  {
+   "obligation_id": "32016R0679:30/p4/s1",
+   "paragraph": "4",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller or the processor and, where applicable, the controller's or the processor's representative, shall make the record available to the supervisory authority on request."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:30",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

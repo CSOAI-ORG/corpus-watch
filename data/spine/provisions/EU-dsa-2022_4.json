@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:4",
+ "label": "EU-dsa-2022 Article 4",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ac3d955f6ff57924840874a7cb53c8c13d4e45df90ed955316cd31a5f6fb4bc6",
+ "sha256_v1": "",
+ "sha256_v2": "ac3d955f6ff57924840874a7cb53c8c13d4e45df90ed955316cd31a5f6fb4bc6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "ac3d955f6ff57924840874a7cb53c8c13d4e45df90ed955316cd31a5f6fb4bc6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:4/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where an information society service is provided that consists of the transmission in a communication network of information provided by a recipient of the service, or the provision of access to a communication network, the service provider shall not be liable for the information transmitted or accessed, on condition that the provider:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:4/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The acts of transmission and of provision of access referred to in paragraph 1 shall include the automatic, intermediate and transient storage of the information transmitted in so far as this takes place for the sole purpose of carrying out the transmission in the communication network, and provided that the information is not stored for any period longer than is reasonably necessary for the transmission."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:4/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This Article shall not affect the possibility for a judicial or administrative authority, in accordance with a Member State’s legal system, to require the service provider to terminate or prevent an infringement."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:sch17",
+ "label": "GB-dpa-2018 Schedule 17",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "79fd72d8c272d70897608c48765f975cf69df4792dce711bf80d67b0d135d17b",
+ "sha256_v1": "",
+ "sha256_v2": "79fd72d8c272d70897608c48765f975cf69df4792dce711bf80d67b0d135d17b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "79fd72d8c272d70897608c48765f975cf69df4792dce711bf80d67b0d135d17b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:sch17/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "SCHEDULE 17\nReview of processing of personal data for the purposes of journalism\nSection 178\nInterpretation\n1\nIn this Schedule—\n“relevant period” means—\n...\nthe period of 12 months beginning when the Commission starts a ... review under section 178;\n“the relevant review”, in relation to a relevant period, means the review under section 178 which the Commission must produce a report about by the end of that period."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:sch17/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\nIf the information notice—\n(a)\nstates that, in the Commission's opinion, the information or documents are required for the purposes of the relevant review, and\n(b)\ngives the Commission's reasons for reaching that opinion,\nsubsections (5) and (6) of section 142 do not apply but the notice must not require the information or documents to be provided before the end of the period of 24 hours beginning when the notice is given."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:sch17/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\nIf the assessment notice—\n(a)\nstates that, in the Commission's opinion, it is necessary for the controller or processor to comply with a requirement in the notice for the purposes of the relevant review, and\n(b)\ngives the Commission's reasons for reaching that opinion,\nsubsections (6) and (7) of section 146 do not apply but the notice must not require the controller or processor to comply with the requirement before the end of the period of 7 days beginning when the notice is given."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:sch17/p0/s4",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\nIf the interview notice—\n(a)\nstates that, in the Commission's opinion, it is necessary for the individual to comply with a requirement in the notice for the purposes of the relevant review, and\n(b)\ngives the Commission's reasons for reaching that opinion,\nsubsections (6) and (7) of section 148A do not apply but the notice must not require the individual to comply with the requirement before the end of the period of 24 hours beginning when the notice is given."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:sch17",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

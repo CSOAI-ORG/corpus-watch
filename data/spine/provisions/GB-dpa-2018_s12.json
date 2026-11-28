@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s12",
+ "label": "GB-dpa-2018 Section 12",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "2c9a016f069a90611f2a34de33d43f41e7e84799a44e0ed928dd4ac3ddc0d145",
+ "sha256_v1": "",
+ "sha256_v2": "2c9a016f069a90611f2a34de33d43f41e7e84799a44e0ed928dd4ac3ddc0d145",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "2c9a016f069a90611f2a34de33d43f41e7e84799a44e0ed928dd4ac3ddc0d145",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s12/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(2)\nThe Secretary of State may by regulations—\n(a)\nrequire controllers of a description specified in the regulations to produce and publish guidance about the fees that they charge in reliance on those provisions, and\n(b)\nspecify what the guidance must include."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s12",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

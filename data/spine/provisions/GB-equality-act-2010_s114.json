@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-equality-act-2010:s114",
+ "label": "GB-equality-act-2010 Section 114",
+ "instrument": "GB-equality-act-2010",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "aca734b3fedd676eeee27affa38bba193cdc74d884acd67d106013107e568cf4",
+ "sha256_v1": "",
+ "sha256_v2": "aca734b3fedd676eeee27affa38bba193cdc74d884acd67d106013107e568cf4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "aca734b3fedd676eeee27affa38bba193cdc74d884acd67d106013107e568cf4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-equality-act-2010:s114/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\nThe county court or sheriff—\n(a)\nmust not grant an interim injunction or interdict unless satisfied that no criminal matter would be prejudiced by doing so;"
+  },
+  {
+   "obligation_id": "GB-equality-act-2010:s114/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)\nmust grant an application to stay or sist proceedings under subsection (1) on grounds of prejudice to a criminal matter unless satisfied the matter will not be prejudiced."
+  },
+  {
+   "obligation_id": "GB-equality-act-2010:s114/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(7)\nIn proceedings in England and Wales on a claim within subsection (1), the power under section 63(1) of the County Courts Act 1984 (appointment of assessors) must be exercised unless the judge is satisfied that there are good reasons for not doing so."
+  },
+  {
+   "obligation_id": "GB-equality-act-2010:s114/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(8)\nIn proceedings in Scotland on a claim within subsection (1), the power under rule 44.3 of Schedule 1 to the Sheriff Court (Scotland) Act 1907 (appointment of assessors) must be exercised unless the sheriff is satisfied that there are good reasons for not doing so."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-equality-act-2010:s114",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

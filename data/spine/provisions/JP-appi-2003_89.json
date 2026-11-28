@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:89",
+ "label": "JP-appi-2003 Article 89",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "73ae2debd8524d8878753f619e2530126341b3000f2c6a4c4de2213dac135fdf",
+ "sha256_v1": "",
+ "sha256_v2": "73ae2debd8524d8878753f619e2530126341b3000f2c6a4c4de2213dac135fdf",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "73ae2debd8524d8878753f619e2530126341b3000f2c6a4c4de2213dac135fdf",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:89/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "行政機関の長に対し開示請求をする者は、政令で定めるところにより、実費の範囲内において政令で定める額の手数料を納めなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:89/s3",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "２ 地方公共団体の機関に対し開示請求をする者は、条例で定めるところにより、実費の範囲内において条例で定める額の手数料を納めなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:89/s4",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "３ 前二項の手数料の額を定めるに当たっては、できる限り利用しやすい額とするよう配慮しなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:89/s5",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "４ 独立行政法人等に対し開示請求をする者は、独立行政法人等の定めるところにより、手数料を納めなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:89/s7",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "６ 独立行政法人等は、前二項の規定による定めを一般の閲覧に供しなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:89/s8",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "７ 地方独立行政法人に対し開示請求をする者は、地方独立行政法人の定めるところにより、手数料を納めなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:89/s10",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "９ 地方独立行政法人は、前二項の規定による定めを一般の閲覧に供しなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:89",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

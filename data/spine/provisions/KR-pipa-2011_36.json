@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-pipa-2011:36",
+ "label": "KR-pipa-2011 제36조",
+ "instrument": "KR-pipa-2011",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "8a3d9e9dbbf800b98517e08209eee623bb100e9585e207200fdc54a4c9ecffae",
+ "sha256_v1": "",
+ "sha256_v2": "8a3d9e9dbbf800b98517e08209eee623bb100e9585e207200fdc54a4c9ecffae",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "8a3d9e9dbbf800b98517e08209eee623bb100e9585e207200fdc54a4c9ecffae",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-pipa-2011:36/s4",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ko:internal-record",
+   "status": "DRAFT",
+   "text": "③ 개인정보처리자가 제2항에 따라 개인정보를 삭제할 때에는 복구 또는 재생되지 아니하도록 조치하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-pipa-2011:36",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

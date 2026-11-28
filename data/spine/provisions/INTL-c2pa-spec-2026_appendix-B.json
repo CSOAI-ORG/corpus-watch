@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-c2pa-spec-2026:appendix-B",
+ "label": "INTL-c2pa-spec-2026 Appendix B",
+ "instrument": "INTL-c2pa-spec-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "977cc59323faee78db46a2b2d0c0366cc062a562de5b436246d4f0ded45e176e",
+ "sha256_v1": "",
+ "sha256_v2": "977cc59323faee78db46a2b2d0c0366cc062a562de5b436246d4f0ded45e176e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "977cc59323faee78db46a2b2d0c0366cc062a562de5b436246d4f0ded45e176e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-B/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Principles\nUX designed for the consumption of C2PA provenance shall be informed by the context of the asset."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-B/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Resource exhaustion when hashing compressed members\nWhere a hard binding is computed over the uncompressed bytes of a compressed asset member, a validator shall decompress attacker-supplied data before it can decide whether the asset is trustworthy."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-B/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A validator shall enforce an implementation-defined maximum decompressed member size and reject any member exceeding it, which caps the work regardless of what the input claims."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-B/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A validator shall also reject any member whose decompressed length disagrees with the length declared in its own metadata, which removes the case where a member decompresses to something other than what the container states it holds."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-B/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Claim generators shall not include bidirectional override characters in text fields."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-B/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Claim generators shall not include these characters in text fields."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-B/p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Harms, Misuse, and Abuse\nThe C2PA Guiding Principles establish that C2PA specifications shall be reviewed with a critical eye towards the potential abuse or misuse of the framework to cause unintended harms, threats to human rights, or disproportionate risks to vulnerable groups globally."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-c2pa-spec-2026:appendix-B",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

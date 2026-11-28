@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s100",
+ "label": "GB-osa-2023 Section 100",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d5e8fe24004303908fac54db56bfbb953bd8d3d8fc192df2ec3fac865f552ba8",
+ "sha256_v1": "",
+ "sha256_v2": "d5e8fe24004303908fac54db56bfbb953bd8d3d8fc192df2ec3fac865f552ba8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d5e8fe24004303908fac54db56bfbb953bd8d3d8fc192df2ec3fac865f552ba8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s100/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nBut the power conferred by subsection (1) must be exercised in a way that is proportionate to the use to which the information is to be put in the exercise of OFCOM’s functions."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s100/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(8)\nThe reference in subsection (3) to a person authorised by OFCOM is to a person authorised by OFCOM in writing for the purposes of notices that impose requirements of a kind mentioned in that subsection, and such a person must produce evidence of their identity if requested to do so by a person in receipt of such a notice."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s100",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

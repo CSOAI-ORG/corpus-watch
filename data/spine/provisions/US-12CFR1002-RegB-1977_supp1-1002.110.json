@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-12CFR1002-RegB-1977:supp1-1002.110",
+ "label": "US-12CFR1002-RegB-1977 Supplement I, Section 1002.110—Publication of Data and Other Disclosures",
+ "instrument": "US-12CFR1002-RegB-1977",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ef5157a9902d27b1f9bf057e3e6a70008bd65a9d0254c182e170dc6ce27a6355",
+ "sha256_v1": "",
+ "sha256_v2": "ef5157a9902d27b1f9bf057e3e6a70008bd65a9d0254c182e170dc6ce27a6355",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ef5157a9902d27b1f9bf057e3e6a70008bd65a9d0254c182e170dc6ce27a6355",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.110/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A financial institution shall provide the statement required by § 1002.110(c) using the following, or substantially similar, language:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-12CFR1002-RegB-1977:supp1-1002.110",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s87",
+ "label": "GB-dpa-2018 Section 87",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "34c75633de09962de6e373401f8b325ec741d40961154cc658c2771418469a0b",
+ "sha256_v1": "",
+ "sha256_v2": "34c75633de09962de6e373401f8b325ec741d40961154cc658c2771418469a0b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "34c75633de09962de6e373401f8b325ec741d40961154cc658c2771418469a0b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s87/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The second data protection principle\n(1)\nThe second data protection principle is that—\n(a)\nthe purpose for which personal data is collected (whether from the data subject or otherwise) must be specified, explicit and legitimate, and\n(b)\npersonal data so collected must not be processed by or on behalf of a controller in a manner that is incompatible with the purpose for which the controller collected it."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s87",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

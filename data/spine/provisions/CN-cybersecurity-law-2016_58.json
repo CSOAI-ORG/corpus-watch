@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-cybersecurity-law-2016:58",
+ "label": "CN-cybersecurity-law-2016 第五十八条",
+ "instrument": "CN-cybersecurity-law-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "19d64b83ab6eb4a915585a9b4608351da09431d7c7be3d8bf6e8f79a606cb8bc",
+ "sha256_v1": "",
+ "sha256_v2": "19d64b83ab6eb4a915585a9b4608351da09431d7c7be3d8bf6e8f79a606cb8bc",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "19d64b83ab6eb4a915585a9b4608351da09431d7c7be3d8bf6e8f79a606cb8bc",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-cybersecurity-law-2016:58/s2",
+   "paragraph": null,
+   "addressee": "network_operator",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "网络运营者应当按照要求采取措施，进行整改，消除隐患。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-cybersecurity-law-2016:58",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

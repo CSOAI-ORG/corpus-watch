@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s21P",
+ "label": "AU-privacy-act-1988 Section 21P",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "1810636e55301e035e5bb7474a4eafa0994a5e42f1c932e39fba6598a7915d5c",
+ "sha256_v1": "",
+ "sha256_v2": "1810636e55301e035e5bb7474a4eafa0994a5e42f1c932e39fba6598a7915d5c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "1810636e55301e035e5bb7474a4eafa0994a5e42f1c932e39fba6598a7915d5c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s21P/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\tThe credit provider must, within a reasonable period after refusing the application, give the individual a written notice that:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s21P",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-pipl-2021:50",
+ "label": "CN-pipl-2021 第五十条",
+ "instrument": "CN-pipl-2021",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d6752131b90683d1a0dfa8f0c4440f0fe6aa3256d6cb007f774f9a11b5488dcf",
+ "sha256_v1": "",
+ "sha256_v2": "d6752131b90683d1a0dfa8f0c4440f0fe6aa3256d6cb007f774f9a11b5488dcf",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "d6752131b90683d1a0dfa8f0c4440f0fe6aa3256d6cb007f774f9a11b5488dcf",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-pipl-2021:50/s1",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "第五十条　个人信息处理者应当建立便捷的个人行使权利的申请受理和处理机制。"
+  },
+  {
+   "obligation_id": "CN-pipl-2021:50/s2",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "拒绝个人行使权利的请求的，应当说明理由。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-pipl-2021:50",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

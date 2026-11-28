@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:75",
+ "label": "EU-eudpr-2018 Article 75",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e44c8fe027fd2ea72aa137fbd9a9dc0aa29bbb82592624f8e555be4089e5261e",
+ "sha256_v1": "",
+ "sha256_v2": "e44c8fe027fd2ea72aa137fbd9a9dc0aa29bbb82592624f8e555be4089e5261e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "e44c8fe027fd2ea72aa137fbd9a9dc0aa29bbb82592624f8e555be4089e5261e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:75/p1/s1",
+   "paragraph": "1",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When Union law applicable to the transmitting controller provides for specific conditions for processing, the controller shall inform the recipient of the operational personal data of those conditions and the requirement to comply with them."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:75/p2/s1",
+   "paragraph": "2",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller shall comply with specific processing conditions for processing provided by a transmitting competent authority in accordance with Article 9(3) and (4) of Directive (EU) 2016/680."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:75",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

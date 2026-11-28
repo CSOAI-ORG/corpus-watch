@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB354-2026:SEC-2:791.12.",
+ "label": "US-CA-SB354-2026 SEC. 2. / 791.12.",
+ "instrument": "US-CA-SB354-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "dd8adcff22d55719f2a31e365c7e983c3800682b446ae570f4c5b9b4aecb97af",
+ "sha256_v1": "",
+ "sha256_v2": "dd8adcff22d55719f2a31e365c7e983c3800682b446ae570f4c5b9b4aecb97af",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "dd8adcff22d55719f2a31e365c7e983c3800682b446ae570f4c5b9b4aecb97af",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.12./p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A licensee, third-party service provider, surplus line insurer, or reinsurer shall not base an adverse underwriting decision in whole or in part on the following:"
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.12./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The further information, when requested, shall create a conclusive presumption that the information is necessary to perform the requesting insurer’s function in connection with an insurance transaction involving the individual and, when reasonably available, shall be furnished the requesting insurer and the individual, if applicable."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB354-2026:SEC-2:791.12.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:55",
+ "label": "EU-mica-2023 Article 55",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "b081576882e02b8f7c14fb4d846fdd6ff3804ef668f21d019e0ccaae67cbb486",
+ "sha256_v1": "",
+ "sha256_v2": "b081576882e02b8f7c14fb4d846fdd6ff3804ef668f21d019e0ccaae67cbb486",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "b081576882e02b8f7c14fb4d846fdd6ff3804ef668f21d019e0ccaae67cbb486",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:55/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "By way of derogation from Article 46(2), the date by which the recovery plan is to be notified to the competent authority shall, in respect of issuers of e-money tokens, be within six months of the date of the offer to the public or admission to trading."
+  },
+  {
+   "obligation_id": "EU-mica-2023:55/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "By way of derogation from Article 47(3), the date by which the redemption plan is to be notified to the competent authority shall, in respect of issuers of e-money tokens, be within six months of the date of the offer to the public or admission to trading."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:55",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

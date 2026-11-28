@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s208",
+ "label": "GB-osa-2023 Section 208",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8851c9c872d90110b901e18eca0370f61059d413eef6a03c0bfc02873f7a02c7",
+ "sha256_v1": "",
+ "sha256_v2": "8851c9c872d90110b901e18eca0370f61059d413eef6a03c0bfc02873f7a02c7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8851c9c872d90110b901e18eca0370f61059d413eef6a03c0bfc02873f7a02c7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s208/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Service of notices\n(1)\nThis section applies in relation to a notice that may or must be given by OFCOM to a person under any provision of this Act."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s208",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

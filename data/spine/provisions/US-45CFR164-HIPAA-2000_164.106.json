@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-45CFR164-HIPAA-2000:164.106",
+ "label": "US-45CFR164-HIPAA-2000 45 CFR 164.106",
+ "instrument": "US-45CFR164-HIPAA-2000",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ce29b847ac1556db740e183a04c0bcd8b00561db18d7326bcb836a8daf21f03a",
+ "sha256_v1": "",
+ "sha256_v2": "ce29b847ac1556db740e183a04c0bcd8b00561db18d7326bcb836a8daf21f03a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ce29b847ac1556db740e183a04c0bcd8b00561db18d7326bcb836a8daf21f03a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.106/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In complying with the requirements of this part, covered entities and, where provided, business associates, are required to comply with the applicable provisions of parts 160 and 162 of this subchapter. [78 FR 5693, Jan. 25, 2013]"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-45CFR164-HIPAA-2000:164.106",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

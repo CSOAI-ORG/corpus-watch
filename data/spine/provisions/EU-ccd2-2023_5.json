@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:5",
+ "label": "EU-ccd2-2023 Article 5",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "386c6b0db543c70384801d12897c979fb8dea8d337aba7e750afd923dc2bb4b0",
+ "sha256_v1": "",
+ "sha256_v2": "386c6b0db543c70384801d12897c979fb8dea8d337aba7e750afd923dc2bb4b0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "386c6b0db543c70384801d12897c979fb8dea8d337aba7e750afd923dc2bb4b0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:5/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Obligation to provide information free of charge to consumers\nMember States shall require that, when information is provided to consumers in accordance with this Directive, such information is provided without charge to the consumer regardless of the media used to provide it."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

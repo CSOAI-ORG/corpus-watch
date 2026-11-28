@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-gpsr-2023:51",
+ "label": "EU-gpsr-2023 Article 51",
+ "instrument": "EU-gpsr-2023",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "99efb58b4d2f526598cf4acbca05c1c2bb5840b245355228b00b716f27321b27",
+ "sha256_v1": "",
+ "sha256_v2": "99efb58b4d2f526598cf4acbca05c1c2bb5840b245355228b00b716f27321b27",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "99efb58b4d2f526598cf4acbca05c1c2bb5840b245355228b00b716f27321b27",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-gpsr-2023:51/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:transitional provision",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-gpsr-2023:51",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

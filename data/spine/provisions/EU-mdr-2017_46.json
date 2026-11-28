@@ -1,0 +1,206 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:46",
+ "label": "EU-mdr-2017 Article 46",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "9712ceb5ee4c4233e3f253467ca39b9072348642dc670c4be7bd1b40ca23d405",
+ "sha256_v1": "",
+ "sha256_v2": "9712ceb5ee4c4233e3f253467ca39b9072348642dc670c4be7bd1b40ca23d405",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9712ceb5ee4c4233e3f253467ca39b9072348642dc670c4be7bd1b40ca23d405",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:46/p1/s1",
+   "paragraph": "1",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The authority responsible for notified bodies shall notify the Commission and the other Member States of any relevant changes to the designation of a notified body."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:46/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall immediately publish the amended notification in NANDO."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:46/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall immediately enter information on the changes to the designation of the notified body in the electronic system referred to in Article 57."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:46/p3/s1",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Where a notified body decides to cease its conformity assessment activities it shall inform the authority responsible for notified bodies and the manufacturers concerned as soon as possible and in the case of a planned cessation one year before ceasing its activities."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:46/p3/s2",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The new notified body shall complete a full assessment of the devices affected by the end of that period before issuing new certificates for those devices."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:46/p3/s3",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the notified body has ceased its activity, the authority responsible for notified bodies shall withdraw the designation."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:46/p4/s1",
+   "paragraph": "4",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where a authority responsible for notified bodies has ascertained that a notified body no longer meets the requirements set out in Annex VII, or that it is failing to fulfil its obligations or has not implemented the necessary corrective measures, the authority shall suspend, restrict, or fully or partially withdraw the designation, depending on the seriousness of the failure to meet those requirements or fulfil those obligations."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:46/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A suspension shall not exceed a period of one year, renewable once for the same period."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:46/p4/s3",
+   "paragraph": "4",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The authority responsible for notified bodies shall immediately inform the Commission and the other Member States of any suspension, restriction or withdrawal of a designation."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:46/p5/s1",
+   "paragraph": "5",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where its designation has been suspended, restricted, or fully or partially withdrawn, the notified body shall inform the manufacturers concerned at the latest within 10 days."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:46/p6/s1",
+   "paragraph": "6",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the event of restriction, suspension or withdrawal of a designation, the authority responsible for notified bodies shall take appropriate steps to ensure that the files of the notified body concerned are kept and make them available to authorities in other Member States responsible for notified bodies and to authorities responsible for market surveillance at their request."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:46/p7/s1",
+   "paragraph": "7",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the event of restriction, suspension or withdrawal of a designation, the authority responsible for notified bodies shall:"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:46/p7/s2",
+   "paragraph": "7",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "That competent authority shall take the appropriate measures, where necessary to avoid a potential risk to the health or safety of patients, users or others."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:46/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "With the exception of certificates unduly issued, and where a designation has been suspended or restricted, the certificates shall remain valid in the following circumstances:"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:46/p8/s2",
+   "paragraph": "8",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the event that the authority responsible for notified bodies determines that the notified body does not have the capability to support existing certificates issued, the manufacturer shall provide, to the competent authority for medical devices of the Member State in which the manufacturer of the device covered by the certificate has its registered place of business, within three months of the suspension or restriction, a written confirmation that another qualified notified body is temporarily assuming the functions of the notified body to monitor and remain responsible for the certificates during the period of suspension or restriction."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:46/p9/s1",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "With the exception of certificates unduly issued, and where a designation has been withdrawn, the certificates shall remain valid for a period of nine months in the following circumstances:"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:46/p9/s2",
+   "paragraph": "9",
+   "addressee": "manufacturer",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the circumstances referred to in the first subparagraph, the competent authority for medical devices of the Member State in which the manufacturer of the device covered by the certificate has its place of business may extend the provisional validity of the certificates for further periods of three months, which altogether shall not exceed twelve months."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:46/p9/s3",
+   "paragraph": "9",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The authority or the notified body assuming the functions of the notified body affected by the change of designation shall immediately inform the Commission, the other Member States and the other notified bodies thereof."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:46",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

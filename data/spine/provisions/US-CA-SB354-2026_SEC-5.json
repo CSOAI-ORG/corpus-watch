@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB354-2026:SEC-5",
+ "label": "US-CA-SB354-2026 SEC. 5.",
+ "instrument": "US-CA-SB354-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "1539324ed67d06602caf9426d8251bcece341233c9de653209313a9946fc640f",
+ "sha256_v1": "",
+ "sha256_v2": "1539324ed67d06602caf9426d8251bcece341233c9de653209313a9946fc640f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "1539324ed67d06602caf9426d8251bcece341233c9de653209313a9946fc640f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-5/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those sections of this bill shall only become operative if (1) both bills are enacted and become effective on or before January 1, 2027, (2) each bill amends Sections 791.07, 791.11, and 791.12 of the Insurance Code, and (3) this bill is enacted after Assembly Bill 1798, in which case Sections 791.07, 791.11, and 791.12 of the Insurance Code, as amended by Assembly Bill 1798, shall remain operative only until the operative date of Section 2 of this bill, at which time Sections 2.1, 2.2, and 2.3 of this bill shall become operative, and Sections 791.07, 791.11, and 791.12 as added by Section 2 of this bill shall not become operative."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB354-2026:SEC-5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

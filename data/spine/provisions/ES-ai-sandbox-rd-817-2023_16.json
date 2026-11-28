@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "ES-ai-sandbox-rd-817-2023:16",
+ "label": "ES-ai-sandbox-rd-817-2023 Artículo 16",
+ "instrument": "ES-ai-sandbox-rd-817-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a48dcc27e6c3c1ee3f799b8194cab985572c19711fa245e1dbb534a45e5d584b",
+ "sha256_v1": "",
+ "sha256_v2": "a48dcc27e6c3c1ee3f799b8194cab985572c19711fa245e1dbb534a45e5d584b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "ES",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a48dcc27e6c3c1ee3f799b8194cab985572c19711fa245e1dbb534a45e5d584b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:16/s2",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Los proveedores IA y los usuarios participantes en el entorno controlado de pruebas deberán cumplir con lo previsto en el Reglamento (UE) 679/2016, del Parlamento Europeo y el Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos (RGPD), como en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y Garantía de los Derechos Digitales (LOPDGDD), y, en lo que resulte de aplicación, en la Ley Orgánica 7/2021, de 26 mayo, de protección de datos personales tratados para fines de prevención, detección, investigación y enjuiciamiento de infracciones penal"
+  },
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:16/s4",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Los tratamientos de datos que se realizan en el marco del entorno controlado de pruebas deberán cumplir con la normativa señalada en el apartado anterior.\n3."
+  },
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:16/s6",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Los proveedores de IA y los usuarios participantes en el entorno controlado de pruebas deberán cumplir con lo previsto en la normativa de propiedad intelectual."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=ES-ai-sandbox-rd-817-2023:16",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

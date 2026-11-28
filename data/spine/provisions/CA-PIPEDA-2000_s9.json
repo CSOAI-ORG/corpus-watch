@@ -1,0 +1,116 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CA-PIPEDA-2000:s9",
+ "label": "CA-PIPEDA-2000 Section 9",
+ "instrument": "CA-PIPEDA-2000",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "5abc4b066bd2cdb19a86c070d400beb67ccd13a8a795d2a24af7b1fe8696baba",
+ "sha256_v1": "",
+ "sha256_v2": "5abc4b066bd2cdb19a86c070d400beb67ccd13a8a795d2a24af7b1fe8696baba",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CA",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "5abc4b066bd2cdb19a86c070d400beb67ccd13a8a795d2a24af7b1fe8696baba",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CA-PIPEDA-2000:s9/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When access prohibited 9 (1) Despite clause 4.9 of Schedule 1, an organization shall not give an individual access to personal information if doing so would likely reveal personal information about a third party."
+  },
+  {
+   "obligation_id": "CA-PIPEDA-2000:s9/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, if the information about the third party is severable from the record containing the information about the individual, the organization shall sever the information about the third party before giving the individual access."
+  },
+  {
+   "obligation_id": "CA-PIPEDA-2000:s9/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Information related to paragraphs 7(3)(c), (c.1) or (d) (2.1) An organization shall comply with subsection (2.2) if an individual requests that the organization (a) inform the individual about (i) any disclosure of information to a government institution or a part of a government institution under paragraph 7(3)(c), subparagraph 7(3)(c.1)(i) or (ii) or paragraph 7(3)(c.2) or (d), or (ii) the existence of any information that the organization has relating to a disclosure referred to in subparagraph (i), to a subpoena, warrant or order referred to in paragraph 7(3)(c) or to a request made by a government institution or a part of a government institution under subparagraph 7(3)(c.1)(i) or (ii);"
+  },
+  {
+   "obligation_id": "CA-PIPEDA-2000:s9/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Notification and response (2.2) An organization to which subsection (2.1) applies (a) shall, in writing and without delay, notify the institution or part concerned of the request made by the individual; and (b) shall not respond to the request before the earlier of (i) the day on which it is notified under subsection (2.3), and (ii) thirty days after the day on which the institution or part was notified."
+  },
+  {
+   "obligation_id": "CA-PIPEDA-2000:s9/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Objection (2.3) Within thirty days after the day on which it is notified under subsection (2.2), the institution or part shall notify the organization whether or not the institution or part objects to the organization complying with the request."
+  },
+  {
+   "obligation_id": "CA-PIPEDA-2000:s9/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Prohibition (2.4) Despite clause 4.9 of Schedule 1, if an organization is notified under subsection (2.3) that the institution or part objects to the organization complying with the request, the organization (a) shall refuse the request to the extent that it relates to paragraph (2.1)(a) or to information referred to in subparagraph (2.1)(a)(ii);"
+  },
+  {
+   "obligation_id": "CA-PIPEDA-2000:s9/p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "(b) shall notify the Commissioner, in writing and without delay, of the refusal; and (c) shall not disclose to the individual (i) any information that the organization has relating to a disclosure to a government institution or a part of a government institution under paragraph 7(3)(c), subparagraph 7(3)(c.1)(i) or (ii) or paragraph 7(3)(c.2) or (d) or to a request made by a government institution under either of those subparagraphs, (ii) that the organization notified an institution or part under paragraph (2.2)(a) or the Commissioner under paragraph (b), or (iii) that the institution or part objects."
+  },
+  {
+   "obligation_id": "CA-PIPEDA-2000:s9/p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, in the circumstances described in paragraph (b) or (c), if giving access to the information would reveal confidential commercial information or could reasonably be expected to threaten the life or security of another individual, as the case may be, and that information is severable from the record containing any other information for which access is requested, the organization shall give the individual access after severing."
+  },
+  {
+   "obligation_id": "CA-PIPEDA-2000:s9/p0/s9",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Notice (5) If an organization decides not to give access to personal information in the circumstances set out in paragraph (3)(c.1), the organization shall, in writing, so notify the Commissioner, and shall include in the notification any information that the Commissioner may specify. 2000, c. 5, s. 9, c. 17, s. 97; 2001, c. 41, s. 82; 2005, c. 46, s. 57; 2006, c. 9, s. 223; 2015, c. 32, s. 9 2019, c. 18, s. 61"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CA-PIPEDA-2000:s9",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

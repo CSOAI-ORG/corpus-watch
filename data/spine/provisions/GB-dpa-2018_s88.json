@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s88",
+ "label": "GB-dpa-2018 Section 88",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "618847a0dfef5995894c970ccb9de2fa67822955694e21ddbcf5001b5d91f5e2",
+ "sha256_v1": "",
+ "sha256_v2": "618847a0dfef5995894c970ccb9de2fa67822955694e21ddbcf5001b5d91f5e2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "618847a0dfef5995894c970ccb9de2fa67822955694e21ddbcf5001b5d91f5e2",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s88/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The third data protection principle\nThe third data protection principle is that personal data must be adequate, relevant and not excessive in relation to the purpose for which it is processed."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s88",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-ai-basic-act-2025:22",
+ "label": "KR-ai-basic-act-2025 제22조",
+ "instrument": "KR-ai-basic-act-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "b6e550925433426f2795ec1864fc6f799345dce014060c2f683d70e09bfdc79e",
+ "sha256_v1": "",
+ "sha256_v2": "b6e550925433426f2795ec1864fc6f799345dce014060c2f683d70e09bfdc79e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "b6e550925433426f2795ec1864fc6f799345dce014060c2f683d70e09bfdc79e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-ai-basic-act-2025:22/s1",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "제22조(국제협력 및 해외시장 진출의 지원) ① 정부는 인공지능과 관련한 국제적 동향을 파악하고 국제협력을 추진하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-ai-basic-act-2025:22",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

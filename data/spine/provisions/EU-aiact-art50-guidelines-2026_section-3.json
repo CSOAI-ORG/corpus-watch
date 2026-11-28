@@ -1,0 +1,176 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-aiact-art50-guidelines-2026:section-3",
+ "label": "EU-aiact-art50-guidelines-2026 Section 3",
+ "instrument": "EU-aiact-art50-guidelines-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "48061cd23e963e807d2a206331795aa51e4814c48730618d25787ce2ce8f2f0c",
+ "sha256_v1": "",
+ "sha256_v2": "48061cd23e963e807d2a206331795aa51e4814c48730618d25787ce2ce8f2f0c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "48061cd23e963e807d2a206331795aa51e4814c48730618d25787ce2ce8f2f0c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-3/p3/s1",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "disclose-ai",
+   "status": "DRAFT",
+   "text": "TRANSPARENCY FOR INTERACTIVE AI SYSTEMS\n(28)\nArticle 50(1) AI Act is addressed to providers of AI systems directly interacting with natural persons, who must design and develop their systems in such a way that the natural persons concerned are informed that they are interacting with an AI system."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-3/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "AI systems intended to interact directly with natural persons\n(30)\nFour elements must be present for a system to fall within the scope of Article 50(1) AI Act:"
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-3/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i) the system must be an AI system, (ii) intended to interact, (iii) directly, (iv) with natural persons."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-3/p3/s4",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The system must fulfil the elements of the AI system definition (18), which excludes simple non-AI automated response mechanisms (e.g., traditional out-of-office emails, rule-based quick message answers)."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-3/p3/s5",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The AI system must be intended to interact with natural persons."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-3/p3/s6",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The interaction between the AI system and the natural persons must be direct."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-3/p3/s7",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "AI agents must be designed and developed in such a way that they disclose both their artificial nature and the person on whose behalf they are acting, considering the need for transparency of the origin and the delegation of authority and accountability for the consequences of their actions."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-3/p3/s8",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The information must also be provided in an accessible format for natural persons with disabilities, as specified in Article 50(5) and Recital 132 AI Act (see Section 7)."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-3/p3/s9",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the system may interact with children, those notifications must be child-friendly, age-appropriate, easy-to-understand and easily accessible to all children, including those with disabilities or additional accessibility needs."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-3/p3/s10",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers must also design and develop the AI system to ensure disclosure in all situations where the AI system is being asked questions relating to its nature or to the origin of the interaction, or where it can be reasonably assumed from the exchanges with the natural person that that person is likely to be misled or confused about the AI origin of the interaction.\n3.2."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-3/p3/s11",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Exception for obvious interaction with an AI system\n(42)\nTo be able to rely on the first exception, providers will need to assess and demonstrate: i) the obvious artificial nature of the interaction to ii) a natural person who must be reasonably well-informed, observant and circumspect, taking into account the circumstances and the context of use."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-3/p3/s12",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The law authorising the use of the AI system must clearly specify the purposes and circumstances of permitted use and provide for appropriate safeguards to protect the rights and freedoms of third parties."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-3/p3/s13",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(48)\nTo fall within this exception, the purpose of the AI system must be to detect, prevent, investigate, or prosecute criminal offences (e.g."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-3/p3/s14",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such systems may be used, but they remain subject to the transparency obligation under Article 50(1) AI Act, so natural persons must be informed they are interacting with such systems."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-3/p3/s15",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where a service is AI-driven (such as a subscription-based chatbot, an AI companion application, or a virtual coaching service), the AI functionality may qualify as an essential characteristic that must be disclosed before the consumer is bound by a contract."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-aiact-art50-guidelines-2026:section-3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

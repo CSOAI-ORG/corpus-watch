@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "ES-ai-sandbox-rd-817-2023:11",
+ "label": "ES-ai-sandbox-rd-817-2023 Artículo 11",
+ "instrument": "ES-ai-sandbox-rd-817-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "31cfda4454b32a3c3835ba4258479f74ef3622d3ddc83de9ea84f4be6f131f57",
+ "sha256_v1": "",
+ "sha256_v2": "31cfda4454b32a3c3835ba4258479f74ef3622d3ddc83de9ea84f4be6f131f57",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "ES",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "31cfda4454b32a3c3835ba4258479f74ef3622d3ddc83de9ea84f4be6f131f57",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:11/s4",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "es:internal-record",
+   "status": "DRAFT",
+   "text": "Esta documentación deberá actualizarse a lo largo de la duración del entorno controlado de pruebas.\nd) Los sistemas de inteligencia artificial deberán técnicamente permitir el registro automático de eventos (logs) a lo largo del ciclo de vida del sistema."
+  },
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:11/s7",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "es:public-trace",
+   "status": "DRAFT",
+   "text": "En caso de que por las características del sistema de inteligencia artificial dicha supervisión no pueda ocurrir en tiempo real, deberá quedar recogido en las comunicaciones relacionadas con la transparencia del sistema.\nh) Los sistemas de inteligencia artificial habrán sido o serán diseñados y desarrollados de manera que consigan, teniendo en cuenta su finalidad prevista, un nivel adecuado de precisión, solidez y ciberseguridad."
+  },
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:11/s8",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Estas dimensiones deberán funcionar de manera consistente a lo largo de su ciclo de vida.\n2."
+  },
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:11/s9",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Los requisitos que deberá abordar cada participante se acordarán, juntamente con el órgano competente, al inicio del entorno controlado de pruebas mediante un plan de implementación."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=ES-ai-sandbox-rd-817-2023:11",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "TW-pdpa-1995:16",
+ "label": "TW-pdpa-1995 Article 16",
+ "instrument": "TW-pdpa-1995",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "059b77bd1a5778c2906700eccbe30d3ad528509a6cbb455f97e491ed7837fdcd",
+ "sha256_v1": "",
+ "sha256_v2": "059b77bd1a5778c2906700eccbe30d3ad528509a6cbb455f97e491ed7837fdcd",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "TW",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "059b77bd1a5778c2906700eccbe30d3ad528509a6cbb455f97e491ed7837fdcd",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "TW-pdpa-1995:16/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "公務機關對個人資料之利用，除第六條第一項所規定資料外，應於執行法定職務必要範圍內為之，並與蒐集之特定目的相符。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=TW-pdpa-1995:16",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

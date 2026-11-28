@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-equality-act-2010:s124A",
+ "label": "GB-equality-act-2010 Section 124A",
+ "instrument": "GB-equality-act-2010",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f86f317f6b75d68f974c0e763c703cd34fcb073d728ed2748f5ff527fcfcb723",
+ "sha256_v1": "",
+ "sha256_v2": "f86f317f6b75d68f974c0e763c703cd34fcb073d728ed2748f5ff527fcfcb723",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f86f317f6b75d68f974c0e763c703cd34fcb073d728ed2748f5ff527fcfcb723",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-equality-act-2010:s124A/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nThe tribunal must consider whether and to what extent the respondent has also contravened section 40A(1) (duty to take reasonable steps to prevent harassment of employees)."
+  },
+  {
+   "obligation_id": "GB-equality-act-2010:s124A/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nThe amount of the compensation uplift—\n(a)\nmust reflect the extent to which, in the tribunal’s opinion, the respondent has contravened section 40A(1), but\n(b)\nmay be no more than 25% of the amount awarded under section 124(2)(b)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-equality-act-2010:s124A",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

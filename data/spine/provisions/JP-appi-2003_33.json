@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:33",
+ "label": "JP-appi-2003 Article 33",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "5c6f9967dd621e96b3fe933818d35d8219389d2568cf7f2c6734e61574aa256e",
+ "sha256_v1": "",
+ "sha256_v2": "5c6f9967dd621e96b3fe933818d35d8219389d2568cf7f2c6734e61574aa256e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "5c6f9967dd621e96b3fe933818d35d8219389d2568cf7f2c6734e61574aa256e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:33/s3",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "ja:public-trace",
+   "status": "DRAFT",
+   "text": "２ 個人情報取扱事業者は、前項の規定による請求を受けたときは、本人に対し、同項の規定により当該本人が請求した方法（当該方法による開示に多額の費用を要する場合その他の当該方法による開示が困難である場合にあっては、書面の交付による方法）により、遅滞なく、当該保有個人データを開示しなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:33/s8",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "ja:public-trace",
+   "status": "DRAFT",
+   "text": "３ 個人情報取扱事業者は、第一項の規定による請求に係る保有個人データの全部若しくは一部について開示しない旨の決定をしたとき、当該保有個人データが存在しないとき、又は同項の規定により本人が請求した方法による開示が困難であるときは、本人に対し、遅滞なく、その旨を通知しなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:33",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

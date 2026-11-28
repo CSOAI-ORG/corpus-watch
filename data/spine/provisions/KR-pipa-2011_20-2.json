@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-pipa-2011:20-2",
+ "label": "KR-pipa-2011 제20조의2",
+ "instrument": "KR-pipa-2011",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "b32a715a69334168bd6866e9e7735258c4330a4dd26ed962148e57c2bf6855f4",
+ "sha256_v1": "",
+ "sha256_v2": "b32a715a69334168bd6866e9e7735258c4330a4dd26ed962148e57c2bf6855f4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "b32a715a69334168bd6866e9e7735258c4330a4dd26ed962148e57c2bf6855f4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-pipa-2011:20-2/s1",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "제20조의2(개인정보 이용ㆍ제공 내역의 통지) ① 대통령령으로 정하는 기준에 해당하는 개인정보처리자는 이 법에 따라 수집한 개인정보의 이용ㆍ제공 내역이나 이용ㆍ제공 내역을 확인할 수 있는 정보시스템에 접속하는 방법을 주기적으로 정보주체에게 통지하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-pipa-2011:20-2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

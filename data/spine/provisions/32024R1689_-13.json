@@ -1,0 +1,48 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:-13",
+ "label": "EU AI Act Annex XIII",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "276cd851ac5d51d8e014cc4b601c998dc4e4d143ab6f230e7ee0433ae26c0cce",
+ "sha256_v1": "276cd851ac5d51d8e014cc4b601c998dc4e4d143ab6f230e7ee0433ae26c0cce",
+ "sha256_v2": "00b7835c1d01e8e6d4ee2be4f37df62e16ae2943f9a11ecdd0be1243ef98b227",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "00b7835c1d01e8e6d4ee2be4f37df62e16ae2943f9a11ecdd0be1243ef98b227",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:-13/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "ANNEX XIII Criteria for the designation of general-purpose AI models with systemic risk referred to in Article 51 For the purpose of determining that a general-purpose AI model has capabilities or an impact equivalent to those set out in Article 51(1), point (a), the Commission shall take into account the following criteria:"
+  },
+  {
+   "obligation_id": "32024R1689:-13/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(f) whether it has a high impact on the internal market due to its reach, which shall be presumed when it has been made available to at least 10 000 registered business users established in the Union;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:-13",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

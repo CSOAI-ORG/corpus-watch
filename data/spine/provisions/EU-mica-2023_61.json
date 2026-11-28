@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:61",
+ "label": "EU-mica-2023 Article 61",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d95e228ae327b856b2b7b4ec8a50cf6b6d3dd42d15e9d685fb1854d20b91469d",
+ "sha256_v1": "",
+ "sha256_v2": "d95e228ae327b856b2b7b4ec8a50cf6b6d3dd42d15e9d685fb1854d20b91469d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d95e228ae327b856b2b7b4ec8a50cf6b6d3dd42d15e9d685fb1854d20b91469d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:61/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A client’s own exclusive initiative as referred to in paragraph 1 shall not entitle a third‐country firm to market new types of crypto-assets or crypto-asset services to that client."
+  },
+  {
+   "obligation_id": "EU-mica-2023:61/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ESMA shall by 30 December 2024 issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 to specify the situations in which a third-country firm is deemed to solicit clients established or situated in the Union."
+  },
+  {
+   "obligation_id": "EU-mica-2023:61/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In order to foster convergence and promote consistent supervision in respect of the risk of abuse of this Article, ESMA shall also issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 on supervision practices to detect and prevent circumvention of this Regulation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:61",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

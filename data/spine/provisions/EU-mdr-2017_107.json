@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:107",
+ "label": "EU-mdr-2017 Article 107",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "825102dbdac17e8824f7d886c0cfe6e93b9f614cc12bae835079fdb73b662647",
+ "sha256_v1": "",
+ "sha256_v2": "825102dbdac17e8824f7d886c0cfe6e93b9f614cc12bae835079fdb73b662647",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "825102dbdac17e8824f7d886c0cfe6e93b9f614cc12bae835079fdb73b662647",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:107/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Members of the MDCG, its sub-groups, and members of expert panels and expert laboratories shall not have financial or other interests in the medical device industry which could affect their impartiality."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:107/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "They shall undertake to act in the public interest and in an independent manner."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:107/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "They shall declare any direct or indirect interests they may have in the medical device industry and update that declaration whenever a relevant change occurs."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:107/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "The declaration of interests shall be made publicly available on the Commission website."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:107/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Experts and other third parties invited by the MDCG on a case-by-case basis shall declare any interests they may have in the issue in question."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:107",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

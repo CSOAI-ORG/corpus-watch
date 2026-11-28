@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-gpsr-2023:14",
+ "label": "EU-gpsr-2023 Article 14",
+ "instrument": "EU-gpsr-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "c7c50e159d9c6ccacffe25d5066849e5e7e21d8a6535385b7e8a7bd0c68ac59e",
+ "sha256_v1": "",
+ "sha256_v2": "c7c50e159d9c6ccacffe25d5066849e5e7e21d8a6535385b7e8a7bd0c68ac59e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "c7c50e159d9c6ccacffe25d5066849e5e7e21d8a6535385b7e8a7bd0c68ac59e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-gpsr-2023:14/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Internal processes for product safety\nEconomic operators shall ensure that they have internal processes for product safety in place, allowing them to comply with the relevant requirements of this Regulation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-gpsr-2023:14",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

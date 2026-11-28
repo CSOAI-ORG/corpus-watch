@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s67",
+ "label": "GB-dpa-2018 Section 67",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "f5a1f57cb636f2a1ede71953baa6424234235551456f3297affd2ec78ee75649",
+ "sha256_v1": "",
+ "sha256_v2": "f5a1f57cb636f2a1ede71953baa6424234235551456f3297affd2ec78ee75649",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f5a1f57cb636f2a1ede71953baa6424234235551456f3297affd2ec78ee75649",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s67/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Notification of a personal data breach to the Commission\n(1)\nIf a controller becomes aware of a personal data breach in relation to personal data for which the controller is responsible, the controller must notify the breach to the Commission—\n(a)\nwithout undue delay, and\n(b)\nwhere feasible, not later than 72 hours after becoming aware of it."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s67/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(3)\nWhere the notification to the Commission is not made within 72 hours, the notification must be accompanied by reasons for the delay."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s67/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nSubject to subsection (5), the notification must include—\n(a)\na description of the nature of the personal data breach including, where possible, the categories and approximate number of data subjects concerned and the categories and approximate number of personal data records concerned;"
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s67/p0/s4",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\nThe controller must record the following information in relation to a personal data breach—\n(a)\nthe facts relating to the breach,\n(b)\nits effects, and\n(c)\nthe remedial action taken."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s67/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(7)\nThe information mentioned in subsection (6) must be recorded in such a way as to enable the Commission to verify compliance with this section."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s67/p0/s6",
+   "paragraph": "0",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(9)\nIf a processor becomes aware of a personal data breach (in relation to personal data processed by the processor), the processor must notify the controller without undue delay."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s67",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

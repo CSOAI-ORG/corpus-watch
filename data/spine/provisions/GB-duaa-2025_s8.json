@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s8",
+ "label": "GB-duaa-2025 Section 8",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "677e7cacf64b28e0a9a43cc51fe0dfb49c21f665104e23b8c679d6691c546c92",
+ "sha256_v1": "",
+ "sha256_v2": "677e7cacf64b28e0a9a43cc51fe0dfb49c21f665104e23b8c679d6691c546c92",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "677e7cacf64b28e0a9a43cc51fe0dfb49c21f665104e23b8c679d6691c546c92",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s8/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nThe following subsections make provision about what regulations under subsection (1) may or must (among other things) contain (and see sections 9 and 10)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s8",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

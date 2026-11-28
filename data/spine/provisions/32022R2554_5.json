@@ -1,0 +1,78 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022R2554:5",
+ "label": "DORA Art. 5",
+ "instrument": "DORA",
+ "ladder": "CROSSWALK_ONLY",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "1f4791f7c30fbfc9a17a646bbf8fb49dbb918d7f6df376ec061e5c60933e2323",
+ "sha256_v1": "1f4791f7c30fbfc9a17a646bbf8fb49dbb918d7f6df376ec061e5c60933e2323",
+ "sha256_v2": "12d5fbce79687422ccb30381451d7fb422ba2e40e8942d23bdfb5b3be33e50c7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "12d5fbce79687422ccb30381451d7fb422ba2e40e8942d23bdfb5b3be33e50c7",
+ "agent_register_kinds": [
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022R2554:5/p1/s1",
+   "paragraph": "1",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Financial entities shall have in place an internal governance and control framework that ensures an effective and prudent management of ICT risk, in accordance with Article 6(4), in order to achieve a high level of digital operational resilience."
+  },
+  {
+   "obligation_id": "32022R2554:5/p2/s1",
+   "paragraph": "2",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "The management body of the financial entity shall define, approve, oversee and be responsible for the implementation of all arrangements related to the ICT risk management framework referred to in Article 6(1)."
+  },
+  {
+   "obligation_id": "32022R2554:5/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the purposes of the first subparagraph, the management body shall:"
+  },
+  {
+   "obligation_id": "32022R2554:5/p3/s1",
+   "paragraph": "3",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Financial entities, other than microenterprises, shall establish a role in order to monitor the arrangements concluded with ICT third-party service providers on the use of ICT services, or shall designate a member of senior management as responsible for overseeing the related risk exposure and relevant documentation."
+  },
+  {
+   "obligation_id": "32022R2554:5/p4/s1",
+   "paragraph": "4",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Members of the management body of the financial entity shall actively keep up to date with sufficient knowledge and skills to understand and assess ICT risk and its impact on the operations of the financial entity, including by following specific training on a regular basis, commensurate to the ICT risk being managed."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022R2554:5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

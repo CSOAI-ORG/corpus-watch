@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s66",
+ "label": "GB-osa-2023 Section 66",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "0e079b20cddee78c7ed5de0766a11bd35d2785a7136d6fc7714e11c28b1999b6",
+ "sha256_v1": "",
+ "sha256_v2": "0e079b20cddee78c7ed5de0766a11bd35d2785a7136d6fc7714e11c28b1999b6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "0e079b20cddee78c7ed5de0766a11bd35d2785a7136d6fc7714e11c28b1999b6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s66/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Requirement to report CSEA content to the NCA\n(1)\nA UK provider of a regulated user-to-user service must operate the service using systems and processes which secure (so far as possible) that the provider reports all detected and unreported CSEA content present on the service to the NCA."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s66/p0/s2",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nA non-UK provider of a regulated user-to-user service must operate the service using systems and processes which secure (so far as possible) that the provider reports all detected and unreported UK-linked CSEA content present on the service to the NCA (and does not report to the NCA CSEA content which is not UK-linked)."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s66/p0/s3",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nA UK provider of a regulated search service must operate the service using systems and processes which secure (so far as possible) that the provider reports all detected and unreported CSEA content present on websites or databases capable of being searched by the search engine to the NCA."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s66/p0/s4",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nA non-UK provider of a regulated search service must operate the service using systems and processes which secure (so far as possible) that the provider reports all detected and unreported UK-linked CSEA content present on websites or databases capable of being searched by the search engine to the NCA (and does not report to the NCA CSEA content which is not UK-linked)."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s66/p0/s5",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nA UK provider of a combined service must comply with the requirement under subsection (3) in relation to the search engine of the service."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s66/p0/s6",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\nA non-UK provider of a combined service must comply with the requirement under subsection (4) in relation to the search engine of the service."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s66/p0/s7",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(7)\nProviders’ reports under this section—\n(a)\nmust meet the requirements set out in regulations under section 67, and\n(b)\nmust be sent to the NCA in the manner, and within the time frames, set out in those regulations."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s66",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

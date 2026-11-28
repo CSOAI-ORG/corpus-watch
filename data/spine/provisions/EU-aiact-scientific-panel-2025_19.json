@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-aiact-scientific-panel-2025:19",
+ "label": "EU-aiact-scientific-panel-2025 Article 19",
+ "instrument": "EU-aiact-scientific-panel-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "c4b1953fb5349134c868770d4d4b43c091deea359726cc25ff7a23abb65b8b0c",
+ "sha256_v1": "",
+ "sha256_v2": "c4b1953fb5349134c868770d4d4b43c091deea359726cc25ff7a23abb65b8b0c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "c4b1953fb5349134c868770d4d4b43c091deea359726cc25ff7a23abb65b8b0c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:19/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The AI Office shall evaluate the qualified alerts issued pursuant to Article 90(1) of Regulation (EU) 2024/1689 and take a decision whether to launch any measures as provided for in Articles 91 to 93 of that Regulation."
+  },
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:19/p1/s2",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the AI Office decides not to launch any measures as provided for in Articles 91 to 93, it shall close the qualified alert."
+  },
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:19/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The AI Office shall process the qualified alert within two weeks from the receipt of the complete qualified alert."
+  },
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:19/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In this case the qualified alert shall not be considered complete until the additional information has been provided."
+  },
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:19/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Before launching the measures referred to in paragraph 1, the AI Office shall inform the Board in accordance with Article 90(2) of Regulation (EU) 2024/1689."
+  },
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:19/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the AI Office decides to launch a measure pursuant to Articles 91 to 93 of Regulation (EU) 2024/1689, the Secretariat, in consultation with the Chair of the scientific panel shall appoint a rapporteur and two contributors responsible to advise the Commission in the adoption of the measures."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-aiact-scientific-panel-2025:19",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

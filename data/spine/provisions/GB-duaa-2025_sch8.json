@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:sch8",
+ "label": "GB-duaa-2025 Schedule 8",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "299cd4096362aa6dcd8619490fdf714f512b61f9bad8284278b18d14671748d8",
+ "sha256_v1": "",
+ "sha256_v2": "299cd4096362aa6dcd8619490fdf714f512b61f9bad8284278b18d14671748d8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "299cd4096362aa6dcd8619490fdf714f512b61f9bad8284278b18d14671748d8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:sch8/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nIn subsection (1)—\n(a)\nfor the words before paragraph (a) substitute “The controller in relation to the transfer must secure that the transfer takes place only if—”,\n(b)\nomit the “and” at the end of paragraph (a), and\n(c)\nafter paragraph (b) insert\n, and—\n(c)\nthe transfer is carried out in accordance with the other provisions of this Part."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:sch8/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nIn considering whether the data protection test is met in relation to transfers of personal data to a third country or international organisation, the Secretary of State must consider, among other things—\n(a)\nrespect for the rule of law and for human rights in the country or by the organisation,\n(b)\nthe existence, and powers, of an authority responsible for enforcing the protection of data subjects with regard to the processing of personal data in the country or by the organisation,\n(c)\narrangements for judicial or non-judicial redress for data subjects in connection with such processing,\n(d)\nrules about the transfer of personal data from the country or by the organisation to other count"
+  },
+  {
+   "obligation_id": "GB-duaa-2025:sch8/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\nAfter subsection (2) insert—\n(2A)\nIn accordance with the third data protection principle, the amount of personal data transferred in reliance on this section must not be excessive in relation to the special purpose relied on."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:sch8/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nIn subsection (1)—\n(a)\nomit “Where personal data is transferred in accordance with section 73,”,\n(b)\nafter “transfer” insert\n—\n(a)\n,\n(c)\nfor “the data” substitute “the personal data”, and\n(d)\nat the end insert “(the\n“UK authoriser”), or\n(b)\nthat—\n(i)\nthe personal data is not to be so transferred without such authorisation except where subsection (1A) applies, and\n(ii)\nwhere a transfer is made without such authorisation, the UK authoriser must be informed without delay."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:sch8/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(9)\nIn subsection (6)—\n(a)\nafter “made” insert “in a case described in subsection (4)”,\n(b)\nfor “subsection (4)” substitute “that subsection (whether made with or without authorisation from the UK authoriser), the UK authoriser must, without delay, inform”, and\n(c)\nomit “must be informed without delay”."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:sch8/p0/s6",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(10)\nAt the end insert—\n(7)\nWhere a transfer takes place in reliance on section 73(4)(aa) (transfer to processor), the transferring controller must make it a condition of the transfer that the data is only to be further transferred to a third country or international organisation where—\n(a)\nthe terms of any relevant contract entered into, or authorisation given, by the transferring controller in accordance with section 59 are complied with, and\n(b)\nthe further transfer satisfies the requirements in section 73(1)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:sch8",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

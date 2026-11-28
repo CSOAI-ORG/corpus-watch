@@ -1,0 +1,3676 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-c2pa-spec-2026:section-16",
+ "label": "INTL-c2pa-spec-2026 Section 16",
+ "instrument": "INTL-c2pa-spec-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "787d502a09f4ea32d50a44db2804f8096681a0c2c9f872a3396e64ebb2acdb8d",
+ "sha256_v1": "",
+ "sha256_v2": "787d502a09f4ea32d50a44db2804f8096681a0c2c9f872a3396e64ebb2acdb8d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "787d502a09f4ea32d50a44db2804f8096681a0c2c9f872a3396e64ebb2acdb8d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s1",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "All assertions shall have a label as described in Section 8.2, “Labels” and shall be versioned as described in Chapter 5, Versioning."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s2",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Codestream content type shall not be used for a C2PA assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s3",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Unless otherwise mentioned, all assertions documented in this standard set of assertions shall be serialized as CBOR."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s4",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "All assertions that are serialized as CBOR shall comply with the Core Deterministic Encoding Requirements of CBOR (see RFC 8949, clause 4.2.1) with their schemas defined using a CDDL Definition."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The alg field, if present, shall be a string that is one of the allowed hash algorithms as defined in Section 12.1, “Hashing”, and that algorithm shall be used to compute the hash."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the alg field is not present, then the hashing algorithm shall be determined by the value of the alg field in the Claim."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The hash value shall be present in the hash field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s4",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If only a portion of the asset shall be hashed, then the range(s) to be excluded shall be present in the array value of the exclusions field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s5",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "These excluded ranges shall be ordered by increasing start position and shall not overlap."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s6",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For data hash exclusion ranges, the range shall begin and end within the same logical unit (e.g., box, segment, object) and shall not overlap with any header or length field associated with that unit, except for freebox or pad data."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s7",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Furthermore, the claim generator shall ensure the exclusion range only contains content from C2PA Manifest Store, or asset metadata (e.g., EXIF, IPTC metadata)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s8",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Claim generators shall not add this field to a data hash assertion, and consumers shall ignore the field when present, except this shall not affect inclusion of the field as part of the content being validated as described in Section 14.10.4, “Assertion Validation”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s9",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A data hash assertion shall have a label of c2pa.hash.data."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s10",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A data hash assertion shall not appear in a cloud data assertion or an external reference assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s11",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A data hash assertion shall not be used with a compressed manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s12",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Number of bytes of data to exclude\n}\nAn example in CBOR diagnostic notation (RFC 8949, clause 8) is shown below:\n{\n\"alg\" : \"sha256\",\n\"pad\" : '0000',\n\"hash\": 'Auxjtmax46cC2N3Y9aFmBO9Jfay8LEwJWzBUtZ0sUM8gA=',\n\"name\": \"JUMBF manifest\"\n\"exclusions\": [\n{\n\"start\": 9960,\n\"length\": 4213\n}\n],\n}\nNormally, the start and length values of an exclusion shall be written in their preferred serialization (i.e., \"as short as possible\")."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s13",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, when a data hash assertion needs to be created but the start and length values are not yet known, they shall be created \"as large as possible\", which would be as a 32-bit integer."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s14",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The pad value shall be present and shall be a zero-filled byte string."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s15",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The pad2 value, if present, shall be a zero-filled byte string."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s16",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Special consideration for JPEG 1\nWhen hashing a JPEG 1 (.jpg) file into which the C2PA Manifest will be embedded, the APP11 marker (FFEB) and the segment’s length (Lp) of all APP11 segments containing the JUMBF data shall be included in the exclusion range."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s17",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Description\nPortion(s) of a BMFF-based asset that a claim generator wishes to uniquely identify with a hard binding (i.e., cryptographic hash) shall be described using BMFF-based hash assertions."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s18",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A BMFF-based hash assertion shall have a label of c2pa.hash.bmff.v3."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s19",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "All Merkle trees used in BMFF-based hash assertions shall be balanced binary trees with the minimum depth necessary to accomodate leaf nodes, where NULL padding is applied only to the rightmost positions as needed to maintain the complete binary tree structure."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s20",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Validators shall ignore any c2pa.hash.bmff assertions, processing the manifest as if the assertion were not present."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s21",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A BMFF-based hash assertion shall not appear in a cloud data assertion nor an external reference assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s22",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Claim generators shall not add this field to a BMFF hash assertion, and consumers shall ignore the field when present, except this shall not affect inclusion of the field as part of the content being validated as described in Section 14.10.4, “Assertion Validation”.\n16.3.2.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s23",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Hash Computation\nThe alg field, if present, shall be a string that is one of the allowed hash algorithms as defined in Section 12.1, “Hashing”, and that algorithm shall be used to compute the hash."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s24",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the alg field is not present, then the hashing algorithm shall be determined by the value of the alg field in the Claim."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s25",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For a non-fragmented MP4 asset, the hash field, the merkle field, or both fields shall be present."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s26",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For a fragmented MP4 asset validated using a Merkle tree, the merkle field shall be present and the hash field shall be absent."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s27",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For live media segments used by any of the methods defined in Chapter 15, Live Media, the hash field shall be present and the merkle field shall be absent."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s28",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "These subset ranges shall be ordered by increasing offset value and shall not overlap."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s29",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The offset shall not be included for Merkle tree hashes when the bmff-hash-map includes both the hash and merkle fields."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s30",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The xpath field’s string syntax shall be limited to the following strict subset."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s31",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Only abbreviated syntax shall be used."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s32",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Only full paths shall be used."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s33",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Only node selection via node or node[integer] shall be used."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s34",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Descendent syntax, i.e., //, shall NOT be used."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p3/s35",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "All nodes shall be BMFF 4cc codes."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A non-leaf xpath node shall only point to a container box that has no fields of its own (i.e., contains no data, only child boxes) and that does not inherit from FullBox."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a child box of such an unusual box needs to be excluded in full or in part, the exclusions-map entry’s xpath field shall point to the unusual box itself and the subset-map field shall exclude the byte range(s) containing the excluded child box data."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For example, the 'sgpd' box contains other boxes but is unusual in that it inherits from FullBox; as such, if excluding child box(es), in whole or in part, from 'sgpd' is required, the assertion shall use an xpath field pointing to the 'sgpd' itself (e.g., /moof/traf/sgpd) and shall use the subset-map field to exclude the desired bytes."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p2/s4",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the C2PA Manifest is embedded into the file, the box containing it shall be one of the entries in the exclusions array."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p2/s8",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When the excluded box is added or the C2PA Manifest store size is increased, the 'free' box shall be shrunk (or removed) to compensate for the added data."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p2/s9",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However if there is insufficient space in the 'free' box, a standard manifest shall be used."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p2/s10",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those boxes and offsets shall be included in the input data contributed to the hash with their post-embed values, not their pre-embed values, or the BMFF-based hash assertion will not validate."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p2/s11",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When present, the Manifest Store with box box_purpose update shall appear at the end of BMFF file."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p2/s12",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a standard manifest is later added when a Manifest Store with box box_purpose set to update is present, its contents shall be moved to the Manifest Store with box box_purpose original."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p2/s14",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(optional) Length that a leafmost box must have to exclude from the hash.\n? \"length\": uint,\n;"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p2/s15",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(optional) The data in the leafmost box at the specified relative byte\n; offset must be identical to the specified data for the box to be excluded\n; from the hash.\n? \"data\": [1* data-map],\n;"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p2/s16",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each entry in the array must have a monotonically increasing relative byte\n; offset."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p2/s17",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(optional) Version that must be set in a leafmost box for the box to be\n; excluded from the hash."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p2/s18",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The 24-bit flags that must be set\n; in a leafmost box for the box to be excluded from the hash."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p2/s19",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(optional) indicates that flags must be an exact match."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p2/s20",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For fragmented MP4 assets that are split across multiple files, this field\n; is required to be present and is the hash of the entire initialization\n; segment file for chunks hashed by this Merkle tree excluding boxes listed in\n; the exclusions array."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p2/s21",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For fragmented MP4 assets that are stored as a single\n; flat MP4 file, this field is required to be present and is the hash of all\n; bytes preceding the first 'moof' box excluding boxes listed in the\n; exclusions array."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p2/s22",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For non-fragmented MP4, this field is required to be\n; absent.\n? \"initHash\": bstr,\n;"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s1",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Validating intitialization segment and a chunk’s data example\nTo verify track chunk m+3 you must first verify the corresponding initialization segment."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s2",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the asset contains multiple initialization segments then the Manifest store must be identical in each."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s3",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A general box hash assertion shall have a label of c2pa.hash.boxes."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s4",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The boxes shall appear in the assertion in the same order that they appear in the asset, including the box containing the C2PA Manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s5",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If this field is absent, or the field is present and its value is false, the box shall be hashed and the values compared."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s6",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each exclusion range shall be a map with start and length fields, indicating the byte offset (from the start of the box) and number of bytes to exclude."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s7",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "These ranges shall be ordered by increasing start offset and shall not overlap."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s8",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For box hash exclusion ranges, the range shall begin and end within one box and shall not overlap with any header or length field associated with that box, except for freebox or pad data."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s9",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Furthermore, the claim generator shall ensure the exclusion range only contains content from C2PA Manifest Store, or asset metadata (e.g., EXIF, IPTC metadata)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s10",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If both fields are present, the excluded field is set to true takes precedence and the exclusions field shall be ignored."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s11",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When the excluded field is set to false or the excluded field is absent, the exclusions field shall be applied."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s12",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the case where there are multiple instances of the same box type, such as multiple APP1 segments in a JPEG 1 file, each instance shall be listed separately in the assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s13",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The alg field in box-hash-map, if present, shall be a string that is one of the allowed hash algorithms as defined in Section 12.1, “Hashing”, and that algorithm shall be used to compute the hash."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s14",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the alg field is not present in box-hash-map, then the hashing algorithm shall be determined by the value of the alg field in the containing box-map, or if that is not present, by the value of the alg field in the Claim."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s15",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The creation of the hashes is described in Section 12.1, “Hashing”, and the value shall be present in the hash field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s16",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The hash value for a range of boxes shall be computed from the start of the first box (in the range) until the end of the last box (in the range)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s17",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The box containing the C2PA Manifest Store (e.g. caBX for PNG, or 21FF for GIF) shall also be listed in its own array."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s18",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In order to clearly identify it as the C2PA Manifest box, it shall have the name C2PA and the value of hash shall be the binary string 00 (a single byte with a value of 0)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s19",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The C2PA Manifest Store shall be represented as a single box, even in the case of a JPEG 1 file where the box is fragmented across multiple APP11 marker segments."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s20",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The optional pad and pad2 values, if present, shall be zero-filled byte strings."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s21",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A General Box Hash assertion shall not appear in a Cloud Data assertion or a External Reference assertion.\n16.3.3.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s22",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This box shall be labelled c2pa.after (for arbitrary data beyond the end of the box structure)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s23",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The c2pa.after box, if present, shall be the last box listed, and its hash shall be computed from the byte following the last box until the end of the physical file."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s24",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The hard binding assertion, which covers the whole asset, shall be the only assertion that can include a c2pa.after box."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s25",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A hash assertion for an individual part shall cover only the contents of that part itself, and not any other part.\n16.3.3.3."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s26",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In those situations, all non-C2PA APP11 boxes shall be included in the list of hashed boxes."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s27",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The APP11 boxes containing the C2PA Manifest Store shall be identified by C2PA."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s28",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "All other boxes shall be identified by the symbol found in ISO 10918-1:1994, Table B.1."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s29",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, if the claim generator plans to treat the MPF file as a multi-part asset, then the c2pa.after box shall be used to hash the additional parts that follow the EOI of the first Individual Image (the primary part).\n16.3.3.3.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s30",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For all boxes containing a block label, the naming convention shall be as follows: \"<Block Label>\"."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s31",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the purposes of calculating a general box hash, each L0 chunk shall be treated as a single box with a size of exactly 12 bytes, and a box name equal to the media type identifier (bytes 8-11)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s32",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each non-LIST L1 chunk shall be treated as a box with a name equal to the chunk identifier (bytes 0-3) and content extending from the beginning of the chunk identifier (byte 0) to the padding byte, if any, inclusive."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s33",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each LIST L1 chunk shall be treated as a box with a name equal to the list type identifier (bytes 8-11) and content extending from the beginning of the chunk identifier (byte 0) to the padding byte, if any, inclusive."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s34",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "All chunks nested within a LIST L1 chunk (L2 and higher) shall be treated as a part of the LIST L1 chunk’s content and hashed as a single box."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s35",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In all cases, padding bytes shall be treated as part of the preceding chunk’s content, and shall be included in the hash for that box.\n16.3.3.3.6."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s36",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The checkSumAdjustment value shall be treated as zero (0) when computing the hash for the box containing the head table."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s37",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Because font consumers shall not react to tables they do not recognize, existing font-handling infrastructure will expect that the head table’s checkSumAdjustment value incorporate the final settled content of the C2PA table itself, including any local manifest in its entirety.\n16.3.3.3.7."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s38",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The box-name for each non-C2PA logical bitstream shall be a string constructed in the format:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s39",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The bitstream_serial_number in the box name shall be the ASCII-encoded base-10 value of the 4-byte number for that stream, read as a 32-bit little-endian unsigned integer, found in its Ogg Page headers."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s40",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Example Box Hash\n// JPEG 1 Example //\n// with the first box containing exclusions //\n{\n\"alg\" : \"sha256\",\n\"boxes\": [\n{\n\"names\" : [\"SOI\", \"APP0\", \"APP2\"],\n\"hash\" : b64'...',\n\"pad\" : b64'',\n\"exclusions\": [\n{\n\"start\": 54,\n\"length\": 4,\n\"boxIndex\": 1,\n},\n{\n\"start\": 1234,\n\"length\": 56,\n\"boxIndex\": 1,\n},\n{\n\"start\": 54,\n\"length\": 4,\n\"boxIndex\": 2,\n}\n],\n},\n{\n\"names\" : [\"C2PA\"],\n\"hash\" : b64'AA==',\n\"pad\" : b64'',\n},\n{\n\"names\" : [\"DQT\", \"SOF0\", \"DHT\", \"SOS\", \"RST0\", \"RST1\", \"EOI\"],\n\"hash\" : b64'...',\n\"pad\" : b64'',\n}\n]\n}\n// PNG Example //\n// with the XMP box excluded //\n{\n\"alg\" : \"sha256\",\n\"boxes\": [\n{\n\"names\" : [\"PNGh\", \"IHDR\"],\n\"hash\" : b64'...',\n\"pad\" : b64'',\n},\n{\n\"names\" : [\"C2PA\"],\n\"hash\" : b64'AA"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s41",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, when a box hash assertion needs to be created but the start and length values are not yet known, they shall be created \"as large as possible\", which would be as a 32-bit integer.\n16.3.4."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s42",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Description\nIn workflows where it is known in advance that the C2PA Manifest will refer to a collection of assets, instead of a single asset, the collection data hash assertion shall be used as the method to specify the hard bindings (i.e., cryptographic hashes) for the assets in the collection."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s43",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A collection data hash assertion shall have a label of c2pa.hash.collection.data."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s44",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A collection data hash assertion shall not appear in a cloud data assertion.\n16.3.4.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s45",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The alg field, if present, shall be a string that is one of the allowed hash algorithms as defined in Section 12.1, “Hashing”, and that algorithm shall be used to compute the hash of each member of the collection."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s46",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the alg field is not present, then the hashing algorithm shall be determined by the value of the alg field in the Claim."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s47",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For each uri-hashed-data-map, the uri field shall be present."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s48",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Except in the container formats described below, whose members are identified by an absolute URI native to the container format rather than by path, it shall be a valid relative URI."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s49",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such relative URIs shall be considered as relative to the location of the manifest, regardless of whether that is local, in a container (e.g., ZIP) or in the cloud."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s50",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A claim generator shall validate or sanitize the URIs before use, ensuring that neither . nor .. appear as part of the URI."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s51",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The uri field shall not contain a query component."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s52",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "For container formats whose members are identified by an absolute URI native to the container format rather than by path (e.g., the WARC-Record-ID of a record in a WARC file, which ISO 28500:2017 requires to be a globally unique absolute URI but does not require to be a URN, see Section A.10, “Embedding manifests into WARC files”), the uri field shall be that identifier."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s53",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The hash shall be over all bytes (from 0 to n) of the content item - no exceptions."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s54",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Hashing the members of the collection\nEach file in the collection shall be hashed individually using the specific hash algorithm defined in the alg field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s55",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The resultant hash value shall be stored in the hash field of the uri-hashed-data-map associated with the uri to the file."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s56",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Not all files in a given hierarchy are required to be included in a hashed collection."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s57",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Details\nA multi-asset hash assertion shall have a label of c2pa.hash.multi-asset."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s58",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A multi-asset hash assertion shall not appear in a cloud data assertion nor an external reference assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s59",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each part, including the primary part, shall be represented as a part-hash-map object within the parts array."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s60",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The location field shall contain a locator object that describes the location of the part within the file."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s61",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The locator object shall contain either a bmffBox field or byteOffset and length fields."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s62",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The byteOffset field shall contain the byte offset (from the physical start of the file) of the part within the file, and the length shall contain the length of the part in bytes."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s63",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The bmffBox field shall contain the BMFF box of the part, when the part is contained with the primary part but as a specific BMFF box (e.g., mpvd as used by Motion Photo)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s64",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For a part described by a bmffBox field, the content of the part shall be considered the payload of that box only, excluding the box header."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s65",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The parts within the parts array shall be listed in the order in which they appear in the file, and the parts shall be contiguous, non-overlapping, and cover every byte of the asset."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s66",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The hashAssertion field shall contain a hashed URI to the hash assertion for the part."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s67",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A part’s hash assertion shall be a standard hard binding assertion (e.g., c2pa.hash.data), but the label shall have the string .part and any multiple instance identifier appended."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s68",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any uses of absolute byte offsets in a part’s hash assertion (e.g., the start value in a data hash exclusion range) shall be computed relative to the beginning of that part."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p16/s69",
+   "paragraph": "16",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The optional field shall be a boolean indicating if the presence of the part is optional - the default is false if not present."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p17/s1",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Details\nA segment hash assertion shall have a label of c2pa.hash.segment."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p17/s2",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It is a hard binding, and shall be used only for the assets described in Section A.3.17, “Embedding manifests into append-only text files”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p17/s3",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The version field shall be present and shall have a value of 1 for this version of this specification."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p17/s4",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The alg field, if present, shall be a string that is one of the allowed hash algorithms as defined in Section 12.1, “Hashing”, and that algorithm shall be used to compute both the hash and the predecessorSentinel.hash values."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p17/s5",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the alg field is not present, then the hashing algorithm shall be determined by the value of the alg field in the Claim."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p17/s6",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The segmentStart field shall contain the byte offset of the first byte of the segment, and the segmentEnd field shall contain the byte offset of the first byte of the sentinel line, which is the exclusive end of the segment."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p17/s7",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the first checkpoint in a file, segmentStart shall be"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The hash field shall contain the hash of the bytes [segmentStart, segmentEnd)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The sentinelLength field shall contain the byte length of the sentinel line that carries this manifest, including its terminating line ending."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It shall be present when the sentinel line references the C2PA Manifest Store by an external URI, and shall not be present when the C2PA Manifest Store is embedded inline in the sentinel line."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The predecessorSentinel field shall be present for every checkpoint after the first in a file, and shall not be present for the first checkpoint."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Its start and length fields shall locate the sentinel line of the immediately preceding checkpoint, and its hash field shall contain the hash of the bytes [start, start + length)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A segment hash assertion shall not appear in a cloud data assertion or an external reference assertion.\n16.3.6.3."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Description\nIf a claim generator will be providing a soft binding for the asset’s content, it shall be described using a soft binding assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Claim generators shall not add this field to a soft binding assertion, and consumers shall ignore the field when present, except this shall not affect inclusion of the field as part of the content being validated as described in Section 14.10.4, “Assertion Validation”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s9",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Claim generators shall not add this field to a soft binding assertion, and consumers should ignore the field when present."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s10",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A soft binding assertion shall have a label of c2pa.soft-binding.\n16.3.7.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s11",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Requirements\nThe soft binding algorithm used shall be present as the value of the alg field, and the blocks over which it was applied shall be listed in the blocks field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s12",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The optional pad and pad2 values, if present, shall be zero-filled byte strings.\n16.3.7.3.1. bindingMetadata\nA soft binding assertion may include a bindingMetadata key that provides for the specification of some algorithm or workflow-specific information via some pre-defined as well as custom fields (and their associated values)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s13",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Custom fields shall conform to the same syntax as entity-specific namespacing, e.g. com.litware.someFieldName."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s14",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The list is maintained as a JSON document by the C2PA at the following location: https://sbal.c2pa.org\nEntries in the soft binding algorithm list that have a deprecated field of true shall be considered deprecated and shall not be used to create soft binding assertions in manifests."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s15",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Deprecated algorithms shall not be used for creating soft bindings."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s16",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Deprecated algorithms may be used for resolving soft bindings but this behaviour is discouraged.\"\n},\n\"alg\": {\n\"type\": \"string\",\n\"pattern\": \"^[A-Za-z]{2,63}(?:\\\\.[A-Za-z0-9](?:[A-Za-z0-9-]*[A-Za-z0-9])?)+\\\\.?$\",\n\"description\": \"Entity-specific namespace as specified for C2PA Assertions labels that shall begin with the Internet domain name for the entity similar to how Java packages are defined (e.g., `com.example.algo1`, `net.example.algos.algo2`)\"\n},\n\"type\": {\n\"enum\": [\n\"watermark\",\n\"fingerprint\"\n],\n\"description\": \"Type of soft binding implemented by this algorithm.\"\n},\n\"decodedMediaTypes\": {\n\"type\": \"array\",\n\"minItems\": 1,\n\"items\": {\n\"enum\": [\n\"application\",\n\"audio\",\n\"image\",\n\"model\",\n\"text"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s17",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The format of these categories follows the entity-specific namespace as specified for C2PA Assertions labels that shall begin with the (reversed) Internet domain name for the entity similar to how Java packages are defined (e.g., `org.iptc.watermarking`, `net.example.cluster.context1`)\",\n\"items\": {\n\"type\": \"string\",\n\"pattern\": \"^[A-Za-z]{2,63}(?:\\\\.[A-Za-z0-9](?:[A-Za-z0-9-]*[A-Za-z0-9])?)+\\\\.?$\"\n}\n},\n\"dateEntered\": {\n\"type\": \"string\",\n\"format\": \"date-time\",\n\"description\": \"Date of entry for this algorithm.\"\n},\n\"contact\": {\n\"type\": \"string\",\n\"format\": \"email\"\n},\n\"informationalUrl\": {\n\"type\": \"string\",\n\"format\": \"uri\",\n\"description\": \"A web page containing more details about the algorithm.\"\n}"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s18",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The name shall follow the namespacing requirements and represent the owner of the algorithm."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s19",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If different versions of an algorithm are provided, then each shall have a separate entry in the Soft Binding Algorithm List."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s20",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The type of the algorithm shall be either 'watermark' or 'fingerprint' to represent that the algorithm is an invisible watermark, or a fingerprint."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s21",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "C2PA Manifests shall not be written using deprecated soft bindings."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s22",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The soft binding algorithm list entry shall contain a list of supported media types either as encodedMediaTypes or as decodedMediaTypes."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s23",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The supported media types for decodedMediaTypes shall correspond to one or more of the top-level IANA media types: \"application\", \"audio\", \"image\", \"model\", \"text\", \"video\"."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s24",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The supported media types for encodedMediaTypes shall correspond to one or more of the registered IANA subtypes of a decodedMediaType listed in the preceding sentence."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s25",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "These IANA top-level types and subtypes are listed at https://www.iana.org/assignments/media-types/media-types.xhtml\nAdditional information shall accompany each entry in the soft binding algorithm list, within the entryMetadata field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s26",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "contact-point",
+   "status": "DRAFT",
+   "text": "The contact details of the owner of the entry shall be provided as an email address (contact, required)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s27",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An informational URL (informationalUrl, required) shall be provided that references a human readable page describing characteristics of the soft binding algorithm."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s28",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Discovery of the C2PA Manifest shall be performed using one, or a combination of, algorithms identified by the alg field within the C2PA Soft Binding Algorithm List."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s29",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "The list is maintained as a JSON document by the C2PA at the following location: https://sbal.c2pa.org\nIf a C2PA Manifest is found in a manifest repository, and that manifest contains one or more soft binding assertions, then the matcher shall ensure that all soft binding assertions in the located manifest match the soft bindings used to perform the discovery."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s30",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A soft binding assertion shall be considered a match if both the algorithm identifier (alg) and the value (value) described within the assertion match the algorithm identifier (alg) and value (value) used to perform the match."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s31",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "There are two versions of the actions assertion - the deprecated v1 (with label c2pa.actions) and the new v2 (which shall have a label of c2pa.actions.v2)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p0/s32",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For each action present in either the actions or templates arrays, the value of the action field shall be either a pre-defined action name (c2pa.resized, c2pa.edited, etc.) or entity-specific action name (com.fabrikam.gaussianBlur, etc.)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the signer does not have the information to determine whether the transformation is editorial or non-editorial, they shall use c2pa.modified.\nc2pa.edited.metadata\nModifications to asset metadata or a metadata assertion but not the asset’s digital content."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Mandatory presence of at least one actions assertion\nThere shall be at least one actions assertion present in the created_assertions array of the Claim of a standard C2PA Manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the asset was created de novo (for example, as a result of performing a File → New operation in a creative tool, capturing a photo or video, or generating the media by a generative AI model), then the actions array in the first c2pa.actions assertion in the created_assertions array of the Claim shall have a c2pa.created action as its first element."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s3",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For all assets, a corresponding digitalSourceType field, with an appropriate value, shall be recorded with the c2pa.created action, to indicate the nature of the asset at its inception."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s4",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the asset is created with no digital content, then the digitalSourceType field shall have the value http://c2pa.org/digitalsourcetype/empty."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s5",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the asset was created by opening an existing asset as a parentOf ingredient for editing, then the actions array in the first c2pa.actions assertion in the created_assertions array of the Claim shall have a c2pa.opened action as its first element."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s6",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The claim generator shall also add a corresponding c2pa.ingredient.v3 assertion for the ingredient that was opened, and include a hashed-uri reference to it in the value of the ingredients field of its parameters object."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s7",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The full set of actions assertions in a C2PA Manifest shall contain no more than one action whose type is either c2pa.created or c2pa.opened."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s8",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "All actions included\nThe generator shall set the actions-map-v2 field, allActionsIncluded, which has a boolean value."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s9",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the situation where a claim generator is opening an asset strictly for the purposes of recording its c2pa.opened action and then immediately re-saving it without making any other changes, the claim generator shall set allActionsIncluded to true to assert that no other actions were performed on the asset."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s10",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Reason\nIf present, the reason field shall contain one of these standard values, or a custom value which conforms to the same syntax as entity-specific namespacing, for the rationale behind the action:\nc2pa.PII.present;\nc2pa.invalid.data;\nc2pa.trade-secret.present;\nc2pa.government.confidential."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s11",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When using a c2pa.redacted action, the reason field shall contain the rationale for the redaction."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s12",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If included, the value of the when field shall be compliant with CBOR date/times (RFC 8949, 3.4.1)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s13",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It shall be interpreted as equivalent to whenStart and whenEnd both having the same absolute value."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s14",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A v2 action may instead include whenStart, whenEnd, or both.\nwhenStart shall use generator-lower-bound-time-type, and whenEnd shall use generator-upper-bound-time-type, as defined in Section 8.9, “Specifications of time in assertions”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s15",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When both fields are present, the time represented by whenStart shall be less than or equal to the time represented by whenEnd."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s16",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Claim generators should use when, rather than equal start and end values, to express an exact action time.\nwhen shall not appear with whenStart or whenEnd in the same action."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s17",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When multiple softwareAgents are used, as described in Section 16.4.1.6.2, “SoftwareAgents”, then the softwareAgentIndex field shall be used to reference the softwareAgent by its 0-based index in the softwareAgents array."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s18",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A given action shall only have one softwareAgent or softwareAgentIndex field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s19",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Digital Source Type\nAn action may include a digitalSourceType key, whose value shall be one of the terms defined by the IPTC or a C2PA specific value from the list below:\nhttp://c2pa.org/digitalsourcetype/empty\nMedia whose digital content is effectively empty, such as a blank canvas or zero-length video.\nhttp://c2pa.org/digitalsourcetype/trainedAlgorithmicData\nData that is the result of algorithmically using a model derived from sampled content and data."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s20",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Custom fields shall conform to the same syntax as entity-specific namespacing, e.g. com.litware.someFieldName."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s21",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When using a c2pa.opened or c2pa.placed action, the ingredient field (for v1) or ingredients field (for v2) in the parameters object shall contain the hashed JUMBF URIs to one or more related ingredient assertions."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s22",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When using a c2pa.translated action, the sourceLanguage and targetLanguage fields in the parameters object shall contain RFC 5646, BCP 47 language codes."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Example of an action for Generative AI\nThe c2pa.created action for an image created by a Generative AI model, could look like this, in CBOR diagnostic notation (RFC 8949, clause 8):\n// an actions assertion used to describe output of Generative AI //\n{\n\"actions\": [\n{\n\"action\": \"c2pa.created\",\n\"when\": 0(\"2023-02-11T09:00:00Z\"),\n\"softwareAgent\" : {\n\"name\": \"Joe's Photo Editor\",\n\"version\": \"2.0\",\n\"operating_system\": \"Windows 10\"\n},\n\"digitalSourceType\": \"http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia\",\n\"parameters\" : {\n\"ingredients\" : [\n{\n\"url\": \"self#jumbf=c2pa.assertions/c2pa.ingredient.v3\",\n\"alg\": \"sha256\",\n\"hash\" : b64'...',\n},\n{\n\"url\": \"self#jumbf=c2pa.assertions/c2pa"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If present, the value shall be an array of one or more hashed JUMBF URIs identifying assertion(s) that are related to the action."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s3",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each entry in relatedAssertions shall reference an assertion in the same C2PA Manifest as the action."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s4",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Entries in relatedAssertions shall not reference an actions nor an ingredient assertion (i.e., an assertion whose label is c2pa.actions, c2pa.actions.v2, c2pa.ingredient, c2pa.ingredient.v2, or c2pa.ingredient.v3)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p5/s5",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Watermarking\nWhen using a c2pa.watermarked.bound action, a soft binding assertion shall also be included in the C2PA Manifest to describe the inserted watermark."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Action template example\nAn action and template, in CBOR diagnostic notation (RFC 8949, clause 8):\n// example of a single template applied to multiple actions //\n{\n\"actions\": [\n{\n\"action\": \"com.joesphoto.filter\",\n\"when\": 0(\"2020-02-11T09:00:00Z\")\n},\n{\n\"action\": \"c2pa.edited\",\n\"when\": 0(\"2020-02-11T09:10:00Z\")\n},\n{\n\"action\": \"com.joesphoto.filter\",\n\"when\": 0(\"2020-02-11T09:20:00Z\"),\n\"parameters\": {\n\"name\": \"com.joesphoto.override\"\n}\n},\n{\n\"action\": \"c2pa.cropped\",\n\"when\": 0(\"2020-02-11T09:30:00Z\")\n}\n],\n\"templates\": [{\n\"action\": \"com.joesphoto.filter\",\n\"description\": \"Magic Filter\",\n\"digitalSourceType\": \"http://cv.iptc.org/newscodes/digitalsourcetype/compositeSynthetic\",\n\"softwareAgent\" : {\n\"nam"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p18/s1",
+   "paragraph": "18",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A C2PA Manifest Consumer that encounters a templateParameters field in a template shall treat its key-value pairs as if they were in the parameters field and merge them into matching actions using the same precedence rules.\n16.4.1.6.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Since a Manifest Consumer will know about all the defined actions, such icons shall only be present in templates for entity-specific actions."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p7/s2",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The value of the icon field, if present, shall be a hashed URI."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p7/s3",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This hashed URI shall be to either a embedded data assertion or to a cloud data assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p7/s4",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a embedded data assertion is used, then its label shall be c2pa.icon and shall follow the rules of assertion labels with respect to multiple instances."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p7/s5",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Localizations\nIf the metadata of an actions assertion contains a localization dictionary for a template, then the localizations shall also apply to any action based on that template.\n16.4.1.8."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p7/s6",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it does so, then the ingredient assertion shall also contain a softBindingsMatched field with a value of true and a softBindingAlgorithmsMatched whose value contains at least one entry in the array."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p7/s7",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For example, a c2pa.opened or c2pa.placed action is required to reference the ingredient assertion(s) it was recorded for, as described in Section 16.5.3, “Relationship” and Section 16.4.1.4.8, “Parameters”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p7/s8",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As stated in Section 16.5.12, “Existing manifests”, an ingredient assertion shall not contain both an activeManifest and a digitalSourceType key."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p7/s9",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "They shall no longer be written into c2pa.actions or c2pa.actions.v2 assertions but may appear in pre-existing C2PA Manifests.\n16.4.1.14."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p7/s10",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Consumers shall treat the key-value\n; pairs in templateParameters as if they were in the parameters field, merging\n; them into matching actions using the same precedence rules.\n? \"templateParameters\": { parameters-common-map-v2 }\n}\nparameters-common-map-v2 = (\n* tstr => any\n)\nparameters-map-v2 = {\n;"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An external reference assertion shall have a label of c2pa.external-reference."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s2",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When used to reference an assertion, the label field shall be present and shall indicate the label of the complete assertion (packaged as JUMBF)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s3",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An external reference assertion shall not reference an assertion with any of the following labels:\nc2pa.actions (deprecated)\nc2pa.actions.v2\nc2pa.cloud-data\nc2pa.external-reference\nc2pa.hash.bmff.v2 (deprecated)\nc2pa.hash.bmff.v3\nc2pa.hash.boxes\nc2pa.hash.collection.data\nc2pa.hash.data\nc2pa.hash.multi-asset\nc2pa.hash.segment\nc2pa.ingredient (deprecated)\nc2pa.ingredient.v2 (deprecated)\nc2pa.ingredient.v3\nIf the label field is not present, the referenced data may be of any type."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s4",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The location field shall be present and its value shall be either a hashed-ext-uri-map or an unhashed-ext-uri-map containing a valid URI (url)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s5",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For privacy and reliability reasons, data referenced through an external reference assertion shall be considered optional: its contents should not be retrieved as part of manifest validation."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s6",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For unhashed references, retrieved data shall be treated as advisory unless independently verified by other means."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s7",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Entity-specific evidence types shall conform to the same syntax as entity-specific namespaces."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s8",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A relative URI in the relativeResources array shall be resolved according to the resolution rules of the container format in which the asset is embedded, using the location of the asset itself as the base URI."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s9",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a validator cannot determine the location of the asset (and therefore the base URI), it shall treat every entry in the relativeResources array as unresolvable; it shall not substitute a working directory or any other implementation-specific default as the base URI."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s10",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A linked resource integrity assertion shall have a label of c2pa.linked-resource-integrity."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s11",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When present, a linked resource integrity assertion shall only appear in created_assertions (see Section 10.3.2.1, “Adding Assertions and Redactions”)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s12",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such locations shall each be described using an asset reference assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s13",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The location shall be expressed via a URI."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s14",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An asset reference assertion shall have a label of c2pa.asset-ref."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s15",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When recorded, it shall only appear within an update manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s16",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A repository receipt assertion shall have a label of c2pa.repository-receipt."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s17",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The assertion body shall contain a JSON content type box containing the JSON-LD object describing the repository that ingested the C2PA Manifest and a repository-specific proof that the C2PA Manifest was ingested."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s18",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The @context property within the JSON-LD object shall be included."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s19",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The uri field shall contain the base URI of the C2PA Manifest Repository issuing the receipt."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s20",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The manifestId field shall contain a C2PA Manifest identifier that is canonical to the C2PA Manifest Repository (for example, a manifest URN)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s21",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The uri field shall contain a URI at which the receipt or ingestion proof may be verified."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s22",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The proof field shall contain a repository-defined JSON object demonstrating proof that the manifest was ingested."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s23",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "There are three versions of the ingredients assertion - the deprecated v1 (with label c2pa.ingredient), the deprecated v2 (with label c2pa.ingredient.v2), and the current v3 (which shall have a label of c2pa.ingredient.v3), which addresses the issue of validating ingredients after redaction."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s24",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Establishing unique identifiers\nIf the ingredient being added contains a C2PA Manifest, then its unique identifier shall be taken from the manifest label of the JUMBF superbox containing the ingredient’s active C2PA Manifest, and it is not necessary to provide the optional instanceID field of the ingredient assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s25",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When the claim generator provides the optional instanceID field of the ingredient assertion, then the value of the unique identifier shall be determined as specified by Section 9.3, “Identifying Non-C2PA Assets”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p8/s26",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Relationship\nWhen adding an ingredient, its relationship to the current asset shall be described."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When adding an ingredient assertion, a claim generator shall add a c2pa.actions assertion (see Section 16.4.1, “Actions”), if one does not already exist in the active manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p6/s5",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An ingredient assertion with a parentOf or componentOf relationship shall be listed in the same field of the claim (created_assertions or gathered_assertions, see Section 10.3.2.1, “Adding Assertions and Redactions”) as the actions assertion that refers to it (see Section 16.4.1.4.8, “Parameters”)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p6/s6",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For example, since the actions assertion containing the mandatory c2pa.opened action is required to be listed in created_assertions (see Section 16.4.1.2, “Mandatory presence of at least one actions assertion”), and its associated parentOf ingredient assertion shall likewise only be listed in created_assertions.\n16.5.4."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p6/s7",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Title\nIf present, the value of dc:title shall be a human-readable name for the ingredient, which may be taken either from the asset’s XMP or the asset’s name in a local or remote (e.g., cloud-based) filesystem."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p6/s8",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Format\nIf present, the value of dc:format shall be the IANA Media Type for the ingredient."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p6/s9",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It is recommended that a claim generator should provide this field and it shall contain a valid value."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p6/s10",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When describing a multi-file ingredient, such as the data set of an AI/ML model, the dc:format field shall be set to multipart/mixed.\n16.5.6."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s2",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a new thumbnail assertion is created in the active manifest, it shall also be added to the relatedAssertions field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s3",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The value of this field shall be an array of one or more hashed JUMBF URIs, each referencing an assertion, in the same C2PA Manifest, that is neither an ingredient nor an action assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s4",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each assertion referenced by relatedAssertions shall have a label ending in .ingredient, following the same naming convention used for ingredient thumbnails (see Section 8.2, “Labels”)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s5",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This label component shall follow the usual rules for assertion labels with respect to multiple instances (e.g., c2pa.ai-disclosure.ingredient__1 or com.litware.metadata.ingredient__1 for a second such instance)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p11/s1",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "General\nIf the ingredient has an existing C2PA Manifest Store, then all C2PA Manifests in the ingredient’s C2PA Manifest Store that have undergone validation, and that do not already exist in the asset’s C2PA Manifest Store, shall be copied by the claim generator into the asset’s C2PA Manifest Store, except as outlined in Section 16.5.13, “Copying existing manifests” or when directed not to do so (for example via user input or via configuration)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p11/s2",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Determining the need\nTo determine whether or not an existing manifest from the ingredient’s C2PA Manifest Store needs to be copied into the asset’s C2PA Manifest Store, the claim generator shall:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p11/s3",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a match is found, compute and compare the hash of the manifest box from ingredient’s C2PA Manifest Store to the hash of the matching manifest box from the asset’s C2PA Manifest Store\nIf the hashes match, then the claim generator shall not copy the manifest from the ingredient’s C2PA Manifest Store to the asset’s C2PA Manifest Store."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p11/s4",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The claim generator shall check if any assertions from either manifest were redacted (optionally utilizing the list of redactions compiled in the Performing explicit validation process)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p11/s5",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If all redactions were applied against the manifest already present in the asset’s C2PA Manifest Store, then the claim generator shall not copy the manifest from the ingredient’s C2PA Manifest Store into the asset’s C2PA Manifest Store."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p11/s6",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If all redactions were applied against the manifest from the ingredient’s Manifest Store, then the claim generator shall replace the manifest in the asset’s C2PA Manifest Store with the manifest from the ingredient’s C2PA Manifest Store."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p11/s7",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If different redactions were applied against both the C2PA Manifest from the ingredient’s C2PA Manifest Store and the asset’s C2PA Manifest Store, then the claim generator shall redact as many assertions as needed from the existing manifest in the asset’s C2PA Manifest Store to result in a union of the two sets of redactions."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p11/s8",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In all other cases, then the claim generator shall copy the manifest from the ingredient’s C2PA Manifest Store, re-label it with an updated URN per the process described in Unique Identifiers, and insert the re-labeled version into the asset’s C2PA Manifest Store."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p11/s9",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Adding manifest references to the ingredient assertion\nIf the active manifest of the ingredient has been copied into the asset’s C2PA Manifest Store, then a URI reference to the ingredient’s active C2PA Manifest box shall be stored as the value of the activeManifest field in the ingredient assertion, and an additional URI reference to the active Manifest’s C2PA Claim Signature box shall be stored as the value of claimSignature."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p11/s10",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For a C2PA Manifest present in the C2PA Manifest Store, hashed_uri`s shall be used as the values for both of the ingredient assertion’s `activeManifest and claimSignature fields."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p11/s11",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, in those cases where an ingredient is being added without a manifest, the ingredient assertion may include a digitalSourceType key, whose value shall be one of those allowed for the corresponding action field (Section 16.4.1.4.5, “Digital Source Type”)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p11/s12",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An ingredient assertion shall not contain both an activeManifest and a digitalSourceType key."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p12/s1",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "General\nIn addition, when the ingredient assertion references a C2PA Manifest, the claim generator shall also act as a validator, performing validation of the ingredient as described in validation steps."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p12/s2",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The result of that validation - all success codes, informational codes, and failure codes - shall be used in populating the ingredient assertion’s validationResults or validationStatus field as described below."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p12/s3",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This field is required to be present so that it can be used in future validations."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p12/s4",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The code shall conform to the same syntax as entity-specific namespaces (e.g. com.litware.malformedFrobber) and the validationStatus object shall contain a success boolean.\n16.5.13.4.3."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p12/s5",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "V3 ingredient assertions\nIn a v3 ingredient assertion with an activeManifest field, the validationResults field shall be present."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p12/s6",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When present, the validationResults field shall contain a validation-results-map object which in turn shall contain:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p12/s7",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The delta validation results for an ingredient assertion shall contain the following:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p12/s8",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This status value comparison shall consider the status type (success, informational, or failure), code, and url, ignoring other fields."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p13/s1",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each code is represented as a status-map object which shall contain a code field with the status code."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p13/s2",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The code shall conform to the same syntax as entity-specific namespaces (e.g. com.litware.malformedFrobber)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p13/s3",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If present, the trustListUris field shall contain one or more objects, each of which identifies a trust list on which a trust anchor match occurred during the validation of the claim signature or a TSA time-stamp."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p13/s4",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each trust-list-uri-map object in the trustListUris array shall contain a uri field, which identifies the trust list, and a type field, which identifies the type of trust list."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p13/s5",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The type field shall conform to the same syntax as entity-specific namespaces (e.g. c2pa.trustList or com.litware.trustList)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p13/s6",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For trust lists formatted per ETSI TS 119 602 or ETSI TS 119 612 (including the C2PA Trust List and C2PA TSA Trust List), if the identifier field is present, it shall contain the decimal string representation of the sequence number (LoTESequenceNumber, e.g. \"1\", \"42\") from the trust list’s ListAndSchemeInformation header."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p14/s1",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the Claim Generator does include such a C2PA Manifest, then it shall include a softBindingsMatched field indicating true, and a softBindingAlgorithmsMatched field containing an array of strings (of soft binding algorithm names that were used to discover the ingredient C2PA Manifest)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p14/s2",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The algorithm names shall be listed with the C2PA Soft Binding Algorithm List as identified within the alg field of entries in that list.\n16.6."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p14/s3",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Claim Thumbnails\nFor thumbnails created at claim creation time, the thumbnail assertion shall have the label c2pa.thumbnail.claim."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p14/s4",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "There shall be no more than one thumbnail assertion with this label in a C2PA Manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p14/s5",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An ingredient thumbnail assertion shall have a label that starts with c2pa.thumbnail.ingredient and follows the rules of assertion labels with respect to multiple instances."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p14/s6",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This assertion shall also be added to the ingredient’s relatedAssertions field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p14/s7",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It shall have a label of c2pa.alternative-content-representation."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p14/s8",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When referencing the OPI in MPF, the location shall be specified in the alternative content representation assertion by the index number of the item from the parts array described in the multi-asset hash assertion in the same C2PA Manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p14/s9",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When moving the OPI into the C2PA Manifest, the OPI shall be recorded using the embedded data assertion without any changes."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p14/s10",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the OPI in the asset is removed, the action assertion with the pre-defined “c2pa.deleted” shall be used, and when the image in the manifest is removed, the record of remove operation shall be described following the redaction rules (see Section 8.8, “Redaction of Assertions”)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p14/s11",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A C2PA Manifest shall not contain more than one alternative content representation assertion with the label exif.originalPreservationImage.\n16.6.2.2.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p14/s12",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The type field within the alternative content representation assertion shall be set to exif.originalPreservationImage."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p14/s13",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The parameters field shall be the original-preservation-image-params structure."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p14/s14",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The original-preservation-image-params structure shall use either the multiAssetPartIndex field to reference OPI data located within the asset in MPF, or the embeddedOriginalPreservationImage field to record the OPI inside the manifest, but shall not use both."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p14/s15",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The asset type assertion shall have a label of c2pa.asset-type.v2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p14/s16",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "There shall be at most one asset type assertion in a C2PA Manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p14/s17",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If present, the value of the dc:format field shall be the IANA Media Type of the asset."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p14/s18",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If present, the value of the types field shall be an array of zero or more maps (asset-type-map) specifying types associated with the asset."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p14/s19",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The value of the type field in this map shall come from Table 7, “Asset type values”, Table 8, “Model type values”, or use an entity-specific namespace (e.g., com.litware.types.abc), conforming to the syntax defined for assertion labels in Section 8.2.2, “Label Naming”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s1",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A Font Information assertion shall have a label of font.info, and there shall be at most one Font Information assertion per manifest.\n16.6.4.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s2",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "All depthmap assertions shall have a label that starts with c2pa.depthmap and be followed by a third section that identifies the type of depth map."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s3",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "C2PA depthmap assertions shall be captured optically, not inferred from a single 2D image via, for example, a machine learning model.\n16.6.5.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s4",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A GDepth depthmap assertion shall have a label of c2pa.depthmap.GDepth."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s5",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The schema for the data stored in this assertion shall always mirror the schema at https://developers.google.com/depthmap-metadata/reference."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s6",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If present, apps must update this property\n; when scaling, cropping or rotating the color image."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s7",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If present, apps must update this\n; property when scaling, cropping or rotating the color image."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s8",
+   "paragraph": "10",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Unit can be meter represented as \"m\" or could be millimeter represented as\n; \"mm\"\n$unit-choice /= \"m\"\n$unit-choice /= \"mm\"\nunit-type = $unit-choice .default \"m\"\n$depth-meas-choice /= \"OpticalAxis\"\n$depth-meas-choice /= \"OpticRay\"\ndepth-meas-type = $depth-meas-choice .default \"OpticalAxis\"\nAn example in CBOR diagnostic notation (RFC 8949, clause 8) is shown below:\n{\n\"GDepth:Far\": 878.7,\n\"GDepth:Data\": \"hoOspQQ1lFTy/4Tp8Epx670E5QW5NwkNR+2b30KFXug=\",\n\"GDepth:Mime\": \"image/jpeg\",\n\"GDepth:Near\": 29.3,\n\"GDepth:Model\": \"CameraCompany Shooter S1\",\n\"GDepth:Units\": \"mm\",\n\"GDepth:Format\": \"RangeInverse\",\n\"GDepth:Software\": \"Truepic Foresight Firmware for QC QRD8250 v0.01\",\n\"GDepth:Confidence\": \"acdbpQQ"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s9",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An embedded data assertion shall have a label that starts with c2pa.embedded-data and follows the rules of assertion labels with respect to multiple instances."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s10",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Technical Details\nSince the embedded data assertion is based on a JUMBF Embedded File content type box, it’s Embedded File Description box shall contain an IANA media type (e.g., image/png) as the value of the MEDIA TYPE field, and may contain a file name as the value of the FILE NAME field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s11",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It shall not have the External toggle bit set."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s12",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Binary Data box of the embedded data assertion shall be the bits of a file (such as a raster image or text prompt) in whatever format is desired by the claim generator, but matches the media type specified in the Embedded File Description box.\n16.6.7."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s13",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For privacy and reliability reasons, data referenced through a cloud data assertion shall be considered optional: their contents should not be retrieved as part of manifest validation."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s14",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The remote data described by a Cloud Data assertion must be static, as its location is specified via a hashed URI."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s15",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A cloud data assertion shall have a label of c2pa.cloud-data."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s16",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A cloud data assertion shall not refer to an assertion with any of the following labels:\nc2pa.action (deprecated)\nc2pa.actions.v2\nc2pa.cloud-data\nc2pa.hash.bmff.v2 (deprecated)\nc2pa.hash.bmff.v3\nc2pa.hash.boxes\nc2pa.hash.collection.data\nc2pa.hash.data\nc2pa.hash.multi-asset\nc2pa.hash.segment\nc2pa.ingredient (deprecated)\nc2pa.ingredient.v2 (deprecated)\nc2pa.ingredient.v3\nSince the cloud data assertion only contains a reference to externally hosted data, the size field shall contain the size of the data being referenced."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s17",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Because that is required to be present, the optional size field in the hashed external URI map shall not be present."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s18",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Similarly, the optional dc:format field in the hashed external URI map shall not be present.\n16.6.7.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s19",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In this version, there now exists a category of assertions that shall be used to represent metadata, in a standardized serialization."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s20",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Common Requirements\nA metadata assertion shall have either a label which ends in the string .metadata or .metadata.ingredient and is preceded by either the standard c2pa identifier or any other provided that it conforms to the same syntax as entity-specific namespaces."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s21",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each metadata assertion shall contain a single JSON content type box containing the JSON-LD serialization of one or more metadata values."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s22",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The @context property within the JSON-LD object shall be included, and used to provide context / namespaces for the metadata standards being specified."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s23",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Claim generators shall include in this assertion only the specific metadata fields enumerated in Appendix C, Implementation Details for c2pa.metadata."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s24",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Requirements\nA certificate status assertion shall have a label of c2pa.certificate-status, and a C2PA Manifest shall contain at most one certificate status assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s25",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The certificate status assertion consists of a CBOR map (defined as a certificate-status-map) and shall contain at least one entry in the ocspVals array."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s26",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As described in Section 13.5.2, “Certificate Revocation”, the claim generator queries the OCSP service indicated by the signing certificate, captures the response, and shall store it the same binary format as used when it is stored as an element of the ocspVals array of the rVals header (see Section G.6.4, “Revocation Values (rVals)”).\n16.7.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s27",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Requirements\nA time stamp assertion shall have a label of c2pa.time-stamp, and there shall be at most one time stamp assertion per C2PA Manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s28",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The time stamp assertion consists of a CBOR map (defined as a time-stamp-map) which shall contain at least one key-value pair (defined as a time-stamp-entry)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s29",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The key shall be the label of the C2PA Manifest receiving the time stamp, and the value shall be a CBOR byte string whose contents are described in the following paragraph."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s30",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The value for each time-stamp-entry shall be the same binary data found in the timeStampToken field of the TimeStampResp structure received in reply from an RFC 3161-compliant Time Stamping Authority (TSA) (RFC 3161) using detached content mode."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s31",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The TimeStampResp itself shall be obtained using the same process as described in Section 10.3.2.5.3, “Obtaining the time stamp”, with the exception that the contents of the payload field of Sig_structure shall be the value of the signature field of the COSE_Sign1_Tagged structure contained in the C2PA Claim Signature box of the C2PA Manifest that is receiving the time stamp.\n16.7.3."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s32",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Requirements\nA session keys assertion shall have a label of c2pa.session-keys, and a C2PA Manifest may contain at most one session keys assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s33",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The session keys assertion consists of a CBOR map (defined as a session-keys-data) and shall contain the following fields:\nkeys\nAn array of one or more session key objects."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s34",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each session key in the keys array is represented as an object containing the following fields:\nkey\nA COSE key that shall include a kid (key identifier) to ensure that the keys can be uniquely identified.\nminSequenceNumber\nAn unsigned integer representing the earliest sequence number that can be signed with this key.\ncreatedAt\nThe timestamp indicating when the session key was created formatted as CBOR tag 0 (RFC 3339 date-time).\nvalidityPeriod\nAn unsigned integer representing the validity period of the session keys in seconds, starting from the createdAt timestamp\nsignerBinding\nA detached signature of the Signer’s end-entity certificate, signed using the (private key) of the session key key,"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s35",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The payload of Sig_structure shall be the Signer’s end-entity certificate (the first certificate in the x5chain header parameter, as defined in Section 13.5, “X.509 Certificates” ) encoded as a CBOR byte string."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s36",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Session keys are valid from their individual createdAt until createdAt + validityPeriod, and shall only be used within their validity period."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s37",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The new session keys may have overlapping validity periods with previous session keys, but the minSequenceNumber for the new keys shall be greater than or equal to the current sequence number."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s38",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any such reference shall be a hashed JUMBF URI that resolves to an environmental sustainability assertion in the same C2PA Manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s39",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the energy_kwh field is present, it shall contain an object with a mandatory value field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s40",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The value shall be a non-negative number representing the energy consumption in \"kWh\" (kilowatt-hours), the standard unit for measurement of energy consumption (ISO/IEC TR 20226:2025)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s41",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the carbon_kgco2e field is present, it shall contain an object with a mandatory value field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s42",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The value shall be a non-negative number representing gross green house gas (GHG) emissions, and does not include accounting adjustments such as carbon offsets."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s43",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the water_litres field is present, it shall contain an object with a mandatory value field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s44",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The value shall be a non-negative number representing water consumption in \"litres\", the SI unit for measurement of fluid volume."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s45",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If present within the energy_kwh, carbon_kgco2e, or water_litres objects, the measurementMethod field shall contain a namespaced custom value describing the method used to obtain the measurement."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s46",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Custom values shall use reverse-DNS namespacing (for example, com.example.fabrikam.direct-measurement).\n16.8.1.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s47",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Details\nThe AI Disclosure assertion shall have a label of c2pa.ai-disclosure."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s48",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The value of the modelType field is an enumeration of AI model types defined in Table 8, “Model type values” and it shall be present in the ai-model-disclosure-map object."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s49",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If present, the value of the scientificDomain field shall conform to the arXiv taxonomy, e.g., \"cs.AI\", \"physics.optics\"."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s50",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "All other fields are optional, but if present, they shall conform to the types specified in the CDDL schema defined below.\n16.8.2.3."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s51",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such custom map keys shall be namespaced using the same entity-specific namespaces approach as described in Section 8.2.1, “Namespacing”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s52",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Claim generators shall not include this field.\n? \"dataSource\": source-map,\n; localizations for strings in the assertion\n? \"localizations\" : [1* $localization-data-entry]\n; describes a region of the asset where this assertion is relevant\n? \"regionOfInterest\" : region-map\n;"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s53",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "DateTime\nIf a dateTime field is present, its value shall be a date time string that complies with CBOR date/times (RFC 8949, 3.4.1)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s54",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A reviewRatings shall not be present if a dataSource object is present with a type field whose value is either humanEntry.anonymous or humanEntry.credentialed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s55",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The value field of the rating object shall be present with any integer value from 1 (worst) through 5 (best)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p10/s56",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If present, the explanation field shall contain a human-consumable string description of the type of rating."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p11/s1",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As defined in Section 8.9, “Specifications of time in assertions”, processStart shall use generator-lower-bound-time-type, and processEnd shall use generator-upper-bound-time-type."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p11/s2",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When both fields are present, the time value represented by processStart shall be less than or equal to the time value represented by processEnd."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p11/s3",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Localization Dictionary\nA localization dictionary shall consist of a single object, where each of its keys represents the translations using the language indexing technique from JSON-LD."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p11/s4",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the value that requires translation is not associated with a top-level key, then \"dot notation\" (.) shall be used to reference keys nested in objects."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p11/s5",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Array indexing notation ([n], n>=0) shall be used where a specific element in an array needs to be traversed."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p17/s1",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Examples of Localization Dictionaries\n{\n\"dc:title\": {\n\"en-US\": \"Kevin's Five Cats\",\n\"en-GB\": \"Lord Kevin's Five Cats\",\n\"es-MX\": \"Los Cinco Gatos de Kevin\",\n\"es-ES\": \"Los Thinco Gatos de Kevin\",\n\"fr\": \"Les Cinq Chats de Kevin\",\n\"ja\": \"ケヴィンの５匹の猫\"\n}\n}\n{\n\"actions[0].softwareAgent\": {\n\"en-US\": \"Joe's Photo Editor\",\n\"en-GB\": \"Joe's Photo Editor\",\n\"es\": \"Editor de fotos de Joe\",\n\"fr\": \"L'éditeur de photos de Joe\",\n\"ja\": \"ジョーの写真編集者\"\n}\n}\nAny such 3rd party keys or values are required to be namespaced in the same way as Section 8.2.1, “Namespacing”, e.g. com.litware."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p17/s2",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This field has been deprecated and shall no longer be included when generating a region of interest.\n16.9.2.2.1."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p17/s3",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In addition, it shall contain one of the following fields whose data is an object consisting of the specific data for that range:\nshape (for spatial);\ntime (for temporal);\nframe (for temporal or textual);\ntext (for textual);\nitem (for specifically identified items).\n16.9.2.2.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p17/s4",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Absolute times, sometimes referred to as \"wall clock time\", shall be specified using the Internet profile of ISO 8601 as described in RFC 3339."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p17/s5",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If no type field is provided, the range shall be in npt format."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p17/s6",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If no start field is provided, the range shall start at the beginning of the asset."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p17/s7",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If no end field is provided, the range shall end at the end of the asset."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p17/s8",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If neither the start nor the end fields are provided, the range shall represent the entire asset."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p17/s9",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The end time shall not be earlier than the start time."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p17/s10",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "At least one start or end field shall be provided."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p17/s11",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If no start is provided, the range shall start at the beginning of the asset."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p17/s12",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If no end is provided, the range shall end at the end of the asset."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p17/s13",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If neither is provided, the range shall represent the entire asset."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p17/s14",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If no start is provided, the range shall start at the beginning of the fragment."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p17/s15",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If no end is provided, the range shall end at the end of the fragment."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p17/s16",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If neither is provided, the range shall represent the entire fragment."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-16/p17/s17",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In such a case, the identifier shall be the URL or URI to where to locate the schema (though not necessary directly to a machine readable one).\n16.9.2.3."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-c2pa-spec-2026:section-16",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

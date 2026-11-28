@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s51",
+ "label": "GB-duaa-2025 Section 51",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a5ea5d9fcb8e1cdc54828fae6357fc8f434ee6a99ed0dcf21be84347989705c7",
+ "sha256_v1": "",
+ "sha256_v2": "a5ea5d9fcb8e1cdc54828fae6357fc8f434ee6a99ed0dcf21be84347989705c7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a5ea5d9fcb8e1cdc54828fae6357fc8f434ee6a99ed0dcf21be84347989705c7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s51/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nA notice under this section must state why the information is required for the purposes of the exercise of those functions."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s51/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)\nmay specify the form in which the information must be provided;"
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s51/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)\nmay specify the time at which, or the period within which, the information must be provided;"
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s51/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d)\nmay specify the place where the information must be provided."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s51/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nA notice under this section that is given to a person registered in the DVS register must provide information about the consequences under section 41 of failure to comply with the notice."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s51",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

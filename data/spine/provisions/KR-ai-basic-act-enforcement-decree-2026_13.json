@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-ai-basic-act-enforcement-decree-2026:13",
+ "label": "KR-ai-basic-act-enforcement-decree-2026 제13조",
+ "instrument": "KR-ai-basic-act-enforcement-decree-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "c8a93cadd8f98dbb072d4bd3216cbc951fa77e17764eb05cb358bf104b21abcb",
+ "sha256_v1": "",
+ "sha256_v2": "c8a93cadd8f98dbb072d4bd3216cbc951fa77e17764eb05cb358bf104b21abcb",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "c8a93cadd8f98dbb072d4bd3216cbc951fa77e17764eb05cb358bf104b21abcb",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:13/s1",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "제13조(학습용데이터 통합제공시스템의 구축 및 관리) ① 과학기술정보통신부장관은 법 제15조제4항에 따른 통합제공시스템(이하 “통합제공시스템”이라 한다)이 다음 각 호의 기능을 수행할 수 있도록 구축ㆍ관리해야 한다."
+  },
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:13/s11",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "③ 과학기술정보통신부장관은 제2항에 따라 정보 및 자료의 제출 등 협력을 요청하는 경우 「공공데이터의 제공 및 이용 활성화에 관한 법률」에 따른 공공데이터를 학습용데이터로 제공받으려는 사항에 대해서는 행정안전부장관과 협의해야 한다."
+  },
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:13/s13",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "④ 과학기술정보통신부장관은 통합제공시스템을 통하여 제공하는 학습용데이터의 최신성, 정확성 및 상호 연계성이 유지되도록 노력해야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-ai-basic-act-enforcement-decree-2026:13",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

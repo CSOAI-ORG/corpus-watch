@@ -1,0 +1,39 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022L2555:2",
+ "label": "NIS2 Directive Art. 2",
+ "instrument": "NIS2 Directive",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "6c69f3f647a00479b424a1e15beab4ada90ae6df3452ec7b03d15012548b86e8",
+ "sha256_v1": "6c69f3f647a00479b424a1e15beab4ada90ae6df3452ec7b03d15012548b86e8",
+ "sha256_v2": "9490abdf5791b0e1c4854770dd4a480f4a80127c7659b996df6b694e0d2ba2ad",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "da2e7ea862f131fe34a9a555b4647ef0f7f4aa74668ccb5fac78e6993a5a4502",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022L2555:2/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 2 scope",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022L2555:2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

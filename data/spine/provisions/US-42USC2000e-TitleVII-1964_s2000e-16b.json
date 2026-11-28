@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-42USC2000e-TitleVII-1964:s2000e-16b",
+ "label": "US-42USC2000e-TitleVII-1964 42 U.S.C. 2000e-16b",
+ "instrument": "US-42USC2000e-TitleVII-1964",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "57f3cb1cff09fd293e82563e05202471e8064f96960c83a0cf2cc19566e072a6",
+ "sha256_v1": "",
+ "sha256_v2": "57f3cb1cff09fd293e82563e05202471e8064f96960c83a0cf2cc19566e072a6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "57f3cb1cff09fd293e82563e05202471e8064f96960c83a0cf2cc19566e072a6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-42USC2000e-TitleVII-1964:s2000e-16b/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Discriminatory practices prohibited\n(a) Practices\nAll personnel actions affecting the Presidential appointees described in section 1219 1 of title 2 or the State employees described in section 2000e–16c of this title shall be made free from any discrimination based on—\n(1) race, color, religion, sex, or national origin, within the meaning of section 2000e–16 of this title;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-42USC2000e-TitleVII-1964:s2000e-16b",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

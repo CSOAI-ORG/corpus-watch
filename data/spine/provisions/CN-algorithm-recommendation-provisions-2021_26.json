@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-algorithm-recommendation-provisions-2021:26",
+ "label": "CN-algorithm-recommendation-provisions-2021 第二十六条",
+ "instrument": "CN-algorithm-recommendation-provisions-2021",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "a9a6834aa4317a6d8dfd9fd10a29e0bb2bbe71a3cf867b9bbe8ef53973a789d8",
+ "sha256_v1": "",
+ "sha256_v2": "a9a6834aa4317a6d8dfd9fd10a29e0bb2bbe71a3cf867b9bbe8ef53973a789d8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "a9a6834aa4317a6d8dfd9fd10a29e0bb2bbe71a3cf867b9bbe8ef53973a789d8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-algorithm-recommendation-provisions-2021:26/s1",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "zh:public-trace",
+   "status": "DRAFT",
+   "text": "第二十六条 完成备案的算法推荐服务提供者应当在其对外提供服务的网站、应用程序等的显著位置标明其备案编号并提供公示信息链接。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-algorithm-recommendation-provisions-2021:26",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

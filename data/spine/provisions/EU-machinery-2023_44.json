@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-machinery-2023:44",
+ "label": "EU-machinery-2023 Article 44",
+ "instrument": "EU-machinery-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "0d0a66e595802da7e118780f6ee8681b45d61645a1f45875d185361668370ee8",
+ "sha256_v1": "",
+ "sha256_v2": "0d0a66e595802da7e118780f6ee8681b45d61645a1f45875d185361668370ee8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "0d0a66e595802da7e118780f6ee8681b45d61645a1f45875d185361668370ee8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-machinery-2023:44/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where, on completion of the procedure set out in Article 43(4), (6) and (7) objections are raised against a measure taken by a Member State, or where the Commission considers a national measure to be contrary to Union legal acts, the Commission shall without delay enter into consultation with the Member States and the relevant economic operator or operators and shall evaluate the national measure."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:44/p1/s2",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "On the basis of the results of that evaluation, the Commission shall adopt an implementing act in the form of a decision determining whether the national measure is justified or not."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:44/p1/s3",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall address its decision to all Member States and shall without delay communicate it to them and to the relevant economic operator or operators."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:44/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "If the national measure is considered to be justified, all Member States shall ensure that appropriate restrictive measures, such as withdrawal, are taken in respect of the non-compliant product within the scope of this Regulation, and shall inform the Commission accordingly."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:44/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "If the national measure is considered to be unjustified, the Member State concerned shall withdraw that measure."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-machinery-2023:44",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

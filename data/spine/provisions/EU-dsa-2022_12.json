@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:12",
+ "label": "EU-dsa-2022 Article 12",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "0bf1621c2d90fc84a72e4aaf42d45d19367f58ab1553d2e00b18361bad63f9e8",
+ "sha256_v1": "",
+ "sha256_v2": "0bf1621c2d90fc84a72e4aaf42d45d19367f58ab1553d2e00b18361bad63f9e8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "0bf1621c2d90fc84a72e4aaf42d45d19367f58ab1553d2e00b18361bad63f9e8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:12/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "OBSERVED",
+   "rule": "contact-point",
+   "status": "DRAFT",
+   "text": "Providers of intermediary services shall designate a single point of contact to enable recipients of the service to communicate directly and rapidly with them, by electronic means and in a user-friendly manner, including by allowing recipients of the service to choose the means of communication, which shall not solely rely on automated tools."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:12/p2/s1",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In addition to the obligations provided under Directive 2000/31/EC, providers of intermediary services shall make public the information necessary for the recipients of the service in order to easily identify and communicate with their single points of contact."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:12/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That information shall be easily accessible, and shall be kept up to date."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:12",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:-2",
+ "label": "EU AI Act Annex II",
+ "instrument": "EU AI Act",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "108b8b01b15bfb8de09a2ad9ee60bf78e4223ab1911634a44c2bbb1243bb1cc7",
+ "sha256_v1": "108b8b01b15bfb8de09a2ad9ee60bf78e4223ab1911634a44c2bbb1243bb1cc7",
+ "sha256_v2": "108b8b01b15bfb8de09a2ad9ee60bf78e4223ab1911634a44c2bbb1243bb1cc7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "108b8b01b15bfb8de09a2ad9ee60bf78e4223ab1911634a44c2bbb1243bb1cc7",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:-2/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:-2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

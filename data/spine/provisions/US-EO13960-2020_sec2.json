@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO13960-2020:sec2",
+ "label": "US-EO13960-2020 Section 2",
+ "instrument": "US-EO13960-2020",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3dd5c4f94aca48d8580f8613108a7501e80c403e044d157ec338c8592186ad34",
+ "sha256_v1": "",
+ "sha256_v2": "3dd5c4f94aca48d8580f8613108a7501e80c403e044d157ec338c8592186ad34",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "3dd5c4f94aca48d8580f8613108a7501e80c403e044d157ec338c8592186ad34",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO13960-2020:sec2/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) It is the policy of the United States that responsible agencies, as defined in section 8 of this order, shall, when considering the design, development, acquisition, and use of AI in Government, be guided by the common set of Principles set forth in section 3 of this order, which are designed to foster public trust and confidence in the use of AI, protect our Nation's values, and ensure that the use of AI remains consistent with all applicable laws, including those related to privacy, civil rights, and civil liberties."
+  },
+  {
+   "obligation_id": "US-EO13960-2020:sec2/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) It is the policy of the United States that the Principles for the use of AI in Government shall be governed by common policy guidance issued by the Office of Management and Budget (OMB) as outlined in section 4 of this order, consistent with applicable law."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO13960-2020:sec2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

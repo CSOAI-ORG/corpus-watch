@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "TW-pdpa-1995:13",
+ "label": "TW-pdpa-1995 Article 13",
+ "instrument": "TW-pdpa-1995",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "81f60438adcfc87267204e8ae35ff174855b954942c3461305df83f9a074667d",
+ "sha256_v1": "",
+ "sha256_v2": "81f60438adcfc87267204e8ae35ff174855b954942c3461305df83f9a074667d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "TW",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "81f60438adcfc87267204e8ae35ff174855b954942c3461305df83f9a074667d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "TW-pdpa-1995:13/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "公務機關或非公務機關受理當事人依第十條規定之請求，應於十五日內，為准駁之決定；"
+  },
+  {
+   "obligation_id": "TW-pdpa-1995:13/s3",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "必要時，得予延長，延長之期間不得逾十五日，並應將其原因以書面通知請求人。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=TW-pdpa-1995:13",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

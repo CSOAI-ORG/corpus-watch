@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB2013-trainingdata-2024:SEC-1:3111.",
+ "label": "US-CA-AB2013-trainingdata-2024 SECTION 1. / 3111.",
+ "instrument": "US-CA-AB2013-trainingdata-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "d5a58c03528d72e6907323588095be251bb3dbdcf0f3b18d4f7ddf32b4f66db1",
+ "sha256_v1": "",
+ "sha256_v2": "d5a58c03528d72e6907323588095be251bb3dbdcf0f3b18d4f7ddf32b4f66db1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "d5a58c03528d72e6907323588095be251bb3dbdcf0f3b18d4f7ddf32b4f66db1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB2013-trainingdata-2024:SEC-1:3111./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "On or before January 1, 2026, and before each time thereafter that a generative artificial intelligence system or service, or a substantial modification to a generative artificial intelligence system or service, released on or after January 1, 2022, is made publicly available to Californians for use, regardless of whether the terms of that use include compensation, the developer of the system or service shall post on the developer’s internet website documentation regarding the data used by the developer to train the generative artificial intelligence system or service, including, but not be limited to, all of the following:"
+  },
+  {
+   "obligation_id": "US-CA-AB2013-trainingdata-2024:SEC-1:3111./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)A developer shall not be required to post documentation regarding the data used to train a generative artificial intelligence system or service for any of the following:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB2013-trainingdata-2024:SEC-1:3111.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,146 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:14",
+ "label": "EU-eudpr-2018 Article 14",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "89f79cbd79f7044500ca8a23518e84640ec80511128293ca3cc7e3e90ac7046b",
+ "sha256_v1": "",
+ "sha256_v2": "89f79cbd79f7044500ca8a23518e84640ec80511128293ca3cc7e3e90ac7046b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "89f79cbd79f7044500ca8a23518e84640ec80511128293ca3cc7e3e90ac7046b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:14/p1/s1",
+   "paragraph": "1",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "The controller shall take appropriate measures to provide any information referred to in Articles 15 and 16 and any communication under Articles 17 to 24 and 35 relating to processing to the data subject in a concise, transparent, intelligible and easily accessible form, using clear and plain language, in particular for any information addressed specifically to a child."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:14/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The information shall be provided in writing, or by other means, including, where appropriate, by electronic means."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:14/p2/s1",
+   "paragraph": "2",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller shall facilitate the exercise of data subject rights under Articles 17 to"
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:14/p24/s1",
+   "paragraph": "24",
+   "addressee": "controller",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the cases referred to in Article 12(2), the controller shall not refuse to act on the request of the data subject for exercising his or her rights under Articles 17 to 24, unless the controller demonstrates that it is not in a position to identify the data subject."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:14/p3/s1",
+   "paragraph": "3",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller shall provide information on action taken on a request under Articles 17 to 24 to the data subject without undue delay and in any event within one month of receipt of the request."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:14/p3/s2",
+   "paragraph": "3",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "The controller shall inform the data subject of any such extension within one month of receipt of the request, together with the reasons for the delay."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:14/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the data subject makes the request by electronic form means, the information shall be provided by electronic means where possible, unless otherwise requested by the data subject."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:14/p4/s1",
+   "paragraph": "4",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "If the controller does not take action on the request of the data subject, the controller shall inform the data subject without delay and at the latest within one month of receipt of the request of the reasons for not taking action and on the possibility of lodging a complaint with the European Data Protection Supervisor and seeking a judicial remedy."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:14/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Information provided under Articles 15 and 16 and any communication and any actions taken under Articles 17 to 24 and 35 shall be provided free of charge."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:14/p5/s2",
+   "paragraph": "5",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller shall bear the burden of demonstrating the manifestly unfounded or excessive character of the request."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:14/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the icons are presented electronically they shall be machine-readable."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:14/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the Commission adopts delegated acts pursuant to Article 12(8) of Regulation (EU) 2016/679 determining the information to be presented by the icons and the procedures for providing standardised icons, Union institutions and bodies shall, where appropriate, provide the information pursuant to Articles 15 and 16 of this Regulation in combination with such standardised icons."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:14",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

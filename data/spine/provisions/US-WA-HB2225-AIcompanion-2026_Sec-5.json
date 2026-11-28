@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-WA-HB2225-AIcompanion-2026:Sec-5",
+ "label": "US-WA-HB2225-AIcompanion-2026 Sec. 5",
+ "instrument": "US-WA-HB2225-AIcompanion-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "46715efebd35ba787d31fc7a8b3293a35989ce224b058366b2b913e5e22cb8e4",
+ "sha256_v1": "",
+ "sha256_v2": "46715efebd35ba787d31fc7a8b3293a35989ce224b058366b2b913e5e22cb8e4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "46715efebd35ba787d31fc7a8b3293a35989ce224b058366b2b913e5e22cb8e4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-WA-HB2225-AIcompanion-2026:Sec-5/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2) The protocol must:"
+  },
+  {
+   "obligation_id": "US-WA-HB2225-AIcompanion-2026:Sec-5/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3) The operator shall publicly disclose on their website or websites, and within any mobile or web-based application through which the AI companion is made available, the details of the protocols required by this section, including safeguards used to detect and respond to expressions of suicidal ideation or self-harm and the number of crisis referral notifications issued to users in the preceding calendar year."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-WA-HB2225-AIcompanion-2026:Sec-5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

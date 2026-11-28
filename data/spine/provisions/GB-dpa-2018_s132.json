@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s132",
+ "label": "GB-dpa-2018 Section 132",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "4c97958caee082cadaccc85f30e18ed8b9170d33af464dc2b23b53992a98cf94",
+ "sha256_v1": "",
+ "sha256_v2": "4c97958caee082cadaccc85f30e18ed8b9170d33af464dc2b23b53992a98cf94",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "4c97958caee082cadaccc85f30e18ed8b9170d33af464dc2b23b53992a98cf94",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s132/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Confidentiality of information\n(1)\nA person who is or has been a member of the Commission or a member of its staff, or an agent of the Commission, must not disclose information which—\n(a)\nhas been obtained by, or provided to, the Commission in the course of, or for the purposes of, the discharging of the Commission's functions,\n(b)\nrelates to an identified or identifiable individual or business, and\n(c)\nis not available to the public from other sources at the time of the disclosure and has not previously been available to the public from other sources,\nunless the disclosure is made with lawful authority."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s132",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

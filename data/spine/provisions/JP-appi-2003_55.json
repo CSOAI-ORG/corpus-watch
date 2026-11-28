@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:55",
+ "label": "JP-appi-2003 Article 55",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "bc32e50e8d887909635743beda11aef0fe81f2d0279166752f0299aeec6e2969",
+ "sha256_v1": "",
+ "sha256_v2": "bc32e50e8d887909635743beda11aef0fe81f2d0279166752f0299aeec6e2969",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "bc32e50e8d887909635743beda11aef0fe81f2d0279166752f0299aeec6e2969",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:55/s2",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "認定個人情報保護団体は、認定業務の実施に際して知り得た情報を認定業務の用に供する目的以外に利用してはならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:55",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB354-2026:SEC-2:791.27.",
+ "label": "US-CA-SB354-2026 SEC. 2. / 791.27.",
+ "instrument": "US-CA-SB354-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ad7bf3c6d6e747fe1367ee2b7e763e8ac17afdc1c49248339476bcdeb5db88dc",
+ "sha256_v1": "",
+ "sha256_v2": "ad7bf3c6d6e747fe1367ee2b7e763e8ac17afdc1c49248339476bcdeb5db88dc",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "ad7bf3c6d6e747fe1367ee2b7e763e8ac17afdc1c49248339476bcdeb5db88dc",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.27./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)A disability insurer that provides coverage for hospital, medical, or surgical expenses shall not release any information to an employer that would directly or indirectly indicate to the employer that an employee is receiving or has received services from a health care provider covered by the plan unless authorized to do so by the employee."
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.27./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An insurer that has, pursuant to an agreement, assumed the responsibility to pay compensation pursuant to Article 3 (commencing with Section 3750) of Chapter 4 of Part 1 of Division 4 of the Labor Code, shall not be considered an employer for the purposes of this section."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB354-2026:SEC-2:791.27.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

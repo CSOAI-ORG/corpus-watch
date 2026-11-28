@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-pld-2024:17",
+ "label": "EU-pld-2024 Article 17",
+ "instrument": "EU-pld-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8dcc74a999d47c921f7c340b05f99bb98eeda69aba7b2cc557c95da06ba9245a",
+ "sha256_v1": "",
+ "sha256_v2": "8dcc74a999d47c921f7c340b05f99bb98eeda69aba7b2cc557c95da06ba9245a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8dcc74a999d47c921f7c340b05f99bb98eeda69aba7b2cc557c95da06ba9245a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-pld-2024:17/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that an injured person is no longer entitled to compensation pursuant to this Directive upon the expiry of a period of 10 years, unless that injured person has, in the meantime, initiated proceedings against an economic operator that can be held liable pursuant to Article"
+  },
+  {
+   "obligation_id": "EU-pld-2024:17/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That period shall run from:"
+  },
+  {
+   "obligation_id": "EU-pld-2024:17/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "By way of exception from paragraph 1, where an injured person has not been able to initiate proceedings within 10 years of the dates referred to in paragraph 1 due to the latency of a personal injury, the injured person shall no longer be entitled to compensation pursuant to this Directive upon the expiry of a period of 25 years, unless that injured person has, in the meantime, initiated proceedings against an economic operator that can be held liable pursuant to Article 8."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-pld-2024:17",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

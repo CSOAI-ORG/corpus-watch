@@ -1,0 +1,136 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:33",
+ "label": "EU-dsa-2022 Article 33",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "8fd2aeccd702a25cc134c00bf6ddfff6c6093cbcf48f35b8f5ccb67a8a99f84e",
+ "sha256_v1": "",
+ "sha256_v2": "8fd2aeccd702a25cc134c00bf6ddfff6c6093cbcf48f35b8f5ccb67a8a99f84e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "8fd2aeccd702a25cc134c00bf6ddfff6c6093cbcf48f35b8f5ccb67a8a99f84e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:33/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall adopt delegated acts in accordance with Article 87 to adjust the number of average monthly active recipients of the service in the Union referred to in paragraph 1, where the Union’s population increases or decreases at least by 5 % in relation to its population in 2020 or its population after adjustment by means of a delegated act in the year in which the latest delegated act was adopted."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:33/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In such a case, it shall adjust the number so that it corresponds to 10 % of the Union’s population in the year in which it adopts the delegated act, rounded up or down to allow the number to be expressed in millions."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:33/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall, after having consulted the Member State of establishment or after taking into account the information provided by the Digital Services Coordinator of establishment pursuant to Article 24(4), adopt a decision designating as a very large online platform or a very large online search engine for the purposes of this Regulation the online platform or the online search engine which has a number of average monthly active recipients of the service equal to or higher than the number referred to in paragraph 1 of this Article."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:33/p4/s2",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall take its decision on the basis of data reported by the provider of the online platform or of the online search engine pursuant to Article 24(2), or information requested pursuant to Article 24(3) or any other information available to the Commission."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:33/p4/s3",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The failure by the provider of the online platform or of the online search engine to comply with Article 24(2) or to comply with the request by the Digital Services Coordinator of establishment or by the Commission pursuant to Article 24(3) shall not prevent the Commission from designating that provider as a provider of a very large online platform or of a very large online search engine pursuant to this paragraph."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:33/p4/s4",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the Commission bases its decision on other information available to the Commission pursuant to the first subparagraph of this paragraph or on the basis of additional information requested pursuant to Article 24(3), the Commission shall give the provider of the online platform or of the online search engine concerned 10 working days in which to submit its views on the Commission’s preliminary findings and on its intention to designate the online platform or the online search engine as a very large online platform or as a very large online search engine, respectively."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:33/p4/s5",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall take due account of the views submitted by the provider concerned."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:33/p4/s6",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The failure of the provider of the online platform or of the online search engine concerned to submit its views pursuant to the third subparagraph shall not prevent the Commission from designating that online platform or that online search engine as a very large online platform or as a very large online search engine, respectively, based on other information available to it."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:33/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall terminate the designation if, during an uninterrupted period of one year, the online platform or the online search engine does not have a number of average monthly active recipients of the service equal to or higher than the number referred to in paragraph 1."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:33/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall notify its decisions pursuant to paragraphs 4 and 5, without undue delay, to the provider of the online platform or of the online search engine concerned, to the Board and to the Digital Services Coordinator of establishment."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:33/p6/s2",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall ensure that the list of designated very large online platforms and very large online search engines is published in the Official Journal of the European Union, and shall keep that list up to date."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:33",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

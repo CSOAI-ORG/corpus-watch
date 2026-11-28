@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:116",
+ "label": "JP-appi-2003 Article 116",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "1043565d8da846204113ac34d3eaa8686e04fd0eb94df1835679882794f5532b",
+ "sha256_v1": "",
+ "sha256_v2": "1043565d8da846204113ac34d3eaa8686e04fd0eb94df1835679882794f5532b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "1043565d8da846204113ac34d3eaa8686e04fd0eb94df1835679882794f5532b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:116/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "行政機関の長等は、行政機関等匿名加工情報を作成するときは、特定の個人を識別することができないように及びその作成に用いる保有個人情報を復元することができないようにするために必要なものとして個人情報保護委員会規則で定める基準に従い、当該保有個人情報を加工しなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:116",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

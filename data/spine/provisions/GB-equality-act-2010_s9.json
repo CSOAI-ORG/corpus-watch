@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-equality-act-2010:s9",
+ "label": "GB-equality-act-2010 Section 9",
+ "instrument": "GB-equality-act-2010",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "60d3094f87b923d87757d038a678dc4804ca81bd55ac374f94e3af08fcac0028",
+ "sha256_v1": "",
+ "sha256_v2": "60d3094f87b923d87757d038a678dc4804ca81bd55ac374f94e3af08fcac0028",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "60d3094f87b923d87757d038a678dc4804ca81bd55ac374f94e3af08fcac0028",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-equality-act-2010:s9/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nA Minister of the Crown ...—\n(a)\nmust by order amend this section so as to provide for caste to be an aspect of race;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-equality-act-2010:s9",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

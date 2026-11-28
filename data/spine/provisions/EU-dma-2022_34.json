@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:34",
+ "label": "EU-dma-2022 Article 34",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e1334951f61d816998a8f31a9b17f534e8f0e1e0f624251822896dc0ec8e89a4",
+ "sha256_v1": "",
+ "sha256_v2": "e1334951f61d816998a8f31a9b17f534e8f0e1e0f624251822896dc0ec8e89a4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "e1334951f61d816998a8f31a9b17f534e8f0e1e0f624251822896dc0ec8e89a4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:34/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Before adopting a decision pursuant to Article 8, Article 9(1), Article 10(1), Articles 17, 18, 24, 25, 29 and 30 and Article 31(2), the Commission shall give the gatekeeper or undertaking or association of undertakings concerned the opportunity of being heard on:"
+  },
+  {
+   "obligation_id": "EU-dma-2022:34/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall base its decisions only on preliminary findings, including any matter to which the Commission has taken objection, on which gatekeepers, undertakings and associations of undertakings concerned have been able to comment."
+  },
+  {
+   "obligation_id": "EU-dma-2022:34/p4/s1",
+   "paragraph": "4",
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The rights of defence of the gatekeeper, undertaking or association of undertakings concerned shall be fully respected in any proceedings."
+  },
+  {
+   "obligation_id": "EU-dma-2022:34/p4/s2",
+   "paragraph": "4",
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The gatekeeper, undertaking or association of undertakings concerned shall be entitled to have access to the Commission's file under terms of disclosure, subject to the legitimate interest of undertakings in the protection of their business secrets."
+  },
+  {
+   "obligation_id": "EU-dma-2022:34/p4/s3",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The right of access to the file of the Commission shall not extend to confidential information and internal documents of the Commission or the competent authorities of the Member States."
+  },
+  {
+   "obligation_id": "EU-dma-2022:34/p4/s4",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In particular, the right of access shall not extend to correspondence between the Commission and the competent authorities of the Member States."
+  },
+  {
+   "obligation_id": "EU-dma-2022:34/p4/s5",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Nothing in this paragraph shall prevent the Commission from disclosing and using information necessary to prove an infringement."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:34",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

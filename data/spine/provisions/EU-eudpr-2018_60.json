@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:60",
+ "label": "EU-eudpr-2018 Article 60",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "e5e1861d21f2571d7fa94f922333731de2037c568490359ea84e8c98adb0fca8",
+ "sha256_v1": "",
+ "sha256_v2": "e5e1861d21f2571d7fa94f922333731de2037c568490359ea84e8c98adb0fca8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "e5e1861d21f2571d7fa94f922333731de2037c568490359ea84e8c98adb0fca8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:60/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The European Data Protection Supervisor shall submit an annual report on his or her activities to the European Parliament, to the Council and to the Commission and at the same time make it public."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:60/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The European Data Protection Supervisor shall forward the report referred to in paragraph 1 to the other Union institutions and bodies, which may submit comments with a view to possible examination of the report by the European Parliament."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:60",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

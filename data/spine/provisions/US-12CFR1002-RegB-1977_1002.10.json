@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-12CFR1002-RegB-1977:1002.10",
+ "label": "US-12CFR1002-RegB-1977 12 CFR 1002.10",
+ "instrument": "US-12CFR1002-RegB-1977",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "70d922e7da1040b54bf5e24b7406c7f26eddc1a33ae07ffa0726a0abdd052cf5",
+ "sha256_v1": "",
+ "sha256_v2": "70d922e7da1040b54bf5e24b7406c7f26eddc1a33ae07ffa0726a0abdd052cf5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "70d922e7da1040b54bf5e24b7406c7f26eddc1a33ae07ffa0726a0abdd052cf5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.10/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A creditor that furnishes credit information shall designate:"
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.10/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a creditor furnishes credit information to a consumer reporting agency concerning an account designated to reflect the participation of both spouses, the creditor shall furnish the information in a manner that will enable the agency to provide access to the information in the name of each spouse."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.10/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a creditor furnishes credit information in response to an inquiry, concerning an account designated to reflect the participation of both spouses, the creditor shall furnish the information in the name of the spouse about whom the information is requested."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-12CFR1002-RegB-1977:1002.10",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s45A",
+ "label": "GB-dpa-2018 Section 45A",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "c9ce0e809f2c27050829c00b87e5d44aaef08e3b831e74c8cd2f0737edf36485",
+ "sha256_v1": "",
+ "sha256_v2": "c9ce0e809f2c27050829c00b87e5d44aaef08e3b831e74c8cd2f0737edf36485",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "c9ce0e809f2c27050829c00b87e5d44aaef08e3b831e74c8cd2f0737edf36485",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s45A/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "(2)\nA controller relying on the exemption in subsection (1) must inform the data subject in writing without undue delay of—\n(a)\nthe decision to rely on the exemption,\n(b)\nthe reason for the decision,\n(c)\nthe data subject’s right to make a request to the Commission under section 51,\n(ca)\nthe data subject’s right to make a complaint to the controller under section 164A,\n(d)\nthe data subject’s right to lodge a complaint with the Commission under section 165, and\n(e)\nthe data subject’s right to apply to a court under section 167."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s45A/p0/s2",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nThe controller must—\n(a)\nrecord the reason for a decision to rely on the exemption in subsection (1), and\n(b)\nif requested to do so by the Commission, make the record available to the Commission."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s45A",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

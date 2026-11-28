@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s94",
+ "label": "GB-dpa-2018 Section 94",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8e930e6574ba9ecb3564b3f0741b21141bd7a8e5e7d80c8429a6509a25da2bcd",
+ "sha256_v1": "",
+ "sha256_v2": "8e930e6574ba9ecb3564b3f0741b21141bd7a8e5e7d80c8429a6509a25da2bcd",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8e930e6574ba9ecb3564b3f0741b21141bd7a8e5e7d80c8429a6509a25da2bcd",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s94/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(9)\nIn determining for the purposes of subsection (6)(b) whether it is reasonable in all the circumstances to comply with the request without the consent of the other individual concerned, regard must be had, in particular, to—\n(a)\nany duty of confidentiality owed to the other individual,\n(b)\nany steps taken by the controller with a view to seeking the consent of the other individual,\n(c)\nwhether the other individual is capable of giving consent, and\n(d)\nany express refusal of consent by the other individual."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s94/p0/s2",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(10)\nSubject to subsections (3), (5) and (6), a controller must comply with a request under subsection (1)—\n(a)\npromptly, and\n(b)\nin any event before the end of the applicable time period."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s94/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(14B)\nA notice under subsection (14A) must—\n(a)\nbe given before the end of the period of one month beginning with the relevant time, and\n(b)\nstate the reasons for the delay."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s94",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

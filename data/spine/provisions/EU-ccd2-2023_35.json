@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:35",
+ "label": "EU-ccd2-2023 Article 35",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "cd141cf6d00ac315faf054ad7d5474103aa566e97bd681ac892c24a76f2d9c74",
+ "sha256_v1": "",
+ "sha256_v2": "cd141cf6d00ac315faf054ad7d5474103aa566e97bd681ac892c24a76f2d9c74",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "cd141cf6d00ac315faf054ad7d5474103aa566e97bd681ac892c24a76f2d9c74",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:35/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall require creditors to exercise, where appropriate, reasonable forbearance before enforcement proceedings are initiated."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:35/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such forbearance measures shall take into account, among other elements, the consumer’s individual circumstances."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:35/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Creditors shall not be required to offer forbearance measures reiteratively to consumers, unless in justified cases."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:35/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Creditors shall not be required to perform a creditworthiness assessment in accordance with Article 18 when modifying the existing terms and conditions of a credit agreement in accordance with the third subparagraph, point (b) of this paragraph, provided that the total amount payable by the consumer is not significantly increased when modifying the credit agreement."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:35/p1/s5",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)\nshall include modification of the existing terms and conditions of a credit agreement, which may, among other possibilities include:"
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:35/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where Member States allow creditors to impose additional charges on the consumer in the event of default, those Member States shall place a cap on those charges."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:35/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall not prevent the parties to a credit agreement from expressly agreeing that the return or transfer to the creditor of goods covered by a linked credit agreement or proceeds from the sale of such goods is sufficient to repay the credit."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:35",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

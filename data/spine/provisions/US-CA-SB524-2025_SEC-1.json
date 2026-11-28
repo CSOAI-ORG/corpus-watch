@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB524-2025:SEC-1",
+ "label": "US-CA-SB524-2025 SECTION 1.",
+ "instrument": "US-CA-SB524-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "fff993709f88b37dba523c176a3425948f4f13bb0caae0515ac7b6380820b3f4",
+ "sha256_v1": "",
+ "sha256_v2": "fff993709f88b37dba523c176a3425948f4f13bb0caae0515ac7b6380820b3f4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "fff993709f88b37dba523c176a3425948f4f13bb0caae0515ac7b6380820b3f4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB524-2025:SEC-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "(a)Each law enforcement agency shall maintain a policy to require an official report prepared by a law enforcement officer or any member of a law enforcement agency that is generated using artificial intelligence either fully or partially to contain both of the following:"
+  },
+  {
+   "obligation_id": "US-CA-SB524-2025:SEC-1/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)(1)If a law enforcement officer or any member of a law enforcement agency uses artificial intelligence to create an official report, whether fully or partially, the first draft created shall be retained by the agency for as long as the official report is retained."
+  },
+  {
+   "obligation_id": "US-CA-SB524-2025:SEC-1/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)Except for the official report, a draft of any report created with the use of artificial intelligence shall not constitute an officer’s statement."
+  },
+  {
+   "obligation_id": "US-CA-SB524-2025:SEC-1/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)The agency utilizing artificial intelligence to generate a first draft or official report shall maintain an audit trail for as long as the official report is retained that, at a minimum, identifies both of the following:"
+  },
+  {
+   "obligation_id": "US-CA-SB524-2025:SEC-1/p1/s5",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d)(1)A contracted vendor shall not share, sell, or otherwise use information provided by a law enforcement agency to be processed by artificial intelligence except for either of the following purposes:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB524-2025:SEC-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

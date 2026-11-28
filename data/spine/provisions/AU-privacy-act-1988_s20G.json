@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s20G",
+ "label": "AU-privacy-act-1988 Section 20G",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ced1d3e7ca99e064dd54607c7292e7fef0414c6c09133fb44f8cc613315ba917",
+ "sha256_v1": "",
+ "sha256_v2": "ced1d3e7ca99e064dd54607c7292e7fef0414c6c09133fb44f8cc613315ba917",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "ced1d3e7ca99e064dd54607c7292e7fef0414c6c09133fb44f8cc613315ba917",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s20G/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "20G  Use or disclosure of credit reporting information for the purposes of direct marketing\nProhibition on direct marketing\n(1)\tIf a credit reporting body holds credit reporting information about an individual, the body must not use or disclose the information for the purposes of direct marketing."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s20G/p0/s2",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\tIn assessing under paragraph (2)(d) whether or not the individual is eligible to receive the direct marketing communications of the credit provider, the credit reporting body must have regard to the eligibility requirements nominated by the provider."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s20G/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\tIf the individual makes a request under subsection (5), the credit reporting body must not charge the individual for the making of the request or to give effect to the request."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s20G/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Written note of use\n(7)\tIf a credit reporting body uses credit information under subsection (2), the body must make a written note of that use."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s20G",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

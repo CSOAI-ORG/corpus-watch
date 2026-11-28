@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:20",
+ "label": "JP-appi-2003 Article 20",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "74ae0a80db2c02198f863a80bcdc26ddd395c05af25e89f2d665d025e5f663d7",
+ "sha256_v1": "",
+ "sha256_v2": "74ae0a80db2c02198f863a80bcdc26ddd395c05af25e89f2d665d025e5f663d7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "74ae0a80db2c02198f863a80bcdc26ddd395c05af25e89f2d665d025e5f663d7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:20/s2",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "個人情報取扱事業者は、偽りその他不正の手段により個人情報を取得してはならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:20/s3",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "２ 個人情報取扱事業者は、次に掲げる場合を除くほか、あらかじめ本人の同意を得ないで、要配慮個人情報を取得してはならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:20",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

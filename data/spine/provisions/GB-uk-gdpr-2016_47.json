@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-uk-gdpr-2016:47",
+ "label": "GB-uk-gdpr-2016 Article 47",
+ "instrument": "GB-uk-gdpr-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "71c31069da12dea3b19228a43eaa5d4a5c0543836cc8f71e9edb7fb497d54960",
+ "sha256_v1": "",
+ "sha256_v2": "71c31069da12dea3b19228a43eaa5d4a5c0543836cc8f71e9edb7fb497d54960",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "71c31069da12dea3b19228a43eaa5d4a5c0543836cc8f71e9edb7fb497d54960",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-uk-gdpr-2016:47/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall approve binding corporate rules ... , provided that they:"
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:47/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The binding corporate rules referred to in paragraph 1 shall specify at least:"
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:47/p2/s2",
+   "paragraph": "2",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(f)\nthe acceptance by the controller or processor established in the United Kingdom of liability for any breaches of the binding corporate rules by any member concerned not established in the United Kingdom; the controller or the processor shall be exempt from that liability, in whole or in part, only if it proves that that member is not responsible for the event giving rise to the damage;"
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:47/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such mechanisms shall include data protection audits and methods for ensuring corrective actions to protect the rights of the data subject."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-uk-gdpr-2016:47",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

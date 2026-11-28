@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CA-PIPEDA-2000:s8",
+ "label": "CA-PIPEDA-2000 Section 8",
+ "instrument": "CA-PIPEDA-2000",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "109578fbd35e2eed3a1f6608e920e8131b63713e76ba74288aea02af60546290",
+ "sha256_v1": "",
+ "sha256_v2": "109578fbd35e2eed3a1f6608e920e8131b63713e76ba74288aea02af60546290",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CA",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "109578fbd35e2eed3a1f6608e920e8131b63713e76ba74288aea02af60546290",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CA-PIPEDA-2000:s8/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Written request 8 (1) A request under clause 4.9 of Schedule 1 must be made in writing."
+  },
+  {
+   "obligation_id": "CA-PIPEDA-2000:s8/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Assistance (2) An organization shall assist any individual who informs the organization that they need assistance in preparing a request to the organization."
+  },
+  {
+   "obligation_id": "CA-PIPEDA-2000:s8/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Time limit (3) An organization shall respond to a request with due diligence and in any case not later than thirty days after receipt of the request."
+  },
+  {
+   "obligation_id": "CA-PIPEDA-2000:s8/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In either case, the organization shall, no later than thirty days after the date of the request, send a notice of extension to the individual, advising them of the new time limit, the reasons for extending the time limit and of their right to make a complaint to the Commissioner in respect of the extension."
+  },
+  {
+   "obligation_id": "CA-PIPEDA-2000:s8/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Reasons (7) An organization that responds within the time limit and refuses a request shall inform the individual in writing of the refusal, setting out the reasons and any recourse that they may have under this Part."
+  },
+  {
+   "obligation_id": "CA-PIPEDA-2000:s8/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Retention of information (8) Despite clause 4.5 of Schedule 1, an organization that has personal information that is the subject of a request shall retain the information for as long as is necessary to allow the individual to exhaust any recourse under this Part that they may have. 2000, c. 5, s. 8; 2015, c. 32, s. 8(F)"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CA-PIPEDA-2000:s8",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

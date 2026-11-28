@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-pld-2024:11",
+ "label": "EU-pld-2024 Article 11",
+ "instrument": "EU-pld-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "42ecdb840cee5eeb651a0593684b8a1148dc3f63ff7388cc2ac630ec44449db6",
+ "sha256_v1": "",
+ "sha256_v2": "42ecdb840cee5eeb651a0593684b8a1148dc3f63ff7388cc2ac630ec44449db6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "42ecdb840cee5eeb651a0593684b8a1148dc3f63ff7388cc2ac630ec44449db6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-pld-2024:11/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An economic operator as referred to in Article 8 shall not be liable for damage caused by a defective product if that economic operator proves any of the following:"
+  },
+  {
+   "obligation_id": "EU-pld-2024:11/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "By way of derogation from paragraph 1, point (c), an economic operator shall not be exempted from liability where the defectiveness of a product is due to any of the following, provided that it is within the manufacturer’s control:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-pld-2024:11",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

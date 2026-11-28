@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:88",
+ "label": "EU-mica-2023 Article 88",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "28da758d528e082c77cd16e83f6687c5161bddf4d7db50a2b6d2670baf7a2989",
+ "sha256_v1": "",
+ "sha256_v2": "28da758d528e082c77cd16e83f6687c5161bddf4d7db50a2b6d2670baf7a2989",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "28da758d528e082c77cd16e83f6687c5161bddf4d7db50a2b6d2670baf7a2989",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:88/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "Issuers, offerors and persons seeking admission to trading shall inform the public as soon as possible of inside information referred to in Article 87 that directly concerns them, in a manner that enables fast access as well as complete, correct and timely assessment of the information by the public."
+  },
+  {
+   "obligation_id": "EU-mica-2023:88/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Issuers, offerors and persons seeking admission to trading shall not combine the disclosure of inside information to the public with the marketing of their activities."
+  },
+  {
+   "obligation_id": "EU-mica-2023:88/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Issuers, offerors and persons seeking admission to trading shall post and maintain on their website, for a period of at least five years, all inside information that they are required to disclose publicly."
+  },
+  {
+   "obligation_id": "EU-mica-2023:88/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where an issuer, offeror or a person seeking admission to trading has delayed the disclosure of inside information in accordance with paragraph 2, it shall inform the competent authority that disclosure of the information was delayed and shall provide a written explanation of how the conditions set out in paragraph 2 were met, immediately after the information is disclosed to the public."
+  },
+  {
+   "obligation_id": "EU-mica-2023:88/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In order to ensure uniform conditions of application of this Article, ESMA shall develop draft implementing technical standards to determine the technical means for:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:88/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "ESMA shall submit the draft implementing technical standards referred to in the first subparagraph to the Commission by 30 June 2024."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:88",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

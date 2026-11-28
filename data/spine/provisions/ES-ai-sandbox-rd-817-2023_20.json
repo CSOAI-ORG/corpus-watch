@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "ES-ai-sandbox-rd-817-2023:20",
+ "label": "ES-ai-sandbox-rd-817-2023 Artículo 20",
+ "instrument": "ES-ai-sandbox-rd-817-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ed89849f769b4e0be50317f6a1269717d21c99ee90b14ed3a4cee3c471269ad1",
+ "sha256_v1": "",
+ "sha256_v2": "ed89849f769b4e0be50317f6a1269717d21c99ee90b14ed3a4cee3c471269ad1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "ES",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ed89849f769b4e0be50317f6a1269717d21c99ee90b14ed3a4cee3c471269ad1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:20/s7",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Todas las comunicaciones que se realicen tanto entre los proveedores IA participantes como entre los usuarios participantes con el órgano competente, así como la documentación escrita y cualquiera otra audiovisual deberán hacerse en castellano."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=ES-ai-sandbox-rd-817-2023:20",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

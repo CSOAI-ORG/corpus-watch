@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-data-security-law-2021:27",
+ "label": "CN-data-security-law-2021 第二十七条",
+ "instrument": "CN-data-security-law-2021",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "7e106c484579927272ff941f3ced306c55e5f5ef9ff8bdaa8b10cf8d27161cc1",
+ "sha256_v1": "",
+ "sha256_v2": "7e106c484579927272ff941f3ced306c55e5f5ef9ff8bdaa8b10cf8d27161cc1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "7e106c484579927272ff941f3ced306c55e5f5ef9ff8bdaa8b10cf8d27161cc1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-data-security-law-2021:27/s1",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "第二十七条　开展数据处理活动应当依照法律、法规的规定，建立健全全流程数据安全管理制度，组织开展数据安全教育培训，采取相应的技术措施和其他必要措施，保障数据安全。"
+  },
+  {
+   "obligation_id": "CN-data-security-law-2021:27/s2",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "利用互联网等信息网络开展数据处理活动，应当在网络安全等级保护制度的基础上，履行上述数据安全保护义务。"
+  },
+  {
+   "obligation_id": "CN-data-security-law-2021:27/s3",
+   "paragraph": null,
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "重要数据的处理者应当明确数据安全负责人和管理机构，落实数据安全保护责任。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-data-security-law-2021:27",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:26",
+ "label": "EU-ccd2-2023 Article 26",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9ce24a501007f3901c685853dbd013b752d9375fa70d7580327da17bb1fa5c20",
+ "sha256_v1": "",
+ "sha256_v2": "9ce24a501007f3901c685853dbd013b752d9375fa70d7580327da17bb1fa5c20",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9ce24a501007f3901c685853dbd013b752d9375fa70d7580327da17bb1fa5c20",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:26/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that the consumer may withdraw from the credit agreement without giving any reason within a period of 14 calendar days."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:26/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The withdrawal period referred to in the first subparagraph shall begin either:"
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:26/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the consumer has not received the contractual terms and conditions and the information in accordance with Articles 20 and 21, the withdrawal period shall in any event expire 12 months and 14 days after the conclusion of the credit agreement."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:26/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the case of a linked credit agreement for the purchase of a good with a return policy that ensures a full refund for a certain period of time exceeding 14 calendar days, the right of withdrawal shall be extended to match the duration of such return policy."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:26/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the consumer exercises the right of withdrawal, he or she shall take the following measures:"
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:26/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The interest referred to in the first subparagraph, point (b), shall be calculated on the basis of the agreed borrowing rate."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:26/p5/s3",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The creditor shall not be entitled to any other compensation from the consumer in the event of withdrawal, except compensation for any non-refundable charges paid by the creditor to any public administrative body."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:26/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where an ancillary service relating to the credit agreement is provided by the creditor, or by a third party on the basis of an agreement between that third party and the creditor, the consumer shall no longer be bound by the ancillary service contract if the consumer exercises the right of withdrawal from the credit agreement in accordance with this Article."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:26",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

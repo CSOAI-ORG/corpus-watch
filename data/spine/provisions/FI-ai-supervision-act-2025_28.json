@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "FI-ai-supervision-act-2025:28",
+ "label": "FI-ai-supervision-act-2025 28 §",
+ "instrument": "FI-ai-supervision-act-2025",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "b1b89e7309cd08c80c3c21c1354af7c69104d49c3a38b5afcaf9bf48e24ceeb3",
+ "sha256_v1": "",
+ "sha256_v2": "b1b89e7309cd08c80c3c21c1354af7c69104d49c3a38b5afcaf9bf48e24ceeb3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "FI",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "b1b89e7309cd08c80c3c21c1354af7c69104d49c3a38b5afcaf9bf48e24ceeb3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "FI-ai-supervision-act-2025:28/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=FI-ai-supervision-act-2025:28",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

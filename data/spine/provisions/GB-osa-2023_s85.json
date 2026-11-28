@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s85",
+ "label": "GB-osa-2023 Section 85",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "91173b8dfedcb8962dbd9b605a2ffca8b3ebba287cb3d716a5af1f41848a0bbf",
+ "sha256_v1": "",
+ "sha256_v2": "91173b8dfedcb8962dbd9b605a2ffca8b3ebba287cb3d716a5af1f41848a0bbf",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "91173b8dfedcb8962dbd9b605a2ffca8b3ebba287cb3d716a5af1f41848a0bbf",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s85/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nOFCOM may by regulations also make provision specifying or describing evidence, documents or other information that providers must supply to OFCOM for the purposes of section 83 (see subsection (3)(b) of that section), including provision about the way in which providers must supply the evidence, documents or information."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s85/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(7)\nBefore making regulations under subsection (1) OFCOM must consult—\n(a)\nthe Secretary of State,\n(b)\nthe Treasury, and\n(c)\nsuch other persons as OFCOM consider appropriate."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s85/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(8)\nBefore making regulations under subsection (2) OFCOM must consult the Secretary of State."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s85",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

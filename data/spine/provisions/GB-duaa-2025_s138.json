@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s138",
+ "label": "GB-duaa-2025 Section 138",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "9b04444151d1c547076877e44913ecc629725c33387c2402d88ab9849e5f4c93",
+ "sha256_v1": "",
+ "sha256_v2": "9b04444151d1c547076877e44913ecc629725c33387c2402d88ab9849e5f4c93",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9b04444151d1c547076877e44913ecc629725c33387c2402d88ab9849e5f4c93",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s138/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(7)\nThe Secretary of State must—\n(a)\nreview the operation of subsection (5),\n(b)\npublish the outcome of the review in a report before the end of the period of two years beginning with the day on which this section comes into force, and\n(c)\nlay the report before Parliament."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s138/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(10)\nThe Secretary of State must—\n(a)\nreview the operation of subsection (7),\n(b)\npublish the outcome of the review in a report before the end of the period of two years beginning with the day on which this section comes into force, and\n(c)\nlay the report before Parliament."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s138",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

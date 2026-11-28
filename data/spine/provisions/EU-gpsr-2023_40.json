@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-gpsr-2023:40",
+ "label": "EU-gpsr-2023 Article 40",
+ "instrument": "EU-gpsr-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "97d83dd932aadf69fddd5828da459b94049215f368b8f0cb1d97623490f6c0e1",
+ "sha256_v1": "",
+ "sha256_v2": "97d83dd932aadf69fddd5828da459b94049215f368b8f0cb1d97623490f6c0e1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "97d83dd932aadf69fddd5828da459b94049215f368b8f0cb1d97623490f6c0e1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-gpsr-2023:40/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Any such cooperation shall be based on reciprocity, shall include provisions on confidentiality corresponding to those applicable in the Union and shall ensure that any exchange of information take place in accordance with applicable Union law."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:40/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall share such information with national authorities, where relevant."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:40/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such participation shall entail the same obligations as for Member States according to this Regulation, including notification and follow-up obligations."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:40/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Full participation in the Safety Gate Rapid Alert System shall be based on agreements between the Union and those countries, according to arrangements defined in those agreements."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:40/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any information exchange under this Article shall, to the extent it involves personal data, be carried out in accordance with Union data protection rules."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:40/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Personal data shall only be transferred to the extent that such exchange is necessary for the sole purpose of the protection of the health or safety of consumers."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:40/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The information exchanged pursuant to this Article shall be used for the sole purpose of the protection of the health or safety of consumers."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-gpsr-2023:40",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

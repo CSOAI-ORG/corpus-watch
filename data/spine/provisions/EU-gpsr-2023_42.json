@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-gpsr-2023:42",
+ "label": "EU-gpsr-2023 Article 42",
+ "instrument": "EU-gpsr-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7c3acd9ed2aecfcc6d2568a5ccca4532905c47a2c1354a4b1a27ffaf145579fa",
+ "sha256_v1": "",
+ "sha256_v2": "7c3acd9ed2aecfcc6d2568a5ccca4532905c47a2c1354a4b1a27ffaf145579fa",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "7c3acd9ed2aecfcc6d2568a5ccca4532905c47a2c1354a4b1a27ffaf145579fa",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-gpsr-2023:42/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall take appropriate measures to ensure that, when actions financed under this Regulation are implemented, the financial interests of the Union are protected by the application of preventive measures against fraud, corruption and any other illegal activities, by effective checks and, if irregularities are detected, by the recovery of the amounts wrongly paid and, where appropriate, by effective, proportionate and dissuasive administrative and financial penalties."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:42/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Without prejudice to paragraphs 1, 2 and 3, cooperation agreements with third countries and with international organisations, contracts, grant agreements and grant decisions resulting from the implementation of this Regulation shall contain provisions expressly empowering the Commission, the Court of Auditors and OLAF to conduct such audits and investigations, in accordance with their respective competences."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-gpsr-2023:42",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,158 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R2847:27",
+ "label": "Cyber Resilience Act Art. 27",
+ "instrument": "Cyber Resilience Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "cba7262ea32b2edba0b55b810a0889fcb5342018d62df92fcffb5c3b9e3c0bd6",
+ "sha256_v1": "cba7262ea32b2edba0b55b810a0889fcb5342018d62df92fcffb5c3b9e3c0bd6",
+ "sha256_v2": "1403be6a0e0af816588f837296fd1da2fa7fbc78c816f5c99fea686fbf43158a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "1403be6a0e0af816588f837296fd1da2fa7fbc78c816f5c99fea686fbf43158a",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R2847:27/p1/s1",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Products with digital elements and processes put in place by the manufacturer which are in conformity with harmonised standards or parts thereof, the references of which have been published in the Official Journal of the European Union , shall be presumed to be in conformity with the essential cybersecurity requirements set out in Annex I covered by those standards or parts thereof."
+  },
+  {
+   "obligation_id": "32024R2847:27/p1/s2",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall, in accordance with Article 10(1) of Regulation (EU) No 1025/2012, request one or more European standardisation organisations to draft harmonised standards for the essential cybersecurity requirements set out in Annex I to this Regulation."
+  },
+  {
+   "obligation_id": "32024R2847:27/p1/s3",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When preparing standardisation requests for this Regulation, the Commission shall strive to take into account existing European and international standards for cybersecurity that are in place or under development in order to simplify the development of harmonised standards, in accordance with Regulation (EU) No 1025/2012."
+  },
+  {
+   "obligation_id": "32024R2847:27/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted only where the following conditions are fulfilled:"
+  },
+  {
+   "obligation_id": "32024R2847:27/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 62(2)."
+  },
+  {
+   "obligation_id": "32024R2847:27/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Before preparing the draft implementing act referred to in paragraph 2 of this Article, the Commission shall inform the committee referred to in Article 22 of Regulation (EU) No 1025/2012 that it considers that the conditions in paragraph 2 of this Article have been fulfilled."
+  },
+  {
+   "obligation_id": "32024R2847:27/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When preparing the draft implementing act referred to in paragraph 2, the Commission shall take into account the views of relevant bodies and shall duly consult all relevant stakeholders."
+  },
+  {
+   "obligation_id": "32024R2847:27/p5/s1",
+   "paragraph": "5",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Products with digital elements and processes put in place by the manufacturer which are in conformity with the common specifications established by implementing acts referred to in paragraph 2 of this Article, or parts thereof, shall be presumed to be in conformity with the essential cybersecurity requirements set out in Annex I covered by those common specifications or parts thereof."
+  },
+  {
+   "obligation_id": "32024R2847:27/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a harmonised standard is adopted by a European standardisation organisation and proposed to the Commission for the purpose of publishing its reference in the Official Journal of the European Union , the Commission shall assess the harmonised standard in accordance with Regulation (EU) No 1025/2012."
+  },
+  {
+   "obligation_id": "32024R2847:27/p6/s2",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When a reference of a harmonised standard is published in the Official Journal of the European Union , the Commission shall repeal the implementing acts referred to in paragraph 2 of this Article, or parts thereof which cover the same essential cybersecurity requirements as those covered by that harmonised standard."
+  },
+  {
+   "obligation_id": "32024R2847:27/p7/s1",
+   "paragraph": "7",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a Member State considers that a common specification does not entirely satisfy the essential cybersecurity requirements set out in Annex I, it shall inform the Commission thereof by submitting a detailed explanation."
+  },
+  {
+   "obligation_id": "32024R2847:27/p7/s2",
+   "paragraph": "7",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall assess that detailed explanation and may, if appropriate, amend the implementing act establishing the common specification in question."
+  },
+  {
+   "obligation_id": "32024R2847:27/p8/s1",
+   "paragraph": "8",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Products with digital elements and processes put in place by the manufacturer for which an EU statement of conformity or certificate has been issued under a European cybersecurity certification scheme adopted pursuant to Regulation (EU) 2019/881 shall be presumed to be in conformity with the essential cybersecurity requirements set out in Annex I in so far as the EU statement of conformity or European cybersecurity certificate, or parts thereof, cover those requirements."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R2847:27",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

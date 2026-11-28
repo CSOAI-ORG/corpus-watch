@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-pipa-2011:28-2",
+ "label": "KR-pipa-2011 제28조의2",
+ "instrument": "KR-pipa-2011",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6e5fa8b18aaab55efe5f699309e6736c0f20eef502476a0f762cb9fd72659918",
+ "sha256_v1": "",
+ "sha256_v2": "6e5fa8b18aaab55efe5f699309e6736c0f20eef502476a0f762cb9fd72659918",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "6e5fa8b18aaab55efe5f699309e6736c0f20eef502476a0f762cb9fd72659918",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-pipa-2011:28-2/s2",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "② 개인정보처리자는 제1항에 따라 가명정보를 제3자에게 제공하는 경우에는 특정 개인을 알아보기 위하여 사용될 수 있는 정보를 포함해서는 아니 된다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-pipa-2011:28-2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

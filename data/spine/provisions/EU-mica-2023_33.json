@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:33",
+ "label": "EU-mica-2023 Article 33",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "0e9ec9d8a312e694c1f4034a39401c99d300c3f4061490bb2d099a71ba7114e7",
+ "sha256_v1": "",
+ "sha256_v2": "0e9ec9d8a312e694c1f4034a39401c99d300c3f4061490bb2d099a71ba7114e7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "0e9ec9d8a312e694c1f4034a39401c99d300c3f4061490bb2d099a71ba7114e7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:33/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Notification of changes to management body\nIssuers of asset-referenced tokens shall notify immediately their competent authority of any changes to their management body, and shall provide their competent authority with all of the necessary information to assess compliance with Article 34(2)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:33",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

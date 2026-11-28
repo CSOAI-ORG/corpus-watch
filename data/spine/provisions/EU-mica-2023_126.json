@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:126",
+ "label": "EU-mica-2023 Article 126",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6c82421f942f6ea995701d279d64d20036ce4b0fac83d8914467e2dcc360e9a8",
+ "sha256_v1": "",
+ "sha256_v2": "6c82421f942f6ea995701d279d64d20036ce4b0fac83d8914467e2dcc360e9a8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "6c82421f942f6ea995701d279d64d20036ce4b0fac83d8914467e2dcc360e9a8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:126/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The exchange of information shall be intended for the performance of the tasks of EBA or of the supervisory authorities referred to in paragraph 1."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:126",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

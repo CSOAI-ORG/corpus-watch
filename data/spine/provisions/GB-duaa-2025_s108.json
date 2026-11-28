@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s108",
+ "label": "GB-duaa-2025 Section 108",
+ "instrument": "GB-duaa-2025",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "8a5d03c7f52aca32621a8c6b4c57b0a42e254dd7503669e73b3ed27c56a81d90",
+ "sha256_v1": "",
+ "sha256_v2": "8a5d03c7f52aca32621a8c6b4c57b0a42e254dd7503669e73b3ed27c56a81d90",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8a5d03c7f52aca32621a8c6b4c57b0a42e254dd7503669e73b3ed27c56a81d90",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s108/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s108",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s167",
+ "label": "GB-dpa-2018 Section 167",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a67bacc43acad3091a781e7d9230c66cce1bfafee87240623a1c0a614983dd0f",
+ "sha256_v1": "",
+ "sha256_v2": "a67bacc43acad3091a781e7d9230c66cce1bfafee87240623a1c0a614983dd0f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a67bacc43acad3091a781e7d9230c66cce1bfafee87240623a1c0a614983dd0f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s167/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nThe order may, in relation to each step, specify the time at which, or the period within which, it must be taken."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s167",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

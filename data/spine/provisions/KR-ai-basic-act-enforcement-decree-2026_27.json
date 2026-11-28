@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-ai-basic-act-enforcement-decree-2026:27",
+ "label": "KR-ai-basic-act-enforcement-decree-2026 제27조",
+ "instrument": "KR-ai-basic-act-enforcement-decree-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "7efa853b7e239a68acf126c85e7f2d5dbcb9eb9505b35c98a157331672abd3c9",
+ "sha256_v1": "",
+ "sha256_v2": "7efa853b7e239a68acf126c85e7f2d5dbcb9eb9505b35c98a157331672abd3c9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "7efa853b7e239a68acf126c85e7f2d5dbcb9eb9505b35c98a157331672abd3c9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:27/s1",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "ko:public-trace",
+   "status": "DRAFT",
+   "text": "제27조(고영향 인공지능과 관련한 사업자의 책무) ① 인공지능사업자는 법 제34조제1항 각 호의 조치 중에서 다음 각 호에 해당하는 내용을 인공지능사업자의 사무소ㆍ사업장 또는 인터넷 홈페이지 등에 게시해야 한다."
+  },
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:27/s7",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ko:internal-record",
+   "status": "DRAFT",
+   "text": "② 인공지능사업자는 법 제34조제1항 각 호의 조치를 이행하고 그 근거를 문서로 5년간 보관(전자적 방법을 통한 보관을 포함한다)해야 한다."
+  },
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:27/s9",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "④ 인공지능이용사업자는 인공지능개발사업자에게 법 제34조제1항에 따른 책무를 이행하기 위하여 필요한 자료의 제공을 요청할 수 있고, 인공지능개발사업자는 이에 협력하도록 노력해야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-ai-basic-act-enforcement-decree-2026:27",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

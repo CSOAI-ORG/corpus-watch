@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-FDA-AI-DSF-lifecycle-draft-2025:sec-VI",
+ "label": "US-FDA-AI-DSF-lifecycle-draft-2025 VI. User Interface and Labeling",
+ "instrument": "US-FDA-AI-DSF-lifecycle-draft-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "8a580218b3476186aaad17c44719d64d5c23b546cf0ab1b6686e9ee7a9563da9",
+ "sha256_v1": "",
+ "sha256_v2": "8a580218b3476186aaad17c44719d64d5c23b546cf0ab1b6686e9ee7a9563da9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "8a580218b3476186aaad17c44719d64d5c23b546cf0ab1b6686e9ee7a9563da9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-FDA-AI-DSF-lifecycle-draft-2025:sec-VI/p0/s1",
+   "paragraph": "0",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For example, depending on whether the device is for prescription-use or not, manufacturers are required to provide labeling containing adequate directions for use that would ensure that a layman or, for prescription devices, a practitioner licensed by law to administer the device, “can 20 See section 201(m) of the FD&C Act which defines labeling as “all labels and other written, printed, or graphic matter (1) upon any article or any of its containers or wrappers, or (2) accompanying such article.” 21 U.S.C. § 321(m). 21 See FDA’s guidance titled “Applying Human Factors and Usability Engineering to Medical Devices.” 22 See 21 CFR 820.30(g). use a device safely and for the purposes for which i"
+  },
+  {
+   "obligation_id": "US-FDA-AI-DSF-lifecycle-draft-2025:sec-VI/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "Device labeling must comply with the requirements in 21 CFR part 801 and any device specific labeling requirements such as for hearing aids or in special controls. 24 See 21 CFR 801.20. 25 See 21 CFR 830.50. to use elements of the user interface as part of risk control in the risk assessment, the inclusion of the user interface can help further facilitate review."
+  },
+  {
+   "obligation_id": "US-FDA-AI-DSF-lifecycle-draft-2025:sec-VI/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A marketing submission must include labeling information in sufficient detail to help FDA determine that the proposed labeling satisfies applicable requirements for the type of marketing submission.26 Device labeling must satisfy all applicable FDA labeling requirements, including, but not limited to, 21 CFR Part 801, as discussed above.27 This section of the guidance includes labeling considerations for AIenabled devices to support compliance with these requirements."
+  },
+  {
+   "obligation_id": "US-FDA-AI-DSF-lifecycle-draft-2025:sec-VI/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The labeling for an AI-enabled device should address the following types of information in a format and at a reading level that is appropriate for the intended user (e.g., considering characteristics such as age, education or literacy level, 26 See e.g., 21 CFR 807.87(e) or 21 CFR 814.20(b)(10). 27 Generally, if the device is an in vitro diagnostic device, the labeling must also satisfy the requirements of 21 CFR 809.10. sensory or physical impairments, or occupational specialty) to help ensure users can quickly access important information."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-FDA-AI-DSF-lifecycle-draft-2025:sec-VI",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

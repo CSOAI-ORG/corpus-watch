@@ -1,0 +1,68 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022R2554:21",
+ "label": "DORA Art. 21",
+ "instrument": "DORA",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "e48f7564e569698bb5bc2290743a393fd003b898142da169a47468f8ec430181",
+ "sha256_v1": "e48f7564e569698bb5bc2290743a393fd003b898142da169a47468f8ec430181",
+ "sha256_v2": "1ff56aaed086992ad70d8e9ae8fd80fd2a2ae36a3ddf338373376327d6c8b2f8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "1ff56aaed086992ad70d8e9ae8fd80fd2a2ae36a3ddf338373376327d6c8b2f8",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022R2554:21/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The ESAs, through the Joint Committee, and in consultation with the ECB and ENISA, shall prepare a joint report assessing the feasibility of further centralisation of incident reporting through the establishment of a single EU Hub for major ICT-related incident reporting by financial entities."
+  },
+  {
+   "obligation_id": "32022R2554:21/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The joint report shall explore ways to facilitate the flow of ICT-related incident reporting, reduce associated costs and underpin thematic analyses with a view to enhancing supervisory convergence."
+  },
+  {
+   "obligation_id": "32022R2554:21/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The joint report referred to in paragraph 1 shall comprise at least the following elements:"
+  },
+  {
+   "obligation_id": "32022R2554:21/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The ESAs shall submit the report referred to in paragraph 1 to the European Parliament, to the Council and to the Commission by 17 January 2025."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022R2554:21",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

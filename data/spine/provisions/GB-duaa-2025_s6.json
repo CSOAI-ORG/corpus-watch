@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s6",
+ "label": "GB-duaa-2025 Section 6",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ae6344361a8f005c5378c48dcae1dfb90dd0b81f1b17b46acba502eaf8272636",
+ "sha256_v1": "",
+ "sha256_v2": "ae6344361a8f005c5378c48dcae1dfb90dd0b81f1b17b46acba502eaf8272636",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ae6344361a8f005c5378c48dcae1dfb90dd0b81f1b17b46acba502eaf8272636",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s6/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Decision-makers\n(1)\nThis section is about the provision about decision-makers that regulations under section 2 or 4 may or must (among other things) contain."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s6/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(7)\nThe regulations must make provision about the rights of persons affected by the exercise of a decision-maker’s functions under the regulations and such provision may include (among other things)—\n(a)\nprovision about the review of decision-makers’ decisions;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-mhra-samd-change-programme-roadmap:work-packages",
+ "label": "GB-mhra-samd-change-programme-roadmap section work-packages",
+ "instrument": "GB-mhra-samd-change-programme-roadmap",
+ "ladder": "HASH_ONLY",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "0ac953a425414926a2186c8c30cb835c3e1be9f83c8c64fe3633dee87456d96b",
+ "sha256_v1": "",
+ "sha256_v2": "",
+ "source_state": "UNKNOWN",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-mhra-samd-change-programme-roadmap:work-packages/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Further tranches shall be announced in due course."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-mhra-samd-change-programme-roadmap:work-packages",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

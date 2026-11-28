@@ -1,0 +1,116 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:36",
+ "label": "EU-dsa-2022 Article 36",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "5f2ea36fad0a278e77612b3f621bd71b75f1d0f6e6f96ad729809d7124a76383",
+ "sha256_v1": "",
+ "sha256_v2": "5f2ea36fad0a278e77612b3f621bd71b75f1d0f6e6f96ad729809d7124a76383",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "5f2ea36fad0a278e77612b3f621bd71b75f1d0f6e6f96ad729809d7124a76383",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:36/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When identifying and applying measures pursuant to point (b) of this paragraph, the service provider or providers shall take due account of the gravity of the serious threat referred to in paragraph 2, of the urgency of the measures and of the actual or potential implications for the rights and legitimate interests of all parties concerned, including the possible failure of the measures to respect the fundamental rights enshrined in the Charter."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:36/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When taking the decision referred to in paragraph 1, the Commission shall ensure that all of the following requirements are met:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:36/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "After adopting the decision referred to in paragraph 1, the Commission shall, without undue delay, take the following steps:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:36/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The choice of specific measures to be taken pursuant to paragraph 1, point (b), and to paragraph 7, second subparagraph, shall remain with the provider or providers addressed by the Commission’s decision."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:36/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "In particular, the Commission shall ensure that the measures taken by the service provider under paragraph 1, point (b), meet the requirements referred to in paragraph 3, points (a) and (c)."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:36/p7/s1",
+   "paragraph": "7",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall monitor the application of the specific measures taken pursuant to the decision referred to in paragraph 1 of this Article on the basis of the reports referred to in point (c) of that paragraph and any other relevant information, including information it may request pursuant to Article 40 or 67, taking into account the evolution of the crisis."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:36/p7/s2",
+   "paragraph": "7",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall report regularly to the Board on that monitoring, at least on a monthly basis."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:36/p10/s1",
+   "paragraph": "10",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall take utmost account of the recommendation of the Board issued pursuant to this Article."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:36/p11/s1",
+   "paragraph": "11",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall report to the European Parliament and to the Council on a yearly basis following the adoption of decisions in accordance with this Article, and, in any event, three months after the end of the crisis, on the application of the specific measures taken pursuant to those decisions."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:36",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

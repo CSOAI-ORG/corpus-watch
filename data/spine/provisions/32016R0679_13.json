@@ -1,0 +1,60 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:13",
+ "label": "GDPR Art. 13",
+ "instrument": "GDPR",
+ "ladder": "CROSSWALK_ONLY",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "74a2bd09e39edcafc3f1f15bb238768799038a53f515d4838c143f432ba98dcd",
+ "sha256_v1": "74a2bd09e39edcafc3f1f15bb238768799038a53f515d4838c143f432ba98dcd",
+ "sha256_v2": "03fb1dac56221dc6142102cbbe8f9a64864b83985b6ba0bf65af8324efd76029",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "03fb1dac56221dc6142102cbbe8f9a64864b83985b6ba0bf65af8324efd76029",
+ "agent_register_kinds": [
+  "NONE",
+  "OBSERVED",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": true,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:13/p1/s1",
+   "paragraph": "1",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "Where personal data relating to a data subject are collected from the data subject, the controller shall, at the time when personal data are obtained, provide the data subject with all of the following information:"
+  },
+  {
+   "obligation_id": "32016R0679:13/p2/s1",
+   "paragraph": "2",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "In addition to the information referred to in paragraph 1, the controller shall, at the time when personal data are obtained, provide the data subject with the following further information necessary to ensure fair and transparent processing:"
+  },
+  {
+   "obligation_id": "32016R0679:13/p3/s1",
+   "paragraph": "3",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "Where the controller intends to further process the personal data for a purpose other than that for which the personal data were collected, the controller shall provide the data subject prior to that further processing with information on that other purpose and with any relevant further information as referred to in paragraph 2."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:13",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

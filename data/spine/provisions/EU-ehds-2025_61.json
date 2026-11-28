@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:61",
+ "label": "EU-ehds-2025 Article 61",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "861cc1c79b9bb9fcb9e6af0313d5b2477248ebb29f5034caa23522fc15ae0fe5",
+ "sha256_v1": "",
+ "sha256_v2": "861cc1c79b9bb9fcb9e6af0313d5b2477248ebb29f5034caa23522fc15ae0fe5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "861cc1c79b9bb9fcb9e6af0313d5b2477248ebb29f5034caa23522fc15ae0fe5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:61/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When processing electronic health data within the secure processing environments referred to in Article 73, health data users shall not provide access to the electronic health data, or make those data available, to third parties not mentioned in the data permit."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:61/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Health data users shall not re-identify or attempt to re-identify the natural persons to whom the electronic health data obtained by the health data users on the basis of a data permit, a health data request or an access approval by an authorised participant in HealthData@EU relate."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:61/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Health data users shall make public the results or output of secondary use, including information relevant for the provision of healthcare, within 18 months of the completion of the processing of the electronic health data in the secure processing environment or of having received the response to the health data request referred to in Article"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:61/p69/s1",
+   "paragraph": "69",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The results or output of secondary use shall contain only anonymous data."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:61/p69/s2",
+   "paragraph": "69",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Health data users shall inform the health data access bodies from which a data permit was obtained about the results or output of secondary use and assist them to make that information public on health data access bodies’ websites."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:61/p69/s4",
+   "paragraph": "69",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When health data users use electronic health data in accordance with this Chapter, they shall acknowledge the sources of the electronic health data and the fact that the electronic health data have been obtained in the framework of the EHDS."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:61/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Without prejudice to paragraph 2, health data users shall inform the health data access body of any significant finding related to the health of the natural person whose data are included in the dataset."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:61/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "cooperate",
+   "status": "DRAFT",
+   "text": "Health data users shall cooperate with health data access bodies in those bodies’ performance of their tasks."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:61",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

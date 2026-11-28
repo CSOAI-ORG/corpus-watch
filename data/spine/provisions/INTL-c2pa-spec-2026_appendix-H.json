@@ -1,0 +1,156 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-c2pa-spec-2026:appendix-H",
+ "label": "INTL-c2pa-spec-2026 Appendix H",
+ "instrument": "INTL-c2pa-spec-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e9b53c55255811b60e4ca6e9848d4721a21c13a86af895d1237da5fceaa831d3",
+ "sha256_v1": "",
+ "sha256_v2": "e9b53c55255811b60e4ca6e9848d4721a21c13a86af895d1237da5fceaa831d3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "e9b53c55255811b60e4ca6e9848d4721a21c13a86af895d1237da5fceaa831d3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-H/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Claim generators shall not use these constructs."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-H/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Claim generators shall not include a dataSource field in assertion metadata."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-H/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Validators shall continue to accept the field for backwards compatibility."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-H/p22/s1",
+   "paragraph": "22",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Claim generators shall use the integer label 33 instead, as described in Section 13.5, “X.509 Certificates”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-H/p22/s2",
+   "paragraph": "22",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Validators shall continue to accept the string label x5chain for backwards compatibility."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-H/p22/s3",
+   "paragraph": "22",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The type of the data shall be identified using the dc:format field, with a standard IANA media type."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-H/p22/s4",
+   "paragraph": "22",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A data box shall have a label of c2pa.data and follows the rules of assertion labels with respect to multiple instances."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-H/p22/s5",
+   "paragraph": "22",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A C2PA Data Box Store is a JUMBF superbox that shall contain only one or more CBOR Content Type boxes (cbor)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-H/p22/s6",
+   "paragraph": "22",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It shall not contain any other type of JUMBF box or superbox."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-H/p22/s7",
+   "paragraph": "22",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It shall have a label of c2pa.databoxes and a JUMBF type UUID of 63326462-0011-0010-8000-00AA00389B71 (c2db)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-H/p22/s8",
+   "paragraph": "22",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The CBOR Content Type boxes shall have a label of c2pa.data (for data boxes)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-H/p21/s1",
+   "paragraph": "21",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Claim generators shall not use the c2pa.removed action."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-H/p21/s2",
+   "paragraph": "21",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If not, then the claim shall be rejected with a failure code of assertion.action.ingredientMismatch."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-c2pa-spec-2026:appendix-H",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

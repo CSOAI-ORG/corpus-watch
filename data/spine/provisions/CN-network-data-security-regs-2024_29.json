@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-network-data-security-regs-2024:29",
+ "label": "CN-network-data-security-regs-2024 第二十九条",
+ "instrument": "CN-network-data-security-regs-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "b6a501ecf8c4d342ade1d046620aee73a44fbc68c85df9e20447dd0182d824e8",
+ "sha256_v1": "",
+ "sha256_v2": "b6a501ecf8c4d342ade1d046620aee73a44fbc68c85df9e20447dd0182d824e8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "b6a501ecf8c4d342ade1d046620aee73a44fbc68c85df9e20447dd0182d824e8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-network-data-security-regs-2024:29/s2",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "各地区、各部门应当按照数据分类分级保护制度，确定本地区、本部门以及相关行业、领域的重要数据具体目录，对列入目录的网络数据进行重点保护。"
+  },
+  {
+   "obligation_id": "CN-network-data-security-regs-2024:29/s3",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "网络数据处理者应当按照国家有关规定识别、申报重要数据。"
+  },
+  {
+   "obligation_id": "CN-network-data-security-regs-2024:29/s4",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "zh:public-trace",
+   "status": "DRAFT",
+   "text": "对确认为重要数据的，相关地区、部门应当及时向网络数据处理者告知或者公开发布。"
+  },
+  {
+   "obligation_id": "CN-network-data-security-regs-2024:29/s5",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "网络数据处理者应当履行网络数据安全保护责任。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-network-data-security-regs-2024:29",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

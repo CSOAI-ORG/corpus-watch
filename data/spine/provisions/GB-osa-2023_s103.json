@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s103",
+ "label": "GB-osa-2023 Section 103",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f7cdffd9e40017cd47597330be90af85eb89a9bc5fc4558c5c7d3077354f3037",
+ "sha256_v1": "",
+ "sha256_v2": "f7cdffd9e40017cd47597330be90af85eb89a9bc5fc4558c5c7d3077354f3037",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f7cdffd9e40017cd47597330be90af85eb89a9bc5fc4558c5c7d3077354f3037",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s103/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nOFCOM may include in the information notice a requirement that the provider must name, in their response to the notice, an individual who the provider considers to be a senior manager of the entity and who may reasonably be expected to be in a position to ensure compliance with the requirements of the notice."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s103/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nIf OFCOM impose a requirement to name an individual, the information notice must—\n(a)\nrequire the provider to inform such an individual, and\n(b)\ninclude information about the consequences for such an individual of the entity’s failure to comply with the requirements of the notice (see section 110)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s103",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

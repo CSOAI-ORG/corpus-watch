@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:11",
+ "label": "EU-ivdr-2017 Article 11",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "5931223b4c958441ea366b0c2a96a1f9a66f267774ef2ff8551a13715d138bf0",
+ "sha256_v1": "",
+ "sha256_v2": "5931223b4c958441ea366b0c2a96a1f9a66f267774ef2ff8551a13715d138bf0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "5931223b4c958441ea366b0c2a96a1f9a66f267774ef2ff8551a13715d138bf0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:11/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The designation shall constitute the authorised representative's mandate, it shall be valid only when accepted in writing by the authorised representative and shall be effective at least for all devices of the same generic device group."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:11/p3/s1",
+   "paragraph": "3",
+   "addressee": "authorised_representative",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The authorised representative shall perform the tasks specified in the mandate agreed between it and the manufacturer."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:11/p3/s2",
+   "paragraph": "3",
+   "addressee": "authorised_representative",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The authorised representative shall provide a copy of the mandate to the competent authority, upon request."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:11/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The mandate shall require, and the manufacturer shall enable, the authorised representative to perform at least the following tasks in relation to the devices that it covers:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:11/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The mandate referred to in paragraph 3 of this Article shall not delegate the manufacturer's obligations laid down in Article 10(1), (2), (3), (4), (5), (6), (8), (9), (10) and (11)."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:11/p5/s1",
+   "paragraph": "5",
+   "addressee": "authorised_representative",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Without prejudice to paragraph 4 of this Article, where the manufacturer is not established in a Member State and has not complied with the obligations laid down in Article 10, the authorised representative shall be legally liable for defective devices on the same basis as, and jointly and severally with, the manufacturer."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:11/p6/s1",
+   "paragraph": "6",
+   "addressee": "authorised_representative",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "An authorised representative who terminates its mandate on the grounds referred to in point (h) of paragraph 3 shall immediately inform the competent authority of the Member State in which it is established and, where applicable, the notified body that was involved in the conformity assessment for the device of the termination of the mandate and the reasons therefor."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:11",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

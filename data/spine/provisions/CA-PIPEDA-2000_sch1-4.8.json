@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CA-PIPEDA-2000:sch1-4.8",
+ "label": "CA-PIPEDA-2000 Schedule 1, clause 4.8",
+ "instrument": "CA-PIPEDA-2000",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5c1124fac3af39813e3fb4a0c110ff16946b98b7c6fcca5b730f5ba62358e7da",
+ "sha256_v1": "",
+ "sha256_v2": "5c1124fac3af39813e3fb4a0c110ff16946b98b7c6fcca5b730f5ba62358e7da",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CA",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "5c1124fac3af39813e3fb4a0c110ff16946b98b7c6fcca5b730f5ba62358e7da",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CA-PIPEDA-2000:sch1-4.8/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "4.8 Principle 8 — Openness An organization shall make readily available to individuals specific information about its policies and practices relating to the management of personal information. 4.8.1 Organizations shall be open about their policies and practices with respect to the management of personal information."
+  },
+  {
+   "obligation_id": "CA-PIPEDA-2000:sch1-4.8/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Individuals shall be able to acquire information about an organization’s policies and practices without unreasonable effort."
+  },
+  {
+   "obligation_id": "CA-PIPEDA-2000:sch1-4.8/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This information shall be made available in a form that is generally understandable. 4.8.2 The information made available shall include (a) the name or title, and the address, of the person who is accountable for the organization’s policies and practices and to whom complaints or inquiries can be forwarded;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CA-PIPEDA-2000:sch1-4.8",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

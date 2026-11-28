@@ -1,0 +1,206 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:40",
+ "label": "EU-dsa-2022 Article 40",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "d7272b45c8dc18ae26d8a6de67d343d4a67424a96730c536fd42b79cb3e5f115",
+ "sha256_v1": "",
+ "sha256_v2": "d7272b45c8dc18ae26d8a6de67d343d4a67424a96730c536fd42b79cb3e5f115",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "d7272b45c8dc18ae26d8a6de67d343d4a67424a96730c536fd42b79cb3e5f115",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:40/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of very large online platforms or of very large online search engines shall provide the Digital Services Coordinator of establishment or the Commission, at their reasoned request and within a reasonable period specified in that request, access to data that are necessary to monitor and assess compliance with this Regulation."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:40/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Digital Services Coordinators and the Commission shall use the data accessed pursuant to paragraph 1 only for the purpose of monitoring and assessing compliance with this Regulation and shall take due account of the rights and interests of the providers of very large online platforms or of very large online search engines and the recipients of the service concerned, including the protection of personal data, the protection of confidential information, in particular trade secrets, and maintaining the security of their service."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:40/p3/s1",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the purposes of paragraph 1, providers of very large online platforms or of very large online search engines shall, at the request of either the Digital Service Coordinator of establishment or of the Commission, explain the design, the logic, the functioning and the testing of their algorithmic systems, including their recommender systems."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:40/p4/s1",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "cooperate",
+   "status": "DRAFT",
+   "text": "Upon a reasoned request from the Digital Services Coordinator of establishment, providers of very large online platforms or of very large online search engines shall, within a reasonable period, as specified in the request, provide access to data to vetted researchers who meet the requirements in paragraph 8 of this Article, for the sole purpose of conducting research that contributes to the detection, identification and understanding of systemic risks in the Union, as set out pursuant to Article 34(1), and to the assessment of the adequacy, efficiency and impacts of the risk mitigation measures pursuant to Article 35."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:40/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Requests for amendment pursuant to paragraph 5 shall contain proposals for one or more alternative means through which access may be provided to the requested data or other data which are appropriate and sufficient for the purpose of the request."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:40/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Digital Services Coordinator of establishment shall decide on the request for amendment within 15 days and communicate to the provider of the very large online platform or of the very large online search engine its decision and, where relevant, the amended request and the new period to comply with the request."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:40/p7/s1",
+   "paragraph": "7",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of very large online platforms or of very large online search engines shall facilitate and provide access to data pursuant to paragraphs 1 and 4 through appropriate interfaces specified in the request, including online databases or application programming interfaces."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:40/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Upon a duly substantiated application from researchers, the Digital Services Coordinator of establishment shall grant such researchers the status of ‘vetted researchers’ for the specific research referred to in the application and issue a reasoned request for data access to a provider of very large online platform or of very large online search engine a pursuant to paragraph 4, where the researchers demonstrate that they meet all of the following conditions:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:40/p8/s2",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Upon receipt of the application pursuant to this paragraph, the Digital Services Coordinator of establishment shall inform the Commission and the Board."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:40/p9/s1",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Upon receipt of the application pursuant to this paragraph the Digital Services Coordinator shall conduct an initial assessment as to whether the respective researchers meet all of the conditions set out in paragraph"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:40/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The respective Digital Services Coordinator shall subsequently send the application, together with the supporting documents submitted by the respective researchers and the initial assessment, to the Digital Services Coordinator of establishment."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:40/p8/s2",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Digital Services Coordinator of establishment shall take a decision whether to award a researcher the status of ‘vetted researcher’ without undue delay."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:40/p10/s1",
+   "paragraph": "10",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Digital Services Coordinator that awarded the status of vetted researcher and issued the reasoned request for data access to the providers of very large online platforms or of very large online search engines in favour of a vetted researcher shall issue a decision terminating the access if it determines, following an investigation either on its own initiative or on the basis of information received from third parties, that the vetted researcher no longer meets the conditions set out in paragraph 8, and shall inform the provider of the very large online platform or of the very large online search engine concerned of the decision."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:40/p10/s2",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Before terminating the access, the Digital Services Coordinator shall allow the vetted researcher to react to the findings of its investigation and to its intention to terminate the access."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:40/p11/s1",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Digital Services Coordinators of establishment shall communicate to the Board the names and contact information of the natural persons or entities to which they have awarded the status of ‘vetted researcher’ in accordance with paragraph 8, as well as the purpose of the research in respect of which the application was made or, where they have terminated the access to the data in accordance with paragraph 10, communicate that information to the Board."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:40/p12/s1",
+   "paragraph": "12",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of very large online platforms or of very large online search engines shall give access without undue delay to data, including, where technically possible, to real-time data, provided that the data is publicly accessible in their online interface by researchers, including those affiliated to not for profit bodies, organisations and associations, who comply with the conditions set out in paragraph 8, points (b), (c), (d) and (e), and who use the data solely for performing research that contributes to the detection, identification and understanding of systemic risks in the Union pursuant to Article 34(1)."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:40/p13/s1",
+   "paragraph": "13",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall, after consulting the Board, adopt delegated acts supplementing this Regulation by laying down the technical conditions under which providers of very large online platforms or of very large online search engines are to share data pursuant to paragraphs 1 and 4 and the purposes for which the data may be used."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:40/p13/s2",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those delegated acts shall lay down the specific conditions under which such sharing of data with researchers can take place in compliance with Regulation (EU) 2016/679, as well as relevant objective indicators, procedures and, where necessary, independent advisory mechanisms in support of sharing of data, taking into account the rights and interests of the providers of very large online platforms or of very large online search engines and the recipients of the service concerned, including the protection of confidential information, in particular trade secrets, and maintaining the security of their service."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:40",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

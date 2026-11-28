@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:21",
+ "label": "EU-mica-2023 Article 21",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "0c29030578127604e89289cc7e05a5040d12d97dfec3ba0850d3c7864b5081d0",
+ "sha256_v1": "",
+ "sha256_v2": "0c29030578127604e89289cc7e05a5040d12d97dfec3ba0850d3c7864b5081d0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "0c29030578127604e89289cc7e05a5040d12d97dfec3ba0850d3c7864b5081d0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:21/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Competent authorities shall, within 25 working days of receipt of the opinions referred to in Article 20(5), take a fully reasoned decision granting or refusing authorisation to the applicant issuer and, within five working days of taking that decision, notify it to the applicant issuer."
+  },
+  {
+   "obligation_id": "EU-mica-2023:21/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Competent authorities shall refuse authorisation where there are objective and demonstrable grounds that:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:21/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "EBA and ESMA shall, by 30 June 2024, jointly issue guidelines in accordance with Article 16 of Regulation (EU) No 1093/2010 and Article 16 of Regulation (EU) No 1095/2010, respectively, on the assessment of the suitability of the members of the management body of issuers of asset-referenced tokens and of the shareholders and members, whether direct or indirect, that have qualifying holdings in issuers of asset-referenced tokens."
+  },
+  {
+   "obligation_id": "EU-mica-2023:21/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Competent authorities shall also refuse authorisation if the ECB or, where applicable, the central bank gives a negative opinion under Article 20(5) on the grounds of a risk posed to the smooth operation of payment systems, monetary policy transmission, or monetary sovereignty."
+  },
+  {
+   "obligation_id": "EU-mica-2023:21/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Competent authorities shall, within two working days of granting authorisation, communicate to the single point of contact of the host Member States, to ESMA, to EBA, to the ECB and, where applicable, to the central bank referred to in Article 20(4), the information specified in Article 109(3)."
+  },
+  {
+   "obligation_id": "EU-mica-2023:21/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ESMA shall make such information available in the register, under Article 109(3), by the starting date of the offer to the public or admission to trading."
+  },
+  {
+   "obligation_id": "EU-mica-2023:21/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Competent authorities shall inform EBA, ESMA, the ECB and, where applicable, the central bank referred to in Article 20(4), of all requests for authorisations refused, and provide the underlying reasoning for the decision and, where applicable, an explanation for any deviation from the opinions referred to in Article 20(5)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:21",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

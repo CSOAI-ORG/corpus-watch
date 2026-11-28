@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:-9",
+ "label": "EU AI Act Annex IX",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "38a6ba7db7f67d984562262ee27b7e620e03e51355ee406a9ec3dcccf27dc476",
+ "sha256_v1": "38a6ba7db7f67d984562262ee27b7e620e03e51355ee406a9ec3dcccf27dc476",
+ "sha256_v2": "38a6ba7db7f67d984562262ee27b7e620e03e51355ee406a9ec3dcccf27dc476",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "38a6ba7db7f67d984562262ee27b7e620e03e51355ee406a9ec3dcccf27dc476",
+ "agent_register_kinds": [
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:-9/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ANNEX IX Information to be submitted upon the registration of high-risk AI systems listed in Annex III in relation to testing in real world conditions in accordance with Article 60 The following information shall be provided and thereafter kept up to date with regard to testing in real world conditions to be registered in accordance with Article 60:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:-9",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

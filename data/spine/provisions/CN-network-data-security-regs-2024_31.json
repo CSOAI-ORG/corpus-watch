@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-network-data-security-regs-2024:31",
+ "label": "CN-network-data-security-regs-2024 第三十一条",
+ "instrument": "CN-network-data-security-regs-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "bdbbf25007456c852282bd2cb3b31cddbf9156657e8bf8e0dcc8c020955f5a7e",
+ "sha256_v1": "",
+ "sha256_v2": "bdbbf25007456c852282bd2cb3b31cddbf9156657e8bf8e0dcc8c020955f5a7e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "bdbbf25007456c852282bd2cb3b31cddbf9156657e8bf8e0dcc8c020955f5a7e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-network-data-security-regs-2024:31/s1",
+   "paragraph": null,
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "第三十一条　重要数据的处理者提供、委托处理、共同处理重要数据前，应当进行风险评估，但是属于履行法定职责或者法定义务的除外。"
+  },
+  {
+   "obligation_id": "CN-network-data-security-regs-2024:31/s2",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "风险评估应当重点评估下列内容："
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-network-data-security-regs-2024:31",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

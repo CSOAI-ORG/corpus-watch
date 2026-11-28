@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14409-2026:sec3",
+ "label": "US-EO14409-2026 Section 3",
+ "instrument": "US-EO14409-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "4c47ccc0ec47fdd7985c96381f0a3aebe7caa00101e73d7685fbd2fec1eb2256",
+ "sha256_v1": "",
+ "sha256_v2": "4c47ccc0ec47fdd7985c96381f0a3aebe7caa00101e73d7685fbd2fec1eb2256",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "4c47ccc0ec47fdd7985c96381f0a3aebe7caa00101e73d7685fbd2fec1eb2256",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14409-2026:sec3/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Within 60 days of the date of this order, the Secretary of the Treasury, the Secretary of War, through the Director of NSA, and the Secretary of Homeland Security, through the Director of CISA, in consultation with the White House Chief of Staff, through the National Cyber Director, the Assistant to the President for Science and Technology (APST), and the Secretary of Commerce, through the Director of the National Institute of Standards and Technology, and in coordination with other agencies, as appropriate, shall:"
+  },
+  {
+   "obligation_id": "US-EO14409-2026:sec3/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such a determination shall be made by the Director of NSA, in consultation with the National Cyber Director, the APST, the Director of CISA, and other representatives of the Department of War, as appropriate."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14409-2026:sec3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

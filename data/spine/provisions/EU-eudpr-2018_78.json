@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:78",
+ "label": "EU-eudpr-2018 Article 78",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "e638b0e42a225b6802c0e8fd9adb09398352e315c6c8e3bd701e9838714fea15",
+ "sha256_v1": "",
+ "sha256_v2": "e638b0e42a225b6802c0e8fd9adb09398352e315c6c8e3bd701e9838714fea15",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "e638b0e42a225b6802c0e8fd9adb09398352e315c6c8e3bd701e9838714fea15",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:78/p1/s1",
+   "paragraph": "1",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller shall take reasonable steps to provide any information referred to in Article 79 and make any communication with regard to Articles 80 to 84 and 92 relating to processing to the data subject in a concise, intelligible and easily accessible form, using clear and plain language."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:78/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The information shall be provided by any appropriate means, including by electronic means."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:78/p1/s3",
+   "paragraph": "1",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "cooperate",
+   "status": "DRAFT",
+   "text": "As a general rule, the controller shall provide the information in the same form as the request."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:78/p2/s1",
+   "paragraph": "2",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller shall facilitate the exercise of the rights of the data subject under Articles 79 to 84."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:78/p3/s1",
+   "paragraph": "3",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "The controller shall inform the data subject in writing about the follow-up to his or her request without undue delay and in any case at the latest within three months after receipt of the request by the data subject."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:78/p4/s1",
+   "paragraph": "4",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller shall provide the information under Article 79 and any communication made or action taken pursuant to Articles 80 to 84 and 92 free of charge."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:78/p4/s2",
+   "paragraph": "4",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller shall bear the burden of demonstrating the manifestly unfounded or excessive character of the request."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:78",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

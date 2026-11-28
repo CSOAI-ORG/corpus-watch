@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:43",
+ "label": "EU-mdr-2017 Article 43",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d86dd182412b44f8dea147d3108e30a6f8c60f5cc9b0822c82cd97c04471a814",
+ "sha256_v1": "",
+ "sha256_v2": "d86dd182412b44f8dea147d3108e30a6f8c60f5cc9b0822c82cd97c04471a814",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d86dd182412b44f8dea147d3108e30a6f8c60f5cc9b0822c82cd97c04471a814",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:43/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall assign an identification number to each notified body for which the notification becomes valid in accordance with Article 42(11)."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:43/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It shall assign a single identification number even when the body is notified under several Union acts."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:43/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If they are successfully designated in accordance with this Regulation, bodies notified pursuant to Directives 90/385/EEC and 93/42/EEC shall retain the identification number assigned to them pursuant to those Directives."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:43/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall make the list of the bodies notified under this Regulation, including the identification numbers that have been assigned to them and the conformity assessment activities as defined in this Regulation and the types of devices for which they have been notified, accessible to the public in NANDO."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:43/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It shall also make this list available on the electronic system referred to in Article"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:43/p57/s1",
+   "paragraph": "57",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall ensure that the list is kept up to date."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:43",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

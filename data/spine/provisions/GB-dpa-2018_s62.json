@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s62",
+ "label": "GB-dpa-2018 Section 62",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "b451803f647eee15ea5a82ffd8cbaf8208763b3886f9548cada2a6b499cbfe91",
+ "sha256_v1": "",
+ "sha256_v2": "b451803f647eee15ea5a82ffd8cbaf8208763b3886f9548cada2a6b499cbfe91",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "b451803f647eee15ea5a82ffd8cbaf8208763b3886f9548cada2a6b499cbfe91",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s62/p0/s1",
+   "paragraph": "0",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Logging\n(1)\nA controller (or, where personal data is processed on behalf of the controller by a processor, the processor) must keep logs for at least the following processing operations in automated processing systems—\n(a)\ncollection;"
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s62/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nThe logs of consultation must make it possible to establish—\n(a)\nthe ... date and time of, the consultation, and\n(b)\nso far as possible, the identity of the person who consulted the data."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s62/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nThe logs of disclosure must make it possible to establish—\n(a)\nthe ... date and time of, the disclosure, and\n(b)\nso far as possible—\n(i)\nthe identity of the person who disclosed the data, and\n(ii)\nthe identity of the recipients of the data."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s62/p0/s4",
+   "paragraph": "0",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nThe controller or (as the case may be) the processor must make the logs available to the Commission on request."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s62",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

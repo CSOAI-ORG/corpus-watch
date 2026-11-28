@@ -1,0 +1,189 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022R2554:11",
+ "label": "DORA Art. 11",
+ "instrument": "DORA",
+ "ladder": "CROSSWALK_ONLY",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "62e83e50c534da53004753b825bf07c0f6eebdcac946bf05a514ffa17ef8cf63",
+ "sha256_v1": "62e83e50c534da53004753b825bf07c0f6eebdcac946bf05a514ffa17ef8cf63",
+ "sha256_v2": "0dac47002be4f9dd78b5d6b87e14bbde49df67145d88c4719f753d9b077a9a83",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "0dac47002be4f9dd78b5d6b87e14bbde49df67145d88c4719f753d9b077a9a83",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022R2554:11/p1/s1",
+   "paragraph": "1",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "As part of the ICT risk management framework referred to in Article 6(1) and based on the identification requirements set out in Article 8, financial entities shall put in place a comprehensive ICT business continuity policy, which may be adopted as a dedicated specific policy, forming an integral part of the overall business continuity policy of the financial entity."
+  },
+  {
+   "obligation_id": "32022R2554:11/p2/s1",
+   "paragraph": "2",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Financial entities shall implement the ICT business continuity policy through dedicated, appropriate and documented arrangements, plans, procedures and mechanisms aiming to:"
+  },
+  {
+   "obligation_id": "32022R2554:11/p3/s1",
+   "paragraph": "3",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "As part of the ICT risk management framework referred to in Article 6(1), financial entities shall implement associated ICT response and recovery plans which, in the case of financial entities other than microenterprises, shall be subject to independent internal audit reviews."
+  },
+  {
+   "obligation_id": "32022R2554:11/p4/s1",
+   "paragraph": "4",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Financial entities shall put in place, maintain and periodically test appropriate ICT business continuity plans, notably with regard to critical or important functions outsourced or contracted through arrangements with ICT third-party service providers."
+  },
+  {
+   "obligation_id": "32022R2554:11/p5/s1",
+   "paragraph": "5",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As part of the overall business continuity policy, financial entities shall conduct a business impact analysis (BIA) of their exposures to severe business disruptions."
+  },
+  {
+   "obligation_id": "32022R2554:11/p5/s2",
+   "paragraph": "5",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Under the BIA, financial entities shall assess the potential impact of severe business disruptions by means of quantitative and qualitative criteria, using internal and external data and scenario analysis, as appropriate."
+  },
+  {
+   "obligation_id": "32022R2554:11/p5/s3",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The BIA shall consider the criticality of identified and mapped business functions, support processes, third-party dependencies and information assets, and their interdependencies."
+  },
+  {
+   "obligation_id": "32022R2554:11/p5/s4",
+   "paragraph": "5",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Financial entities shall ensure that ICT assets and ICT services are designed and used in full alignment with the BIA, in particular with regard to adequately ensuring the redundancy of all critical components."
+  },
+  {
+   "obligation_id": "32022R2554:11/p6/s1",
+   "paragraph": "6",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "As part of their comprehensive ICT risk management, financial entities shall:"
+  },
+  {
+   "obligation_id": "32022R2554:11/p14/s1",
+   "paragraph": "14",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the purposes of the first subparagraph, point (a), financial entities, other than microenterprises, shall include in the testing plans scenarios of cyber-attacks and switchovers between the primary ICT infrastructure and the redundant capacity, backups and redundant facilities necessary to meet the obligations set out in Article"
+  },
+  {
+   "obligation_id": "32022R2554:11/p12/s1",
+   "paragraph": "12",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Financial entities shall regularly review their ICT business continuity policy and ICT response and recovery plans, taking into account the results of tests carried out in accordance with the first subparagraph and recommendations stemming from audit checks or supervisory reviews."
+  },
+  {
+   "obligation_id": "32022R2554:11/p7/s1",
+   "paragraph": "7",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Financial entities, other than microenterprises, shall have a crisis management function, which, in the event of activation of their ICT business continuity plans or ICT response and recovery plans, shall, inter alia, set out clear procedures to manage internal and external crisis communications in accordance with Article 14."
+  },
+  {
+   "obligation_id": "32022R2554:11/p8/s1",
+   "paragraph": "8",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Financial entities shall keep readily accessible records of activities before and during disruption events when their ICT business continuity plans and ICT response and recovery plans are activated."
+  },
+  {
+   "obligation_id": "32022R2554:11/p9/s1",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Central securities depositories shall provide the competent authorities with copies of the results of the ICT business continuity tests, or of similar exercises."
+  },
+  {
+   "obligation_id": "32022R2554:11/p10/s1",
+   "paragraph": "10",
+   "addressee": "financial_entity",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Financial entities, other than microenterprises, shall report to the competent authorities, upon their request, an estimation of aggregated annual costs and losses caused by major ICT-related incidents."
+  },
+  {
+   "obligation_id": "32022R2554:11/p11/s1",
+   "paragraph": "11",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In accordance with Article 16 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010, the ESAs, through the Joint Committee, shall by 17 July 2024 develop common guidelines on the estimation of aggregated annual costs and losses referred to in paragraph 10."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022R2554:11",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

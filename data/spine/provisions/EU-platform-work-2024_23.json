@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-platform-work-2024:23",
+ "label": "EU-platform-work-2024 Article 23",
+ "instrument": "EU-platform-work-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "097bd31dd373344f90a11def967fe82907c5b1253fb234613fcc24d9061be534",
+ "sha256_v1": "",
+ "sha256_v2": "097bd31dd373344f90a11def967fe82907c5b1253fb234613fcc24d9061be534",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "097bd31dd373344f90a11def967fe82907c5b1253fb234613fcc24d9061be534",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-platform-work-2024:23/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall take the measures necessary to prohibit the dismissal or termination of the contract of persons performing platform work, or equivalent action, and all preparations therefor, on the grounds that they have exercised the rights provided for in this Directive."
+  },
+  {
+   "obligation_id": "EU-platform-work-2024:23/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The digital labour platform shall provide those grounds in writing without undue delay."
+  },
+  {
+   "obligation_id": "EU-platform-work-2024:23/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall take the measures necessary to ensure that, when the persons performing platform work referred to in paragraph 2 establish, before a court or other competent authority or body, facts from which it may be presumed that there has been such a dismissal, termination of contract or equivalent action, it shall be for the digital labour platform to prove that the dismissal, termination of contract or equivalent action was based on grounds other than those referred to in paragraph 1."
+  },
+  {
+   "obligation_id": "EU-platform-work-2024:23/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall not be required to apply paragraph 3 to proceedings in which it is for the court or other competent authority or body to investigate the facts of the case."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-platform-work-2024:23",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

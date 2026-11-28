@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB1000-2026:SEC-3",
+ "label": "US-CA-SB1000-2026 SEC. 3.",
+ "instrument": "US-CA-SB1000-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3d4b0192e412aaeddcd069289b9d8e621591b822d286bdbc6f19275b578a4063",
+ "sha256_v1": "",
+ "sha256_v2": "3d4b0192e412aaeddcd069289b9d8e621591b822d286bdbc6f19275b578a4063",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "3d4b0192e412aaeddcd069289b9d8e621591b822d286bdbc6f19275b578a4063",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB1000-2026:SEC-3/p3/s1",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)A covered provider shall make available a disclosure verification tool at no cost to the user that meets all of the following criteria:"
+  },
+  {
+   "obligation_id": "US-CA-SB1000-2026:SEC-3/p3/s2",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)A covered provider shall collect user feedback related to the efficacy of the covered provider’s AI disclosure verification tool and incorporate relevant feedback into any attempt to improve the efficacy of the tool."
+  },
+  {
+   "obligation_id": "US-CA-SB1000-2026:SEC-3/p3/s3",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)(1)Except as provided in paragraph (2), a covered provider shall not collect, use, retain, sell, share, or otherwise make available personal information derived either from a user of the covered provider’s AI disclosure verification tool or from any content processed by the disclosure verification tool beyond what is strictly necessary to comply with this chapter."
+  },
+  {
+   "obligation_id": "US-CA-SB1000-2026:SEC-3/p3/s4",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d)A covered provider shall not make access to the covered provider’s GenAI system or disclosure verification tool contingent upon a user providing personal information beyond what is strictly necessary to comply with this chapter."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB1000-2026:SEC-3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-pipa-2011:39-6",
+ "label": "KR-pipa-2011 제39조의6",
+ "instrument": "KR-pipa-2011",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "aeecc4a52700c2a1596c3eff7a653ce31e8f64c084db7f66ce09873a0033ac23",
+ "sha256_v1": "",
+ "sha256_v2": "aeecc4a52700c2a1596c3eff7a653ce31e8f64c084db7f66ce09873a0033ac23",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "aeecc4a52700c2a1596c3eff7a653ce31e8f64c084db7f66ce09873a0033ac23",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-pipa-2011:39-6/s3",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "② 법원사무관등은 제1항의 청구가 있었던 날부터 2주일이 지날 때까지(그 청구 절차를 밟은 자에 대한 비밀유지명령 신청이 그 기간 내에 이루어진 경우에는 그 신청에 대한 재판이 확정되는 시점까지를 말한다) 그 청구 절차를 밟은 자에게 제1항의 비밀 기재부분의 열람 등을 하게 하여서는 아니 된다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-pipa-2011:39-6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

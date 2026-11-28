@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-equality-act-2010:s108",
+ "label": "GB-equality-act-2010 Section 108",
+ "instrument": "GB-equality-act-2010",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a7e1a75549b3c58d77be41af0c2f044264a2469cc1cbd915b44a3a6a5e60a696",
+ "sha256_v1": "",
+ "sha256_v2": "a7e1a75549b3c58d77be41af0c2f044264a2469cc1cbd915b44a3a6a5e60a696",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a7e1a75549b3c58d77be41af0c2f044264a2469cc1cbd915b44a3a6a5e60a696",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-equality-act-2010:s108/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Relationships that have ended\n(1)\nA person (A) must not discriminate against another (B) if—\n(a)\nthe discrimination arises out of and is closely connected to a relationship which used to exist between them, and\n(b)\nconduct of a description constituting the discrimination would, if it occurred during the relationship, contravene this Act."
+  },
+  {
+   "obligation_id": "GB-equality-act-2010:s108/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nA person (A) must not harass another (B) if—\n(a)\nthe harassment arises out of and is closely connected to a relationship which used to exist between them, and\n(b)\nconduct of a description constituting the harassment would, if it occurred during the relationship, contravene this Act."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-equality-act-2010:s108",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

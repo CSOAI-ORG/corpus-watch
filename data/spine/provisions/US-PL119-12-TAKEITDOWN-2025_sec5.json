@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-PL119-12-TAKEITDOWN-2025:sec5",
+ "label": "US-PL119-12-TAKEITDOWN-2025 Section 5",
+ "instrument": "US-PL119-12-TAKEITDOWN-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6ea43df1bc3d305d9cef8748421ce740422683cb22b7be1791c85de37e04f8ff",
+ "sha256_v1": "",
+ "sha256_v2": "6ea43df1bc3d305d9cef8748421ce740422683cb22b7be1791c85de37e04f8ff",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "6ea43df1bc3d305d9cef8748421ce740422683cb22b7be1791c85de37e04f8ff",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-PL119-12-TAKEITDOWN-2025:sec5/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If any provision of this Act, or an amendment made by this Act, is determined to be unenforceable or invalid, the remaining provisions of this Act and the amendments made by this Act shall not be affected."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-PL119-12-TAKEITDOWN-2025:sec5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

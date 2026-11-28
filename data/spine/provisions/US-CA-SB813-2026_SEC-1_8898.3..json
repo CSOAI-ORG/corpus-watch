@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB813-2026:SEC-1:8898.3.",
+ "label": "US-CA-SB813-2026 SECTION 1. / 8898.3.",
+ "instrument": "US-CA-SB813-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "f880fdab0e80cd44dc9851fc827da7a4d80c90f17b7005d87f5ce957d186d1fc",
+ "sha256_v1": "",
+ "sha256_v2": "f880fdab0e80cd44dc9851fc827da7a4d80c90f17b7005d87f5ce957d186d1fc",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "f880fdab0e80cd44dc9851fc827da7a4d80c90f17b7005d87f5ce957d186d1fc",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB813-2026:SEC-1:8898.3./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)A designated IVO shall submit annually, and no sooner than 12 months after initial designation as an IVO, to the agency and Legislature a report that includes all of the following:"
+  },
+  {
+   "obligation_id": "US-CA-SB813-2026:SEC-1:8898.3./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(c)If an IVO redacts information in a document pursuant to this subdivision, the IVO shall describe the character and justification of the redaction in any published version of the document to the extent permitted by the concerns that justify redaction and shall retain the unredacted information for five years."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB813-2026:SEC-1:8898.3.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

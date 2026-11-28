@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-15USC1691-ECOA-1974:s1691e",
+ "label": "US-15USC1691-ECOA-1974 15 U.S.C. 1691e",
+ "instrument": "US-15USC1691-ECOA-1974",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "fca5f523a7ec44aedb620e2778f536402a6e8bb03412f26f9e78e2eb976aa32f",
+ "sha256_v1": "",
+ "sha256_v2": "fca5f523a7ec44aedb620e2778f536402a6e8bb03412f26f9e78e2eb976aa32f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "fca5f523a7ec44aedb620e2778f536402a6e8bb03412f26f9e78e2eb976aa32f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-15USC1691-ECOA-1974:s1691e/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Civil liability\n(a) Individual or class action for actual damages\nAny creditor who fails to comply with any requirement imposed under this subchapter shall be liable to the aggrieved applicant for any actual damages sustained by such applicant acting either in an individual capacity or as a member of a class."
+  },
+  {
+   "obligation_id": "US-15USC1691-ECOA-1974:s1691e/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) Recovery of punitive damages in individual and class action for actual damages; exemptions; maximum amount of punitive damages in individual actions; limitation on total recovery in class actions; factors determining amount of award\nAny creditor, other than a government or governmental subdivision or agency, who fails to comply with any requirement imposed under this subchapter shall be liable to the aggrieved applicant for punitive damages in an amount not greater than $10,000, in addition to any actual damages provided in subsection (a), except that in the case of a class action the total recovery under this subsection shall not exceed the lesser of $500,000 or 1 per centum of the net "
+  },
+  {
+   "obligation_id": "US-15USC1691-ECOA-1974:s1691e/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In determining the amount of such damages in any action, the court shall consider, among other relevant factors, the amount of any actual damages awarded, the frequency and persistence of failures of compliance by the creditor, the resources of the creditor, the number of persons adversely affected, and the extent to which the creditor's failure of compliance was intentional."
+  },
+  {
+   "obligation_id": "US-15USC1691-ECOA-1974:s1691e/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "No such action shall be brought later than 5 years after the date of the occurrence of the violation, except that—\n(1) whenever any agency having responsibility for administrative enforcement under section 1691c of this title commences an enforcement proceeding within 5 years after the date of the occurrence of the violation,\n(2) whenever the Attorney General commences a civil action under this section within 5 years after the date of the occurrence of the violation,\nthen any applicant who has been a victim of the discrimination which is the subject of such proceeding or civil action may bring an action under this section not later than one year after the commencement of that proceeding or a"
+  },
+  {
+   "obligation_id": "US-15USC1691-ECOA-1974:s1691e/p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each agency referred to in paragraphs (1), (2), and (9) of section 1691c(a) of this title shall refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has engaged in a pattern or practice of discouraging or denying applications for credit in violation of section 1691(a) of this title."
+  },
+  {
+   "obligation_id": "US-15USC1691-ECOA-1974:s1691e/p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i) Recovery under both subchapter and fair housing enforcement provisions prohibited for violation based on same transaction\nNo person aggrieved by a violation of this subchapter and by a violation of section 3605 of title 42 shall recover under this subchapter and section 3612 1 of title 42, if such violation is based on the same transaction."
+  },
+  {
+   "obligation_id": "US-15USC1691-ECOA-1974:s1691e/p0/s10",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2) has reason to believe that the alleged violation would be a violation of the Fair Housing Act [42 U.S.C. 3601 et seq.]; and\n(3) does not refer the matter to the Attorney General pursuant to subsection (g),\nthe agency shall notify the Secretary of Housing and Urban Development of the violation, and shall notify the applicant that the Secretary of Housing and Urban Development has been notified of the alleged violation and that remedies for the violation may be available under the Fair Housing Act."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-15USC1691-ECOA-1974:s1691e",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-OMB-M-26-04-2025:sec2",
+ "label": "US-OMB-M-26-04-2025 Section 2",
+ "instrument": "US-OMB-M-26-04-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "680826bb66b60015fda453bc83a6e34e1650eed4f1d6f5ae079c5a87cf35e8bf",
+ "sha256_v1": "",
+ "sha256_v2": "680826bb66b60015fda453bc83a6e34e1650eed4f1d6f5ae079c5a87cf35e8bf",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "680826bb66b60015fda453bc83a6e34e1650eed4f1d6f5ae079c5a87cf35e8bf",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-OMB-M-26-04-2025:sec2/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "APPLICABILITY FACTORS In determining whether to apply the requirements of this memorandum to LLMs developed by the agency, or to AI models other than LLMs, the agency shall consider:"
+  },
+  {
+   "obligation_id": "US-OMB-M-26-04-2025:sec2/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Models Other Than LLMs If the agency is procuring other types of generative AI capabilities, such as tools that assist with image, voice, or multimodal generation, agencies shall, where practicable, use this guidance to inform the documentation requirements imposed for the procurement."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-OMB-M-26-04-2025:sec2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

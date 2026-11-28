@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s33",
+ "label": "AU-privacy-act-1988 Section 33",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "b379f7054bc66d8adf870f84450a5055c1ed9c5b5e331b9967e6ae7a283e695c",
+ "sha256_v1": "",
+ "sha256_v2": "b379f7054bc66d8adf870f84450a5055c1ed9c5b5e331b9967e6ae7a283e695c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "b379f7054bc66d8adf870f84450a5055c1ed9c5b5e331b9967e6ae7a283e695c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s33/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\tIn deciding under subsection (1) whether or not to exclude matter from a report, the Commissioner shall have regard to the need to prevent:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s33/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(3)\tThe Commissioner shall try to achieve an appropriate balance between meeting the need referred to in subsection (2) and the desirability of ensuring that interested persons are sufficiently informed of the results of the Commissioner’s investigation, examination, monitoring or inquiry."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s33/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(4)\tWhere the Commissioner excludes a matter from a report, he or she shall give to the Minister a report setting out the excluded matter and his or her reasons for excluding the matter."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s33",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:92",
+ "label": "EU-ivdr-2017 Article 92",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "18bcb923b33003ef65f5b5e0ccdaf30ab15a0a73fbff274e4702a0306cf4b3b6",
+ "sha256_v1": "",
+ "sha256_v2": "18bcb923b33003ef65f5b5e0ccdaf30ab15a0a73fbff274e4702a0306cf4b3b6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "18bcb923b33003ef65f5b5e0ccdaf30ab15a0a73fbff274e4702a0306cf4b3b6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:92/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where, having performed an evaluation pursuant to Article 89, the competent authorities of a Member State find that a device does not comply with the requirements laid down in this Regulation but does not present an unacceptable risk to the health or safety of patients, users or other persons, or to other aspects of the protection of public health, they shall require the relevant economic operator to bring the non-compliance concerned to an end within a reasonable period that is clearly defined and communicated to the economic operator and that is proportionate to the non-compliance."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:92/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the economic operator does not bring the non-compliance to an end within the period referred to in paragraph 1 of this Article, the Member State concerned shall without delay take all appropriate measures to restrict or prohibit the product being made available on the market or to ensure that it is recalled or withdrawn from the market."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:92/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That Member State shall inform the Commission and the other Member States without delay of those measures, by means of the electronic system referred to in Article 95."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:92/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(3)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:92",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

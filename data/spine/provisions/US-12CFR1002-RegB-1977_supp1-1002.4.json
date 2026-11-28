@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-12CFR1002-RegB-1977:supp1-1002.4",
+ "label": "US-12CFR1002-RegB-1977 Supplement I, Section 1002.4—General Rules",
+ "instrument": "US-12CFR1002-RegB-1977",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b8b70f573d4351af4b84a342f2d239ba0a13234567a3028405a3d41ede88b77c",
+ "sha256_v1": "",
+ "sha256_v2": "b8b70f573d4351af4b84a342f2d239ba0a13234567a3028405a3d41ede88b77c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "b8b70f573d4351af4b84a342f2d239ba0a13234567a3028405a3d41ede88b77c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.4/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "No minimum type size is mandated, but the disclosures must be legible, whether typewritten, handwritten, or printed by computer."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.4/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Whether the disclosures required to be on or with an application must be in electronic form depends upon the following: i."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.4/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If an applicant accesses a credit application electronically (other than as described under ii below), such as online at a home computer, the creditor must provide the disclosures in electronic form (such as with the application form on its Web site) in order to meet the requirement to provide disclosures in a timely manner on or with the application."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-12CFR1002-RegB-1977:supp1-1002.4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

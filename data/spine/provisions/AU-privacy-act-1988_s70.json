@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s70",
+ "label": "AU-privacy-act-1988 Section 70",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "bfc96a1903e342c5e6ecbabcdcda637685167180ee030c908c0e50a1c26534ae",
+ "sha256_v1": "",
+ "sha256_v2": "bfc96a1903e342c5e6ecbabcdcda637685167180ee030c908c0e50a1c26534ae",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "bfc96a1903e342c5e6ecbabcdcda637685167180ee030c908c0e50a1c26534ae",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s70/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(g)\tprejudice the effectiveness of the operational methods or investigative practices or techniques of agencies responsible for the enforcement of the criminal law; or\n(h)\tendanger the life or physical safety of any person;\nthe Commissioner must not exercise a power under this Act that requires a person to give any information concerning the matter or to produce the document or other record."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s70",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-deep-synthesis-provisions-2022:20",
+ "label": "CN-deep-synthesis-provisions-2022 第二十条",
+ "instrument": "CN-deep-synthesis-provisions-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "68bcacdf8c5df581f8ee0606d4ac9f62e781aa66e45e84178de0accdbe7b96c5",
+ "sha256_v1": "",
+ "sha256_v2": "68bcacdf8c5df581f8ee0606d4ac9f62e781aa66e45e84178de0accdbe7b96c5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "68bcacdf8c5df581f8ee0606d4ac9f62e781aa66e45e84178de0accdbe7b96c5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-deep-synthesis-provisions-2022:20/s1",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "第二十条 深度合成服务提供者开发上线具有舆论属性或者社会动员能力的新产品、新应用、新功能的，应当按照国家有关规定开展安全评估。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-deep-synthesis-provisions-2022:20",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

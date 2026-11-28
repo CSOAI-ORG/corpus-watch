@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:72",
+ "label": "JP-appi-2003 Article 72",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "2ff6800384da9722ade0b08bfab93015f9bfa89379ba6c93b77484c990bd735d",
+ "sha256_v1": "",
+ "sha256_v2": "2ff6800384da9722ade0b08bfab93015f9bfa89379ba6c93b77484c990bd735d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "2ff6800384da9722ade0b08bfab93015f9bfa89379ba6c93b77484c990bd735d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:72/s3",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ja:internal-record",
+   "status": "DRAFT",
+   "text": "）において、必要があると認めるときは、当該第三者に対し、提供に係る個人関連情報について、その利用の目的若しくは方法の制限その他必要な制限を付し、又はその漏えいの防止その他の個人関連情報の適切な管理のために必要な措置を講ずることを求めるものとする。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:72",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

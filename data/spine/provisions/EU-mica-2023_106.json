@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:106",
+ "label": "EU-mica-2023 Article 106",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "6cace8d83dc8188fab27230b3746d43acfa9307fdf48b692265bd1479d072570",
+ "sha256_v1": "",
+ "sha256_v2": "6cace8d83dc8188fab27230b3746d43acfa9307fdf48b692265bd1479d072570",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "6cace8d83dc8188fab27230b3746d43acfa9307fdf48b692265bd1479d072570",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:106/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ESMA or, for asset-referenced tokens and e-money tokens, EBA, shall perform a facilitating and coordinating role in relation to measures taken by competent authorities pursuant to Article 105."
+  },
+  {
+   "obligation_id": "EU-mica-2023:106/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "ESMA or, for asset-referenced tokens and e-money tokens, EBA, shall ensure that measures taken by a competent authority are justified and proportionate and that a consistent approach is taken by competent authorities, where appropriate."
+  },
+  {
+   "obligation_id": "EU-mica-2023:106/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "After receiving notification in accordance with Article 105(3) of any measure to be taken pursuant to that Article, ESMA or, for asset-referenced tokens and e-money tokens, EBA, shall issue an opinion on whether the prohibition or restriction is justified and proportionate."
+  },
+  {
+   "obligation_id": "EU-mica-2023:106/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "If ESMA or, for asset-referenced tokens and e-money tokens, EBA, considers that the taking of a measure by other competent authorities is necessary to address the risk, it shall state this in its opinion."
+  },
+  {
+   "obligation_id": "EU-mica-2023:106/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "The opinion shall be published on the website of ESMA or, for asset-referenced tokens and e-money tokens, EBA."
+  },
+  {
+   "obligation_id": "EU-mica-2023:106/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a competent authority proposes to take, or takes or declines to take measures contrary to an opinion issued by ESMA or EBA pursuant to paragraph 2, it shall immediately publish on its website a notice fully explaining its reasons therefor."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:106",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

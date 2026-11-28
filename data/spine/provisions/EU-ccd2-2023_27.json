@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:27",
+ "label": "EU-ccd2-2023 Article 27",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "97017c4e3978500f4d194430f01435ae3e21fa64ac74c5d1e3d0e45ae00ee7c2",
+ "sha256_v1": "",
+ "sha256_v2": "97017c4e3978500f4d194430f01435ae3e21fa64ac74c5d1e3d0e45ae00ee7c2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "97017c4e3978500f4d194430f01435ae3e21fa64ac74c5d1e3d0e45ae00ee7c2",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:27/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that a consumer who has exercised the right of withdrawal, based on Union law, concerning a contract for the supply of goods or the provision of services, is no longer bound by a linked credit agreement."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:27/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the goods or services covered by a linked credit agreement are not supplied or provided, or are supplied or provided only in part, or are not in conformity with the contract for the supply or provision thereof, the consumer shall have the right to pursue remedies against the creditor if the consumer has pursued remedies against the supplier or provider but has failed to obtain the satisfaction to which he is entitled according to the law or the contract for the supply of those goods or the provision of those services."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:27/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall determine to what extent and under what conditions those remedies are exercisable."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:27",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

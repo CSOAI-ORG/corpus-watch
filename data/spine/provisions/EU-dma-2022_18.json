@@ -1,0 +1,136 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:18",
+ "label": "EU-dma-2022 Article 18",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "58e8d3f9b113d999400a384fdccbb7f0dbce2ec66b1081402fdf8b3f8ad17313",
+ "sha256_v1": "",
+ "sha256_v2": "58e8d3f9b113d999400a384fdccbb7f0dbce2ec66b1081402fdf8b3f8ad17313",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "58e8d3f9b113d999400a384fdccbb7f0dbce2ec66b1081402fdf8b3f8ad17313",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:18/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall conclude that market investigation within 12 months from the date referred to in Article 16(3), point (a)."
+  },
+  {
+   "obligation_id": "EU-dma-2022:18/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That implementing act shall be adopted in accordance with the advisory procedure referred to in Article 50(2)."
+  },
+  {
+   "obligation_id": "EU-dma-2022:18/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall communicate its preliminary findings to the gatekeeper concerned within 6 months from the date referred to in Article 16(3), point (a)."
+  },
+  {
+   "obligation_id": "EU-dma-2022:18/p4/s2",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In its preliminary findings, the Commission shall explain whether it preliminarily considers that the conditions of paragraph 1 of this Article are met and which remedy or remedies it preliminarily considers necessary and proportionate."
+  },
+  {
+   "obligation_id": "EU-dma-2022:18/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In order to enable interested third parties to effectively provide comments, the Commission shall, at the same time as communicating its preliminary findings to the gatekeeper pursuant to paragraph 4 or as soon as possible thereafter, publish a non-confidential summary of the case and the remedies that it is considering imposing."
+  },
+  {
+   "obligation_id": "EU-dma-2022:18/p5/s2",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall specify a reasonable timeframe within which such comments are to be provided."
+  },
+  {
+   "obligation_id": "EU-dma-2022:18/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the Commission intends to adopt a decision pursuant to paragraph 1 of this Article by making commitments offered by the gatekeeper pursuant to Article 25 binding, it shall publish a non-confidential summary of the case and the main content of the commitments."
+  },
+  {
+   "obligation_id": "EU-dma-2022:18/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Interested third parties may submit their comments within a reasonable timeframe which shall be set by the Commission."
+  },
+  {
+   "obligation_id": "EU-dma-2022:18/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The total duration of any extension or extensions pursuant to this paragraph shall not exceed 6 months."
+  },
+  {
+   "obligation_id": "EU-dma-2022:18/p8/s1",
+   "paragraph": "8",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In order to ensure effective compliance by the gatekeeper with its obligations laid down in Articles 5, 6 and 7, the Commission shall regularly review the remedies that it imposes in accordance with paragraphs 1 and 2 of this Article."
+  },
+  {
+   "obligation_id": "EU-dma-2022:18/p8/s2",
+   "paragraph": "8",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall be entitled to modify those remedies if, following a new market investigation, it finds that they are not effective."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:18",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

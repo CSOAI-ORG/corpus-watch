@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s79",
+ "label": "AU-privacy-act-1988 Section 79",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "3d11907c1f4ad6fcd43d40bb76fed8ca17b3cd82e6a6248f4da39d2bbf35955d",
+ "sha256_v1": "",
+ "sha256_v2": "3d11907c1f4ad6fcd43d40bb76fed8ca17b3cd82e6a6248f4da39d2bbf35955d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "3d11907c1f4ad6fcd43d40bb76fed8ca17b3cd82e6a6248f4da39d2bbf35955d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s79/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "79  Making of determination\n(1)\tThe Commissioner shall, in making a determination, take account of all matters raised at the conference."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s79/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\tThe Commissioner shall, in making a determination, take account of all submissions about the application that have been made, whether at a conference or not, by the agency, organisation or any other person."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s79",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

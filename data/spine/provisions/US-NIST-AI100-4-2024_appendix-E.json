@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-NIST-AI100-4-2024:appendix-E",
+ "label": "US-NIST-AI100-4-2024 appendix-E",
+ "instrument": "US-NIST-AI100-4-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f798459e41897262013713e79c7cc54e2a62539f4e788a2be5f7c2d2c47f1c74",
+ "sha256_v1": "",
+ "sha256_v2": "f798459e41897262013713e79c7cc54e2a62539f4e788a2be5f7c2d2c47f1c74",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 1,
+ "sha256_current": "f798459e41897262013713e79c7cc54e2a62539f4e788a2be5f7c2d2c47f1c74",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-NIST-AI100-4-2024:appendix-E/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This metric can be useful in\nsettings where the false positive rate must be kept low."
+  },
+  {
+   "obligation_id": "US-NIST-AI100-4-2024:appendix-E/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "One can measure both intra-algorithm transferability (where the attack and defense are trained on one\ndataset but the system now must handle the same attack on a different dataset) and inter-algorithm\ntransferability (using adversarial attacks from one trained model to fool a completely different algorithm,\nsometimes trained on the training dataset)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-NIST-AI100-4-2024:appendix-E",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

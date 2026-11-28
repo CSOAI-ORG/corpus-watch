@@ -1,0 +1,59 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:32",
+ "label": "GDPR Art. 32",
+ "instrument": "GDPR",
+ "ladder": "CROSSWALK_ONLY",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "acfc29f8d704aabcd17fe321fef3099c39a9eff29af660057c3d4285c6ad4613",
+ "sha256_v1": "acfc29f8d704aabcd17fe321fef3099c39a9eff29af660057c3d4285c6ad4613",
+ "sha256_v2": "35f9c27373abcbd8af610c8b1305c9c1cd33adc3f357c147189051d5b1dbae71",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "35f9c27373abcbd8af610c8b1305c9c1cd33adc3f357c147189051d5b1dbae71",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:32/p1/s1",
+   "paragraph": "1",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, the controller and the processor shall implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk, including inter alia as appropriate:"
+  },
+  {
+   "obligation_id": "32016R0679:32/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In assessing the appropriate level of security account shall be taken in particular of the risks that are presented by processing, in particular from accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to personal data transmitted, stored or otherwise processed."
+  },
+  {
+   "obligation_id": "32016R0679:32/p4/s1",
+   "paragraph": "4",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller and processor shall take steps to ensure that any natural person acting under the authority of the controller or the processor who has access to personal data does not process them except on instructions from the controller, unless he or she is required to do so by Union or Member State law."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:32",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

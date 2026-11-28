@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-15USC1681-FCRA-1970:s1681w",
+ "label": "US-15USC1681-FCRA-1970 15 U.S.C. 1681w",
+ "instrument": "US-15USC1681-FCRA-1970",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ff8634075f2297d9b6865bb70de1f544f109188442a0c91b7fc6f32c70556ce4",
+ "sha256_v1": "",
+ "sha256_v2": "ff8634075f2297d9b6865bb70de1f544f109188442a0c91b7fc6f32c70556ce4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "ff8634075f2297d9b6865bb70de1f544f109188442a0c91b7fc6f32c70556ce4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-15USC1681-FCRA-1970:s1681w/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Disposal of records\n(a) Regulations\n(1) In general\nThe Federal Trade Commission, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the Federal banking agencies, and the National Credit Union Administration, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title, and in coordination as described in paragraph (2), shall issue final regulations requiring any person that maintains or otherwise possesses consumer information, or any compilation of consumer information, derived from consumer reports for a business purpose to properly dispose of any such information or compilation."
+  },
+  {
+   "obligation_id": "US-15USC1681-FCRA-1970:s1681w/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2) Coordination\nEach agency required to prescribe regulations under paragraph (1) shall—\n(A) consult and coordinate with each other such agency so that, to the extent possible, the regulations prescribed by each such agency are consistent and comparable with the regulations by each such other agency; and\n(B) ensure that such regulations are consistent with the requirements and regulations issued pursuant to Public Law 106–102 and other provisions of Federal law."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-15USC1681-FCRA-1970:s1681w",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

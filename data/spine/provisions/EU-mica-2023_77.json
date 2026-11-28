@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:77",
+ "label": "EU-mica-2023 Article 77",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "9173374c7be5a2fa12cd9d0b135d022c1d4ffe04e15eb849a709495e064adec4",
+ "sha256_v1": "",
+ "sha256_v2": "9173374c7be5a2fa12cd9d0b135d022c1d4ffe04e15eb849a709495e064adec4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9173374c7be5a2fa12cd9d0b135d022c1d4ffe04e15eb849a709495e064adec4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:77/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers exchanging crypto-assets for funds or other crypto-assets shall establish a non-discriminatory commercial policy that indicates, in particular, the type of clients they agree to transact with and the conditions that shall be met by such clients."
+  },
+  {
+   "obligation_id": "EU-mica-2023:77/p2/s1",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers exchanging crypto-assets for funds or other crypto-assets shall publish a firm price of the crypto-assets or a method for determining the price of the crypto-assets that they propose to exchange for funds or other crypto-assets, and any applicable limit determined by that crypto-asset service provider on the amount to be exchanged."
+  },
+  {
+   "obligation_id": "EU-mica-2023:77/p3/s1",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers exchanging crypto-assets for funds or other crypto-assets shall execute client orders at the prices displayed at the time when the order for exchange is final."
+  },
+  {
+   "obligation_id": "EU-mica-2023:77/p3/s2",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers shall inform their clients of the conditions for their order to be deemed final."
+  },
+  {
+   "obligation_id": "EU-mica-2023:77/p4/s1",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers exchanging crypto-assets for funds or other crypto-assets shall publish information about the transactions concluded by them, such as transaction volumes and prices."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:77",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

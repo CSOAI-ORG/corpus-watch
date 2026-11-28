@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s80A",
+ "label": "AU-privacy-act-1988 Section 80A",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "fcad0d2221b28fbd96746a6b9c521469bef2637e46acbb60fdaa45c6ad41e738",
+ "sha256_v1": "",
+ "sha256_v2": "fcad0d2221b28fbd96746a6b9c521469bef2637e46acbb60fdaa45c6ad41e738",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "fcad0d2221b28fbd96746a6b9c521469bef2637e46acbb60fdaa45c6ad41e738",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s80A/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(3)\tThe Commissioner must specify in the determination a period of up to 12 months during which the determination is in force (subject to subsection 80D(2))."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s80A",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

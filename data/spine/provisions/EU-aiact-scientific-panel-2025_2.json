@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-aiact-scientific-panel-2025:2",
+ "label": "EU-aiact-scientific-panel-2025 Article 2",
+ "instrument": "EU-aiact-scientific-panel-2025",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "3f1ecf8a278dde3c7d53c1589affbd4f4052da1356304aebc82b3f5fd9c2bdb1",
+ "sha256_v1": "",
+ "sha256_v2": "3f1ecf8a278dde3c7d53c1589affbd4f4052da1356304aebc82b3f5fd9c2bdb1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "3f1ecf8a278dde3c7d53c1589affbd4f4052da1356304aebc82b3f5fd9c2bdb1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:2/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-aiact-scientific-panel-2025:2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

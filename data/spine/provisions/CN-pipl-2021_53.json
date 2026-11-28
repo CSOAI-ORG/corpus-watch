@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-pipl-2021:53",
+ "label": "CN-pipl-2021 第五十三条",
+ "instrument": "CN-pipl-2021",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5c7abe3f6af585eb2f8cf852dbbd66229a77e45da341ecd18fe8c09792d88922",
+ "sha256_v1": "",
+ "sha256_v2": "5c7abe3f6af585eb2f8cf852dbbd66229a77e45da341ecd18fe8c09792d88922",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "5c7abe3f6af585eb2f8cf852dbbd66229a77e45da341ecd18fe8c09792d88922",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-pipl-2021:53/s1",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "第五十三条　本法第三条第二款规定的中华人民共和国境外的个人信息处理者，应当在中华人民共和国境内设立专门机构或者指定代表，负责处理个人信息保护相关事务，并将有关机构的名称或者代表的姓名、联系方式等报送履行个人信息保护职责的部门。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-pipl-2021:53",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

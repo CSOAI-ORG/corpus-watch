@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:75",
+ "label": "JP-appi-2003 Article 75",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "a4cd6edba4dfa86e040bdc8bb8cf86fecc2f33f471ba31c86889adafb1159bd7",
+ "sha256_v1": "",
+ "sha256_v2": "a4cd6edba4dfa86e040bdc8bb8cf86fecc2f33f471ba31c86889adafb1159bd7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a4cd6edba4dfa86e040bdc8bb8cf86fecc2f33f471ba31c86889adafb1159bd7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:75/s3",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "ja:public-trace",
+   "status": "DRAFT",
+   "text": "）を作成し、公表しなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:75",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

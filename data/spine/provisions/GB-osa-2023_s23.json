@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s23",
+ "label": "GB-osa-2023 Section 23",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "033d71cd3969b0bbfa1760e45a0963364c897f3a98d58bfc453f0d8ca7b890a9",
+ "sha256_v1": "",
+ "sha256_v2": "033d71cd3969b0bbfa1760e45a0963364c897f3a98d58bfc453f0d8ca7b890a9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "033d71cd3969b0bbfa1760e45a0963364c897f3a98d58bfc453f0d8ca7b890a9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s23/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nIf alternative measures have been taken or are in use to comply with a duty set out in section 10(2) , (3) or (3A) or 12(2) or (3), the record required under subsection (4) of this section must also indicate whether such measures have been taken or are in use in every area listed in section 10(4) or 12(8) (as the case may be) in relation to which there are applicable measures in a code of practice."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s23/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(8)\nOFCOM must publish details of any exemption or revocation under subsection (7), including reasons for the revocation of an exemption."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s23",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

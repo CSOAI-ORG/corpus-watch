@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:123",
+ "label": "JP-appi-2003 Article 123",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "05d3b205e6e41d3968d57d9f82f3307a30adfff9c7d40f62ab9492f4e7cdd334",
+ "sha256_v1": "",
+ "sha256_v2": "05d3b205e6e41d3968d57d9f82f3307a30adfff9c7d40f62ab9492f4e7cdd334",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "05d3b205e6e41d3968d57d9f82f3307a30adfff9c7d40f62ab9492f4e7cdd334",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:123/s4",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "）を第三者に提供するときは、法令に基づく場合を除き、個人情報保護委員会規則で定めるところにより、あらかじめ、第三者に提供される匿名加工情報に含まれる個人に関する情報の項目及びその提供の方法について公表するとともに、当該第三者に対して、当該提供に係る情報が匿名加工情報である旨を明示しなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:123/s5",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "２ 行政機関等は、匿名加工情報を取り扱うに当たっては、法令に基づく場合を除き、当該匿名加工情報の作成に用いられた個人情報に係る本人を識別するために、当該個人情報から削除された記述等若しくは個人識別符号若しくは第四十三条第一項の規定により行われた加工の方法に関する情報を取得し、又は当該匿名加工情報を他の情報と照合してはならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:123/s6",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "３ 行政機関等は、匿名加工情報の漏えいを防止するために必要なものとして個人情報保護委員会規則で定める基準に従い、匿名加工情報の適切な管理のために必要な措置を講じなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:123",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

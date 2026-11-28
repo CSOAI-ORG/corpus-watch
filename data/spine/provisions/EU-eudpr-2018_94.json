@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:94",
+ "label": "EU-eudpr-2018 Article 94",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "8d3688209f2e495d208ffad1b5a2db7f9bcedb0f247afa650883899400ae9ddc",
+ "sha256_v1": "",
+ "sha256_v2": "8d3688209f2e495d208ffad1b5a2db7f9bcedb0f247afa650883899400ae9ddc",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "8d3688209f2e495d208ffad1b5a2db7f9bcedb0f247afa650883899400ae9ddc",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:94/p3/s1",
+   "paragraph": "3",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "The controller shall publish on its website and keep up to date a list of adequacy decisions referred to in point (a) of paragraph 1, agreements, administrative arrangements and other instruments relating to the transfer of operational personal data in accordance with paragraph 1."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:94/p4/s1",
+   "paragraph": "4",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "The controller shall keep detailed records of all transfers made pursuant to this Article."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:94",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

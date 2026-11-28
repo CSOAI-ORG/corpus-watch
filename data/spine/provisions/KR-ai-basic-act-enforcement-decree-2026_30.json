@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-ai-basic-act-enforcement-decree-2026:30",
+ "label": "KR-ai-basic-act-enforcement-decree-2026 제30조",
+ "instrument": "KR-ai-basic-act-enforcement-decree-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "c9db1dff1f81d66d6e1b49b15c95ecdd27957c7ddaec01cf6e07db618ad307e6",
+ "sha256_v1": "",
+ "sha256_v2": "c9db1dff1f81d66d6e1b49b15c95ecdd27957c7ddaec01cf6e07db618ad307e6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "c9db1dff1f81d66d6e1b49b15c95ecdd27957c7ddaec01cf6e07db618ad307e6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:30/s12",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "ko:public-trace",
+   "status": "DRAFT",
+   "text": "③ 실태조사의 결과, 통계 및 지표는 과학기술정보통신부의 인터넷 홈페이지 등을 통하여 공표해야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-ai-basic-act-enforcement-decree-2026:30",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-UT-HB276-AImodifications-2026:Section-14",
+ "label": "US-UT-HB276-AImodifications-2026 Section 14",
+ "instrument": "US-UT-HB276-AImodifications-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "79d54a49b8bba70d795c3f7454fd338fd642f001f6399e5be35c996c3a52175b",
+ "sha256_v1": "",
+ "sha256_v2": "79d54a49b8bba70d795c3f7454fd338fd642f001f6399e5be35c996c3a52175b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "79d54a49b8bba70d795c3f7454fd338fd642f001f6399e5be35c996c3a52175b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-UT-HB276-AImodifications-2026:Section-14/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1) If any provision of this chapter or the application of any provision to any person or circumstance is held invalid by a final decision of a court of competent jurisdiction, the remainder of this chapter shall be given effect without the invalid provision or application."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-UT-HB276-AImodifications-2026:Section-14",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

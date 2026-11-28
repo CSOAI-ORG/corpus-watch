@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14320-2025:sec1",
+ "label": "US-EO14320-2025 Section 1",
+ "instrument": "US-EO14320-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "826f51e489f692c144ad80853b7899e6ca2cd629b67af29fd761f44a3fa07e47",
+ "sha256_v1": "",
+ "sha256_v2": "826f51e489f692c144ad80853b7899e6ca2cd629b67af29fd761f44a3fa07e47",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "826f51e489f692c144ad80853b7899e6ca2cd629b67af29fd761f44a3fa07e47",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14320-2025:sec1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The United States must not only lead in developing general-purpose and frontier AI capabilities, but also ensure that American AI technologies, standards, and governance models are adopted worldwide to strengthen relationships with our allies and secure our continued technological dominance."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14320-2025:sec1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

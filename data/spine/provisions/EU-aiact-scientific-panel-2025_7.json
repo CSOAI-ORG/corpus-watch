@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-aiact-scientific-panel-2025:7",
+ "label": "EU-aiact-scientific-panel-2025 Article 7",
+ "instrument": "EU-aiact-scientific-panel-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "0368e2b596f7b1fb9e3cd1bebb875c71161836ce4fb45f756f432ac5185db0a9",
+ "sha256_v1": "",
+ "sha256_v2": "0368e2b596f7b1fb9e3cd1bebb875c71161836ce4fb45f756f432ac5185db0a9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "0368e2b596f7b1fb9e3cd1bebb875c71161836ce4fb45f756f432ac5185db0a9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:7/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission, in consultation with the Chair, shall appoint members of the scientific panel for the performance of the panel’s tasks on the basis of expertise, availability and other factors relevant for the efficient performance of the task in question, including possible conflicts of interest and security concerns."
+  },
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:7/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Members of the scientific panel shall be consulted prior to their potential appointment and shall have the possibility to express interest in the appointment."
+  },
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:7/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Where an expert is no longer able to effectively perform his or her allocated task, the expert shall notify the Commission, who shall appoint another member of the scientific panel in consultation with the Chair under the conditions set out in paragraph 1."
+  },
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:7/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the Commission appoints an expert from the scientific panel to carry out evaluations on its behalf pursuant to Article 92(2) of Regulation (EU) 2024/1689, the Commission shall assess whether such appointment could affect the ability of the expert to carry out a currently assigned task within the scientific panel independently, impartially and objectively."
+  },
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:7/p4/s2",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the Commission concludes that such appointment could negatively affect such ability, the expert shall be exempted from the concerned currently assigned task, which shall be allocated to another member of the scientific panel under the conditions set out in paragraph 1."
+  },
+  {
+   "obligation_id": "EU-aiact-scientific-panel-2025:7/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "The participation and conclusions of such hearings shall be made publicly available on a dedicated Commission website."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-aiact-scientific-panel-2025:7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

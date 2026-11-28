@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB354-2026:SEC-2:791.065.",
+ "label": "US-CA-SB354-2026 SEC. 2. / 791.065.",
+ "instrument": "US-CA-SB354-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9f64cbdbb0a7758ff8f93b61b3fac4b292a2ea2b97224da64b29bc0c6633664f",
+ "sha256_v1": "",
+ "sha256_v2": "9f64cbdbb0a7758ff8f93b61b3fac4b292a2ea2b97224da64b29bc0c6633664f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "9f64cbdbb0a7758ff8f93b61b3fac4b292a2ea2b97224da64b29bc0c6633664f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.065./p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)Notwithstanding any other law, a licensee, surplus line insurer, reinsurer, or third-party service provider shall not utilize as its disclosure authorization form in connection with insurance transactions a form or statement that authorizes the disclosure of personal or privileged information about an individual to the licensee, surplus line insurer, reinsurer, or third-party service provider unless the form or statement meets all of the following criteria:"
+  },
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.065./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(7)Specifies the length of time the authorization shall remain valid, which shall be no longer than:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB354-2026:SEC-2:791.065.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "HU-ai-act-government-decree-2025:2",
+ "label": "HU-ai-act-government-decree-2025 2. §",
+ "instrument": "HU-ai-act-government-decree-2025",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "7c1c218ca0a5c2ae2ef5744134ba31eec4d573bf6e177fa5201e5c1c17b7321b",
+ "sha256_v1": "",
+ "sha256_v2": "7c1c218ca0a5c2ae2ef5744134ba31eec4d573bf6e177fa5201e5c1c17b7321b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "HU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "7c1c218ca0a5c2ae2ef5744134ba31eec4d573bf6e177fa5201e5c1c17b7321b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "HU-ai-act-government-decree-2025:2/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=HU-ai-act-government-decree-2025:2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

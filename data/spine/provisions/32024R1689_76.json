@@ -1,0 +1,59 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:76",
+ "label": "EU AI Act Art. 76",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "fb301602ce5ae4f4054ee71c011c0bcf4b9c64523afdb1df7eae18c90a64b3c0",
+ "sha256_v1": "fb301602ce5ae4f4054ee71c011c0bcf4b9c64523afdb1df7eae18c90a64b3c0",
+ "sha256_v2": "fb301602ce5ae4f4054ee71c011c0bcf4b9c64523afdb1df7eae18c90a64b3c0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": 62,
+ "sha256_current": "14e2de01c03192e96b794fab8a0aa0a14cd635508849c1e6513a2f3ae06fa07e",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:76/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where testing in real world conditions is conducted for AI systems that are supervised within an AI regulatory sandbox under Article 58, the market surveillance authorities shall verify the compliance with Article 60 as part of their supervisory role for the AI regulatory sandbox."
+  },
+  {
+   "obligation_id": "32024R1689:76/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a market surveillance authority has taken a decision referred to in paragraph 3 of this Article, or has issued an objection within the meaning of Article 60(4), point (b), the decision or the objection shall indicate the grounds therefor and how the provider or prospective provider can challenge the decision or objection."
+  },
+  {
+   "obligation_id": "32024R1689:76/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where applicable, where a market surveillance authority has taken a decision referred to in paragraph 3, it shall communicate the grounds therefor to the market surveillance authorities of other Member States in which the AI system has been tested in accordance with the testing plan."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:76",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

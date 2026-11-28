@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "ES-ai-sandbox-rd-817-2023:6",
+ "label": "ES-ai-sandbox-rd-817-2023 Artículo 6",
+ "instrument": "ES-ai-sandbox-rd-817-2023",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "00506fe41e1be27593fce61a70be93a44097ef229a1006fc4c3eb98fb40858d0",
+ "sha256_v1": "",
+ "sha256_v2": "00506fe41e1be27593fce61a70be93a44097ef229a1006fc4c3eb98fb40858d0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "ES",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "00506fe41e1be27593fce61a70be93a44097ef229a1006fc4c3eb98fb40858d0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:6/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=ES-ai-sandbox-rd-817-2023:6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

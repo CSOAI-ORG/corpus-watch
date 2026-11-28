@@ -1,0 +1,136 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:66",
+ "label": "EU-mica-2023 Article 66",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "0ae0510b530917a161a2459e62768c919acb41a8e5917ed6982f5fec800733cb",
+ "sha256_v1": "",
+ "sha256_v2": "0ae0510b530917a161a2459e62768c919acb41a8e5917ed6982f5fec800733cb",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "0ae0510b530917a161a2459e62768c919acb41a8e5917ed6982f5fec800733cb",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:66/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers shall act honestly, fairly and professionally in accordance with the best interests of their clients and prospective clients."
+  },
+  {
+   "obligation_id": "EU-mica-2023:66/p2/s1",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers shall provide their clients with information that is fair, clear and not misleading, including in marketing communications, which shall be identified as such."
+  },
+  {
+   "obligation_id": "EU-mica-2023:66/p2/s2",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers shall not, deliberately or negligently, mislead a client in relation to the real or perceived advantages of any crypto-assets."
+  },
+  {
+   "obligation_id": "EU-mica-2023:66/p3/s1",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers shall warn clients of the risks associated with transactions in crypto-assets."
+  },
+  {
+   "obligation_id": "EU-mica-2023:66/p3/s2",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When operating a trading platform for crypto-assets, exchanging crypto-assets for funds or other crypto-assets, providing advice on crypto-assets or providing portfolio management on crypto-assets, crypto-asset service providers shall provide their clients with hyperlinks to any crypto-asset white papers for the crypto-assets in relation to which they are providing those services."
+  },
+  {
+   "obligation_id": "EU-mica-2023:66/p4/s1",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers shall make their policies on pricing, costs and fees publicly available, in a prominent place on their website."
+  },
+  {
+   "obligation_id": "EU-mica-2023:66/p5/s1",
+   "paragraph": "5",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers shall make publicly available, in a prominent place on their website, information related to the principal adverse impacts on the climate and other environment-related adverse impacts of the consensus mechanism used to issue each crypto-asset in relation to which they provide services."
+  },
+  {
+   "obligation_id": "EU-mica-2023:66/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ESMA, in cooperation with EBA, shall develop draft regulatory technical standards on the content, methodologies and presentation of information referred to in paragraph 5 in respect of the sustainability indicators in relation to adverse impacts on the climate and other environment‐related adverse impacts."
+  },
+  {
+   "obligation_id": "EU-mica-2023:66/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When developing the draft regulatory technical standards referred to in the first subparagraph, ESMA shall consider the various types of consensus mechanisms used to validate crypto-asset transactions, their incentive structures and the use of energy, renewable energy and natural resources, the production of waste and greenhouse gas emissions."
+  },
+  {
+   "obligation_id": "EU-mica-2023:66/p6/s3",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ESMA shall update the regulatory technical standards in the light of regulatory and technological developments."
+  },
+  {
+   "obligation_id": "EU-mica-2023:66/p6/s4",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:66",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

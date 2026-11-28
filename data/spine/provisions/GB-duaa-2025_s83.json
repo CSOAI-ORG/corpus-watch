@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s83",
+ "label": "GB-duaa-2025 Section 83",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "57c0d8186f4c798b58611e1d8d7aa1adf078bee5f252e405fa03ab218accd01e",
+ "sha256_v1": "",
+ "sha256_v2": "57c0d8186f4c798b58611e1d8d7aa1adf078bee5f252e405fa03ab218accd01e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "57c0d8186f4c798b58611e1d8d7aa1adf078bee5f252e405fa03ab218accd01e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s83/p0/s1",
+   "paragraph": "0",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the action taken by a body under paragraph 4 consists of suspending or excluding a controller or processor from the code, the body must inform the Commissioner, giving reasons for taking that action."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s83",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

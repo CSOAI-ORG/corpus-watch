@@ -1,0 +1,216 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-45CFR164-HIPAA-2000:164.526",
+ "label": "US-45CFR164-HIPAA-2000 45 CFR 164.526",
+ "instrument": "US-45CFR164-HIPAA-2000",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "272a4c62d3031dbff37272c06d56829c325797138bffcc00937b8a19fe960a8b",
+ "sha256_v1": "",
+ "sha256_v2": "272a4c62d3031dbff37272c06d56829c325797138bffcc00937b8a19fe960a8b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "272a4c62d3031dbff37272c06d56829c325797138bffcc00937b8a19fe960a8b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.526/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The covered entity must permit an individual to request that the covered entity amend the protected health information maintained in the designated record set."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.526/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i) The covered entity must act on the individual's request for an amendment no later than 60 days after receipt of such a request, as follows."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.526/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(A) If the covered entity grants the requested amendment, in whole or in part, it must take the actions required by paragraphs (c)(1) and (2) of this section."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.526/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(B) If the covered entity denies the requested amendment, in whole or in part, it must provide the individual with a written denial, in accordance with paragraph (d)(1) of this section."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.526/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the covered entity accepts the requested amendment, in whole or in part, the covered entity must comply with the following requirements."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.526/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "The covered entity must make the appropriate amendment to the protected health information or record that is the subject of the request for amendment by, at a minimum, identifying the records in the designated record set that are affected by the amendment and appending or otherwise providing a link to the location of the amendment."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.526/p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In accordance with paragraph (b) of this section, the covered entity must timely inform the individual that the amendment is accepted and obtain the individual's identification of and agreement to have the covered entity notify the relevant persons with which the amendment needs to be shared in accordance with paragraph (c)(3) of this section."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.526/p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The covered entity must make reasonable efforts to inform and provide the amendment within a reasonable time to:"
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.526/p0/s9",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the covered entity denies the requested amendment, in whole or in part, the covered entity must comply with the following requirements."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.526/p0/s10",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The covered entity must provide the individual with a timely, written denial, in accordance with paragraph (b)(2) of this section."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.526/p0/s11",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The denial must use plain language and contain:"
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.526/p0/s12",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The description must include the name, or title, and telephone number of the contact person or office designated in § 164.530(a)(1)(ii)."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.526/p0/s13",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The covered entity must permit the individual to submit to the covered entity a written statement disagreeing with the denial of all or part of a requested amendment and the basis of such disagreement."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.526/p0/s14",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Whenever such a rebuttal is prepared, the covered entity must provide a copy to the individual who submitted the statement of disagreement."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.526/p0/s15",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "The covered entity must, as appropriate, identify the record or protected health information in the designated record set that is the subject of the disputed amendment and append or otherwise link the individual's request for an amendment, the covered entity's denial of the request, the individual's statement of disagreement, if any, and the covered entity's rebuttal, if any, to the designated record set."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.526/p0/s16",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i) If a statement of disagreement has been submitted by the individual, the covered entity must include the material appended in accordance with paragraph (d)(4) of this section, or, at the election of the covered entity, an accurate summary of any such information, with any subsequent disclosure of the protected health information to which the disagreement relates."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.526/p0/s17",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(ii) If the individual has not submitted a written statement of disagreement, the covered entity must include the individual's request for amendment and its denial, or an accurate summary of such information, with any subsequent disclosure of the protected health information only if the individual has requested such action in accordance with paragraph (d)(1)(iii) of this section."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.526/p0/s18",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A covered entity that is informed by another covered entity of an amendment to an individual's protected health information, in accordance with paragraph (c)(3) of this section, must amend the protected health information in designated record sets as provided by paragraph (c)(1) of this section."
+  },
+  {
+   "obligation_id": "US-45CFR164-HIPAA-2000:164.526/p0/s19",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "A covered entity must document the titles of the persons or offices responsible for receiving and processing requests for amendments by individuals and retain the documentation as required by § 164.530(j)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-45CFR164-HIPAA-2000:164.526",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,98 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:70",
+ "label": "GDPR Art. 70",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b3bbc39024c96487181bf9b67202c7f79088d1b6367ec15e8d47b86c5c81b519",
+ "sha256_v1": "b3bbc39024c96487181bf9b67202c7f79088d1b6367ec15e8d47b86c5c81b519",
+ "sha256_v2": "855d710fc697b115cc217ddc0430e9f5c009eec61fe177b2b7761b2dc09483a4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": 31,
+ "sha256_current": "75549018f5dc571ac9cd3b40cee96f10d2644d0c7ed8e1ac0bc5dd89f071a5d0",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:70/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Board shall ensure the consistent application of this Regulation."
+  },
+  {
+   "obligation_id": "32016R0679:70/p1/s2",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "To that end, the Board shall, on its own initiative or, where relevant, at the request of the Commission, in particular:"
+  },
+  {
+   "obligation_id": "32016R0679:70/p1/s3",
+   "paragraph": "1",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(g) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for establishing the personal data breaches and determining the undue delay referred to in Article 33(1) and (2) and for the particular circumstances in which a controller or a processor is required to notify the personal data breach;"
+  },
+  {
+   "obligation_id": "32016R0679:70/p1/s4",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "To that end, the Commission shall provide the Board with all necessary documentation, including correspondence with the government of the third country, with regard to that third country, territory or specified sector, or with the international organisation."
+  },
+  {
+   "obligation_id": "32016R0679:70/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Board shall forward its opinions, guidelines, recommendations, and best practices to the Commission and to the committee referred to in Article 93 and make them public."
+  },
+  {
+   "obligation_id": "32016R0679:70/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Board shall, where appropriate, consult interested parties and give them the opportunity to comment within a reasonable period."
+  },
+  {
+   "obligation_id": "32016R0679:70/p4/s2",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Board shall, without prejudice to Article 76, make the results of the consultation procedure publicly available."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:70",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

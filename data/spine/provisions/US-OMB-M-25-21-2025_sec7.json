@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-OMB-M-25-21-2025:sec7",
+ "label": "US-OMB-M-25-21-2025 Section 7",
+ "instrument": "US-OMB-M-25-21-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "0bc6cdee41631e0a2a55542cabcb3f0c09c4a1076f7cbf0d1452de5b32dc6d33",
+ "sha256_v1": "",
+ "sha256_v2": "0bc6cdee41631e0a2a55542cabcb3f0c09c4a1076f7cbf0d1452de5b32dc6d33",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 66,
+ "sha256_current": "0bc6cdee41631e0a2a55542cabcb3f0c09c4a1076f7cbf0d1452de5b32dc6d33",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-OMB-M-25-21-2025:sec7/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Public Consultation and Feedback To carry out public consultations and feedback processes, agencies are recommended to take appropriate steps to solicit public input, which could include:33 1. direct usability testing, such as observing users interacting with the system; 2. general solicitations of comments from the public, such as a request for information in the Federal Register or a \"Tell Us About Your Experience\" sheet with an open-ended space for responses; 3. post-transaction customer feedback collections;34 4. public hearings or meetings; and 5. any other transparent process that seeks public input, comments, or feedback from the affected groups in a meaningful, accessible, and effect"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-OMB-M-25-21-2025:sec7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

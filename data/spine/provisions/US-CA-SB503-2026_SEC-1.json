@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB503-2026:SEC-1",
+ "label": "US-CA-SB503-2026 SECTION 1.",
+ "instrument": "US-CA-SB503-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9805e1f4ed5c065f338a9b03ef31fb3ab2055381e540b3ec6f9ecc5c6692ee07",
+ "sha256_v1": "",
+ "sha256_v2": "9805e1f4ed5c065f338a9b03ef31fb3ab2055381e540b3ec6f9ecc5c6692ee07",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "9805e1f4ed5c065f338a9b03ef31fb3ab2055381e540b3ec6f9ecc5c6692ee07",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB503-2026:SEC-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "deployer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)(1)Developers and deployers shall make reasonable efforts to identify clinical decision support systems developed for use by deployers that are known or have a reasonably foreseeable risk of biased impacts resulting from deployment of the system in health programs or activities."
+  },
+  {
+   "obligation_id": "US-CA-SB503-2026:SEC-1/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)Developers shall make reasonable efforts to mitigate the known or reasonably foreseeable risk of biased impacts resulting from the use of the clinical decision support systems identified pursuant to paragraph (1)."
+  },
+  {
+   "obligation_id": "US-CA-SB503-2026:SEC-1/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)Developers shall make at least the following available to deployers for clinical decision support systems identified pursuant to paragraph (1):"
+  },
+  {
+   "obligation_id": "US-CA-SB503-2026:SEC-1/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)Documentation required under paragraph (3) shall be made available to deployers upon request or at the time of initial sale, whichever is earlier, and, as applicable, upon release of material updates to the clinical decision support system."
+  },
+  {
+   "obligation_id": "US-CA-SB503-2026:SEC-1/p1/s5",
+   "paragraph": "1",
+   "addressee": "deployer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(8)Deployers shall regularly monitor the clinical decision support systems identified pursuant to paragraph (1) and take reasonable and proportionate steps to mitigate the known or reasonably foreseeable risk of biased impacts."
+  },
+  {
+   "obligation_id": "US-CA-SB503-2026:SEC-1/p1/s7",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Compliance with this section shall not be used as a defense to a claim of unlawful discrimination."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB503-2026:SEC-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s33C",
+ "label": "AU-privacy-act-1988 Section 33C",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "c72398bee4a1cd69fec7d1d02d57513bd611561db5e4e40632227a1fa57add57",
+ "sha256_v1": "",
+ "sha256_v2": "c72398bee4a1cd69fec7d1d02d57513bd611561db5e4e40632227a1fa57add57",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "c72398bee4a1cd69fec7d1d02d57513bd611561db5e4e40632227a1fa57add57",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s33C/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(3)\tWithout limiting subsection (2), if the Commissioner has reason to believe that an entity or file number recipient being assessed has information or a document relevant to the assessment the Commissioner may, by written notice, require the entity or file number recipient to give the information or produce the document within the period specified in the notice, which must not be less than 14 days after the notice is given to the entity or file number recipient."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s33C/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(4)\tThe Commissioner must not give a notice under subsection (3) unless the Commissioner is satisfied that it is reasonable in the circumstances to do so, having regard to the following:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s33C",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

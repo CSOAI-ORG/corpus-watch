@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:166",
+ "label": "JP-appi-2003 Article 166",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "33a8715d3ab57191736cf7959ac8c6813bc0640f8cf60f350a9aa24181d5d9c4",
+ "sha256_v1": "",
+ "sha256_v2": "33a8715d3ab57191736cf7959ac8c6813bc0640f8cf60f350a9aa24181d5d9c4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "33a8715d3ab57191736cf7959ac8c6813bc0640f8cf60f350a9aa24181d5d9c4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:166/s3",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "２ 委員会は、前項の規定による求めがあったときは、必要な情報の提供又は技術的な助言を行うものとする。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:166",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

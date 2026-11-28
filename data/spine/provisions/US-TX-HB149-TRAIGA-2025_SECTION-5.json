@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-TX-HB149-TRAIGA-2025:SECTION-5",
+ "label": "US-TX-HB149-TRAIGA-2025 SECTION 5",
+ "instrument": "US-TX-HB149-TRAIGA-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "ca1a30dfb3c2e85334bc6a7947fbfced4fc39e9639a5d0017c7bc3c56bb14623",
+ "sha256_v1": "",
+ "sha256_v2": "ca1a30dfb3c2e85334bc6a7947fbfced4fc39e9639a5d0017c7bc3c56bb14623",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 1,
+ "sha256_current": "ca1a30dfb3c2e85334bc6a7947fbfced4fc39e9639a5d0017c7bc3c56bb14623",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-TX-HB149-TRAIGA-2025:SECTION-5/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The commission and its staff shall consider the following criteria in determining whether a public need exists for the continuation of a state agency or its advisory committees or for the performance of the functions of the agency or its advisory committees:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-TX-HB149-TRAIGA-2025:SECTION-5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:10",
+ "label": "EU-mica-2023 Article 10",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "5e57973ebd695c57fe0008b1ff655e01f79f18b742fc75cb33f544cc18dc64fa",
+ "sha256_v1": "",
+ "sha256_v2": "5e57973ebd695c57fe0008b1ff655e01f79f18b742fc75cb33f544cc18dc64fa",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "5e57973ebd695c57fe0008b1ff655e01f79f18b742fc75cb33f544cc18dc64fa",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:10/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Offerors of crypto-assets other than asset-referenced tokens or e-money tokens that set a time limit on their offer to the public of those crypto-assets shall publish on their website the result of the offer to the public within 20 working days of the end of the subscription period."
+  },
+  {
+   "obligation_id": "EU-mica-2023:10/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Offerors of crypto-assets other than asset-referenced tokens or e-money tokens that do not set a time limit on their offer to the public of those crypto-assets shall publish on their website on an ongoing basis, at least monthly, the number of units of the crypto-assets in circulation."
+  },
+  {
+   "obligation_id": "EU-mica-2023:10/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Offerors of crypto-assets other than asset-referenced tokens or e-money tokens that set a time limit on their offer to the public of crypto-assets shall have effective arrangements in place to monitor and safeguard the funds or other crypto-assets raised during the offer to the public."
+  },
+  {
+   "obligation_id": "EU-mica-2023:10/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "For that purpose, those offerors shall ensure that the funds or crypto-assets collected during the offer to the public are kept in custody by one or both of the following:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:10/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When the offer to the public has no time limit, the offeror shall comply with paragraph 3 of this Article until the right of withdrawal of the retail holder pursuant to Article 13 has expired."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:10",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

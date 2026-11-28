@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s93",
+ "label": "GB-duaa-2025 Section 93",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9c1a3614c3962e658dbaaae8e478d3cdcc8236032ac7c893a4090c0d77b1b7fe",
+ "sha256_v1": "",
+ "sha256_v2": "9c1a3614c3962e658dbaaae8e478d3cdcc8236032ac7c893a4090c0d77b1b7fe",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9c1a3614c3962e658dbaaae8e478d3cdcc8236032ac7c893a4090c0d77b1b7fe",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s93/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\nThe Commissioner must establish a panel of individuals to consider the code."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s93/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nThe panel must consist of—\n(a)\nindividuals the Commissioner considers have expertise in the subject matter of the code, and\n(b)\nindividuals the Commissioner considers—\n(i)\nare likely to be affected by the code, or\n(ii)\nrepresent persons likely to be affected by the code."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s93/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(4)\nBefore the panel begins to consider the code, the Commissioner must—\n(a)\npublish the code in draft, and\n(b)\npublish a statement that—\n(i)\nstates that a panel has been established to consider the code,\n(ii)\nidentifies the members of the panel,\n(iii)\nexplains the process by which they were selected, and\n(iv)\nexplains the reasons for their selection."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s93/p0/s4",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(6)\nWhere the Commissioner selects an individual to be a member of the panel under subsection (5), the Commissioner must publish a statement that—\n(a)\nidentifies the member of the panel,\n(b)\nexplains the process by which the member was selected, and\n(c)\nexplains the reasons for the member’s selection."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s93/p0/s5",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(7)\nThe Commissioner must make arrangements—\n(a)\nfor the members of the panel to consider the code with one another (whether in person or otherwise), and\n(b)\nfor the panel to prepare and submit to the Commissioner a report on the code within such reasonable period as is determined by the Commissioner."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s93/p0/s6",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(8)\nIf the panel submits to the Commissioner a report on the code within the period determined by the Commissioner, the Commissioner must as soon as reasonably practicable—\n(a)\nmake any alterations to the code that the Commissioner considers appropriate in the light of the report, and\n(b)\npublish—\n(i)\nthe code in draft,\n(ii)\nthe report or a summary of it, and\n(iii)\nin a case where a recommendation in the report to alter the code has not been accepted by the Commissioner, an explanation of why it has not been accepted."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s93/p0/s7",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Impact assessments for codes of practice\n124C\n(1)\nWhere a code is prepared under section 121, 122, 123, 124 or 124A, the Commissioner must carry out and publish an assessment of—\n(a)\nwho would be likely to be affected by the code, and\n(b)\nthe effect the code would be likely to have on them."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s93",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

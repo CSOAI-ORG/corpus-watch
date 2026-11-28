@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-machinery-2023:23",
+ "label": "EU-machinery-2023 Article 23",
+ "instrument": "EU-machinery-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "13860dfb2b248005796bc2e071fada18a08518b14fc4efd57d011bdda8740fe9",
+ "sha256_v1": "",
+ "sha256_v2": "13860dfb2b248005796bc2e071fada18a08518b14fc4efd57d011bdda8740fe9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "13860dfb2b248005796bc2e071fada18a08518b14fc4efd57d011bdda8740fe9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-machinery-2023:23/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "General principles of the CE marking\nThe CE marking shall be subject to the general principles set out in Article 30 of Regulation (EC) No 765/2008."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-machinery-2023:23",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-machinery-2023:8",
+ "label": "EU-machinery-2023 Article 8",
+ "instrument": "EU-machinery-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "e92128fd2b0958639205eff34df18034bd2dd7c03327bbf9a8d19652f60f236d",
+ "sha256_v1": "",
+ "sha256_v2": "e92128fd2b0958639205eff34df18034bd2dd7c03327bbf9a8d19652f60f236d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": null,
+ "sha256_current": "e92128fd2b0958639205eff34df18034bd2dd7c03327bbf9a8d19652f60f236d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-machinery-2023:8/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Article 8 Essential health and safety requirements for products within the scope of this Regulation Machinery or related products shall only be made available on the market or put into service if, where properly installed and maintained and used for their intended use or under conditions which can reasonably be foreseen, they meet the essential health and safety requirements set out in Annex III."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:8/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Partly completed machinery shall only be made available on the market if it meets the relevant essential health and safety requirements set out in Annex III. ▼M2 The Commission shall adopt delegated acts in accordance with Article 47 of this Regulation to amend Annex III to this Regulation by adding health and safety requirements in respect of Artificial Intelligence (AI) systems that are classified as high-risk pursuant to Article 6(1) of Regulation (EU) 2024/1689 of the European Parliament and of the Council ( 3 ) due to the fact that they are a safety component in a product covered by this Regulation, or they are themselves a product covered by this Regulation."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:8/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Those requirements shall ensure that the relevant requirements set out in Chapter III, Section 2, and Articles 17, 19, 72 and 73 of Regulation (EU) 2024/1689 are reflected."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:8/p0/s4",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When adopting the delegated acts referred to in the third paragraph, the Commission shall take into account the objectives of Regulation (EU) 2024/1689 and ensure a level of protection consistent with that Regulation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-machinery-2023:8",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

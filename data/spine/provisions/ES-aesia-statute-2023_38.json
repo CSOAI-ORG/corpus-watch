@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "ES-aesia-statute-2023:38",
+ "label": "ES-aesia-statute-2023 Artículo 38",
+ "instrument": "ES-aesia-statute-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "4699005255a5c6f009c80d82edc314c20a66a8285e7a60e0c8023db76b2e47dd",
+ "sha256_v1": "",
+ "sha256_v2": "4699005255a5c6f009c80d82edc314c20a66a8285e7a60e0c8023db76b2e47dd",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "ES",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "4699005255a5c6f009c80d82edc314c20a66a8285e7a60e0c8023db76b2e47dd",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "ES-aesia-statute-2023:38/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "El personal al servicio de la Agencia deberá guardar secreto, incluso después de cesar en sus funciones, sobre los datos personales que conozcan en el desempeño de sus tareas y de cuantas informaciones de naturaleza confidencial hubiera conocido en el ejercicio de aquellas.\n2."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=ES-aesia-statute-2023:38",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

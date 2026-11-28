@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:sch16",
+ "label": "GB-duaa-2025 Schedule 16",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "33a7bc2fc37cf01f3b0baff9f7c8a1dfcab55191ec315eb2548c5ef8d1df085e",
+ "sha256_v1": "",
+ "sha256_v2": "33a7bc2fc37cf01f3b0baff9f7c8a1dfcab55191ec315eb2548c5ef8d1df085e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "33a7bc2fc37cf01f3b0baff9f7c8a1dfcab55191ec315eb2548c5ef8d1df085e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:sch16/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Regulations under\nsection 91A\n(1): further provision\n91B\n(1)\nRegulations under section 91A(1)—\n(a)\nmust make provision so as to ensure that a smart meter communication licence must not be granted to a person unless the Authority is satisfied that the person would not, if granted the licence, have a financial or other interest likely to prejudice the discharge of their functions as the licence holder;"
+  },
+  {
+   "obligation_id": "GB-duaa-2025:sch16/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e)\nimpose requirements as to the period within which applications must be made;"
+  },
+  {
+   "obligation_id": "GB-duaa-2025:sch16/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(6)\nWhere the Authority makes modifications under subsection (1) of the standard conditions of a licence of any type, the Authority must—\n(a)\nmake (as nearly as may be) the same modifications of those standard conditions for the purposes of their incorporation in licences of that type granted after that time, and\n(b)\npublish the modifications."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:sch16/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Power under section 91C: procedure\n91D\n(1)\nBefore making a modification under section 91C, the Authority must consult—\n(a)\nthe holder of any licence being modified,\n(b)\nthe Secretary of State, and\n(c)\nsuch other persons as the Authority considers appropriate."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:sch16/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(3)\nIf, after carrying out the consultation, the Authority decides to make the modification, it must publish a notice about the decision which—\n(a)\nstates that the Authority has decided to make the modification;"
+  },
+  {
+   "obligation_id": "GB-duaa-2025:sch16/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(4)\nThe notice must be published in such manner as the Authority considers appropriate for bringing it to the attention of those likely to be affected by the making of the modification.\n4\nIn section 104 (subordinate legislation)—\n(a)\nin subsection (1), for “or the Scottish Ministers” substitute “, the Scottish Ministers or the Gas and Electricity Markets Authority”;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:sch16",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

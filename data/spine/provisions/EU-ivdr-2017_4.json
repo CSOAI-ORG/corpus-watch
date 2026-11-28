@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:4",
+ "label": "EU-ivdr-2017 Article 4",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "eff3609e9b05ce723fcb91e7c4cddbdb72295abf8ee73fdc774c18b2c321c9f1",
+ "sha256_v1": "",
+ "sha256_v2": "eff3609e9b05ce723fcb91e7c4cddbdb72295abf8ee73fdc774c18b2c321c9f1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "eff3609e9b05ce723fcb91e7c4cddbdb72295abf8ee73fdc774c18b2c321c9f1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:4/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that where a genetic test is used on individuals, in the context of healthcare as defined in point (a) of Article 3 of Directive 2011/24/EU of the European Parliament and of the Council (23) and for the medical purposes of diagnostics, improvement of treatment, predictive or prenatal testing, the individual being tested or, where applicable, his or her legally designated representative is provided with relevant information on the nature, the significance and the implications of the genetic test, as appropriate."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:4/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In the context of the obligations referred to in paragraph 1, Member States shall, in particular, ensure that there is appropriate access to counselling in the case of the use of genetic tests that provide information on the genetic predisposition for medical conditions and/or diseases which are generally considered to be untreatable according to the state of science and technology."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:4/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Nothing in this Article shall prevent Member States from adopting or maintaining measures at national level which are more protective of patients, more specific or which deal with informed consent."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

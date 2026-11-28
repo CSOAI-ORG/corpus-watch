@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s48",
+ "label": "GB-dpa-2018 Section 48",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "0c185c48eb4e9fbe1ff027de31b050c2be3ae7ad3189f187068127731e89b09c",
+ "sha256_v1": "",
+ "sha256_v2": "0c185c48eb4e9fbe1ff027de31b050c2be3ae7ad3189f187068127731e89b09c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "0c185c48eb4e9fbe1ff027de31b050c2be3ae7ad3189f187068127731e89b09c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s48/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "Rights under section 46 or 47: supplementary\n(1)\nWhere a data subject requests the rectification or erasure of personal data or the restriction of its processing, the controller must inform the data subject in writing—\n(a)\nwhether the request has been granted, and\n(b)\nif it has been refused—\n(i)\nof the reasons for the refusal,\n(ii)\nof the data subject's right to make a request to the Commission under section 51,\n(iia)\nof the data subject’s right to make a complaint to the controller under section 164A,\n(iii)\nof the data subject's right to lodge a complaint with the Commission under section 165, and\n(iv)\nof the data subject's right to apply to a court under section 167."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s48/p0/s2",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nThe controller must comply with the duty under subsection (1)—\n(a)\nwithout undue delay, and\n(b)\nin any event, before the end of the applicable time period (see section 54)."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s48/p0/s3",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "(4)\nWhere the rights of a data subject under subsection (1)(b)(i) are restricted under subsection (3), wholly or partly, the controller must inform the data subject in writing without undue delay—\n(a)\nthat the rights of the data subject have been restricted,\n(b)\nof the reasons for the restriction,\n(ba)\nof the data subject’s right to make a complaint to the controller under section 164A,\n(c)\nof the data subject's right to lodge a complaint with the Commission under section 165, and\n(d)\nof the data subject's right to apply to a court under section 167."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s48/p0/s4",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\nThe controller must—\n(a)\nrecord the reasons for a decision to restrict (whether wholly or partly) the provision of information to a data subject under subsection (1)(b)(i) in reliance on subsection (3), and\n(b)\nif requested to do so by the Commission, make the record available to the Commission."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s48/p0/s5",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "(7)\nWhere the controller rectifies personal data, it must notify the competent authority (if any) from which the inaccurate personal data originated."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s48/p0/s6",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(9)\nWhere the controller rectifies, erases or restricts the processing of personal data which has been disclosed by the controller—\n(a)\nthe controller must notify the recipients, and\n(b)\nthe recipients must similarly rectify, erase or restrict the processing of the personal data (so far as they retain responsibility for it)."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s48/p0/s7",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "(10)\nWhere processing is restricted in accordance with section 47(3), the controller must inform the data subject before lifting the restriction."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s48",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

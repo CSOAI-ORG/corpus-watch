@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-pipl-2021:38",
+ "label": "CN-pipl-2021 第三十八条",
+ "instrument": "CN-pipl-2021",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "aa5ca04f1e54b1102b10071aff65b2b805b4f3150af1925c8ff8da1d7d221451",
+ "sha256_v1": "",
+ "sha256_v2": "aa5ca04f1e54b1102b10071aff65b2b805b4f3150af1925c8ff8da1d7d221451",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "aa5ca04f1e54b1102b10071aff65b2b805b4f3150af1925c8ff8da1d7d221451",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-pipl-2021:38/s1",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "第三十八条　个人信息处理者因业务等需要，确需向中华人民共和国境外提供个人信息的，应当具备下列条件之一："
+  },
+  {
+   "obligation_id": "CN-pipl-2021:38/s7",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "个人信息处理者应当采取必要措施，保障境外接收方处理个人信息的活动达到本法规定的个人信息保护标准。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-pipl-2021:38",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

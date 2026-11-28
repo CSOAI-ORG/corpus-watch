@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-pipl-2021:19",
+ "label": "CN-pipl-2021 第十九条",
+ "instrument": "CN-pipl-2021",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "28cc3472f9d0186403a7f24a7398d6a3019e9f1fcc00075c1d602ba7bebe8c94",
+ "sha256_v1": "",
+ "sha256_v2": "28cc3472f9d0186403a7f24a7398d6a3019e9f1fcc00075c1d602ba7bebe8c94",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "28cc3472f9d0186403a7f24a7398d6a3019e9f1fcc00075c1d602ba7bebe8c94",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-pipl-2021:19/s1",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "第十九条　除法律、行政法规另有规定外，个人信息的保存期限应当为实现处理目的所必要的最短时间。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-pipl-2021:19",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

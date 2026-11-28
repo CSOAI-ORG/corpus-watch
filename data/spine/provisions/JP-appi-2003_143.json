@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:143",
+ "label": "JP-appi-2003 Article 143",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d629a755853fd47380785b1fdb5c9b0a04a59710d752640ab827ddb234cd3ce7",
+ "sha256_v1": "",
+ "sha256_v2": "d629a755853fd47380785b1fdb5c9b0a04a59710d752640ab827ddb234cd3ce7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d629a755853fd47380785b1fdb5c9b0a04a59710d752640ab827ddb234cd3ce7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:143/s2",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "委員長、委員、専門委員及び事務局の職員は、職務上知ることのできた秘密を漏らし、又は盗用してはならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:143",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

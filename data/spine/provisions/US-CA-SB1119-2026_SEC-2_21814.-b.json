@@ -1,0 +1,156 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB1119-2026:SEC-2:21814.-b",
+ "label": "US-CA-SB1119-2026 SEC. 2. / 21814.",
+ "instrument": "US-CA-SB1119-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "94d015abd591c77a6641c8bb13770a9b0b95bc94fb570fb899341fc91e06b1c5",
+ "sha256_v1": "",
+ "sha256_v2": "94d015abd591c77a6641c8bb13770a9b0b95bc94fb570fb899341fc91e06b1c5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "94d015abd591c77a6641c8bb13770a9b0b95bc94fb570fb899341fc91e06b1c5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21814.-b/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "(a)(1)(A)(i)On or before January 1, 2029, or before an operator first makes a companion chatbot publicly available, whichever is later, an operator shall ensure the performance of a child safety audit."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21814.-b/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(ii)After an initial child safety audit is performed, the operator shall ensure the performance of an independent child safety audit of a companion chatbot every two years thereafter, except that the operator shall ensure that a child safety audit is performed before a substantial modification to the companion chatbot for which the applicable risk assessment shows an increased child safety risk is made publicly available."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21814.-b/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)(A)An auditor shall be granted access to all documentation reasonably necessary to comply with the auditor’s obligations under this subdivision."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21814.-b/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "The operator shall retain this documentation for as long as the companion chatbot is deployed plus five years."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21814.-b/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)An auditor shall produce a report that describes whether the operator has established and adhered to policies and practices to comply with the requirements of this chapter, including all of the following:"
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21814.-b/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)The operator shall retain an unredacted copy of the report required by paragraph (4) for as long as the subject companion chatbot is deployed plus five years."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21814.-b/p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)(1)Within 30 business days of receiving an independent audit prepared by a third-party auditor pursuant to subdivision (a), the operator shall submit a summary of that AI child safety audit report to the Attorney General for any audited companion chatbot."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21814.-b/p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "At a minimum, the summary shall describe the auditor’s findings with respect to the audit subjects specified in subparagraphs (A) to (E), inclusive, of paragraph (4) of subdivision (a)."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21814.-b/p0/s9",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The summary shall be submitted with an attestation, not under penalty of perjury, executed by a responsible officer of the operator, which confirms that the summary is an accurate summary of the contents of the audit."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21814.-b/p0/s10",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)Within 90 days following receipt of an AI child safety audit report from the auditor, the operator shall post a high-level summary of the report on the operator’s internet website describing the results of the auditor’s assessment."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21814.-b/p0/s11",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)(A)Upon receiving a request pursuant to paragraph (1), the operator shall provide a copy of the report to the Attorney General within 30 business days and may make reasonable redactions to protect trade secrets and individual privacy."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21814.-b/p0/s12",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(B)To the extent that an operator withholds information pursuant to this paragraph the operator shall notify the Attorney General and provide a basis for the withholding."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21814.-b/p0/s13",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(f)This section shall become operative only if Assembly Bill 1405 of the 2025–26 Regular Session is chaptered and takes effect on or before January 1, 2027."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB1119-2026:SEC-2:21814.-b",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

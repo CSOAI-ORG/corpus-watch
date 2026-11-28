@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s21B",
+ "label": "AU-privacy-act-1988 Section 21B",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "2c2d704aa10b91b0b6da0ac8b7767c76f2e41c47a8d713d3b295083583b9a35a",
+ "sha256_v1": "",
+ "sha256_v2": "2c2d704aa10b91b0b6da0ac8b7767c76f2e41c47a8d713d3b295083583b9a35a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "2c2d704aa10b91b0b6da0ac8b7767c76f2e41c47a8d713d3b295083583b9a35a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s21B/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "(2)\tA credit provider must take such steps as are reasonable in the circumstances to implement practices, procedures and systems relating to the provider’s functions or activities as a credit provider that:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s21B/p0/s2",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\tA credit provider must have a clearly expressed and uptodate policy about the management of credit information and credit eligibility information by the provider."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s21B/p0/s3",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\tWithout limiting subsection (3), the policy of the credit provider must contain the following information:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s21B/p0/s4",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\tA credit provider must take such steps as are reasonable in the circumstances to make the policy available:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s21B/p0/s5",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\tIf a person or body requests a copy, in a particular form, of the policy of a credit provider, the provider must take such steps as are reasonable in the circumstances to give the person or body a copy in that form."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s21B",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

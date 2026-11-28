@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s147",
+ "label": "GB-osa-2023 Section 147",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e4dad6bb68033de29ba718e8555d699b03aadaf4d60adf0bc18931e61f5dbe70",
+ "sha256_v1": "",
+ "sha256_v2": "e4dad6bb68033de29ba718e8555d699b03aadaf4d60adf0bc18931e61f5dbe70",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "e4dad6bb68033de29ba718e8555d699b03aadaf4d60adf0bc18931e61f5dbe70",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s147/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nAn application by OFCOM for an interim access restriction order must—\n(a)\nspecify the regulated service in relation to which the application is made (“the relevant service”),\n(b)\nspecify the provider of that service (“the non-compliant provider”),\n(c)\nspecify the grounds on which the application is based, and contain evidence about those grounds,\n(d)\nspecify the persons on whom (in OFCOM’s opinion) the requirements of the order should be imposed,\n(e)\ncontain evidence as to why OFCOM consider that the persons mentioned in paragraph (d) provide an access facility in relation to the relevant service, and specify any such access facility provided,\n(f)\nspecify the requirements which OFCOM con"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s147",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

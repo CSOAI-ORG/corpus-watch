@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:35",
+ "label": "EU-dsa-2022 Article 35",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "dd8d0969781eadd452b1003ea8b2cf45138490242f86a90f70fac610ab1cfdf8",
+ "sha256_v1": "",
+ "sha256_v2": "dd8d0969781eadd452b1003ea8b2cf45138490242f86a90f70fac610ab1cfdf8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "dd8d0969781eadd452b1003ea8b2cf45138490242f86a90f70fac610ab1cfdf8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:35/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of very large online platforms and of very large online search engines shall put in place reasonable, proportionate and effective mitigation measures, tailored to the specific systemic risks identified pursuant to Article 34, with particular consideration to the impacts of such measures on fundamental rights."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:35/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Board, in cooperation with the Commission, shall publish comprehensive reports, once a year."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:35/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The reports shall include the following:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:35/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those reports shall present systemic risks broken down by the Member States in which they occurred and in the Union as a whole, as applicable."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:35/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When preparing those guidelines the Commission shall organise public consultations."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:35",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

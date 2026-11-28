@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:56",
+ "label": "JP-appi-2003 Article 56",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "c4783d3b152c986eea169735e8686efa80788d8b1498b5e56dd982671e92e411",
+ "sha256_v1": "",
+ "sha256_v2": "c4783d3b152c986eea169735e8686efa80788d8b1498b5e56dd982671e92e411",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "c4783d3b152c986eea169735e8686efa80788d8b1498b5e56dd982671e92e411",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:56/s2",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "認定個人情報保護団体でない者は、認定個人情報保護団体という名称又はこれに紛らわしい名称を用いてはならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:56",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

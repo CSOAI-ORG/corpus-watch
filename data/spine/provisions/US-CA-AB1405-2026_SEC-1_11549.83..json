@@ -1,0 +1,176 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB1405-2026:SEC-1:11549.83.",
+ "label": "US-CA-AB1405-2026 SECTION 1. / 11549.83.",
+ "instrument": "US-CA-AB1405-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "0125f0e0584af5832c67d23536ab20271ac7e7dc450cd7b9ca01ec175cf10192",
+ "sha256_v1": "",
+ "sha256_v2": "0125f0e0584af5832c67d23536ab20271ac7e7dc450cd7b9ca01ec175cf10192",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "0125f0e0584af5832c67d23536ab20271ac7e7dc450cd7b9ca01ec175cf10192",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB1405-2026:SEC-1:11549.83./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)An AI auditor that registers with the agency pursuant to this chapter shall provide the agency with all of the following information:"
+  },
+  {
+   "obligation_id": "US-CA-AB1405-2026:SEC-1:11549.83./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(b)A registered AI auditor shall provide updated information to the agency within 90 days of making any change that materially affects the accuracy or completeness of information published by the agency."
+  },
+  {
+   "obligation_id": "US-CA-AB1405-2026:SEC-1:11549.83./p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)A registered AI auditor shall conduct covered AI audits in accordance with widely recognized industry standards appropriate to the system or model being audited, to the extent appropriate standards are available."
+  },
+  {
+   "obligation_id": "US-CA-AB1405-2026:SEC-1:11549.83./p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d)(1)A registered AI auditor that conducts a covered AI audit shall provide the auditee with a report that includes, but is not limited to, all of the following information:"
+  },
+  {
+   "obligation_id": "US-CA-AB1405-2026:SEC-1:11549.83./p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e)A registered AI auditor shall retain all of the following information for at least 10 years:"
+  },
+  {
+   "obligation_id": "US-CA-AB1405-2026:SEC-1:11549.83./p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(f)(1)Except as provided by paragraph (2), a registered AI auditor shall adhere to all of the following standards of independence, objectivity, and integrity:"
+  },
+  {
+   "obligation_id": "US-CA-AB1405-2026:SEC-1:11549.83./p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "(A)A registered AI auditor shall maintain independence from the auditee and shall not conduct a covered AI audit if the auditor has a financial, business, employment, or other interest or relationship that would reasonably be expected to impair the auditor’s independence or objectivity."
+  },
+  {
+   "obligation_id": "US-CA-AB1405-2026:SEC-1:11549.83./p0/s9",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Reasonable compensation received for performing a covered AI audit shall not, by itself, constitute an interest prohibited by this subparagraph."
+  },
+  {
+   "obligation_id": "US-CA-AB1405-2026:SEC-1:11549.83./p0/s10",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "(B)A registered AI auditor shall not conduct a covered AI audit that requires the auditor to evaluate the auditor’s own work, including a system, process, control, assessment, or other subject matter that the auditor materially designed, developed, implemented, or operated for the auditee."
+  },
+  {
+   "obligation_id": "US-CA-AB1405-2026:SEC-1:11549.83./p0/s11",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(C)An individual conducting a covered AI audit shall not seek, solicit, negotiate for, or accept employment with the auditee while participating in the audit."
+  },
+  {
+   "obligation_id": "US-CA-AB1405-2026:SEC-1:11549.83./p0/s12",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "(D)A registered AI auditor shall not assign an individual to perform a covered AI audit of an auditee if, during the preceding 12 months, the individual was employed by the auditee in a position involving material responsibility for, or material participation in, the subject matter of the audit."
+  },
+  {
+   "obligation_id": "US-CA-AB1405-2026:SEC-1:11549.83./p0/s13",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(E)A registered AI auditor shall exercise independent, objective, and impartial professional judgment in planning and conducting a covered AI audit and in preparing and reporting its findings and conclusions."
+  },
+  {
+   "obligation_id": "US-CA-AB1405-2026:SEC-1:11549.83./p0/s14",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "(F)A registered AI auditor shall ensure that the individuals assigned to perform a covered AI audit collectively possess the knowledge, skills, and abilities necessary to competently perform the audit, including any specialized expertise necessary for the subject matter and scope of the audit."
+  },
+  {
+   "obligation_id": "US-CA-AB1405-2026:SEC-1:11549.83./p0/s15",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(G)A registered AI auditor shall comply with any additional professional standards governing independence, objectivity, integrity, competence, or professional conduct adopted by the agency."
+  },
+  {
+   "obligation_id": "US-CA-AB1405-2026:SEC-1:11549.83./p0/s17",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(g)A registered AI auditor shall not do either of the following:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB1405-2026:SEC-1:11549.83.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

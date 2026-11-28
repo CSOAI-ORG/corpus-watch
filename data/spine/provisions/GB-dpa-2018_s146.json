@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s146",
+ "label": "GB-dpa-2018 Section 146",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9070397a02a91b06087843f00e72ef675001ba7ef94141c63dfcde26e2d2de99",
+ "sha256_v1": "",
+ "sha256_v2": "9070397a02a91b06087843f00e72ef675001ba7ef94141c63dfcde26e2d2de99",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9070397a02a91b06087843f00e72ef675001ba7ef94141c63dfcde26e2d2de99",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s146/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nAn assessment notice must, in relation to each requirement imposed by the notice, specify the time or times at which, or period or periods within which, the requirement must be complied with (but see the restrictions in subsections (6) to (9))."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s146/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nAn assessment notice must provide information about—\n(a)\nthe consequences of failure to comply with it, and\n(b)\nthe rights under sections 162 and 164 (appeals etc)."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s146/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(8)\nIf an assessment notice—\n(a)\nstates that, in the Commission's opinion, it is necessary for the controller or processor to comply with a requirement in the notice urgently,\n(b)\ngives the Commission's reasons for reaching that opinion, and\n(c)\ndoes not meet the conditions in subsection (9)(a) to (d),\nsubsections (6) and (7) do not apply but the notice must not require the controller or processor to comply with the requirement before the end of the period of 7 days beginning when the notice is given."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s146/p0/s4",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(11)\nWhere the Commission gives an assessment notice to a processor, the Commission must, so far as reasonably practicable, give a copy of the notice to each controller for whom the processor processes personal data."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s146",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

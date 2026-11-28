@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB1979-2026:SEC-2",
+ "label": "US-CA-AB1979-2026 SEC. 2.",
+ "instrument": "US-CA-AB1979-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "4c2f6a6626b755a3e64119a4cd9a5bbcdf263c102e4f8ba8c60a5f5023e354cb",
+ "sha256_v1": "",
+ "sha256_v2": "4c2f6a6626b755a3e64119a4cd9a5bbcdf263c102e4f8ba8c60a5f5023e354cb",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "4c2f6a6626b755a3e64119a4cd9a5bbcdf263c102e4f8ba8c60a5f5023e354cb",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB1979-2026:SEC-2/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Further communication shall not be made to an individual who has opted out after 30 calendar days from the date the individual makes the opt-out request."
+  },
+  {
+   "obligation_id": "US-CA-AB1979-2026:SEC-2/p2/s2",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)If individually identifying information regarding immigration status, including current and prior immigration status, or place of birth, is known or collected in electronic or physical form by a provider of health care, health care service plan, pharmaceutical company, or contractor regarding a patient’s medical history, it shall be treated as medical information, as defined in paragraph (1)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB1979-2026:SEC-2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

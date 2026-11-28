@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-data-act-2023:27",
+ "label": "EU-data-act-2023 Article 27",
+ "instrument": "EU-data-act-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9df9ba0ef50980463e387f44be4aee823c3dea15c67a5f9f6c863f818ab3e8a4",
+ "sha256_v1": "",
+ "sha256_v2": "9df9ba0ef50980463e387f44be4aee823c3dea15c67a5f9f6c863f818ab3e8a4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "9df9ba0ef50980463e387f44be4aee823c3dea15c67a5f9f6c863f818ab3e8a4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-data-act-2023:27/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Obligation of good faith\nAll parties involved, including destination providers of data processing services, shall cooperate in good faith to make the switching process effective, enable the timely transfer of data and maintain the continuity of the data processing service."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-data-act-2023:27",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

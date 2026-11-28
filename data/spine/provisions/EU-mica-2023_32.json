@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:32",
+ "label": "EU-mica-2023 Article 32",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "02b9c0cd8690040b06079fbf194ccc9bb9f4b0d8d91b2f92094a0d29e54aab7c",
+ "sha256_v1": "",
+ "sha256_v2": "02b9c0cd8690040b06079fbf194ccc9bb9f4b0d8d91b2f92094a0d29e54aab7c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "02b9c0cd8690040b06079fbf194ccc9bb9f4b0d8d91b2f92094a0d29e54aab7c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:32/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Issuers of asset-referenced tokens shall implement and maintain effective policies and procedures to identify, prevent, manage and disclose conflicts of interest between themselves and:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:32/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Issuers of asset-referenced tokens shall, in particular, take all appropriate steps to identify, prevent, manage and disclose conflicts of interest arising from the management and investment of the reserve of assets referred to in Article 36."
+  },
+  {
+   "obligation_id": "EU-mica-2023:32/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Issuers of asset-referenced tokens shall, in a prominent place on their website, disclose to the holders of their asset-referenced tokens the general nature and sources of conflicts of interest referred to in paragraph 1 and the steps taken to mitigate them."
+  },
+  {
+   "obligation_id": "EU-mica-2023:32/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The disclosure referred to in paragraph 3 shall be sufficiently precise to enable the prospective holders of their asset-referenced tokens to take an informed purchasing decision about the asset-referenced tokens."
+  },
+  {
+   "obligation_id": "EU-mica-2023:32/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "EBA shall develop draft regulatory technical standards to further specify:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:32/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "EBA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:32",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

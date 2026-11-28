@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-ai-basic-act-enforcement-decree-2026:15-2",
+ "label": "KR-ai-basic-act-enforcement-decree-2026 제15조의2",
+ "instrument": "KR-ai-basic-act-enforcement-decree-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "70ad363493a7e5d16cb1f7ab5a3b7caa5cf13945a6cdca020707981471e372fb",
+ "sha256_v1": "",
+ "sha256_v2": "70ad363493a7e5d16cb1f7ab5a3b7caa5cf13945a6cdca020707981471e372fb",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "70ad363493a7e5d16cb1f7ab5a3b7caa5cf13945a6cdca020707981471e372fb",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:15-2/s7",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "② 법 제17조의2제1항에 따른 비용 지원을 받으려는 사람은 중앙행정기관의 장 또는 지방자치단체의 장이 공고하는 바에 따라 중앙행정기관의 장 또는 지방자치단체의 장에게 신청해야 한다."
+  },
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:15-2/s8",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "이 경우 중앙행정기관의 장 또는 지방자치단체의 장은 다음 각 호의 사항을 고려한 신청 대상 및 내용 등의 지원 기준을 마련하여 공고해야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-ai-basic-act-enforcement-decree-2026:15-2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

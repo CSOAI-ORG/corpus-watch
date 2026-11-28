@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-pipa-2011:63",
+ "label": "KR-pipa-2011 제63조",
+ "instrument": "KR-pipa-2011",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "4ed90b08f79f1ac2cd4c9405cdb8903785c09696e0bf5b6fac7ecab54db0d050",
+ "sha256_v1": "",
+ "sha256_v2": "4ed90b08f79f1ac2cd4c9405cdb8903785c09696e0bf5b6fac7ecab54db0d050",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "4ed90b08f79f1ac2cd4c9405cdb8903785c09696e0bf5b6fac7ecab54db0d050",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-pipa-2011:63/s18",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "⑥ 보호위원회는 제1항 및 제2항에 따라 제출받거나 수집한 서류ㆍ자료 등을 이 법에 따른 경우를 제외하고는 제3자에게 제공하거나 일반에 공개해서는 아니 된다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:63/s20",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "⑦ 보호위원회는 정보통신망을 통하여 자료의 제출 등을 받은 경우나 수집한 자료 등을 전자화한 경우에는 개인정보ㆍ영업비밀 등이 유출되지 아니하도록 제도적ㆍ기술적 보완조치를 하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-pipa-2011:63",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

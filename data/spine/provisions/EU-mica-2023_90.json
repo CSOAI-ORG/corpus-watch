@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:90",
+ "label": "EU-mica-2023 Article 90",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "018f0f3eba074c9d12f2452c94678c53866afc981188ba2e8de859ee054a229b",
+ "sha256_v1": "",
+ "sha256_v2": "018f0f3eba074c9d12f2452c94678c53866afc981188ba2e8de859ee054a229b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "018f0f3eba074c9d12f2452c94678c53866afc981188ba2e8de859ee054a229b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:90/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "No person in possession of inside information shall unlawfully disclose inside information to any other person, except where such disclosure is made in the normal exercise of an employment, a profession or duties."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:90",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

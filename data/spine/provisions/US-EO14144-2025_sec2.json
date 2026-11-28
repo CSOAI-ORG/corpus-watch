@@ -1,0 +1,256 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14144-2025:sec2",
+ "label": "US-EO14144-2025 Sec. 2",
+ "instrument": "US-EO14144-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "7088e5175af76ff83a7b4ff7a91d8d7994818860baad6d071a4dd7252ca3c592",
+ "sha256_v1": "",
+ "sha256_v2": "7088e5175af76ff83a7b4ff7a91d8d7994818860baad6d071a4dd7252ca3c592",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 0,
+ "sha256_current": "7088e5175af76ff83a7b4ff7a91d8d7994818860baad6d071a4dd7252ca3c592",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14144-2025:sec2/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Federal Government must continue to adopt secure software acquisition practices and take steps so that software providers use secure software development practices to reduce the number and severity of vulnerabilities in software they produce."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec2/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i) Within 30 days of the date of this order, the Director of OMB, in consultation with the Secretary of Commerce, acting through the Director of the National Institute of Standards and Technology (NIST), and the Secretary of Homeland Security, acting through the Director of the Cybersecurity and Infrastructure Security Agency (CISA), shall recommend to the Federal Acquisition Regulatory Council (FAR Council) contract language requiring software providers to submit to CISA through CISA's Repository for Software Attestation and Artifacts (RSAA):"
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec2/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(ii) Within 120 days of the receipt of the recommendations described in subsection (b)(i) of this section, the FAR Council shall review the recommendations and, as appropriate and consistent with applicable law, the Secretary of Defense, the Administrator of General Services, and the Administrator of the National Aeronautics and Space Administration (the agency members of the FAR Council) shall jointly take steps to amend the Federal Acquisition Regulation (FAR) to implement those recommendations."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec2/p2/s4",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(iii) Within 60 days of the date of the issuance of the recommendations described in subsection (b)(i) of this section, the Secretary of Homeland Security, acting through the Director of CISA, shall evaluate emerging methods of generating, receiving, and verifying machine-readable secure software development attestations and artifacts and, as appropriate, shall provide guidance for software providers on submitting them to CISA's RSAA website, including a common data schema and format."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec2/p2/s5",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(iv) Within 30 days of the date of any amendments to the FAR described in subsection (b)(ii) of this section, the Secretary of Homeland Security, acting through the Director of CISA, shall develop a program to centrally verify the completeness of all attestation forms."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec2/p2/s6",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "CISA shall continuously validate a sample of the complete attestations using high-level artifacts in the RSAA."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec2/p2/s7",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(v) If CISA finds that attestations are incomplete or artifacts are insufficient for validating the attestations, the Director of CISA shall notify the software provider and the contracting agency."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec2/p2/s8",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Director of CISA shall provide a process for the software provider to respond to CISA's initial determination and shall duly consider the response."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec2/p2/s9",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(vi) For attestations that undergo validation, the Director of CISA shall inform the National Cyber Director, who shall publicly post the results, identifying the software providers and software version."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec2/p2/s10",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "To mitigate the risk of such incidents occurring, software providers must also address how software is delivered and the security of the software itself."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec2/p2/s11",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Federal Government must identify a coordinated set of practical and effective security practices to require when it procures software."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec2/p2/s12",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "(i) Within 60 days of the date of this order, the Secretary of Commerce, acting through the Director of NIST, shall establish a consortium with industry at the National Cybersecurity Center of Excellence to develop guidance, informed by the consortium as appropriate, that demonstrates the implementation of secure software development, security, and operations practices based on NIST Special Publication 800-218 (Secure Software Development Framework (SSDF))."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec2/p2/s13",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(ii) Within 90 days of the date of this order, the Secretary of Commerce, acting through the Director of NIST, shall update NIST Special Publication 800-53 (Security and Privacy Controls for Information Systems and Organizations) to provide guidance on how to securely and reliably deploy patches and updates."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec2/p2/s14",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(iii) Within 180 days of the date of this order, the Secretary of Commerce, acting through the Director of NIST, in consultation with the heads of such agencies as the Director of NIST deems appropriate, shall develop and publish a preliminary update to the SSDF."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec2/p2/s15",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This update shall include practices, procedures, controls, and implementation examples regarding the secure and reliable development and delivery of software as well as the security of the software itself."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec2/p2/s16",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Within 120 days of publishing the preliminary update, the Secretary of Commerce, acting through the Director of NIST, shall publish a final version of the updated SSDF."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec2/p2/s17",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(iv) Within 120 days of the final update to the SSDF described in subsection (c)(iii) of this section, the Director of OMB shall incorporate select practices for the secure development and delivery of software contained in NIST's updated SSDF into the requirements of OMB Memorandum M- 22-18 (Enhancing the Security of the Software Supply Chain through Secure Software Development Practices) or related requirements."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec2/p2/s18",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(v) Within 30 days of the issuance of OMB's updated requirements described in subsection (c)(iv) of this section, the Director of CISA shall prepare any revisions to CISA's common form for Secure Software Development Attestation to conform to OMB's requirements and shall initiate any process required to obtain clearance of the revised form under the Paperwork Reduction Act, 44 U.S.C. 3501 et seq."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec2/p2/s19",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "Within 90 days of the date of this order, the Director of OMB, in coordination with the Secretary of Commerce, acting through the Director of NIST, the Administrator of General Services, and the Federal Acquisition Security Council (FASC), shall take steps to require, as the Director deems appropriate, that agencies comply with the guidance in NIST Special Publication 800-161 (Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations (SP 800-161 Revision 1))."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec2/p2/s20",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "OMB shall require agencies to provide annual updates to OMB as they complete implementation."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec2/p2/s21",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Consistent with SP 800-161 Revision 1, OMB's requirements shall address the integration of cybersecurity into the acquisition lifecycle through acquisition planning, source selection, responsibility determination, security compliance evaluation, contract administration, and performance evaluation."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec2/p2/s22",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "To help the Federal Government continue to reap the innovation and cost benefits of open source software and contribute to the cybersecurity of the open source software ecosystem, agencies must better manage their use of open source software."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec2/p2/s23",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Within 120 days of the date of this order, the Secretary of Homeland Security, acting through the Director of CISA, and the Director of OMB, in consultation with the Administrator of General Services and the heads of other agencies as appropriate, shall jointly issue recommendations to agencies on the use of security assessments and patching of open source software and best practices for contributing to open source software projects."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14144-2025:sec2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s139",
+ "label": "GB-osa-2023 Section 139",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6cd60bc091db0888bd78f85785e32d4348c5c9def38c8d4dea32f6b42465daa7",
+ "sha256_v1": "",
+ "sha256_v2": "6cd60bc091db0888bd78f85785e32d4348c5c9def38c8d4dea32f6b42465daa7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "6cd60bc091db0888bd78f85785e32d4348c5c9def38c8d4dea32f6b42465daa7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s139/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nA penalty notice under this section must—\n(a)\ngive OFCOM’s reasons for their decision to impose the penalty,\n(b)\nstate the amount of the penalty,\n(c)\nstate the reasons for the amount of the penalty, including any aggravating or mitigating factors that OFCOM have taken into account,\n(d)\nspecify the period within which the penalty must be paid,\n(e)\ncontain details of the rights of appeal under section 168, and\n(f)\ncontain information about the consequences of not paying the penalty (including information about the further kinds of enforcement action that it would be open to OFCOM to take)."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s139/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nThe period specified under subsection (4)(d) must be at least 28 days beginning with the day on which the penalty notice is given."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s139",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

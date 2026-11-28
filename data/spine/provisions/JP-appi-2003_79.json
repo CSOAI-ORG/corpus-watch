@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:79",
+ "label": "JP-appi-2003 Article 79",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "548420ac79c258ca3dd9bd2053cbf485c37d81dd661fc63d8a5c22ff0e8ef9f1",
+ "sha256_v1": "",
+ "sha256_v2": "548420ac79c258ca3dd9bd2053cbf485c37d81dd661fc63d8a5c22ff0e8ef9f1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "548420ac79c258ca3dd9bd2053cbf485c37d81dd661fc63d8a5c22ff0e8ef9f1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:79/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "行政機関の長等は、開示請求に係る保有個人情報に不開示情報が含まれている場合において、不開示情報に該当する部分を容易に区分して除くことができるときは、開示請求者に対し、当該部分を除いた部分につき開示しなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:79",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

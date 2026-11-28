@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-pipl-2021:64",
+ "label": "CN-pipl-2021 第六十四条",
+ "instrument": "CN-pipl-2021",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "c1f5f8429edb6eed2de4371539eef6e9b5037dd7fbc8fbd6f4a65d4a5c7a0f2a",
+ "sha256_v1": "",
+ "sha256_v2": "c1f5f8429edb6eed2de4371539eef6e9b5037dd7fbc8fbd6f4a65d4a5c7a0f2a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "c1f5f8429edb6eed2de4371539eef6e9b5037dd7fbc8fbd6f4a65d4a5c7a0f2a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-pipl-2021:64/s2",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "个人信息处理者应当按照要求采取措施，进行整改，消除隐患。"
+  },
+  {
+   "obligation_id": "CN-pipl-2021:64/s3",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "履行个人信息保护职责的部门在履行职责中，发现违法处理个人信息涉嫌犯罪的，应当及时移送公安机关依法处理。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-pipl-2021:64",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

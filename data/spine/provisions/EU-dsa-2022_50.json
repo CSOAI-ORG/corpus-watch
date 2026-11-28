@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:50",
+ "label": "EU-dsa-2022 Article 50",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "4f4542b42ad6c79588ddd5f94f7135d76b0b0505dfc42a1e16b351e23dcc7448",
+ "sha256_v1": "",
+ "sha256_v2": "4f4542b42ad6c79588ddd5f94f7135d76b0b0505dfc42a1e16b351e23dcc7448",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "4f4542b42ad6c79588ddd5f94f7135d76b0b0505dfc42a1e16b351e23dcc7448",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:50/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that their Digital Services Coordinators perform their tasks under this Regulation in an impartial, transparent and timely manner."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:50/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that their Digital Services Coordinators have all necessary resources to carry out their tasks, including sufficient technical, financial and human resources to adequately supervise all providers of intermediary services falling within their competence."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:50/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Each Member State shall ensure that its Digital Services Coordinator has sufficient autonomy in managing its budget within the budget's overall limits, in order not to adversely affect the independence of the Digital Services Coordinator."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:50/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When carrying out their tasks and exercising their powers in accordance with this Regulation, the Digital Services Coordinators shall act with complete independence."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:50/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "They shall remain free from any external influence, whether direct or indirect, and shall neither seek nor take instructions from any other public authority or any private party."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:50/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Paragraph 2 of this Article shall not prevent the exercise of judicial review and shall also be without prejudice to proportionate accountability requirements regarding the general activities of the Digital Services Coordinators, such as financial expenditure or reporting to national parliaments, provided that those requirements do not undermine the achievement of the objectives of this Regulation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:50",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

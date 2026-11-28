@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022R2554:23",
+ "label": "DORA Art. 23",
+ "instrument": "DORA",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e868752b77342cf688dcf435ec6d12299ed23d6bea814819e5ae6afd3bad402f",
+ "sha256_v1": "e868752b77342cf688dcf435ec6d12299ed23d6bea814819e5ae6afd3bad402f",
+ "sha256_v2": "9737f316f6c25a3e5136e4af3c61a9ad561422b05effa138a385cf498cce45ad",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "9737f316f6c25a3e5136e4af3c61a9ad561422b05effa138a385cf498cce45ad",
+ "agent_register_kinds": [
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022R2554:23/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Article 23 Operational or security payment-related incidents concerning credit institutions, payment institutions, account information service providers, and electronic money institutions The requirements laid down in this Chapter shall also apply to operational or security payment-related incidents and to major operational or security payment-related incidents, where they concern credit institutions, payment institutions, account information service providers, and electronic money institutions."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022R2554:23",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,58 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:84",
+ "label": "GDPR Art. 84",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "4c7814941408466b08dcc08d3851d1bf651d849562fb6357480c83e3d1e8d163",
+ "sha256_v1": "4c7814941408466b08dcc08d3851d1bf651d849562fb6357480c83e3d1e8d163",
+ "sha256_v2": "c2350829dbf1e310c0b3b1a383d62a6d5b0f6f788e35017bb55caf5c0d70c171",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "c2350829dbf1e310c0b3b1a383d62a6d5b0f6f788e35017bb55caf5c0d70c171",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:84/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall lay down the rules on other penalties applicable to infringements of this Regulation in particular for infringements which are not subject to administrative fines pursuant to Article 83, and shall take all measures necessary to ensure that they are implemented."
+  },
+  {
+   "obligation_id": "32016R0679:84/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such penalties shall be effective, proportionate and dissuasive."
+  },
+  {
+   "obligation_id": "32016R0679:84/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Each Member State shall notify to the Commission the provisions of its law which it adopts pursuant to paragraph 1, by 25 May 2018 and, without delay, any subsequent amendment affecting them."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:84",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

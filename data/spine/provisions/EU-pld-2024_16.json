@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-pld-2024:16",
+ "label": "EU-pld-2024 Article 16",
+ "instrument": "EU-pld-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "cb2ccd134c80883b67b9391a63d038cfa24a5aedd53daa04bf059dcc483c43d4",
+ "sha256_v1": "",
+ "sha256_v2": "cb2ccd134c80883b67b9391a63d038cfa24a5aedd53daa04bf059dcc483c43d4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "cb2ccd134c80883b67b9391a63d038cfa24a5aedd53daa04bf059dcc483c43d4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-pld-2024:16/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that a limitation period of three years applies to the initiation of proceedings to claim compensation for damage falling within the scope of this Directive."
+  },
+  {
+   "obligation_id": "EU-pld-2024:16/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The limitation period shall run from the day on which the injured person became aware, or should reasonably have become aware, of all of the following:"
+  },
+  {
+   "obligation_id": "EU-pld-2024:16/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "National law regulating the suspension or interruption of the limitation period referred to in paragraph 1 shall not be affected by this Directive."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-pld-2024:16",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

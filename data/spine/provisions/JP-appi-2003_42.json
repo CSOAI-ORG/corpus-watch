@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:42",
+ "label": "JP-appi-2003 Article 42",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "43ae6f4f8cfb7e760be2a25291736b8a0f8ba416a7aee789cf3d625fe5b7a768",
+ "sha256_v1": "",
+ "sha256_v2": "43ae6f4f8cfb7e760be2a25291736b8a0f8ba416a7aee789cf3d625fe5b7a768",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "43ae6f4f8cfb7e760be2a25291736b8a0f8ba416a7aee789cf3d625fe5b7a768",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:42/s4",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "）を第三者に提供してはならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:42/s6",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "ja:public-trace",
+   "status": "DRAFT",
+   "text": "この場合において、同条第五項中「前各項」とあるのは「第四十二条第一項」と、同項第一号中「個人情報取扱事業者」とあるのは「仮名加工情報取扱事業者」と、同項第三号中「、本人に通知し、又は本人が容易に知り得る状態に置いて」とあるのは「公表して」と、同条第六項中「個人情報取扱事業者」とあるのは「仮名加工情報取扱事業者」と、「、本人に通知し、又は本人が容易に知り得る状態に置かなければ」とあるのは「公表しなければ」と読み替えるものとする。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:42/s8",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "この場合において、第二十三条中「漏えい、滅失又は毀損」とあるのは「漏えい」と、前条第七項中「ために、」とあるのは「ために、削除情報等を取得し、又は」と読み替えるものとする。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:42",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

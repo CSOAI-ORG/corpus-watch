@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CO-SB22-113-facialrecog-gov-2022:SECTION-4:CRS-24-18-304",
+ "label": "US-CO-SB22-113-facialrecog-gov-2022 C.R.S. 24-18-304",
+ "instrument": "US-CO-SB22-113-facialrecog-gov-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7d3bd235fa9c5e99e049a0d061e561f9ff467bc46472953f6f07e47f72c1b1ec",
+ "sha256_v1": "",
+ "sha256_v2": "7d3bd235fa9c5e99e049a0d061e561f9ff467bc46472953f6f07e47f72c1b1ec",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 14,
+ "sha256_current": "7d3bd235fa9c5e99e049a0d061e561f9ff467bc46472953f6f07e47f72c1b1ec",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CO-SB22-113-facialrecog-gov-2022:SECTION-4:CRS-24-18-304/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1) EXCEPT AS DESCRIBED IN SUBSECTION (4) OF THIS SECTION, BEFORE DEPLOYING A FACIAL RECOGNITION SERVICE IN A CONTEXT IN WHICH IT WILL BE USED TO MAKE DECISIONS THAT PRODUCE LEGAL EFFECTS CONCERNING INDIVIDUALS OR SIMILARLY SIGNIFICANT EFFECTS CONCERNING INDIVIDUALS, AN AGENCY MUST TEST THE FACIAL RECOGNITION SERVICE IN OPERATIONAL CONDITIONS."
+  },
+  {
+   "obligation_id": "US-CO-SB22-113-facialrecog-gov-2022:SECTION-4:CRS-24-18-304/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "AN AGENCY MUST TAKE REASONABLE STEPS TO ENSURE BEST QUALITY RESULTS BY FOLLOWING ALL GUIDANCE PROVIDED BY THE DEVELOPER OF THE FACIAL RECOGNITION SERVICE."
+  },
+  {
+   "obligation_id": "US-CO-SB22-113-facialrecog-gov-2022:SECTION-4:CRS-24-18-304/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2) (a) EXCEPT AS DESCRIBED IN SUBSECTION (4) OF THIS SECTION, AN AGENCY THAT DEPLOYS A FACIAL RECOGNITION SERVICE SHALL REQUIRE THE FACIAL RECOGNITION SERVICE PROVIDER TO MAKE AVAILABLE AN APPLICATION PROGRAMMING INTERFACE OR OTHER TECHNICAL CAPABILITY, CHOSEN BY THE PROVIDER, TO ENABLE LEGITIMATE, INDEPENDENT, AND REASONABLE TESTS OF THE FACIAL RECOGNITION SERVICE FOR ACCURACY AND TO IDENTIFY UNFAIR PERFORMANCE DIFFERENCES ACROSS DISTINCT SUBPOPULATIONS, INCLUDING SUBPOPULATIONS THAT ARE DEFINED BY VISUALLY DETECTABLE CHARACTERISTICS SUCH AS:"
+  },
+  {
+   "obligation_id": "US-CO-SB22-113-facialrecog-gov-2022:SECTION-4:CRS-24-18-304/p0/s4",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) IF THE RESULTS OF INDEPENDENT TESTING IDENTIFY MATERIAL UNFAIR PERFORMANCE DIFFERENCES ACROSS SUBPOPULATIONS, THE PROVIDER MUST DEVELOP AND IMPLEMENT A PLAN TO MITIGATE THE IDENTIFIED PERFORMANCE DIFFERENCES WITHIN NINETY DAYS AFTER RECEIPT OF THE RESULTS."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CO-SB22-113-facialrecog-gov-2022:SECTION-4:CRS-24-18-304",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

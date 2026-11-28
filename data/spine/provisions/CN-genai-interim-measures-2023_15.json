@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-genai-interim-measures-2023:15",
+ "label": "CN-genai-interim-measures-2023 第十五条",
+ "instrument": "CN-genai-interim-measures-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "1225cd6f66fac55ce5b7be92847bffbdad6a8a2fe8d542f7da2c21c11de2ea68",
+ "sha256_v1": "",
+ "sha256_v2": "1225cd6f66fac55ce5b7be92847bffbdad6a8a2fe8d542f7da2c21c11de2ea68",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "1225cd6f66fac55ce5b7be92847bffbdad6a8a2fe8d542f7da2c21c11de2ea68",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-genai-interim-measures-2023:15/s1",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "zh:public-trace",
+   "status": "DRAFT",
+   "text": "第十五条 提供者应当建立健全投诉、举报机制，设置便捷的投诉、举报入口，公布处理流程和反馈时限，及时受理、处理公众投诉举报并反馈处理结果。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-genai-interim-measures-2023:15",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

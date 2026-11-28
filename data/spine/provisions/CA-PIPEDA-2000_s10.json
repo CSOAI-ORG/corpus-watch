@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CA-PIPEDA-2000:s10",
+ "label": "CA-PIPEDA-2000 Section 10",
+ "instrument": "CA-PIPEDA-2000",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e928f0d8aecfb2a89c8046b394a179bf52c0fde067ea3c517386d741eb5af08a",
+ "sha256_v1": "",
+ "sha256_v2": "e928f0d8aecfb2a89c8046b394a179bf52c0fde067ea3c517386d741eb5af08a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CA",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "e928f0d8aecfb2a89c8046b394a179bf52c0fde067ea3c517386d741eb5af08a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CA-PIPEDA-2000:s10/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Sensory disability 10 An organization shall give access to personal information in an alternative format to an individual with a sensory disability who has a right of access to personal information under this Part and who requests that it be transmitted in the alternative format if (a) a version of the information already exists in that format; or (b) its conversion into that format is reasonable and necessary in order for the individual to be able to exercise rights under this Part."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CA-PIPEDA-2000:s10",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

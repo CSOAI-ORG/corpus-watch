@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-data-act-2023:18",
+ "label": "EU-data-act-2023 Article 18",
+ "instrument": "EU-data-act-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5f020feea1bfbc84d1a6f190a1cb0096c50e1b5ba825824b45720d8dfafb8949",
+ "sha256_v1": "",
+ "sha256_v2": "5f020feea1bfbc84d1a6f190a1cb0096c50e1b5ba825824b45720d8dfafb8949",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "5f020feea1bfbc84d1a6f190a1cb0096c50e1b5ba825824b45720d8dfafb8949",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-data-act-2023:18/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A data holder receiving a request to make data available under this Chapter shall make the data available to the requesting public sector body, the Commission, the European Central Bank or a Union body without undue delay, taking into account necessary technical, organisational and legal measures."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:18/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the data holder decides to decline the request or to seek its modification in accordance with paragraph 2, point (b), it shall indicate the identity of the public sector body or the Commission, the European Central Bank or the Union body that previously submitted a request for the same purpose."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:18/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the data requested includes personal data, the data holder shall properly anonymise the data, unless the compliance with the request to make data available to a public sector body, the Commission, the European Central Bank or a Union body requires the disclosure of personal data."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:18/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In such cases, the data holder shall pseudonymise the data."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:18/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the public sector body, the Commission, the European Central Bank or the Union body wishes to challenge a data holder’s refusal to provide the data requested, or where the data holder wishes to challenge the request and the matter cannot be resolved by an appropriate modification of the request, the matter shall be referred to the competent authority designated pursuant to Article 37 of the Member State where the data holder is established."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-data-act-2023:18",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

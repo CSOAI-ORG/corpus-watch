@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-network-data-security-regs-2024:26",
+ "label": "CN-network-data-security-regs-2024 第二十六条",
+ "instrument": "CN-network-data-security-regs-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d5ab71cf440a9957fa24969fde884ef1a78db16beb90216cadca6a2e7ebf6f76",
+ "sha256_v1": "",
+ "sha256_v2": "d5ab71cf440a9957fa24969fde884ef1a78db16beb90216cadca6a2e7ebf6f76",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "d5ab71cf440a9957fa24969fde884ef1a78db16beb90216cadca6a2e7ebf6f76",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-network-data-security-regs-2024:26/s1",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "第二十六条　中华人民共和国境外网络数据处理者处理境内自然人个人信息，依照《中华人民共和国个人信息保护法》第五十三条规定在境内设立专门机构或者指定代表的，应当将有关机构的名称或者代表的姓名、联系方式等报送所在地设区的市级网信部门；"
+  },
+  {
+   "obligation_id": "CN-network-data-security-regs-2024:26/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "网信部门应当及时通报同级有关主管部门。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-network-data-security-regs-2024:26",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

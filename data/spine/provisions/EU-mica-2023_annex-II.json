@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:annex-II",
+ "label": "EU-mica-2023 Annex II",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "08d704233496074cf7eb5f2fd11cda29801fcbe0b2b2fe6edf35148b559fbb6c",
+ "sha256_v1": "",
+ "sha256_v2": "08d704233496074cf7eb5f2fd11cda29801fcbe0b2b2fe6edf35148b559fbb6c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "08d704233496074cf7eb5f2fd11cda29801fcbe0b2b2fe6edf35148b559fbb6c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:annex-II/p9/s1",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The financial condition shall be assessed based on a fair review of the development and performance of the business of the issuer and of its position for each year and interim period for which historical financial information is required, including the causes of material changes."
+  },
+  {
+   "obligation_id": "EU-mica-2023:annex-II/p9/s2",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The review shall be a balanced and comprehensive analysis of the development and performance of the issuer’s business and of its position, consistent with the size and complexity of the business."
+  },
+  {
+   "obligation_id": "EU-mica-2023:annex-II/p10/s1",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Information about technical requirements that the purchaser is required to fulfil to hold the asset-referenced token;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:annex-II",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

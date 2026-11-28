@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:90",
+ "label": "EU-eudpr-2018 Article 90",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "639816d7024b8be8a5cdc6a6f15e741c9690705d830ccdf3ab12005c5a4f0e49",
+ "sha256_v1": "",
+ "sha256_v2": "639816d7024b8be8a5cdc6a6f15e741c9690705d830ccdf3ab12005c5a4f0e49",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "639816d7024b8be8a5cdc6a6f15e741c9690705d830ccdf3ab12005c5a4f0e49",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:90/p1/s1",
+   "paragraph": "1",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller shall consult the European Data Protection Supervisor prior to processing which will form part of a new filing system to be created, where:"
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:90/p3/s1",
+   "paragraph": "3",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "The controller shall provide the European Data Protection Supervisor with the data protection impact assessment referred to Article 89 and, on request, with any other information to allow the European Data Protection Supervisor to make an assessment of the compliance of the processing and in particular of the risks for the protection of operational personal data of the data subject and of the related safeguards."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:90/p4/s1",
+   "paragraph": "4",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the European Data Protection Supervisor is of the opinion that the intended processing referred to in paragraph 1 would infringe this Regulation or the legal act establishing the Union body, office or agency, in particular where the controller has insufficiently identified or mitigated the risk, the European Data Protection Supervisor shall provide written advice to the controller within a period of up to six weeks of receipt of the request for consultation."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:90/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The European Data Protection Supervisor shall inform the controller of any such extension within one month of receipt of the request for consultation, together with the reasons for the delay."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:90",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

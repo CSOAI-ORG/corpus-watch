@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-pipa-2011:19",
+ "label": "KR-pipa-2011 제19조",
+ "instrument": "KR-pipa-2011",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "2e0903aeeb0e467c68885f545fc702f5d259d8c28fa6606eb490b39ef5b356c1",
+ "sha256_v1": "",
+ "sha256_v2": "2e0903aeeb0e467c68885f545fc702f5d259d8c28fa6606eb490b39ef5b356c1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "2e0903aeeb0e467c68885f545fc702f5d259d8c28fa6606eb490b39ef5b356c1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-pipa-2011:19/s1",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "제19조(개인정보를 제공받은 자의 이용ㆍ제공 제한) 개인정보처리자로부터 개인정보를 제공받은 자는 다음 각 호의 어느 하나에 해당하는 경우를 제외하고는 개인정보를 제공받은 목적 외의 용도로 이용하거나 이를 제3자에게 제공하여서는 아니 된다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-pipa-2011:19",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

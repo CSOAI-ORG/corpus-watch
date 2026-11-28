@@ -1,0 +1,49 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:46",
+ "label": "GDPR Art. 46",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "1400d7861160d0ec2878b242ce0bfb4904f828ac54dffca0022cbfac563c9ad0",
+ "sha256_v1": "1400d7861160d0ec2878b242ce0bfb4904f828ac54dffca0022cbfac563c9ad0",
+ "sha256_v2": "669c6f265e1a5ec2c5648669597df2de48b5077c0ffb10c35c0ceb977fc195f4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "669c6f265e1a5ec2c5648669597df2de48b5077c0ffb10c35c0ceb977fc195f4",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:46/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Authorisations by a Member State or supervisory authority on the basis of Article 26(2) of Directive 95/46/EC shall remain valid until amended, replaced or repealed, if necessary, by that supervisory authority."
+  },
+  {
+   "obligation_id": "32016R0679:46/p5/s2",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Decisions adopted by the Commission on the basis of Article 26(4) of Directive 95/46/EC shall remain in force until amended, replaced or repealed, if necessary, by a Commission Decision adopted in accordance with paragraph 2 of this Article."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:46",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

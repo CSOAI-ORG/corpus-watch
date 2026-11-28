@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-ai-basic-act-enforcement-decree-2026:19",
+ "label": "KR-ai-basic-act-enforcement-decree-2026 제19조",
+ "instrument": "KR-ai-basic-act-enforcement-decree-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "f2f4e1df58136f8912a9d1068a91743be3a5aa20af7815f99591528844892820",
+ "sha256_v1": "",
+ "sha256_v2": "f2f4e1df58136f8912a9d1068a91743be3a5aa20af7815f99591528844892820",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "f2f4e1df58136f8912a9d1068a91743be3a5aa20af7815f99591528844892820",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:19/s14",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "④ 과학기술정보통신부장관은 법 제24조제1항에 따라 구축하거나 같은 조 제2항에 따라 개방한 실증기반등의 종류, 이용 조건 및 이용 비용을 과학기술정보통신부의 인터넷 홈페이지에 공개해야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-ai-basic-act-enforcement-decree-2026:19",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

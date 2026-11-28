@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14365-2025:sec4",
+ "label": "US-EO14365-2025 Section 4",
+ "instrument": "US-EO14365-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "549012fa038b33d9875c9adca8d5755f733e58bd87571899397f66a8714907d8",
+ "sha256_v1": "",
+ "sha256_v2": "549012fa038b33d9875c9adca8d5755f733e58bd87571899397f66a8714907d8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "549012fa038b33d9875c9adca8d5755f733e58bd87571899397f66a8714907d8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14365-2025:sec4/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Within 90 days of the date of this order, the Secretary of Commerce, consistent with the Secretary's authorities under 47 U.S.C. 902(b), shall, in consultation with the Special Advisor for AI and Crypto, the Assistant to the President for Economic Policy, the Assistant to the President for Science and Technology, and the Assistant to the President and Counsel to the President, publish an evaluation of existing State AI laws that identifies onerous laws that conflict with the policy set forth in section 2 of this order, as well as laws that should be referred to the Task Force established pursuant to section 3 of this order."
+  },
+  {
+   "obligation_id": "US-EO14365-2025:sec4/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That evaluation of State AI laws shall, at a minimum, identify laws that require AI models to alter their truthful outputs, or that may compel AI developers or deployers to disclose or report information in a manner that would violate the First Amendment or any other provision of the Constitution."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14365-2025:sec4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

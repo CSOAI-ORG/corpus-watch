@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s35A",
+ "label": "AU-privacy-act-1988 Section 35A",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "aa759e9052f5b367e5b46cb0bb1a9c94dad9410037b5c7ae5ee97b4b91165c08",
+ "sha256_v1": "",
+ "sha256_v2": "aa759e9052f5b367e5b46cb0bb1a9c94dad9410037b5c7ae5ee97b4b91165c08",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "aa759e9052f5b367e5b46cb0bb1a9c94dad9410037b5c7ae5ee97b4b91165c08",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s35A/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\tIn considering whether to recognise an external dispute resolution scheme, the Commissioner must take the following matters into account:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s35A",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

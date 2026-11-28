@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-uk-gdpr-2016:83",
+ "label": "GB-uk-gdpr-2016 Article 83",
+ "instrument": "GB-uk-gdpr-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9f1476b7b279ae804a83976e68810b41c69bfb44e90f0d6385ca92da4eefd5f0",
+ "sha256_v1": "",
+ "sha256_v2": "9f1476b7b279ae804a83976e68810b41c69bfb44e90f0d6385ca92da4eefd5f0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9f1476b7b279ae804a83976e68810b41c69bfb44e90f0d6385ca92da4eefd5f0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-uk-gdpr-2016:83/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall ensure that the imposition of administrative fines pursuant to this Article in respect of infringements of this Regulation referred to in paragraphs 4, 5 and 6 shall in each individual case be effective, proportionate and dissuasive."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:83/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Administrative fines shall, depending on the circumstances of each individual case, be imposed in addition to, or instead of, measures referred to in points (a) to (h) and (j) of Article 58(2)."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:83/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When deciding whether to impose an administrative fine and deciding on the amount of the administrative fine in each individual case due regard shall be given to the following:"
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:83/p3/s1",
+   "paragraph": "3",
+   "addressee": "processor",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a controller or processor intentionally or negligently, for the same or linked processing operations, infringes several provisions of this Regulation, the total amount of the administrative fine shall not exceed the amount specified for the gravest infringement."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:83/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Infringements of the following provisions shall, in accordance with paragraph 2, be subject to administrative fines up to £8,700,000, or in the case of an undertaking, up to 2 % of the total worldwide annual turnover of the preceding financial year, whichever is higher:"
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:83/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Infringements of the following provisions shall, in accordance with paragraph 2, be subject to administrative fines up to £17,500,000, or in the case of an undertaking, up to 4 % of the total worldwide annual turnover of the preceding financial year, whichever is higher:"
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:83/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Non-compliance with an order by the Commission as referred to in Article 58(2) shall, in accordance with paragraph 2 of this Article, be subject to administrative fines up to £17,500,000, or in the case of an undertaking, up to 4 % of the total worldwide annual turnover of the preceding financial year, whichever is higher.\n7.\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n8.\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n9.\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-uk-gdpr-2016:83",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB354-2026:SEC-2:791.32.",
+ "label": "US-CA-SB354-2026 SEC. 2. / 791.32.",
+ "instrument": "US-CA-SB354-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ee54862415a28cf0fce2ced0edfc1564e88a1f8c1cd2af6235e9aa254decf03c",
+ "sha256_v1": "",
+ "sha256_v2": "ee54862415a28cf0fce2ced0edfc1564e88a1f8c1cd2af6235e9aa254decf03c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "ee54862415a28cf0fce2ced0edfc1564e88a1f8c1cd2af6235e9aa254decf03c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB354-2026:SEC-2:791.32./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A licensee, surplus line insurer, or reinsurer shall develop, implement, and maintain a program of administrative, technical, and physical safeguards sufficient to ensure the confidentiality, integrity, and availability of nonpublic information in the possession of the licensee, surplus line insurer, or reinsurer."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB354-2026:SEC-2:791.32.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

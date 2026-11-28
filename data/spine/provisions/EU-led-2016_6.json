@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-led-2016:6",
+ "label": "EU-led-2016 Article 6",
+ "instrument": "EU-led-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "078123ebcb0836ffba94e4c825ed60a419bb8118916c84b219a30968c53e5bb7",
+ "sha256_v1": "",
+ "sha256_v2": "078123ebcb0836ffba94e4c825ed60a419bb8118916c84b219a30968c53e5bb7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "078123ebcb0836ffba94e4c825ed60a419bb8118916c84b219a30968c53e5bb7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-led-2016:6/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Distinction between different categories of data subject\nMember States shall provide for the controller, where applicable and as far as possible, to make a clear distinction between personal data of different categories of data subjects, such as:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-led-2016:6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

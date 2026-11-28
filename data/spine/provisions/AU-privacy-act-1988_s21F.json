@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s21F",
+ "label": "AU-privacy-act-1988 Section 21F",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "428ed04f41b5d7947861a26ac7a70fb533c50614219c2c1371372786ea770865",
+ "sha256_v1": "",
+ "sha256_v2": "428ed04f41b5d7947861a26ac7a70fb533c50614219c2c1371372786ea770865",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "428ed04f41b5d7947861a26ac7a70fb533c50614219c2c1371372786ea770865",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s21F/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\tIf the credit provider holds credit information about the individual that relates to the consumer credit, the provider must not, despite sections 21D and 21E, disclose the information to a credit reporting body."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s21F",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-machinery-2023:38",
+ "label": "EU-machinery-2023 Article 38",
+ "instrument": "EU-machinery-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "8d25634815f2f84e172d05766b4dbe9c3095733ffb4d1ce862496000b023fe28",
+ "sha256_v1": "",
+ "sha256_v2": "8d25634815f2f84e172d05766b4dbe9c3095733ffb4d1ce862496000b023fe28",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8d25634815f2f84e172d05766b4dbe9c3095733ffb4d1ce862496000b023fe28",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-machinery-2023:38/p1/s1",
+   "paragraph": "1",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "A notified body shall carry out conformity assessments in accordance with the conformity assessment procedures set out in Annexes VII, IX and X."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:38/p2/s1",
+   "paragraph": "2",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A notified body shall perform its activities in a proportionate manner, avoiding unnecessary burdens for economic operators, and taking due account of the size of an undertaking, the sector in which the undertaking operates, the structure of the undertaking, the degree of complexity of the technology in question and the mass or serial nature of the production process."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:38/p2/s2",
+   "paragraph": "2",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In so doing, the notified body shall nevertheless respect the degree of rigour and the level of protection required for the compliance of the machinery or related product with the requirements of this Regulation."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:38/p3/s1",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where a notified body finds that the essential health and safety requirements set out in Annex III, or corresponding harmonised standards or common specifications referred to in Article 20 have not been met by a manufacturer, it shall require the manufacturer to take appropriate corrective actions and shall not issue an EU-type examination certificate, adopt a quality system approval decision or issue a unit verification certificate."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:38/p4/s1",
+   "paragraph": "4",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where, in the course of the monitoring of conformity, following the adoption of an approval decision, in accordance with Annex IX, a notified body finds that machinery or a related product no longer complies, it shall require the manufacturer to take appropriate corrective actions and shall suspend or withdraw the approval decision, if necessary."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:38/p4/s2",
+   "paragraph": "4",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where corrective actions are not taken or do not have the required effect, the notified body shall restrict, suspend or withdraw any approval decisions, as appropriate."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-machinery-2023:38",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

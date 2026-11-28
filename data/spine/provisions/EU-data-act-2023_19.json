@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-data-act-2023:19",
+ "label": "EU-data-act-2023 Article 19",
+ "instrument": "EU-data-act-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a9a3b93c809eaf283146750c1893de6c0f25e3f3b8f8742fe0d5131f0b78d15d",
+ "sha256_v1": "",
+ "sha256_v2": "a9a3b93c809eaf283146750c1893de6c0f25e3f3b8f8742fe0d5131f0b78d15d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "a9a3b93c809eaf283146750c1893de6c0f25e3f3b8f8742fe0d5131f0b78d15d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-data-act-2023:19/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "A public sector body, the Commission, the European Central Bank or a Union body receiving data pursuant to a request made under Article 14 shall:"
+  },
+  {
+   "obligation_id": "EU-data-act-2023:19/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "A public sector body, the Commission, the European Central Bank, a Union body or a third party receiving data under this Chapter shall not:"
+  },
+  {
+   "obligation_id": "EU-data-act-2023:19/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Disclosure of trade secrets to a public sector body, the Commission, the European Central Bank or a Union body shall be required only to the extent that it is strictly necessary to achieve the purpose of a request under Article"
+  },
+  {
+   "obligation_id": "EU-data-act-2023:19/p15/s1",
+   "paragraph": "15",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In such a case, the data holder or, where they are not the same person, the trade secret holder shall identify the data which are protected as trade secrets, including in the relevant metadata."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:19/p15/s2",
+   "paragraph": "15",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The public sector body, the Commission, the European Central Bank or the Union body shall, prior to the disclosure of trade secrets, take all necessary and appropriate technical and organisational measures to preserve the confidentiality of the trade secrets, including, as appropriate, the use of model contractual terms, technical standards and the application of codes of conduct."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:19/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "A public sector body, the Commission, the European Central Bank or a Union body shall be responsible for the security of the data it receives."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-data-act-2023:19",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

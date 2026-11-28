@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:68",
+ "label": "EU-eudpr-2018 Article 68",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3a153578d12ae1f30e24cd1a805e2a7c99d46b419ec8892dadd369ceaa4fb20e",
+ "sha256_v1": "",
+ "sha256_v2": "3a153578d12ae1f30e24cd1a805e2a7c99d46b419ec8892dadd369ceaa4fb20e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "3a153578d12ae1f30e24cd1a805e2a7c99d46b419ec8892dadd369ceaa4fb20e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:68/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "No one shall suffer prejudice by reason of having submitted a complaint with the European Data Protection Supervisor alleging such an infringement."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:68",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-crime-policing-2026:s248",
+ "label": "GB-crime-policing-2026 Section 248",
+ "instrument": "GB-crime-policing-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "064b3ad080d3c0f9966318171c14893b0e489722c7e79d9fc60721b5160ae70e",
+ "sha256_v1": "",
+ "sha256_v2": "064b3ad080d3c0f9966318171c14893b0e489722c7e79d9fc60721b5160ae70e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "064b3ad080d3c0f9966318171c14893b0e489722c7e79d9fc60721b5160ae70e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-crime-policing-2026:s248/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(13)\nRegulations may make provision having the effect that AI services provided from outside the United Kingdom are regulated by this Act (as well as AI services provided from within the United Kingdom), but, if they do so, must contain equivalent provision to that made in relation to user-to-user services and search services by section 4(5) and (6) (UK links)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-crime-policing-2026:s248",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

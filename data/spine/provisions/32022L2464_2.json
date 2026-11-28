@@ -1,0 +1,40 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022L2464:2",
+ "label": "CSRD Art. 2",
+ "instrument": "CSRD",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "f09eda538e2ad1a4cec71afccc529057ab3241fce3df5d57e0e2bd7802c16b25",
+ "sha256_v1": "f09eda538e2ad1a4cec71afccc529057ab3241fce3df5d57e0e2bd7802c16b25",
+ "sha256_v2": "f09eda538e2ad1a4cec71afccc529057ab3241fce3df5d57e0e2bd7802c16b25",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": 133,
+ "sha256_current": "c9af0f102aa919a2ec7e47fb6bbb42bc81ccacd024ec14ef1a4375d08df5eda4",
+ "agent_register_kinds": [
+  "NONE",
+  "OBSERVED",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022L2464:2/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 2 amendments to",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022L2464:2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

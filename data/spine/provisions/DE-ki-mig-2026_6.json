@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "DE-ki-mig-2026:6",
+ "label": "DE-ki-mig-2026 § 6",
+ "instrument": "DE-ki-mig-2026",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "334dd85a57f3d03dea75c9a3322c465f72df6ab7825a6fcf21b4e9af2534ffde",
+ "sha256_v1": "",
+ "sha256_v2": "334dd85a57f3d03dea75c9a3322c465f72df6ab7825a6fcf21b4e9af2534ffde",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "DE",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "334dd85a57f3d03dea75c9a3322c465f72df6ab7825a6fcf21b4e9af2534ffde",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "DE-ki-mig-2026:6/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=DE-ki-mig-2026:6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

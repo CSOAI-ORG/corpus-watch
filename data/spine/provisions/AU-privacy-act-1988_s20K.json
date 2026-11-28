@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s20K",
+ "label": "AU-privacy-act-1988 Section 20K",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a2f8254a2a78288b43c9b0c1c5c00e6a245c29bbd5be355f81a5a3edf83c00b6",
+ "sha256_v1": "",
+ "sha256_v2": "a2f8254a2a78288b43c9b0c1c5c00e6a245c29bbd5be355f81a5a3edf83c00b6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "a2f8254a2a78288b43c9b0c1c5c00e6a245c29bbd5be355f81a5a3edf83c00b6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s20K/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\ta credit reporting body holds credit reporting information about an individual; and\n(b)\tthe individual believes on reasonable grounds that the individual has been, or is likely to be, a victim of fraud (including identity fraud); and\n(c)\tthe individual requests the body not to use or disclose the information under this Division;\nthen, despite any other provision of this Division, the body must not use or disclose the information during the ban period for the information."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s20K/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\tthere is a ban period for credit reporting information about an individual that is held by a credit reporting body; and\n(b)\tbefore the ban period ends, the individual requests the body to extend that period; and\n(c)\tthe body believes on reasonable grounds that the individual has been, or is likely to be, a victim of fraud (including identity fraud);\nthe body must:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s20K/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\tIf an individual makes a request under paragraph (1)(c) or (4)(b), a credit reporting body must not charge the individual for the making of the request or to give effect to the request."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s20K",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

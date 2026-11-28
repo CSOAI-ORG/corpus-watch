@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-genai-interim-measures-2023:12",
+ "label": "CN-genai-interim-measures-2023 第十二条",
+ "instrument": "CN-genai-interim-measures-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "fcebc0c079dc55e7a2d0fcc0aeef8a61b76e42c8246db5487155988191448ed1",
+ "sha256_v1": "",
+ "sha256_v2": "fcebc0c079dc55e7a2d0fcc0aeef8a61b76e42c8246db5487155988191448ed1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "fcebc0c079dc55e7a2d0fcc0aeef8a61b76e42c8246db5487155988191448ed1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-genai-interim-measures-2023:12/s1",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "zh:public-trace",
+   "status": "DRAFT",
+   "text": "第十二条 提供者应当按照《互联网信息服务深度合成管理规定》对图片、视频等生成内容进行标识。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-genai-interim-measures-2023:12",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

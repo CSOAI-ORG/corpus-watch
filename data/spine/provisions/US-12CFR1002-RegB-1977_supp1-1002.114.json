@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-12CFR1002-RegB-1977:supp1-1002.114",
+ "label": "US-12CFR1002-RegB-1977 Supplement I, Section 1002.114—Effective Date, Compliance Date, and Special Transition Rules",
+ "instrument": "US-12CFR1002-RegB-1977",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "66ab86a93c816fa8e1f6231b02c69a84879e0ced375f6166dab459d082b587dd",
+ "sha256_v1": "",
+ "sha256_v2": "66ab86a93c816fa8e1f6231b02c69a84879e0ced375f6166dab459d082b587dd",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "66ab86a93c816fa8e1f6231b02c69a84879e0ced375f6166dab459d082b587dd",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.114/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "The compliance date in § 1002.114(b) is the date by which the covered financial institution must begin to compile data as specified in § 1002.107, comply with the firewall requirements of § 1002.108, and begin to maintain records as specified in § 1002.111."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.114/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In addition, the covered financial institution must comply with § 1002.110(c) and (d) no later than June 1 of the year after the compliance date. 2. [Reserved] 3. [Reserved]"
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.114/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Because Financial Institution F originated at least 1,000 covered credit transactions for small businesses in each of 2027 and 2028, it is a covered financial institution under § 1002.105(b) and is required to comply with the rule beginning January 1, 2029. 114(c) Special Transition Rules"
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.114/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In addition, even if precise or approximate information on gross annual revenue was initially collected, a financial institution does not have readily accessible this information if, to retrieve this information, for example, it must review paper loan files, recall such information from either archived paper records or scanned records in digital archives, or obtain such information from third parties that initially obtained this information but did not transmit such information to the financial institution."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-12CFR1002-RegB-1977:supp1-1002.114",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

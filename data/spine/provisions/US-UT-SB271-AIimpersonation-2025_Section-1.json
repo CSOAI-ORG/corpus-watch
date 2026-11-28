@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-UT-SB271-AIimpersonation-2025:Section-1",
+ "label": "US-UT-SB271-AIimpersonation-2025 Section 1",
+ "instrument": "US-UT-SB271-AIimpersonation-2025",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "e19e8e3ecbdd01ef5e9d5224b6a3197aae02cb610c78d74c8378811064db4f66",
+ "sha256_v1": "",
+ "sha256_v2": "e19e8e3ecbdd01ef5e9d5224b6a3197aae02cb610c78d74c8378811064db4f66",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "e19e8e3ecbdd01ef5e9d5224b6a3197aae02cb610c78d74c8378811064db4f66",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-UT-SB271-AIimpersonation-2025:Section-1/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-UT-SB271-AIimpersonation-2025:Section-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

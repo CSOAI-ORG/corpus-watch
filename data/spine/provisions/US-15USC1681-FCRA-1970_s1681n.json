@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-15USC1681-FCRA-1970:s1681n",
+ "label": "US-15USC1681-FCRA-1970 15 U.S.C. 1681n",
+ "instrument": "US-15USC1681-FCRA-1970",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9e9443be3050f7f373247b37df76081a5d2f7a1c040cea1d937edb7749f97d40",
+ "sha256_v1": "",
+ "sha256_v2": "9e9443be3050f7f373247b37df76081a5d2f7a1c040cea1d937edb7749f97d40",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "9e9443be3050f7f373247b37df76081a5d2f7a1c040cea1d937edb7749f97d40",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-15USC1681-FCRA-1970:s1681n/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) Civil liability for knowing noncompliance\nAny person who obtains a consumer report from a consumer reporting agency under false pretenses or knowingly without a permissible purpose shall be liable to the consumer reporting agency for actual damages sustained by the consumer reporting agency or $1,000, whichever is greater."
+  },
+  {
+   "obligation_id": "US-15USC1681-FCRA-1970:s1681n/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) Attorney's fees\nUpon a finding by the court that an unsuccessful pleading, motion, or other paper filed in connection with an action under this section was filed in bad faith or for purposes of harassment, the court shall award to the prevailing party attorney's fees reasonable in relation to the work expended in responding to the pleading, motion, or other paper."
+  },
+  {
+   "obligation_id": "US-15USC1681-FCRA-1970:s1681n/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d) Clarification of willful noncompliance\nFor the purposes of this section, any person who printed an expiration date on any receipt provided to a consumer cardholder at a point of sale or transaction between December 4, 2004, and June 3, 2008, but otherwise complied with the requirements of section 1681c(g) of this title for such receipt shall not be in willful noncompliance with section 1681c(g) of this title by reason of printing such expiration date on the receipt."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-15USC1681-FCRA-1970:s1681n",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

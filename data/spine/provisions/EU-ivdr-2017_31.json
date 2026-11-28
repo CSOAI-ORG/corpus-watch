@@ -1,0 +1,126 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:31",
+ "label": "EU-ivdr-2017 Article 31",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "ab0e585bbfebebe2b244183e4727402ad330cdcb7aa04eaf5b7b51139bc95ad2",
+ "sha256_v1": "",
+ "sha256_v2": "ab0e585bbfebebe2b244183e4727402ad330cdcb7aa04eaf5b7b51139bc95ad2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ab0e585bbfebebe2b244183e4727402ad330cdcb7aa04eaf5b7b51139bc95ad2",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:31/p1/s1",
+   "paragraph": "1",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Any Member State that intends to designate a conformity assessment body as a notified body, or has designated a notified body, to carry out conformity assessment activities under this Regulation shall appoint an authority (the ‘authority responsible for notified bodies’), which may consist of separate constituent entities under national law and shall be responsible for setting up and carrying out the necessary procedures for the assessment, designation and notification of conformity assessment bodies and for the monitoring of notified bodies, including subcontractors and subsidiaries of those bodies."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:31/p2/s1",
+   "paragraph": "2",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "The authority responsible for notified bodies shall be established, organised and operated so as to safeguard the objectivity and impartiality of its activities and to avoid any conflicts of interests with conformity assessment bodies."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:31/p3/s1",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The authority responsible for notified bodies shall be organised in a manner such that each decision relating to designation or notification is taken by personnel different from those who carried out the assessment."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:31/p4/s1",
+   "paragraph": "4",
+   "addressee": "notified_body",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The authority responsible for notified bodies shall not perform any activities that notified bodies perform on a commercial or competitive basis."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:31/p5/s1",
+   "paragraph": "5",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The authority responsible for notified bodies shall safeguard the confidential aspects of the information it obtains."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:31/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, it shall exchange information on notified bodies with other Member States, the Commission and, when required, with other regulatory authorities."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:31/p6/s1",
+   "paragraph": "6",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The authority responsible for notified bodies shall have a sufficient number of competent personnel permanently available for the proper performance of its tasks."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:31/p6/s2",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the authority responsible for notified bodies is a different authority from the national competent authority for in vitro diagnostic medical devices, it shall ensure that the national authority responsible for in vitro diagnostic medical devices is consulted on relevant matters."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:31/p7/s1",
+   "paragraph": "7",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall make publicly available general information on their measures governing the assessment, designation and notification of conformity assessment bodies and for the monitoring of notified bodies, and on changes which have a significant impact on such tasks."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:31/p8/s1",
+   "paragraph": "8",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The authority responsible for notified bodies shall participate in peer-review activities provided for in Article 44."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:31",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

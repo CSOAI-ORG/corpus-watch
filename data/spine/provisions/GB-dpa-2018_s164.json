@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s164",
+ "label": "GB-dpa-2018 Section 164",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "813099062f5ef9be2c8a18844e0136527a8291fc40fdaf27c4fdc61f9d824e1f",
+ "sha256_v1": "",
+ "sha256_v2": "813099062f5ef9be2c8a18844e0136527a8291fc40fdaf27c4fdc61f9d824e1f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "813099062f5ef9be2c8a18844e0136527a8291fc40fdaf27c4fdc61f9d824e1f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s164/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)\na change to the time at which, or the period within which, a requirement of the notice must be complied with."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s164/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)\nvary the notice by changing the time at which, or the period within which, a requirement of the notice must be complied with;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s164",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

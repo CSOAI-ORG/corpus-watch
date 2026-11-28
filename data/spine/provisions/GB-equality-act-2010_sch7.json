@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-equality-act-2010:sch7",
+ "label": "GB-equality-act-2010 Schedule 7",
+ "instrument": "GB-equality-act-2010",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "bbd83a730f29a38b6dcf890e5c9083f0f47b2a51934bdff5a516617a314baf1d",
+ "sha256_v1": "",
+ "sha256_v2": "bbd83a730f29a38b6dcf890e5c9083f0f47b2a51934bdff5a516617a314baf1d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "bbd83a730f29a38b6dcf890e5c9083f0f47b2a51934bdff5a516617a314baf1d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-equality-act-2010:sch7/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-equality-act-2010:sch7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

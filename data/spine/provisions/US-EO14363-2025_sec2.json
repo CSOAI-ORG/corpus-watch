@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14363-2025:sec2",
+ "label": "US-EO14363-2025 Section 2",
+ "instrument": "US-EO14363-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "bdf023e3287bf67e447d6de337ba5c1abb4158bf9dcae82f812eac198880378c",
+ "sha256_v1": "",
+ "sha256_v2": "bdf023e3287bf67e447d6de337ba5c1abb4158bf9dcae82f812eac198880378c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "bdf023e3287bf67e447d6de337ba5c1abb4158bf9dcae82f812eac198880378c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14363-2025:sec2/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) The Secretary of Energy (Secretary) shall be responsible for implementing the Mission within DOE, consistent with the provisions of this order, including, as appropriate and authorized by law, setting priorities and ensuring that all DOE resources used for elements of the Mission are integrated into a secure, unified platform."
+  },
+  {
+   "obligation_id": "US-EO14363-2025:sec2/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) The Assistant to the President for Science and Technology (APST) shall provide general leadership of the Mission, including coordination of participating executive departments and agencies (agencies) through the National Science and Technology Council (NSTC) and the issuance of guidance to ensure that the Mission is aligned with national objectives."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14363-2025:sec2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

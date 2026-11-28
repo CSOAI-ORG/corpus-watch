@@ -1,0 +1,146 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-c2pa-spec-2026:section-1",
+ "label": "INTL-c2pa-spec-2026 Section 1",
+ "instrument": "INTL-c2pa-spec-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "726dba4a95baa033565ce6879d410ff0d389c932e268ad94506263c1e0fc8538",
+ "sha256_v1": "",
+ "sha256_v2": "726dba4a95baa033565ce6879d410ff0d389c932e268ad94506263c1e0fc8538",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "726dba4a95baa033565ce6879d410ff0d389c932e268ad94506263c1e0fc8538",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Must Read to Implement a Claim Generator\nTechnical Overview\nRead:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-1/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When embedding a C2PA Manifest into an asset, the Claim Generator must place or reference the C2PA Manifest correctly for each asset format."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-1/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Must Read Only If the Claim Generator Includes Live Media Assets\nLive Media\nRead:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-1/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Must Read Only If the Claim Generator Supports Ingredients\nValidation\nRead:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-1/p1/s5",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Claim Generators that support ingredients must implement full validator behavior, since ingredients must be validated at the time of ingestion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-1/p1/s6",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Must Read to Implement Validation\nTechnical Overview\nRead:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-1/p1/s7",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Must Read Only If Displaying Validation Results to End Users\nUser Experience\nRead:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-1/p1/s8",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Must Read Only If Validating Live Media Assets\nLive Media\nRead:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-1/p1/s9",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Must Read to Review C2PA Security\nDesign Goals\nRead:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-1/p1/s10",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The standard assertion catalogue defines the information that an implementation of the C2PA specification are required to emit & validate, as well as rules for the creation of custom assertions."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-1/p1/s11",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Must Read Only If Reviewing User-Facing Trust Signals\nUser Experience\nRead:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-1/p1/s12",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Must Read Only If Reviewing Live Media Workflows\nLive Media\nRead:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-c2pa-spec-2026:section-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

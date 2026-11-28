@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB1119-2026:SEC-2:21811.",
+ "label": "US-CA-SB1119-2026 SEC. 2. / 21811.",
+ "instrument": "US-CA-SB1119-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "cad5775d4bc7981682c905f4f01ec729bb5b8391d69aa0d511eb2d7bd19cfc79",
+ "sha256_v1": "",
+ "sha256_v2": "cad5775d4bc7981682c905f4f01ec729bb5b8391d69aa0d511eb2d7bd19cfc79",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "cad5775d4bc7981682c905f4f01ec729bb5b8391d69aa0d511eb2d7bd19cfc79",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21811./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An operator shall do either of the following:"
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21811./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)If an operator is unable to determine the age of the user pursuant to paragraph (1), the operator shall instead rely on the age determination with respect to the user made pursuant to subparagraph (B) of paragraph (1) of subdivision (a) of Section 27001 of the Health and Safety Code."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21811./p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)Apply the protections afforded to children under subdivision (d) of Section 21812 and Section 21813 to all users, except that the parental default settings described in paragraph (3) of subdivision (d) of Section 21812 shall not be changed unless the operator has actual knowledge the user is not a child."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB1119-2026:SEC-2:21811.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

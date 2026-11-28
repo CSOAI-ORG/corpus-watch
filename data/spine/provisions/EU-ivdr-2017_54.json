@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:54",
+ "label": "EU-ivdr-2017 Article 54",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "96b100e3c7bc61c8c4af9ac8c40aa2849b3ea2c92ba0d5b950c3ef9298495735",
+ "sha256_v1": "",
+ "sha256_v2": "96b100e3c7bc61c8c4af9ac8c40aa2849b3ea2c92ba0d5b950c3ef9298495735",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "96b100e3c7bc61c8c4af9ac8c40aa2849b3ea2c92ba0d5b950c3ef9298495735",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:54/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Member State shall inform the Commission and the other Member States of any decision to authorise the placing on the market or putting into service of a device in accordance with paragraph 1 where such authorisation is granted for use other than for a single patient."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:54/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(3)."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:54/p3/s2",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "On duly justified imperative grounds of urgency relating to the health and safety of humans, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article 107(4)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:54",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

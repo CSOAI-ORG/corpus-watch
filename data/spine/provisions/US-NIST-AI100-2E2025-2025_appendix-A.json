@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-NIST-AI100-2E2025-2025:appendix-A",
+ "label": "US-NIST-AI100-2E2025-2025 appendix-A",
+ "instrument": "US-NIST-AI100-2E2025-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3f6939af2f5b2f4ee2670387d88df7eb4631920ab9dae45799a274e42209a2e6",
+ "sha256_v1": "",
+ "sha256_v2": "3f6939af2f5b2f4ee2670387d88df7eb4631920ab9dae45799a274e42209a2e6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 57,
+ "sha256_current": "3f6939af2f5b2f4ee2670387d88df7eb4631920ab9dae45799a274e42209a2e6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-NIST-AI100-2E2025-2025:appendix-A/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For Trojan attacks to be effective, the trigger must be rare in the normal\noperating environment so that it does not affect the normal effectiveness of the\nAI and raise the suspicions of users."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-NIST-AI100-2E2025-2025:appendix-A",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

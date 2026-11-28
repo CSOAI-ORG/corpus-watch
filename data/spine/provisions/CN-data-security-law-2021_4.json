@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-data-security-law-2021:4",
+ "label": "CN-data-security-law-2021 第四条",
+ "instrument": "CN-data-security-law-2021",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "78a3c157432b78285c48a41861bbf1ed2fc21333f41a17bcc0610a39bfe75168",
+ "sha256_v1": "",
+ "sha256_v2": "78a3c157432b78285c48a41861bbf1ed2fc21333f41a17bcc0610a39bfe75168",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "78a3c157432b78285c48a41861bbf1ed2fc21333f41a17bcc0610a39bfe75168",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-data-security-law-2021:4/s1",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "第四条　维护数据安全，应当坚持总体国家安全观，建立健全数据安全治理体系，提高数据安全保障能力。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-data-security-law-2021:4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

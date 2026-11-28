@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-12CFR1002-RegB-1977:1002.4",
+ "label": "US-12CFR1002-RegB-1977 12 CFR 1002.4",
+ "instrument": "US-12CFR1002-RegB-1977",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "1c5ada55cfa4606bbfb7eb9949ff0900078a9cbc52dca11860d0b0e87672ed03",
+ "sha256_v1": "",
+ "sha256_v2": "1c5ada55cfa4606bbfb7eb9949ff0900078a9cbc52dca11860d0b0e87672ed03",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "1c5ada55cfa4606bbfb7eb9949ff0900078a9cbc52dca11860d0b0e87672ed03",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.4/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A creditor shall not discriminate against an applicant on a prohibited basis regarding any aspect of a credit transaction."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.4/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A creditor shall not make any oral or written statement, in advertising or otherwise, directed at applicants or prospective applicants that the creditor knows or should know would cause a reasonable person to believe that the creditor would deny, or would grant on less favorable terms, a credit application by the applicant or prospective applicant because of the applicant or prospective applicant's prohibited basis characteristic(s)."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.4/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A creditor shall take written applications for the dwelling-related types of credit covered by § 1002.13(a)."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.4/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A creditor that provides in writing any disclosures or information required by this part must provide the disclosures in a clear and conspicuous manner and, except for the disclosures required by §§ 1002.5 and 1002.13, in a form the applicant may retain."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.4/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The disclosures required by this part that are required to be given in writing may be provided to the applicant in electronic form, subject to compliance with the consumer consent and other applicable provisions of the Electronic Signatures in Global and National Commerce Act (E-Sign Act) (15 U.S.C. 7001 et seq. )."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-12CFR1002-RegB-1977:1002.4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

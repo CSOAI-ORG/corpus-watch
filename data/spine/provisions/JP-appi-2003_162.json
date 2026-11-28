@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:162",
+ "label": "JP-appi-2003 Article 162",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "056fe426905e9cb17aaba38dfa3aadf58cecb574c344e18a6001a30866902bbc",
+ "sha256_v1": "",
+ "sha256_v2": "056fe426905e9cb17aaba38dfa3aadf58cecb574c344e18a6001a30866902bbc",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "056fe426905e9cb17aaba38dfa3aadf58cecb574c344e18a6001a30866902bbc",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:162/s3",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "この場合において、同項中「裁判所」とあり、及び同条中「裁判長」とあるのは「個人情報保護委員会」と、同法第百一条第一項中「執行官」とあるのは「個人情報保護委員会の職員」と読み替えるものとする。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:162",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

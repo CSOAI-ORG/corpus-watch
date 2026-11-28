@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB2655-2024:SEC-3:20514.",
+ "label": "US-CA-AB2655-2024 SEC. 3. / 20514.",
+ "instrument": "US-CA-AB2655-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "4e43d0882347cd172894ecb0cdaf82d1c6d0bdd92edec4f29beeafc9ecc4fb69",
+ "sha256_v1": "",
+ "sha256_v2": "4e43d0882347cd172894ecb0cdaf82d1c6d0bdd92edec4f29beeafc9ecc4fb69",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "4e43d0882347cd172894ecb0cdaf82d1c6d0bdd92edec4f29beeafc9ecc4fb69",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB2655-2024:SEC-3:20514./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "(a)Any large online platform shall develop and implement procedures for the use of state-of-the-art techniques to identify materially deceptive content and for labeling such content as provided in subdivision (c) if all of the following conditions are met:"
+  },
+  {
+   "obligation_id": "US-CA-AB2655-2024:SEC-3:20514./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)If a post is determined to meet the requirements for labeling pursuant to subdivision (a), any large online platform shall label the post upon that determination, but no later than 72 hours after a report is made pursuant to subdivision (a) of Section 20515 in order to be in compliance with this chapter."
+  },
+  {
+   "obligation_id": "US-CA-AB2655-2024:SEC-3:20514./p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)The label required by subdivision (a) shall state: “This _____ has been manipulated and is not authentic.” The blank in this disclosure shall be filled in with whichever of the following terms most accurately describes the media:"
+  },
+  {
+   "obligation_id": "US-CA-AB2655-2024:SEC-3:20514./p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d)The label required by subdivision (a) shall permit users to click or tap on it for additional explanation about the materially deceptive content in an easy-to-understand format."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB2655-2024:SEC-3:20514.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:33",
+ "label": "EU-ccd2-2023 Article 33",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "697163e3ca45212001713c675e87fb8e20ebd1695833304a65827b3ee8a559cd",
+ "sha256_v1": "",
+ "sha256_v2": "697163e3ca45212001713c675e87fb8e20ebd1695833304a65827b3ee8a559cd",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "697163e3ca45212001713c675e87fb8e20ebd1695833304a65827b3ee8a559cd",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:33/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that creditors and credit intermediaries require their staff to possess and keep up-to-date an appropriate level of knowledge and competence in relation to the manufacturing, the offering and the granting of credit agreements, the carrying out of credit intermediation activities and the provision of advisory services, as well as in relation to consumer rights in the area of their trade."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:33/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the conclusion of a credit agreement includes ancillary services, appropriate knowledge and competence in relation to those ancillary services shall be required."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:33/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall establish minimum knowledge and competence requirements for the staff of creditors and of credit intermediaries."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:33/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that compliance with the requirements set out in paragraph 1 is supervised by the competent authorities, and that the competent authorities have powers to require creditors and credit intermediaries to provide the evidence that the competent authority deems necessary to enable such supervision."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:33",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-AIActionPlan-2025:PI-01",
+ "label": "US-AIActionPlan-2025 Remove Red Tape and Onerous Regulation",
+ "instrument": "US-AIActionPlan-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "06ebce686a70e97b513731a980a7224245679a4014574b493ec10e6a4ccf4d67",
+ "sha256_v1": "",
+ "sha256_v2": "06ebce686a70e97b513731a980a7224245679a4014574b493ec10e6a4ccf4d67",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 9,
+ "sha256_current": "06ebce686a70e97b513731a980a7224245679a4014574b493ec10e6a4ccf4d67",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-AIActionPlan-2025:PI-01/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Remove Red Tape and Onerous Regulation To maintain global leadership in AI, America’s private sector must be unencumbered by bureaucratic red tape."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-AIActionPlan-2025:PI-01",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

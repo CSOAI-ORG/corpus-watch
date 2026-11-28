@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CO-SB24-205-AIAct-2024:SECTION-1:CRS-6-1-1702",
+ "label": "US-CO-SB24-205-AIAct-2024 C.R.S. 6-1-1702",
+ "instrument": "US-CO-SB24-205-AIAct-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "a6b05caabc62a0b5d878f8b9f6fb2b2289e29f888f11c862ab874bc12ac7386a",
+ "sha256_v1": "",
+ "sha256_v2": "a6b05caabc62a0b5d878f8b9f6fb2b2289e29f888f11c862ab874bc12ac7386a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 64,
+ "sha256_current": "a6b05caabc62a0b5d878f8b9f6fb2b2289e29f888f11c862ab874bc12ac7386a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CO-SB24-205-AIAct-2024:SECTION-1:CRS-6-1-1702/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1) ON AND AFTER FEBRUARY 1, 2026, A DEVELOPER OF A HIGH-RISK ARTIFICIAL INTELLIGENCE SYSTEM SHALL USE REASONABLE CARE TO PROTECT CONSUMERS FROM ANY KNOWN OR REASONABLY FORESEEABLE RISKS OF ALGORITHMIC DISCRIMINATION ARISING FROM THE INTENDED AND CONTRACTED USES OF THE HIGH-RISK ARTIFICIAL INTELLIGENCE SYSTEM."
+  },
+  {
+   "obligation_id": "US-CO-SB24-205-AIAct-2024:SECTION-1:CRS-6-1-1702/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2) ON AND AFTER FEBRUARY 1, 2026, AND EXCEPT AS PROVIDED IN SUBSECTION (6) OF THIS SECTION, A DEVELOPER OF A HIGH-RISK ARTIFICIAL INTELLIGENCE SYSTEM SHALL MAKE AVAILABLE TO THE DEPLOYER OR OTHER DEVELOPER OF THE HIGH-RISK ARTIFICIAL INTELLIGENCE SYSTEM:"
+  },
+  {
+   "obligation_id": "US-CO-SB24-205-AIAct-2024:SECTION-1:CRS-6-1-1702/p0/s3",
+   "paragraph": "0",
+   "addressee": "deployer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "(3) (a) EXCEPT AS PROVIDED IN SUBSECTION (6) OF THIS SECTION, A DEVELOPER THAT OFFERS, SELLS, LEASES, LICENSES, GIVES, OR OTHERWISE MAKES AVAILABLE TO A DEPLOYER OR OTHER DEVELOPER A HIGH-RISK ARTIFICIAL INTELLIGENCE SYSTEM ON OR AFTER FEBRUARY 1, 2026, SHALL MAKE AVAILABLE TO THE DEPLOYER OR OTHER DEVELOPER, TO THE EXTENT FEASIBLE, THE DOCUMENTATION AND INFORMATION, THROUGH ARTIFACTS SUCH AS MODEL CARDS, DATASET CARDS, OR OTHER IMPACT ASSESSMENTS, NECESSARY FOR A DEPLOYER, OR FOR A THIRD PARTY CONTRACTED BY A DEPLOYER, TO COMPLETE AN IMPACT ASSESSMENT PURSUANT TO SECTION 6-1-1703 (3)."
+  },
+  {
+   "obligation_id": "US-CO-SB24-205-AIAct-2024:SECTION-1:CRS-6-1-1702/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4) (a) ON AND AFTER FEBRUARY 1, 2026, A DEVELOPER SHALL MAKE AVAILABLE, IN A MANNER THAT IS CLEAR AND READILY AVAILABLE ON THE DEVELOPER'S WEBSITE OR IN A PUBLIC USE CASE INVENTORY, A STATEMENT SUMMARIZING:"
+  },
+  {
+   "obligation_id": "US-CO-SB24-205-AIAct-2024:SECTION-1:CRS-6-1-1702/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) A DEVELOPER SHALL UPDATE THE STATEMENT DESCRIBED IN SUBSECTION (4)(a) OF THIS SECTION:"
+  },
+  {
+   "obligation_id": "US-CO-SB24-205-AIAct-2024:SECTION-1:CRS-6-1-1702/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5) ON AND AFTER FEBRUARY 1, 2026, A DEVELOPER OF A HIGH-RISK ARTIFICIAL INTELLIGENCE SYSTEM SHALL DISCLOSE TO THE ATTORNEY GENERAL, IN A FORM AND MANNER PRESCRIBED BY THE ATTORNEY GENERAL, AND TO ALL KNOWN DEPLOYERS OR OTHER DEVELOPERS OF THE HIGH-RISK ARTIFICIAL INTELLIGENCE SYSTEM, ANY KNOWN OR REASONABLY FORESEEABLE RISKS OF ALGORITHMIC DISCRIMINATION ARISING FROM THE INTENDED USES OF THE HIGH-RISK ARTIFICIAL INTELLIGENCE SYSTEM WITHOUT UNREASONABLE DELAY BUT NO LATER THAN NINETY DAYS AFTER THE DATE ON WHICH:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CO-SB24-205-AIAct-2024:SECTION-1:CRS-6-1-1702",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

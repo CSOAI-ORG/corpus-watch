@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s52",
+ "label": "GB-osa-2023 Section 52",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "ca0c037503fdede894e782679b407e2985d05b89a3c3fd670306f626bc0a1100",
+ "sha256_v1": "",
+ "sha256_v2": "ca0c037503fdede894e782679b407e2985d05b89a3c3fd670306f626bc0a1100",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ca0c037503fdede894e782679b407e2985d05b89a3c3fd670306f626bc0a1100",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s52/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "OFCOM’s guidance about certain duties in Part 3\n(1)\nOFCOM must produce guidance for providers of Category 1 services to assist them in complying with their duties set out in section 14 (assessments related to the adult user empowerment duty set out in section 15(2))."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s52/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nOFCOM must produce guidance for providers of Category 1 services to assist them in complying with their duties set out in section 18 (news publisher content)."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s52/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nOFCOM must produce guidance for providers of Part 3 services to assist them in complying with—\n(a)\ntheir duties set out in section 23 or 34, except the duty set out in section 23(10) or 34(9) (record-keeping and review), and\n(b)\ntheir duties set out in section 36 (children’s access assessments)."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s52/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nBefore producing guidance under subsection (1) or (3) (including revised or replacement guidance), OFCOM must consult the Information Commission."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s52/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(5)\nOFCOM must publish guidance under this section (and any revised or replacement guidance)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s52",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

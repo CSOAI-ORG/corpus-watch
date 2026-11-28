@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:86",
+ "label": "JP-appi-2003 Article 86",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "db522eed5cd93c37d425c40962756d0631cb0ead6bfb6763044e90e66ded6c2b",
+ "sha256_v1": "",
+ "sha256_v2": "db522eed5cd93c37d425c40962756d0631cb0ead6bfb6763044e90e66ded6c2b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "db522eed5cd93c37d425c40962756d0631cb0ead6bfb6763044e90e66ded6c2b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:86/s4",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "２ 行政機関の長等は、次の各号のいずれかに該当するときは、開示決定に先立ち、当該第三者に対し、政令で定めるところにより、開示請求に係る当該第三者に関する情報の内容その他政令で定める事項を書面により通知して、意見書を提出する機会を与えなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:86/s8",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "３ 行政機関の長等は、前二項の規定により意見書の提出の機会を与えられた第三者が当該第三者に関する情報の開示に反対の意思を表示した意見書を提出した場合において、開示決定をするときは、開示決定の日と開示を実施する日との間に少なくとも二週間を置かなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:86/s10",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "ja:public-trace",
+   "status": "DRAFT",
+   "text": "）を提出した第三者に対し、開示決定をした旨及びその理由並びに開示を実施する日を書面により通知しなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:86",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

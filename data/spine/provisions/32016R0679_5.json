@@ -1,0 +1,68 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:5",
+ "label": "GDPR Art. 5",
+ "instrument": "GDPR",
+ "ladder": "CROSSWALK_ONLY",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9146bf1f7d211d46812204137b3715f1f295f3d6b7ece3ecd1774e1fb6cf4d60",
+ "sha256_v1": "9146bf1f7d211d46812204137b3715f1f295f3d6b7ece3ecd1774e1fb6cf4d60",
+ "sha256_v2": "80b60e71bdfb8e6a487a4985275832cd3195dd595885a674f78b3b4bcbca3420",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "80b60e71bdfb8e6a487a4985275832cd3195dd595885a674f78b3b4bcbca3420",
+ "agent_register_kinds": [
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:5/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Personal data shall be:"
+  },
+  {
+   "obligation_id": "32016R0679:5/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes; further processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes shall, in accordance with Article 89(1), not be considered to be incompatible with the initial purposes (‘purpose limitation’);"
+  },
+  {
+   "obligation_id": "32016R0679:5/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d) accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that personal data that are inaccurate, having regard to the purposes for which they are processed, are erased or rectified without delay (‘accuracy’);"
+  },
+  {
+   "obligation_id": "32016R0679:5/p2/s1",
+   "paragraph": "2",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller shall be responsible for, and be able to demonstrate compliance with, paragraph 1 (‘accountability’)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

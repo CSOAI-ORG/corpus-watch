@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:55",
+ "label": "EU-mdr-2017 Article 55",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "46707b6b51b40905c514cd4cd5717a969315c7f8797fdb50ad9eeeffe2030b70",
+ "sha256_v1": "",
+ "sha256_v2": "46707b6b51b40905c514cd4cd5717a969315c7f8797fdb50ad9eeeffe2030b70",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "46707b6b51b40905c514cd4cd5717a969315c7f8797fdb50ad9eeeffe2030b70",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:55/p1/s1",
+   "paragraph": "1",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "A notified body shall notify the competent authorities of certificates it has granted to devices for which the conformity assessment has been performed pursuant to Article 54(1)."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:55/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such notification shall take place through the electronic system referred to in Article 57 and shall include the summary of safety and clinical performance pursuant to Article 32, the assessment report by the notified body, the instructions for use referred to in Section 23.4 of Annex I, and, where applicable, the scientific opinion of the expert panels referred to in Section 5.1 of Annex IX or Section 6 of Annex X, as applicable."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:55/p1/s3",
+   "paragraph": "1",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the case of divergent views between the notified body and the expert panels, a full justification shall also be included."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:55",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

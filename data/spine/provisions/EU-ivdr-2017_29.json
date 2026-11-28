@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:29",
+ "label": "EU-ivdr-2017 Article 29",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "703e428dd668b3ccd76c3a5a87d76f92a3d5bd8f95a3357f148b90c975a3c69d",
+ "sha256_v1": "",
+ "sha256_v2": "703e428dd668b3ccd76c3a5a87d76f92a3d5bd8f95a3357f148b90c975a3c69d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "703e428dd668b3ccd76c3a5a87d76f92a3d5bd8f95a3357f148b90c975a3c69d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:29/p1/s1",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For class C and D devices, other than devices for performance studies, the manufacturer shall draw up a summary of safety and performance."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:29/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "The summary of safety and performance shall be written in a way that is clear to the intended user and, if relevant, to the patient and shall be made available to the public via Eudamed."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:29/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "The draft of the summary of safety and performance shall be part of the documentation to be submitted to the notified body involved in the conformity assessment pursuant to Article 48 and shall be validated by that body."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:29/p1/s4",
+   "paragraph": "1",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "After its validation, the notified body shall upload the summary to Eudamed."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:29/p1/s5",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The manufacturer shall mention on the label or instructions for use where the summary is available."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:29/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The summary of safety and performance shall include at least the following aspects:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:29/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 107(2)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:29",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

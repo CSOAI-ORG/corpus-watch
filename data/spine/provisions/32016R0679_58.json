@@ -1,0 +1,98 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:58",
+ "label": "GDPR Art. 58",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f87050c005ebd7c8946119ee8f0c9987f2777875234c60c70c96e2571579299a",
+ "sha256_v1": "f87050c005ebd7c8946119ee8f0c9987f2777875234c60c70c96e2571579299a",
+ "sha256_v2": "e9d05bd7907499808d8f600ba1d55b275bd643768a3f0e88240dd3a73db458f8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "e9d05bd7907499808d8f600ba1d55b275bd643768a3f0e88240dd3a73db458f8",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:58/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Each supervisory authority shall have all of the following investigative powers:"
+  },
+  {
+   "obligation_id": "32016R0679:58/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Each supervisory authority shall have all of the following corrective powers:"
+  },
+  {
+   "obligation_id": "32016R0679:58/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Each supervisory authority shall have all of the following authorisation and advisory powers:"
+  },
+  {
+   "obligation_id": "32016R0679:58/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The exercise of the powers conferred on the supervisory authority pursuant to this Article shall be subject to appropriate safeguards, including effective judicial remedy and due process, set out in Union and Member State law in accordance with the Charter."
+  },
+  {
+   "obligation_id": "32016R0679:58/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Each Member State shall provide by law that its supervisory authority shall have the power to bring infringements of this Regulation to the attention of the judicial authorities and where appropriate, to commence or engage otherwise in legal proceedings, in order to enforce the provisions of this Regulation."
+  },
+  {
+   "obligation_id": "32016R0679:58/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Each Member State may provide by law that its supervisory authority shall have additional powers to those referred to in paragraphs 1, 2 and"
+  },
+  {
+   "obligation_id": "32016R0679:58/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The exercise of those powers shall not impair the effective operation of Chapter VII."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:58",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

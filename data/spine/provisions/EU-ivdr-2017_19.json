@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:19",
+ "label": "EU-ivdr-2017 Article 19",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "4b3b181dfceafae5bf0289087a1ec351a19281d51d6881ef74453fc31080b154",
+ "sha256_v1": "",
+ "sha256_v2": "4b3b181dfceafae5bf0289087a1ec351a19281d51d6881ef74453fc31080b154",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "4b3b181dfceafae5bf0289087a1ec351a19281d51d6881ef74453fc31080b154",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:19/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall not create obstacles to devices for performance study being supplied for that purpose to laboratories or other institutions, if they meet the conditions laid down in Articles 57 to 76, and in the implementing acts adopted pursuant to Article 77."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:19/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The devices referred to in paragraph 1 shall not bear the CE marking, with the exception of the devices referred to in Article 70."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:19/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "At trade fairs, exhibitions, demonstrations or similar events, Member States shall not create obstacles to the showing of devices which do not comply with this Regulation, provided that a visible sign clearly indicates that such devices are intended for presentation or demonstration purposes only and cannot be made available until they have been brought into compliance with this Regulation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:19",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB2905-2024:SEC-1",
+ "label": "US-CA-AB2905-2024 SECTION 1.",
+ "instrument": "US-CA-AB2905-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "911ab6f9eeac120e87cab0785452665923352ec27802caa13b4e8d569d75d8f1",
+ "sha256_v1": "",
+ "sha256_v2": "911ab6f9eeac120e87cab0785452665923352ec27802caa13b4e8d569d75d8f1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "911ab6f9eeac120e87cab0785452665923352ec27802caa13b4e8d569d75d8f1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB2905-2024:SEC-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The announcement shall do all of the following:"
+  },
+  {
+   "obligation_id": "US-CA-AB2905-2024:SEC-1/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)The person calling, as described in subdivision (a), shall disconnect the automatic dialing-announcing device from the telephone line upon the termination of the call by either the person calling or the person called."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB2905-2024:SEC-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CO-SB25-288-intimatedeepfake-2025:SECTION-3:CRS-24-4.1-117",
+ "label": "US-CO-SB25-288-intimatedeepfake-2025 C.R.S. 24-4.1-117",
+ "instrument": "US-CO-SB25-288-intimatedeepfake-2025",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "a5fd8c9a27aa9d44da165d6c17f8c8c8cd44b655ef781ae71d21a524d6e928be",
+ "sha256_v1": "",
+ "sha256_v2": "a5fd8c9a27aa9d44da165d6c17f8c8c8cd44b655ef781ae71d21a524d6e928be",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "a5fd8c9a27aa9d44da165d6c17f8c8c8cd44b655ef781ae71d21a524d6e928be",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CO-SB25-288-intimatedeepfake-2025:SECTION-3:CRS-24-4.1-117/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CO-SB25-288-intimatedeepfake-2025:SECTION-3:CRS-24-4.1-117",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

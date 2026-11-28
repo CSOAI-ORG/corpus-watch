@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-TX-HB149-TRAIGA-2025:Sec-552.104",
+ "label": "US-TX-HB149-TRAIGA-2025 Sec. 552.104",
+ "instrument": "US-TX-HB149-TRAIGA-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "35991ea6a0ac44ad6500ed13edc030f19b5245dfab861faa78b4b164dd27fe67",
+ "sha256_v1": "",
+ "sha256_v2": "35991ea6a0ac44ad6500ed13edc030f19b5245dfab861faa78b4b164dd27fe67",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "35991ea6a0ac44ad6500ed13edc030f19b5245dfab861faa78b4b164dd27fe67",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-TX-HB149-TRAIGA-2025:Sec-552.104/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) If the attorney general determines that a person has violated or is violating this chapter, the attorney general shall notify the person in writing of the determination, identifying the specific provisions of this chapter the attorney general alleges have been or are being violated."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-TX-HB149-TRAIGA-2025:Sec-552.104",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

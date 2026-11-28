@@ -1,0 +1,58 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:35",
+ "label": "EU AI Act Art. 35",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "57a174b69e9255c6d9cf6da3f8bb945d3fda20a592a4f06366f567109acaa406",
+ "sha256_v1": "57a174b69e9255c6d9cf6da3f8bb945d3fda20a592a4f06366f567109acaa406",
+ "sha256_v2": "57a174b69e9255c6d9cf6da3f8bb945d3fda20a592a4f06366f567109acaa406",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "57a174b69e9255c6d9cf6da3f8bb945d3fda20a592a4f06366f567109acaa406",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:35/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall assign a single identification number to each notified body, even where a body is notified under more than one Union act."
+  },
+  {
+   "obligation_id": "32024R1689:35/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall make publicly available the list of the bodies notified under this Regulation, including their identification numbers and the activities for which they have been notified."
+  },
+  {
+   "obligation_id": "32024R1689:35/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall ensure that the list is kept up to date."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:35",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

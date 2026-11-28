@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14365-2025:sec1",
+ "label": "US-EO14365-2025 Section 1",
+ "instrument": "US-EO14365-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "94cde1dc5bf0a8e1420c451b866ee721362bb7f749c2e26f2c44951e950effb1",
+ "sha256_v1": "",
+ "sha256_v2": "94cde1dc5bf0a8e1420c451b866ee721362bb7f749c2e26f2c44951e950effb1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 0,
+ "sha256_current": "94cde1dc5bf0a8e1420c451b866ee721362bb7f749c2e26f2c44951e950effb1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14365-2025:sec1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "To win, United States AI companies must be free to innovate without cumbersome regulation."
+  },
+  {
+   "obligation_id": "US-EO14365-2025:sec1/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "My Administration must act with the Congress to ensure that there is a minimally burdensome national standard--not 50 discordant State ones."
+  },
+  {
+   "obligation_id": "US-EO14365-2025:sec1/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The resulting framework must forbid State laws that conflict with the policy set forth in this order."
+  },
+  {
+   "obligation_id": "US-EO14365-2025:sec1/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A carefully crafted national framework can ensure that the United States wins the AI race, as we must."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14365-2025:sec1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-uk-gdpr-2016:5",
+ "label": "GB-uk-gdpr-2016 Article 5",
+ "instrument": "GB-uk-gdpr-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "df882191451a978f3095deeddb2d6e6a38e909b9702b18b204905af0ab3b57fb",
+ "sha256_v1": "",
+ "sha256_v2": "df882191451a978f3095deeddb2d6e6a38e909b9702b18b204905af0ab3b57fb",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "df882191451a978f3095deeddb2d6e6a38e909b9702b18b204905af0ab3b57fb",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-uk-gdpr-2016:5/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Personal data shall be:"
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:5/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d)\naccurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that personal data that are inaccurate, having regard to the purposes for which they are processed, are erased or rectified without delay (‘accuracy’);"
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:5/p2/s1",
+   "paragraph": "2",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller shall be responsible for, and be able to demonstrate compliance with, paragraph 1 (‘accountability’)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-uk-gdpr-2016:5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

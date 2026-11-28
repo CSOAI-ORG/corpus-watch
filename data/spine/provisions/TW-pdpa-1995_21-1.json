@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "TW-pdpa-1995:21-1",
+ "label": "TW-pdpa-1995 Article 21-1",
+ "instrument": "TW-pdpa-1995",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "9d47dcfbc09deabaa41afc5420b868f6eeee378b8bbf500c5acfa84f1b942d6a",
+ "sha256_v1": "",
+ "sha256_v2": "9d47dcfbc09deabaa41afc5420b868f6eeee378b8bbf500c5acfa84f1b942d6a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "TW",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9d47dcfbc09deabaa41afc5420b868f6eeee378b8bbf500c5acfa84f1b942d6a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "TW-pdpa-1995:21-1/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "公務機關應每年向上級機關或監督機關提出個人資料保護管理事項實施情形；"
+  },
+  {
+   "obligation_id": "TW-pdpa-1995:21-1/s8",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "公務機關應督導及稽核其所屬、所監督之公務機關、所轄鄉（鎮、市）公所、直轄市山地原住民區公所及鄉（鎮、市）民代表會、直轄市山地原住民區民代表會之個人資料保護管理事項實施情形。"
+  },
+  {
+   "obligation_id": "TW-pdpa-1995:21-1/s9",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "依前項規定稽核後，發現受稽核機關實施情形有缺失或待改善者，受稽核機關應向稽核機關提出改善報告，並由稽核機關審查後，連同稽核結果送交主管機關。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=TW-pdpa-1995:21-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

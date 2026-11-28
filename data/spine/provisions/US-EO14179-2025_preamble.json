@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14179-2025:preamble",
+ "label": "US-EO14179-2025 Preamble",
+ "instrument": "US-EO14179-2025",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "223b53d7dc9f7720c6c96c0be49bbaf083da825a86b4547c25be2e8942e0cc8f",
+ "sha256_v1": "",
+ "sha256_v2": "223b53d7dc9f7720c6c96c0be49bbaf083da825a86b4547c25be2e8942e0cc8f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "223b53d7dc9f7720c6c96c0be49bbaf083da825a86b4547c25be2e8942e0cc8f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14179-2025:preamble/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14179-2025:preamble",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

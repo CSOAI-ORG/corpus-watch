@@ -1,0 +1,126 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:30",
+ "label": "EU-ehds-2025 Article 30",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "4e1ce5331b65c8a72143aa655dfb67477ed5349a2e635e494daaa2363d099c5d",
+ "sha256_v1": "",
+ "sha256_v2": "4e1ce5331b65c8a72143aa655dfb67477ed5349a2e635e494daaa2363d099c5d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "4e1ce5331b65c8a72143aa655dfb67477ed5349a2e635e494daaa2363d099c5d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:30/p1/s1",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Manufacturers of EHR systems shall:"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:30/p1/s2",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "contact-point",
+   "status": "DRAFT",
+   "text": "(g)\nindicate the name, registered trade name or registered trade mark, the postal address, and the website, email address or other digital contact details through which they can be contacted, in the EHR system; indicate in the contact details a single point at which the manufacturer can be contacted; the contact details shall be in a language that is easily understood by users and market surveillance authorities;"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:30/p1/s3",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i)\ntake without undue delay any necessary corrective action in respect of their EHR systems, where they consider or have reason to believe that such systems are not or are no longer in conformity with the essential requirements laid down in Annex II, or recall or withdraw such systems; the manufacturers of EHR systems shall subsequently inform the national authorities of the Member States in which they made their EHR systems available on the market or put them into service of the non-conformity, of any corrective action taken, including the timetable for implementation, and of the date at which the harmonised software components of their EHR systems have been brought into conformity or been"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:30/p2/s1",
+   "paragraph": "2",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Manufacturers of EHR systems shall ensure that procedures are in place to ensure that the design, development and deployment of the harmonised software components of an EHR system continue to comply with the essential requirements laid down in Annex II and the common specifications referred to in Article"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:30/p36/s1",
+   "paragraph": "36",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Changes in EHR system design or characteristics with regard to the harmonised software components of an EHR system shall be adequately taken into account and reflected in the technical documentation."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:30/p3/s1",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Manufacturers of EHR systems shall keep the technical documentation referred to in Article 37 and the EU declaration of conformity referred to in Article 39 for 10 years after the EHR system covered by the EU declaration of conformity has been placed on the market."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:30/p3/s2",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Manufacturers of EHR systems shall make available the source code or the programming logic included in the technical documentation, upon a reasoned request, to the relevant authorities, if that source code or programming logic is necessary in order for those authorities to be able to check compliance with the essential requirements laid down in Annex II."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:30/p4/s1",
+   "paragraph": "4",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "A manufacturer of EHR systems established outside the Union shall ensure that its authorised representative has the necessary documentation readily available in order to fulfil the tasks referred to in Article 31(2)."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:30/p5/s1",
+   "paragraph": "5",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Manufacturers of EHR systems shall, upon a reasoned request from a market surveillance authority, provide it with all the information and documentation, in paper or electronic form, necessary to demonstrate the conformity of the EHR system with the essential requirements laid down in Annex II and the common specifications referred to in Article 36, in a language which can be easily understood by that market surveillance authority."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:30/p5/s2",
+   "paragraph": "5",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "cooperate",
+   "status": "DRAFT",
+   "text": "The manufacturers of EHR systems shall cooperate with the market surveillance authority, at its request, on any measures taken to eliminate the risks posed by an EHR system which they have placed on the market or put into service."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:30",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:96",
+ "label": "JP-appi-2003 Article 96",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "70b627293fb381feb3176dcf0ed64fd2c32e21b3605dbe75165227e14b5914bd",
+ "sha256_v1": "",
+ "sha256_v2": "70b627293fb381feb3176dcf0ed64fd2c32e21b3605dbe75165227e14b5914bd",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "70b627293fb381feb3176dcf0ed64fd2c32e21b3605dbe75165227e14b5914bd",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:96/s3",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "この場合においては、移送をした行政機関の長等は、訂正請求者に対し、事案を移送した旨を書面により通知しなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:96/s4",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "２ 前項の規定により事案が移送されたときは、移送を受けた行政機関の長等において、当該訂正請求についての訂正決定等をしなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:96/s7",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "）をしたときは、移送をした行政機関の長等は、当該訂正決定に基づき訂正の実施をしなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:96",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

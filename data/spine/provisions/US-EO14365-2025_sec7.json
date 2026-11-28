@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14365-2025:sec7",
+ "label": "US-EO14365-2025 Section 7",
+ "instrument": "US-EO14365-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b32897298abed62b98f531fe264a0cf981161cd803140fad8c0b22e326cda14b",
+ "sha256_v1": "",
+ "sha256_v2": "b32897298abed62b98f531fe264a0cf981161cd803140fad8c0b22e326cda14b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "b32897298abed62b98f531fe264a0cf981161cd803140fad8c0b22e326cda14b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14365-2025:sec7/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Within 90 days of the date of this order, the Chairman of the Federal Trade Commission shall, in consultation with the Special Advisor for AI and Crypto, issue a policy statement on the application of the Federal Trade Commission Act's prohibition on unfair and deceptive acts or practices under 15 U.S.C. 45 to AI models."
+  },
+  {
+   "obligation_id": "US-EO14365-2025:sec7/p7/s2",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That policy statement must explain the circumstances under which State laws that require alterations to the truthful outputs of AI models are preempted by the Federal Trade Commission Act's prohibition on engaging in deceptive acts or practices affecting commerce."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14365-2025:sec7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

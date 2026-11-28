@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s101",
+ "label": "GB-osa-2023 Section 101",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "be9e38dbffbbb1f3c5fdf60997d45ba6e1209459aab9999a2de8cc2b7c105ff4",
+ "sha256_v1": "",
+ "sha256_v2": "be9e38dbffbbb1f3c5fdf60997d45ba6e1209459aab9999a2de8cc2b7c105ff4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "be9e38dbffbbb1f3c5fdf60997d45ba6e1209459aab9999a2de8cc2b7c105ff4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s101/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(C1)\nWhere this subsection applies, OFCOM—\n(a)\nmust give a notice to the provider of a service within subsection (E1) requiring the provider to ensure the retention of information relating to the use of the service by the child who has died, and\n(b)\nmay give a notice to any other relevant person requiring the person to ensure the retention of information relating to the use of a service within subsection (E1) by that child."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s101/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(G1)\nOFCOM must share with the investigating authority any information they receive in response to requirements mentioned in section 102(5A)(d) that are included in a notice under subsection (C1)."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s101/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nThe power conferred by subsection (1) must be exercised in a way that is proportionate to the purpose mentioned in that subsection."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s101",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

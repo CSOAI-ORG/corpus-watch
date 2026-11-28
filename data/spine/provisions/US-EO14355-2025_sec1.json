@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14355-2025:sec1",
+ "label": "US-EO14355-2025 Section 1",
+ "instrument": "US-EO14355-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b9c5af6a50f68ccd2bcf339d755d4d484ae31b208cdda6121d171bc31819c8b6",
+ "sha256_v1": "",
+ "sha256_v2": "b9c5af6a50f68ccd2bcf339d755d4d484ae31b208cdda6121d171bc31819c8b6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 0,
+ "sha256_current": "b9c5af6a50f68ccd2bcf339d755d4d484ae31b208cdda6121d171bc31819c8b6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14355-2025:sec1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "We must prioritize investment in AI- enabled science, build world-class scientific datasets, and empower researchers and clinicians with the tools needed to translate data and AI capabilities into improved care."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14355-2025:sec1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

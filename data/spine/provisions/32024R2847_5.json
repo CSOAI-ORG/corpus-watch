@@ -1,0 +1,48 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R2847:5",
+ "label": "Cyber Resilience Act Art. 5",
+ "instrument": "Cyber Resilience Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ae48324965ee0d5440104afa95ef232cd89dc9f3650eeb3034dcd3b7d06f0875",
+ "sha256_v1": "ae48324965ee0d5440104afa95ef232cd89dc9f3650eeb3034dcd3b7d06f0875",
+ "sha256_v2": "4ecd562c89592bce52c15530662ad190748ced16d7b8f8bbf05061d7565dc853",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "4ecd562c89592bce52c15530662ad190748ced16d7b8f8bbf05061d7565dc853",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R2847:5/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This Regulation shall not prevent Member States from subjecting products with digital elements to additional cybersecurity requirements for the procurement or use of those products for specific purposes, including where those products are procured or used for national security or defence purposes, provided that such requirements are consistent with Member States’ obligations laid down in Union law and that they are necessary and proportionate for the achievement of those purposes."
+  },
+  {
+   "obligation_id": "32024R2847:5/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Without prejudice to Directives 2014/24/EU and 2014/25/EU, where products with digital elements that fall within the scope of this Regulation are procured, Member States shall ensure that compliance with the essential cybersecurity requirements set out in Annex I to this Regulation, including the manufacturers’ ability to handle vulnerabilities effectively, are taken into consideration in the procurement process."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R2847:5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

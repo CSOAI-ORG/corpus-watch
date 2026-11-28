@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-ai-content-labelling-measures-2025:12",
+ "label": "CN-ai-content-labelling-measures-2025 第十二条",
+ "instrument": "CN-ai-content-labelling-measures-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "8b0a39540eba7f84cac10e3b0fa2d38c8f795ff3a2f87a31285b588d0507d5b1",
+ "sha256_v1": "",
+ "sha256_v2": "8b0a39540eba7f84cac10e3b0fa2d38c8f795ff3a2f87a31285b588d0507d5b1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "8b0a39540eba7f84cac10e3b0fa2d38c8f795ff3a2f87a31285b588d0507d5b1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-ai-content-labelling-measures-2025:12/s1",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "zh:public-trace",
+   "status": "DRAFT",
+   "text": "第十二条 服务提供者在履行算法备案、安全评估等手续时，应当按照本办法提供生成合成内容标识相关材料，并加强标识信息共享，为防范打击相关违法犯罪活动提供支持和帮助。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-ai-content-labelling-measures-2025:12",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

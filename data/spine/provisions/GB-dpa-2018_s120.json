@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s120",
+ "label": "GB-dpa-2018 Section 120",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "fb527939ab3ab6d53da37b9e04b806531b9937ff7a4771d8721276ce0bc287c2",
+ "sha256_v1": "",
+ "sha256_v2": "fb527939ab3ab6d53da37b9e04b806531b9937ff7a4771d8721276ce0bc287c2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "fb527939ab3ab6d53da37b9e04b806531b9937ff7a4771d8721276ce0bc287c2",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s120/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Further international role\n(1)\nThe Commission must, in relation to third countries and international organisations, take appropriate steps to—\n(a)\ndevelop international co-operation mechanisms to facilitate the effective enforcement of legislation for the protection of personal data;"
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s120/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(3)\nThe Commission must carry out data protection functions which the Secretary of State directs the Commission to carry out for the purpose of enabling Her Majesty's Government in the United Kingdom to give effect to an international obligation of the United Kingdom."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s120",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

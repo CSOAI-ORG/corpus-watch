@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-29CFR1607-UGESP-1978:1607.5",
+ "label": "US-29CFR1607-UGESP-1978 29 CFR 1607.5",
+ "instrument": "US-29CFR1607-UGESP-1978",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "2e185bed5c1d8391cecbfb79205de7a90afd45fbc3613d031db89304818466c7",
+ "sha256_v1": "",
+ "sha256_v2": "2e185bed5c1d8391cecbfb79205de7a90afd45fbc3613d031db89304818466c7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "2e185bed5c1d8391cecbfb79205de7a90afd45fbc3613d031db89304818466c7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-29CFR1607-UGESP-1978:1607.5/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the study does not demonstrate validity, this provision of these guidelines for interim use shall not constitute a defense in any action, nor shall it relieve the user of any obligations arising under Federal law."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-29CFR1607-UGESP-1978:1607.5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

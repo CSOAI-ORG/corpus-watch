@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-TX-HB3512-AItraining-2025:SECTION-3",
+ "label": "US-TX-HB3512-AItraining-2025 SECTION 3",
+ "instrument": "US-TX-HB3512-AItraining-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8e90f8c939293a2b6fdc5801800e1c34f018b894638442aa4a5a107f82446f7b",
+ "sha256_v1": "",
+ "sha256_v2": "8e90f8c939293a2b6fdc5801800e1c34f018b894638442aa4a5a107f82446f7b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "8e90f8c939293a2b6fdc5801800e1c34f018b894638442aa4a5a107f82446f7b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-TX-HB3512-AItraining-2025:SECTION-3/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) To apply for a grant under this chapter, a local\ngovernment must submit with the grant application a written\ncertification of the local government's compliance with the\ncybersecurity training and the artificial intelligence training\nrequired by Section 2054.5191."
+  },
+  {
+   "obligation_id": "US-TX-HB3512-AItraining-2025:SECTION-3/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) On a determination by the criminal justice division\nestablished under Section 772.006 that a local government awarded a\ngrant under this chapter has not complied with the cybersecurity\ntraining or the artificial intelligence training required by\nSection 2054.5191, the local government shall pay to this state an\namount equal to the amount of the grant award."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-TX-HB3512-AItraining-2025:SECTION-3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

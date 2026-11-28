@@ -1,0 +1,48 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:88",
+ "label": "EU AI Act Art. 88",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "f1b53adb420bda908144132092371e9dc301a1d3769064fd37a74a4ba99c0a94",
+ "sha256_v1": "f1b53adb420bda908144132092371e9dc301a1d3769064fd37a74a4ba99c0a94",
+ "sha256_v2": "f1b53adb420bda908144132092371e9dc301a1d3769064fd37a74a4ba99c0a94",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "f1b53adb420bda908144132092371e9dc301a1d3769064fd37a74a4ba99c0a94",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:88/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall have exclusive powers to supervise and enforce Chapter V, taking into account the procedural guarantees under Article"
+  },
+  {
+   "obligation_id": "32024R1689:88/p94/s1",
+   "paragraph": "94",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall entrust the implementation of these tasks to the AI Office, without prejudice to the powers of organisation of the Commission and the division of competences between Member States and the Union based on the Treaties."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:88",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

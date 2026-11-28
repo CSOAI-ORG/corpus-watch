@@ -1,0 +1,116 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:77",
+ "label": "EU-dsa-2022 Article 77",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "dcaa56c93614738a74e29a2a868b685274fa16c15e91f83fce305777ea59210f",
+ "sha256_v1": "",
+ "sha256_v2": "dcaa56c93614738a74e29a2a868b685274fa16c15e91f83fce305777ea59210f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "dcaa56c93614738a74e29a2a868b685274fa16c15e91f83fce305777ea59210f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:77/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The powers conferred on the Commission by Articles 74 and 76 shall be subject to a limitation period of five years."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:77/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Time shall begin to run on the day on which the infringement is committed."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:77/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, in the case of continuing or repeated infringements, time shall begin to run on the day on which the infringement ceases."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:77/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Any action taken by the Commission or by the Digital Services Coordinator for the purpose of the investigation or proceedings in respect of an infringement shall interrupt the limitation period for the imposition of fines or periodic penalty payments."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:77/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Actions which interrupt the limitation period shall include, in particular, the following:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:77/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each interruption shall start time running afresh."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:77/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, the limitation period for the imposition of fines or periodic penalty payments shall expire at the latest on the day on which a period equal to twice the limitation period has elapsed without the Commission having imposed a fine or a periodic penalty payment."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:77/p4/s3",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That period shall be extended by the time during which the limitation period has been suspended pursuant to paragraph 5."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:77/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The limitation period for the imposition of fines or periodic penalty payments shall be suspended for as long as the decision of the Commission is the subject of proceedings pending before the Court of Justice of the European Union."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:77",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

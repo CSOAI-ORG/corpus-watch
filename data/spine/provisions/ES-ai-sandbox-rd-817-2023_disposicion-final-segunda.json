@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "ES-ai-sandbox-rd-817-2023:disposicion-final-segunda",
+ "label": "ES-ai-sandbox-rd-817-2023 Disposición final segunda",
+ "instrument": "ES-ai-sandbox-rd-817-2023",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "3de00bd533e96ac141af17e4e7248c53aa1928385ee2bdb60277df3d61d1cc03",
+ "sha256_v1": "",
+ "sha256_v2": "3de00bd533e96ac141af17e4e7248c53aa1928385ee2bdb60277df3d61d1cc03",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "ES",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "3de00bd533e96ac141af17e4e7248c53aa1928385ee2bdb60277df3d61d1cc03",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:disposicion-final-segunda/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=ES-ai-sandbox-rd-817-2023:disposicion-final-segunda",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

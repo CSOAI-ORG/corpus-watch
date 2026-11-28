@@ -1,0 +1,116 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:115",
+ "label": "EU-mica-2023 Article 115",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "b9286e83dca0ddbbb73e8186e3c9c5b44e55a1067f27de00a04a8e00ac6198ee",
+ "sha256_v1": "",
+ "sha256_v2": "b9286e83dca0ddbbb73e8186e3c9c5b44e55a1067f27de00a04a8e00ac6198ee",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "b9286e83dca0ddbbb73e8186e3c9c5b44e55a1067f27de00a04a8e00ac6198ee",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:115/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authority shall, on an annual basis, provide ESMA and EBA with aggregate information regarding all administrative penalties and other administrative measures imposed in accordance with Article 111."
+  },
+  {
+   "obligation_id": "EU-mica-2023:115/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "ESMA shall publish that information in an annual report."
+  },
+  {
+   "obligation_id": "EU-mica-2023:115/p1/s3",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where Member States have, in accordance with Article 111(1), second subparagraph, laid down criminal penalties for the infringements of the provisions referred to therein, their competent authorities shall provide EBA and ESMA annually with anonymised and aggregated data regarding all relevant criminal investigations undertaken and criminal penalties imposed."
+  },
+  {
+   "obligation_id": "EU-mica-2023:115/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "ESMA shall publish data on criminal penalties imposed in an annual report."
+  },
+  {
+   "obligation_id": "EU-mica-2023:115/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the competent authority has disclosed administrative penalties, other administrative measures or criminal penalties to the public, it shall simultaneously report them to ESMA."
+  },
+  {
+   "obligation_id": "EU-mica-2023:115/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Competent authorities shall inform EBA and ESMA of all administrative penalties or other administrative measures imposed but not published, including any appeal in relation thereto and the outcome thereof."
+  },
+  {
+   "obligation_id": "EU-mica-2023:115/p3/s2",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that competent authorities receive information and the final judgment in relation to any criminal penalty imposed and submit it to EBA and ESMA."
+  },
+  {
+   "obligation_id": "EU-mica-2023:115/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "ESMA shall maintain a central database of penalties and administrative measures communicated to it solely for the purposes of exchanging information between competent authorities."
+  },
+  {
+   "obligation_id": "EU-mica-2023:115/p3/s4",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That database shall be only accessible to EBA, ESMA and the competent authorities and it shall be updated based on the information provided by the competent authorities."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:115",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

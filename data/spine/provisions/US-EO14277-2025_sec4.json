@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14277-2025:sec4",
+ "label": "US-EO14277-2025 Section 4",
+ "instrument": "US-EO14277-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "fbe52816eb5d72e23989a12320e6cdc0fff966b84b224e3dd21dd60d6d01fd6c",
+ "sha256_v1": "",
+ "sha256_v2": "fbe52816eb5d72e23989a12320e6cdc0fff966b84b224e3dd21dd60d6d01fd6c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "fbe52816eb5d72e23989a12320e6cdc0fff966b84b224e3dd21dd60d6d01fd6c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14277-2025:sec4/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) The Director of the Office of Science and Technology Policy shall be the Chair of the Task Force."
+  },
+  {
+   "obligation_id": "US-EO14277-2025:sec4/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) The Task Force membership shall consist of the following members:"
+  },
+  {
+   "obligation_id": "US-EO14277-2025:sec4/p4/s3",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d) The Task Force shall be responsible for implementing the policy stated in section 2 of this order and coordinating Federal efforts related to AI education, including the actions outlined in this order."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14277-2025:sec4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

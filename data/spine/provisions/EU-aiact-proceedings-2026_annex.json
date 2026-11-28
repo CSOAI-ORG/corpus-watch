@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-aiact-proceedings-2026:annex",
+ "label": "EU-aiact-proceedings-2026 Annex",
+ "instrument": "EU-aiact-proceedings-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6f578ade29b2781eb7f3b556cf962e0159bbdbe9be57e90ab644030c5e6c0d8e",
+ "sha256_v1": "",
+ "sha256_v2": "6f578ade29b2781eb7f3b556cf962e0159bbdbe9be57e90ab644030c5e6c0d8e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "6f578ade29b2781eb7f3b556cf962e0159bbdbe9be57e90ab644030c5e6c0d8e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:annex/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "ANNEX\nFormat and length of observations submitted pursuant to Article 7\nWritten observations submitted to the Commission pursuant to Article 7 shall be submitted in a format allowing the Commission to process them electronically and, in particular, enabling their digitisation and character recognition."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:annex/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For this purpose, the following requirements shall be complied with:"
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:annex/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\nthe text, in A4 format, shall be easily legible and, if the document is produced in paper format, appear on one side of the page only;"
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:annex/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)\ndocuments produced in paper format shall be assembled in such a way as to be easily separable (not bound together or permanently attached by other means, such as glue or staples);"
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:annex/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)\nthe text shall be in a commonly-used font (such as Times New Roman, Courier or Arial) in at least 12 point in the body of the text and at least 10 point in the footnotes, with single line spacing, and upper, lower, left and right margins of at least 2,5 cm (maximum 4 700 characters per page);"
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:annex/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d)\nthe pages and paragraphs of each document shall be numbered consecutively."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:annex/p0/s7",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Written observations submitted to the Commission pursuant to Article 7 shall not exceed 50 pages in length."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:annex/p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any annexes accompanying those observations shall not count towards the applicable page limits provided those annexes have a purely evidential and instrumental function and are proportionate in number and length."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-aiact-proceedings-2026:annex",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

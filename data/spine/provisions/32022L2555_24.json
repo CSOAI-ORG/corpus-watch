@@ -1,0 +1,58 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022L2555:24",
+ "label": "NIS2 Directive Art. 24",
+ "instrument": "NIS2 Directive",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "305eabc6dc9d79a0b1c57a8399aecd720253d64cb99b39f66015b9c519eee79a",
+ "sha256_v1": "305eabc6dc9d79a0b1c57a8399aecd720253d64cb99b39f66015b9c519eee79a",
+ "sha256_v2": "c323885a571f150b508758df3e2c2df58511b68e5529902adf3e8b8ceb72266d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "c323885a571f150b508758df3e2c2df58511b68e5529902adf3e8b8ceb72266d",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022L2555:24/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Furthermore, Member States shall encourage essential and important entities to use qualified trust services."
+  },
+  {
+   "obligation_id": "32022L2555:24/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those delegated acts shall be adopted where insufficient levels of cybersecurity have been identified and shall include an implementation period."
+  },
+  {
+   "obligation_id": "32022L2555:24/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Before adopting such delegated acts, the Commission shall carry out an impact assessment and shall carry out consultations in accordance with Article 56 of Regulation (EU) 2019/881."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022L2555:24",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

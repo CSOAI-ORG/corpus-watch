@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-machinery-2023:25e",
+ "label": "EU-machinery-2023 25e",
+ "instrument": "EU-machinery-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": null,
+ "sha256_v1": "",
+ "sha256_v2": "",
+ "source_state": "INSERTED_BY_AMENDMENT",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "INSERTED",
+ "change_edits": 141,
+ "sha256_current": "610ffdb8225c01aa738385c12daa3acab93b189b558489113143e44044454119",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-machinery-2023:25e/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Member States shall prioritise the market surveillance activities for machinery and related products listed in the implementing act referred to in Article 25a(1) of this Regulation."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:25e/p1/s2",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall facilitate coordination of such prioritisation efforts through the Union Product Compliance Network established under Article 29 of Regulation (EU) 2019/1020."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:25e/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The market surveillance authorities of the Member States shall ensure that best efforts are made to provide assistance to other market surveillance authorities during an internal market emergency mode, including by mobilising and dispatching expert teams to temporarily reinforce the staff of market surveillance authorities requesting assistance or by providing logistical support, such as the reinforcement of the testing capacity for machinery and the related products listed in the implementing act referred to in Article 25a(1)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-machinery-2023:25e",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

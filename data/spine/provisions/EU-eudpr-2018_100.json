@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:100",
+ "label": "EU-eudpr-2018 Article 100",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d469d79a7e31a28a3eb40fe79a3e258a68e4552ac2fdd3e88e3dc0317624975e",
+ "sha256_v1": "",
+ "sha256_v2": "d469d79a7e31a28a3eb40fe79a3e258a68e4552ac2fdd3e88e3dc0317624975e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "d469d79a7e31a28a3eb40fe79a3e258a68e4552ac2fdd3e88e3dc0317624975e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:100/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Decision 2014/886/EU of the European Parliament and of the Council (20) and the current terms of office of the European Data Protection Supervisor and the Assistant Supervisor shall not be affected by this Regulation."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:100/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Assistant Supervisor shall be considered equivalent to the Registrar of the Court of Justice as regards the determination of remuneration, allowances, retirement pension and any other benefit in lieu of remuneration."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:100/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Assistant Supervisor shall assist the European Data Protection Supervisor in fulfilling the latter’s duties and act as a replacement when the European Data Protection Supervisor is absent or prevented from attending to those duties until the end of the current Assistant Supervisor’s term of office."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:100",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

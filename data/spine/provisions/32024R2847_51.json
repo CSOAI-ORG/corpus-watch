@@ -1,0 +1,48 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R2847:51",
+ "label": "Cyber Resilience Act Art. 51",
+ "instrument": "Cyber Resilience Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "c4e58f3d224b3ca02a258c8acfdfdfacfadc6e4a1cd3fd61fec9039b523df25b",
+ "sha256_v1": "c4e58f3d224b3ca02a258c8acfdfdfacfadc6e4a1cd3fd61fec9039b523df25b",
+ "sha256_v2": "bd6133dc15507d7ec051ea5ab55d541064c13aac6f0da1cc009c0d76e766b12e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "bd6133dc15507d7ec051ea5ab55d541064c13aac6f0da1cc009c0d76e766b12e",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R2847:51/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall ensure that appropriate coordination and cooperation between notified bodies are put in place and properly operated in the form of a cross-sectoral group of notified bodies."
+  },
+  {
+   "obligation_id": "32024R2847:51/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that the bodies notified by them participate in the work of that group, directly or by means of designated representatives."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R2847:51",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

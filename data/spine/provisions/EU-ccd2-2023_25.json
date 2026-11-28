@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:25",
+ "label": "EU-ccd2-2023 Article 25",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e5cd990e968bbe4f968a9a48bc39ede99bb412a2048533e1d17b501b38cb360d",
+ "sha256_v1": "",
+ "sha256_v2": "e5cd990e968bbe4f968a9a48bc39ede99bb412a2048533e1d17b501b38cb360d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "e5cd990e968bbe4f968a9a48bc39ede99bb412a2048533e1d17b501b38cb360d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:25/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In the case of an agreement to open a current account, where there is a possibility that the consumer is allowed an overrun, Member States shall require that the creditor includes information on that possibility in that agreement, as well as information on the borrowing rate, the conditions governing the application of that rate, any index or reference rate applicable to the initial borrowing rate, the charges applicable from the time the credit agreement is concluded, and, where applicable, the conditions under which those charges may be changed."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:25/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The creditor shall in any case provide the consumer with that information on paper or another durable medium chosen by the consumer and specified in the agreement to open a current account, on a regular basis."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:25/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In the event of a significant overrunning exceeding a period of one month, Member States shall require that the creditor informs the consumer without delay, on paper or another durable medium chosen by the consumer and specified in the agreement to open a current account, of all of the following:"
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:25/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In addition, in the case of regular overrunning, the creditor shall offer the consumer advisory services, where available, and redirect the consumer at no cost towards debt advisory services."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:25/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall require the creditor to notify the consumer in an agreed manner when the overrunning is not allowed anymore or the limit of the overrunning is reduced at least 30 days prior to the day when the actual cancellation or reduction of the overrunning takes effect."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:25/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the overrunning is reduced or cancelled, Member States shall require that the creditor offer the consumer, before the enforcement proceedings have been initiated, at no additional cost, the possibility to repay the amount actually drawn down to the extent of that reduction or cancellation."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:25/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such a repayment shall be made in 12 equal monthly instalments unless the consumer chooses to repay earlier, at the borrowing rate applicable to the overrunning."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:25",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,116 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-uk-gdpr-2016:43",
+ "label": "GB-uk-gdpr-2016 Article 43",
+ "instrument": "GB-uk-gdpr-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5b70aad945eabd187a6c51095cb3e9c04a0366a16ae292e8117025bfec1c9eb6",
+ "sha256_v1": "",
+ "sha256_v2": "5b70aad945eabd187a6c51095cb3e9c04a0366a16ae292e8117025bfec1c9eb6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "5b70aad945eabd187a6c51095cb3e9c04a0366a16ae292e8117025bfec1c9eb6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-uk-gdpr-2016:43/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Without prejudice to the tasks and powers of the Commission under Articles 57 and 58, certification bodies which have an appropriate level of expertise in relation to data protection shall, after informing the Commission in order to allow it to exercise its powers pursuant to point (h) of Article 58(2) where necessary, issue and renew certification."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:43/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Certification bodies referred to in paragraph 1 shall be accredited in accordance with that paragraph only where they have:"
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:43/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The accreditation of certification bodies as referred to in paragraphs 1 and 2 of this Article shall take place on the basis of requirements approved by the Commission."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:43/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the case of accreditation pursuant to point (b) of paragraph 1 of this Article, those requirements shall complement those envisaged in Regulation (EC) No 765/2008 and the technical rules that describe the methods and procedures of the certification bodies."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:43/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The certification bodies referred to in paragraph 1 shall be responsible for the proper assessment leading to the certification or the withdrawal of such certification without prejudice to the responsibility of the controller or processor for compliance with this Regulation."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:43/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The accreditation shall be issued for a maximum period of five years and may be renewed on the same conditions provided that the certification body meets the requirements set out in this Article."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:43/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The certification bodies referred to in paragraph 1 shall provide the Commission with the reasons for granting or withdrawing the requested certification."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:43/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The requirements referred to in paragraph 3 of this Article and the criteria referred to in Article 42(5) shall be made public by the Commission in an easily accessible form. ..."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:43/p7/s1",
+   "paragraph": "7",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Without prejudice to Chapter VIII, the Commission or the UK national accreditation body shall revoke an accreditation of a certification body pursuant to paragraph 1 of this Article where the conditions for the accreditation are not, or are no longer, met or where actions taken by a certification body infringe this Regulation.\n8.\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n9.\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-uk-gdpr-2016:43",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

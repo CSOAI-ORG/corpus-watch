@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB2355-2024:SEC-6",
+ "label": "US-CA-AB2355-2024 SEC. 6.",
+ "instrument": "US-CA-AB2355-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f880d2b8f5be526acf9091c299e7313e1bbba988fbe703370b8882da7c2e69bd",
+ "sha256_v1": "",
+ "sha256_v2": "f880d2b8f5be526acf9091c299e7313e1bbba988fbe703370b8882da7c2e69bd",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "f880d2b8f5be526acf9091c299e7313e1bbba988fbe703370b8882da7c2e69bd",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB2355-2024:SEC-6/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)A radio or television advertisement that is paid for by a political party or a candidate controlled committee established for an elective office of the controlling candidate, and that does not support or oppose a ballot measure and is not paid for by an independent expenditure, shall include the disclosure required by Section 84502 and the disclosure required by Section 84514, if any, subject to the following requirements:"
+  },
+  {
+   "obligation_id": "US-CA-AB2355-2024:SEC-6/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1)In a radio advertisement, the words shall be included at the beginning or end of the advertisement and read in a clearly spoken manner and in a pitch and tone substantially similar to the rest of the advertisement."
+  },
+  {
+   "obligation_id": "US-CA-AB2355-2024:SEC-6/p6/s3",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)In a television advertisement, the words shall appear in writing for at least four seconds with letters in a type size that is greater than or equal to 4 percent of the height of the screen."
+  },
+  {
+   "obligation_id": "US-CA-AB2355-2024:SEC-6/p6/s4",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)An advertisement that is made via a form of electronic media that allows users to engage in discourse and post content, or any other type of social media, that is paid for by a political party or a candidate controlled committee established for an elective office of the controlling candidate, and that does not support or oppose a ballot measure and is not paid for by an independent expenditure, shall include the disclosure required by Section 84502 in accordance with subdivision (g) of Section 84504.3."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB2355-2024:SEC-6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:21",
+ "label": "EU-eudpr-2018 Article 21",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "e79e66dc9c52bcb708a7fd5e82a23a2365897c584c3e866b3f312b865c045356",
+ "sha256_v1": "",
+ "sha256_v2": "e79e66dc9c52bcb708a7fd5e82a23a2365897c584c3e866b3f312b865c045356",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "e79e66dc9c52bcb708a7fd5e82a23a2365897c584c3e866b3f312b865c045356",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:21/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Notification obligation regarding rectification or erasure of personal data or restriction of processing\nThe controller shall communicate any rectification or erasure of personal data or restriction of processing carried out in accordance with Article 18, Article 19(1) and Article 20 to each recipient to whom the personal data have been disclosed, unless this proves impossible or involves disproportionate effort."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:21/p0/s2",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "The controller shall inform the data subject about those recipients if the data subject requests it."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:21",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

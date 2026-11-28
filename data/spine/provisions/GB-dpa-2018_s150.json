@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s150",
+ "label": "GB-dpa-2018 Section 150",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e6fb4b7d33d5587aca36c1865b2c95e3c446e0674a0f0b7c93e3da0adf4db757",
+ "sha256_v1": "",
+ "sha256_v2": "e6fb4b7d33d5587aca36c1865b2c95e3c446e0674a0f0b7c93e3da0adf4db757",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "e6fb4b7d33d5587aca36c1865b2c95e3c446e0674a0f0b7c93e3da0adf4db757",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s150/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Enforcement notices: supplementary\n(1)\nAn enforcement notice must—\n(a)\nstate what the person has failed or is failing to do, and\n(b)\ngive the Commission's reasons for reaching that opinion."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s150/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\nIn deciding whether to give an enforcement notice in reliance on section 149(2), the Commission must consider whether the failure has caused or is likely to cause any person damage or distress."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s150/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nAn enforcement notice may specify the time or times at which, or period or periods within which, a requirement imposed by the notice must be complied with (but see the restrictions in subsections (6) to (8))."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s150/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nAn enforcement notice must provide information about—\n(a)\nthe consequences of failure to comply with it, and\n(b)\nthe rights under sections 162 and 164 (appeals etc)."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s150/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\nAn enforcement notice must not specify a time for compliance with a requirement in the notice which falls before the end of the period within which an appeal can be brought against the notice."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s150/p0/s6",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(8)\nIf an enforcement notice—\n(a)\nstates that, in the Commission's opinion, it is necessary for a requirement to be complied with urgently, and\n(b)\ngives the Commission's reasons for reaching that opinion,\nsubsections (6) and (7) do not apply but the notice must not require the requirement to be complied with before the end of the period of 24 hours beginning when the notice is given."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s150",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

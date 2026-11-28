@@ -1,0 +1,136 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-political-ads-2024:21",
+ "label": "EU-political-ads-2024 Article 21",
+ "instrument": "EU-political-ads-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "390f436b9d63e63dafe26b5cb5bb5b5574c1ad8ca2cdd8c80a520b55a42f4a1e",
+ "sha256_v1": "",
+ "sha256_v2": "390f436b9d63e63dafe26b5cb5bb5b5574c1ad8ca2cdd8c80a520b55a42f4a1e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "390f436b9d63e63dafe26b5cb5bb5b5574c1ad8ca2cdd8c80a520b55a42f4a1e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-political-ads-2024:21/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A service provider that provides political advertising services in the Union but does not have an establishment in the Union shall designate, in writing, a natural or legal person as its legal representative in one of the Member States where that provider offers its services."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:21/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The designated legal representative shall register with the competent authority referred to in paragraph 4 in the Member State where it resides or it is established."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:21/p1/s3",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "For that purpose, service providers shall submit the name, postal address, email address and telephone number of their legal representative to that competent authority."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:21/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The information submitted shall be accurate and in a machine-readable format and kept up to date."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:21/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The legal representative shall be responsible for ensuring compliance with the obligations under this Regulation and, without prejudice to the service provider’s liability and any legal proceedings that could be initiated against it, may be held liable for any non-compliance with the obligations under this Regulation."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:21/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The legal representative shall be the addressee for all communications with the relevant service provider that are provided for in this Regulation."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:21/p3/s1",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Service providers shall provide their legal representative with the necessary powers and sufficient resources to guarantee efficient and timely cooperation with the national competent authorities and, where relevant, the Commission, and to ensure compliance with their decisions."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:21/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall designate one national competent authority responsible for keeping publicly available and machine-readable online registers of all legal representatives registered on their territory under this Regulation."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:21/p4/s2",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The national competent authority shall ensure that such information is easily accessible and that it is complete and regularly updated."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:21/p4/s3",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall provide the links to the relevant websites to the Commission."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:21/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall set up and maintain a publicly available portal linking to the websites provided by Member States pursuant to paragraph 4."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-political-ads-2024:21",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

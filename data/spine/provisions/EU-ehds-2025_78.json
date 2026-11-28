@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:78",
+ "label": "EU-ehds-2025 Article 78",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "733d24766824d1a615982706f58979acf4d8bf337c3065b27931191680b409a1",
+ "sha256_v1": "",
+ "sha256_v2": "733d24766824d1a615982706f58979acf4d8bf337c3065b27931191680b409a1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "733d24766824d1a615982706f58979acf4d8bf337c3065b27931191680b409a1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:78/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Datasets with electronic health data collected and processed with the support of Union or national public funding shall have a data quality and utility label covering the elements set out in paragraph 3."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:78/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The data quality and utility label shall cover the following elements, where applicable:"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:78/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where a health data access body has reason to believe that a data quality and utility label might be inaccurate, it shall assess whether the dataset covered by the label meets the quality requirements forming part of the elements of the data quality and utility label as referred to in paragraph 3 and, in the event the dataset does not meet the quality requirements, shall revoke the label."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:78/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "By 26 March 2027, the Commission shall, by means of implementing acts, set out the visual characteristics and technical specifications of the data quality and utility label, based on the elements referred to in paragraph 3 of this Article."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:78/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 98(2) of this Regulation."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:78/p6/s3",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall take into account the requirements in Article 10 of Regulation (EU) 2024/1689 and any adopted common specifications or harmonised standards supporting those requirements, where applicable."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:78",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

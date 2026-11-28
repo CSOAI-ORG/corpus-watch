@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-TX-HB149-TRAIGA-2025:Sec-554.102",
+ "label": "US-TX-HB149-TRAIGA-2025 Sec. 554.102",
+ "instrument": "US-TX-HB149-TRAIGA-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "be5536b476948d627c8950f9cbe310dde5b317968a1a2ab62c006227eb8f1501",
+ "sha256_v1": "",
+ "sha256_v2": "be5536b476948d627c8950f9cbe310dde5b317968a1a2ab62c006227eb8f1501",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "be5536b476948d627c8950f9cbe310dde5b317968a1a2ab62c006227eb8f1501",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-TX-HB149-TRAIGA-2025:Sec-554.102/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The council shall conduct training programs for state agencies and local governments on the use of artificial intelligence systems."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-TX-HB149-TRAIGA-2025:Sec-554.102",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

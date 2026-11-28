@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-aiact-proceedings-2026:11",
+ "label": "EU-aiact-proceedings-2026 Article 11",
+ "instrument": "EU-aiact-proceedings-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "686135404ad516e45769b5cc5d60cc7c91634f21180f99b499534590020067e3",
+ "sha256_v1": "",
+ "sha256_v2": "686135404ad516e45769b5cc5d60cc7c91634f21180f99b499534590020067e3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "686135404ad516e45769b5cc5d60cc7c91634f21180f99b499534590020067e3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:11/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The power of the Commission to enforce decisions adopted pursuant to Article 101(1) of Regulation (EU) 2024/1689 shall be subject to a limitation period of five years."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:11/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The time shall begin to run on the day on which the decision adopted pursuant to Article 101(1) of Regulation (EU) 2024/1689 becomes final."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:11/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The period referred to in paragraph 1 shall be interrupted:"
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:11/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each interruption of the period referred to in paragraph 1 shall start time running afresh."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:11/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The limitation period for the enforcement of penalties shall be suspended for as long as:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-aiact-proceedings-2026:11",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

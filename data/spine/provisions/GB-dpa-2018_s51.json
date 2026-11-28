@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s51",
+ "label": "GB-dpa-2018 Section 51",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "fd2a61bd7804df49848adc2310269d4a93f8ac1039077c25a075d02bd17eb149",
+ "sha256_v1": "",
+ "sha256_v2": "fd2a61bd7804df49848adc2310269d4a93f8ac1039077c25a075d02bd17eb149",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "fd2a61bd7804df49848adc2310269d4a93f8ac1039077c25a075d02bd17eb149",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s51/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(3)\nThe Commission must take such steps as appear to the Commission to be appropriate to respond to a request under subsection (2) (which may include the exercise of any of the powers conferred by sections 142 and 146)."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s51/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(4)\nAfter taking those steps, the Commission must inform the data subject—\n(a)\nwhere subsection (1)(a) or (b) applies, whether the Commission is satisfied that the restriction imposed by the controller was lawful;"
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s51/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(5)\nThe Commission must also inform the data subject of the data subject's right to apply to a court under section 167."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s51",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

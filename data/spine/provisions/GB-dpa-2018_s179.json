@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s179",
+ "label": "GB-dpa-2018 Section 179",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "fba8b53513d6fe3efed5972c2c6c36d193ef1e63c530178a3497ea0738045297",
+ "sha256_v1": "",
+ "sha256_v2": "fba8b53513d6fe3efed5972c2c6c36d193ef1e63c530178a3497ea0738045297",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "fba8b53513d6fe3efed5972c2c6c36d193ef1e63c530178a3497ea0738045297",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s179/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Effectiveness of the media's dispute resolution procedures\n(1)\nThe Secretary of State must, before the end of each review period, lay before Parliament a report produced by the Secretary of State or an appropriate person on—\n(a)\nthe use of relevant alternative dispute resolution procedures, during that period, in cases involving a failure, or alleged failure, by a relevant media organisation to comply with the data protection legislation, and\n(b)\nthe effectiveness of those procedures in such cases."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s179/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nThe Secretary of State must send a copy of the report to—\n(a)\nthe Scottish Ministers,\n(b)\nthe Welsh Ministers, and\n(c)\nthe Executive Office in Northern Ireland."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s179",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

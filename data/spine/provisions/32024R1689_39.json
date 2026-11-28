@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:39",
+ "label": "EU AI Act Art. 39",
+ "instrument": "EU AI Act",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "124239fb07bc4b28cc93562205be39759ffa8143f01bd8cba476f4a8a88fee6f",
+ "sha256_v1": "124239fb07bc4b28cc93562205be39759ffa8143f01bd8cba476f4a8a88fee6f",
+ "sha256_v2": "6e7fbe6aa39c036acf643b8ec875ef3d4cca06b1f5a0ac7bb2fa61d11ac66902",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "6e7fbe6aa39c036acf643b8ec875ef3d4cca06b1f5a0ac7bb2fa61d11ac66902",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:39/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:39",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

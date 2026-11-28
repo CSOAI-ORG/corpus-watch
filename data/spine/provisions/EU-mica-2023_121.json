@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:121",
+ "label": "EU-mica-2023 Article 121",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "75c11d6f027d94c80774bccec03d90d280e9c037084d851ac00413c15add4b0d",
+ "sha256_v1": "",
+ "sha256_v2": "75c11d6f027d94c80774bccec03d90d280e9c037084d851ac00413c15add4b0d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "75c11d6f027d94c80774bccec03d90d280e9c037084d851ac00413c15add4b0d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:121/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Legal privilege\nThe powers conferred on EBA by Articles 122 to 125, or on any official or other person authorised by EBA, shall not be used to require the disclosure of information which is subject to legal privilege."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:121",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

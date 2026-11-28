@@ -1,0 +1,116 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-uk-gdpr-2016:42",
+ "label": "GB-uk-gdpr-2016 Article 42",
+ "instrument": "GB-uk-gdpr-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d9fc766be1f61dc49359cea211f3c7b28ae858c0bd48a588504b50476171f1ef",
+ "sha256_v1": "",
+ "sha256_v2": "d9fc766be1f61dc49359cea211f3c7b28ae858c0bd48a588504b50476171f1ef",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d9fc766be1f61dc49359cea211f3c7b28ae858c0bd48a588504b50476171f1ef",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-uk-gdpr-2016:42/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall encourage ... the establishment of data protection certification mechanisms and of data protection seals and marks, for the purpose of demonstrating compliance with this Regulation of processing operations by controllers and processors."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:42/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The specific needs of micro, small and medium-sized enterprises shall be taken into account."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:42/p2/s1",
+   "paragraph": "2",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such controllers or processors shall make binding and enforceable commitments, via contractual or other legally binding instruments, to apply those ... safeguards, including with regard to the rights of data subjects."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:42/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The certification shall be voluntary and available via a process that is transparent."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:42/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A certification pursuant to this Article shall be issued by the certification bodies referred to in Article 43 or by the Commission, on the basis of criteria approved by the Commission pursuant to Article 58(3) ... ."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:42/p6/s1",
+   "paragraph": "6",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller or processor which submits its processing to the certification mechanism shall provide the certification body referred to in Article 43, or where applicable, the Commission, with all information and access to its processing activities which are necessary to conduct the certification procedure."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:42/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Certification shall be issued to a controller or processor for a maximum period of three years and may be renewed, under the same conditions, provided that the relevant criteria continue to be met."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:42/p7/s2",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Certification shall be withdrawn, as applicable, by the certification bodies referred to in Article 43 or by the Commission where the criteria for the certification are not or are no longer met."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:42/p8/s1",
+   "paragraph": "8",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall collate all certification mechanisms and data protection seals and marks in a register and shall make them publicly available by any appropriate means."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-uk-gdpr-2016:42",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

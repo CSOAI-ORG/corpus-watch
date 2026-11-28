@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R2847:34",
+ "label": "Cyber Resilience Act Art. 34",
+ "instrument": "Cyber Resilience Act",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "bd70497acb717e6ef4ee0d2fc014ac322b4ce7c2dc49ba7fa4a83e513d05bc33",
+ "sha256_v1": "bd70497acb717e6ef4ee0d2fc014ac322b4ce7c2dc49ba7fa4a83e513d05bc33",
+ "sha256_v2": "284b53656e6f46e9e51be22036c0f24226b3c91ef73fb4ecf4384407c66765d5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "284b53656e6f46e9e51be22036c0f24226b3c91ef73fb4ecf4384407c66765d5",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R2847:34/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R2847:34",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

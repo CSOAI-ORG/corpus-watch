@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB2885-2024:SEC-1",
+ "label": "US-CA-AB2885-2024 SECTION 1.",
+ "instrument": "US-CA-AB2885-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3656004015a1a50fe82fa48c5a01671c839c1bbba7e2f1a4a083deb924c95d8e",
+ "sha256_v1": "",
+ "sha256_v2": "3656004015a1a50fe82fa48c5a01671c839c1bbba7e2f1a4a083deb924c95d8e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "3656004015a1a50fe82fa48c5a01671c839c1bbba7e2f1a4a083deb924c95d8e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB2885-2024:SEC-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(B)A service or application that provides email or direct messaging services shall not be considered to meet this criterion on the basis of that function alone."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB2885-2024:SEC-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

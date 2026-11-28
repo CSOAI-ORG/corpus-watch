@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:sch21",
+ "label": "GB-dpa-2018 Schedule 21",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "afb7d4d6b6b65e7c6d59fab75f7ab8a6d1aa6d1790667d2b673c40bbd1ec7eb8",
+ "sha256_v1": "",
+ "sha256_v2": "afb7d4d6b6b65e7c6d59fab75f7ab8a6d1aa6d1790667d2b673c40bbd1ec7eb8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "afb7d4d6b6b65e7c6d59fab75f7ab8a6d1aa6d1790667d2b673c40bbd1ec7eb8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:sch21/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(5C)\nWhere a valid notification is made the Commission must, without undue delay—\n(a)\ndecide whether or not to approve the rules, and\n(b)\nnotify the controller or processor of that decision."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:sch21/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(6)\nThe Commission must keep the operation of this paragraph under review."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:sch21/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)\nthe maximum amount of a penalty in sterling must be determined by applying the spot rate of exchange set by the Bank of England on the day on which the penalty notice is given under section 155 of this Act."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:sch21/p0/s4",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\nThe Commissioner must forward the Board's opinion or decision to the court or tribunal dealing with the proceedings."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:sch21",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

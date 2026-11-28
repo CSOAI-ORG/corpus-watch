@@ -1,0 +1,58 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R2847:42",
+ "label": "Cyber Resilience Act Art. 42",
+ "instrument": "Cyber Resilience Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "1d7535ea0555fb90e464f8304f2ef1bee07565f6061931584ddcaeaa300ac3e9",
+ "sha256_v1": "1d7535ea0555fb90e464f8304f2ef1bee07565f6061931584ddcaeaa300ac3e9",
+ "sha256_v2": "6eb9af2a3f455ff0b2aeea67118a1234f696596e90a2c8eddae1fdd2751a16b2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "6eb9af2a3f455ff0b2aeea67118a1234f696596e90a2c8eddae1fdd2751a16b2",
+ "agent_register_kinds": [
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R2847:42/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "A conformity assessment body shall submit an application for notification to the notifying authority of the Member State in which it is established."
+  },
+  {
+   "obligation_id": "32024R2847:42/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "That application shall be accompanied by a description of the conformity assessment activities, the conformity assessment procedure or procedures and the product or products with digital elements for which that body claims to be competent, as well as, where applicable, by an accreditation certificate issued by a national accreditation body attesting that the conformity assessment body fulfils the requirements laid down in Article 39."
+  },
+  {
+   "obligation_id": "32024R2847:42/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Where the conformity assessment body concerned cannot provide an accreditation certificate, it shall provide the notifying authority with all the documentary evidence necessary for the verification, recognition and regular monitoring of its compliance with the requirements laid down in Article 39."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R2847:42",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

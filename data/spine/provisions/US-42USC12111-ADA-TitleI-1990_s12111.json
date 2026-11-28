@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-42USC12111-ADA-TitleI-1990:s12111",
+ "label": "US-42USC12111-ADA-TitleI-1990 42 U.S.C. 12111",
+ "instrument": "US-42USC12111-ADA-TitleI-1990",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "c58743a7d40194d0d2dc30ce47b0710ee3333c8ad7c5752729bf78e06b9b5497",
+ "sha256_v1": "",
+ "sha256_v2": "c58743a7d40194d0d2dc30ce47b0710ee3333c8ad7c5752729bf78e06b9b5497",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "c58743a7d40194d0d2dc30ce47b0710ee3333c8ad7c5752729bf78e06b9b5497",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-42USC12111-ADA-TitleI-1990:s12111/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The terms \"person\", \"labor organization\", \"employment agency\", \"commerce\", and \"industry affecting commerce\", shall have the same meaning given such terms in section 2000e of this title."
+  },
+  {
+   "obligation_id": "US-42USC12111-ADA-TitleI-1990:s12111/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the purposes of this subchapter, consideration shall be given to the employer's judgment as to what functions of a job are essential, and if an employer has prepared a written description before advertising or interviewing applicants for the job, this description shall be considered evidence of the essential functions of the job."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-42USC12111-ADA-TitleI-1990:s12111",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:23",
+ "label": "GDPR Art. 23",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "344f61019caaf215e80d367f6caa4a6cbce0dffb5092811438dc4b72d3ab1746",
+ "sha256_v1": "344f61019caaf215e80d367f6caa4a6cbce0dffb5092811438dc4b72d3ab1746",
+ "sha256_v2": "79ba519a501e8c3a4603e01da12fd08c542e5c8758fb1b22c94a493235a4c7d0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "79ba519a501e8c3a4603e01da12fd08c542e5c8758fb1b22c94a493235a4c7d0",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:23/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In particular, any legislative measure referred to in paragraph 1 shall contain specific provisions at least, where relevant, as to:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:23",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

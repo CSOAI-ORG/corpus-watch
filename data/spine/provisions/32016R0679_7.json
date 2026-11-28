@@ -1,0 +1,99 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:7",
+ "label": "GDPR Art. 7",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "097ac3f58c29181a76ce575f9840e78a7c20792eb0a9620ab900f8643e1efe82",
+ "sha256_v1": "097ac3f58c29181a76ce575f9840e78a7c20792eb0a9620ab900f8643e1efe82",
+ "sha256_v2": "a18585aff48a171dbd3894cc09728dacad33755aef9156d58a0c17a37b4035df",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "a18585aff48a171dbd3894cc09728dacad33755aef9156d58a0c17a37b4035df",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:7/p1/s1",
+   "paragraph": "1",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where processing is based on consent, the controller shall be able to demonstrate that the data subject has consented to processing of his or her personal data."
+  },
+  {
+   "obligation_id": "32016R0679:7/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the data subject's consent is given in the context of a written declaration which also concerns other matters, the request for consent shall be presented in a manner which is clearly distinguishable from the other matters, in an intelligible and easily accessible form, using clear and plain language."
+  },
+  {
+   "obligation_id": "32016R0679:7/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The data subject shall have the right to withdraw his or her consent at any time."
+  },
+  {
+   "obligation_id": "32016R0679:7/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The withdrawal of consent shall not affect the lawfulness of processing based on consent before its withdrawal."
+  },
+  {
+   "obligation_id": "32016R0679:7/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Prior to giving consent, the data subject shall be informed thereof."
+  },
+  {
+   "obligation_id": "32016R0679:7/p3/s4",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It shall be as easy to withdraw as to give consent."
+  },
+  {
+   "obligation_id": "32016R0679:7/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When assessing whether consent is freely given, utmost account shall be taken of whether, inter alia , the performance of a contract, including the provision of a service, is conditional on consent to the processing of personal data that is not necessary for the performance of that contract."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

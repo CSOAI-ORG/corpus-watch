@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB947-2026:SEC-1:1522.",
+ "label": "US-CA-SB947-2026 SECTION 1. / 1522.",
+ "instrument": "US-CA-SB947-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "53de77b56b7ddbbe7a8d3874815d436c42357d6158d2053fa8673a727a709cd7",
+ "sha256_v1": "",
+ "sha256_v2": "53de77b56b7ddbbe7a8d3874815d436c42357d6158d2053fa8673a727a709cd7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "53de77b56b7ddbbe7a8d3874815d436c42357d6158d2053fa8673a727a709cd7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB947-2026:SEC-1:1522./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)An employer shall not use an ADS to do any of the following:"
+  },
+  {
+   "obligation_id": "US-CA-SB947-2026:SEC-1:1522./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)(1)An employer shall not rely solely on an ADS when making a disciplinary or termination decision."
+  },
+  {
+   "obligation_id": "US-CA-SB947-2026:SEC-1:1522./p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)If an employer primarily relies upon an ADS output to make a disciplinary or termination decision, the employer shall direct a human to corroborate the decision using data that was collected or used to produce the ADS output or other relevant corroborating or supporting information."
+  },
+  {
+   "obligation_id": "US-CA-SB947-2026:SEC-1:1522./p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)If an employer cannot corroborate the ADS output, or the human reviewer has concluded that the ADS output is inaccurate, incomplete, or misleading, the employer shall not use the ADS output to make a disciplinary or termination decision."
+  },
+  {
+   "obligation_id": "US-CA-SB947-2026:SEC-1:1522./p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d)An employee shall have the right to request, and an employer shall provide, a meaningful, objective description of the employee’s own data used by the ADS when an employer has primarily used an ADS to make a disciplinary or termination decision."
+  },
+  {
+   "obligation_id": "US-CA-SB947-2026:SEC-1:1522./p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e)For purposes of safeguarding the privacy rights of consumers, employees, and individuals, when an employer is required to provide a description of employee data pursuant to this part, that description shall be provided in a manner that anonymizes the customer’s, other employee’s, or individual’s personal information."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB947-2026:SEC-1:1522.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-WA-HB1170-AIprovenance-2026:Sec-6",
+ "label": "US-WA-HB1170-AIprovenance-2026 Sec. 6",
+ "instrument": "US-WA-HB1170-AIprovenance-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "edcff919443f2dce584ca5647bfdc8caf355d1e28396f21915f6125e4ebc20e8",
+ "sha256_v1": "",
+ "sha256_v2": "edcff919443f2dce584ca5647bfdc8caf355d1e28396f21915f6125e4ebc20e8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "edcff919443f2dce584ca5647bfdc8caf355d1e28396f21915f6125e4ebc20e8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-WA-HB1170-AIprovenance-2026:Sec-6/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1) A government agency that makes available an artificial intelligence system intended to interact with consumers must disclose to each consumer, before or at the time of interaction, that the consumer is interacting with an artificial intelligence system."
+  },
+  {
+   "obligation_id": "US-WA-HB1170-AIprovenance-2026:Sec-6/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The disclosure must be:"
+  },
+  {
+   "obligation_id": "US-WA-HB1170-AIprovenance-2026:Sec-6/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3) An agency is required to make the disclosure under subsection (1) of this section regardless of whether it would be obvious to a reasonable consumer that the consumer is interacting with an artificial intelligence system."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-WA-HB1170-AIprovenance-2026:Sec-6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB853-2025:SEC-4",
+ "label": "US-CA-AB853-2025 SEC. 4.",
+ "instrument": "US-CA-AB853-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "41f6841a4034b8644018c52c7211192bb8ad7dfdaa2a4740e4a6be7831be52ce",
+ "sha256_v1": "",
+ "sha256_v2": "41f6841a4034b8644018c52c7211192bb8ad7dfdaa2a4740e4a6be7831be52ce",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "41f6841a4034b8644018c52c7211192bb8ad7dfdaa2a4740e4a6be7831be52ce",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB853-2025:SEC-4/p4/s1",
+   "paragraph": "4",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)A capture device manufacturer shall, with respect to any capture device the capture device manufacturer first produced for sale in the state on or after January 1, 2028, do both of the following:"
+  },
+  {
+   "obligation_id": "US-CA-AB853-2025:SEC-4/p4/s2",
+   "paragraph": "4",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)A capture device manufacturer shall comply with this section only to the extent technically feasible and compliant with widely adopted specifications adopted by an established standards-setting body."
+  },
+  {
+   "obligation_id": "US-CA-AB853-2025:SEC-4/p4/s3",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)This section shall become operative on January 1, 2028."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB853-2025:SEC-4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

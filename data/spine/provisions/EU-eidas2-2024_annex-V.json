@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eidas2-2024:annex-V",
+ "label": "EU-eidas2-2024 Annex V",
+ "instrument": "EU-eidas2-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "bdbfca8015fd8d05183b5dc79d1ad4b67016f9e501290c31d2b6a5066cebb448",
+ "sha256_v1": "",
+ "sha256_v2": "bdbfca8015fd8d05183b5dc79d1ad4b67016f9e501290c31d2b6a5066cebb448",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "bdbfca8015fd8d05183b5dc79d1ad4b67016f9e501290c31d2b6a5066cebb448",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eidas2-2024:annex-V/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ANNEX V\n‘ANNEX V\nREQUIREMENTS FOR QUALIFIED ELECTRONIC ATTESTATION OF ATTRIBUTES\nQualified electronic attestation of attributes shall contain:"
+  },
+  {
+   "obligation_id": "EU-eidas2-2024:annex-V/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)\na set of data unambiguously representing the entity to which the attested attributes refer; if a pseudonym is used, it shall be clearly indicated;"
+  },
+  {
+   "obligation_id": "EU-eidas2-2024:annex-V/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(f)\nthe attestation identity code, which must be unique for the qualified trust service provider and, if applicable, the indication of the scheme of attestations that the attestation of attributes is part of;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eidas2-2024:annex-V",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s50D",
+ "label": "GB-dpa-2018 Section 50D",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ea295ec908d4c0255f4c8953a198870b252bee089e42b7e699cf10ae03f20bec",
+ "sha256_v1": "",
+ "sha256_v2": "ea295ec908d4c0255f4c8953a198870b252bee089e42b7e699cf10ae03f20bec",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ea295ec908d4c0255f4c8953a198870b252bee089e42b7e699cf10ae03f20bec",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s50D/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nThe Secretary of State may by regulations make the following types of provision about the safeguards required under section 50C(1)—\n(a)\nprovision requiring the safeguards to include measures in addition to those described in section 50C(2),\n(b)\nprovision imposing requirements which supplement what section 50C(2) requires the safeguards to consist of or include (including, for example, provision about how and when things described in section 50C(2) must be done or be capable of being done), and\n(c)\nprovision about measures which are not to be taken to satisfy one or more of paragraphs (a) to (d) of section 50C(2)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s50D",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

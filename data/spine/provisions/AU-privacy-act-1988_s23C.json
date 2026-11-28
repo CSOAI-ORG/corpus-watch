@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s23C",
+ "label": "AU-privacy-act-1988 Section 23C",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e2a6b698404e865c1d46ce9ed2a78226fb14e215363eb6f1df056ff768585aec",
+ "sha256_v1": "",
+ "sha256_v2": "e2a6b698404e865c1d46ce9ed2a78226fb14e215363eb6f1df056ff768585aec",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "e2a6b698404e865c1d46ce9ed2a78226fb14e215363eb6f1df056ff768585aec",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s23C/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\tthe respondent for the complaint is a credit reporting body; and\n(b)\tthe complaint relates to credit information or credit eligibility information that a credit provider holds;\nthe respondent must, in writing:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s23C/p0/s2",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i)\tcredit reporting information that a credit reporting body holds; or\n(ii)\tcredit information or credit eligibility information that another credit provider holds;\nthe respondent must, in writing:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s23C/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\ta credit reporting body discloses credit reporting information to which the complaint relates under Division 2 of this Part; and\n(b)\tat the time of the disclosure, a decision about the complaint under subsection 23B(4) has not been made;\nthe body must, at that time, notify in writing the recipient of the information of the complaint."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s23C/p0/s4",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\ta credit provider discloses personal information to which the complaint relates under Division 3 of this Part or under the Australian Privacy Principles; and\n(b)\tat the time of the disclosure, a decision about the complaint under subsection 23B(4) has not been made;\nthe provider must, at that time, notify in writing the recipient of the information of the complaint."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s23C",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

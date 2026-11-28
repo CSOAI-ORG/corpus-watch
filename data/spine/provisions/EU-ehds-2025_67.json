@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:67",
+ "label": "EU-ehds-2025 Article 67",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e192984f88fc73e5a5b9fd5b2afb66ca205f1f580de08ad52afe032c4b62fac9",
+ "sha256_v1": "",
+ "sha256_v2": "e192984f88fc73e5a5b9fd5b2afb66ca205f1f580de08ad52afe032c4b62fac9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "e192984f88fc73e5a5b9fd5b2afb66ca205f1f580de08ad52afe032c4b62fac9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:67/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The health data access application shall include:"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:67/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)\nthe health data applicant’s identity, a description of that health data applicant’s professional functions and activities, including the identity of the natural persons who would have access to the electronic health data if a data permit were issued; the health data applicant shall notify the health data access body of any update of the list of natural persons;"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:67/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When seeking access to electronic health data held by health data holders established in more than one Member State or from the relevant authorised participants in HealthData@EU referred to in Article 75, the health data applicant shall submit a single health data access application through the health data access body of the Member State where the main establishment of the health data applicant is located, through the health data access body of the Member State in which one of those health data holders is established or through the services provided by the Commission in HealthData@EU referred to in Article"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:67/p75/s1",
+   "paragraph": "75",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The health data access application shall be automatically forwarded to the relevant authorised participants in HealthData@EU and to the health data access bodies of the Member States where the health data holders identified in the health data access application are established."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:67/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When seeking access to the personal electronic health data in a pseudonymised format, the health data applicant shall provide, together with the health data access application, a description of how the processing would comply with applicable Union and national law on data protection and privacy, in particular with Regulation (EU) 2016/679 and, more specifically, with Article 6(1) thereof."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:67/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Public sector bodies and Union institutions, bodies, offices and agencies shall provide the same information as required under paragraphs 2 and 4, except for paragraph 2, point (h), in which case they shall submit instead information concerning the period for which the electronic health data can be accessed, the frequency of that access or the frequency of the data updates."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:67",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

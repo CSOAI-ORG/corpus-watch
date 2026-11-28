@@ -1,0 +1,216 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:60",
+ "label": "EU-mica-2023 Article 60",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "5974528310483bc0526687e1f1699064f4a9abff6c62d16bdcd5c7ee96479938",
+ "sha256_v1": "",
+ "sha256_v2": "5974528310483bc0526687e1f1699064f4a9abff6c62d16bdcd5c7ee96479938",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "5974528310483bc0526687e1f1699064f4a9abff6c62d16bdcd5c7ee96479938",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:60/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A central securities depository authorised under Regulation (EU) No 909/2014 of the European Parliament and of the Council (45) shall only provide custody and administration of crypto-assets on behalf of clients if it notifies the information referred to in paragraph 7 of this Article to the competent authority of the home Member State, at least 40 working days before providing that service for the first time."
+  },
+  {
+   "obligation_id": "EU-mica-2023:60/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An electronic money institution authorised under Directive 2009/110/EC shall only provide custody and administration of crypto-assets on behalf of clients and transfer services for crypto-assets on behalf of clients with regard to the e-money tokens it issues if it notifies the competent authority of the home Member State of the information referred to in paragraph 7 of this Article at least 40 working days before providing those services for the first time."
+  },
+  {
+   "obligation_id": "EU-mica-2023:60/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the purposes of paragraphs 1 to 6, the following information shall be notified:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:60/p8/s1",
+   "paragraph": "8",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "A competent authority receiving a notification as referred to in paragraphs 1 to 6 shall, within 20 working days of receipt of such notification, assess whether all required information has been provided."
+  },
+  {
+   "obligation_id": "EU-mica-2023:60/p8/s2",
+   "paragraph": "8",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the competent authority concludes that a notification is not complete, it shall immediately inform the notifying entity thereof and set a deadline by which that entity is required to provide the missing information."
+  },
+  {
+   "obligation_id": "EU-mica-2023:60/p8/s3",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The deadline for providing any missing information shall not exceed 20 working days from the date of the request."
+  },
+  {
+   "obligation_id": "EU-mica-2023:60/p8/s4",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Until the expiry of that deadline, each period as set out in paragraphs 1 to 6 shall be suspended."
+  },
+  {
+   "obligation_id": "EU-mica-2023:60/p8/s5",
+   "paragraph": "8",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Any further requests by the competent authority for completion or clarification of the information shall be at its discretion but shall not result in a suspension of any period set out in paragraphs 1 to"
+  },
+  {
+   "obligation_id": "EU-mica-2023:60/p6/s1",
+   "paragraph": "6",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The crypto-asset service provider shall not begin providing the crypto-asset services as long as the notification is incomplete."
+  },
+  {
+   "obligation_id": "EU-mica-2023:60/p9/s1",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The entities referred to in paragraphs 1 to 6 shall not be required to submit any information referred to in paragraph 7 that was previously submitted by them to the competent authority where such information would be identical."
+  },
+  {
+   "obligation_id": "EU-mica-2023:60/p9/s2",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When submitting the information referred to in paragraph 7, the entities referred to in paragraphs 1 to 6 shall expressly state that any information that was submitted previously is still up-to-date."
+  },
+  {
+   "obligation_id": "EU-mica-2023:60/p10/s1",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the entities referred to in paragraphs 1 to 6 of this Article provide crypto-asset services, they shall not be subject to Articles 62, 63, 64, 67, 83 and 84."
+  },
+  {
+   "obligation_id": "EU-mica-2023:60/p11/s1",
+   "paragraph": "11",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The right to provide crypto-asset services referred to in paragraphs 1 to 6 of this Article shall be revoked upon the withdrawal of the relevant authorisation that enabled the respective entity to provide the crypto-asset services without being required to obtain an authorisation pursuant to Article 59."
+  },
+  {
+   "obligation_id": "EU-mica-2023:60/p12/s1",
+   "paragraph": "12",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Competent authorities shall communicate to ESMA the information specified in Article 109(5), after verifying the completeness of the information referred to in paragraph"
+  },
+  {
+   "obligation_id": "EU-mica-2023:60/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ESMA shall make such information available in the register referred to in Article 109 by the starting date of the intended provision of crypto-asset services."
+  },
+  {
+   "obligation_id": "EU-mica-2023:60/p13/s1",
+   "paragraph": "13",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ESMA, in close cooperation with EBA, shall develop draft regulatory technical standards to further specify the information referred to in paragraph"
+  },
+  {
+   "obligation_id": "EU-mica-2023:60/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024."
+  },
+  {
+   "obligation_id": "EU-mica-2023:60/p14/s1",
+   "paragraph": "14",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "ESMA, in close cooperation with EBA, shall develop draft implementing technical standards to establish standard forms, templates and procedures for the notification pursuant to paragraph"
+  },
+  {
+   "obligation_id": "EU-mica-2023:60/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "ESMA shall submit the draft implementing technical standards referred to in the first subparagraph to the Commission by 30 June 2024."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:60",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

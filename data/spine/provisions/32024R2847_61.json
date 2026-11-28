@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R2847:61",
+ "label": "Cyber Resilience Act Art. 61",
+ "instrument": "Cyber Resilience Act",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "65d0c12bd1c2e28f06df72191f69b2ef539c80b95d91d5cdb16000f028033726",
+ "sha256_v1": "65d0c12bd1c2e28f06df72191f69b2ef539c80b95d91d5cdb16000f028033726",
+ "sha256_v2": "fc85e6d1860f881000d3aa63a6f3c189fcad55ec128563fa036f1f9cdffe8d11",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "fc85e6d1860f881000d3aa63a6f3c189fcad55ec128563fa036f1f9cdffe8d11",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R2847:61/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 61 exercise of the delegation",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R2847:61",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

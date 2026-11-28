@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s74AB",
+ "label": "GB-dpa-2018 Section 74AB",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "dfc361068c3d431f1a6a7125e0d47445271d84ebb07f4c5899d46735e9221555",
+ "sha256_v1": "",
+ "sha256_v2": "dfc361068c3d431f1a6a7125e0d47445271d84ebb07f4c5899d46735e9221555",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "dfc361068c3d431f1a6a7125e0d47445271d84ebb07f4c5899d46735e9221555",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s74AB/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nIn considering whether the data protection test is met in relation to transfers of personal data to a third country or international organisation, the Secretary of State must consider, among other things—\n(a)\nrespect for the rule of law and for human rights in the country or by the organisation,\n(b)\nthe existence, and powers, of an authority responsible for enforcing the protection of data subjects with regard to the processing of personal data in the country or by the organisation,\n(c)\narrangements for judicial or non-judicial redress for data subjects in connection with such processing,\n(d)\nrules about the transfer of personal data from the country or by the organisation to other count"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s74AB",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

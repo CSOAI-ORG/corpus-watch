@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ecb-opinion-con-2026-10:3",
+ "label": "EU-ecb-opinion-con-2026-10 section 3",
+ "instrument": "EU-ecb-opinion-con-2026-10",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "4c607fea502fa338ae40240d460ba0d4d83604f88200c993591815b79f5df0ac",
+ "sha256_v1": "",
+ "sha256_v2": "4c607fea502fa338ae40240d460ba0d4d83604f88200c993591815b79f5df0ac",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "4c607fea502fa338ae40240d460ba0d4d83604f88200c993591815b79f5df0ac",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ecb-opinion-con-2026-10:3/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ecb-opinion-con-2026-10:3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

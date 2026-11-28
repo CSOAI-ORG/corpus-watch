@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB896-2024:SEC-2:11549.65.",
+ "label": "US-CA-SB896-2024 SEC. 2. / 11549.65.",
+ "instrument": "US-CA-SB896-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "858997f024bc71677002f7c40c270cd7bb8e0f6f4ef57b7b4483c254ac93649e",
+ "sha256_v1": "",
+ "sha256_v2": "858997f024bc71677002f7c40c270cd7bb8e0f6f4ef57b7b4483c254ac93649e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "858997f024bc71677002f7c40c270cd7bb8e0f6f4ef57b7b4483c254ac93649e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB896-2024:SEC-2:11549.65./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)The Department of Technology, under the guidance of the Government Operations Agency, the Office of Data and Innovation, and the Department of Human Resources, shall update the report, as needed, to respond to significant developments and shall, as appropriate, consult with academia, industry experts, and organizations that represent state exclusive employee representatives."
+  },
+  {
+   "obligation_id": "US-CA-SB896-2024:SEC-2:11549.65./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)(1)The Office of Emergency Services shall, as appropriate, perform a risk analysis of potential threats posed by the use of GenAI to California’s critical infrastructure, including those that could lead to mass casualty events."
+  },
+  {
+   "obligation_id": "US-CA-SB896-2024:SEC-2:11549.65./p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "(2)The analysis required by paragraph (1) shall be provided to the Governor, and, if appropriate, shall include recommendations reflecting changes to artificial intelligence technology, its applications, and risk management, including further private actions, administrative actions, and collaboration with the Legislature to guard against potential threats and vulnerabilities."
+  },
+  {
+   "obligation_id": "US-CA-SB896-2024:SEC-2:11549.65./p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)A high-level summary of the analysis required by paragraph (1) shall be submitted annually to the Legislature."
+  },
+  {
+   "obligation_id": "US-CA-SB896-2024:SEC-2:11549.65./p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)Any state agency or department shall consider procurement and enterprise use opportunities in which GenAI can improve the efficiency, effectiveness, accessibility, and equity of government operations consistent with the Government Operations Agency, the Department of General Services, and the Department of Technology’s policies for public sector GenAI procurement."
+  },
+  {
+   "obligation_id": "US-CA-SB896-2024:SEC-2:11549.65./p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d)Legal counsel for any state agency or department shall consider any potential impact of GenAI on regulatory issues under the respective agency’s or department’s authority and recommend necessary updates, if appropriate, as a result of this evolving technology."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB896-2024:SEC-2:11549.65.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

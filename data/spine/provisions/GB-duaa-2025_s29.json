@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s29",
+ "label": "GB-duaa-2025 Section 29",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "862b0d3e0bc6717c4f2c7c1be42c9fab5fd264d7d641328a8e4a9776a74ee285",
+ "sha256_v1": "",
+ "sha256_v2": "862b0d3e0bc6717c4f2c7c1be42c9fab5fd264d7d641328a8e4a9776a74ee285",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "862b0d3e0bc6717c4f2c7c1be42c9fab5fd264d7d641328a8e4a9776a74ee285",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s29/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nIn preparing a set of rules, the Secretary of State must consult—\n(a)\nthe Information Commission, and\n(b)\nsuch other persons as the Secretary of State considers appropriate."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s29/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(7)\nA supplementary code, and any revised version of a supplementary code, must specify the time it comes into force (which must not be a time earlier than the time it is published)."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s29/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(9)\nWhere the Secretary of State revises and republishes a supplementary code, the supplementary code (as revised) may provide that from a date, or from the end of a period, specified in the code a pre-revision certificate is required to be ignored for the purposes of sections 36(1)(a), 37(1)(c), 43(1)(c)and 44(1)(c)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s29",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

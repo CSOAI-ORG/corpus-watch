@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:94",
+ "label": "EU-ivdr-2017 Article 94",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "a3e0720e4ba12c09ee52653ccccc8f9ed421c0f88ca75e407c7c169f8da471d4",
+ "sha256_v1": "",
+ "sha256_v2": "a3e0720e4ba12c09ee52653ccccc8f9ed421c0f88ca75e407c7c169f8da471d4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a3e0720e4ba12c09ee52653ccccc8f9ed421c0f88ca75e407c7c169f8da471d4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:94/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Any measure adopted by the competent authorities of the Member States pursuant to Articles 90 to 93 shall state the exact grounds on which it is based."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:94/p1/s2",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where such a measure is addressed to a specific economic operator, the competent authority shall notify without delay the economic operator concerned of that measure, and shall at the same time inform that economic operator of the remedies available under the law or the administrative practice of the Member State concerned and of the time limits to which such remedies are subject."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:94/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Where the measure is of general applicability, it shall be appropriately published."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:94/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Except in cases where immediate action is necessary for reasons of unacceptable risk to human health or safety, the economic operator concerned shall be given the opportunity to make submissions to the competent authority within an appropriate period of time that is clearly defined before any measure is adopted."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:94/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where action has been taken without the economic operator having had the opportunity to make submissions as referred to in the first subparagraph, it shall be given the opportunity to make submissions as soon as possible and the action taken shall be reviewed promptly thereafter."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:94/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any measure adopted shall be immediately withdrawn or amended upon the economic operator's demonstrating that it has taken effective corrective action and that the device is in compliance with the requirements of this Regulation."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:94/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a measure adopted pursuant to Articles 90 to 93 concerns a device for which a notified body has been involved in the conformity assessment, the competent authorities shall by means of the electronic system referred to in Article 95 inform the relevant notified body and the authority responsible for the notified body of the measure taken."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:94",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

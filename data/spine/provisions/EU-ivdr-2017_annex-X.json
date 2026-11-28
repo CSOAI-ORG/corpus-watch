@@ -1,0 +1,396 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:annex-X",
+ "label": "EU-ivdr-2017 Annex X",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "a4f48a23b158fd42c8a2e5906694f71814693d2085461d14beebbb70d1bc6574",
+ "sha256_v1": "",
+ "sha256_v2": "a4f48a23b158fd42c8a2e5906694f71814693d2085461d14beebbb70d1bc6574",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a4f48a23b158fd42c8a2e5906694f71814693d2085461d14beebbb70d1bc6574",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p2/s1",
+   "paragraph": "2",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Application\nThe manufacturer shall lodge an application for assessment with a notified body."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "The application shall include:\n—\nthe name of the manufacturer and the address of its registered place of business and, if the application is lodged by the authorised representative, the name of the authorised representative and the address of its registered place of business,\n—\nthe technical documentation referred to in Annexes II and III."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The applicant shall make a representative sample of the device production envisaged (‘type’) available to the notified body."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p2/s4",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "If required, the device shall be returned on completion of the technical documentation assessment;\n—\ndata showing the suitability of the device in relation to its intended purpose for self-testing or near-patient testing,\n—\nthe information to be provided with the device on its label and its instructions for use, and\n—\na written declaration that no application has been lodged with any other notified body for the same type, or information about any previous application for the same type that was refused by another notified body or was withdrawn by the manufacturer or its authorised representative before that other notified body made its final assessment."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p3/s1",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Assessment\nThe notified body shall:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p3/s2",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notified body shall carry out adequate physical or laboratory tests in relation to the device or request the manufacturer to carry out such tests;"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "(b)\nexamine and assess the technical documentation for conformity with the requirements of this Regulation that are applicable to the device and verify that the type has been manufactured in conformity with that documentation; it shall also record the items designed in conformity with the applicable standards referred to in Article 8 or with applicable CS, and record items not designed on the basis of the relevant standards referred to in Article 8 or of the relevant CS;"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p3/s4",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notified body shall employ device reviewers with sufficient clinical expertise and, if necessary, use external clinical experts with direct and current experience relating to the clinical application of the device in question for the purposes of that review;"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p3/s5",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notified body shall clearly document its conclusions on the claimed equivalence, and on the relevance and adequacy of the data for demonstrating conformity;"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p3/s6",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the device has to be connected to another device or devices in order to operate as intended, proof shall be provided that it conforms to the general safety and performance requirements when connected to any such device or devices having the characteristics specified by the manufacturer;"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p3/s7",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The verification shall include laboratory tests by the EU reference laboratory in accordance with Article 48(5)."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p3/s8",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In addition, the notified body shall, in the cases referred to in Article 48(6) of this Regulation, consult the relevant experts referred to in Article 106 of Regulation (EU) 2017/745 following the procedure laid down in Article 48(6) of this Regulation on the performance evaluation report of the manufacturer."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p3/s9",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The EU reference laboratory shall provide a scientific opinion within 60 days."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p3/s10",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The scientific opinion of the EU reference laboratory and, where the procedure laid down in Article 48(6) is applicable, the views of the experts consulted, and any possible updates shall be included in the documentation of the notified body concerning the device."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p3/s11",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notified body shall give due consideration to the views expressed in the scientific opinion of the EU reference laboratory, and, where applicable, to the views expressed by the experts consulted in accordance with Article 48(6), when making its decision."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p3/s12",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notified body shall not deliver the certificate if the scientific opinion of the EU reference laboratory is unfavourable;"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p3/s13",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the medicinal product falls exclusively within the scope of the Annex of Regulation (EC) No 726/2004, the notified body shall consult the EMA."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p3/s14",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the medicinal product concerned is already authorised, or if an application for its authorisation has been submitted, the notified body shall consult the medicinal products competent authority, or the EMA, that is responsible for the authorisation."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p3/s15",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The medicinal products authority consulted shall deliver its opinion within 60 days of receipt of all the necessary documentation."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p3/s16",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The opinion of the medicinal products authority consulted and any possible update shall be included in the documentation of the notified body concerning the device."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p3/s17",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notified body shall give due consideration to the opinion expressed by the medicinal products authority consulted when making its decision."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p3/s18",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It shall convey its final decision to the medicinal products authority consulted; and\n(l)\ndraw up an EU type-examination report on the results of the assessments and tests carried out, and scientific opinions provided under, points (a) to (k), including a performance evaluation assessment report for class C or class D devices or covered by the third indent of Section 2."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p4/s1",
+   "paragraph": "4",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Certificate\nIf the type conforms to this Regulation, the notified body shall issue an EU type-examination certificate."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The certificate shall contain the name and address of the manufacturer, the conclusions of the type examination assessment, the conditions of certificate's validity and the data needed for identification of the type approved."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p4/s3",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The certificate shall be drawn up in accordance with Annex XII."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p4/s4",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The relevant parts of the documentation shall be annexed to the certificate and a copy kept by the notified body."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The applicant shall inform the notified body which issued the EU type-examination certificate of any planned change to the approved type or of its intended purpose and conditions of use.\n5.2."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Changes to the approved device including limitations of its intended purpose and conditions of use shall require further approval from the notified body which issued the EU type-examination certificate where such changes may affect conformity with the general safety and performance requirements or with the conditions prescribed for use of the product."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p5/s3",
+   "paragraph": "5",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notified body shall examine the planned changes, notify the manufacturer of its decision and provide him with a supplement to the EU type-examination report."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p5/s4",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The approval of any change to the approved type shall take the form of a supplement to the EU type-examination certificate.\n5.3."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p5/s5",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Changes to the intended purpose and conditions of use of the approved device, with the exception of limitations of the intended purpose and conditions of use, shall necessitate a new application for a conformity assessment.\n5.4."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p5/s6",
+   "paragraph": "5",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the changes could affect the performance claimed by the manufacturer or compliance with the CS or with other solutions chosen by the manufacturer which were approved through the EU type-examination certificate, the notified body shall consult the EU reference laboratory that was involved in the initial consultation, in order to confirm that compliance with the CS, when available, or with other solutions chosen by the manufacturer to ensure a level of safety and performance that is at least equivalent are maintained."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p5/s7",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The EU reference laboratory shall provide a scientific opinion within 60 days.\n5.5."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p5/s8",
+   "paragraph": "5",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the changes affect the performance or the intended use of a companion diagnostic approved through the EU type-examination certificate or its suitability in relation to a medicinal product, the notified body shall consult the medicinal products competent authority that was involved in the initial consultation or the EMA."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p5/s9",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The medicinal products authority consulted shall give its opinion, if any, within 30 days after receipt of the valid documentation regarding the changes."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p5/s10",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The approval of any change to the approved type shall take the form of a supplement to the initial EU type-examination certificate."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-X/p6/s1",
+   "paragraph": "6",
+   "addressee": "authorised_representative",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Administrative provisions\nThe manufacturer or, where the manufacturer does not have a registered place of business in a Member State, its authorised representative shall, for a period ending no sooner than 10 years, after the last device has been placed on the market, keep at the disposal of the competent authorities:\n—\nthe documentation referred to in the second indent of Section 2,\n—\ninformation on the changes referred to in Section 5,\n—\ncopies of EU type-examination certificates, scientific opinions and reports and their additions/supplements."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:annex-X",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

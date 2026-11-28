@@ -1,0 +1,136 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:69",
+ "label": "EU-dsa-2022 Article 69",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "1d84294e640fb0e045a9e35b7a802541dade6f916503aacb021982d16bfee4ca",
+ "sha256_v1": "",
+ "sha256_v2": "1d84294e640fb0e045a9e35b7a802541dade6f916503aacb021982d16bfee4ca",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "1d84294e640fb0e045a9e35b7a802541dade6f916503aacb021982d16bfee4ca",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:69/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the production of required books or other records related to the provision of the service concerned is incomplete or where the answers to questions asked under paragraph 2 of this Article are incorrect, incomplete or misleading, the officials and other accompanying persons authorised by the Commission to conduct an inspection shall exercise their powers upon production of a written authorisation specifying the subject matter and purpose of the inspection and the penalties provided for in Articles 74 and"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:69/p76/s1",
+   "paragraph": "76",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In good time before the inspection, the Commission shall inform the Digital Services Coordinator of the Member State in the territory in which the inspection is to be conducted thereof."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:69/p6/s1",
+   "paragraph": "6",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The provider of the very large online platform or of the very large online search engine or other natural or legal person concerned shall be required to submit to an inspection ordered by decision of the Commission."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:69/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The decision shall specify the subject matter and purpose of the inspection, set the date on which it is to begin and indicate the penalties provided for in Articles 74 and 76 and the right to have the decision reviewed by the Court of Justice of the European Union."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:69/p6/s3",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall consult the Digital Services Coordinator of the Member State on territory of which the inspection is to be conducted prior to taking that decision."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:69/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Officials of, and other persons authorised or appointed by, the Digital Services Coordinator of the Member State on the territory of which the inspection is to be conducted shall, at the request of that Digital Services Coordinator or of the Commission, actively assist the officials and other accompanying persons authorised by the Commission in relation to the inspection."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:69/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the officials and other accompanying persons authorised by the Commission find that the provider of the very large online platform or of the very large online search engine or the other person concerned opposes an inspection ordered pursuant to this Article, the Member State in the territory of which the inspection is to be conducted shall, at the request of those officials or other accompanying persons and in accordance with the national law of the Member State, afford them necessary assistance, including, where appropriate under that national law, in the form of coercive measures taken by a competent law enforcement authority, so as to enable them to conduct the inspection."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:69/p9/s1",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the assistance provided for in paragraph 8 requires authorisation from a national judicial authority in accordance with the national law of the Member State concerned, such authorisation shall be applied for by the Digital Services Coordinator of that Member State at the request of the officials and other accompanying persons authorised by the Commission."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:69/p10/s1",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the authorisation referred to in paragraph 9 is applied for, the national judicial authority before which a case has been brought shall verify that the Commission decision ordering the inspection is authentic and that the coercive measures envisaged are neither arbitrary nor excessive having regard to the subject matter of the inspection."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:69/p10/s2",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, the national judicial authority shall not call into question the necessity for the inspection nor demand information from the case file of the Commission."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:69/p10/s3",
+   "paragraph": "10",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The lawfulness of the Commission decision shall be subject to review only by the Court of Justice of the European Union."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:69",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

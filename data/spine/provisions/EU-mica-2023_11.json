@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:11",
+ "label": "EU-mica-2023 Article 11",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "46511989c8e1f5dbe46714b35d4b22c0910ca581afce0f2e6a4ee6b0ed9471b0",
+ "sha256_v1": "",
+ "sha256_v2": "46511989c8e1f5dbe46714b35d4b22c0910ca581afce0f2e6a4ee6b0ed9471b0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "46511989c8e1f5dbe46714b35d4b22c0910ca581afce0f2e6a4ee6b0ed9471b0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:11/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Offerors and persons seeking admission to trading of crypto-assets other than asset-referenced tokens or e-money tokens that have published a crypto-asset white paper in accordance with Article 9 and, where applicable, a modified crypto-asset white paper pursuant to Article 12, shall not be subject to any further information requirements with regard to the offer to the public or the admission to trading of that crypto-asset."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:11",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

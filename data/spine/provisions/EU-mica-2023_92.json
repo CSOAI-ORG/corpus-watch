@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:92",
+ "label": "EU-mica-2023 Article 92",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "fd2b75f3b59e32e3ee3a4406fc9032f207565453903449ee10e21b592550d8b6",
+ "sha256_v1": "",
+ "sha256_v2": "fd2b75f3b59e32e3ee3a4406fc9032f207565453903449ee10e21b592550d8b6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": null,
+ "sha256_current": "fd2b75f3b59e32e3ee3a4406fc9032f207565453903449ee10e21b592550d8b6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:92/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any person professionally arranging or executing transactions in crypto-assets shall have in place effective arrangements, systems and procedures to prevent and detect market abuse."
+  },
+  {
+   "obligation_id": "EU-mica-2023:92/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "That person shall be subject to the rules of notification of the Member State where it is registered or has its head office or, in the case of a branch, the Member State where the branch is situated, and shall without delay report to the competent authority of that Member State any reasonable suspicion regarding an order or transaction, including any cancellation or modification thereof, and other aspects of the functioning of the distributed ledger technology such as the consensus mechanism, where there might exist circumstances indicating that market abuse has been committed, is being committed or is likely to be committed."
+  },
+  {
+   "obligation_id": "EU-mica-2023:92/p1/s3",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authorities receiving a report of suspicious orders or transactions shall transmit such information immediately to the competent authorities of the trading platforms concerned. ▼C1"
+  },
+  {
+   "obligation_id": "EU-mica-2023:92/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ESMA shall develop draft regulatory technical standards to further specify:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:92/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 December 2024."
+  },
+  {
+   "obligation_id": "EU-mica-2023:92/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In order to ensure consistency of supervisory practices under this Article, ESMA shall by 30 June 2025 issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 on supervisory practices among the competent authorities to prevent and detect market abuse, if not already covered by the regulatory technical standards referred to in paragraph 2."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:92",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

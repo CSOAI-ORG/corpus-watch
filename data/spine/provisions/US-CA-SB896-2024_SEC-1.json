@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB896-2024:SEC-1",
+ "label": "US-CA-SB896-2024 SECTION 1.",
+ "instrument": "US-CA-SB896-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "4c7a7330dc2378b0137494cdaf27a18d92d6711728e1ce41113cf92e23386213",
+ "sha256_v1": "",
+ "sha256_v2": "4c7a7330dc2378b0137494cdaf27a18d92d6711728e1ce41113cf92e23386213",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "4c7a7330dc2378b0137494cdaf27a18d92d6711728e1ce41113cf92e23386213",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB896-2024:SEC-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This act shall be known as the Generative Artificial Intelligence Accountability Act."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB896-2024:SEC-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:97",
+ "label": "EU-mica-2023 Article 97",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9199c333ee706a1f9662b1ef6536e2aa53564b175800035224fd71acfa050f3f",
+ "sha256_v1": "",
+ "sha256_v2": "9199c333ee706a1f9662b1ef6536e2aa53564b175800035224fd71acfa050f3f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9199c333ee706a1f9662b1ef6536e2aa53564b175800035224fd71acfa050f3f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:97/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "By 30 December 2024, the ESAs shall jointly issue guidelines in accordance with Article 16 of Regulation (EU) No 1093/2010, Article 16 of Regulation (EU) No 1094/2010 and Article 16 of Regulation (EU) No 1095/2010 to specify the content and form of the explanation accompanying the crypto-asset white paper referred to in Article 8(4) and of the legal opinions on the qualification of asset-referenced tokens referred to in Article 17(1), point (b)(ii), and Article 18(2), point (e)."
+  },
+  {
+   "obligation_id": "EU-mica-2023:97/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The guidelines shall include a template for the explanation and the opinion and a standardised test for the classification of crypto-assets."
+  },
+  {
+   "obligation_id": "EU-mica-2023:97/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The ESAs shall, in accordance with Article 29 of Regulation (EU) No 1093/2010, Article 29 of Regulation (EU) No 1094/2010 and Article 29 of Regulation (EU) No 1095/2010, respectively, promote discussion among competent authorities on the classification of the crypto-assets, including on the classification of those crypto-assets that are excluded from the scope of this Regulation pursuant to Article 2(3)."
+  },
+  {
+   "obligation_id": "EU-mica-2023:97/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The ESAs shall also identify the sources of potential divergences in the approaches of the competent authorities to the classification of those crypto-assets and shall, to the extent possible, promote a common approach thereto."
+  },
+  {
+   "obligation_id": "EU-mica-2023:97/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ESMA, EIOPA or EBA, as applicable, shall provide such opinion in accordance with Article 29 of Regulation (EU) No 1093/2010, Article 29 of Regulation (EU) No 1094/2010 and Article 29 of Regulation (EU) No 1095/2010, as applicable, within 15 working days of receipt of the request from the competent authorities."
+  },
+  {
+   "obligation_id": "EU-mica-2023:97/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The ESAs shall jointly draw up an annual report based on the information contained in the register referred to in Article 109 and on the results of their work referred to in paragraphs 2 and 3 of this Article, identifying difficulties in the classification of crypto-assets and divergences in the approaches of the competent authorities."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:97",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

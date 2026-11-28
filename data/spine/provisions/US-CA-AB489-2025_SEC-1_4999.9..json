@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB489-2025:SEC-1:4999.9.",
+ "label": "US-CA-AB489-2025 SECTION 1. / 4999.9.",
+ "instrument": "US-CA-AB489-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "caae461be462a6bc030ab41d657bb7573feba8703f7585d540a2372a9ccce1ef",
+ "sha256_v1": "",
+ "sha256_v2": "caae461be462a6bc030ab41d657bb7573feba8703f7585d540a2372a9ccce1ef",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "caae461be462a6bc030ab41d657bb7573feba8703f7585d540a2372a9ccce1ef",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB489-2025:SEC-1:4999.9./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)Any provision of this division that prohibits the use of specified terms, letters, or phrases to indicate or imply possession of a license or certificate to practice a health care profession, without at that time having the appropriate license or certificate required for that practice or profession, shall be enforceable against a person or entity who develops or deploys a system or device that uses one or more of those terms, letters, or phrases in the advertising or functionality of an artificial intelligence or generative artificial intelligence system, program, device, or similar technology."
+  },
+  {
+   "obligation_id": "US-CA-AB489-2025:SEC-1:4999.9./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d)Each use of a prohibited term, letter, or phrase shall constitute a separate violation of this chapter."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB489-2025:SEC-1:4999.9.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

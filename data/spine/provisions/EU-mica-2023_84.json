@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:84",
+ "label": "EU-mica-2023 Article 84",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "6243e6343b74547a61889a1a013c36b6e6112bde18c9f313b9f55ca2e3531059",
+ "sha256_v1": "",
+ "sha256_v2": "6243e6343b74547a61889a1a013c36b6e6112bde18c9f313b9f55ca2e3531059",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "6243e6343b74547a61889a1a013c36b6e6112bde18c9f313b9f55ca2e3531059",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:84/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When performing the assessment referred to in Article 83(4), the competent authority shall appraise the suitability of the proposed acquirer and the financial soundness of the proposed acquisition referred to in Article 83(1) against all of the following criteria:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:84/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall not impose any prior conditions in respect of the level of qualifying holding that is required to be acquired under this Regulation nor allow their competent authorities to examine the proposed acquisition in terms of the economic needs of the market."
+  },
+  {
+   "obligation_id": "EU-mica-2023:84/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "ESMA, in close cooperation with EBA, shall develop draft regulatory technical standards specifying the detailed content of the information that is necessary to carry out the assessment referred to in Article 83(4), first subparagraph."
+  },
+  {
+   "obligation_id": "EU-mica-2023:84/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The information required shall be relevant for a prudential assessment, proportionate and adapted to the nature of the proposed acquirer and the proposed acquisition referred to in Article 83(1)."
+  },
+  {
+   "obligation_id": "EU-mica-2023:84/p4/s3",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:84",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:23",
+ "label": "EU-mica-2023 Article 23",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "0c6554a707a40e0db062f71f507e369a41b0ede900efb927ef015dbe3c36232d",
+ "sha256_v1": "",
+ "sha256_v2": "0c6554a707a40e0db062f71f507e369a41b0ede900efb927ef015dbe3c36232d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "0c6554a707a40e0db062f71f507e369a41b0ede900efb927ef015dbe3c36232d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:23/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where, for an asset-referenced token, the estimated quarterly average number and average aggregate value of transactions per day associated to its uses as a means of exchange within a single currency area is higher than 1 million transactions and EUR 200 000 000, respectively, the issuer shall:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:23/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authority shall use the information provided by the issuer, its own estimates, or the estimates provided by the ECB or, where applicable, by the central bank referred to in Article 20(4), whichever is higher, in order to assess whether the threshold referred to in paragraph 1 is reached."
+  },
+  {
+   "obligation_id": "EU-mica-2023:23/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where several issuers issue the same asset-referenced token, the criteria referred in paragraph 1 shall be assessed by the competent authority after aggregating the data from all issuers."
+  },
+  {
+   "obligation_id": "EU-mica-2023:23/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The issuer shall submit the plan referred to in paragraph 1, point (b), for approval to the competent authority."
+  },
+  {
+   "obligation_id": "EU-mica-2023:23/p4/s2",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where necessary, the competent authority shall require modifications, such as imposing a minimum denomination amount, in order to ensure a timely decrease of the use as a means of exchange of the asset-referenced token."
+  },
+  {
+   "obligation_id": "EU-mica-2023:23/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authority shall only allow the issuer to issue the asset-referenced token again when it has evidence that the estimated quarterly average number and average aggregated value of transactions per day associated to its uses as a means of exchange within a single currency area is lower than 1 million transactions and EUR 200 000 000 respectively."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:23",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

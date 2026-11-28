@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:87",
+ "label": "JP-appi-2003 Article 87",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "416a0b45e3e940e2bc7bcee92f0a4964f27effb68f500acb444e617df1b2a52d",
+ "sha256_v1": "",
+ "sha256_v2": "416a0b45e3e940e2bc7bcee92f0a4964f27effb68f500acb444e617df1b2a52d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "416a0b45e3e940e2bc7bcee92f0a4964f27effb68f500acb444e617df1b2a52d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:87/s4",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "２ 行政機関等は、前項の規定に基づく電磁的記録についての開示の方法に関する定めを一般の閲覧に供しなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:87/s5",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "３ 開示決定に基づき保有個人情報の開示を受ける者は、政令で定めるところにより、当該開示決定をした行政機関の長等に対し、その求める開示の実施の方法その他の政令で定める事項を申し出なければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:87/s6",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "４ 前項の規定による申出は、第八十二条第一項に規定する通知があった日から三十日以内にしなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:87",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

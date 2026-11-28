@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:76",
+ "label": "EU-ehds-2025 Article 76",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "566c2c15ff996220706afe0631b25ef8f0a6b6172d4bcb6f54873bbba758b212",
+ "sha256_v1": "",
+ "sha256_v2": "566c2c15ff996220706afe0631b25ef8f0a6b6172d4bcb6f54873bbba758b212",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "566c2c15ff996220706afe0631b25ef8f0a6b6172d4bcb6f54873bbba758b212",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:76/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the case of cross-border registries and databases, the health data access body with which the health data holder for the specific registry or database is registered shall be competent to decide on health data access applications to provide access to electronic health data pursuant to a data permit."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:76/p1/s2",
+   "paragraph": "1",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where such registries or databases have joint controllers, the health data access body that decides on the health data access applications to be used to provide access to electronic health data shall be the health data access body of the Member State where one of the joint controllers is established."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:76/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The health data access body of the Member State in which the coordinator of the network is established shall be competent to decide on the health data access applications to be used to provide access to electronic health data for the network of registries or databases."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:76",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

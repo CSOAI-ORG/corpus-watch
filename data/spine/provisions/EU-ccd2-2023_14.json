@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:14",
+ "label": "EU-ccd2-2023 Article 14",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "4fbe0d6dcbe36f665b585ae925107bbfb936a6477f8f7938481e7cb8c22382cd",
+ "sha256_v1": "",
+ "sha256_v2": "4fbe0d6dcbe36f665b585ae925107bbfb936a6477f8f7938481e7cb8c22382cd",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "4fbe0d6dcbe36f665b585ae925107bbfb936a6477f8f7938481e7cb8c22382cd",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:14/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall allow bundling practices but shall prohibit tying practices."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:14/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In such cases, Member States shall ensure that the creditor is required to accept the insurance policy from a supplier different to his or her preferred supplier where such insurance policy has a level of guarantee equivalent to the one the creditor has proposed, without modifying the conditions of the credit offered to the consumer."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:14/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall require that personal data concerning consumers’ diagnoses of oncological diseases are not used for the purpose of an insurance policy related to a credit agreement after a period of time determined by the Member States, not exceeding 15 years following the end of the consumers’ medical treatment."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:14/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In order for consumers to have additional time to compare insurance offers related to credit agreements before purchasing an insurance policy as referred to in paragraph 3, Member States shall require that consumers are given at least three days to compare insurance offers related to credit agreements without such offers being changed, and consumers shall be informed thereof."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:14",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

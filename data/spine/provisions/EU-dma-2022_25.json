@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:25",
+ "label": "EU-dma-2022 Article 25",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "c92f60330102d838886179aa97734c76b4b5d922a265100bc8c69b05cae9dd95",
+ "sha256_v1": "",
+ "sha256_v2": "c92f60330102d838886179aa97734c76b4b5d922a265100bc8c69b05cae9dd95",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "c92f60330102d838886179aa97734c76b4b5d922a265100bc8c69b05cae9dd95",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:25/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That implementing act shall be adopted in accordance with the advisory procedure referred to in Article 50(2)."
+  },
+  {
+   "obligation_id": "EU-dma-2022:25/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "If the Commission considers that the commitments submitted by the gatekeeper concerned cannot ensure effective compliance with the obligations laid down in Articles 5, 6 and 7, it shall explain the reasons for not making those commitments binding in the decision concluding the relevant proceedings."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:25",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

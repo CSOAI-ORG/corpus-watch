@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:67",
+ "label": "EU-eudpr-2018 Article 67",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8aaf39f7e35481bf40c7fc19e24d9bf4603dccff4ff22ee99331a1b3e1a0a56f",
+ "sha256_v1": "",
+ "sha256_v2": "8aaf39f7e35481bf40c7fc19e24d9bf4603dccff4ff22ee99331a1b3e1a0a56f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "8aaf39f7e35481bf40c7fc19e24d9bf4603dccff4ff22ee99331a1b3e1a0a56f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:67/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Representation of data subjects\nThe data subject shall have the right to mandate a not-for-profit body, organisation or association which has been properly constituted in accordance with Union law or the law of a Member State, has statutory objectives which are in the public interest, and is active in the field of the protection of data subjects’ rights and freedoms with regard to the protection of their personal data to lodge the complaint with the European Data Protection Supervisor on his or her behalf, to exercise the rights referred to in Articles 63 and 64 on his or her behalf, and to exercise the right to receive compensation referred to in Article 65 on his or her behalf."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:67",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

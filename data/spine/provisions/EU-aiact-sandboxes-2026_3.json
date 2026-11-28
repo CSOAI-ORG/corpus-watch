@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-aiact-sandboxes-2026:3",
+ "label": "EU-aiact-sandboxes-2026 Article 3",
+ "instrument": "EU-aiact-sandboxes-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "92cd9fae7605b511cb1f862d87d10647c94a5c6c9a65241924d56fda535bf8c4",
+ "sha256_v1": "",
+ "sha256_v2": "92cd9fae7605b511cb1f862d87d10647c94a5c6c9a65241924d56fda535bf8c4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "92cd9fae7605b511cb1f862d87d10647c94a5c6c9a65241924d56fda535bf8c4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-aiact-sandboxes-2026:3/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Competent authorities shall facilitate the application procedure with a form to be made available through easily accessible means."
+  },
+  {
+   "obligation_id": "EU-aiact-sandboxes-2026:3/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This form shall be filled in with information on the applicant and the project proposed for participation in the AI regulatory sandbox."
+  },
+  {
+   "obligation_id": "EU-aiact-sandboxes-2026:3/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A proposal for a sandbox project shall be eligible for consideration in the application procedure for participation in the AI regulatory sandbox if it meets the following cumulative criteria:"
+  },
+  {
+   "obligation_id": "EU-aiact-sandboxes-2026:3/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When evaluating a proposal for a sandbox project, the competent authority shall take into consideration at least the following selection criteria:"
+  },
+  {
+   "obligation_id": "EU-aiact-sandboxes-2026:3/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The selection procedures shall be transparent, fair and equal while allowing priority access for SMEs, including start-ups, and, where applicable, for SMCs, pursuant to Article 62(1), point (a) and Article 57(3a) of Regulation (EU) 2024/1689."
+  },
+  {
+   "obligation_id": "EU-aiact-sandboxes-2026:3/p7/s1",
+   "paragraph": "7",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Competent authorities shall inform the applicant about the outcome of the selection procedure no later than three months after the submission of the complete application to the competent authority or after the submission deadline of a call for application."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-aiact-sandboxes-2026:3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

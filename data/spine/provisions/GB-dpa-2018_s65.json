@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s65",
+ "label": "GB-dpa-2018 Section 65",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "dd1522d7f005c5a707f0073b78f1de4285a24a8e4651745a22a4dda278764e15",
+ "sha256_v1": "",
+ "sha256_v2": "dd1522d7f005c5a707f0073b78f1de4285a24a8e4651745a22a4dda278764e15",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "dd1522d7f005c5a707f0073b78f1de4285a24a8e4651745a22a4dda278764e15",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s65/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "(2)\nThe controller must consult the Commission prior to the processing if a data protection impact assessment prepared under section 64 indicates that the processing of the data would result in a high risk to the rights and freedoms of individuals (in the absence of measures to mitigate the risk)."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s65/p0/s2",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "(3)\nWhere the controller is required to consult the Commission under subsection (2), the controller must give the Commission—\n(a)\nthe data protection impact assessment prepared under section 64, and\n(b)\nany other information requested by the Commission to enable the Commission to make an assessment of the compliance of the processing with the requirements of this Part."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s65/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(4)\nWhere the Commission is of the opinion that the intended processing referred to in subsection (1) would infringe any provision of this Part, the Commission must provide written advice to the controller and, where the controller is using a processor, to the processor."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s65/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nThe written advice must be provided before the end of the period of 6 weeks beginning with receipt of the request for consultation by the controller or the processor."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s65/p0/s5",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(7)\nIf the Commission extends the period of 6 weeks, the Commission must—\n(a)\ninform the controller and, where applicable, the processor of any such extension before the end of the period of 1 month beginning with receipt of the request for consultation, and\n(b)\nprovide reasons for the delay."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s65",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

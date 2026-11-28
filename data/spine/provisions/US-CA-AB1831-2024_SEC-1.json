@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB1831-2024:SEC-1",
+ "label": "US-CA-AB1831-2024 SECTION 1.",
+ "instrument": "US-CA-AB1831-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d0f56126cbf89753e9dee8ad98cdea250e7e32b9cff8792631e27ebd3f54a313",
+ "sha256_v1": "",
+ "sha256_v2": "d0f56126cbf89753e9dee8ad98cdea250e7e32b9cff8792631e27ebd3f54a313",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "d0f56126cbf89753e9dee8ad98cdea250e7e32b9cff8792631e27ebd3f54a313",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB1831-2024:SEC-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(j)As technology evolves, so must our laws."
+  },
+  {
+   "obligation_id": "US-CA-AB1831-2024:SEC-1/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "California’s law regulating CSAM must be updated to also prohibit artificially created images that depict the sexual assault and exploitation of children and that are obscene."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB1831-2024:SEC-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

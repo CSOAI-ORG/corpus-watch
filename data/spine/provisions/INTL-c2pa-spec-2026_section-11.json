@@ -1,0 +1,336 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-c2pa-spec-2026:section-11",
+ "label": "INTL-c2pa-spec-2026 Section 11",
+ "instrument": "INTL-c2pa-spec-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "2832434124d2fd092504cf8438d7a656e46c6ceb5ef4f8efb4d9c198ff931f9b",
+ "sha256_v1": "",
+ "sha256_v2": "2832434124d2fd092504cf8438d7a656e46c6ceb5ef4f8efb4d9c198ff931f9b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "2832434124d2fd092504cf8438d7a656e46c6ceb5ef4f8efb4d9c198ff931f9b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Common\nAll C2PA Manifests shall contain an assertion store, a claim and a claim signature.\n11.3.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p8/s2",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Standard Manifests\nA standard C2PA Manifest shall contain exactly one hard binding to content assertion.\n11.3.3."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p8/s3",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An Update Manifest shall not contain assertions of types c2pa.hash.data, c2pa.hash.boxes, c2pa.hash.collection.data, c2pa.hash.segment, c2pa.hash.bmff.v3, or c2pa.hash.multi-asset, because the content has not changed and therefore the bindings need not be updated."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p8/s4",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In cases where the existing content binding (e.g., a data hash) identifies the C2PA Manifest Store location using a file offset and length, the C2PA Manifest Store shall start at the same file offset after updating, but its length may change."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p8/s5",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "An Update Manifest may contain assertions of type c2pa.actions or c2pa.actions.v2, provided that the value of the action field of each action present in the actions array of these assertions shall only be one of the following values:\nc2pa.edited.metadata\nc2pa.opened\nc2pa.published\nc2pa.redacted\nAn Update Manifest shall not contain a thumbnail assertion."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p8/s6",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Update Manifest shall contain exactly one c2pa.ingredient.v3 assertion that (a) includes both activeManifest and claimSignature fields with values that are the URI references to the C2PA Manifest and Claim Signature respectively of the asset that is being updated and (b) has the value of parentOf for the relationship field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p9/s1",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This serialized format shall be used also in formats that do not natively support JUMBF, or when C2PA Manifest Stores are stored separately from the asset, such as in a separate file or URI location."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "C2PA Assertion Store\n63326173-0011-0010-8000-00AA00389B71 (c2as)\nc2pa.assertions\nSee Assertion Store Contents\nC2PA Claim\n6332636C-0011-0010-8000-00AA00389B71 (c2cl)\nc2pa.claim.v2\nA single CBOR Content Type box (cbor) with contents as described in Claim\nC2PA Claim Signature\n63326373-0011-0010-8000-00AA00389B71 (c2cs)\nc2pa.signature\nA single CBOR Content Type box (cbor) with contents as described in Claim Signature\nThe boxes defined in Table 2, “C2PA JUMBF boxes” shall satisfy the requirements in Section 11.5.3.2, “Toggles” and Section 11.5.3.3, “Labels”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Manifest Consumers shall accept c2md superboxes as standard C2PA Manifests, but claim generators shall not create such manifests.\n11.5.1."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Assertion Store Contents\nThe C2PA Assertion Store is a JUMBF superbox that shall have the label and type given in Table 2, “C2PA JUMBF boxes”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p2/s4",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It shall contain one or more JUMBF superboxes (called C2PA Assertion boxes) whose JUMBF type defines the type of the sub-boxes that contain the assertion data (ISO 19566-5:2023, Annex B)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p2/s5",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "These superboxes shall each have a label as defined in Standard Assertions and shall contain a JUMBF Description Box, one or more JUMBF Content Boxes and possibly a Padding Box (ISO 19566-5:2023, A.4)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p2/s6",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The brob box shall have box ID of 0x62726F62 (brob)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p2/s7",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For either type of manifest, the value of the TYPE field shall be c2cm, the value of the label field shall be identical to the label of the compressed manifest superbox, and the contents of the brob content box shall be the RFC 7932 (Brotli-compressed) bytes of the entire manifest superbox."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p10/s1",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Processing Rules\nA C2PA Manifest Consumer shall never process an assertion, assertion store, claim, claim signature or C2PA Manifest that is not contained inside of a C2PA Manifest Store."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p10/s2",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Additionally, when a C2PA Manifest Consumer encounters a JUMBF box or superbox whose JUMBF type UUID it does not recognize, it shall skip over (and ignore) its contents."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p10/s3",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Toggles\nAll JUMBF Description boxes (ISO 19566-5:2023, A.3) used in a C2PA Manifest require a label and so the Label Present toggle (xxxxxx1x) shall be set."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p10/s4",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In addition, because JUMBF URIs are used to refer to boxes throughout the system (e.g., listing assertions, references to ingredients, etc.), the Requestable toggle (xxxxxx11) shall be set."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p10/s5",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When including a salt in a PRIVATE box as described in Section 9.4.2.3, “Hashing JUMBF Boxes”, the Private toggle (xxx1xxxx) shall also be set.\n11.5.3.3."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p10/s6",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Labels\nAs described in the JUMBF specification (ISO 19566-5:2023, A.3), a label shall be stored as Unicode characters in the UTF-8 encoding and shall be null-terminated."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p10/s7",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Because labels are used as part of JUMBF URIs, the characters U+FEFF, U+FFFF, and U+D800-U+DFFF shall also not be used.\n11.5.3.4."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p10/s8",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the Requestable and Label Present toggles are both set in the JUMBF Description box of any JUMBF box or superbox, that box or superbox shall be maintained in any updated C2PA Manifest Store."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p10/s9",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As an example, in JPEG 1 files, the entire C2PA Manifest Store is required to appear in the file before the image data, and so its size will affect the file offsets of content being authenticated."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p10/s10",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "To accomplish this, a multiple step approach shall be taken, similar to how signatures in PDF are done.\n11.7.1."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p10/s11",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Create content bindings\nWhen creating a standard manifest, its claim shall include one or more content binding assertions in its list of assertions to ensure that the asset is tamper-evident."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p10/s12",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When the size or location (or both) of the manifest in the asset is not known, then the start and length values in the data hash assertion shall both be zero and the size of the pad value should be large enough to accommodate writing in the values during the second pass."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p10/s13",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The value of the pad key shall consist of all 0x00’s."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p10/s14",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Claim generators shall ensure that changes to pad data (or any other excluded asset data) cannot change how the asset is interpreted."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p10/s15",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The active manifest is required to be the last C2PA Manifest superbox in the C2PA Manifest Store superbox."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p10/s16",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the serialized COSE_Sign1_Tagged structure exceeds the reserved size of the C2PA Claim Signature box, multiple step processing shall be repeated with a larger padding size chosen in Section 11.7.2, “Create a temporary Claim and Signature”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-11/p10/s17",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As the C2PA Manifest Store is a JUMBF box, it shall be served with the Media Type for C2PA Manifest Stores, application/c2pa."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-c2pa-spec-2026:section-11",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

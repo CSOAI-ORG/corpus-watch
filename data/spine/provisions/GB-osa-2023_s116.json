@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s116",
+ "label": "GB-osa-2023 Section 116",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "9252d03e29b9f420f1b659cc6a7f56168d014aab06f6fe0c3b144cc8c86eb84f",
+ "sha256_v1": "",
+ "sha256_v2": "9252d03e29b9f420f1b659cc6a7f56168d014aab06f6fe0c3b144cc8c86eb84f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9252d03e29b9f420f1b659cc6a7f56168d014aab06f6fe0c3b144cc8c86eb84f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s116/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nIf OFCOM have disclosed information described in subsection (1) to a person, the person must not further disclose the information unless the intelligence service consents to the disclosure."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s116/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(3)\nIf OFCOM would contravene subsection (1) by publishing in its entirety—\n(a)\na statement required to be published by section 47(5), or\n(b)\na report mentioned in section 164(5),\nOFCOM must, before publication, remove or obscure the information which by reason of subsection (1) they must not disclose."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s116",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

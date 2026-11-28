@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:sch14",
+ "label": "GB-dpa-2018 Schedule 14",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "b286505bb84bdee9ac5f310765a71733da669b118a021864867c99367ec4d785",
+ "sha256_v1": "",
+ "sha256_v2": "b286505bb84bdee9ac5f310765a71733da669b118a021864867c99367ec4d785",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "b286505bb84bdee9ac5f310765a71733da669b118a021864867c99367ec4d785",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:sch14/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "PART 2\nData Protection Convention\nCo-operation between the Commission and foreign designated authorities\n6\n(1)\nThe Commission must, at the request of a foreign designated authority—\n(a)\nprovide that authority with such information referred to in Article 13(3)(a) of the Data Protection Convention (information on law and administrative practice in the field of data protection) as is the subject of the request, and\n(b)\ntake appropriate measures in accordance with Article 13(3)(b) of the Data Protection Convention for providing that authority with information relating to the processing of personal data in the United Kingdom."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:sch14/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\nThe Commission must take appropriate measures to assist the person to exercise those rights."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:sch14/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\nIf the Commission is satisfied that the request contains all necessary particulars referred to in Article 14(3) of the Data Protection Convention, the Commission must send the request to the foreign designated authority in the specified country or territory."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:sch14/p0/s4",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(3)\nOtherwise, the Commission must, where practicable, notify the person making the request of the reasons why the Commission is not required to assist."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:sch14",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

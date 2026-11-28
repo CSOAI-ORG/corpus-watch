@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "TW-pdpa-1995:21-4",
+ "label": "TW-pdpa-1995 Article 21-4",
+ "instrument": "TW-pdpa-1995",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "6aa6dd0950aecaf1d0bfb1f9c169cafed79cbb98b840e3be290874b5dffcc649",
+ "sha256_v1": "",
+ "sha256_v2": "6aa6dd0950aecaf1d0bfb1f9c169cafed79cbb98b840e3be290874b5dffcc649",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "TW",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "6aa6dd0950aecaf1d0bfb1f9c169cafed79cbb98b840e3be290874b5dffcc649",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "TW-pdpa-1995:21-4/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "公務機關有違反本法規定之情事者，由主管機關令其限期改正，該公務機關應依限為適當之改正，並應將改正情形以書面答覆主管機關。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=TW-pdpa-1995:21-4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

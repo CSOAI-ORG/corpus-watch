@@ -1,0 +1,126 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-aiact-sandboxes-2026:6",
+ "label": "EU-aiact-sandboxes-2026 Article 6",
+ "instrument": "EU-aiact-sandboxes-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "23a4a4e88ffa8b8e296cf17ffa7e8e62f3091db28bbabda7456d9380ba586562",
+ "sha256_v1": "",
+ "sha256_v2": "23a4a4e88ffa8b8e296cf17ffa7e8e62f3091db28bbabda7456d9380ba586562",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "23a4a4e88ffa8b8e296cf17ffa7e8e62f3091db28bbabda7456d9380ba586562",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-aiact-sandboxes-2026:6/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "After completion of a provider’s or a prospective provider’s participation in the AI regulatory sandbox, the competent authority or competent authorities shall evaluate the admitted project with respect to the activities carried out and the progress in their implementation, in accordance with the objectives in the sandbox plan."
+  },
+  {
+   "obligation_id": "EU-aiact-sandboxes-2026:6/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The written proof shall serve as documentation evidence informing notified bodies and relevant market surveillance authorities, but it shall not have the same status or legal effect as a declaration of conformity within the meaning of Article 47 of Regulation (EU) 2024/1689 or any other legislation supervised in the AI regulatory sandbox where similar declarations of conformity are issued."
+  },
+  {
+   "obligation_id": "EU-aiact-sandboxes-2026:6/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The written proof shall include at least the following elements:"
+  },
+  {
+   "obligation_id": "EU-aiact-sandboxes-2026:6/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The exit report provided for under Article 57(7) of Regulation (EU) 2024/1689 shall serve for regulatory learning purposes and include at least the following:"
+  },
+  {
+   "obligation_id": "EU-aiact-sandboxes-2026:6/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The exit report shall be drafted and signed by the competent authority or competent authorities supervising the AI regulatory sandbox project."
+  },
+  {
+   "obligation_id": "EU-aiact-sandboxes-2026:6/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The exit report shall not have the same status or legal effect as a declaration of conformity within the meaning of Article 47 of Regulation (EU) 2024/1689 or any other legislation supervised in the AI regulatory sandbox where similar declarations of conformity are provided."
+  },
+  {
+   "obligation_id": "EU-aiact-sandboxes-2026:6/p5/s2",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The relevant competent authority shall provide the participant of the AI regulatory sandbox with the exit report within a reasonable period, but no later than 45 working days after completing participation."
+  },
+  {
+   "obligation_id": "EU-aiact-sandboxes-2026:6/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The written proof and exit report shall be drafted in one or more of the official languages of the institutions of the Union, as indicated by the competent authority."
+  },
+  {
+   "obligation_id": "EU-aiact-sandboxes-2026:6/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Unless stated as confidential in the sandbox plan in accordance with Article 5(3) or explicitly indicated as such by the participant before the end of the sandbox project, information shall be presumed to be available for disclosure."
+  },
+  {
+   "obligation_id": "EU-aiact-sandboxes-2026:6/p9/s1",
+   "paragraph": "9",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Market surveillance authorities and notified bodies from any Member State shall recognise the exit report and written proof as referred to in Article 57(7) of Regulation (EU) 2024/1689 as documentation of the activities carried out, the related results and the learning outcomes of participation in any AI regulatory sandbox to ensure that this participation is mutually and uniformly recognised across the Union."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-aiact-sandboxes-2026:6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

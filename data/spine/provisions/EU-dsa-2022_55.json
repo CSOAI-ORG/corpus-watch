@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:55",
+ "label": "EU-dsa-2022 Article 55",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "b6617876fff10dbce341dbdf0d1c4475b3dbdaf8d5913aafbc7fc39b68c42eb3",
+ "sha256_v1": "",
+ "sha256_v2": "b6617876fff10dbce341dbdf0d1c4475b3dbdaf8d5913aafbc7fc39b68c42eb3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "b6617876fff10dbce341dbdf0d1c4475b3dbdaf8d5913aafbc7fc39b68c42eb3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:55/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Digital Services Coordinators shall draw up annual reports on their activities under this Regulation, including the number of complaints received pursuant to Article 53 and an overview of their follow-up."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:55/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The Digital Services Coordinators shall make the annual reports available to the public in a machine-readable format, subject to the applicable rules on the confidentiality of information pursuant to Article 84, and shall communicate them to the Commission and to the Board."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:55/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The annual report shall also include the following information:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:55/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a Member State has designated several competent authorities pursuant to Article 49, it shall ensure that the Digital Services Coordinator draws up a single report covering the activities of all competent authorities and that the Digital Services Coordinator receives all relevant information and support needed to that effect from the other competent authorities concerned."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:55",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

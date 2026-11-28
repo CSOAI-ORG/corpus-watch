@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-12CFR1002-RegB-1977:1002.111",
+ "label": "US-12CFR1002-RegB-1977 12 CFR 1002.111",
+ "instrument": "US-12CFR1002-RegB-1977",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "d15af61980a4682a1364aeb54abf820bbeeab49fa174d0f30bde77a360a66c07",
+ "sha256_v1": "",
+ "sha256_v2": "d15af61980a4682a1364aeb54abf820bbeeab49fa174d0f30bde77a360a66c07",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d15af61980a4682a1364aeb54abf820bbeeab49fa174d0f30bde77a360a66c07",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.111/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "A covered financial institution shall retain evidence of compliance with this subpart, which includes a copy of its small business lending application register, for at least three years after the register is required to be submitted to the Bureau pursuant to § 1002.109."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.111/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A financial institution shall maintain, separately from the rest of the application and accompanying information, an applicant's responses to the financial institution's inquiries pursuant to this subpart regarding whether an applicant for a covered credit transaction is a minority-owned business and/or a women-owned business under § 1002.107(a)(18), and regarding the ethnicity, race, and sex of the applicant's principal owners under § 1002.107(a)(19)."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.111/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In reporting a small business lending application register pursuant to § 1002.109, maintaining the register pursuant to paragraph (a) of this section, and maintaining a separate record of information pursuant to paragraph (b) of this section, a financial institution shall not include any name, specific address, telephone number, email address, or any other personally identifiable information concerning any individual who is, or is connected with, an applicant, other than as required pursuant to § 1002.107 or paragraph (b) of this section. [88 FR 35528, May 31, 2023, as amended at 91 FR 23606, May 1, 2026]"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-12CFR1002-RegB-1977:1002.111",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

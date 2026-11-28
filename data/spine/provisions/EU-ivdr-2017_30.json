@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:30",
+ "label": "EU-ivdr-2017 Article 30",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7bb4939349065172feefb7e79a146aa8a1f401cf13b74664c54f20852175e705",
+ "sha256_v1": "",
+ "sha256_v2": "7bb4939349065172feefb7e79a146aa8a1f401cf13b74664c54f20852175e705",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "7bb4939349065172feefb7e79a146aa8a1f401cf13b74664c54f20852175e705",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:30/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission, after consulting the MDCG, shall set up, maintain and manage the European database on medical devices (‘Eudamed’) in accordance with the conditions and detailed arrangements established by Articles 33 and 34 of Regulation (EU) 2017/745."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:30/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Eudamed shall include the following electronic systems:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:30",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

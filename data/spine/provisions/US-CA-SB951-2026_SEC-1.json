@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB951-2026:SEC-1",
+ "label": "US-CA-SB951-2026 SECTION 1.",
+ "instrument": "US-CA-SB951-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d5b96d47c0861412f0a5054f7df62cf7c8299574a026046c07dd5de6f14bba75",
+ "sha256_v1": "",
+ "sha256_v2": "d5b96d47c0861412f0a5054f7df62cf7c8299574a026046c07dd5de6f14bba75",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "d5b96d47c0861412f0a5054f7df62cf7c8299574a026046c07dd5de6f14bba75",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB951-2026:SEC-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The definitions set forth in this section shall govern the construction and meaning of the terms used in this chapter:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB951-2026:SEC-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

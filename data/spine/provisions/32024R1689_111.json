@@ -1,0 +1,79 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:111",
+ "label": "EU AI Act Art. 111",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a1a304fc0d67b149a48e5bc1a718e095978abcd7fbda6f0e7801820eabe9ffcb",
+ "sha256_v1": "a1a304fc0d67b149a48e5bc1a718e095978abcd7fbda6f0e7801820eabe9ffcb",
+ "sha256_v2": "a1a304fc0d67b149a48e5bc1a718e095978abcd7fbda6f0e7801820eabe9ffcb",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": 62,
+ "sha256_current": "202a733fd26ca5e92c66f6549f72fd26e4c8a1ed37910c949b52431cac6a0aab",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:111/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Without prejudice to the application of Article 5 as referred to in Article 113(3), point (a), AI systems which are components of the large-scale IT systems established by the legal acts listed in Annex X that have been placed on the market or put into service before 2 August 2027 shall be brought into compliance with this Regulation by 31 December 2030."
+  },
+  {
+   "obligation_id": "32024R1689:111/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The requirements laid down in this Regulation shall be taken into account in the evaluation of each large-scale IT system established by the legal acts listed in Annex X to be undertaken as provided for in those legal acts and where those legal acts are replaced or amended. ▼M1"
+  },
+  {
+   "obligation_id": "32024R1689:111/p2/s2",
+   "paragraph": "2",
+   "addressee": "deployer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In any case, the providers and deployers of high-risk AI systems intended to be used by public authorities shall take the necessary steps to comply with the requirements and obligations laid down in this Regulation by 2 August 2030. ▼B"
+  },
+  {
+   "obligation_id": "32024R1689:111/p3/s1",
+   "paragraph": "3",
+   "addressee": "gpai_provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of general-purpose AI models that have been placed on the market before 2 August 2025 shall take the necessary steps in order to comply with the obligations laid down in this Regulation by 2 August 2027. ▼M1"
+  },
+  {
+   "obligation_id": "32024R1689:111/p4/s1",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of AI systems, including general-purpose AI systems, generating synthetic audio, image, video or text content, that have been placed on the market before 2 August 2026 shall take the necessary steps in order to comply with Article 50(2) by 2 December 2026. ▼B"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:111",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

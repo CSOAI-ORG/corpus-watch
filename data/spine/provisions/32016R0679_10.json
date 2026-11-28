@@ -1,0 +1,48 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:10",
+ "label": "GDPR Art. 10",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b6e0d1c6994c40b5ad06a3a7d50faa9f3b5e34cb85d6fce0bf93c0a5ad0a19bf",
+ "sha256_v1": "b6e0d1c6994c40b5ad06a3a7d50faa9f3b5e34cb85d6fce0bf93c0a5ad0a19bf",
+ "sha256_v2": "c084e365992533ff0ba97d6f38320733f3fdcc42d7704a72b1734f56281d7ce3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "c084e365992533ff0ba97d6f38320733f3fdcc42d7704a72b1734f56281d7ce3",
+ "agent_register_kinds": [
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:10/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Article 10 Processing of personal data relating to criminal convictions and offences Processing of personal data relating to criminal convictions and offences or related security measures based on Article 6(1) shall be carried out only under the control of official authority or when the processing is authorised by Union or Member State law providing for appropriate safeguards for the rights and freedoms of data subjects."
+  },
+  {
+   "obligation_id": "32016R0679:10/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any comprehensive register of criminal convictions shall be kept only under the control of official authority."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:10",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

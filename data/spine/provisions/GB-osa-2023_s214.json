@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s214",
+ "label": "GB-osa-2023 Section 214",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "2ab4db8fe88fcf4f119ebc1d80a40f1704853c61cf3d4570a432983eaab79190",
+ "sha256_v1": "",
+ "sha256_v2": "2ab4db8fe88fcf4f119ebc1d80a40f1704853c61cf3d4570a432983eaab79190",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "2ab4db8fe88fcf4f119ebc1d80a40f1704853c61cf3d4570a432983eaab79190",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s214/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nAfter subsection (4) insert—\n(4A)\nWhere a person is charged with an offence under subsection (1)(a) of making an indecent photograph or pseudo-photograph of a child, it shall be a defence for the person to prove that—\n(a)\nat the time of the offence charged, the person was a member of OFCOM, employed or engaged by OFCOM, or assisting OFCOM in the exercise of any of their online safety functions (within the meaning of section 235 of the Online Safety Act 2023), and\n(b)\nthe person made the photograph or pseudo-photograph for the purposes of OFCOM’s exercise of any of those functions."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s214",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

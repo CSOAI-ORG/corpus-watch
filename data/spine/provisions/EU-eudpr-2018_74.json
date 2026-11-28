@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:74",
+ "label": "EU-eudpr-2018 Article 74",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b4bc9e7da89947a785c69604665481870268f5e21de160d4527f4428728875f9",
+ "sha256_v1": "",
+ "sha256_v2": "b4bc9e7da89947a785c69604665481870268f5e21de160d4527f4428728875f9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "b4bc9e7da89947a785c69604665481870268f5e21de160d4527f4428728875f9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:74/p1/s1",
+   "paragraph": "1",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller shall distinguish, as far as possible, operational personal data based on facts from operational personal data based on personal assessments."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:74/p2/s1",
+   "paragraph": "2",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller shall take all reasonable steps to ensure that operational personal data which are inaccurate, incomplete or no longer up to date are not transmitted or made available."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:74/p2/s2",
+   "paragraph": "2",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "To that end, the controller shall, as far as practicable and where relevant, verify the quality of operational personal data before they are transmitted or made available, for example by consulting the competent authority from which the data originates."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:74/p2/s3",
+   "paragraph": "2",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As far as possible, in all transmissions of operational personal data, the controller shall add the necessary information enabling the recipient to assess the degree to which the operational personal data are accurate, complete and reliable, and the extent to which they are up to date."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:74/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If it emerges that incorrect operational personal data have been transmitted or that operational personal data have been unlawfully transmitted, the recipient shall be notified without delay."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:74/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In such a case, the operational personal data concerned shall be rectified or erased or their processing shall be restricted in accordance with Article 82."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:74",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "TW-pdpa-1995:21-2",
+ "label": "TW-pdpa-1995 Article 21-2",
+ "instrument": "TW-pdpa-1995",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "b69c6c112e26799ed4672aa1e7dc6fcfb1f980872ffa80e27ff13765142d79f5",
+ "sha256_v1": "",
+ "sha256_v2": "b69c6c112e26799ed4672aa1e7dc6fcfb1f980872ffa80e27ff13765142d79f5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "TW",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "b69c6c112e26799ed4672aa1e7dc6fcfb1f980872ffa80e27ff13765142d79f5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "TW-pdpa-1995:21-2/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "主管機關應定期或不定期稽核公務機關之個人資料保護管理事項實施情形；"
+  },
+  {
+   "obligation_id": "TW-pdpa-1995:21-2/s4",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "依前項規定稽核後，發現受稽核機關實施情形有缺失或待改善者，受稽核機關應提出改善報告，送交依前條第一項規定收受其實施情形之機關審查後，由該審查機關送交主管機關。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=TW-pdpa-1995:21-2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

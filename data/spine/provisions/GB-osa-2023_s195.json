@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s195",
+ "label": "GB-osa-2023 Section 195",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "396846b045b4b741be8100a3fbf7f3345c5860bbe27cd68b1a1e58203e810b49",
+ "sha256_v1": "",
+ "sha256_v2": "396846b045b4b741be8100a3fbf7f3345c5860bbe27cd68b1a1e58203e810b49",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "396846b045b4b741be8100a3fbf7f3345c5860bbe27cd68b1a1e58203e810b49",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s195/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nIf a penalty notice is given to a relevant entity (in the name of the entity), the penalty must be paid out of the entity’s funds."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s195",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

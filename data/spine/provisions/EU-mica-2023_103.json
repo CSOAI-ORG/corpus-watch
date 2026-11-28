@@ -1,0 +1,116 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:103",
+ "label": "EU-mica-2023 Article 103",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "21fc619db27d55fb8066ca1bfff1f4b5ed43be70beed8187f394fd25aaded3b3",
+ "sha256_v1": "",
+ "sha256_v2": "21fc619db27d55fb8066ca1bfff1f4b5ed43be70beed8187f394fd25aaded3b3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "21fc619db27d55fb8066ca1bfff1f4b5ed43be70beed8187f394fd25aaded3b3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:103/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ESMA shall take a measure pursuant to paragraph 1 only if all of the following conditions are fulfilled:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:103/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "When taking a measure pursuant to paragraph 1, ESMA shall ensure that the measure does not:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:103/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Before deciding to take a measure pursuant to paragraph 1, ESMA shall notify the relevant competent authorities of the measure it intends to take."
+  },
+  {
+   "obligation_id": "EU-mica-2023:103/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "ESMA shall publish on its website a notice of a decision to take a measure pursuant to paragraph"
+  },
+  {
+   "obligation_id": "EU-mica-2023:103/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That notice shall specify the details of the prohibition or restriction imposed and specify a time after the publication of the notice from which the measures will take effect."
+  },
+  {
+   "obligation_id": "EU-mica-2023:103/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A prohibition or restriction shall only apply to activities after the measure has taken effect."
+  },
+  {
+   "obligation_id": "EU-mica-2023:103/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ESMA shall review a prohibition or restriction imposed pursuant to paragraph 1 at appropriate intervals, and at least every six months."
+  },
+  {
+   "obligation_id": "EU-mica-2023:103/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Measures taken by ESMA pursuant to this Article shall prevail over any previous measure taken by the relevant competent authorities on the same matter."
+  },
+  {
+   "obligation_id": "EU-mica-2023:103/p8/s1",
+   "paragraph": "8",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall adopt delegated acts in accordance with Article 139 to supplement this Regulation by specifying the criteria and factors to be taken into account by ESMA in determining whether there is a significant investor protection concern or a threat to the orderly functioning and integrity of markets in crypto-assets or to the stability of the whole or part of the financial system of the Union for the purposes of paragraph 2, point (a), of this Article."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:103",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

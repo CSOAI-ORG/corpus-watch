@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-uk-gdpr-2016:52",
+ "label": "GB-uk-gdpr-2016 Article 52",
+ "instrument": "GB-uk-gdpr-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "99ca629f8d08a1330e997d96f0b9fa6ff8958281a8bdd7680ea8f47fb7368f9e",
+ "sha256_v1": "",
+ "sha256_v2": "99ca629f8d08a1330e997d96f0b9fa6ff8958281a8bdd7680ea8f47fb7368f9e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "99ca629f8d08a1330e997d96f0b9fa6ff8958281a8bdd7680ea8f47fb7368f9e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-uk-gdpr-2016:52/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall act with complete independence in performing ... tasks and exercising ... powers in accordance with this Regulation."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:52/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall, in the performance of ... tasks and exercise of ... powers in accordance with this Regulation, remain free from external influence, whether direct or indirect, and shall neither seek nor take instructions from anybody."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:52/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall refrain from any action incompatible with the Commission's duties and its members shall refrain from any action incompatible with the Commission’s duties.\n4.\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n5.\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n6.\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-uk-gdpr-2016:52",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

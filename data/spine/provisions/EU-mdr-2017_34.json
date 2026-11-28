@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:34",
+ "label": "EU-mdr-2017 Article 34",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "8806dddc5dfb9f3216ee25f532b1db8db72229379f3af9694d09d87e5b26bfc4",
+ "sha256_v1": "",
+ "sha256_v2": "8806dddc5dfb9f3216ee25f532b1db8db72229379f3af9694d09d87e5b26bfc4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": null,
+ "sha256_current": "8806dddc5dfb9f3216ee25f532b1db8db72229379f3af9694d09d87e5b26bfc4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:34/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall, in collaboration with the MDCG, draw up the functional specifications for Eudamed."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:34/p1/s2",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall draw up a plan for the implementation of those specifications by 26 May 2018."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:34/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall inform the MDCG when, on the basis of independent audit reports, it has verified that one or more of the electronic systems referred to in Article 33(2) are functional and meet the functional specifications drawn up pursuant to paragraph 1 of this Article. ▼B"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:34/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall, after consultation with the MDCG and when it is satisfied that the conditions referred to in paragraph 2 have been fulfilled, publish a notice to that effect in the Official Journal of the European Union ."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:34",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

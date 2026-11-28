@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-12CFR1002-RegB-1977:supp1-1002.111",
+ "label": "US-12CFR1002-RegB-1977 Supplement I, Section 1002.111—Recordkeeping",
+ "instrument": "US-12CFR1002-RegB-1977",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "3216689dcb5bba3414f966916d696c5d970a0c17c92809f7c11add8c33d63208",
+ "sha256_v1": "",
+ "sha256_v2": "3216689dcb5bba3414f966916d696c5d970a0c17c92809f7c11add8c33d63208",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "3216689dcb5bba3414f966916d696c5d970a0c17c92809f7c11add8c33d63208",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.111/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Section 1002.111(a) requires a financial institution to retain evidence of compliance with subpart B of this part for at least three years after its small business lending application register is required to be submitted to the Bureau pursuant to § 1002.109."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:supp1-1002.111/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Section 1002.111(c) prohibits a financial institution from including any name, specific address (other than the census tract required under § 1002.107(a)(13)), telephone number, or email address of any individual who is, or is connected with, an applicant in the small business lending application register it reports pursuant to § 1002.109, in the copy of the register the financial institution retains under § 1002.111(a), and in the records of certain information it must retain separately from the application pursuant to § 1002.111(b)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-12CFR1002-RegB-1977:supp1-1002.111",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

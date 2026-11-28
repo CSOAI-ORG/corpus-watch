@@ -1,0 +1,48 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R2847:38",
+ "label": "Cyber Resilience Act Art. 38",
+ "instrument": "Cyber Resilience Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "b38dc650291c2bce7ce28dfcaa1b95b372b0083b5d31507ab45dc3d6ea9636f6",
+ "sha256_v1": "b38dc650291c2bce7ce28dfcaa1b95b372b0083b5d31507ab45dc3d6ea9636f6",
+ "sha256_v2": "e95b5d39b4f73af469f1ba67c8725cd9f5a7958d3c8c08857759f6aaa79d0a42",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "e95b5d39b4f73af469f1ba67c8725cd9f5a7958d3c8c08857759f6aaa79d0a42",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R2847:38/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall inform the Commission of their procedures for the assessment and notification of conformity assessment bodies and the monitoring of notified bodies, and of any changes thereto."
+  },
+  {
+   "obligation_id": "32024R2847:38/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall make the information referred to in paragraph 1 publicly available."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R2847:38",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:annex-III",
+ "label": "EU-ehds-2025 Annex III",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "044dca08d024799f391b06cd29115e9c2b626e647f7fdee14e6229660bff148b",
+ "sha256_v1": "",
+ "sha256_v2": "044dca08d024799f391b06cd29115e9c2b626e647f7fdee14e6229660bff148b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "044dca08d024799f391b06cd29115e9c2b626e647f7fdee14e6229660bff148b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:annex-III/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "ANNEX III\nTechnical documentation\nThe technical documentation referred to in Article 37 shall contain at least the following information, as applicable to the harmonised software components of an EHR system in the relevant EHR system:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:annex-III",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

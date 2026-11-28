@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-NIST-AI100-2E2025-2025:4.1.2",
+ "label": "US-NIST-AI100-2E2025-2025 4.1.2",
+ "instrument": "US-NIST-AI100-2E2025-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "94d7cdec4bbd75af91e28f30f6ebaf9a4737426045e29c47780b0b8e9c639c1d",
+ "sha256_v1": "",
+ "sha256_v2": "94d7cdec4bbd75af91e28f30f6ebaf9a4737426045e29c47780b0b8e9c639c1d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 2,
+ "sha256_current": "94d7cdec4bbd75af91e28f30f6ebaf9a4737426045e29c47780b0b8e9c639c1d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-NIST-AI100-2E2025-2025:4.1.2/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Theoretical Limitations on Adversarial Robustness\nGiven the multitude of powerful attacks, appropriate mitigations must be designed before\nAI systems are deployed in critical domains."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-NIST-AI100-2E2025-2025:4.1.2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

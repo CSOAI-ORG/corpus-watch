@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s13H",
+ "label": "AU-privacy-act-1988 Section 13H",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "cf3d9ae408086b1aa1cccb2b205dd78264d76fc5aa020366659eeb2db0dcbe17",
+ "sha256_v1": "",
+ "sha256_v2": "cf3d9ae408086b1aa1cccb2b205dd78264d76fc5aa020366659eeb2db0dcbe17",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "cf3d9ae408086b1aa1cccb2b205dd78264d76fc5aa020366659eeb2db0dcbe17",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s13H/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Maximum pecuniary penalty\n(3)\tThe amount of the penalty payable by a person in respect of a contravention of subsection (1) must not exceed 2,000 penalty units."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s13H",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

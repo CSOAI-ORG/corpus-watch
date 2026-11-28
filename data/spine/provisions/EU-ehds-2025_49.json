@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:49",
+ "label": "EU-ehds-2025 Article 49",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e78a584863a7f42beef0165182237454ec02df4194c2127b8939b4c6e6f34388",
+ "sha256_v1": "",
+ "sha256_v2": "e78a584863a7f42beef0165182237454ec02df4194c2127b8939b4c6e6f34388",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "e78a584863a7f42beef0165182237454ec02df4194c2127b8939b4c6e6f34388",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:49/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall establish and maintain a publicly available EU database with data on EHR systems for which an EU declaration of conformity has been issued pursuant to Article 39 and wellness applications for which a label has been issued pursuant to Article 47 (the ‘EU database for registration of EHR systems and wellness applications’)."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:49/p2/s1",
+   "paragraph": "2",
+   "addressee": "authorised_representative",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Before placing on the market or putting into service an EHR system referred to in Article 26 or a wellness application referred to in Article 47, the manufacturer of such EHR system or wellness application or, where applicable, its authorised representative shall enter the required data as referred to in paragraph 4 of this Article into the EU database for registration of EHR systems and wellness applications, including, in the case of EHR systems, the results of the assessment referred to in Article 40."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:49/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Medical devices, in vitro diagnostic medical devices or high-risk AI systems referred to in Article 27(1) and (2) of this Regulation shall also be registered in the databases established pursuant to Regulation (EU) 2017/745, (EU) 2017/746 or (EU) 2024/1689, as applicable."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:49/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In such cases, the data to be entered shall also be forwarded to the EU database for registration of EHR systems and wellness applications."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:49",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

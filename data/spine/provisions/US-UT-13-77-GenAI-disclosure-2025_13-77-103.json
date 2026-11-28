@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-UT-13-77-GenAI-disclosure-2025:13-77-103",
+ "label": "US-UT-13-77-GenAI-disclosure-2025 Utah Code § 13-77-103",
+ "instrument": "US-UT-13-77-GenAI-disclosure-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "08f15112463ce2a0ddbd1174150c54c96826a7b30c52549d20b678f020936b45",
+ "sha256_v1": "",
+ "sha256_v2": "08f15112463ce2a0ddbd1174150c54c96826a7b30c52549d20b678f020936b45",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "08f15112463ce2a0ddbd1174150c54c96826a7b30c52549d20b678f020936b45",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-UT-13-77-GenAI-disclosure-2025:13-77-103/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A supplier that uses generative artificial intelligence to interact with an individual in connection with a consumer transaction shall disclose to the individual that the individual is interacting with generative artificial intelligence and not a human, if the individual asks or otherwise prompts the supplier about whether artificial intelligence is being used."
+  },
+  {
+   "obligation_id": "US-UT-13-77-GenAI-disclosure-2025:13-77-103/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The individual's prompt or question under Subsection (1)(a) must be a clear and unambiguous request to determine whether the interaction is with a human or with artificial intelligence."
+  },
+  {
+   "obligation_id": "US-UT-13-77-GenAI-disclosure-2025:13-77-103/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An individual providing services in a regulated occupation shall: prominently disclose when an individual receiving services is interacting with generative artificial intelligence in the provision of regulated services if the use of generative artificial intelligence constitutes a high-risk artificial intelligence interaction; and comply with all requirements of the regulated occupation when providing services through generative artificial intelligence."
+  },
+  {
+   "obligation_id": "US-UT-13-77-GenAI-disclosure-2025:13-77-103/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A disclosure required under Subsection (2) shall be provided: verbally at the start of a verbal interaction; and in writing before the start of a written interaction."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-UT-13-77-GenAI-disclosure-2025:13-77-103",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

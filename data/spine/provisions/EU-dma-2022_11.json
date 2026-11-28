@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:11",
+ "label": "EU-dma-2022 Article 11",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "84efd38a4ecddba96ea37150892fe8ebb88540b29784e5dd9712a9c98a032614",
+ "sha256_v1": "",
+ "sha256_v2": "84efd38a4ecddba96ea37150892fe8ebb88540b29784e5dd9712a9c98a032614",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "84efd38a4ecddba96ea37150892fe8ebb88540b29784e5dd9712a9c98a032614",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:11/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Within 6 months after its designation pursuant to Article 3, and in accordance with Article 3(10), the gatekeeper shall provide the Commission with a report describing in a detailed and transparent manner the measures it has implemented to ensure compliance with the obligations laid down in Articles 5, 6 and 7."
+  },
+  {
+   "obligation_id": "EU-dma-2022:11/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Within the deadline referred to in paragraph 1, the gatekeeper shall publish and provide the Commission with a non-confidential summary of that report."
+  },
+  {
+   "obligation_id": "EU-dma-2022:11/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The gatekeeper shall update that report and that non-confidential summary at least annually."
+  },
+  {
+   "obligation_id": "EU-dma-2022:11/p2/s3",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall make a link to that non-confidential summary available on its website."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:11",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

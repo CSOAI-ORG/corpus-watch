@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB1405-2026:SEC-1:11549.82.5.",
+ "label": "US-CA-AB1405-2026 SECTION 1. / 11549.82.5.",
+ "instrument": "US-CA-AB1405-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "b59a46bf88b1743dc3ce2b737348f1237aac07beb9ec20f01c02d999da8dc85c",
+ "sha256_v1": "",
+ "sha256_v2": "b59a46bf88b1743dc3ce2b737348f1237aac07beb9ec20f01c02d999da8dc85c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "b59a46bf88b1743dc3ce2b737348f1237aac07beb9ec20f01c02d999da8dc85c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB1405-2026:SEC-1:11549.82.5./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Beginning January 1, 2029, a person shall not offer, sell, or conduct a covered AI audit unless the person is registered with the agency pursuant to this chapter."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB1405-2026:SEC-1:11549.82.5.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

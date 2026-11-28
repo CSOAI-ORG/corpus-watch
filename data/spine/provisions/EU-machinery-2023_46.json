@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-machinery-2023:46",
+ "label": "EU-machinery-2023 Article 46",
+ "instrument": "EU-machinery-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "ead9d6936a1f6ec09a3dc20776e4c00476b801f6a80e6a949d0d01c98ceef2cc",
+ "sha256_v1": "",
+ "sha256_v2": "ead9d6936a1f6ec09a3dc20776e4c00476b801f6a80e6a949d0d01c98ceef2cc",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ead9d6936a1f6ec09a3dc20776e4c00476b801f6a80e6a949d0d01c98ceef2cc",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-machinery-2023:46/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Without prejudice to Article 43, where a Member State makes one of the following findings with regard to machinery or a related product, it shall require the relevant economic operator to put an end to the non-compliance concerned:"
+  },
+  {
+   "obligation_id": "EU-machinery-2023:46/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Without prejudice to Article 43, where a Member State makes one of the following findings with regard to partly completed machinery, it shall require the relevant economic operator to put an end to the non-compliance concerned:"
+  },
+  {
+   "obligation_id": "EU-machinery-2023:46/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the non-compliance referred to in paragraphs 1 and 2 persists, the Member State concerned shall take all appropriate measures to restrict or prohibit the product within the scope of this Regulation concerned being made available on the market or ensure that it is recalled or withdrawn from the market."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-machinery-2023:46",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

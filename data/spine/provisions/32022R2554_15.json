@@ -1,0 +1,58 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022R2554:15",
+ "label": "DORA Art. 15",
+ "instrument": "DORA",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "08f472d95a1a154e949e873d31c8f8cc0f95b82aa8befb6a9685c3cc5a768c77",
+ "sha256_v1": "08f472d95a1a154e949e873d31c8f8cc0f95b82aa8befb6a9685c3cc5a768c77",
+ "sha256_v2": "6680f8629435a08b639159cacb8c66a70eaa9f81ee1d9a33da49f0e931be8d08",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "6680f8629435a08b639159cacb8c66a70eaa9f81ee1d9a33da49f0e931be8d08",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022R2554:15/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Article 15 Further harmonisation of ICT risk management tools, methods, processes and policies The ESAs shall, through the Joint Committee, in consultation with the European Union Agency on Cybersecurity (ENISA), develop common draft regulatory technical standards in order to:"
+  },
+  {
+   "obligation_id": "32022R2554:15/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When developing those draft regulatory technical standards, the ESAs shall take into account the size and the overall risk profile of the financial entity, and the nature, scale and complexity of its services, activities and operations, while duly taking into consideration any specific feature arising from the distinct nature of activities across different financial services sectors."
+  },
+  {
+   "obligation_id": "32022R2554:15/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The ESAs shall submit those draft regulatory technical standards to the Commission by 17 January 2024."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022R2554:15",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-algorithm-recommendation-provisions-2021:16",
+ "label": "CN-algorithm-recommendation-provisions-2021 第十六条",
+ "instrument": "CN-algorithm-recommendation-provisions-2021",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "209acca5de32ea91c51d2d750424b793b95f652303de220a7741b25cc927848b",
+ "sha256_v1": "",
+ "sha256_v2": "209acca5de32ea91c51d2d750424b793b95f652303de220a7741b25cc927848b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "209acca5de32ea91c51d2d750424b793b95f652303de220a7741b25cc927848b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-algorithm-recommendation-provisions-2021:16/s1",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "zh:public-trace",
+   "status": "DRAFT",
+   "text": "第十六条 算法推荐服务提供者应当以显著方式告知用户其提供算法推荐服务的情况，并以适当方式公示算法推荐服务的基本原理、目的意图和主要运行机制等。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-algorithm-recommendation-provisions-2021:16",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

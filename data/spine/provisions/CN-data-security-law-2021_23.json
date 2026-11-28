@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-data-security-law-2021:23",
+ "label": "CN-data-security-law-2021 第二十三条",
+ "instrument": "CN-data-security-law-2021",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "7e1e4ae76f37e9e92c6f72f3747aeed7dde67b6fff5c8a8c87d2dd816253ecd5",
+ "sha256_v1": "",
+ "sha256_v2": "7e1e4ae76f37e9e92c6f72f3747aeed7dde67b6fff5c8a8c87d2dd816253ecd5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "7e1e4ae76f37e9e92c6f72f3747aeed7dde67b6fff5c8a8c87d2dd816253ecd5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-data-security-law-2021:23/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "发生数据安全事件，有关主管部门应当依法启动应急预案，采取相应的应急处置措施，防止危害扩大，消除安全隐患，并及时向社会发布与公众有关的警示信息。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-data-security-law-2021:23",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

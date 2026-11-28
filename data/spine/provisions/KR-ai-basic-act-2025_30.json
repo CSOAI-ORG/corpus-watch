@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-ai-basic-act-2025:30",
+ "label": "KR-ai-basic-act-2025 제30조",
+ "instrument": "KR-ai-basic-act-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "87cb00dcf06d52e2ebda058cfea5bf69d8019746eeba60270667ded6d7c3d29c",
+ "sha256_v1": "",
+ "sha256_v2": "87cb00dcf06d52e2ebda058cfea5bf69d8019746eeba60270667ded6d7c3d29c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "87cb00dcf06d52e2ebda058cfea5bf69d8019746eeba60270667ded6d7c3d29c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-ai-basic-act-2025:30/s8",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "③ 인공지능사업자가 고영향 인공지능을 제공하는 경우 사전에 검ㆍ인증등을 받도록 노력하여야 한다."
+  },
+  {
+   "obligation_id": "KR-ai-basic-act-2025:30/s9",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "④ 국가기관등이 고영향 인공지능을 이용하려는 경우에는 검ㆍ인증등을 받은 인공지능에 기반한 제품 또는 서비스를 우선적으로 고려하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-ai-basic-act-2025:30",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:168",
+ "label": "JP-appi-2003 Article 168",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "8df5fcc80e7c5663d2e7a98a558ece751167b08ae11de64bb680f73904e0ab51",
+ "sha256_v1": "",
+ "sha256_v2": "8df5fcc80e7c5663d2e7a98a558ece751167b08ae11de64bb680f73904e0ab51",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8df5fcc80e7c5663d2e7a98a558ece751167b08ae11de64bb680f73904e0ab51",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:168/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "委員会は、毎年、内閣総理大臣を経由して国会に対し所掌事務の処理状況を報告するとともに、その概要を公表しなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:168",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

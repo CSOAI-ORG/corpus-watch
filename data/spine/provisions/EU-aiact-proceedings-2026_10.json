@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-aiact-proceedings-2026:10",
+ "label": "EU-aiact-proceedings-2026 Article 10",
+ "instrument": "EU-aiact-proceedings-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "29489de85faf901b117e5e7ce17fb8155a1472300816307279aed0afa8793bed",
+ "sha256_v1": "",
+ "sha256_v2": "29489de85faf901b117e5e7ce17fb8155a1472300816307279aed0afa8793bed",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "29489de85faf901b117e5e7ce17fb8155a1472300816307279aed0afa8793bed",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:10/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the case of continuing or repeated conduct, the five-year period referred to in paragraph 1 shall begin on the day on which the conduct ceases."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:10/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Any action taken by the Commission for the purpose of its investigation or proceedings in respect of any conduct listed in Article 101(1) of Regulation (EU) 2024/1689 shall interrupt the limitation period for the imposition of fines or periodic penalty payments."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:10/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Actions which interrupt the running of that period shall include the following:"
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:10/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each interruption of the period referred to in paragraph 1 shall start time running afresh."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:10/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, the limitation period shall expire at the latest on the day on which a period equal to twice the limitation period has elapsed without the Commission having imposed a fine or a periodic penalty payment."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:10/p4/s3",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That period shall be extended by the time during which limitation is suspended pursuant to paragraph 5."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:10/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The limitation period for the imposition of fines or periodic penalty payments shall be suspended for as long as the decision of the Commission is the subject of proceedings pending before the Court of Justice of the European Union."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-aiact-proceedings-2026:10",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

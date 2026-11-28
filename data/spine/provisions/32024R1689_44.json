@@ -1,0 +1,89 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:44",
+ "label": "EU AI Act Art. 44",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b4ac1b45ac2b303025877038bd86c9de5cf5ae71b8b5977a604ea7e089b2bddb",
+ "sha256_v1": "b4ac1b45ac2b303025877038bd86c9de5cf5ae71b8b5977a604ea7e089b2bddb",
+ "sha256_v2": "b4ac1b45ac2b303025877038bd86c9de5cf5ae71b8b5977a604ea7e089b2bddb",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "b4ac1b45ac2b303025877038bd86c9de5cf5ae71b8b5977a604ea7e089b2bddb",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:44/p1/s1",
+   "paragraph": "1",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Certificates issued by notified bodies in accordance with Annex VII shall be drawn-up in a language which can be easily understood by the relevant authorities in the Member State in which the notified body is established."
+  },
+  {
+   "obligation_id": "32024R1689:44/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Certificates shall be valid for the period they indicate, which shall not exceed five years for AI systems covered by Annex I, and four years for AI systems covered by Annex III."
+  },
+  {
+   "obligation_id": "32024R1689:44/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any supplement to a certificate shall remain valid, provided that the certificate which it supplements is valid."
+  },
+  {
+   "obligation_id": "32024R1689:44/p3/s1",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where a notified body finds that an AI system no longer meets the requirements set out in Section 2, it shall, taking account of the principle of proportionality, suspend or withdraw the certificate issued or impose restrictions on it, unless compliance with those requirements is ensured by appropriate corrective action taken by the provider of the system within an appropriate deadline set by the notified body."
+  },
+  {
+   "obligation_id": "32024R1689:44/p3/s2",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notified body shall give reasons for its decision."
+  },
+  {
+   "obligation_id": "32024R1689:44/p3/s3",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An appeal procedure against decisions of the notified bodies, including on conformity certificates issued, shall be available."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:44",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

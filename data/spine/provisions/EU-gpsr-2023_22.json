@@ -1,0 +1,196 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-gpsr-2023:22",
+ "label": "EU-gpsr-2023 Article 22",
+ "instrument": "EU-gpsr-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "f0da0d1c1a5371c3dad994890395437af07b4e6d905e05b53f8f9955a92cc04d",
+ "sha256_v1": "",
+ "sha256_v2": "f0da0d1c1a5371c3dad994890395437af07b4e6d905e05b53f8f9955a92cc04d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f0da0d1c1a5371c3dad994890395437af07b4e6d905e05b53f8f9955a92cc04d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-gpsr-2023:22/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "contact-point",
+   "status": "DRAFT",
+   "text": "Without prejudice to the general obligations provided for in Article 11 of Regulation (EU) 2022/2065, providers of online marketplaces shall designate a single point of contact allowing for direct communication, by electronic means, with Member States’ market surveillance authorities in relation to product safety issues, in particular for the purpose of notifying orders issued pursuant to paragraph 4 of this Article."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:22/p1/s2",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of online marketplaces shall register with the Safety Gate Portal and shall indicate on the Safety Gate Portal the information concerning their single contact point."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:22/p2/s1",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "contact-point",
+   "status": "DRAFT",
+   "text": "Without prejudice to the general obligations provided for in Article 12 of Regulation (EU) 2022/2065, providers of online marketplaces shall designate a single point of contact to enable consumers to communicate directly and rapidly with them in relation to product safety issues."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:22/p3/s1",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Providers of online marketplaces shall ensure that they have internal processes for product safety in place in order to comply without undue delay with the relevant requirements of this Regulation."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:22/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "As regards powers conferred by Member States in accordance with Article 14 of Regulation (EU) 2019/1020, Member States shall confer on their market surveillance authorities the necessary power, as regards specific content referring to an offer of a dangerous product, to issue an order requiring the providers of online marketplaces to remove such content from their online interface, to disable access to it or to display an explicit warning."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:22/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such orders shall be issued in accordance with the minimum conditions set out in Article 9(2) of Regulation (EU) 2022/2065."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:22/p4/s3",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of online marketplaces shall take the necessary measures to receive and process orders issued pursuant to this paragraph and they shall act without undue delay, and in any event within two working days from receipt of the order."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:22/p4/s4",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "They shall inform the issuing market surveillance authority of the effect given to the order by electronic means using the contact details of the market surveillance authority published in the Safety Gate Portal."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:22/p6/s1",
+   "paragraph": "6",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of online marketplaces shall take into account regular information on dangerous products notified by the market surveillance authorities in line with Article 26, received through the Safety Gate Portal, for the purpose of applying their voluntary measures aimed at detecting, identifying, removing or disabling access to the content referring to offers of dangerous products on their online marketplace, where applicable, including by making use of the interoperable interface to the Safety Gate Portal in accordance with Article"
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:22/p34/s1",
+   "paragraph": "34",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "They shall inform the authority that made the notification to the Safety Gate Rapid Alert System of any action taken by using the contact details of the market surveillance authority published in the Safety Gate Portal."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:22/p7/s1",
+   "paragraph": "7",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the purpose of compliance with Article 31(3) of Regulation (EU) 2022/2065, as regards product safety, providers of online marketplaces shall use at least the Safety Gate Portal."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:22/p8/s1",
+   "paragraph": "8",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of online marketplaces shall, without undue delay and in any event within three working days from the receipt of the notice, process the notices related to product safety issues with regard to the product offered for sale online through their services, received in accordance with Article 16 of Regulation (EU) 2022/2065."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:22/p9/s1",
+   "paragraph": "9",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the purpose of compliance with the requirements of Article 31(1) and (2) of Regulation (EU) 2022/2065 as regards product safety information, providers of online marketplaces shall design and organise their online interface in a way that enables traders offering the product to provide at least the following information for each product offered and that ensures that the information is displayed or otherwise made easily accessible by consumers on the product listing:"
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:22/p10/s1",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The internal processes referred to in paragraph 3 shall include mechanisms which enable traders to provide:"
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:22/p11/s1",
+   "paragraph": "11",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the purpose of compliance with Article 23 of Regulation (EU) 2022/2065 regarding product safety, providers of online marketplaces shall suspend, for a reasonable period of time and after having issued a prior warning, the provision of their services to traders that frequently offer products which are non-compliant with this Regulation."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:22/p12/s1",
+   "paragraph": "12",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "cooperate",
+   "status": "DRAFT",
+   "text": "Providers of online marketplaces shall cooperate with the market surveillance authorities, with traders and with relevant economic operators to facilitate any action taken to eliminate or, if that is not possible, to mitigate the risks presented by a product that is or was offered online through their services."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:22/p12/s2",
+   "paragraph": "12",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In particular, providers of online marketplaces shall:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-gpsr-2023:22",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

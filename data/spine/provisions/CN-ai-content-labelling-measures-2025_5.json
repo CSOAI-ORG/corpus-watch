@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-ai-content-labelling-measures-2025:5",
+ "label": "CN-ai-content-labelling-measures-2025 第五条",
+ "instrument": "CN-ai-content-labelling-measures-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "bda38f867a6b88d6df89dd3ea8b49d09030736a50b2e88a1209dd61e10e5d5ad",
+ "sha256_v1": "",
+ "sha256_v2": "bda38f867a6b88d6df89dd3ea8b49d09030736a50b2e88a1209dd61e10e5d5ad",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "bda38f867a6b88d6df89dd3ea8b49d09030736a50b2e88a1209dd61e10e5d5ad",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-ai-content-labelling-measures-2025:5/s1",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "zh:public-trace",
+   "status": "DRAFT",
+   "text": "第五条 服务提供者应当按照《互联网信息服务深度合成管理规定》第十六条的规定，在生成合成内容的文件元数据中添加隐式标识，隐式标识包含生成合成内容属性信息、服务提供者名称或者编码、内容编号等制作要素信息。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-ai-content-labelling-measures-2025:5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

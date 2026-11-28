@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s165",
+ "label": "GB-dpa-2018 Section 165",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "2ea7dd28a1c6ee4354ad2c50111e6971c68eb631352d147dd22ae47868e826a3",
+ "sha256_v1": "",
+ "sha256_v2": "2ea7dd28a1c6ee4354ad2c50111e6971c68eb631352d147dd22ae47868e826a3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "2ea7dd28a1c6ee4354ad2c50111e6971c68eb631352d147dd22ae47868e826a3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s165/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(3)\nThe Commission must facilitate the making of complaints under subsection (2) by taking steps such as providing a complaint form which can be completed electronically and by other means."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s165/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(4)\nIf the Commission receives a complaint under subsection (2), the Commission must—\n(a)\ntake appropriate steps to respond to the complaint,\n(b)\ninform the complainant of the outcome of the complaint,\n(c)\ninform the complainant of the rights under section 166, and\n(d)\nif asked to do so by the complainant, provide the complainant with further information about how to pursue the complaint."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s165",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

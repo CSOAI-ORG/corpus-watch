@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-UT-HB289-AI-CSAM-2026:Section-1",
+ "label": "US-UT-HB289-AI-CSAM-2026 Section 1",
+ "instrument": "US-UT-HB289-AI-CSAM-2026",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "ffa554675c81dd8205b845a4fcbfc4548bd425432f8f88b3aa2652f54436596c",
+ "sha256_v1": "",
+ "sha256_v2": "ffa554675c81dd8205b845a4fcbfc4548bd425432f8f88b3aa2652f54436596c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ffa554675c81dd8205b845a4fcbfc4548bd425432f8f88b3aa2652f54436596c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-UT-HB289-AI-CSAM-2026:Section-1/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-UT-HB289-AI-CSAM-2026:Section-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

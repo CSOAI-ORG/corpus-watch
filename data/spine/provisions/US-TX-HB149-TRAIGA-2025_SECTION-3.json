@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-TX-HB149-TRAIGA-2025:SECTION-3",
+ "label": "US-TX-HB149-TRAIGA-2025 SECTION 3",
+ "instrument": "US-TX-HB149-TRAIGA-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8e3a1f5db96f665e263bdb63a4fd477f0c9338f0537839d5c3062e82f0c74fb1",
+ "sha256_v1": "",
+ "sha256_v2": "8e3a1f5db96f665e263bdb63a4fd477f0c9338f0537839d5c3062e82f0c74fb1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 2,
+ "sha256_current": "8e3a1f5db96f665e263bdb63a4fd477f0c9338f0537839d5c3062e82f0c74fb1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-TX-HB149-TRAIGA-2025:SECTION-3/p3/s1",
+   "paragraph": "3",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) A processor shall adhere to the instructions of a controller and shall assist the controller in meeting or complying with the controller's duties or requirements under this chapter, including:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-TX-HB149-TRAIGA-2025:SECTION-3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

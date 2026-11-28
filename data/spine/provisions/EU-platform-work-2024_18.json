@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-platform-work-2024:18",
+ "label": "EU-platform-work-2024 Article 18",
+ "instrument": "EU-platform-work-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "828459eae2a8e7fdf460c326c52e3e21c1d750984074bd605089daa3b002bb93",
+ "sha256_v1": "",
+ "sha256_v2": "828459eae2a8e7fdf460c326c52e3e21c1d750984074bd605089daa3b002bb93",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "828459eae2a8e7fdf460c326c52e3e21c1d750984074bd605089daa3b002bb93",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-platform-work-2024:18/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Right to redress\nWithout prejudice to Articles 79 and 82 of Regulation (EU) 2016/679, Member States shall ensure that persons performing platform work, including those whose employment or other contractual relationship has ended, have access to timely, effective and impartial dispute resolution and a right to redress, including adequate compensation for the damage sustained, in the case of infringements of their rights arising from this Directive."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-platform-work-2024:18",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

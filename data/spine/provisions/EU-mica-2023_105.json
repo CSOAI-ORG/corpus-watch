@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:105",
+ "label": "EU-mica-2023 Article 105",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6cf4d562cd739206511b8ec60323523f367b5275d932ee8def173bbaa1a6bbc8",
+ "sha256_v1": "",
+ "sha256_v2": "6cf4d562cd739206511b8ec60323523f367b5275d932ee8def173bbaa1a6bbc8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "6cf4d562cd739206511b8ec60323523f367b5275d932ee8def173bbaa1a6bbc8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:105/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "A competent authority shall only take a measure pursuant to paragraph 1 if it is satisfied on reasonable grounds that:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:105/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authority shall not impose a prohibition or restriction under this Article unless, not less than one month before the measure is intended to take effect, it has notified all other competent authorities and ESMA, or EBA for asset-referenced tokens and e-money tokens, in writing or through another medium agreed between the authorities, the following details:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:105/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The duration of measures taken on a provisional basis shall not exceed three months."
+  },
+  {
+   "obligation_id": "EU-mica-2023:105/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authority shall publish on its website a notice of a decision to impose a prohibition or restriction as referred to in paragraph"
+  },
+  {
+   "obligation_id": "EU-mica-2023:105/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That notice shall specify the details of the prohibition or restriction imposed and specify a time after the publication of the notice from which the measures will take effect and the evidence upon which the competent authority has based its decision, and is satisfied that each of the conditions in paragraph 2, first subparagraph, is met."
+  },
+  {
+   "obligation_id": "EU-mica-2023:105/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The prohibition or restriction shall only apply to activities after the measures have taken effect."
+  },
+  {
+   "obligation_id": "EU-mica-2023:105/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authority shall revoke a prohibition or restriction if the conditions in paragraph 2 no longer apply."
+  },
+  {
+   "obligation_id": "EU-mica-2023:105/p7/s1",
+   "paragraph": "7",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall adopt delegated acts in accordance with Article 139 to supplement this Regulation by specifying the criteria and factors to be taken into account by the competent authorities in determining whether there is a significant investor protection concern or a threat to the orderly functioning and integrity of markets in crypto-assets or to the stability of the whole or part of the financial system within at least one Member State as for the purposes of paragraph 2, first subparagraph, point (a)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:105",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

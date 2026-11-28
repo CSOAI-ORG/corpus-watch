@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-NIST-AI600-1-GenAI-2024:appx-B",
+ "label": "US-NIST-AI600-1-GenAI-2024 Appendix B",
+ "instrument": "US-NIST-AI600-1-GenAI-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "380a7b2c557c52fafada80f90ee5bc50ddba672175d5891c3416117659bf921b",
+ "sha256_v1": "",
+ "sha256_v2": "380a7b2c557c52fafada80f90ee5bc50ddba672175d5891c3416117659bf921b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 38,
+ "sha256_current": "380a7b2c557c52fafada80f90ee5bc50ddba672175d5891c3416117659bf921b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-NIST-AI600-1-GenAI-2024:appx-B/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2024) Calibrated Language Models Must Hallucinate. arXiv. https://arxiv.org/pdf/2311.14648 Karasavva, V. et al."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-NIST-AI600-1-GenAI-2024:appx-B",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

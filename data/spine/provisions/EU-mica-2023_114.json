@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:114",
+ "label": "EU-mica-2023 Article 114",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "8c114c621ead382744ec0cb08eec4a3fa50e2b1fc65908f8a92d84a522949ca9",
+ "sha256_v1": "",
+ "sha256_v2": "8c114c621ead382744ec0cb08eec4a3fa50e2b1fc65908f8a92d84a522949ca9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8c114c621ead382744ec0cb08eec4a3fa50e2b1fc65908f8a92d84a522949ca9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:114/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "A decision imposing administrative penalties and other administrative measures for an infringement of this Regulation in accordance with Article 111 shall be published by competent authorities on their official websites without undue delay after the natural or legal person subject to that decision has been informed of that decision."
+  },
+  {
+   "obligation_id": "EU-mica-2023:114/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The publication shall include at least information on the type and nature of the infringement and the identity of the natural or legal persons responsible."
+  },
+  {
+   "obligation_id": "EU-mica-2023:114/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the publication of the identity of the legal entities, or the identity or personal data of natural persons, is considered by the competent authority to be disproportionate following a case-by-case assessment conducted on the proportionality of the publication of such data, or where such publication would jeopardise an ongoing investigation, competent authorities shall take one of the following actions:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:114/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the decision to impose an administrative penalty or other administrative measure is under appeal before the relevant courts or administrative bodies, competent authorities shall publish, immediately, on their official website such information and any subsequent information on the outcome of such appeal."
+  },
+  {
+   "obligation_id": "EU-mica-2023:114/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Moreover, any decision annulling a previous decision to impose administrative penalty or other administrative measure shall also be published."
+  },
+  {
+   "obligation_id": "EU-mica-2023:114/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Competent authorities shall ensure that any publication in accordance with this Article remains on their official website for a period of at least five years after its publication."
+  },
+  {
+   "obligation_id": "EU-mica-2023:114/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Personal data contained in the publication shall be kept on the official website of the competent authority only for the period which is necessary in accordance with the applicable data protection rules."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:114",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

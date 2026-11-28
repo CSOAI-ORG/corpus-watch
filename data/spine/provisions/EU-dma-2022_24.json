@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:24",
+ "label": "EU-dma-2022 Article 24",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "2f4b78f666e2f19488d15443e50dde1dc6d7d2626c5aca32fbe9be0bbc32fafe",
+ "sha256_v1": "",
+ "sha256_v2": "2f4b78f666e2f19488d15443e50dde1dc6d7d2626c5aca32fbe9be0bbc32fafe",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "2f4b78f666e2f19488d15443e50dde1dc6d7d2626c5aca32fbe9be0bbc32fafe",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:24/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That implementing act shall be adopted only in the context of proceedings opened with a view to the possible adoption of a non-compliance decision pursuant to Article 29(1)."
+  },
+  {
+   "obligation_id": "EU-dma-2022:24/p7/s3",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That implementing act shall be adopted in accordance with the advisory procedure referred to in Article 50(2)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:24",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R2847:66",
+ "label": "Cyber Resilience Act Art. 66",
+ "instrument": "Cyber Resilience Act",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "80dc0778ab4f8041ef8ccd829724ffd3c1fb1c2dfdfa5a268f1140e7bc854fc9",
+ "sha256_v1": "80dc0778ab4f8041ef8ccd829724ffd3c1fb1c2dfdfa5a268f1140e7bc854fc9",
+ "sha256_v2": "3bc3eefbafb8218b0ca4b049bd9c2901c9032484388ed872b34a0aad82254f53",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "d47be67ab4e144f8f08e4c10a44197ba5d4eb482c2eb824dd9d0446cc0c8e3fd",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R2847:66/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 66 amendment to",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R2847:66",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

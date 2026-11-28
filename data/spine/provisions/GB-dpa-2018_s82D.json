@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s82D",
+ "label": "GB-dpa-2018 Section 82D",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "109aed1fdeb6f933fd30f6dd0362864e2b0d2f444d15cc4ba9e66c674b78df6b",
+ "sha256_v1": "",
+ "sha256_v2": "109aed1fdeb6f933fd30f6dd0362864e2b0d2f444d15cc4ba9e66c674b78df6b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "109aed1fdeb6f933fd30f6dd0362864e2b0d2f444d15cc4ba9e66c674b78df6b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s82D/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Records of designation notices\n(1)\nWhere the Secretary of State gives a designation notice—\n(a)\nthe Secretary of State must send a copy of the notice to the Commission, and\n(b)\nthe Commission must publish a record of the notice."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s82D/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nThe record must contain—\n(a)\nthe Secretary of State’s name,\n(b)\nthe date on which the notice was given,\n(c)\nthe date on which the notice ceases to have effect (if not previously withdrawn), and\n(d)\nsubject to subsection (3), the rest of the text of the notice."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s82D/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(3)\nThe Commission must not publish the text, or a part of the text, of the notice if—\n(a)\nthe Secretary of State has determined that publishing the text or that part of the text—\n(i)\nwould be against the interests of national security,\n(ii)\nwould be contrary to the public interest, or\n(iii)\nmight jeopardise the safety of any person, and\n(b)\nthe Secretary of State has notified the Commission of that determination."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s82D/p0/s4",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(4)\nThe Commission must keep the record of the notice available to the public while the notice is in force."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s82D/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nWhere the Secretary of State gives a withdrawal notice, the Secretary of State must send a copy of the notice to the Commission."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s82D",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

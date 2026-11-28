@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s86",
+ "label": "GB-dpa-2018 Section 86",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e2c0b078705724f59289cc0b3a7e7db5c8514082214e95ffebf2ca97d79920be",
+ "sha256_v1": "",
+ "sha256_v2": "e2c0b078705724f59289cc0b3a7e7db5c8514082214e95ffebf2ca97d79920be",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "e2c0b078705724f59289cc0b3a7e7db5c8514082214e95ffebf2ca97d79920be",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s86/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The first data protection principle\n(1)\nThe first data protection principle is that the processing of personal data must be—\n(a)\nlawful, and\n(b)\nfair and transparent."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s86/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\nFor the purposes of subsection (5), data is to be treated as obtained fairly and transparently if it consists of information obtained from a person who—\n(a)\nis authorised by an enactment to supply it, or\n(b)\nis required to supply it by an enactment or by an international obligation of the United Kingdom."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s86",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-pipa-2011:63-2",
+ "label": "KR-pipa-2011 제63조의2",
+ "instrument": "KR-pipa-2011",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "f4b5480eff223caeddf836a06fe5e903ba75fa18c57f595d6e883ea0c0bcdf8f",
+ "sha256_v1": "",
+ "sha256_v2": "f4b5480eff223caeddf836a06fe5e903ba75fa18c57f595d6e883ea0c0bcdf8f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "f4b5480eff223caeddf836a06fe5e903ba75fa18c57f595d6e883ea0c0bcdf8f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-pipa-2011:63-2/s3",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "ko:public-trace",
+   "status": "DRAFT",
+   "text": "③ 제2항에 따른 시정권고를 받은 개인정보처리자는 이를 통보받은 날부터 10일 이내에 해당 권고를 수락하는지 여부에 관하여 보호위원회에 통지하여야 하며, 그 이행 결과를 보호위원회가 고시로 정하는 바에 따라 보호위원회에 알려야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-pipa-2011:63-2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

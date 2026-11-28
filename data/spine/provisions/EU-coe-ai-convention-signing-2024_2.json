@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-coe-ai-convention-signing-2024:2",
+ "label": "EU-coe-ai-convention-signing-2024 Article 2",
+ "instrument": "EU-coe-ai-convention-signing-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "8c960545d339602566d6eccf5a69c0aeb4d60f2fe2d4b7dad2ea6cbd4c5d80e6",
+ "sha256_v1": "",
+ "sha256_v2": "8c960545d339602566d6eccf5a69c0aeb4d60f2fe2d4b7dad2ea6cbd4c5d80e6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8c960545d339602566d6eccf5a69c0aeb4d60f2fe2d4b7dad2ea6cbd4c5d80e6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-coe-ai-convention-signing-2024:2/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall ensure the signing of the Convention, subject to its conclusion."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-coe-ai-convention-signing-2024:2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

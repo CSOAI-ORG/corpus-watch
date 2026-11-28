@@ -1,0 +1,89 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022L2555:27",
+ "label": "NIS2 Directive Art. 27",
+ "instrument": "NIS2 Directive",
+ "ladder": "CROSSWALK_ONLY",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e48c1b8ee2d9f82f6f653c73b419ecbab17e54563be61050b26d9263efb647c0",
+ "sha256_v1": "e48c1b8ee2d9f82f6f653c73b419ecbab17e54563be61050b26d9263efb647c0",
+ "sha256_v2": "51b36359e9c20854f05d9f58ac0c4382432ef6950ca452dab0f2b43cc987a732",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "51b36359e9c20854f05d9f58ac0c4382432ef6950ca452dab0f2b43cc987a732",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022L2555:27/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "ENISA shall create and maintain a registry of DNS service providers, TLD name registries, entities providing domain name registration services, cloud computing service providers, data centre service providers, content delivery network providers, managed service providers, managed security service providers, as well as providers of online marketplaces, of online search engines and of social networking services platforms, on the basis of the information received from the single points of contact in accordance with paragraph"
+  },
+  {
+   "obligation_id": "32022L2555:27/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Upon request, ENISA shall allow the competent authorities access to that registry, while ensuring that the confidentiality of information is protected where applicable."
+  },
+  {
+   "obligation_id": "32022L2555:27/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall require entities referred to in paragraph 1 to submit the following information to the competent authorities by 17 January 2025:"
+  },
+  {
+   "obligation_id": "32022L2555:27/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that the entities referred to in paragraph 1 notify the competent authority about any changes to the information they submitted under paragraph 2 without delay and in any event within three months of the date of the change."
+  },
+  {
+   "obligation_id": "32022L2555:27/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Upon receipt of the information referred to in paragraphs 2 and 3, except for that referred to in paragraph 2, point (f), the single point of contact of the Member State concerned shall, without undue delay, forward it to ENISA."
+  },
+  {
+   "obligation_id": "32022L2555:27/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where applicable, the information referred to in paragraphs 2 and 3 of this Article shall be submitted through the national mechanism referred to in Article 3(4), fourth subparagraph."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022L2555:27",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

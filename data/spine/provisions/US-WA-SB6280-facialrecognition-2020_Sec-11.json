@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-WA-SB6280-facialrecognition-2020:Sec-11",
+ "label": "US-WA-SB6280-facialrecognition-2020 Sec. 11",
+ "instrument": "US-WA-SB6280-facialrecognition-2020",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "61822f8177e786bfc6ff4c4725827d6fd5c6d8484800dec3f23a34154c5e3cea",
+ "sha256_v1": "",
+ "sha256_v2": "61822f8177e786bfc6ff4c4725827d6fd5c6d8484800dec3f23a34154c5e3cea",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "61822f8177e786bfc6ff4c4725827d6fd5c6d8484800dec3f23a34154c5e3cea",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-WA-SB6280-facialrecognition-2020:Sec-11/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4) A law enforcement agency that utilizes body worn camera recordings shall comply with the provisions of RCW 42.56.240 (14)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-WA-SB6280-facialrecognition-2020:Sec-11",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

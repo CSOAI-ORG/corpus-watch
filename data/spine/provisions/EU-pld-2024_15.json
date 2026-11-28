@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-pld-2024:15",
+ "label": "EU-pld-2024 Article 15",
+ "instrument": "EU-pld-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "b6a93d4f4154ce9bc4838f6df36d0f7087a215ecf5bed323c2cafc4fba4efca8",
+ "sha256_v1": "",
+ "sha256_v2": "b6a93d4f4154ce9bc4838f6df36d0f7087a215ecf5bed323c2cafc4fba4efca8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "b6a93d4f4154ce9bc4838f6df36d0f7087a215ecf5bed323c2cafc4fba4efca8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-pld-2024:15/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Exclusion or limitation of liability\nMember States shall ensure that the liability of an economic operator pursuant to this Directive is not, in relation to the injured person, limited or excluded by a contractual provision or by national law."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-pld-2024:15",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

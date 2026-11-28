@@ -1,0 +1,116 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO13960-2020:sec5",
+ "label": "US-EO13960-2020 Section 5",
+ "instrument": "US-EO13960-2020",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "6caaff8b3498583755a7defe055b7b5aec5a5a7cd559b3aa66c3a92555ac94ed",
+ "sha256_v1": "",
+ "sha256_v2": "6caaff8b3498583755a7defe055b7b5aec5a5a7cd559b3aa66c3a92555ac94ed",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "6caaff8b3498583755a7defe055b7b5aec5a5a7cd559b3aa66c3a92555ac94ed",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO13960-2020:sec5/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(a) Within 60 days of the date of this order, the Federal Chief Information Officers Council (CIO Council), in coordination with other interagency bodies as it deems appropriate, shall identify, provide guidance on, and make publicly available the criteria, format, and mechanisms for agency inventories of non-classified and non-sensitive use cases of AI by agencies."
+  },
+  {
+   "obligation_id": "US-EO13960-2020:sec5/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) Within 180 days of the CIO Council's completion of the directive in section 5(a) of this order, and annually thereafter, each agency shall prepare an inventory of its non-classified and non-sensitive use cases of AI, within the scope defined by section 9 of this order, including current and planned uses, consistent with the agency's mission."
+  },
+  {
+   "obligation_id": "US-EO13960-2020:sec5/p5/s3",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) As part of their respective inventories of AI use cases, agencies shall identify, review, and assess existing AI deployed and operating in support of agency missions for any inconsistencies with this order."
+  },
+  {
+   "obligation_id": "US-EO13960-2020:sec5/p5/s4",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i) Within 120 days of completing their respective inventories, agencies shall develop plans either to achieve consistency with this order for each AI application or to retire AI applications found to be developed or used in a manner that is not consistent with this order."
+  },
+  {
+   "obligation_id": "US-EO13960-2020:sec5/p5/s5",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "These plans must be approved by the agency-designated responsible official(s), as described in section 8 of this order, within this same 120-day time period."
+  },
+  {
+   "obligation_id": "US-EO13960-2020:sec5/p5/s6",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(ii) In coordination with the Agency Data Governance Body and relevant officials from agencies not represented within that body, agencies shall strive to implement the approved plans within 180 days of plan approval, subject to existing resource levels."
+  },
+  {
+   "obligation_id": "US-EO13960-2020:sec5/p5/s7",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d) Within 60 days of the completion of their respective inventories of use cases of AI, agencies shall share their inventories with other agencies, to the extent practicable and consistent with applicable law and policy, including those concerning protection of privacy and of sensitive law enforcement, national security, and other protected information."
+  },
+  {
+   "obligation_id": "US-EO13960-2020:sec5/p5/s8",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This sharing shall be coordinated through the CIO and Chief Data Officer Councils, as well as other interagency bodies, as appropriate, to improve interagency coordination and information sharing for common use cases."
+  },
+  {
+   "obligation_id": "US-EO13960-2020:sec5/p5/s9",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e) Within 120 days of the completion of their inventories, agencies shall make their inventories available to the public, to the extent practicable and in accordance with applicable law and policy, including those concerning the protection of privacy and of sensitive law enforcement, national security, and other protected information."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO13960-2020:sec5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

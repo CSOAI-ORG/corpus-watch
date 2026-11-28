@@ -1,0 +1,48 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:76",
+ "label": "GDPR Art. 76",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "4e56af18a080d4318ff988ee9134a5f7e300788c834abbcd762e84a65bb7b919",
+ "sha256_v1": "4e56af18a080d4318ff988ee9134a5f7e300788c834abbcd762e84a65bb7b919",
+ "sha256_v2": "fadaacba89a6db05f8a699605b35f03841d36a2a71699c18b693cb993c35d659",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "4420a512a1758ff17a38a243a211f35a0a6904619e88acfa8c14b6446bf13b4b",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:76/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The discussions of the Board shall be confidential where the Board deems it necessary, as provided for in its rules of procedure."
+  },
+  {
+   "obligation_id": "32016R0679:76/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Access to documents submitted to members of the Board, experts and representatives of third parties shall be governed by Regulation (EC) No 1049/2001 of the European Parliament and of the Council ( 3 )."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:76",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

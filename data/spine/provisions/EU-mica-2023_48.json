@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:48",
+ "label": "EU-mica-2023 Article 48",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "59a3ec70437a10d8a068439de03085c1e193a43712ca42fafe3098118c7d5927",
+ "sha256_v1": "",
+ "sha256_v2": "59a3ec70437a10d8a068439de03085c1e193a43712ca42fafe3098118c7d5927",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "59a3ec70437a10d8a068439de03085c1e193a43712ca42fafe3098118c7d5927",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:48/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A person shall not make an offer to the public or seek the admission to trading of an e-money token, within the Union, unless that person is the issuer of such e-money token and:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:48/p51/s1",
+   "paragraph": "51",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those persons shall comply with Articles 50 and 53."
+  },
+  {
+   "obligation_id": "EU-mica-2023:48/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Issuers of e-money tokens shall, at least 40 working days before the date on which they intend to offer to the public those e-money tokens or seek their admission to trading, notify their competent authority of that intention."
+  },
+  {
+   "obligation_id": "EU-mica-2023:48/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Where paragraph 4 or 5 applies, the issuers of e-money tokens shall draw up a crypto-asset white paper and notify such crypto-asset white paper to the competent authority in accordance with Article 51."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:48",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

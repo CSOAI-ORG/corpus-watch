@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s53",
+ "label": "AU-privacy-act-1988 Section 53",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6acdd0607b0e00b9f296c00d51581d3bd45240c52a51261dbab39e06167549ff",
+ "sha256_v1": "",
+ "sha256_v2": "6acdd0607b0e00b9f296c00d51581d3bd45240c52a51261dbab39e06167549ff",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "6acdd0607b0e00b9f296c00d51581d3bd45240c52a51261dbab39e06167549ff",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s53/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "53  Determination must identify the class members who are to be affected by the determination\nA determination under section 52 on a representative complaint must describe or otherwise identify those of the class members who are to be affected by the determination."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s53",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

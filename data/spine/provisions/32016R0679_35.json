@@ -1,0 +1,129 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:35",
+ "label": "GDPR Art. 35",
+ "instrument": "GDPR",
+ "ladder": "CROSSWALK_ONLY",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "b9504459017880cac29ed9fbf25e20cbdb9a13f43db20555537240739d396e74",
+ "sha256_v1": "b9504459017880cac29ed9fbf25e20cbdb9a13f43db20555537240739d396e74",
+ "sha256_v2": "2d8b38c01476ce9133c466f06a76865928ba480718488a2e23b3c86bde93eede",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "2d8b38c01476ce9133c466f06a76865928ba480718488a2e23b3c86bde93eede",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:35/p1/s1",
+   "paragraph": "1",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Where a type of processing in particular using new technologies, and taking into account the nature, scope, context and purposes of the processing, is likely to result in a high risk to the rights and freedoms of natural persons, the controller shall, prior to the processing, carry out an assessment of the impact of the envisaged processing operations on the protection of personal data."
+  },
+  {
+   "obligation_id": "32016R0679:35/p2/s1",
+   "paragraph": "2",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "The controller shall seek the advice of the data protection officer, where designated, when carrying out a data protection impact assessment."
+  },
+  {
+   "obligation_id": "32016R0679:35/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "A data protection impact assessment referred to in paragraph 1 shall in particular be required in the case of:"
+  },
+  {
+   "obligation_id": "32016R0679:35/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The supervisory authority shall establish and make public a list of the kind of processing operations which are subject to the requirement for a data protection impact assessment pursuant to paragraph"
+  },
+  {
+   "obligation_id": "32016R0679:35/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The supervisory authority shall communicate those lists to the Board referred to in Article 68."
+  },
+  {
+   "obligation_id": "32016R0679:35/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The supervisory authority shall communicate those lists to the Board."
+  },
+  {
+   "obligation_id": "32016R0679:35/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The assessment shall contain at least:"
+  },
+  {
+   "obligation_id": "32016R0679:35/p8/s1",
+   "paragraph": "8",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Compliance with approved codes of conduct referred to in Article 40 by the relevant controllers or processors shall be taken into due account in assessing the impact of the processing operations performed by such controllers or processors, in particular for the purposes of a data protection impact assessment."
+  },
+  {
+   "obligation_id": "32016R0679:35/p9/s1",
+   "paragraph": "9",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where appropriate, the controller shall seek the views of data subjects or their representatives on the intended processing, without prejudice to the protection of commercial or public interests or the security of processing operations."
+  },
+  {
+   "obligation_id": "32016R0679:35/p11/s1",
+   "paragraph": "11",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Where necessary, the controller shall carry out a review to assess if processing is performed in accordance with the data protection impact assessment at least when there is a change of the risk represented by processing operations."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:35",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

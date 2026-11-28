@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-data-security-law-2021:55",
+ "label": "CN-data-security-law-2021 第五十五条",
+ "instrument": "CN-data-security-law-2021",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "c20c74cbb2dcf20101c9bee1cf680bf75146be030ccf80802c14c5afd0071ebd",
+ "sha256_v1": "",
+ "sha256_v2": "c20c74cbb2dcf20101c9bee1cf680bf75146be030ccf80802c14c5afd0071ebd",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "c20c74cbb2dcf20101c9bee1cf680bf75146be030ccf80802c14c5afd0071ebd",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-data-security-law-2021:55/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:zh",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-data-security-law-2021:55",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

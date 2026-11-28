@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-UT-SB256-identityprotection-AI-2026:Section-2",
+ "label": "US-UT-SB256-identityprotection-AI-2026 Section 2",
+ "instrument": "US-UT-SB256-identityprotection-AI-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "589ec82407604e4dd42a3360e52b61cf916ed6d7135ada377b1424151c2d61ff",
+ "sha256_v1": "",
+ "sha256_v2": "589ec82407604e4dd42a3360e52b61cf916ed6d7135ada377b1424151c2d61ff",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "589ec82407604e4dd42a3360e52b61cf916ed6d7135ada377b1424151c2d61ff",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-UT-SB256-identityprotection-AI-2026:Section-2/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(2) Before filing an action under this chapter for libel or slander based on digitally created content, an individual shall provide written notice to the person who published or caused the publication of the allegedly defamatory content."
+  },
+  {
+   "obligation_id": "US-UT-SB256-identityprotection-AI-2026:Section-2/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "(3) The individual shall ensure the notice described in Subsection (2):"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-UT-SB256-identityprotection-AI-2026:Section-2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

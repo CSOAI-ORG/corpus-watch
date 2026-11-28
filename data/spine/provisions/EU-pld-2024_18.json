@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-pld-2024:18",
+ "label": "EU-pld-2024 Article 18",
+ "instrument": "EU-pld-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f37a1bf967246c6a33de0d0c1210f3eb57b04c7bf01ee9f48da9470407bf2430",
+ "sha256_v1": "",
+ "sha256_v2": "f37a1bf967246c6a33de0d0c1210f3eb57b04c7bf01ee9f48da9470407bf2430",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f37a1bf967246c6a33de0d0c1210f3eb57b04c7bf01ee9f48da9470407bf2430",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-pld-2024:18/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Any Member State wishing to maintain measures in accordance with this paragraph shall notify the text of the measures to the Commission no later than 9 December 2026."
+  },
+  {
+   "obligation_id": "EU-pld-2024:18/p1/s2",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall inform the other Member States thereof."
+  },
+  {
+   "obligation_id": "EU-pld-2024:18/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The measures referred to in paragraph 2 shall be:"
+  },
+  {
+   "obligation_id": "EU-pld-2024:18/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Any Member State wishing to introduce or amend a measure referred to in paragraph 2 shall notify the text of the proposed measure to the Commission and shall provide a justification of how that measure complies with paragraph"
+  },
+  {
+   "obligation_id": "EU-pld-2024:18/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall inform the other Member States thereof."
+  },
+  {
+   "obligation_id": "EU-pld-2024:18/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Member State wishing to introduce or amend that measure shall hold that measure in abeyance for six months following its notification to the Commission, unless the Commission issues its opinion earlier."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-pld-2024:18",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

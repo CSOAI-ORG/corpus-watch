@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:68",
+ "label": "EU-dsa-2022 Article 68",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "a06bb9cf80ebfd6377396775afd8869ad9f08d7a28644d6f8105faae2e7f3486",
+ "sha256_v1": "",
+ "sha256_v2": "a06bb9cf80ebfd6377396775afd8869ad9f08d7a28644d6f8105faae2e7f3486",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "a06bb9cf80ebfd6377396775afd8869ad9f08d7a28644d6f8105faae2e7f3486",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:68/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall be entitled to record such interview by appropriate technical means."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:68/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "If the interview referred to in paragraph 1 is conducted on other premises than those of the Commission, the Commission shall inform the Digital Services Coordinator of the Member State in the territory of which the interview takes place."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:68",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

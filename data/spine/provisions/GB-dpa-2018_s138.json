@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s138",
+ "label": "GB-dpa-2018 Section 138",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7771cf1437a8cf2f1532477644a501dea3e8f1272488acc74fce8379586f3c43",
+ "sha256_v1": "",
+ "sha256_v2": "7771cf1437a8cf2f1532477644a501dea3e8f1272488acc74fce8379586f3c43",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "7771cf1437a8cf2f1532477644a501dea3e8f1272488acc74fce8379586f3c43",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s138/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Regulations under section 137: supplementary\n(1)\nBefore making regulations under section 137(1) or (6), the Secretary of State must consult such representatives of persons likely to be affected by the regulations as the Secretary of State thinks appropriate (and see also section 182)."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s138/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\nThe Commission —\n(a)\nmust keep under review the working of regulations under section 137(1) or (6), and\n(b)\nmay from time to time submit proposals to the Secretary of State for amendments to be made to the regulations."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s138/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nThe Secretary of State must review the working of regulations under section 137(1) or (6)—\n(a)\nat the end of the period of 5 years beginning with the making of the first set of regulations under section 108 of the Digital Economy Act 2017, and\n(b)\nat the end of each subsequent 5 year period."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s138",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

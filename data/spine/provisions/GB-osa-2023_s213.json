@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s213",
+ "label": "GB-osa-2023 Section 213",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "787db689bdc84c48089d5f3640242975fea64b0128cab882bd6409d987f21cf5",
+ "sha256_v1": "",
+ "sha256_v2": "787db689bdc84c48089d5f3640242975fea64b0128cab882bd6409d987f21cf5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "787db689bdc84c48089d5f3640242975fea64b0128cab882bd6409d987f21cf5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s213/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(2)\nAfter subsection (5) insert—\n(5A)\nA person shall not be convicted of an offence against this section of the publication of an obscene article if the person proves that—\n(a)\nat the time of the offence charged, the person was a member of OFCOM, employed or engaged by OFCOM, or assisting OFCOM in the exercise of any of their online safety functions (within the meaning of section 235 of the Online Safety Act 2023), and\n(b)\nthe person published the article for the purposes of OFCOM’s exercise of any of those functions."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s213",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

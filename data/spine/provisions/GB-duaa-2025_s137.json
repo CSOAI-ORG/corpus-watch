@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s137",
+ "label": "GB-duaa-2025 Section 137",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "3bba4ff31c5bd1a966570b49a3b57effbd22d3e910db8f33676d57911868af93",
+ "sha256_v1": "",
+ "sha256_v2": "3bba4ff31c5bd1a966570b49a3b57effbd22d3e910db8f33676d57911868af93",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "3bba4ff31c5bd1a966570b49a3b57effbd22d3e910db8f33676d57911868af93",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s137/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Progress statement\n(1)\nThe Secretary of State must, before the end of the period of 6 months beginning with the day on which this Act is passed, lay before Parliament a statement setting out what progress has been made towards the publication of—\n(a)\nthe economic impact assessment required by section 135, and\n(b)\nthe report required by section 136."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s137",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

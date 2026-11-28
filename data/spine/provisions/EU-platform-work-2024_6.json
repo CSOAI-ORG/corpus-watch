@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-platform-work-2024:6",
+ "label": "EU-platform-work-2024 Article 6",
+ "instrument": "EU-platform-work-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "fef5fd2a01fe04b05e773d929189942a9477435e4a065838161b9c7a29dbd111",
+ "sha256_v1": "",
+ "sha256_v2": "fef5fd2a01fe04b05e773d929189942a9477435e4a065838161b9c7a29dbd111",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "fef5fd2a01fe04b05e773d929189942a9477435e4a065838161b9c7a29dbd111",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-platform-work-2024:6/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Framework of supporting measures\nMember States shall establish a framework of supporting measures in order to ensure the effective implementation of and compliance with the legal presumption."
+  },
+  {
+   "obligation_id": "EU-platform-work-2024:6/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In particular, they shall:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-platform-work-2024:6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

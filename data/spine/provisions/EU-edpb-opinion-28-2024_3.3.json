@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-edpb-opinion-28-2024:3.3",
+ "label": "EU-edpb-opinion-28-2024 section 3.3",
+ "instrument": "EU-edpb-opinion-28-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d0eded2af8e23770160a046d7589b4d93ffa6fca1f9c561e56a8f655699bac62",
+ "sha256_v1": "",
+ "sha256_v2": "d0eded2af8e23770160a046d7589b4d93ffa6fca1f9c561e56a8f655699bac62",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 22,
+ "sha256_current": "d0eded2af8e23770160a046d7589b4d93ffa6fca1f9c561e56a8f655699bac62",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-edpb-opinion-28-2024:3.3/p62/s1",
+   "paragraph": "62",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Accountability principle (Article 5(2) GDPR ) - This principle provides that the controller shall be\nresponsible for, and be able to demonstrate , compliance with the GDPR."
+  },
+  {
+   "obligation_id": "EU-edpb-opinion-28-2024:3.3/p47/s1",
+   "paragraph": "47",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The WP29 already stressed that the ‘purpose of the collection must be clearly and specifically identified\n[...]’48."
+  },
+  {
+   "obligation_id": "EU-edpb-opinion-28-2024:3.3/p68/s1",
+   "paragraph": "68",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The interest is lawful54;\n49 According to Article 21 GDPR, if a data subject objects, on grounds relating to their particular situation, to the\nprocessing of personal data concerning them, the controller shall no longer process the personal data, unless the\ncontroller demonstrates compelling legitimate grounds for the processing which override the interests, rights\nand freedoms of the data subject or for the establishment, exercise or defence of legal claims."
+  },
+  {
+   "obligation_id": "EU-edpb-opinion-28-2024:3.3/p66/s1",
+   "paragraph": "66",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The question it must ask is\nwhether there are other ways of data processing by which the immigration authorities could enforce the rules on\nresidence status."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-edpb-opinion-28-2024:3.3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

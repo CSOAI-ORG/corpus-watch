@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-equality-act-2010:s116",
+ "label": "GB-equality-act-2010 Section 116",
+ "instrument": "GB-equality-act-2010",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "fc38c8a84a927948650d111517c4ba9eab1ebf33fa3903d5842e260a01d7b1f4",
+ "sha256_v1": "",
+ "sha256_v2": "fc38c8a84a927948650d111517c4ba9eab1ebf33fa3903d5842e260a01d7b1f4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "fc38c8a84a927948650d111517c4ba9eab1ebf33fa3903d5842e260a01d7b1f4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-equality-act-2010:s116/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nA claim is also within this section if it must be made in accordance with appeal arrangements within the meaning of Part 4 of that Schedule."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-equality-act-2010:s116",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

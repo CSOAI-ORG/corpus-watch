@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:86",
+ "label": "EU-ehds-2025 Article 86",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "eea0d97f8d5932035bbc1eb55887f7e40a3f59338c94f7cdc1f4604cb8e7b66f",
+ "sha256_v1": "",
+ "sha256_v2": "eea0d97f8d5932035bbc1eb55887f7e40a3f59338c94f7cdc1f4604cb8e7b66f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "eea0d97f8d5932035bbc1eb55887f7e40a3f59338c94f7cdc1f4604cb8e7b66f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:86/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Storage of personal electronic health data for primary use\nIn accordance with the general principles of Union law, which include the fundamental rights enshrined in Articles 7 and 8 of the Charter of Fundamental Rights of the European Union, Member States shall ensure that a particularly high level of protection and security is in place when processing personal electronic health data for primary use, by means of appropriate technical and organisational measures."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:86/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In this respect, this Regulation shall not preclude a requirement under national law, taking into account the national context, that, in cases where personal electronic health data are processed by healthcare providers for the provision of healthcare or by the national contact points for digital health connected to MyHealth@EU, the storage of personal electronic health data referred to in Article 14 of this Regulation for the purpose of primary use be located within the Union, in compliance with Union law and international commitments."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:86",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

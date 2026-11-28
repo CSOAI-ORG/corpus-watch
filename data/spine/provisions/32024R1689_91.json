@@ -1,0 +1,69 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:91",
+ "label": "EU AI Act Art. 91",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e2c48396abbb051f051526ddccdeb4a40fb44d93779fd14777c8935a7939f41d",
+ "sha256_v1": "e2c48396abbb051f051526ddccdeb4a40fb44d93779fd14777c8935a7939f41d",
+ "sha256_v2": "e2c48396abbb051f051526ddccdeb4a40fb44d93779fd14777c8935a7939f41d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "e2c48396abbb051f051526ddccdeb4a40fb44d93779fd14777c8935a7939f41d",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:91/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The request for information shall state the legal basis and the purpose of the request, specify what information is required, set a period within which the information is to be provided, and indicate the fines provided for in Article 101 for supplying incorrect, incomplete or misleading information."
+  },
+  {
+   "obligation_id": "32024R1689:91/p5/s1",
+   "paragraph": "5",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The provider of the general-purpose AI model concerned, or its representative shall supply the information requested."
+  },
+  {
+   "obligation_id": "32024R1689:91/p5/s2",
+   "paragraph": "5",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the case of legal persons, companies or firms, or where the provider has no legal personality, the persons authorised to represent them by law or by their statutes, shall supply the information requested on behalf of the provider of the general-purpose AI model concerned."
+  },
+  {
+   "obligation_id": "32024R1689:91/p5/s3",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The clients shall nevertheless remain fully responsible if the information supplied is incomplete, incorrect or misleading."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:91",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

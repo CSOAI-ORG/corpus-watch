@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB53-TFAIA-2025:SEC-4:1107.2.",
+ "label": "US-CA-SB53-TFAIA-2025 SEC. 4. / 1107.2.",
+ "instrument": "US-CA-SB53-TFAIA-2025",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "39c46c33789671b93a13583c801b5c1186b44d869827f4dd6d445fa0237f6237",
+ "sha256_v1": "",
+ "sha256_v2": "39c46c33789671b93a13583c801b5c1186b44d869827f4dd6d445fa0237f6237",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "39c46c33789671b93a13583c801b5c1186b44d869827f4dd6d445fa0237f6237",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB53-TFAIA-2025:SEC-4:1107.2./none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB53-TFAIA-2025:SEC-4:1107.2.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s100",
+ "label": "AU-privacy-act-1988 Section 100",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "dc7d24957af15629542ba46b4db5d9e8c7d943256998c7a463d2b580202ec36a",
+ "sha256_v1": "",
+ "sha256_v2": "dc7d24957af15629542ba46b4db5d9e8c7d943256998c7a463d2b580202ec36a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "dc7d24957af15629542ba46b4db5d9e8c7d943256998c7a463d2b580202ec36a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s100/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1A)\tBefore the GovernorGeneral makes regulations for the purposes of Australian Privacy Principle 8.3 prescribing a country or binding scheme, the Minister must be satisfied that:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s100/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\tBefore the GovernorGeneral makes regulations for the purposes of Australian Privacy Principle 9.3 prescribing a government related identifier, an organisation or a class of organisations, and circumstances, the Minister must be satisfied that:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s100",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

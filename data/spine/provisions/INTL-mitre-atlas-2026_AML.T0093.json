@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-mitre-atlas-2026:AML.T0093",
+ "label": "INTL-mitre-atlas-2026 AML.T0093",
+ "instrument": "INTL-mitre-atlas-2026",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "b0225cc463dae4390584d907725fa2e611983fc83086b23c147af253f5bb86da",
+ "sha256_v1": "",
+ "sha256_v2": "b0225cc463dae4390584d907725fa2e611983fc83086b23c147af253f5bb86da",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "b0225cc463dae4390584d907725fa2e611983fc83086b23c147af253f5bb86da",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-mitre-atlas-2026:AML.T0093/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-mitre-atlas-2026:AML.T0093",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s63",
+ "label": "GB-osa-2023 Section 63",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "4bed1c135152b8eeab7f42f7497baf09ca848d9258abea38951d11144896c94b",
+ "sha256_v1": "",
+ "sha256_v2": "4bed1c135152b8eeab7f42f7497baf09ca848d9258abea38951d11144896c94b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "4bed1c135152b8eeab7f42f7497baf09ca848d9258abea38951d11144896c94b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s63/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "OFCOM’s review and report\n(1)\nOFCOM must carry out reviews of—\n(a)\nthe incidence on regulated user-to-user services of content that is harmful to children,\n(b)\nthe incidence on regulated search services and combined services of search content that is harmful to children, and\n(c)\nthe severity of harm that children in the United Kingdom suffer, or may suffer, as a result of those kinds of content."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s63/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(2)\nOFCOM must produce and publish a report on the outcome of each review."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s63/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nThe report must include advice as to whether, in OFCOM’s opinion, it is appropriate to make changes to sections 61 and 62, specifying the changes that OFCOM recommend."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s63/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(4)\nThe reports must be published not more than three years apart."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s63/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(5)\nThe first report must be published before the end of the period of three years beginning with the day on which this Act is passed."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s63/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\nOFCOM must send a copy of each report to the Secretary of State."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s63",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

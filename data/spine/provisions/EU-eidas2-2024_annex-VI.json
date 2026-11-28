@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eidas2-2024:annex-VI",
+ "label": "EU-eidas2-2024 Annex VI",
+ "instrument": "EU-eidas2-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "76d7f153dba1d508019d4ca2f77bcb8f76d4a683e95f563f3ff8499b9def60d9",
+ "sha256_v1": "",
+ "sha256_v2": "76d7f153dba1d508019d4ca2f77bcb8f76d4a683e95f563f3ff8499b9def60d9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "76d7f153dba1d508019d4ca2f77bcb8f76d4a683e95f563f3ff8499b9def60d9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eidas2-2024:annex-VI/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "ANNEX VI\n‘ANNEX VI\nMINIMUM LIST OF ATTRIBUTES\nPursuant to Article 45e, Member States shall ensure that measures are taken to allow qualified trust service providers of electronic attestations of attributes to verify by electronic means at the request of the user, the authenticity of the following attributes against the relevant authentic source at national level or via designated intermediaries recognised at national level, in accordance with Union or national law and where these attributes rely on authentic sources within the public sector:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eidas2-2024:annex-VI",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

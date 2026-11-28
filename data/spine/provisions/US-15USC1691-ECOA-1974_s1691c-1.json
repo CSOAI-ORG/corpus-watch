@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-15USC1691-ECOA-1974:s1691c-1",
+ "label": "US-15USC1691-ECOA-1974 15 U.S.C. 1691c-1",
+ "instrument": "US-15USC1691-ECOA-1974",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "a49fb47eb15334b4fc72b31186ad9bf9c000ad4421d55dcbff9ee0aa3768d3cc",
+ "sha256_v1": "",
+ "sha256_v2": "a49fb47eb15334b4fc72b31186ad9bf9c000ad4421d55dcbff9ee0aa3768d3cc",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "a49fb47eb15334b4fc72b31186ad9bf9c000ad4421d55dcbff9ee0aa3768d3cc",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-15USC1691-ECOA-1974:s1691c-1/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Incentives for self-testing and self-correction\n(a) Privileged information\n(1) Conditions for privilege\nA report or result of a self-test (as that term is defined by regulations of the Bureau) shall be considered to be privileged under paragraph (2) if a creditor—\n(A) conducts, or authorizes an independent third party to conduct, a self-test of any aspect of a credit transaction by a creditor, in order to determine the level or effectiveness of compliance with this subchapter by the creditor; and\n(B) has identified any possible violation of this subchapter by the creditor and has taken, or is taking, appropriate corrective action to address any such possible violation."
+  },
+  {
+   "obligation_id": "US-15USC1691-ECOA-1974:s1691c-1/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2) Privileged self-test\nIf a creditor meets the conditions specified in subparagraphs (A) and (B) of paragraph (1) with respect to a self-test described in that paragraph, any report or results of that self-test—\n(A) shall be privileged; and\n(B) may not be obtained or used by any applicant, department, or agency in any—\n(i) proceeding or civil action in which one or more violations of this subchapter are alleged; or\n(ii) examination or investigation relating to compliance with this subchapter."
+  },
+  {
+   "obligation_id": "US-15USC1691-ECOA-1974:s1691c-1/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2) Disclosure for determination of penalty or remedy\nAny report or results of a self-test that are disclosed for the purpose specified in paragraph (1)(B)—\n(A) shall be used only for the particular proceeding in which the adjudication or admission referred to in paragraph (1)(B) is made; and\n(B) may not be used in any other action or proceeding."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-15USC1691-ECOA-1974:s1691c-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

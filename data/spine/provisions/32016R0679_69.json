@@ -1,0 +1,48 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:69",
+ "label": "GDPR Art. 69",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "5e0986e348f63ed2b45cf0fff593d2e6fe89a708efb01dc0979b40da35a7a80c",
+ "sha256_v1": "5e0986e348f63ed2b45cf0fff593d2e6fe89a708efb01dc0979b40da35a7a80c",
+ "sha256_v2": "bd3a2f918d55eaaf377682d89b7b112a80f9c9888753349d2571e6c87ba94144",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": 6,
+ "sha256_current": "d35dfb31a7f6bae5f0c079ca9c32205e4dda19c65b4c287b735feebd98f3231f",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:69/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Board shall act independently when performing its tasks or exercising its powers pursuant to Articles 70 and 71. ▼C1"
+  },
+  {
+   "obligation_id": "32016R0679:69/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Without prejudice to requests by the Commission referred to in Article 70(1) and (2), the Board shall, in the performance of its tasks or the exercise of its powers, neither seek nor take instructions from anybody. ▼B"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:69",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

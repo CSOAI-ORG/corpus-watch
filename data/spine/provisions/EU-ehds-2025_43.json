@@ -1,0 +1,116 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:43",
+ "label": "EU-ehds-2025 Article 43",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e6ef9de1fcef7fa62418cea96c0966e20dd91cb1c439fdc2fb6ee8cfeaab792d",
+ "sha256_v1": "",
+ "sha256_v2": "e6ef9de1fcef7fa62418cea96c0966e20dd91cb1c439fdc2fb6ee8cfeaab792d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "e6ef9de1fcef7fa62418cea96c0966e20dd91cb1c439fdc2fb6ee8cfeaab792d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:43/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall designate the market surveillance authority or authorities responsible for the implementation of this Chapter."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:43/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall entrust their market surveillance authorities with the necessary powers and shall provide them with the human, financial and technical resources, the equipment and the knowledge necessary for the proper performance of their tasks pursuant to this Regulation."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:43/p2/s4",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall communicate the identity of the market surveillance authorities they designate to the Commission."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:43/p2/s5",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission and the Member States shall make that information publicly available."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:43/p19/s1",
+   "paragraph": "19",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a digital health authority carries out tasks of a market surveillance authority, Member States shall ensure that any conflicts of interest are avoided."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:43/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Market surveillance authorities shall report to the Commission on a yearly basis the outcomes of relevant market surveillance activities."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:43/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The market surveillance authorities of the Member States shall cooperate with each other and with the Commission."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:43/p6/s2",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall enable the organisation of exchanges of information necessary for such cooperation."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:43/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For medical devices, in vitro diagnostic medical devices or high-risk AI systems referred to in Article 27(1) and (2), the responsible authorities for market surveillance shall be those referred to in Article 93 of Regulation (EU) 2017/745, Article 88 of Regulation (EU) 2017/746 or Article 70 of Regulation (EU) 2024/1689, as applicable."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:43",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

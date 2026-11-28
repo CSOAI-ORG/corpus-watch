@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:11",
+ "label": "EU-dsa-2022 Article 11",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "94830a6fb6cebcdf46f768d222b05ca70bec997da9b43971e316a41329923b8b",
+ "sha256_v1": "",
+ "sha256_v2": "94830a6fb6cebcdf46f768d222b05ca70bec997da9b43971e316a41329923b8b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "94830a6fb6cebcdf46f768d222b05ca70bec997da9b43971e316a41329923b8b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:11/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "contact-point",
+   "status": "DRAFT",
+   "text": "Providers of intermediary services shall designate a single point of contact to enable them to communicate directly, by electronic means, with Member States’ authorities, the Commission and the Board referred to in Article 61 for the application of this Regulation."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:11/p2/s1",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of intermediary services shall make public the information necessary to easily identify and communicate with their single points of contact."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:11/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That information shall be easily accessible, and shall be kept up to date."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:11/p3/s1",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of intermediary services shall specify in the information referred to in paragraph 2 the official language or languages of the Member States which, in addition to a language broadly understood by the largest possible number of Union citizens, can be used to communicate with their points of contact, and which shall include at least one of the official languages of the Member State in which the provider of intermediary services has its main establishment or where its legal representative resides or is established."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:11",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

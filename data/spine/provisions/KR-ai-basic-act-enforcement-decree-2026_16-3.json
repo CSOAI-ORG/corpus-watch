@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-ai-basic-act-enforcement-decree-2026:16-3",
+ "label": "KR-ai-basic-act-enforcement-decree-2026 제16조의3",
+ "instrument": "KR-ai-basic-act-enforcement-decree-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "20e52893e79f71ddaede7d9693498ce7ee1d12290e233bcd943199e476b1d0c7",
+ "sha256_v1": "",
+ "sha256_v2": "20e52893e79f71ddaede7d9693498ce7ee1d12290e233bcd943199e476b1d0c7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "20e52893e79f71ddaede7d9693498ce7ee1d12290e233bcd943199e476b1d0c7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:16-3/s1",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "제16조의3(인공지능연구소의 설립허가 절차 등) ① 법 제22조의2제2항에 따라 같은 조 제1항에 따른 인공지능연구소(이하 “인공지능연구소”라 한다)의 설립허가를 받으려는 자는 다음 각 호의 서류를 첨부하여 과학기술정보통신부장관에게 허가를 신청해야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-ai-basic-act-enforcement-decree-2026:16-3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

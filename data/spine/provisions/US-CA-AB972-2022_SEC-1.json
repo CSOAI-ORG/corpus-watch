@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB972-2022:SEC-1",
+ "label": "US-CA-AB972-2022 SECTION 1.",
+ "instrument": "US-CA-AB972-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "4a1e384e9268c736eece9c3da6683acc4c0d44e4b168b523fb01c49799ca2881",
+ "sha256_v1": "",
+ "sha256_v2": "4a1e384e9268c736eece9c3da6683acc4c0d44e4b168b523fb01c49799ca2881",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "4a1e384e9268c736eece9c3da6683acc4c0d44e4b168b523fb01c49799ca2881",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB972-2022:SEC-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)Proceedings in cases involving the registration or denial of registration of voters, the certification or denial of certification of candidates, the certification or denial of certification of ballot measures, election contests, and actions under Section 20010 of the Elections Code shall be placed on the calendar in the order of their date of filing and shall be given precedence."
+  },
+  {
+   "obligation_id": "US-CA-AB972-2022:SEC-1/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)This section shall remain in effect only until January 1, 2027, and as of that date is repealed, unless a later enacted statute, that is enacted before January 1, 2027, deletes or extends that date."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB972-2022:SEC-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

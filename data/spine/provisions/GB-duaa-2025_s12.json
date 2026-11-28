@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s12",
+ "label": "GB-duaa-2025 Section 12",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6b18ec158e71618a00bea6e875ac9d357d04e6de14cebbda80956976e990dc25",
+ "sha256_v1": "",
+ "sha256_v2": "6b18ec158e71618a00bea6e875ac9d357d04e6de14cebbda80956976e990dc25",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "6b18ec158e71618a00bea6e875ac9d357d04e6de14cebbda80956976e990dc25",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s12/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Levy\n(1)\nThe Secretary of State or the Treasury may by regulations—\n(a)\nimpose, or provide for a specified public authority to impose, a levy on data holders or third party recipients for the purpose of meeting expenses described in subsection (2), and\n(b)\nmake provision about what must or may be done with funds raised by means of the levy."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s12/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nRegulations under subsection (1) providing for a specified public authority to impose a levy must—\n(a)\nmake provision about how the rate of the levy is to be determined;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s12",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

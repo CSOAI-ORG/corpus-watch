@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-data-act-2023:21",
+ "label": "EU-data-act-2023 Article 21",
+ "instrument": "EU-data-act-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "526a879d25a3cf915a45ed1f79ed7c338c6be369525b0de63512099d449052d4",
+ "sha256_v1": "",
+ "sha256_v2": "526a879d25a3cf915a45ed1f79ed7c338c6be369525b0de63512099d449052d4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "526a879d25a3cf915a45ed1f79ed7c338c6be369525b0de63512099d449052d4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-data-act-2023:21/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "A public sector body, the Commission, the European Central Bank or a Union body shall be entitled to share data received under this Chapter:"
+  },
+  {
+   "obligation_id": "EU-data-act-2023:21/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Individuals or organisations receiving the data pursuant to paragraph 1 shall act on a not-for-profit basis or in the context of a public-interest mission recognised in Union or national law."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:21/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "They shall not include organisations upon which commercial undertakings have a significant influence which is likely to result in preferential access to the results of the research."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:21/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Individuals or organisations receiving the data pursuant to paragraph 1 of this Article shall comply with the same obligations that are applicable to the public sector bodies, the Commission, the European Central Bank or Union bodies pursuant to Article 17(3) and Article 19."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:21/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a public sector body, the Commission, the European Central Bank or a Union body intends to transmit or make data available under paragraph 1 of this Article, it shall notify without undue delay the data holder from whom the data was received, stating the identity and contact details of the organisation or the individual receiving the data, the purpose of the transmission or making available of the data, the period for which the data is to be used and the technical protection and organisational measures taken, including where personal data or trade secrets are involved."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-data-act-2023:21",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

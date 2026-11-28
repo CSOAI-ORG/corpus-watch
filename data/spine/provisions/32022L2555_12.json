@@ -1,0 +1,128 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022L2555:12",
+ "label": "NIS2 Directive Art. 12",
+ "instrument": "NIS2 Directive",
+ "ladder": "CROSSWALK_ONLY",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d5f743a85ee77201f2e167d8c95cae990e6d57f8c859028d0dfff3d0934429cb",
+ "sha256_v1": "d5f743a85ee77201f2e167d8c95cae990e6d57f8c859028d0dfff3d0934429cb",
+ "sha256_v2": "203ffc66b38dda1cf5d1e1473d891d3f668aab614488a9f28d67beacb3d4aba3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "203ffc66b38dda1cf5d1e1473d891d3f668aab614488a9f28d67beacb3d4aba3",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022L2555:12/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Each Member State shall designate one of its CSIRTs as a coordinator for the purposes of coordinated vulnerability disclosure."
+  },
+  {
+   "obligation_id": "32022L2555:12/p1/s2",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The CSIRT designated as coordinator shall act as a trusted intermediary, facilitating, where necessary, the interaction between the natural or legal person reporting a vulnerability and the manufacturer or provider of the potentially vulnerable ICT products or ICT services, upon the request of either party."
+  },
+  {
+   "obligation_id": "32022L2555:12/p1/s3",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The tasks of the CSIRT designated as coordinator shall include:"
+  },
+  {
+   "obligation_id": "32022L2555:12/p1/s4",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that natural or legal persons are able to report, anonymously where they so request, a vulnerability to the CSIRT designated as coordinator."
+  },
+  {
+   "obligation_id": "32022L2555:12/p1/s5",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The CSIRT designated as coordinator shall ensure that diligent follow-up action is carried out with regard to the reported vulnerability and shall ensure the anonymity of the natural or legal person reporting the vulnerability."
+  },
+  {
+   "obligation_id": "32022L2555:12/p1/s6",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a reported vulnerability could have a significant impact on entities in more than one Member State, the CSIRT designated as coordinator of each Member State concerned shall, where appropriate, cooperate with other CSIRTs designated as coordinators within the CSIRTs network."
+  },
+  {
+   "obligation_id": "32022L2555:12/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "ENISA shall develop and maintain, after consulting the Cooperation Group, a European vulnerability database."
+  },
+  {
+   "obligation_id": "32022L2555:12/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "To that end, ENISA shall establish and maintain the appropriate information systems, policies and procedures, and shall adopt the necessary technical and organisational measures to ensure the security and integrity of the European vulnerability database, with a view in particular to enabling entities, regardless of whether they fall within the scope of this Directive, and their suppliers of network and information systems, to disclose and register, on a voluntary basis, publicly known vulnerabilities in ICT products or ICT services."
+  },
+  {
+   "obligation_id": "32022L2555:12/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "All stakeholders shall be provided access to the information about the vulnerabilities contained in the European vulnerability database."
+  },
+  {
+   "obligation_id": "32022L2555:12/p2/s4",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That database shall include:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022L2555:12",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

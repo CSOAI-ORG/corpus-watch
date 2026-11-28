@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB1946-2026:SEC-5",
+ "label": "US-CA-AB1946-2026 SEC. 5.",
+ "instrument": "US-CA-AB1946-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5c08b1cbb64d7b189893248e9e222e461201c479874c0e84a105bf28a3a577d9",
+ "sha256_v1": "",
+ "sha256_v2": "5c08b1cbb64d7b189893248e9e222e461201c479874c0e84a105bf28a3a577d9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "5c08b1cbb64d7b189893248e9e222e461201c479874c0e84a105bf28a3a577d9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB1946-2026:SEC-5/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If any provision of this act or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB1946-2026:SEC-5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

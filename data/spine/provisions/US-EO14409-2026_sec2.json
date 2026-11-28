@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14409-2026:sec2",
+ "label": "US-EO14409-2026 Section 2",
+ "instrument": "US-EO14409-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "98a9d86972b18867c15d3279aa985b1441373604aa31a9bf70c843c089d68f49",
+ "sha256_v1": "",
+ "sha256_v2": "98a9d86972b18867c15d3279aa985b1441373604aa31a9bf70c843c089d68f49",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "98a9d86972b18867c15d3279aa985b1441373604aa31a9bf70c843c089d68f49",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14409-2026:sec2/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) Within 30 days of the date of this order, the Committee on National Security Systems shall prioritize the cyber defense of National Security Systems, as defined in 44 U.S.C. 3552(b)(6)(A), by taking appropriate and expeditious action consistent with the purpose of this order."
+  },
+  {
+   "obligation_id": "US-EO14409-2026:sec2/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) Within 30 days of the date of this order, the Secretary of War shall prioritize the cyber defense of Department of War information systems by taking appropriate and expeditious action consistent with the purpose of this order."
+  },
+  {
+   "obligation_id": "US-EO14409-2026:sec2/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) Within 30 days of the date of this order, the Secretary of Homeland Security, through the Director of the Cybersecurity and Infrastructure Security Agency (CISA), in consultation with the Director of the Office of Management and Budget (OMB), the Assistant to the President for National Security Affairs, and the National Cyber Director, shall release Binding Operational Directives and other guidance as appropriate to:"
+  },
+  {
+   "obligation_id": "US-EO14409-2026:sec2/p2/s4",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d) Within 30 days of the date of this order, the Secretary of the Treasury, in consultation with the National Cyber Director, the Secretary of War, through the Director of the National Security Agency (NSA), and the Secretary of Homeland Security, through the Director of CISA, shall form an AI cybersecurity clearinghouse, in voluntary collaboration with the AI industry and operators of critical infrastructure, that coordinates and deconflicts scanning for software vulnerabilities, discovers and validates such vulnerabilities, and coordinates and prioritizes remediation and distribution of vulnerability patches."
+  },
+  {
+   "obligation_id": "US-EO14409-2026:sec2/p2/s5",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e) Within 30 days of the date of this order, the Director of OMB, in coordination with the National Cyber Director and the Director of CISA, shall determine whether any Federal grant programs have available and relevant funding that can be directed toward applicants developing advanced AI vulnerability detection."
+  },
+  {
+   "obligation_id": "US-EO14409-2026:sec2/p2/s6",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(f) Within 60 days of the date of this order, the Director of the Office of Personnel Management shall expand the United States Tech Force Information Cybersecurity Specialist hiring and placement pathways."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14409-2026:sec2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:106",
+ "label": "EU-ivdr-2017 Article 106",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "d6f118eb6cbb5ff4f64550e0c2f3a5e283b68ef57bb739a30f287796eaa85f8b",
+ "sha256_v1": "",
+ "sha256_v2": "d6f118eb6cbb5ff4f64550e0c2f3a5e283b68ef57bb739a30f287796eaa85f8b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d6f118eb6cbb5ff4f64550e0c2f3a5e283b68ef57bb739a30f287796eaa85f8b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:106/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Penalties\nThe Member States shall lay down the rules on penalties applicable for infringement of the provisions of this Regulation and shall take all measures necessary to ensure that they are implemented."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:106/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The penalties provided for shall be effective, proportionate, and dissuasive."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:106/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The Member States shall notify the Commission of those rules and of those measures by 25 February 2022 and shall notify it without delay of any subsequent amendment affecting them."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:106",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CO-SB26-189-ADMT-2026:CRS-6-1-1705",
+ "label": "US-CO-SB26-189-ADMT-2026 C.R.S. § 6-1-1705",
+ "instrument": "US-CO-SB26-189-ADMT-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "1d08ec982dc15e1a725e63274cf16eb92a96f217089a81440243e6181264815b",
+ "sha256_v1": "",
+ "sha256_v2": "1d08ec982dc15e1a725e63274cf16eb92a96f217089a81440243e6181264815b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 16,
+ "sha256_current": "1d08ec982dc15e1a725e63274cf16eb92a96f217089a81440243e6181264815b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CO-SB26-189-ADMT-2026:CRS-6-1-1705/p0/s1",
+   "paragraph": "0",
+   "addressee": "deployer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1) (a) WHEN A CONSUMER EXPERIENCES AN ADVERSE OUTCOME RESULTING FROM A CONSEQUENTIAL DECISION IN WHICH A COVERED ADMT MATERIALLY INFLUENCES THE CONSEQUENTIAL DECISION, THE CONSUMER MAY REQUEST AND THE DEPLOYER SHALL PROVIDE IN RESPONSE TO THE REQUEST:"
+  },
+  {
+   "obligation_id": "US-CO-SB26-189-ADMT-2026:CRS-6-1-1705/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3) ON OR BEFORE JANUARY 1, 2027, THE ATTORNEY GENERAL SHALL ADOPT RULES TO CLARIFY AND IMPLEMENT THE REQUIREMENTS OF THIS SECTION."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CO-SB26-189-ADMT-2026:CRS-6-1-1705",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

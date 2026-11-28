@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:87",
+ "label": "EU-eudpr-2018 Article 87",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "d70bc6b0ee30df54c858f3b7fdcec2dd1942a6cbd438b41b98f94b2e7d2f2238",
+ "sha256_v1": "",
+ "sha256_v2": "d70bc6b0ee30df54c858f3b7fdcec2dd1942a6cbd438b41b98f94b2e7d2f2238",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "d70bc6b0ee30df54c858f3b7fdcec2dd1942a6cbd438b41b98f94b2e7d2f2238",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:87/p1/s1",
+   "paragraph": "1",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Where processing is to be carried out on behalf of a controller, the controller shall use only processors providing sufficient guarantees to implement appropriate technical and organisational measures in such a manner that processing will meet the requirements of this Regulation and the legal act establishing the controller and ensure the protection of the rights of the data subject."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:87/p2/s1",
+   "paragraph": "2",
+   "addressee": "processor",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The processor shall not engage another processor without prior specific or general written authorisation by the controller."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:87/p2/s2",
+   "paragraph": "2",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the case of general written authorisation, the processor shall inform the controller of any intended changes concerning the addition or replacement of other processors, thereby giving the controller the opportunity to object to such changes."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:87/p3/s1",
+   "paragraph": "3",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Processing by a processor shall be governed by a contract or other legal act under Union or Member State law, that is binding on the processor with regard to the controller and that sets out the subject matter and duration of the processing, the nature and purpose of the processing, the type of operational personal data and categories of data subjects and the obligations and rights of the controller."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:87/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That contract or other legal act shall stipulate, in particular, that the processor:"
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:87/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The contract or the other legal act referred to in paragraph 3 shall be in writing, including in electronic form."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:87/p5/s1",
+   "paragraph": "5",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a processor infringes this Regulation or the legal act establishing the controller by determining the purposes and means of processing, the processor shall be considered to be a controller in respect of that processing."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:87",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

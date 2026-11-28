@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:73",
+ "label": "EU-dsa-2022 Article 73",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "54d5dae4cd161367c3607f2cb26040e56d919f272933b2c47c55b6a59cbc2d05",
+ "sha256_v1": "",
+ "sha256_v2": "54d5dae4cd161367c3607f2cb26040e56d919f272933b2c47c55b6a59cbc2d05",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "54d5dae4cd161367c3607f2cb26040e56d919f272933b2c47c55b6a59cbc2d05",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:73/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall adopt a non-compliance decision where it finds that the provider of the very large online platform or of the very large online search engine concerned does not comply with one or more of the following:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:73/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Before adopting the decision pursuant to paragraph 1, the Commission shall communicate its preliminary findings to the provider of the very large online platform or of the very large online search engine concerned."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:73/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In the preliminary findings, the Commission shall explain the measures that it considers taking, or that it considers that the provider of the very large online platform or of the very large online search engine concerned should take, in order to effectively address the preliminary findings."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:73/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In the decision adopted pursuant to paragraph 1 the Commission shall order the provider of the very large online platform or of the very large online search engine concerned to take the necessary measures to ensure compliance with the decision pursuant to paragraph 1 within a reasonable period specified therein and to provide information on the measures that that provider intends to take to comply with the decision."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:73/p4/s1",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The provider of the very large online platform or of the very large online search engine concerned shall provide the Commission with a description of the measures it has taken to ensure compliance with the decision pursuant to paragraph 1 upon their implementation."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:73/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the Commission finds that the conditions of paragraph 1 are not met, it shall close the investigation by a decision."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:73",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

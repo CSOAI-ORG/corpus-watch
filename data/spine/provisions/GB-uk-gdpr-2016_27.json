@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-uk-gdpr-2016:27",
+ "label": "GB-uk-gdpr-2016 Article 27",
+ "instrument": "GB-uk-gdpr-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "eed5ac0038df97b3be299d7d37028c539bc1d97260c73d43a9c5631b4caa4f0d",
+ "sha256_v1": "",
+ "sha256_v2": "eed5ac0038df97b3be299d7d37028c539bc1d97260c73d43a9c5631b4caa4f0d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "eed5ac0038df97b3be299d7d37028c539bc1d97260c73d43a9c5631b4caa4f0d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-uk-gdpr-2016:27/p1/s1",
+   "paragraph": "1",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where Article 3(2) applies, the controller or the processor shall designate in writing a representative in the United Kingdom."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:27/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The representative shall be mandated by the controller or processor to be addressed in addition to or instead of the controller or the processor by, in particular, the Commission and data subjects, on all issues related to processing, for the purposes of ensuring compliance with this Regulation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-uk-gdpr-2016:27",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

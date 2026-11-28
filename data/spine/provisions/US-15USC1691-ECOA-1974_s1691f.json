@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-15USC1691-ECOA-1974:s1691f",
+ "label": "US-15USC1691-ECOA-1974 15 U.S.C. 1691f",
+ "instrument": "US-15USC1691-ECOA-1974",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "15151560e0640c13a5737e4aa235a6563be376e78cd2abeb8f4fe504eb7c0d2c",
+ "sha256_v1": "",
+ "sha256_v2": "15151560e0640c13a5737e4aa235a6563be376e78cd2abeb8f4fe504eb7c0d2c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "15151560e0640c13a5737e4aa235a6563be376e78cd2abeb8f4fe504eb7c0d2c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-15USC1691-ECOA-1974:s1691f/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Annual reports to Congress; contents\nEach year, the Bureau and the Attorney General shall, respectively, make reports to the Congress concerning the administration of their functions under this subchapter, including such recommendations as the Bureau and the Attorney General, respectively, deem necessary or appropriate."
+  },
+  {
+   "obligation_id": "US-15USC1691-ECOA-1974:s1691f/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In addition, each report of the Bureau shall include its assessment of the extent to which compliance with the requirements of this subchapter is being achieved, and a summary of the enforcement actions taken by each of the agencies assigned administrative enforcement responsibilities under section 1691c of this title."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-15USC1691-ECOA-1974:s1691f",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

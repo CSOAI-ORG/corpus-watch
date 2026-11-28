@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s175",
+ "label": "GB-osa-2023 Section 175",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "b56abb65df92dc224d62032cdbc7792d786b91b80e48ebfc5df0e4467012460e",
+ "sha256_v1": "",
+ "sha256_v2": "b56abb65df92dc224d62032cdbc7792d786b91b80e48ebfc5df0e4467012460e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "b56abb65df92dc224d62032cdbc7792d786b91b80e48ebfc5df0e4467012460e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s175/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(6)\nIf a direction under subsection (2) or (3) is given on the ground mentioned in subsection (1)(a), the Secretary of State must publish the reasons for giving the direction."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s175",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,108 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:68",
+ "label": "GDPR Art. 68",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8e89de833143c5ccc0f4cc713a0cacac163d45e4e11bc0c3dc90523073419f86",
+ "sha256_v1": "8e89de833143c5ccc0f4cc713a0cacac163d45e4e11bc0c3dc90523073419f86",
+ "sha256_v2": "8e3e52bdada8eade547a2cc9e33db03358df0abc448144771062c8e59c8ba33e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "8e3e52bdada8eade547a2cc9e33db03358df0abc448144771062c8e59c8ba33e",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:68/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The European Data Protection Board (the ‘Board’) is hereby established as a body of the Union and shall have legal personality."
+  },
+  {
+   "obligation_id": "32016R0679:68/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Board shall be represented by its Chair."
+  },
+  {
+   "obligation_id": "32016R0679:68/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Board shall be composed of the head of one supervisory authority of each Member State and of the European Data Protection Supervisor, or their respective representatives."
+  },
+  {
+   "obligation_id": "32016R0679:68/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where in a Member State more than one supervisory authority is responsible for monitoring the application of the provisions pursuant to this Regulation, a joint representative shall be appointed in accordance with that Member State's law."
+  },
+  {
+   "obligation_id": "32016R0679:68/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall have the right to participate in the activities and meetings of the Board without voting right."
+  },
+  {
+   "obligation_id": "32016R0679:68/p5/s2",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall designate a representative."
+  },
+  {
+   "obligation_id": "32016R0679:68/p5/s3",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Chair of the Board shall communicate to the Commission the activities of the Board."
+  },
+  {
+   "obligation_id": "32016R0679:68/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the cases referred to in Article 65, the European Data Protection Supervisor shall have voting rights only on decisions which concern principles and rules applicable to the Union institutions, bodies, offices and agencies which correspond in substance to those of this Regulation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:68",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

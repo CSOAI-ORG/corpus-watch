@@ -1,0 +1,126 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:100",
+ "label": "EU-ivdr-2017 Article 100",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ce230284c1e9acbcd8e2b27f36ccc27f71d73fa9d4d21172b8d05ad5c1e54d09",
+ "sha256_v1": "",
+ "sha256_v2": "ce230284c1e9acbcd8e2b27f36ccc27f71d73fa9d4d21172b8d05ad5c1e54d09",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ce230284c1e9acbcd8e2b27f36ccc27f71d73fa9d4d21172b8d05ad5c1e54d09",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:100/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall only designate the EU reference laboratories for which a Member State or the Commission's Joint Research Centre have submitted an application for designation."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:100/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Within the scope of their designation, the EU reference laboratories shall, where appropriate, have the following tasks:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:100/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The EU reference laboratories shall satisfy the following criteria:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:100/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The EU reference laboratories shall form a network in order to coordinate and harmonise their working methods as regards testing and assessment."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:100/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That coordination and harmonisation shall involve:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:100/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(3)."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:100/p8/s1",
+   "paragraph": "8",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall specify by means of implementing acts:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:100/p8/s2",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(3)."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:100/p9/s1",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The EU reference laboratories shall be subject to controls, including on-site visits and audits, by the Commission to verify compliance with the requirements of this Regulation."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:100/p9/s2",
+   "paragraph": "9",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "If those controls find that an EU reference laboratory is not complying with the requirements for which it has been designated, the Commission, by means of implementing acts, shall take appropriate measures, including the restriction, suspension or withdrawal of the designation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:100",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

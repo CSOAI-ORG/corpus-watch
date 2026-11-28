@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s20E",
+ "label": "AU-privacy-act-1988 Section 20E",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b697622ec47d9a33716c72a98c977595c075056bf2a679b829845559a907871c",
+ "sha256_v1": "",
+ "sha256_v2": "b697622ec47d9a33716c72a98c977595c075056bf2a679b829845559a907871c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "b697622ec47d9a33716c72a98c977595c075056bf2a679b829845559a907871c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s20E/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "20E  Use or disclosure of credit reporting information\nProhibition on use or disclosure\n(1)\tIf a credit reporting body holds credit reporting information about an individual, the body must not use or disclose the information."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s20E/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\tHowever, if the credit reporting information is, or was derived from, repayment history information or financial hardship information about the individual, the credit reporting body must not disclose the information under paragraph (3)(a) or (f) unless the recipient of the information is:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s20E/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4A)\tDespite subsection (3), if the credit reporting information is, or was derived from, financial hardship information about the individual, the credit reporting body must not disclose the information under paragraph (3)(a) or (f) to a credit provider or mortgage insurer if the provider or insurer requested the information for the purpose of:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s20E/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\tIf a credit reporting body discloses credit reporting information under this section, the body must make a written note of that disclosure."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s20E/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Other Acts may provide that the note must not be made (see for example the Australian Crime Commission Act 2002 and the National AntiCorruption Commission Act 2022)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s20E",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

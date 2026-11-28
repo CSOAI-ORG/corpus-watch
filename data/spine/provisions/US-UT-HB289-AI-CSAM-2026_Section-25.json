@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-UT-HB289-AI-CSAM-2026:Section-25",
+ "label": "US-UT-HB289-AI-CSAM-2026 Section 25",
+ "instrument": "US-UT-HB289-AI-CSAM-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "44bc2999d439bf4df36e03f81d8b706b7754f7178eac1705866fee63ffe1ed7c",
+ "sha256_v1": "",
+ "sha256_v2": "44bc2999d439bf4df36e03f81d8b706b7754f7178eac1705866fee63ffe1ed7c",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "44bc2999d439bf4df36e03f81d8b706b7754f7178eac1705866fee63ffe1ed7c",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-UT-HB289-AI-CSAM-2026:Section-25/p25/s1",
+   "paragraph": "25",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i) preference for adoption shall be given to a relative who does not have a disqualifying offense; and (ii) before the court may grant adoption to the adult who has the disqualifying offense over another responsible, willing, and able relative:"
+  },
+  {
+   "obligation_id": "US-UT-HB289-AI-CSAM-2026:Section-25/p25/s2",
+   "paragraph": "25",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(A) an impartial custody evaluation shall be completed; and (B) a guardian ad litem shall be assigned."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-UT-HB289-AI-CSAM-2026:Section-25",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

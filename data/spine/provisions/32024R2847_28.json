@@ -1,0 +1,120 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R2847:28",
+ "label": "Cyber Resilience Act Art. 28",
+ "instrument": "Cyber Resilience Act",
+ "ladder": "CROSSWALK_ONLY",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "0e249f348424d6852d5e88df055cd04b76a77964284814f77ebf2025ef36b07e",
+ "sha256_v1": "0e249f348424d6852d5e88df055cd04b76a77964284814f77ebf2025ef36b07e",
+ "sha256_v2": "f1bcf8dea66358c95401bbbd7a3195f02f29ab2c2321aae2a6e6f1c32c88cc2d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "f1bcf8dea66358c95401bbbd7a3195f02f29ab2c2321aae2a6e6f1c32c88cc2d",
+ "agent_register_kinds": [
+  "NONE",
+  "OBSERVED",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R2847:28/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The EU declaration of conformity shall be drawn up by manufacturers in accordance with Article 13(12) and state that the fulfilment of the applicable essential cybersecurity requirements set out in Annex I has been demonstrated."
+  },
+  {
+   "obligation_id": "32024R2847:28/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "The EU declaration of conformity shall have the model structure set out in Annex V and shall contain the elements specified in the relevant conformity assessment procedures set out in Annex VIII."
+  },
+  {
+   "obligation_id": "32024R2847:28/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such a declaration shall be updated as appropriate."
+  },
+  {
+   "obligation_id": "32024R2847:28/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It shall be made available in the languages required by the Member State in which the product with digital elements is placed on the market or made available on the market."
+  },
+  {
+   "obligation_id": "32024R2847:28/p2/s4",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The simplified EU declaration of conformity referred to in Article 13(20) shall have the model structure set out in Annex VI."
+  },
+  {
+   "obligation_id": "32024R2847:28/p2/s5",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It shall be made available in the languages required by the Member State in which the product with digital elements is placed on the market or made available on the market."
+  },
+  {
+   "obligation_id": "32024R2847:28/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where a product with digital elements is subject to more than one Union legal act requiring an EU declaration of conformity, a single EU declaration of conformity shall be drawn up in respect of all such Union legal acts."
+  },
+  {
+   "obligation_id": "32024R2847:28/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That declaration shall contain the identification of the Union legal acts concerned, including their publication references."
+  },
+  {
+   "obligation_id": "32024R2847:28/p4/s1",
+   "paragraph": "4",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "By drawing up the EU declaration of conformity, the manufacturer shall assume responsibility for the compliance of the product with digital elements."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R2847:28",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

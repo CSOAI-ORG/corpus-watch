@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:50",
+ "label": "EU-mdr-2017 Article 50",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "00220a6774c25e7141dbc5fb05433fe200cd50999a2a2c6f6c83472f69c85508",
+ "sha256_v1": "",
+ "sha256_v2": "00220a6774c25e7141dbc5fb05433fe200cd50999a2a2c6f6c83472f69c85508",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "00220a6774c25e7141dbc5fb05433fe200cd50999a2a2c6f6c83472f69c85508",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:50/p0/s1",
+   "paragraph": "0",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "List of standard fees\nNotified bodies shall establish lists of their standard fees for the conformity assessment activities that they carry out and shall make those lists publicly available."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:50",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

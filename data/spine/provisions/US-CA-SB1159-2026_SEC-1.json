@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB1159-2026:SEC-1",
+ "label": "US-CA-SB1159-2026 SECTION 1.",
+ "instrument": "US-CA-SB1159-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "4b73824c6279a1687868d4d7c2b2c2bb8ed25c645b42dfc410af19d6c4b235d3",
+ "sha256_v1": "",
+ "sha256_v2": "4b73824c6279a1687868d4d7c2b2c2bb8ed25c645b42dfc410af19d6c4b235d3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "4b73824c6279a1687868d4d7c2b2c2bb8ed25c645b42dfc410af19d6c4b235d3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB1159-2026:SEC-1/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Public comment periods would become ineffective if agencies must process thousands of AI-generated submissions, and the administrative burden would undermine the purpose of California’s transparency laws."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB1159-2026:SEC-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

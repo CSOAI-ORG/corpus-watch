@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-gpsr-2023:20",
+ "label": "EU-gpsr-2023 Article 20",
+ "instrument": "EU-gpsr-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "a7b3375a28007bf817b41fd9b6089540b48cb230fa75172bac21dc07438fa402",
+ "sha256_v1": "",
+ "sha256_v2": "a7b3375a28007bf817b41fd9b6089540b48cb230fa75172bac21dc07438fa402",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a7b3375a28007bf817b41fd9b6089540b48cb230fa75172bac21dc07438fa402",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-gpsr-2023:20/p1/s1",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "The manufacturer shall ensure that, through the Safety Business Gateway, an accident caused by a product placed or made available on the market is notified, without undue delay from the moment it knows about the accident, to the competent authorities of the Member State where the accident has occurred."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:20/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notification shall include the type and identification number of the product as well as the circumstances of the accident, if known."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:20/p1/s3",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The manufacturer shall notify, upon request, to the competent authorities any other relevant information."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:20/p2/s1",
+   "paragraph": "2",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "For the purpose of paragraph 1, the manufacturer shall notify the competent authorities of the occurrences associated with the use of a product that resulted in an individual’s death or in serious adverse effects on that individual’s health and safety, permanent or temporary, including injuries, other damage to the body, illnesses and chronic health effects."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:20/p3/s1",
+   "paragraph": "3",
+   "addressee": "distributor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The importers and the distributors which have knowledge of an accident caused by a product that they placed or made available on the market shall without undue delay inform the manufacturer thereof."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:20/p3/s2",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The manufacturer shall make the notification in accordance with paragraph 1 or instruct the importer or one of the distributors to make the notification."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:20/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Where the manufacturer of the product is not established in the Union, the responsible person within the meaning of Article 16(1) of this Regulation or Article 4(1) of Regulation (EU) 2019/1020 who has knowledge of an accident shall ensure that the notification is made."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-gpsr-2023:20",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s127",
+ "label": "GB-dpa-2018 Section 127",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "84426c0f977176c642192c274c7840f80243b326d2e83abecc67990a2ea01389",
+ "sha256_v1": "",
+ "sha256_v2": "84426c0f977176c642192c274c7840f80243b326d2e83abecc67990a2ea01389",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "84426c0f977176c642192c274c7840f80243b326d2e83abecc67990a2ea01389",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s127/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nIn any proceedings before a court or tribunal, the court or tribunal must take into account a provision of a code issued under section 125(4) in determining a question arising in the proceedings if—\n(a)\nthe question relates to a time when the provision was in force, and\n(b)\nthe provision appears to the court or tribunal to be relevant to the question."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s127/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(4)\nWhere the Commission is carrying out a function described in subsection (5), the Commission must take into account a provision of a code issued under section 125(4) in determining a question arising in connection with the carrying out of the function if—\n(a)\nthe question relates to a time when the provision was in force, and\n(b)\nthe provision appears to the Commission to be relevant to the question."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s127",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

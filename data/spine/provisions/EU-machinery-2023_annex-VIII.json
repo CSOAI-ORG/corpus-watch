@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-machinery-2023:annex-VIII",
+ "label": "EU-machinery-2023 Annex VIII",
+ "instrument": "EU-machinery-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8a0dd13a9d27e40d32590641158bd1e7cf9a13633010f2beb0a3053414102119",
+ "sha256_v1": "",
+ "sha256_v2": "8a0dd13a9d27e40d32590641158bd1e7cf9a13633010f2beb0a3053414102119",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8a0dd13a9d27e40d32590641158bd1e7cf9a13633010f2beb0a3053414102119",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-machinery-2023:annex-VIII/p2/s1",
+   "paragraph": "2",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Manufacturing\nThe manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure conformity of the manufactured machinery or related products with the type described in the EU type-examination certificate and with the applicable requirements of this Regulation."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:annex-VIII/p3/s1",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The manufacturer shall affix the CE marking to all machinery or related products that are in conformity with the type described in the EU type-examination certificate and satisfy the applicable requirements of this Regulation.\n3.2."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:annex-VIII/p3/s2",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The manufacturer shall draw up an EU declaration of conformity for a machinery or related product model and keep it at the disposal of the national authorities for at least 10 years after the machinery or related product has been placed on the market or put into service."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:annex-VIII/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The EU declaration of conformity shall identify the machinery or related product for which it has been drawn up."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:annex-VIII/p3/s4",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A copy of the EU declaration of conformity shall be made available to the relevant authorities upon request."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-machinery-2023:annex-VIII",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

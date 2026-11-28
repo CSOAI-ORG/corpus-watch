@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB942-AITA-2024:SEC-1:22757.3.",
+ "label": "US-CA-SB942-AITA-2024 SECTION 1. / 22757.3.",
+ "instrument": "US-CA-SB942-AITA-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "dc03cfb6ac992ddce0ab110d9406e2065196ff679141e390b28b4b9afaf51b02",
+ "sha256_v1": "",
+ "sha256_v2": "dc03cfb6ac992ddce0ab110d9406e2065196ff679141e390b28b4b9afaf51b02",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "dc03cfb6ac992ddce0ab110d9406e2065196ff679141e390b28b4b9afaf51b02",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB942-AITA-2024:SEC-1:22757.3./p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)A covered provider shall offer the user the option to include a manifest disclosure in image, video, or audio content, or content that is any combination thereof, created or altered by the covered provider’s GenAI system that meets all of the following criteria:"
+  },
+  {
+   "obligation_id": "US-CA-SB942-AITA-2024:SEC-1:22757.3./p0/s2",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)A covered provider shall include a latent disclosure in AI-generated image, video, or audio content, or content that is any combination thereof, created by the covered provider’s GenAI system that meets all of the following criteria:"
+  },
+  {
+   "obligation_id": "US-CA-SB942-AITA-2024:SEC-1:22757.3./p0/s3",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "(c)(1)If a covered provider licenses its GenAI system to a third party, the covered provider shall require by contract that the licensee maintain the system’s capability to include a disclosure required by subdivision (b) in content the system creates or alters."
+  },
+  {
+   "obligation_id": "US-CA-SB942-AITA-2024:SEC-1:22757.3./p0/s4",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)If a covered provider knows that a third-party licensee modified a licensed GenAI system such that it is no longer capable of including a disclosure required by subdivision (b) in content the system creates or alters, the covered provider shall revoke the license within 96 hours of discovering the licensee’s action."
+  },
+  {
+   "obligation_id": "US-CA-SB942-AITA-2024:SEC-1:22757.3./p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)A third-party licensee shall cease using a licensed GenAI system after the license for the system has been revoked by the covered provider pursuant to paragraph (2)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB942-AITA-2024:SEC-1:22757.3.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

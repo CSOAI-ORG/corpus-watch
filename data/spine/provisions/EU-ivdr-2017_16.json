@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:16",
+ "label": "EU-ivdr-2017 Article 16",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "f9698f7ac99b40305cc505ecdb1629fe3b37e2aa5812fcabd3d18dd455fed9d2",
+ "sha256_v1": "",
+ "sha256_v2": "f9698f7ac99b40305cc505ecdb1629fe3b37e2aa5812fcabd3d18dd455fed9d2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f9698f7ac99b40305cc505ecdb1629fe3b37e2aa5812fcabd3d18dd455fed9d2",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:16/p1/s1",
+   "paragraph": "1",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A distributor, importer or other natural or legal person shall assume the obligations incumbent on manufacturers if it does any of the following:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:16/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the purposes of point (c) of paragraph 1, the following shall not be considered to be a modification of a device that could affect its compliance with the applicable requirements:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:16/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the case of devices placed on the market in sterile condition, it shall be presumed that the original condition of the device is adversely affected if the packaging that is necessary for maintaining the sterile condition is opened, damaged or otherwise negatively affected by the repackaging."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:16/p3/s1",
+   "paragraph": "3",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A distributor or importer that carries out any of the activities mentioned in points (a) and (b) of paragraph 2 shall indicate on the device or, where that is impracticable, on its packaging or in a document accompanying the device, the activity carried out together with its name, registered trade name or registered trade mark, registered place of business and the address at which it can be contacted, so that its location can be established."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:16/p3/s2",
+   "paragraph": "3",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Distributors and importers shall ensure that they have in place a quality management system that includes procedures which ensure that the translation of information is accurate and up-to-date, and that the activities mentioned in points (a) and (b) of paragraph 2 are performed by a means and under conditions that preserve the original condition of the device and that the packaging of the repackaged device is not defective, of poor quality or untidy."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:16/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "The quality management system shall cover, inter alia, procedures ensuring that the distributor or importer is informed of any corrective action taken by the manufacturer in relation to the device in question in order to respond to safety issues or to bring it into conformity with this Regulation."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:16/p4/s1",
+   "paragraph": "4",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "At least 28 days prior to making the relabelled or repackaged device available on the market, distributors or importers carrying out any of the activities referred to in points (a) and (b) of paragraph 2 shall inform the manufacturer and the competent authority of the Member State in which they plan to make the device available of the intention to make the relabelled or repackaged device available and, upon request, shall provide the manufacturer and the competent authority with a sample or a mock-up of the relabelled or repackaged device, including any translated label and instructions for use."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:16/p4/s2",
+   "paragraph": "4",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Within the same period of 28 days, the distributor or importer shall submit to the competent authority a certificate, issued by a notified body designated for the type of devices that are subject to activities mentioned in points (a) and (b) of paragraph 2, attesting that the quality management system of the distributer or importer complies with the requirements laid down in paragraph 3."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:16",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

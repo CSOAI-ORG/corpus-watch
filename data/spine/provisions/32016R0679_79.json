@@ -1,0 +1,48 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:79",
+ "label": "GDPR Art. 79",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "1f8aae6448ab178dbf3c7d851d1abd109a56f89e48444ab19037f31ed97c7a3e",
+ "sha256_v1": "1f8aae6448ab178dbf3c7d851d1abd109a56f89e48444ab19037f31ed97c7a3e",
+ "sha256_v2": "d9147da6632b45fe05452ca6333c06fb301ce4f12d98b88907313c8ea77b34bd",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "d9147da6632b45fe05452ca6333c06fb301ce4f12d98b88907313c8ea77b34bd",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:79/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Without prejudice to any available administrative or non-judicial remedy, including the right to lodge a complaint with a supervisory authority pursuant to Article 77, each data subject shall have the right to an effective judicial remedy where he or she considers that his or her rights under this Regulation have been infringed as a result of the processing of his or her personal data in non-compliance with this Regulation."
+  },
+  {
+   "obligation_id": "32016R0679:79/p2/s1",
+   "paragraph": "2",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Proceedings against a controller or a processor shall be brought before the courts of the Member State where the controller or processor has an establishment."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:79",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

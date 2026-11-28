@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:91",
+ "label": "EU-ivdr-2017 Article 91",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "fb393ecd664feb71884506a95f24723b0d26e5f47cd97002b6831ea6301179b8",
+ "sha256_v1": "",
+ "sha256_v2": "fb393ecd664feb71884506a95f24723b0d26e5f47cd97002b6831ea6301179b8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "fb393ecd664feb71884506a95f24723b0d26e5f47cd97002b6831ea6301179b8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:91/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where, within two months of receipt of the notification referred to in Article 90(4), objections are raised by a Member State against a measure taken by another Member State, or where the Commission considers the measure to be contrary to Union law, the Commission shall, after consulting the competent authorities concerned and, where necessary, the economic operators concerned, evaluate that national measure."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:91/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(3)."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:91/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "If the Commission considers the national measure to be unjustified, the Member State concerned shall withdraw the measure."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:91/p2/s3",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the Commission does not adopt a decision pursuant to paragraph 1 of this Article within eight months of receipt of the notification referred to in Article 90(4), the national measure shall be considered to be justified."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:91/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(3)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:91",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:19",
+ "label": "EU-dma-2022 Article 19",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8f2d109be33393c0807fe25a082336e42140023e304ca9905e3f7602ac718029",
+ "sha256_v1": "",
+ "sha256_v2": "8f2d109be33393c0807fe25a082336e42140023e304ca9905e3f7602ac718029",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8f2d109be33393c0807fe25a082336e42140023e304ca9905e3f7602ac718029",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:19/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In its assessment, the Commission shall take into account any relevant findings of proceedings under Articles 101 and 102 TFEU concerning digital markets as well as any other relevant developments."
+  },
+  {
+   "obligation_id": "EU-dma-2022:19/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall publish its findings in a report within 18 months from the date referred to in Article 16(3), point (a)."
+  },
+  {
+   "obligation_id": "EU-dma-2022:19/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That report shall be submitted to the European Parliament and to the Council and, where appropriate, shall be accompanied by:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:19",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

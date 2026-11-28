@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-FDA-AI-DSF-lifecycle-draft-2025:sec-V",
+ "label": "US-FDA-AI-DSF-lifecycle-draft-2025 V. Device Description",
+ "instrument": "US-FDA-AI-DSF-lifecycle-draft-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "34054c330594ea2ca0fa78827106ebe4dd33cfc56e02cb03f072aa20d8096136",
+ "sha256_v1": "",
+ "sha256_v2": "34054c330594ea2ca0fa78827106ebe4dd33cfc56e02cb03f072aa20d8096136",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "34054c330594ea2ca0fa78827106ebe4dd33cfc56e02cb03f072aa20d8096136",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-FDA-AI-DSF-lifecycle-draft-2025:sec-V/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For example, users may include technicians, health care providers, patients, and caregivers, as well as administrators and others involved in decisions about how to deploy medical devices, and how the device fits into clinical care. • A description of the intended use environment(s) (e.g., clinical setting, home setting). • A description of the intended workflow for the use of the device (e.g., intended decisionmaking role), including: o A description of the degree of automation that the device provides in comparison to the workflow for the current standard of care; o A description of the clinical circumstances that may lead to use; and o An explanation of how the outputs will be used in the"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-FDA-AI-DSF-lifecycle-draft-2025:sec-V",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

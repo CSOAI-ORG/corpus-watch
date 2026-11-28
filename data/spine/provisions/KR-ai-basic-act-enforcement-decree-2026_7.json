@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-ai-basic-act-enforcement-decree-2026:7",
+ "label": "KR-ai-basic-act-enforcement-decree-2026 제7조",
+ "instrument": "KR-ai-basic-act-enforcement-decree-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "2d40234149be62f0b72c099a425118a6f98d99cb1b3bbcf7fe8606f0b5136b5e",
+ "sha256_v1": "",
+ "sha256_v2": "2d40234149be62f0b72c099a425118a6f98d99cb1b3bbcf7fe8606f0b5136b5e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "2d40234149be62f0b72c099a425118a6f98d99cb1b3bbcf7fe8606f0b5136b5e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-ai-basic-act-enforcement-decree-2026:7/s1",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "제7조(개선권고의 이행) ① 법 제8조제3항에 따라 위원회로부터 법령ㆍ제도의 개선 또는 실천방안의 수립 등에 대한 권고 또는 의견의 표명을 받은 국가, 지방자치단체 및 「공공기관의 운영에 관한 법률」 제4조에 따른 공공기관(이하 “국가기관등”이라 한다)의 장은 권고 또는 의견의 표명을 받은 날부터 3개월 이내에 법령ㆍ제도 등의 개선방안과 실천방안 등을 수립하여 위원회에 보고해야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-ai-basic-act-enforcement-decree-2026:7",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

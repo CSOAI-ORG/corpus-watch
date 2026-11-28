@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-pipa-2011:7-3",
+ "label": "KR-pipa-2011 제7조의3",
+ "instrument": "KR-pipa-2011",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "744337322dc82ce74b8564f2ea74222343f12c17c6d82fac57b54bb162d6178a",
+ "sha256_v1": "",
+ "sha256_v2": "744337322dc82ce74b8564f2ea74222343f12c17c6d82fac57b54bb162d6178a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "744337322dc82ce74b8564f2ea74222343f12c17c6d82fac57b54bb162d6178a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-pipa-2011:7-3/s3",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "③ 위원장은 국회에 출석하여 보호위원회의 소관 사무에 관하여 의견을 진술할 수 있으며, 국회에서 요구하면 출석하여 보고하거나 답변하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-pipa-2011:7-3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

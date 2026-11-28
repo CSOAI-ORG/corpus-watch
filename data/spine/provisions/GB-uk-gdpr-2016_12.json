@@ -1,0 +1,136 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-uk-gdpr-2016:12",
+ "label": "GB-uk-gdpr-2016 Article 12",
+ "instrument": "GB-uk-gdpr-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "a2ae189b48135f9a33704006d1808f09d6f9d50c473a241e040d183c380b8f57",
+ "sha256_v1": "",
+ "sha256_v2": "a2ae189b48135f9a33704006d1808f09d6f9d50c473a241e040d183c380b8f57",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a2ae189b48135f9a33704006d1808f09d6f9d50c473a241e040d183c380b8f57",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-uk-gdpr-2016:12/p1/s1",
+   "paragraph": "1",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "The controller shall take appropriate measures to provide any information referred to in Articles 13 and 14 and any communication made under or by virtue of Articles 15 to 22D and 34 relating to processing to the data subject in a concise, transparent, intelligible and easily accessible form, using clear and plain language, in particular for any information addressed specifically to a child."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:12/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The information shall be provided in writing, or by other means, including, where appropriate, by electronic means."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:12/p2/s1",
+   "paragraph": "2",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller shall facilitate the exercise of data subject rights arising under or by virtue of Articles 15 to 22D."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:12/p2/s2",
+   "paragraph": "2",
+   "addressee": "controller",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the cases referred to in Article 11(2), the controller shall not refuse to act on the request of the data subject for exercising those rights, unless the controller demonstrates that it is not in a position to identify the data subject."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:12/p3/s1",
+   "paragraph": "3",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller shall provide information on action taken on a request made under or by virtue of Articles 15 to 22D to the data subject without undue delay and in any event before the end of the applicable time period (see Article 12A). ..."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:12/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the data subject makes the request by electronic form means, the information shall be provided by electronic means where possible, unless otherwise requested by the data subject."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:12/p4/s1",
+   "paragraph": "4",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "If the controller does not take action on the request of the data subject, the controller shall inform the data subject without undue delay, and in any event before the end of the applicable time period (see Article 12A), of the reasons for not taking action and on the possibility of making a complaint to the controller under section 164A of the 2018 Act, making a complaint to the Commission under section 165 of that Act and seeking a judicial remedy."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:12/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Subject to Article 15(3), information provided under Articles 13 and 14 and any communication and any actions taken under or by virtue of Articles 15 to 22D and 34 shall be provided free of charge."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:12/p5/s2",
+   "paragraph": "5",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller shall bear the burden of demonstrating the manifestly unfounded or excessive character of the request."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:12/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(6B.)\nThe Commission must not publish icons or a notice under paragraph 6A unless satisfied (as appropriate) that the icons give a meaningful overview of the intended processing in an easily visible, intelligible and clearly legible manner or that the notice will result in icons that do so."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:12/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the icons are presented electronically they shall be machine-readable.\n8.\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-uk-gdpr-2016:12",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:86",
+ "label": "EU-ivdr-2017 Article 86",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "bddeb1c6d74dda5816bb56db88f2d4ca25d6aa9efd8eaad8530d2971b47a59d3",
+ "sha256_v1": "",
+ "sha256_v2": "bddeb1c6d74dda5816bb56db88f2d4ca25d6aa9efd8eaad8530d2971b47a59d3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "bddeb1c6d74dda5816bb56db88f2d4ca25d6aa9efd8eaad8530d2971b47a59d3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:86/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The implementing acts referred to in the first paragraph shall be adopted in accordance with the examination procedure referred to in Article 107(3)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:86",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,126 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:56",
+ "label": "EU-dsa-2022 Article 56",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "1514c52ef54ab58f701286e40565117540625d6a8d5e8a11ad300f3eb8d42b84",
+ "sha256_v1": "",
+ "sha256_v2": "1514c52ef54ab58f701286e40565117540625d6a8d5e8a11ad300f3eb8d42b84",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "1514c52ef54ab58f701286e40565117540625d6a8d5e8a11ad300f3eb8d42b84",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:56/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Member State in which the main establishment of the provider of intermediary services is located shall have exclusive powers to supervise and enforce this Regulation, except for the powers provided for in paragraphs 2, 3 and 4."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:56/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall have exclusive powers to supervise and enforce Section 5 of Chapter III."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:56/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall have powers to supervise and enforce this Regulation, other than those laid down in Section 5 of Chapter III thereof, against providers of very large online platforms and of very large online search engines."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:56/p4/s1",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the Commission has not initiated proceedings for the same infringement, the Member State in which the main establishment of the provider of very large online platform or of very large online search engine is located shall have powers to supervise and enforce the obligations under this Regulation, other than those laid down in Section 5 of Chapter III, with respect to those providers."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:56/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States and the Commission shall supervise and enforce the provisions of this Regulation in close cooperation."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:56/p6/s1",
+   "paragraph": "6",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where a provider of intermediary services does not have an establishment in the Union, the Member State where its legal representative resides or is established or the Commission shall have powers, as applicable, in accordance with paragraphs 1 and 4 of this Article, to supervise and enforce the relevant obligations under this Regulation."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:56/p7/s1",
+   "paragraph": "7",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a provider of intermediary services fails to appoint a legal representative in accordance with Article 13, all Member States and, in case of a provider of a very large online platform or very large online search engine, the Commission shall have powers to supervise and enforce in accordance with this Article."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:56/p7/s2",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Where a Digital Services Coordinator intends to exercise its powers under this paragraph, it shall notify all other Digital Services Coordinators and the Commission, and ensure that the applicable safeguards afforded by the Charter are respected, in particular to avoid that the same conduct is sanctioned more than once for the infringement of the obligations laid down in this Regulation."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:56/p7/s3",
+   "paragraph": "7",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the Commission intends to exercise its powers under this paragraph, it shall notify all other Digital Services Coordinators of that intention."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:56/p7/s4",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Following the notification pursuant to this paragraph, other Member States shall not initiate proceedings for the same infringement as that referred to in the notification."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:56",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,126 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:46",
+ "label": "EU-mica-2023 Article 46",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "aae4abcc529b22581ad566fc43471b7d87f05b47ce9ea587e7b9e6b88e08532b",
+ "sha256_v1": "",
+ "sha256_v2": "aae4abcc529b22581ad566fc43471b7d87f05b47ce9ea587e7b9e6b88e08532b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "aae4abcc529b22581ad566fc43471b7d87f05b47ce9ea587e7b9e6b88e08532b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:46/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "An issuer of an asset-referenced token shall draw up and maintain a recovery plan providing for measures to be taken by the issuer to restore compliance with the requirements applicable to the reserve of assets in cases where the issuer fails to comply with those requirements."
+  },
+  {
+   "obligation_id": "EU-mica-2023:46/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The recovery plan shall also include the preservation of the issuer’s services related to the asset-referenced token, the timely recovery of operations and the fulfilment of the issuer’s obligations in the case of events that pose a significant risk of disrupting operations."
+  },
+  {
+   "obligation_id": "EU-mica-2023:46/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The recovery plan shall include appropriate conditions and procedures to ensure the timely implementation of recovery actions as well as a wide range of recovery options, including:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:46/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The issuer of the asset-referenced token shall notify the recovery plan to the competent authority within six months of the date of authorisation pursuant to Article 21 or within six months of the date of approval of the crypto-asset white paper pursuant to Article"
+  },
+  {
+   "obligation_id": "EU-mica-2023:46/p17/s1",
+   "paragraph": "17",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authority shall require amendments to the recovery plan where necessary to ensure its proper implementation and shall notify its decision requesting those amendments to the issuer within 40 working days of the date of notification of that plan."
+  },
+  {
+   "obligation_id": "EU-mica-2023:46/p17/s2",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That decision shall be implemented by the issuer within 40 working days of the date of notification of that decision."
+  },
+  {
+   "obligation_id": "EU-mica-2023:46/p17/s3",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The issuer shall regularly review and update the recovery plan."
+  },
+  {
+   "obligation_id": "EU-mica-2023:46/p17/s4",
+   "paragraph": "17",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Where applicable, the issuer shall also notify the recovery plan to its resolution and prudential supervisory authorities in parallel to the competent authority."
+  },
+  {
+   "obligation_id": "EU-mica-2023:46/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where applicable, the competent authority shall notify the issuer’s resolution and prudential supervisory authorities of any measure taken pursuant to paragraphs 3 and 4."
+  },
+  {
+   "obligation_id": "EU-mica-2023:46/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "EBA, after consultation with ESMA, shall issue guidelines in accordance with Article 16 of Regulation (EU) No 1093/2010 to specify the format of the recovery plan and the information to be provided in the recovery plan."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:46",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

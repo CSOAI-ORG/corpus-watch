@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:140",
+ "label": "EU-mica-2023 Article 140",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5c996d59bab800c014dfd482911531682c1986c8b5e911606f988bd4bdec67ba",
+ "sha256_v1": "",
+ "sha256_v2": "5c996d59bab800c014dfd482911531682c1986c8b5e911606f988bd4bdec67ba",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "5c996d59bab800c014dfd482911531682c1986c8b5e911606f988bd4bdec67ba",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:140/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "By 30 June 2027, having consulted EBA and ESMA, the Commission shall present a report to the European Parliament and the Council on the application of this Regulation accompanied, where appropriate, by a legislative proposal."
+  },
+  {
+   "obligation_id": "EU-mica-2023:140/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An interim report shall be presented by 30 June 2025, accompanied, where appropriate, by a legislative proposal."
+  },
+  {
+   "obligation_id": "EU-mica-2023:140/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The reports referred to in paragraph 1 shall contain the following:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:140/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where applicable, the reports referred to in paragraph 1 of this Article shall also follow up on the topics addressed in the reports referred to in Articles 141 and 142."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:140",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

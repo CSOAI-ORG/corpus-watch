@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:81",
+ "label": "GDPR Art. 81",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "242b2315f419a30c969826c8b1462926fccfeeb4b915347327f5abf14b490c5b",
+ "sha256_v1": "242b2315f419a30c969826c8b1462926fccfeeb4b915347327f5abf14b490c5b",
+ "sha256_v2": "f5d0bc2752d28c199be2d3c7c56d4ad2b38e684912eacf83e302c1b2352b4138",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "f5d0bc2752d28c199be2d3c7c56d4ad2b38e684912eacf83e302c1b2352b4138",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:81/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a competent court of a Member State has information on proceedings, concerning the same subject matter as regards processing by the same controller or processor, that are pending in a court in another Member State, it shall contact that court in the other Member State to confirm the existence of such proceedings."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:81",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

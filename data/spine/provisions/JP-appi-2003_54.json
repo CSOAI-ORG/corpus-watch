@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:54",
+ "label": "JP-appi-2003 Article 54",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "9179036975e82218942b49593e9834118d1142a17f328ab6f89fd71358026c45",
+ "sha256_v1": "",
+ "sha256_v2": "9179036975e82218942b49593e9834118d1142a17f328ab6f89fd71358026c45",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9179036975e82218942b49593e9834118d1142a17f328ab6f89fd71358026c45",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:54/s3",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ja:internal-record",
+   "status": "DRAFT",
+   "text": "）を作成するよう努めなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:54/s4",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "２ 認定個人情報保護団体は、前項の規定により個人情報保護指針を作成したときは、個人情報保護委員会規則で定めるところにより、遅滞なく、当該個人情報保護指針を個人情報保護委員会に届け出なければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:54/s6",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "３ 個人情報保護委員会は、前項の規定による個人情報保護指針の届出があったときは、個人情報保護委員会規則で定めるところにより、当該個人情報保護指針を公表しなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:54/s7",
+   "paragraph": null,
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "ja:public-trace",
+   "status": "DRAFT",
+   "text": "４ 認定個人情報保護団体は、前項の規定により個人情報保護指針が公表されたときは、対象事業者に対し、当該個人情報保護指針を遵守させるため必要な指導、勧告その他の措置をとらなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:54",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

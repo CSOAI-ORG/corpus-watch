@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB947-2026:SEC-1:1526.7.",
+ "label": "US-CA-SB947-2026 SECTION 1. / 1526.7.",
+ "instrument": "US-CA-SB947-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "741983d7baacd2fc980dcce5aa6eef37b105b3791c8a5c92342936dd80cec561",
+ "sha256_v1": "",
+ "sha256_v2": "741983d7baacd2fc980dcce5aa6eef37b105b3791c8a5c92342936dd80cec561",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "741983d7baacd2fc980dcce5aa6eef37b105b3791c8a5c92342936dd80cec561",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB947-2026:SEC-1:1526.7./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This part shall become operative on July 1, 2027."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB947-2026:SEC-1:1526.7.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

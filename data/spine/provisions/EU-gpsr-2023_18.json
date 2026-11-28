@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-gpsr-2023:18",
+ "label": "EU-gpsr-2023 Article 18",
+ "instrument": "EU-gpsr-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "82b8bfa05e0990b127a0b8e2a76a5e6c240d7137a31bf4b5edbb7167346626ec",
+ "sha256_v1": "",
+ "sha256_v2": "82b8bfa05e0990b127a0b8e2a76a5e6c240d7137a31bf4b5edbb7167346626ec",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "82b8bfa05e0990b127a0b8e2a76a5e6c240d7137a31bf4b5edbb7167346626ec",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-gpsr-2023:18/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "For certain products, categories or groups of products which are likely to present a serious risk to the health and safety of consumers, based on accidents registered in the Safety Business Gateway, the Safety Gate statistics, the results of the joint activities on product safety and other relevant indicators or evidence, and after consulting the Consumer Safety Network, relevant expert groups and relevant stakeholders, the Commission may set up a system of traceability to which economic operators who place and make available those products on the market shall adhere."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:18/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The system of traceability shall consist of the collection and storage of data, including by electronic means, enabling the identification of the product, its components or of the economic operators involved in its supply chain, as well as in modalities to display and to access those data, including placement of a data carrier on the product, its packaging or accompanying documents."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:18/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(a)\ndetermining the products, categories or groups of products or components likely to present a serious risk to the health and safety of consumers as referred to in paragraph 1; the Commission shall state in the delegated acts concerned whether it has used the risk analysis methodology provided for in Commission Implementing Decision (EU) 2019/417 (30) or, if that methodology is not appropriate for the product concerned, it shall give a detailed description of the methodology used;"
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:18/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d)\nspecifying the actors that shall have access to the data as referred to in point (b) and to what data they shall have access, including consumers, economic operators, providers of online marketplaces, competent national authorities, the Commission, and public interest organisations, or any organisation acting on their behalf."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:18/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Market surveillance authorities, consumers, economic operators and other relevant actors shall have access free of charge to the data referred to in paragraph 3 based on their respective access rights set out in the applicable delegated act adopted pursuant to paragraph 3, point (d)."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:18/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When adopting the measures referred to in paragraph 3, the Commission shall take into account:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-gpsr-2023:18",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

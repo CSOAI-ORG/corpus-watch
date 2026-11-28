@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s16",
+ "label": "GB-duaa-2025 Section 16",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "8d94df39a990383d4775b0496121e9f0d6c9623233346caaf5889f95228cb311",
+ "sha256_v1": "",
+ "sha256_v2": "8d94df39a990383d4775b0496121e9f0d6c9623233346caaf5889f95228cb311",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8d94df39a990383d4775b0496121e9f0d6c9623233346caaf5889f95228cb311",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s16/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(3)\nRegulations made in reliance on subsection (2)—\n(a)\nmust require the FCA to produce and publish a statement of its policy with respect to the amount of the penalties;"
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s16/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nThe Treasury may by regulations—\n(a)\nimpose, or provide for the FCA to impose, a levy on data holders or third party recipients for the purpose of meeting expenses incurred, or to be incurred, during a period by the FCA, or by a person acting on the FCA’s behalf, in performing duties, or exercising powers, imposed or conferred on the FCA by regulations under section 14, and\n(b)\nmake provision about what must or may be done with funds raised by means of the levy."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s16/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\nRegulations under subsection (4) providing for the FCA to impose a levy must—\n(a)\nmake provision about how the rate of the levy is to be determined;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s16",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

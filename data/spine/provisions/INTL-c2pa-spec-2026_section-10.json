@@ -1,0 +1,416 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-c2pa-spec-2026:section-10",
+ "label": "INTL-c2pa-spec-2026 Section 10",
+ "instrument": "INTL-c2pa-spec-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "25b1c4b6e16f046ee426ec5f70bd9d766f8e55af378ee427940f582708dc59d4",
+ "sha256_v1": "",
+ "sha256_v2": "25b1c4b6e16f046ee426ec5f70bd9d766f8e55af378ee427940f582708dc59d4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "25b1c4b6e16f046ee426ec5f70bd9d766f8e55af378ee427940f582708dc59d4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s1",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A claim is encoded as a JUMBF superbox with the label c2pa.claim.v2 and a CBOR payload, which shall comply with the Core Deterministic Encoding Requirements of CBOR (see RFC 8949, clause 4.2.1)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s2",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Validators should still accept this label (and associated claim-map), but claim generators shall not produce such a claim.\n10.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s3",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Fields\nThe alg field shall contain the hash algorithm used to compute the hash for any hashed-uri, hard binding assertion, or hash assertion that does not explicitly define it."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s4",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The value of this field, if present, shall be a string that is one of the allowed hash algorithms as defined in Section 12.1, “Hashing”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s5",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the alg field is not present, then each hashed-uri, each hard binding assertion, and each hash assertion shall explicitly declare which hashing algorithm is to be used."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s6",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If present, the value of dc:title shall be a human-readable name for the asset."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s7",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When no XMP is available, then some other unique identifier for the asset shall be used as the value for instanceID."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s8",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The signature field shall be present and it shall contain an absolute URI reference to the claim signature in the same C2PA Manifest."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s9",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The created_assertions field shall be present and it shall contain one or more URI references to assertions being made by this claim."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s10",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In a standard manifest, it shall contain, at minimum, a reference to an assertion that represents a hard binding."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s11",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When present, the gathered_assertions field shall contain one or more URI references to assertions that have been provided to the claim generator by other components in the workflow."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s12",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When present, the redacted_assertions field shall contain one or more URI references to redacted assertions."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s13",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "General\nDetailed information about the claim generator shall be present as the value of claim_generator_info."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s14",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A Manifest Consumer shall use the value of claim_generator_info in determining information about the claim generator for itself or for presentation in a UX."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s15",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Generator Info Map\nWhen adding a claim_generator_info field, its value is a generator-info-map object which shall contain a name field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s16",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The data in this object shall represent the non-human (hardware or software) actor that actually generated the claim (aka the claim generator itself)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s17",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The value of the icon field, if present, shall be a hashed URI."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s18",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This hashed URI shall be to an embedded data assertion whose label is c2pa.icon and follows the rules of assertion labels with respect to multiple instances."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s19",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A specVersion field should be present, and if so, shall contain a SemVer formatted specVersion field representing the version of this specification used as the normative reference by the Claim Generator to create this C2PA Manifest (e.g., \"2.4.0\" for version 2.4)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s20",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Adding Assertions and Redactions\nThe claim shall contain a created_assertions field and may contain a gathered_assertions field."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s21",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In a standard manifest, the created_assertions field’s value shall include at least one assertion that represents a hard binding."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s23",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a manifest with the same unique identifier is already present in the C2PA Manifest Store, the two shall be compared."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s24",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If they are identical, the new manifest shall be ignored."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s26",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For both types of manifests, standard and update, the payload field of Sig_structure shall be the serialized CBOR of the claim document, and shall use detached content mode."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s27",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A manifest shall contain only one time stamp."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s28",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A claim generator shall not create one, but a validator shall process one if present."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s29",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A \"v2 payload\" shall be used by claim generators performing a time stamping operation."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s30",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Obtaining the time stamp\nAll time stamps shall be obtained as described in RFC 3161 with the following additional requirements:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s31",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The MessageImprint of the TimeStampReq structure (RFC 3161, section 2.4.1) shall be computed by creating the ToBeSigned value in RFC 9052, section 4.4, with the following values for elements of Sig_structure:"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s32",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The context element shall be CounterSignature."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s33",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The payload element shall be the value described by Section 10.3.2.5.2, “Choosing the Payload”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s34",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The certReq boolean of the TimeStampReq structure shall be asserted in the request to the TSA, to ensure its certificate chain is provided in the response.\n10.3.2.5.4."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s35",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If present, the value of this header shall be a tstContainer defined by Section G.2.2, “Timestamp Container”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s36",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The content of the TimeStampResp structure received in reply from the TSA shall be stored as the value of the val property of an element of tstTokens.\nv2 time stamps shall be stored in a COSE unprotected header whose label is the string sigTst2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s37",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When present, the value of this header shall be a tstContainer defined by Section G.2.2, “Timestamp Container”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s38",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The value of the timeStampToken field of the TimeStampResp structure received in reply from the TSA shall be stored as the value of the val property of an element of tstTokens."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s39",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It shall be formatted as a DER-encoded RFC 3161 TimeStampToken wrapped in a CBOR byte string."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s40",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If no time stamps are included, then neither header (sigTst nor sigTst2) shall be present in the COSE unprotected header."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-10/p10/s41",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If credential revocation information is attached in this manner, a trusted time stamp shall also be obtained after signing, as described in Section 10.3.2.5, “Time Stamps”.\n10.3.3."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-c2pa-spec-2026:section-10",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

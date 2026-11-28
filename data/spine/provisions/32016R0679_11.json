@@ -1,0 +1,49 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:11",
+ "label": "GDPR Art. 11",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "5b26c1f3b914026f683a080ad674e81e0886606ff2671da103d2cec0e03ec888",
+ "sha256_v1": "5b26c1f3b914026f683a080ad674e81e0886606ff2671da103d2cec0e03ec888",
+ "sha256_v2": "54ec73a9e8380c11d0e78d3aaa8e0be40ca98a96a79bfec9a9e952a59052faea",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "54ec73a9e8380c11d0e78d3aaa8e0be40ca98a96a79bfec9a9e952a59052faea",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:11/p1/s1",
+   "paragraph": "1",
+   "addressee": "controller",
+   "modality": "prohibition",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "If the purposes for which a controller processes personal data do not or do no longer require the identification of a data subject by the controller, the controller shall not be obliged to maintain, acquire or process additional information in order to identify the data subject for the sole purpose of complying with this Regulation."
+  },
+  {
+   "obligation_id": "32016R0679:11/p2/s1",
+   "paragraph": "2",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "Where, in cases referred to in paragraph 1 of this Article, the controller is able to demonstrate that it is not in a position to identify the data subject, the controller shall inform the data subject accordingly, if possible."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:11",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CO-HB24-1468-AItaskforce-2024:SECTION-4",
+ "label": "US-CO-HB24-1468-AItaskforce-2024 SECTION 4",
+ "instrument": "US-CO-HB24-1468-AItaskforce-2024",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "7685e1d79d856e61966622c97c2a068b7c76109e13b8d54ed50351bd79cf88fa",
+ "sha256_v1": "",
+ "sha256_v2": "7685e1d79d856e61966622c97c2a068b7c76109e13b8d54ed50351bd79cf88fa",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 6,
+ "sha256_current": "7685e1d79d856e61966622c97c2a068b7c76109e13b8d54ed50351bd79cf88fa",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CO-HB24-1468-AItaskforce-2024:SECTION-4/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CO-HB24-1468-AItaskforce-2024:SECTION-4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

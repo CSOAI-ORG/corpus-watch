@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-ai-content-labelling-measures-2025:8",
+ "label": "CN-ai-content-labelling-measures-2025 第八条",
+ "instrument": "CN-ai-content-labelling-measures-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "e52f30254e4f1dd939ac4c9f3fbd814335fbb29284e1c83b15452bbdb1f2b4bf",
+ "sha256_v1": "",
+ "sha256_v2": "e52f30254e4f1dd939ac4c9f3fbd814335fbb29284e1c83b15452bbdb1f2b4bf",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "e52f30254e4f1dd939ac4c9f3fbd814335fbb29284e1c83b15452bbdb1f2b4bf",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-ai-content-labelling-measures-2025:8/s1",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "zh:public-trace",
+   "status": "DRAFT",
+   "text": "第八条 服务提供者应当在用户服务协议中明确说明生成合成内容标识的方法、样式等规范内容，并提示用户仔细阅读并理解相关的标识管理要求。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-ai-content-labelling-measures-2025:8",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

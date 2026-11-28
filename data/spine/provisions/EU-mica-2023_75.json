@@ -1,0 +1,266 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:75",
+ "label": "EU-mica-2023 Article 75",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "8149deb34bf5e9947ebd466d5814a5475cc3e874f83aee9517bc8ec76a24845a",
+ "sha256_v1": "",
+ "sha256_v2": "8149deb34bf5e9947ebd466d5814a5475cc3e874f83aee9517bc8ec76a24845a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8149deb34bf5e9947ebd466d5814a5475cc3e874f83aee9517bc8ec76a24845a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:75/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients shall conclude an agreement with their clients to specify their duties and their responsibilities."
+  },
+  {
+   "obligation_id": "EU-mica-2023:75/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such an agreement shall include at least the following:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:75/p2/s1",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients shall keep a register of positions, opened in the name of each client, corresponding to each client’s rights to the crypto-assets."
+  },
+  {
+   "obligation_id": "EU-mica-2023:75/p2/s2",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Where relevant, crypto-asset service providers shall record as soon as possible in that register any movements following instructions from their clients."
+  },
+  {
+   "obligation_id": "EU-mica-2023:75/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "In such cases, their internal procedures shall ensure that any movement affecting the registration of the crypto-assets is evidenced by a transaction regularly registered in the client’s register of positions."
+  },
+  {
+   "obligation_id": "EU-mica-2023:75/p3/s1",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients shall establish a custody policy with internal rules and procedures to ensure the safekeeping or the control of such crypto-assets, or the means of access to the crypto-assets."
+  },
+  {
+   "obligation_id": "EU-mica-2023:75/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The custody policy referred to in the first subparagraph shall minimise the risk of a loss of clients’ crypto-assets or the rights related to those crypto-assets or the means of access to the crypto-assets due to fraud, cyber threats or negligence."
+  },
+  {
+   "obligation_id": "EU-mica-2023:75/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A summary of the custody policy shall be made available to clients at their request in an electronic format."
+  },
+  {
+   "obligation_id": "EU-mica-2023:75/p4/s1",
+   "paragraph": "4",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where applicable, crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients shall facilitate the exercise of the rights attached to the crypto-assets."
+  },
+  {
+   "obligation_id": "EU-mica-2023:75/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any event likely to create or modify the rights of a client shall immediately be recorded in the client’s register of positions."
+  },
+  {
+   "obligation_id": "EU-mica-2023:75/p4/s3",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where there are changes to the underlying distributed ledger technology or any other event likely to create or modify a client’s rights, the client shall be entitled to any crypto-assets or any rights newly created on the basis and to the extent of the client’s positions at the time of the occurrence of that change or event, except when a valid agreement signed with the crypto-asset service provider providing custody and administration of crypto-assets on behalf of clients pursuant to paragraph 1 prior to that change or event expressly provides otherwise."
+  },
+  {
+   "obligation_id": "EU-mica-2023:75/p5/s1",
+   "paragraph": "5",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients shall provide their clients, at least once every three months and at the request of the client concerned, with a statement of position of the crypto-assets recorded in the name of those clients."
+  },
+  {
+   "obligation_id": "EU-mica-2023:75/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That statement of position shall be made in an electronic format."
+  },
+  {
+   "obligation_id": "EU-mica-2023:75/p5/s3",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The statement of position shall identify the crypto-assets concerned, their balance, their value and the transfer of crypto-assets made during the period concerned."
+  },
+  {
+   "obligation_id": "EU-mica-2023:75/p5/s4",
+   "paragraph": "5",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients shall provide their clients as soon as possible with any information about operations on crypto-assets that require a response from those clients."
+  },
+  {
+   "obligation_id": "EU-mica-2023:75/p6/s1",
+   "paragraph": "6",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients shall ensure that necessary procedures are in place to return crypto-assets held on behalf of their clients, or the means of access, as soon as possible to those clients."
+  },
+  {
+   "obligation_id": "EU-mica-2023:75/p7/s1",
+   "paragraph": "7",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients shall segregate holdings of crypto-assets on behalf of their clients from their own holdings and ensure that the means of access to crypto-assets of their clients is clearly identified as such."
+  },
+  {
+   "obligation_id": "EU-mica-2023:75/p7/s2",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "They shall ensure that, on the distributed ledger, their clients’ crypto-assets are held separately from their own crypto-assets."
+  },
+  {
+   "obligation_id": "EU-mica-2023:75/p7/s3",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The crypto-assets held in custody shall be legally segregated from the crypto-asset service provider’s estate in the interest of the clients of the crypto-asset service provider in accordance with applicable law, so that creditors of the crypto-asset service provider have no recourse to crypto-assets held in custody by the crypto-asset service provider, in particular in the event of insolvency."
+  },
+  {
+   "obligation_id": "EU-mica-2023:75/p7/s4",
+   "paragraph": "7",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Crypto-asset service provider shall ensure that the crypto-assets held in custody are operationally segregated from the crypto-asset service provider’s estate."
+  },
+  {
+   "obligation_id": "EU-mica-2023:75/p8/s1",
+   "paragraph": "8",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients shall be liable to their clients for the loss of any crypto-assets or of the means of access to the crypto-assets as a result of an incident that is attributable to them."
+  },
+  {
+   "obligation_id": "EU-mica-2023:75/p8/s2",
+   "paragraph": "8",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The liability of the crypto-asset service provider shall be capped at the market value of the crypto-asset that was lost, at the time the loss occurred."
+  },
+  {
+   "obligation_id": "EU-mica-2023:75/p9/s1",
+   "paragraph": "9",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients make use of other crypto-asset service providers of that service, they shall only make use of crypto-asset service providers authorised in accordance with Article"
+  },
+  {
+   "obligation_id": "EU-mica-2023:75/p59/s1",
+   "paragraph": "59",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients and that make use of other crypto-asset service providers of that service shall inform their clients thereof."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:75",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

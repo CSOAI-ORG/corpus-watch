@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s28",
+ "label": "GB-duaa-2025 Section 28",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "8500e5ab2adf50d5730603f9ee2b466c14d57b0eb0daa1b6ee10d899743b6869",
+ "sha256_v1": "",
+ "sha256_v2": "8500e5ab2adf50d5730603f9ee2b466c14d57b0eb0daa1b6ee10d899743b6869",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "8500e5ab2adf50d5730603f9ee2b466c14d57b0eb0daa1b6ee10d899743b6869",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s28/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "DVS trust framework\n(1)\nThe Secretary of State must prepare and publish a document (“the DVS trust framework”) setting out rules concerning the provision of digital verification services."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s28/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nIn preparing the DVS trust framework, the Secretary of State must consult—\n(a)\nthe Information Commission, and\n(b)\nsuch other persons as the Secretary of State considers appropriate."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s28/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(6)\nThe DVS trust framework, and any revised version of the framework, must specify the time it comes into force (which must not be a time earlier than the time it is published)."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s28/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(8)\nWhere the Secretary of State revises and republishes the DVS trust framework, the DVS trust framework (as revised) may provide that from a date, or from the end of a period, specified in the framework a pre-revision certificate is required to be ignored for the purposes of sections 33(1)(a), 35(1)(c), 40(1)(c) and 42(1)(c)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s28",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

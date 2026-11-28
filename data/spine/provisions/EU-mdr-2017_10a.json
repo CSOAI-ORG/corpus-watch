@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:10a",
+ "label": "EU-mdr-2017 10a",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": null,
+ "sha256_v1": "",
+ "sha256_v2": "",
+ "source_state": "INSERTED_BY_AMENDMENT",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "INSERTED",
+ "change_edits": 246,
+ "sha256_current": "7ae9d2a8933b802e80ae8a74d3664cb59931d72e5bac789fa23dc8bfdd4e9cd8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:10a/p1/s1",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where a manufacturer anticipates an interruption or a discontinuation of the supply of a device, other than a custom-made device, and where it is reasonably foreseeable that such interruption or discontinuation could result in serious harm or a risk of serious harm to patients or public health in one or more Member States, the manufacturer shall inform the competent authority of the Member State where it or its authorised representative is established, as well as the economic operators, health institutions and healthcare professionals to whom it directly supplies the device, of the anticipated interruption or discontinuation."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:10a/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The information referred to in the first subparagraph shall, other than in exceptional circumstances, be provided at least 6 months before the anticipated interruption or discontinuation."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:10a/p1/s3",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The manufacturer shall specify the reasons for the interruption or discontinuation in the information provided to the competent authority."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:10a/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authority that has received the information referred to in paragraph 1 shall, without undue delay, inform the competent authorities of the other Member States and the Commission of the anticipated interruption or discontinuation."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:10a/p3/s1",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The economic operators who have received the information from the manufacturer in accordance with paragraph 1 or from another economic operator in the supply chain shall, without undue delay, inform any other economic operators, health institutions and healthcare professionals to whom they directly supply the device, of the anticipated interruption or discontinuation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:10a",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

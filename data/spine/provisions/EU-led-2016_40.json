@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-led-2016:40",
+ "label": "EU-led-2016 Article 40",
+ "instrument": "EU-led-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "d74e0223c1930e0a3fa797df44f6682da142fd3749b659c5077eb25b1c7aa9fe",
+ "sha256_v1": "",
+ "sha256_v2": "d74e0223c1930e0a3fa797df44f6682da142fd3749b659c5077eb25b1c7aa9fe",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d74e0223c1930e0a3fa797df44f6682da142fd3749b659c5077eb25b1c7aa9fe",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-led-2016:40/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "International cooperation for the protection of personal data\nIn relation to third countries and international organisations, the Commission and Member States shall take appropriate steps to:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-led-2016:40",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

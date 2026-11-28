@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-15USC1681-FCRA-1970:s1681e",
+ "label": "US-15USC1681-FCRA-1970 15 U.S.C. 1681e",
+ "instrument": "US-15USC1681-FCRA-1970",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "a682bc2f376c868ae7ad815b4e3cb82ac8de5ea7032f47c817113cb5b30d5d3d",
+ "sha256_v1": "",
+ "sha256_v2": "a682bc2f376c868ae7ad815b4e3cb82ac8de5ea7032f47c817113cb5b30d5d3d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "a682bc2f376c868ae7ad815b4e3cb82ac8de5ea7032f47c817113cb5b30d5d3d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-15USC1681-FCRA-1970:s1681e/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Compliance procedures\n(a) Identity and purposes of credit users\nEvery consumer reporting agency shall maintain reasonable procedures designed to avoid violations of section 1681c of this title and to limit the furnishing of consumer reports to the purposes listed under section 1681b of this title."
+  },
+  {
+   "obligation_id": "US-15USC1681-FCRA-1970:s1681e/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "These procedures shall require that prospective users of the information identify themselves, certify the purposes for which the information is sought, and certify that the information will be used for no other purpose."
+  },
+  {
+   "obligation_id": "US-15USC1681-FCRA-1970:s1681e/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Every consumer reporting agency shall make a reasonable effort to verify the identity of a new prospective user and the uses certified by such prospective user prior to furnishing such user a consumer report."
+  },
+  {
+   "obligation_id": "US-15USC1681-FCRA-1970:s1681e/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) Accuracy of report\nWhenever a consumer reporting agency prepares a consumer report it shall follow reasonable procedures to assure maximum possible accuracy of the information concerning the individual about whom the report relates."
+  },
+  {
+   "obligation_id": "US-15USC1681-FCRA-1970:s1681e/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d) Notice to users and furnishers of information\n(1) Notice requirement\nA consumer reporting agency shall provide to any person—\n(A) who regularly and in the ordinary course of business furnishes information to the agency with respect to any consumer; or\n(B) to whom a consumer report is provided by the agency;\na notice of such person's responsibilities under this subchapter."
+  },
+  {
+   "obligation_id": "US-15USC1681-FCRA-1970:s1681e/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2) Content of notice\nThe Bureau shall prescribe the content of notices under paragraph (1), and a consumer reporting agency shall be in compliance with this subsection if it provides a notice under paragraph (1) that is substantially similar to the Bureau prescription under this paragraph."
+  },
+  {
+   "obligation_id": "US-15USC1681-FCRA-1970:s1681e/p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "(2) Responsibilities of procurers for resale\nA person who procures a consumer report for purposes of reselling the report (or any information in the report) shall—\n(A) establish and comply with reasonable procedures designed to ensure that the report (or information) is resold by the person only for a purpose for which the report may be furnished under section 1681b of this title, including by requiring that each person to which the report (or information) is resold and that resells or provides the report (or information) to any other person—\n(i) identifies each end user of the resold report (or information);"
+  },
+  {
+   "obligation_id": "US-15USC1681-FCRA-1970:s1681e/p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3) Resale of consumer report to a Federal agency or department\nNotwithstanding paragraph (1) or (2), a person who procures a consumer report for purposes of reselling the report (or any information in the report) shall not disclose the identity of the end-user of the report under paragraph (1) or (2) if—\n(A) the end user is an agency or department of the United States Government which procures the report from the person for purposes of determining the eligibility of the consumer concerned to receive access or continued access to classified information (as defined in section 1681b(b)(4)(E)(i) 1 of this title); and\n(B) the agency or department certifies in writing to the person reselling the "
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-15USC1681-FCRA-1970:s1681e",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

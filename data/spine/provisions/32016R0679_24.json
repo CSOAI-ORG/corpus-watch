@@ -1,0 +1,59 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:24",
+ "label": "GDPR Art. 24",
+ "instrument": "GDPR",
+ "ladder": "CROSSWALK_ONLY",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "05659f1e42e3e69aea97c0a7d8a5d4c09443db1962c63be52af78a83b8bca33e",
+ "sha256_v1": "05659f1e42e3e69aea97c0a7d8a5d4c09443db1962c63be52af78a83b8bca33e",
+ "sha256_v2": "689cb25048fa76f2a4101c3ba4faf3cd36c72c43b9f1504ec5936e22262b57a2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "689cb25048fa76f2a4101c3ba4faf3cd36c72c43b9f1504ec5936e22262b57a2",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:24/p1/s1",
+   "paragraph": "1",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "Taking into account the nature, scope, context and purposes of processing as well as the risks of varying likelihood and severity for the rights and freedoms of natural persons, the controller shall implement appropriate technical and organisational measures to ensure and to be able to demonstrate that processing is performed in accordance with this Regulation."
+  },
+  {
+   "obligation_id": "32016R0679:24/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those measures shall be reviewed and updated where necessary."
+  },
+  {
+   "obligation_id": "32016R0679:24/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where proportionate in relation to processing activities, the measures referred to in paragraph 1 shall include the implementation of appropriate data protection policies by the controller."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:24",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

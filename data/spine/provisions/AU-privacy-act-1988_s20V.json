@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s20V",
+ "label": "AU-privacy-act-1988 Section 20V",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ca08cd44919674b5973b77e3abbabad2836e589a81cc8e4c577dc0b267c28adb",
+ "sha256_v1": "",
+ "sha256_v2": "ca08cd44919674b5973b77e3abbabad2836e589a81cc8e4c577dc0b267c28adb",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "ca08cd44919674b5973b77e3abbabad2836e589a81cc8e4c577dc0b267c28adb",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s20V/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Destruction etc. of credit information\n(2)\tThe credit reporting body must destroy the credit information, or ensure that the information is deidentified, within 1 month after the retention period for the information ends."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s20V/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\tDespite subsection (2), the credit reporting body must neither destroy the credit information nor ensure that the information is deidentified, if immediately before the retention period ends:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s20V/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Destruction etc. of CRB derived information\n(5)\tThe credit reporting body must destroy any CRB derived information about the individual that was derived from the credit information, or ensure that the CRB derived information is deidentified:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s20V/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(i)\tthe CRB derived information was derived from 2 or more kinds of credit information; and\n(ii)\tthe body is required to do a thing referred to in subsection (2) to one of those kinds of credit information;\nat the same time that the body does that thing to that credit information; or\n(b)\totherwise—at the same time that the body is required to do a thing referred to in subsection (2) to the credit information from which the CRB derived information was derived."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s20V/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\tDespite subsection (5), the credit reporting body must neither destroy the CRB derived information nor ensure that the information is deidentified, if immediately before the retention period ends:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s20V",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:28",
+ "label": "EU-ccd2-2023 Article 28",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d0fb071a92c94e26d7b1d23d07f1ce30c6704f20922bd6978db7e704bdaf0a38",
+ "sha256_v1": "",
+ "sha256_v2": "d0fb071a92c94e26d7b1d23d07f1ce30c6704f20922bd6978db7e704bdaf0a38",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d0fb071a92c94e26d7b1d23d07f1ce30c6704f20922bd6978db7e704bdaf0a38",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:28/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that the consumer may effect standard termination of an open-end credit agreement free of charge at any time, unless the parties have agreed on a period of notice."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:28/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such a period shall not exceed one month."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:28/p1/s3",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that the creditor may, where agreed in the credit agreement, effect standard termination of an open-end credit agreement by giving the consumer at least two months’ notice on paper or another durable medium specified in the credit agreement."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:28/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that the creditor may, where agreed in the credit agreement, for objectively justified reasons, terminate the consumer’s right to draw down on an open-end credit agreement."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:28/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The creditor shall inform the consumer of the termination and the reasons for it on paper or another durable medium specified in the credit agreement, where possible before the termination and at the latest immediately thereafter, unless the provision of such information is prohibited by Union or national law or is contrary to objectives of public policy or public security."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:28",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

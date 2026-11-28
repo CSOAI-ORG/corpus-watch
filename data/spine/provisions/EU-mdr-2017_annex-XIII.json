@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:annex-XIII",
+ "label": "EU-mdr-2017 Annex XIII",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "ad0036fde2bb6755221ad4d0eb6a1d48dccea54c4799b4803742c773a031ba61",
+ "sha256_v1": "",
+ "sha256_v2": "ad0036fde2bb6755221ad4d0eb6a1d48dccea54c4799b4803742c773a031ba61",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "ad0036fde2bb6755221ad4d0eb6a1d48dccea54c4799b4803742c773a031ba61",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:annex-XIII/p1/s1",
+   "paragraph": "1",
+   "addressee": "authorised_representative",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For custom-made devices, the manufacturer or its authorised representative shall draw up a statement containing all of the following information:\n—\nthe name and address of the manufacturer, and of all manufacturing sites,\n—\nif applicable, the name and address of the authorised representative,\n—\ndata allowing identification of the device in question,\n—\na statement that the device is intended for exclusive use by a particular patient or user, identified by name, an acronym or a numerical code,\n—\nthe name of the person who made out the prescription and who is authorised by national law by virtue of their professional qualifications to do so, and, where applicable, the name of the health institu"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XIII/p2/s1",
+   "paragraph": "2",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "The manufacturer shall undertake to keep available for the competent national authorities documentation that indicates its manufacturing site or sites and allows an understanding to be formed of the design, manufacture and performance of the device, including the expected performance, so as to allow assessment of conformity with the requirements of this Regulation."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XIII/p3/s1",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The manufacturer shall take all the measures necessary to ensure that the manufacturing process produces devices which are manufactured in accordance with the documentation referred to in Section 2."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XIII/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The statement referred to in the introductory part of Section 1 shall be kept for a period of at least 10 years after the device has been placed on the market."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XIII/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the case of implantable devices, the period shall be at least 15 years."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:annex-XIII/p5/s1",
+   "paragraph": "5",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The manufacturer shall review and document experience gained in the post-production phase, including from PMCF as referred to in Part B of Annex XIV, and implement appropriate means to apply any necessary corrective action, In that context, it shall report in accordance with Article 87(1) to the competent authorities any serious incidents or field safety corrective actions or both as soon as it learns of them."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:annex-XIII",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

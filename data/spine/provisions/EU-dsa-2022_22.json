@@ -1,0 +1,176 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:22",
+ "label": "EU-dsa-2022 Article 22",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "255c6455bdbf4e7815223398acab952ef7226500b5aa7b12a624b084cd455de0",
+ "sha256_v1": "",
+ "sha256_v2": "255c6455bdbf4e7815223398acab952ef7226500b5aa7b12a624b084cd455de0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "255c6455bdbf4e7815223398acab952ef7226500b5aa7b12a624b084cd455de0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:22/p1/s1",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of online platforms shall take the necessary technical and organisational measures to ensure that notices submitted by trusted flaggers, acting within their designated area of expertise, through the mechanisms referred to in Article 16, are given priority and are processed and decided upon without undue delay."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:22/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The status of ‘trusted flagger’ under this Regulation shall be awarded, upon application by any entity, by the Digital Services Coordinator of the Member State in which the applicant is established, to an applicant that has demonstrated that it meets all of the following conditions:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:22/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Trusted flaggers shall publish, at least once a year easily comprehensible and detailed reports on notices submitted in accordance with Article 16 during the relevant period."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:22/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The report shall list at least the number of notices categorised by:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:22/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those reports shall include an explanation of the procedures in place to ensure that the trusted flagger retains its independence."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:22/p3/s4",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Trusted flaggers shall send those reports to the awarding Digital Services Coordinator, and shall make them publicly available."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:22/p3/s5",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The information in those reports shall not contain personal data."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:22/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Digital Services Coordinators shall communicate to the Commission and the Board the names, addresses and email addresses of the entities to which they have awarded the status of the trusted flagger in accordance with paragraph 2 or whose trusted flagger status they have suspended in accordance with paragraph 6 or revoked in accordance with paragraph 7."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:22/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall publish the information referred to in paragraph 4 in a publicly available database, in an easily accessible and machine-readable format, and shall keep the database up to date."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:22/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where a provider of online platforms has information indicating that a trusted flagger has submitted a significant number of insufficiently precise, inaccurate or inadequately substantiated notices through the mechanisms referred to in Article 16, including information gathered in connection to the processing of complaints through the internal complaint-handling systems referred to in Article 20(4), it shall communicate that information to the Digital Services Coordinator that awarded the status of trusted flagger to the entity concerned, providing the necessary explanations and supporting documents."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:22/p6/s2",
+   "paragraph": "6",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Upon receiving the information from the provider of online platforms, and if the Digital Services Coordinator considers that there are legitimate reasons to open an investigation, the status of trusted flagger shall be suspended during the period of the investigation."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:22/p6/s3",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That investigation shall be carried out without undue delay."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:22/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Digital Services Coordinator that awarded the status of trusted flagger to an entity shall revoke that status if it determines, following an investigation either on its own initiative or on the basis information received from third parties, including the information provided by a provider of online platforms pursuant to paragraph 6, that the entity no longer meets the conditions set out in paragraph"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:22/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Before revoking that status, the Digital Services Coordinator shall afford the entity an opportunity to react to the findings of its investigation and its intention to revoke the entity’s status as trusted flagger."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:22/p8/s1",
+   "paragraph": "8",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission, after consulting the Board, shall, where necessary, issue guidelines to assist providers of online platforms and Digital Services Coordinators in the application of paragraphs 2, 6 and 7."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:22",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

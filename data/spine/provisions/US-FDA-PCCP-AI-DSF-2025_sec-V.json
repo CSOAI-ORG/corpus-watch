@@ -1,0 +1,196 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-FDA-PCCP-AI-DSF-2025:sec-V",
+ "label": "US-FDA-PCCP-AI-DSF-2025 V. Policy for Predetermined Change Control Plans",
+ "instrument": "US-FDA-PCCP-AI-DSF-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "cf47a5321d27dc25a8a700ce6e155e028ed4431a9007d906c89f6cfab7841267",
+ "sha256_v1": "",
+ "sha256_v2": "cf47a5321d27dc25a8a700ce6e155e028ed4431a9007d906c89f6cfab7841267",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 3148,
+ "sha256_current": "cf47a5321d27dc25a8a700ce6e155e028ed4431a9007d906c89f6cfab7841267",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-FDA-PCCP-AI-DSF-2025:sec-V/p0/s1",
+   "paragraph": "0",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Manufacturers should evaluate the impact of modifications to their devices and must generally submit a marketing submission when device modifications affect the intended use of the device or could significantly affect the safety or effectiveness of the device.43 An authorized PCCP specifies planned modifications that, if not included in a PCCP, could otherwise require a new marketing submission pursuant to 21 CFR 807.81(a)(3) and 21 CFR 814.39(a), and consistent with the Device Modifications guidances."
+  },
+  {
+   "obligation_id": "US-FDA-PCCP-AI-DSF-2025:sec-V/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Establishing a PCCP Premarket authorization for an AI-DSF with a PCCP must be established through the PMA pathway, 510(k) pathway, or De Novo pathway, as appropriate, as a PCCP must be reviewed and established as part of a marketing authorization48,49 for a device prior to a manufacturer implementing any modifications under that PCCP."
+  },
+  {
+   "obligation_id": "US-FDA-PCCP-AI-DSF-2025:sec-V/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "FDA must reach a determination53 of reasonable assurance of safety and effectiveness or substantial equivalence in review of the device, including each modification specified in the PCCP, for the PCCP to be authorized with the device."
+  },
+  {
+   "obligation_id": "US-FDA-PCCP-AI-DSF-2025:sec-V/p0/s4",
+   "paragraph": "0",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "A manufacturer must implement any changes in accordance with their quality system.54 A manufacturer’s quality system is critical for change management processes for a device, especially for devices that include a PCCP, because a PCCP includes modifications that generally would otherwise require a new marketing submission.55 Compliance with the QSR is essential in order for a manufacturer to implement modifications consistent with their authorized PCCP and failure to do so could potentially present a serious risk to human health."
+  },
+  {
+   "obligation_id": "US-FDA-PCCP-AI-DSF-2025:sec-V/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Under section 515(d)(2)(C) of the FD&C Act, FDA must deny approval of a PMA if FDA finds that the methods used in, or the facilities or controls used for, the manufacture, processing, packing, or installation of such device do not conform to the QSR requirements."
+  },
+  {
+   "obligation_id": "US-FDA-PCCP-AI-DSF-2025:sec-V/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Thus, consistent with sections 515C(a)(2) and 515(d)(2)(C) of the FD&C Act, FDA must deny approval of a PCCP submitted in a PMA if FDA finds that the methods used in, or the facilities or controls 50 Section 737(4)(D) of the FD&C Act defines a real-time supplement as “a supplement to an approved premarket application or premarket report under section 515 that requests a minor change to the device, such as a minor change to the design of the device, software, sterilization, or labeling, and for which the applicant has requested and the agency has granted a meeting or similar forum to jointly review and determine the status of the supplement.” 51 See FDA’s guidance “Real-Time Premarket Approva"
+  },
+  {
+   "obligation_id": "US-FDA-PCCP-AI-DSF-2025:sec-V/p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For 510(k) submissions, in making a determination of substantial equivalence where the predicate device was authorized with a PCCP, the subject device must be compared to the version of the predicate device cleared or approved prior to changes made under the PCCP.57 Once a 510(k) for a device that includes modifications that have been implemented consistent with the authorized PCCP has been cleared in a subsequent marketing submission, such device can now serve as an eligible predicate device."
+  },
+  {
+   "obligation_id": "US-FDA-PCCP-AI-DSF-2025:sec-V/p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Device labeling must comply with applicable statutes and regulations.60 FDA may require that a device with an authorized PCCP include labeling required for safe and effective use of the device as such device changes pursuant to such plan,61 excluding, as appropriate, trade secret and confidential commercial information."
+  },
+  {
+   "obligation_id": "US-FDA-PCCP-AI-DSF-2025:sec-V/p0/s9",
+   "paragraph": "0",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Utilizing an Authorized PCCP to Implement Device Modifications FDA expects manufacturers to follow their authorized PCCP, and manufacturers are required to follow applicable legal requirements regarding the device and its authorized PCCP."
+  },
+  {
+   "obligation_id": "US-FDA-PCCP-AI-DSF-2025:sec-V/p0/s10",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "In general, a PCCP should be evaluated within the existing risk management framework of the device and must be implemented in accordance with the manufacturer’s quality system.67 Figure 1 depicts the process for implementing a modification to a device with an authorized PCCP."
+  },
+  {
+   "obligation_id": "US-FDA-PCCP-AI-DSF-2025:sec-V/p0/s11",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "FDA considers a modification to be consistent with the authorized PCCP when the modification has been specified in the Description of Modifications included in the PCCP and has been implemented in accordance with the Modification Protocol. 63 In accordance with 21 CFR 814.9(e), “FDA will make available to the public … a detailed summary of information submitted to FDA respecting the safety and effectiveness of the device that is the subject of the PMA and that is the basis for the order.” 64 In accordance with 21 CFR 807.92, “a 510(k) summary shall be in sufficient detail to provide an understanding of the basis for a determination of substantial equivalence.” This includes, but is not limit"
+  },
+  {
+   "obligation_id": "US-FDA-PCCP-AI-DSF-2025:sec-V/p0/s12",
+   "paragraph": "0",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "See 21 CFR 807.93 for requirements on the content and format of a 510(k) Statement. 66 The De Novo decision summary is intended to present an objective and balanced summary of the scientific evidence that served as the basis for the FDA’s decision to grant a De Novo request; see FDA’s website on De Novo Classification Request. 67 Manufacturers are required to comply with the QSR (21 CFR Part 820)."
+  },
+  {
+   "obligation_id": "US-FDA-PCCP-AI-DSF-2025:sec-V/p0/s13",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The device and PCCP must be implemented consistent with 21 CFR Part 820, including, but not limited to design controls (21 CFR 820.30), nonconforming products (21 CFR 820.90), and corrective and preventative action (21 CFR 820.100)."
+  },
+  {
+   "obligation_id": "US-FDA-PCCP-AI-DSF-2025:sec-V/p0/s14",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In each of these cases, the marketing submission for the modification must include the appropriate marketing submission requirements73 for the device."
+  },
+  {
+   "obligation_id": "US-FDA-PCCP-AI-DSF-2025:sec-V/p0/s15",
+   "paragraph": "0",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the manufacturer requests authorization for a modification to the authorized PCCP, the manufacturer must also submit the proposed, modified PCCP for the device.74 If the manufacturer requests authorization for the modified device, the manufacturer must also submit the proposed PCCP for the modified device.75 In both scenarios, the manufacturer must obtain FDA authorization for the device and proposed PCCP before implementing the PCCP.76 See Appendix B for example scenarios for implementing modifications to an AI-DSF with an authorized PCCP. 73 See, e.g., 21 CFR 807.87, 21 CFR 860.220, or 21 CFR 814.20."
+  },
+  {
+   "obligation_id": "US-FDA-PCCP-AI-DSF-2025:sec-V/p0/s16",
+   "paragraph": "0",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For a manufacturer who would like to modify their PCCP for a previously authorized device with a PCCP,79 the marketing submission must include the appropriate marketing submission requirements80 and the proposed, modified PCCP for the device.81 We recommend that manufacturers provide a summary of the changes to the authorized PCCP, and where practicable, a tracked changes version compared to the authorized PCCP."
+  },
+  {
+   "obligation_id": "US-FDA-PCCP-AI-DSF-2025:sec-V/p0/s17",
+   "paragraph": "0",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Additionally, if the manufacturer would also like to modify their previously authorized PCCP, the marketing submission must include the appropriate marketing submission requirements88 and the proposed, modified PCCP for the device (see Section V.E. of this guidance).89 For devices subject to 510(k) requirements, a manufacturer must compare their subject device to the version of the predicate device cleared or approved prior to changes made under the PCCP.90 However, once a 510(k) for a device that includes modifications that have been implemented consistent with the authorized PCCP has been cleared in a subsequent marketing submission, such device can now serve as an eligible predicate devic"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-FDA-PCCP-AI-DSF-2025:sec-V",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

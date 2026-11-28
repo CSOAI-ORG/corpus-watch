@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-UT-SB150-healthpractice-AI-2026:Section-3",
+ "label": "US-UT-SB150-healthpractice-AI-2026 Section 3",
+ "instrument": "US-UT-SB150-healthpractice-AI-2026",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "fb5b243dd84a6854bd9642b967dc75d00a4271c585bd0c5b427ced6d403095de",
+ "sha256_v1": "",
+ "sha256_v2": "fb5b243dd84a6854bd9642b967dc75d00a4271c585bd0c5b427ced6d403095de",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "fb5b243dd84a6854bd9642b967dc75d00a4271c585bd0c5b427ced6d403095de",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-UT-SB150-healthpractice-AI-2026:Section-3/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-UT-SB150-healthpractice-AI-2026:Section-3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

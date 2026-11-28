@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-gpsr-2023:4",
+ "label": "EU-gpsr-2023 Article 4",
+ "instrument": "EU-gpsr-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6c772ea78d4d8c3fc7155e99671de893c07f7d20c06ef0cd802069eaf876a8fd",
+ "sha256_v1": "",
+ "sha256_v2": "6c772ea78d4d8c3fc7155e99671de893c07f7d20c06ef0cd802069eaf876a8fd",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "6c772ea78d4d8c3fc7155e99671de893c07f7d20c06ef0cd802069eaf876a8fd",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-gpsr-2023:4/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An offer for sale shall be considered to be targeted at consumers in the Union if the relevant economic operator directs, by any means, its activities to one or more Member States."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-gpsr-2023:4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

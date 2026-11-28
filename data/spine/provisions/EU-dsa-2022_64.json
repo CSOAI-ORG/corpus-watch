@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:64",
+ "label": "EU-dsa-2022 Article 64",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "289a24feea74469346b63eac128c9a24a47f6ff289e78c8cd4168c54a4c867c7",
+ "sha256_v1": "",
+ "sha256_v2": "289a24feea74469346b63eac128c9a24a47f6ff289e78c8cd4168c54a4c867c7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "289a24feea74469346b63eac128c9a24a47f6ff289e78c8cd4168c54a4c867c7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:64/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission, in cooperation with the Digital Services Coordinators and the Board, shall develop Union expertise and capabilities, including, where appropriate, through the secondment of Member States’ personnel."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:64/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In addition, the Commission, in cooperation with the Digital Services Coordinators and the Board, shall coordinate the assessment of systemic and emerging issues across the Union in relation to very large online platforms or very large online search engines with regard to matters covered by this Regulation."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:64/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "cooperate",
+   "status": "DRAFT",
+   "text": "Member States shall cooperate with the Commission, in particular through their respective Digital Services Coordinators and other competent authorities, where applicable, including by making available their expertise and capabilities."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:64",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

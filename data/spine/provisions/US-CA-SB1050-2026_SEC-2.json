@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB1050-2026:SEC-2",
+ "label": "US-CA-SB1050-2026 SEC. 2.",
+ "instrument": "US-CA-SB1050-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "dba873c67a482b166c0a850afe2b4efaa9d68b28a855e6db4fa42e0b9fe4bf52",
+ "sha256_v1": "",
+ "sha256_v2": "dba873c67a482b166c0a850afe2b4efaa9d68b28a855e6db4fa42e0b9fe4bf52",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "dba873c67a482b166c0a850afe2b4efaa9d68b28a855e6db4fa42e0b9fe4bf52",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB1050-2026:SEC-2/p10/s2",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e)(1)An advertising medium shall not transmit, distribute, display, air, or otherwise make available an advertisement containing a synthetic performer if both of the following conditions are met:"
+  },
+  {
+   "obligation_id": "US-CA-SB1050-2026:SEC-2/p10/s3",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)Upon receipt of an order described in subparagraph (A) of paragraph (1), the advertising medium shall, as soon as commercially reasonable and technically feasible, do both of the following:"
+  },
+  {
+   "obligation_id": "US-CA-SB1050-2026:SEC-2/p10/s4",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If any provision or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB1050-2026:SEC-2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

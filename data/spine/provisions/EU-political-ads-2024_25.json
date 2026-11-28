@@ -1,0 +1,116 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-political-ads-2024:25",
+ "label": "EU-political-ads-2024 Article 25",
+ "instrument": "EU-political-ads-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "f7278a86ca9e274ae7e98c2d70133ee54f9919ef278f3dd52006b8e3fef9f1c8",
+ "sha256_v1": "",
+ "sha256_v2": "f7278a86ca9e274ae7e98c2d70133ee54f9919ef278f3dd52006b8e3fef9f1c8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "f7278a86ca9e274ae7e98c2d70133ee54f9919ef278f3dd52006b8e3fef9f1c8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-political-ads-2024:25/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall lay down rules on sanctions or other measures as needed applicable to sponsors or providers of political advertising services for infringements of Articles 5 to 17, 20 and 21 and shall take all measures necessary to ensure that they are implemented in a timely manner."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:25/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The sanctions provided for shall be effective, proportionate and dissuasive."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:25/p1/s3",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In setting out the rules on sanctions, Member States shall take into account the rules governing the freedom of the press and freedom of expression in other media and the rules or codes governing the journalist profession."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:25/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The maximum amount of the financial penalties that may be imposed shall be based on the economic capacity of the entity subject to sanctions, which shall be:"
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:25/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall, by 10 January 2026, notify the Commission of those rules and of those measures and shall notify it, without delay, of any subsequent amendments affecting them."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:25/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When deciding on the type of sanction and its level, due regard shall be given in each individual case, among others, to the following:"
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:25/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Infringements of Articles 5, 7, 11, 12, 13, 15, 16 and 18 shall be considered to be particularly serious where they concern political advertising published or disseminated during the last month preceding an election or referendum and are directed to citizens in the Member State in which the relevant election or referendum is being organised."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:25/p8/s1",
+   "paragraph": "8",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall report annually to the Commission on the sanctions imposed to enforce the provisions of this Regulation, in particular on the type of sanctions applied and the amount of the fines and financial penalties."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:25/p8/s2",
+   "paragraph": "8",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall take into account this information when drawing up the report required under Article 27."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-political-ads-2024:25",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

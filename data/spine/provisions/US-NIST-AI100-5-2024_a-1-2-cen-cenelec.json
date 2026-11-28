@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-NIST-AI100-5-2024:a-1-2-cen-cenelec",
+ "label": "US-NIST-AI100-5-2024 a-1-2-cen-cenelec",
+ "instrument": "US-NIST-AI100-5-2024",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "f66ae22030932cf308dc109cc71ef79f94b58b8ce3dee4d16d03bf6f94359281",
+ "sha256_v1": "",
+ "sha256_v2": "f66ae22030932cf308dc109cc71ef79f94b58b8ce3dee4d16d03bf6f94359281",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 1,
+ "sha256_current": "f66ae22030932cf308dc109cc71ef79f94b58b8ce3dee4d16d03bf6f94359281",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-NIST-AI100-5-2024:a-1-2-cen-cenelec/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-NIST-AI100-5-2024:a-1-2-cen-cenelec",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

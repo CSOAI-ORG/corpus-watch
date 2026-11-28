@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s76",
+ "label": "AU-privacy-act-1988 Section 76",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d7ce716356d74d4a56268d119f21e74456b53cb9e9ff07a9e441ef5158ffefea",
+ "sha256_v1": "",
+ "sha256_v2": "d7ce716356d74d4a56268d119f21e74456b53cb9e9ff07a9e441ef5158ffefea",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "d7ce716356d74d4a56268d119f21e74456b53cb9e9ff07a9e441ef5158ffefea",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s76/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "76  Conference\n(1)\tIf an agency, organisation or person notifies the Commissioner, within the period specified in an invitation sent to the agency, organisation or person, that the agency, organisation or person wishes a conference to be held about the draft determination, the Commissioner shall hold such a conference."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s76/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\tThe Commissioner shall fix a day, time and place for the holding of the conference."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s76/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\tThe day fixed shall not be more than 30 days after the latest day on which a period specified in any of the invitations sent in relation to the draft determination expires."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s76/p0/s4",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(4)\tThe Commissioner shall give notice of the day, time and place of the conference to the agency or organisation and to each person to whom an invitation was sent."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s76",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

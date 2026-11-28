@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s124B",
+ "label": "GB-dpa-2018 Section 124B",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "2530aaf733f4a2fdd3875e5c7359a1b7b7ece482b53b1e15652a0686025bff61",
+ "sha256_v1": "",
+ "sha256_v2": "2530aaf733f4a2fdd3875e5c7359a1b7b7ece482b53b1e15652a0686025bff61",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "2530aaf733f4a2fdd3875e5c7359a1b7b7ece482b53b1e15652a0686025bff61",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s124B/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\nThe Commission must establish a panel of individuals to consider the code."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s124B/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nThe panel must consist of—\n(a)\nindividuals the Commission considers have expertise in the subject matter of the code, and\n(b)\nindividuals the Commission considers—\n(i)\nare likely to be affected by the code, or\n(ii)\nrepresent persons likely to be affected by the code."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s124B/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(4)\nBefore the panel begins to consider the code, the Commission must—\n(a)\npublish the code in draft, and\n(b)\npublish a statement that—\n(i)\nstates that a panel has been established to consider the code,\n(ii)\nidentifies the members of the panel,\n(iii)\nexplains the process by which they were selected, and\n(iv)\nexplains the reasons for their selection."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s124B/p0/s4",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(6)\nWhere the Commission selects an individual to be a member of the panel under subsection (5), the Commission must publish a statement that—\n(a)\nidentifies the member of the panel,\n(b)\nexplains the process by which the member was selected, and\n(c)\nexplains the reasons for the member’s selection."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s124B/p0/s5",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(7)\nThe Commission must make arrangements—\n(a)\nfor the members of the panel to consider the code with one another (whether in person or otherwise), and\n(b)\nfor the panel to prepare and submit to the Commission a report on the code within such reasonable period as is determined by the Commission."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s124B/p0/s6",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(8)\nIf the panel submits to the Commission a report on the code within the period determined by the Commission, the Commission must as soon as reasonably practicable—\n(a)\nmake any alterations to the code that the Commission considers appropriate in the light of the report, and\n(b)\npublish—\n(i)\nthe code in draft,\n(ii)\nthe report or a summary of it, and\n(iii)\nin a case where a recommendation in the report to alter the code has not been accepted by the Commission, an explanation of why it has not been accepted."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s124B",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

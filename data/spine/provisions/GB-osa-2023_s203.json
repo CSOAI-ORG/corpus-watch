@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s203",
+ "label": "GB-osa-2023 Section 203",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d468dd29bdf96daccb75e0f34cfc3cf2faaefd77ea9c8ae5fd0310098bedbf9d",
+ "sha256_v1": "",
+ "sha256_v2": "d468dd29bdf96daccb75e0f34cfc3cf2faaefd77ea9c8ae5fd0310098bedbf9d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d468dd29bdf96daccb75e0f34cfc3cf2faaefd77ea9c8ae5fd0310098bedbf9d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s203/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nProceedings for an offence alleged to have been committed by a relevant entity must be brought against the entity in its own name (and not in that of any of its officers or members)."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s203/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nA fine imposed on a relevant entity on its conviction of an offence must be paid out of the entity’s funds."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s203",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

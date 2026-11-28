@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-29CFR1607-UGESP-1978:1607.17",
+ "label": "US-29CFR1607-UGESP-1978 29 CFR 1607.17",
+ "instrument": "US-29CFR1607-UGESP-1978",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e512e2569809cc5dbc8532add9b7b0e1137ab98bb1b85d636ebc75c270c3bbad",
+ "sha256_v1": "",
+ "sha256_v2": "e512e2569809cc5dbc8532add9b7b0e1137ab98bb1b85d636ebc75c270c3bbad",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "e512e2569809cc5dbc8532add9b7b0e1137ab98bb1b85d636ebc75c270c3bbad",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-29CFR1607-UGESP-1978:1607.17/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the public sector of our society this means that all persons, regardless of race, color, religion, sex, or national origin shall have equal access to positions in the public service limited only by their ability to do the job."
+  },
+  {
+   "obligation_id": "US-29CFR1607-UGESP-1978:1607.17/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Moreover, while the Council believes that this statement should serve to assist State and local employers, as well as Federal agencies, it recognizes that affirmative action cannot be viewed as a standardized program which must be accomplished in the same way at all times in all places."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-29CFR1607-UGESP-1978:1607.17",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:45",
+ "label": "EU-eudpr-2018 Article 45",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "12d91029a97e64087a8230d7e63ca294df594eb2de64549714c4fd8ae383eb6a",
+ "sha256_v1": "",
+ "sha256_v2": "12d91029a97e64087a8230d7e63ca294df594eb2de64549714c4fd8ae383eb6a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "12d91029a97e64087a8230d7e63ca294df594eb2de64549714c4fd8ae383eb6a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:45/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The data protection officer shall have the following tasks:"
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:45/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Further implementing rules concerning the data protection officer shall be adopted by each Union institution or body."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:45/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The implementing rules shall in particular concern the tasks, duties and powers of the data protection officer."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:45",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,126 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-gpsr-2023:33",
+ "label": "EU-gpsr-2023 Article 33",
+ "instrument": "EU-gpsr-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "33da9712430bcfcfaa464df40f247fa2a59f72fd81d6d5f4c0f238a522fc8781",
+ "sha256_v1": "",
+ "sha256_v2": "33da9712430bcfcfaa464df40f247fa2a59f72fd81d6d5f4c0f238a522fc8781",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "33da9712430bcfcfaa464df40f247fa2a59f72fd81d6d5f4c0f238a522fc8781",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-gpsr-2023:33/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Information available to the authorities of the Member States or to the Commission relating to measures on products presenting risks to the health and safety of consumers shall in general be made available to the public, in accordance with the requirements of transparency and without prejudice to the restrictions required for monitoring and investigation activities."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:33/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In particular, the public shall have access to information on product identification, the nature of the risk and the measures taken."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:33/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That information shall also be provided in accessible formats for persons with disabilities."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:33/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States and the Commission shall take the necessary steps to ensure that their officials and agents are required to protect information obtained for the purposes of this Regulation."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:33/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That information shall be treated as confidential in accordance with Union and national law."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:33/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Protection of professional secrecy shall not prevent the dissemination to the competent authorities of Member States and to the Commission of information relevant for ensuring the effectiveness of market monitoring and surveillance activities."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:33/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "The authorities receiving information covered by professional secrecy shall ensure its protection in accordance with Union and national law."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:33/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall give consumers and other interested parties the opportunity to submit complaints to the competent authorities on product safety, on surveillance and control activities related to specific products as well as on instances where remedies offered to consumers in the case of product recalls are not satisfactory."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:33/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such complaints shall be followed up appropriately."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:33/p4/s3",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authorities shall provide the complainant with appropriate information on the follow-up, in accordance with national law."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-gpsr-2023:33",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

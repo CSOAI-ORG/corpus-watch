@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-cybersecurity-law-2016:24",
+ "label": "CN-cybersecurity-law-2016 第二十四条",
+ "instrument": "CN-cybersecurity-law-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "dbb2c7f453f9b6914187f25f1884b49441b98c5922e3460b3b1964f4bd38c7e1",
+ "sha256_v1": "",
+ "sha256_v2": "dbb2c7f453f9b6914187f25f1884b49441b98c5922e3460b3b1964f4bd38c7e1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "dbb2c7f453f9b6914187f25f1884b49441b98c5922e3460b3b1964f4bd38c7e1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-cybersecurity-law-2016:24/s1",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "第二十四条　网络产品、服务应当符合相关国家标准的强制性要求。"
+  },
+  {
+   "obligation_id": "CN-cybersecurity-law-2016:24/s2",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "网络产品、服务的提供者不得设置恶意程序；"
+  },
+  {
+   "obligation_id": "CN-cybersecurity-law-2016:24/s3",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "zh:public-trace",
+   "status": "DRAFT",
+   "text": "发现其网络产品、服务存在安全缺陷、漏洞等风险时，应当立即采取补救措施，按照规定及时告知用户并向有关主管部门报告。"
+  },
+  {
+   "obligation_id": "CN-cybersecurity-law-2016:24/s4",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "网络产品、服务的提供者应当为其产品、服务持续提供安全维护；"
+  },
+  {
+   "obligation_id": "CN-cybersecurity-law-2016:24/s5",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "在规定或者当事人约定的期限内，不得终止提供安全维护。"
+  },
+  {
+   "obligation_id": "CN-cybersecurity-law-2016:24/s6",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "zh:public-trace",
+   "status": "DRAFT",
+   "text": "网络产品、服务具有收集用户信息功能的，其提供者应当向用户明示并取得同意；"
+  },
+  {
+   "obligation_id": "CN-cybersecurity-law-2016:24/s7",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "涉及用户个人信息的，还应当遵守本法和有关法律、行政法规关于个人信息保护的规定。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-cybersecurity-law-2016:24",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

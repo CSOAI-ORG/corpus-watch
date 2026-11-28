@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s146",
+ "label": "GB-osa-2023 Section 146",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6bd230dd4ac4a05e0fc7e247d2b3e68736b4561c89a4c583ddea453431555aab",
+ "sha256_v1": "",
+ "sha256_v2": "6bd230dd4ac4a05e0fc7e247d2b3e68736b4561c89a4c583ddea453431555aab",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "6bd230dd4ac4a05e0fc7e247d2b3e68736b4561c89a4c583ddea453431555aab",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s146/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nAn application by OFCOM for an access restriction order must—\n(a)\nspecify the regulated service in relation to which the application is made (“the relevant service”),\n(b)\nspecify the provider of that service (“the non-compliant provider”),\n(c)\nspecify the grounds on which the application is based, and contain evidence about those grounds,\n(d)\nspecify the persons on whom (in OFCOM’s opinion) the requirements of the order should be imposed,\n(e)\ncontain evidence as to why OFCOM consider that the persons mentioned in paragraph (d) provide an access facility in relation to the relevant service, and specify any such access facility provided,\n(f)\nspecify the requirements which OFCOM consider th"
+  },
+  {
+   "obligation_id": "GB-osa-2023:s146/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nWhen considering whether to make an access restriction order in relation to the relevant service, and when considering what provision it should contain, the court must take into account (among other things) the rights and obligations of all relevant parties, including those of—\n(a)\nthe non-compliant provider,\n(b)\nthe person or persons on whom the court is considering imposing the requirements, and\n(c)\nUnited Kingdom users of the relevant service."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s146/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\nAn access restriction order made in relation to the relevant service must—\n(a)\nidentify the non-compliant provider,\n(b)\nidentify the persons on whom the requirements are imposed, and any access facility to which the requirements relate,\n(c)\nrequire such persons to take the steps specified in the order, or to put in place arrangements, to withdraw, adapt or manipulate the access facility in order to impede users’ access (by means of that facility) to the relevant service (or to part of it),\n(d)\nspecify the date by which the requirements in the order must be complied with, and\n(e)\nspecify the date on which the order expires, or the period for which the order has effect."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s146/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(8)\nOFCOM must inform the Secretary of State as soon as reasonably practicable after an access restriction order has been made."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s146/p0/s5",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(9)\nWhere a person who provides an access facility takes steps or puts in place arrangements required by an access restriction order, OFCOM may, by notice, require that person to (where possible) notify persons in the United Kingdom who attempt to access the relevant service via that facility of the access restriction order (and where a confirmation decision has been given to the non-compliant provider, the notification must refer to that decision)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s146",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

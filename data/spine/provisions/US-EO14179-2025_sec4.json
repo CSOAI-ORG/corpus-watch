@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14179-2025:sec4",
+ "label": "US-EO14179-2025 Section 4",
+ "instrument": "US-EO14179-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b565420e075e0a86a09ab339b154951535134bb0a6d3cf39b798fd1ce93f9fdb",
+ "sha256_v1": "",
+ "sha256_v2": "b565420e075e0a86a09ab339b154951535134bb0a6d3cf39b798fd1ce93f9fdb",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "b565420e075e0a86a09ab339b154951535134bb0a6d3cf39b798fd1ce93f9fdb",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14179-2025:sec4/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) Within 180 days of this order, the Assistant to the President for Science and Technology (APST), the Special Advisor for AI and Crypto, and the Assistant to the President for National Security Affairs (APNSA), in coordination with the Assistant to the President for Economic Policy, the Assistant to the President for Domestic Policy, the Director of the Office of Management and Budget (OMB Director), and the heads of such executive departments and agencies (agencies) as the APST and APNSA deem relevant, shall develop and submit to the President an action plan to achieve the policy set forth in section 2 of this order."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14179-2025:sec4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-AIActionPlan-2025:PII-04",
+ "label": "US-AIActionPlan-2025 Build High-Security Data Centers for Military and Intelligence Community Usage",
+ "instrument": "US-AIActionPlan-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b047629c20f643cee5b278c816542d677f618a575d35ad085679ac3381a932fe",
+ "sha256_v1": "",
+ "sha256_v2": "b047629c20f643cee5b278c816542d677f618a575d35ad085679ac3381a932fe",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "b047629c20f643cee5b278c816542d677f618a575d35ad085679ac3381a932fe",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-AIActionPlan-2025:PII-04/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The data centers where these models are deployed must be resistant to attacks by the most determined and capable nation-state actors."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-AIActionPlan-2025:PII-04",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

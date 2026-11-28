@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:98",
+ "label": "EU AI Act Art. 98",
+ "instrument": "EU AI Act",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "d257e2f8d17793d86754c9fdae6cba4777f01894855f13303cebf980e39156b7",
+ "sha256_v1": "d257e2f8d17793d86754c9fdae6cba4777f01894855f13303cebf980e39156b7",
+ "sha256_v2": "c4a35f20347b435a69fa6123e4c64bddd1159e05b808d490b28ef3fe4408c114",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "c4a35f20347b435a69fa6123e4c64bddd1159e05b808d490b28ef3fe4408c114",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:98/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 98 committee procedure",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:98",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

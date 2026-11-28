@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:39",
+ "label": "EU-ccd2-2023 Article 39",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "1a4b58c49b9139567f038de72405660694eca54120887528657e958c3bd5c4f9",
+ "sha256_v1": "",
+ "sha256_v2": "1a4b58c49b9139567f038de72405660694eca54120887528657e958c3bd5c4f9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "1a4b58c49b9139567f038de72405660694eca54120887528657e958c3bd5c4f9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:39/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that the consumer, in the event of assignment to a third party of the creditor’s rights under a credit agreement or of the credit agreement itself, is entitled to plead against the assignee any defence which was available to him or her against the original creditor, including set-off where such defence is permitted in the Member State concerned."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:39/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall require that the original creditor inform the consumer of the assignment referred to in paragraph 1, except where the original creditor, by agreement with the assignee, continues to service the credit vis-à-vis the consumer."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:39",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

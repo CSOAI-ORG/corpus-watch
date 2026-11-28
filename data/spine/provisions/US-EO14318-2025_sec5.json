@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14318-2025:sec5",
+ "label": "US-EO14318-2025 Section 5",
+ "instrument": "US-EO14318-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e70600bdf9801422cf4fef659ea3bb8cab2efaf41aeeb677bc3b3c9d9129f030",
+ "sha256_v1": "",
+ "sha256_v2": "e70600bdf9801422cf4fef659ea3bb8cab2efaf41aeeb677bc3b3c9d9129f030",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "e70600bdf9801422cf4fef659ea3bb8cab2efaf41aeeb677bc3b3c9d9129f030",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14318-2025:sec5/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) Within 10 days of the date of this order, each relevant agency shall identify to the Council on Environmental Quality any categorical exclusions already established or adopted by such agency pursuant to the National Environmental Policy Act (NEPA), reliance on and adoption of which by agencies (pursuant to 42 U.S.C. 4336 and 4336c) could facilitate the construction of Qualifying Projects."
+  },
+  {
+   "obligation_id": "US-EO14318-2025:sec5/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) The Council on Environmental Quality shall coordinate with relevant agencies on the establishment of new categorical exclusions to cover actions related to Qualifying Projects that normally do not have a significant effect on the human environment."
+  },
+  {
+   "obligation_id": "US-EO14318-2025:sec5/p5/s3",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Agencies shall, for purposes of establishing these categorical exclusions, rely on any sufficient basis to do so as each such agency determines."
+  },
+  {
+   "obligation_id": "US-EO14318-2025:sec5/p5/s4",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) Consistent with 42 U.S.C. 4336e(10)(B)(iii), loans, loan guarantees, grants, tax incentives, or other forms of Federal financial assistance for which an agency lacks substantial project-specific control and responsibility over the subsequent use of such financial assistance shall not be considered a ``major Federal action'' under NEPA."
+  },
+  {
+   "obligation_id": "US-EO14318-2025:sec5/p5/s5",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For purposes of this order, Federal financial assistance representing less than 50 percent of total project costs shall be presumed not to constitute substantial Federal control and responsibility."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14318-2025:sec5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

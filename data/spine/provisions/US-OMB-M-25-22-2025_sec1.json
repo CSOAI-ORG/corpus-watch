@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-OMB-M-25-22-2025:sec1",
+ "label": "US-OMB-M-25-22-2025 Section 1",
+ "instrument": "US-OMB-M-25-22-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "51629187355435b68d67674385958b97d8812c76fa1ecc228d78036e6e60b3bd",
+ "sha256_v1": "",
+ "sha256_v2": "51629187355435b68d67674385958b97d8812c76fa1ecc228d78036e6e60b3bd",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "51629187355435b68d67674385958b97d8812c76fa1ecc228d78036e6e60b3bd",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In carrying out this direction, agencies must procure effective and trustworthy AI capabilities in a timely and cost-effective manner."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec1/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "As agencies seek to accelerate the adoption of AI-enabled services, they must pay careful attention to vendor sourcing, data portability, and long-term interoperability4 to avoid significant and costly dependencies on a single vendor."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec1/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "January 31, 2025. https:// www.federalregister.gov/documents/2025/0 I /3 l /2025-02172/removing-barriers-to-american-leadership-in­ arti ficial-intelligence. 4 The term \"interoperability\" generally refers to the ability of two or more systems, products, or components to exchange information and use the information that has been exchanged, including to operate effectively together. government must communicate clear and specific requirements that make it easy for vendors to offer state-of-the-art AI capabilities to support efficient and effective public services."
+  },
+  {
+   "obligation_id": "US-OMB-M-25-22-2025:sec1/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "To achieve this promise, agencies must ensure that the AI systems they procure are fit for purpose and deliver consistent results that preserve public trust in the manner outlined in Executive Order 13960.5 Promoting Effective AI Acquisition with Cross-Functional Engagement."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-OMB-M-25-22-2025:sec1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s155",
+ "label": "GB-dpa-2018 Section 155",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "34882604630f68a916591bb246c21d39981a3821b4c3797ed295693b130c9bc1",
+ "sha256_v1": "",
+ "sha256_v2": "34882604630f68a916591bb246c21d39981a3821b4c3797ed295693b130c9bc1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "34882604630f68a916591bb246c21d39981a3821b4c3797ed295693b130c9bc1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s155/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\nSubject to subsection (4), when deciding whether to give a penalty notice to a person and determining the amount of the penalty, the Commission must have regard to the following, so far as relevant—\n(a)\nto the extent that the notice concerns a matter to which the UK GDPR applies, the matters listed in Article 83(1) and (2) of the UK GDPR;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s155",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

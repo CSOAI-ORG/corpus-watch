@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:annex-VIII",
+ "label": "EU-ivdr-2017 Annex VIII",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7de5418918b0fdf1d2cf177af0afa001edb45681837480d76599a6c38966d3b4",
+ "sha256_v1": "",
+ "sha256_v2": "7de5418918b0fdf1d2cf177af0afa001edb45681837480d76599a6c38966d3b4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": null,
+ "sha256_current": "7de5418918b0fdf1d2cf177af0afa001edb45681837480d76599a6c38966d3b4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VIII/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Application of the classification rules shall be governed by the intended purpose of the devices. 1.2."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VIII/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Accessories for an in vitro diagnostic medical device shall be classified in their own right separately from the device with which they are used. 1.4."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VIII/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Software, which drives a device or influences the use of a device, shall fall within the same class as the device."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VIII/p1/s5",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the software is independent of any other device, it shall be classified in its own right. 1.5."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VIII/p1/s6",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Calibrators intended to be used with a device shall be classified in the same class as the device. 1.6."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VIII/p1/s7",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Control materials with quantitative or qualitative assigned values intended for one specific analyte or multiple analytes shall be classified in the same class as the device. 1.7."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VIII/p1/s8",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The manufacturer shall take into consideration all classification and implementation rules in order to establish the proper classification for the device. 1.8."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:annex-VIII/p1/s9",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where a manufacturer states multiple intended purposes for a device, and as a result the device falls into more than one class, it shall be classified in the higher class. 1.9."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:annex-VIII",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

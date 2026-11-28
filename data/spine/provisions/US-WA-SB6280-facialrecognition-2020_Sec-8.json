@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-WA-SB6280-facialrecognition-2020:Sec-8",
+ "label": "US-WA-SB6280-facialrecognition-2020 Sec. 8",
+ "instrument": "US-WA-SB6280-facialrecognition-2020",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "85f0351d8976eba83b2880ae8dc2194a069a502a97d0280e30c8bf138499830b",
+ "sha256_v1": "",
+ "sha256_v2": "85f0351d8976eba83b2880ae8dc2194a069a502a97d0280e30c8bf138499830b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "85f0351d8976eba83b2880ae8dc2194a069a502a97d0280e30c8bf138499830b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-WA-SB6280-facialrecognition-2020:Sec-8/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1) A state or local government agency must disclose their use of a facial recognition service on a criminal defendant to that defendant in a timely manner prior to trial."
+  },
+  {
+   "obligation_id": "US-WA-SB6280-facialrecognition-2020:Sec-8/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "(2) A state or local government agency using a facial recognition service shall maintain records of its use of the service that are sufficient to facilitate public reporting and auditing of compliance with the agency's facial recognition policies."
+  },
+  {
+   "obligation_id": "US-WA-SB6280-facialrecognition-2020:Sec-8/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3) In January of each year, any judge who has issued a warrant for the use of a facial recognition service to engage in any surveillance, or an extension thereof, as described in section 11 of this act, that expired during the preceding year, or who has denied approval of such a warrant during that year shall report to the administrator for the courts:"
+  },
+  {
+   "obligation_id": "US-WA-SB6280-facialrecognition-2020:Sec-8/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4) In January of each year, any state or local government agency that has applied for a warrant, or an extension thereof, for the use of a facial recognition service to engage in any surveillance as described in section 11 of this act shall provide to a legislative authority a report summarizing nonidentifying demographic data of individuals named in warrant applications as subjects of surveillance with the use of a facial recognition service."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-WA-SB6280-facialrecognition-2020:Sec-8",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

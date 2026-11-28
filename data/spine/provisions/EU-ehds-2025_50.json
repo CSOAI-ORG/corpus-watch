@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:50",
+ "label": "EU-ehds-2025 Article 50",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b44ed0086fa11286eaa1f6fb8058f68cad27e0a91245be517254a5e8bdf463a9",
+ "sha256_v1": "",
+ "sha256_v2": "b44ed0086fa11286eaa1f6fb8058f68cad27e0a91245be517254a5e8bdf463a9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "b44ed0086fa11286eaa1f6fb8058f68cad27e0a91245be517254a5e8bdf463a9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:50/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The following categories of health data holders shall be exempt from the obligations on health data holders laid down in this Chapter:"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:50/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In that case, the data shall nevertheless be considered as being made available by several health data holders."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:50/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall notify to the Commission the national law referred to in paragraphs 2 and 3 by 26 March 2029."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:50/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any subsequent law or amendment affecting such law shall be notified to the Commission without delay."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:50",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

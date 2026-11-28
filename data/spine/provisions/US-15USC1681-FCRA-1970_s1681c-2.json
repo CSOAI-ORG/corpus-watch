@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-15USC1681-FCRA-1970:s1681c-2",
+ "label": "US-15USC1681-FCRA-1970 15 U.S.C. 1681c-2",
+ "instrument": "US-15USC1681-FCRA-1970",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "4ce42ff2dc37dd67f38ee463859c04b115dfe0b88153293f1257dc33e8f31288",
+ "sha256_v1": "",
+ "sha256_v2": "4ce42ff2dc37dd67f38ee463859c04b115dfe0b88153293f1257dc33e8f31288",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "4ce42ff2dc37dd67f38ee463859c04b115dfe0b88153293f1257dc33e8f31288",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-15USC1681-FCRA-1970:s1681c-2/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Block of information resulting from identity theft\n(a) Block\nExcept as otherwise provided in this section, a consumer reporting agency shall block the reporting of any information in the file of a consumer that the consumer identifies as information that resulted from an alleged identity theft, not later than 4 business days after the date of receipt by such agency of—\n(1) appropriate proof of the identity of the consumer;"
+  },
+  {
+   "obligation_id": "US-15USC1681-FCRA-1970:s1681c-2/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) Notification\nA consumer reporting agency shall promptly notify the furnisher of information identified by the consumer under subsection (a)—\n(1) that the information may be a result of identity theft;"
+  },
+  {
+   "obligation_id": "US-15USC1681-FCRA-1970:s1681c-2/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2) Notification to consumer\nIf a block of information is declined or rescinded under this subsection, the affected consumer shall be notified promptly, in the same manner as consumers are notified of the reinsertion of information under section 1681i(a)(5)(B) of this title."
+  },
+  {
+   "obligation_id": "US-15USC1681-FCRA-1970:s1681c-2/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2) Reseller with file\nThe sole obligation of the consumer reporting agency under this section, with regard to any request of a consumer under this section, shall be to block the consumer report maintained by the consumer reporting agency from any subsequent use, if—\n(A) the consumer, in accordance with the provisions of subsection (a), identifies, to a consumer reporting agency, information in the file of the consumer that resulted from identity theft; and\n(B) the consumer reporting agency is a reseller of the identified information."
+  },
+  {
+   "obligation_id": "US-15USC1681-FCRA-1970:s1681c-2/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3) Notice\nIn carrying out its obligation under paragraph (2), the reseller shall promptly provide a notice to the consumer of the decision to block the file."
+  },
+  {
+   "obligation_id": "US-15USC1681-FCRA-1970:s1681c-2/p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such notice shall contain the name, address, and telephone number of each consumer reporting agency from which the consumer information was obtained for resale."
+  },
+  {
+   "obligation_id": "US-15USC1681-FCRA-1970:s1681c-2/p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e) Exception for verification companies\nThe provisions of this section do not apply to a check services company, acting as such, which issues authorizations for the purpose of approving or processing negotiable instruments, electronic fund transfers, or similar methods of payments, except that, beginning 4 business days after receipt of information described in paragraphs (1) through (3) of subsection (a), a check services company shall not report to a national consumer reporting agency described in section 1681a(p) of this title, any information identified in the subject identity theft report as resulting from identity theft."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-15USC1681-FCRA-1970:s1681c-2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

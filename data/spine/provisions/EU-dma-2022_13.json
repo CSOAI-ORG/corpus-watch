@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:13",
+ "label": "EU-dma-2022 Article 13",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "3ec2e1940d53a7a7796894f6be139d36dcd1b1ace154413b9d1591fcb745a857",
+ "sha256_v1": "",
+ "sha256_v2": "3ec2e1940d53a7a7796894f6be139d36dcd1b1ace154413b9d1591fcb745a857",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "NOISE",
+ "change_edits": null,
+ "sha256_current": "3ec2e1940d53a7a7796894f6be139d36dcd1b1ace154413b9d1591fcb745a857",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:13/p1/s1",
+   "paragraph": "1",
+   "addressee": "undertaking",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An undertaking providing core platform services shall not segment, divide, subdivide, fragment or split those services through contractual, commercial, technical or any other means in order to circumvent the quantitative thresholds laid down in Article 3(2)."
+  },
+  {
+   "obligation_id": "EU-dma-2022:13/p1/s2",
+   "paragraph": "1",
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "No such practice of an undertaking shall prevent the Commission from designating it as a gatekeeper pursuant to Article 3(4)."
+  },
+  {
+   "obligation_id": "EU-dma-2022:13/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "The gatekeeper shall ensure that the obligations of Articles 5, 6 and 7 are fully and effectively complied with."
+  },
+  {
+   "obligation_id": "EU-dma-2022:13/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The gatekeeper shall not engage in any behaviour that undermines effective compliance with the obligations of Articles 5, 6 and 7 regardless of whether that behaviour is of a contractual, commercial or technical nature, or of any other nature, or consists in the use of behavioural techniques or interface design."
+  },
+  {
+   "obligation_id": "EU-dma-2022:13/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where consent for collecting, processing, cross-using and sharing of personal data is required to ensure compliance with this Regulation, a gatekeeper shall take the necessary steps either to enable business users to directly obtain the required consent to their processing, where that consent is required under Regulation (EU) 2016/679 or Directive 2002/58/EC, or to comply with Union data protection and privacy rules and principles in other ways, including by providing business users with duly anonymised data where appropriate."
+  },
+  {
+   "obligation_id": "EU-dma-2022:13/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The gatekeeper shall not make the obtaining of that consent by the business user more burdensome than for its own services."
+  },
+  {
+   "obligation_id": "EU-dma-2022:13/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The gatekeeper shall not degrade the conditions or quality of any of the core platform services provided to business users or end users who avail themselves of the rights or choices laid down in Articles 5, 6 and 7, or make the exercise of those rights or choices unduly difficult, including by offering choices to the end-user in a non-neutral manner, or by subverting end users’ or business users' autonomy, decision-making, or free choice via the structure, design, function or manner of operation of a user interface or a part thereof."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:13",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

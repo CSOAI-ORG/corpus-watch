@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s46",
+ "label": "GB-duaa-2025 Section 46",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f4621f7fc535bd34ddb01dc9d8af5a06df5d5caead9c0232d8d9d5d22d8bef13",
+ "sha256_v1": "",
+ "sha256_v2": "f4621f7fc535bd34ddb01dc9d8af5a06df5d5caead9c0232d8d9d5d22d8bef13",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f4621f7fc535bd34ddb01dc9d8af5a06df5d5caead9c0232d8d9d5d22d8bef13",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s46/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nThe person must not further disclose the information otherwise than for the purpose of providing digital verification services for the individual, except with the consent of the Commissioners for His Majesty’s Revenue and Customs."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s46/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nAny other person who receives the information, whether directly or indirectly from the person to whom the Revenue and Customs disclose the information, must not further disclose the information, except with the consent of the Commissioners for His Majesty’s Revenue and Customs."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s46",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

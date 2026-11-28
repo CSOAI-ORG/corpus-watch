@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-pld-2024:8",
+ "label": "EU-pld-2024 Article 8",
+ "instrument": "EU-pld-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "78ccad4947754aa346c63cfc037997404e767af7128ed36093dfd58f32a5fc29",
+ "sha256_v1": "",
+ "sha256_v2": "78ccad4947754aa346c63cfc037997404e767af7128ed36093dfd58f32a5fc29",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "78ccad4947754aa346c63cfc037997404e767af7128ed36093dfd58f32a5fc29",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-pld-2024:8/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that the following economic operators are liable for damage in accordance with this Directive:"
+  },
+  {
+   "obligation_id": "EU-pld-2024:8/p1/s2",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The liability of the manufacturer referred to in the first subparagraph, point (a), shall also cover any damage caused by a defective component where it was integrated into, or inter-connected with, a product within that manufacturer’s control."
+  },
+  {
+   "obligation_id": "EU-pld-2024:8/p2/s1",
+   "paragraph": "2",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any natural or legal person that substantially modifies a product outside the manufacturer’s control and thereafter makes it available on the market or puts it into service shall be considered to be a manufacturer of that product for the purposes of paragraph 1."
+  },
+  {
+   "obligation_id": "EU-pld-2024:8/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that, where an economic operator from among those referred to in paragraph 1 and established in the Union cannot be identified, each distributor of the defective product is liable where:"
+  },
+  {
+   "obligation_id": "EU-pld-2024:8/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Paragraph 3 of this Article shall also apply to any provider of an online platform that allows consumers to conclude distance contracts with traders and that is not an economic operator, provided that the conditions set out in Article 6(3) of Regulation (EU) 2022/2065 are fulfilled."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-pld-2024:8",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

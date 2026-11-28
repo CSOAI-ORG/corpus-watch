@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB2713-2026:SEC-1",
+ "label": "US-CA-AB2713-2026 SECTION 1.",
+ "instrument": "US-CA-AB2713-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "0d929afcd1d63696d14e8937349fba33b3272292ca2e2346d67b7ca1cebbd2a8",
+ "sha256_v1": "",
+ "sha256_v2": "0d929afcd1d63696d14e8937349fba33b3272292ca2e2346d67b7ca1cebbd2a8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "0d929afcd1d63696d14e8937349fba33b3272292ca2e2346d67b7ca1cebbd2a8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB2713-2026:SEC-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)A large online platform shall do all of the following:"
+  },
+  {
+   "obligation_id": "US-CA-AB2713-2026:SEC-1/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(B)The user interface required by this paragraph shall make clearly and conspicuously available to users information sufficient to identify the content’s authenticity, origin, or history of modification, including, but not limited to, all of the following:"
+  },
+  {
+   "obligation_id": "US-CA-AB2713-2026:SEC-1/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)A large online platform shall not, to the extent technically feasible, knowingly strip any system provenance data or digital signature from content uploaded to, distributed on, or downloaded from the large online platform."
+  },
+  {
+   "obligation_id": "US-CA-AB2713-2026:SEC-1/p1/s5",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e)This section shall become operative on January 1, 2027."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB2713-2026:SEC-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

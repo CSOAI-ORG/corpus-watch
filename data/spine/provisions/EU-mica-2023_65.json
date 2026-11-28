@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:65",
+ "label": "EU-mica-2023 Article 65",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "86e1fe778198f22128e664d43ff78cd9b5e969f4bc082c2fd11c106c886bd521",
+ "sha256_v1": "",
+ "sha256_v2": "86e1fe778198f22128e664d43ff78cd9b5e969f4bc082c2fd11c106c886bd521",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "86e1fe778198f22128e664d43ff78cd9b5e969f4bc082c2fd11c106c886bd521",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:65/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "A crypto-asset service provider that intends to provide crypto-asset services in more than one Member State shall submit the following information to the competent authority of the home Member State:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:65/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authority of the home Member State shall, within 10 working days of receipt of the information referred to in paragraph 1, communicate that information to the single points of contact of the host Member States, to ESMA and to EBA."
+  },
+  {
+   "obligation_id": "EU-mica-2023:65/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The competent authority of the Member State that granted authorisation shall inform the crypto-asset service provider concerned of the communication referred to in paragraph 2 without delay."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:65",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

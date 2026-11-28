@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-pipl-2021:36",
+ "label": "CN-pipl-2021 第三十六条",
+ "instrument": "CN-pipl-2021",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "b2bb1c959958bfda2231108073d80df98333b0ad95ad2ddb6888dcec18962285",
+ "sha256_v1": "",
+ "sha256_v2": "b2bb1c959958bfda2231108073d80df98333b0ad95ad2ddb6888dcec18962285",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "b2bb1c959958bfda2231108073d80df98333b0ad95ad2ddb6888dcec18962285",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-pipl-2021:36/s1",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "第三十六条　国家机关处理的个人信息应当在中华人民共和国境内存储；"
+  },
+  {
+   "obligation_id": "CN-pipl-2021:36/s2",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "zh:internal-record",
+   "status": "DRAFT",
+   "text": "确需向境外提供的，应当进行安全评估。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-pipl-2021:36",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

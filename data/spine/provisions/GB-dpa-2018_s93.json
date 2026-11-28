@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s93",
+ "label": "GB-dpa-2018 Section 93",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "f7b6611a112686f506bfa85ba9c134e5047fc9726b93fb723bd1c99f129a3ab9",
+ "sha256_v1": "",
+ "sha256_v2": "f7b6611a112686f506bfa85ba9c134e5047fc9726b93fb723bd1c99f129a3ab9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f7b6611a112686f506bfa85ba9c134e5047fc9726b93fb723bd1c99f129a3ab9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s93/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "contact-point",
+   "status": "DRAFT",
+   "text": "Right to information\n(1)\nThe controller must give a data subject the following information—\n(a)\nthe identity and the contact details of the controller;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s93",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

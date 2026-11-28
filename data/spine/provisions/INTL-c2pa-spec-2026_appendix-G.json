@@ -1,0 +1,166 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-c2pa-spec-2026:appendix-G",
+ "label": "INTL-c2pa-spec-2026 Appendix G",
+ "instrument": "INTL-c2pa-spec-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "2b2c738355ed503f60d6323d5024a772bf7c8a91a97ad0e7e24e2d1de43bd0ad",
+ "sha256_v1": "",
+ "sha256_v2": "2b2c738355ed503f60d6323d5024a772bf7c8a91a97ad0e7e24e2d1de43bd0ad",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "2b2c738355ed503f60d6323d5024a772bf7c8a91a97ad0e7e24e2d1de43bd0ad",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-G/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(optional) Length that a leafmost box must have to exclude from the hash.\n? \"length\": uint,\n;"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-G/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(optional) The data in the leafmost box at the specified relative byte\n; offset must be identical to the specified data for the box to be excluded\n; from the hash.\n? \"data\": [1* data-map],\n;"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-G/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each entry in the array must have a monotonically increasing relative byte\n; offset."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-G/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(optional) Version that must be set in a leafmost box for the box to be\n; excluded from the hash."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-G/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The 24-bit flags that must be set\n; in a leafmost box for the box to be excluded from the hash."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-G/p0/s6",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(optional) indicates that flags must be an exact match."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-G/p0/s7",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For fragmented MP4 assets that are split across multiple files, this field\n; is required to be present and is the hash of the entire initialization\n; segment file for chunks hashed by this Merkle tree excluding boxes listed in\n; the exclusions array."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-G/p0/s8",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For fragmented MP4 assets that are stored as a single\n; flat MP4 file, this field is required to be present and is the hash of all\n; bytes preceding the first 'moof' box excluding boxes listed in the\n; exclusions array."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-G/p0/s9",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For non-fragmented MP4, this field is required to be\n; absent.\n? \"initHash\": bstr,\n;"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-G/p0/s10",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Consumers shall treat the key-value\n; pairs in templateParameters as if they were in the parameters field, merging\n; them into matching actions using the same precedence rules.\n? \"templateParameters\": { parameters-common-map-v2 }\n}\nparameters-common-map-v2 = (\n* tstr => any\n)\nparameters-map-v2 = {\n;"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-G/p0/s11",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If present, apps must update this property\n; when scaling, cropping or rotating the color image."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-G/p0/s12",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If present, apps must update this\n; property when scaling, cropping or rotating the color image."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-G/p0/s13",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Claim generators shall not include this field.\n? \"dataSource\": source-map,\n; localizations for strings in the assertion\n? \"localizations\" : [1* $localization-data-entry]\n; describes a region of the asset where this assertion is relevant\n? \"regionOfInterest\" : region-map\n;"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-G/p0/s14",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "C2PA c2pa.hash.bmff.v3\n\"manifestId\" => tstr, ; shall be as described in <<manifest-identifier>>\n; optional hashed-ext-uri-map to where manifest can be retrieved\n? \"manifestUri\" => $hashed-ext-uri-map\n}\nG.8.3."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-c2pa-spec-2026:appendix-G",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

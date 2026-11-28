@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:85",
+ "label": "EU-ehds-2025 Article 85",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "0071843ac278d42730f8645e2187a7f632042248d0ecb0e173981f426cf31e2a",
+ "sha256_v1": "",
+ "sha256_v2": "0071843ac278d42730f8645e2187a7f632042248d0ecb0e173981f426cf31e2a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "0071843ac278d42730f8645e2187a7f632042248d0ecb0e173981f426cf31e2a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:85/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Contracting authorities, including digital health authorities and health data access bodies and Union institutions, bodies, offices or agencies, shall make reference to the applicable technical specifications, standards and profiles as referred to in Articles 15, 23, 36, 73, 75 and 78 for public procurement procedures and when formulating their tender documents or calls for proposals, as well as when defining the conditions for Union funding regarding this Regulation, including enabling conditions for the structural and cohesion funds."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:85/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The criteria for obtaining funding from the Union shall take into account the requirements developed in the framework of Chapters II, III and IV."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:85",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

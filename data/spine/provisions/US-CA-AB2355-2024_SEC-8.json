@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB2355-2024:SEC-8",
+ "label": "US-CA-AB2355-2024 SEC. 8.",
+ "instrument": "US-CA-AB2355-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "2e20e715a2ea937dbd56973c3ce72e1f56c00332af619e971a3ab3ee8773d08a",
+ "sha256_v1": "",
+ "sha256_v2": "2e20e715a2ea937dbd56973c3ce72e1f56c00332af619e971a3ab3ee8773d08a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "2e20e715a2ea937dbd56973c3ce72e1f56c00332af619e971a3ab3ee8773d08a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB2355-2024:SEC-8/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(a)(1)If a committee, as defined in Section 82013, creates, originally publishes, or originally distributes a qualified political advertisement, the qualified political advertisement shall include, in a clear and conspicuous manner, the following disclosure: “Ad generated or substantially altered using artificial intelligence.”\n(2)The disclosure required by paragraph (1) shall be displayed or spoken in the manner prescribed in Section 84504, 84504.1, 84504.2, 84504.3, 84504.4, or 84504.5, as applicable."
+  },
+  {
+   "obligation_id": "US-CA-AB2355-2024:SEC-8/p8/s2",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)A violation of subdivision (a) shall not constitute a misdemeanor under Chapter 11 (commencing with Section 91000)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB2355-2024:SEC-8",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

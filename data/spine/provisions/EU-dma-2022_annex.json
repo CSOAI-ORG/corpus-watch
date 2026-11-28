@@ -1,0 +1,146 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:annex",
+ "label": "EU-dma-2022 Annex",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "75995295865ffd1d5a7dd63543a5c1751c800482311d88351e2cabc6eb1ed3a4",
+ "sha256_v1": "",
+ "sha256_v2": "75995295865ffd1d5a7dd63543a5c1751c800482311d88351e2cabc6eb1ed3a4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "75995295865ffd1d5a7dd63543a5c1751c800482311d88351e2cabc6eb1ed3a4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:annex/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those measurements or the best approximation available shall be consistent with, and include, those reported under Article 15."
+  },
+  {
+   "obligation_id": "EU-dma-2022:annex/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The number of ‘unique users’ as regards ‘active end users’ shall be identified according to the most accurate metric reported by the undertaking providing any of the core platform services, specifically:\na."
+  },
+  {
+   "obligation_id": "EU-dma-2022:annex/p1/s2",
+   "paragraph": "1",
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Hence, the undertaking shall submit aggregate anonymized data on the number of unique end users per respective core platform service based on signed-in or logged-in environments, if such data exists.\nb."
+  },
+  {
+   "obligation_id": "EU-dma-2022:annex/p1/s3",
+   "paragraph": "1",
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the case of core platform services which are also accessed by end users outside signed-in or logged-in environments, the undertaking shall additionally submit aggregate anonymized data on the number of unique end users of the respective core platform service based on an alternate metric capturing also end users outside signed-in or logged-in environments, such as internet protocol addresses, cookie identifiers or other identifiers such as radio frequency identification tags, provided that those addresses or identifiers are objectively necessary for the provision of the core platform services."
+  },
+  {
+   "obligation_id": "EU-dma-2022:annex/p2/s1",
+   "paragraph": "2",
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the notion of ‘business account’ does not apply to a given core platform service, the relevant undertaking providing core platform services shall determine the number of unique business users by referring to the relevant undertaking."
+  },
+  {
+   "obligation_id": "EU-dma-2022:annex/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The undertaking submitting to the Commission pursuant to Article 3(3) information concerning the number of active end users and active business users per core platform service shall be responsible for ensuring the completeness and accuracy of that information."
+  },
+  {
+   "obligation_id": "EU-dma-2022:annex/p1/s2",
+   "paragraph": "1",
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The undertaking shall be responsible for submitting data for a respective core platform service that avoids under-counting and over-counting the number of active end users and active business users (for example, where users access the core platform services across different platforms or devices).\nb."
+  },
+  {
+   "obligation_id": "EU-dma-2022:annex/p1/s3",
+   "paragraph": "1",
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The undertaking shall be responsible for providing precise and succinct explanations about the methodology used to arrive at the information and for any risk of under-counting or over-counting of the number of active end users and active business users for a respective core platform service and for the solutions adopted to address that risk.\nc."
+  },
+  {
+   "obligation_id": "EU-dma-2022:annex/p1/s4",
+   "paragraph": "1",
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The undertaking shall provide data that is based on an alternative metric when the Commission has concerns about the accuracy of data provided by the undertaking providing core platform services."
+  },
+  {
+   "obligation_id": "EU-dma-2022:annex/p2/s1",
+   "paragraph": "2",
+   "addressee": "undertaking",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The undertaking providing core platform service(s) shall not identify core platform services that belong to the same category of core platform services pursuant to Article 2, point (2) as distinct mainly on the basis that they are provided using different domain names, whether country code top-level domains (ccTLDs) or generic top-level domains (gTLDs), or any geographic attributes.\nb."
+  },
+  {
+   "obligation_id": "EU-dma-2022:annex/p2/s2",
+   "paragraph": "2",
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The undertaking providing core platform service(s) shall consider as distinct core platform services those core platform services, which are used for different purposes by either their end users or their business users, or both, even if their end users or business users may be the same and even if they belong to the same category of core platform services pursuant to Article 2, point (2).\nc."
+  },
+  {
+   "obligation_id": "EU-dma-2022:annex/p2/s3",
+   "paragraph": "2",
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The undertaking providing core platform service(s) shall consider as distinct core platform services those services which the relevant undertaking offers in an integrated way, but which:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:annex",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

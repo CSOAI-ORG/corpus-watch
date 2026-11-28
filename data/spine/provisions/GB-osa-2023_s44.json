@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s44",
+ "label": "GB-osa-2023 Section 44",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "5874f84d85aeee3b37376249a2361b55c18003789400949b5413465039f02f6d",
+ "sha256_v1": "",
+ "sha256_v2": "5874f84d85aeee3b37376249a2361b55c18003789400949b5413465039f02f6d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "5874f84d85aeee3b37376249a2361b55c18003789400949b5413465039f02f6d",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s44/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\nA direction given under subsection (5)—\n(a)\nmust be given within the period of 45 days beginning with the day on which OFCOM’s review statement is submitted to the Secretary of State, and\n(b)\nmust make particular reference to OFCOM’s review statement."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s44/p0/s2",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(7)\nA direction given under this section—\n(a)\nmay not require OFCOM to include in a code of practice provision about a particular measure recommended to be taken or used by providers of Part 3 services,\n(b)\nmust set out the Secretary of State’s reasons for requiring modifications, except in a case where the Secretary of State considers that doing so would be against the interests of national security, public safety or relations with the government of a country outside the United Kingdom, and\n(c)\nmust, as soon as reasonably practicable, be published and laid before Parliament."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s44/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(8)\nIf the Secretary of State considers that publishing and laying before Parliament a direction given under this section would be against the interests of national security, public safety or relations with the government of a country outside the United Kingdom—\n(a)\nsubsection (7)(c) does not apply in relation to the direction, and\n(b)\nthe Secretary of State must, as soon as reasonably practicable, publish and lay before Parliament a document stating—\n(i)\nthat a direction has been given,\n(ii)\nthe kind of code of practice to which it relates, and\n(iii)\nthe reasons for not publishing it."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s44/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(9)\nIf the Secretary of State gives a direction under this section, OFCOM must, as soon as reasonably practicable—\n(a)\ncomply with the direction,\n(b)\nsubmit to the Secretary of State a draft of the code of practice modified in accordance with the direction,\n(c)\nsubmit to the Secretary of State a document containing—\n(i)\n(except in a case mentioned in subsection (7)(b)) details of the direction, and\n(ii)\ndetails about how the draft has been revised in response to the direction,\n(d)\npublish the document, and\n(e)\ninform the Secretary of State about modifications that OFCOM have made to the draft that are not in response to the direction (if there are any)."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s44/p0/s5",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(12)\nWhen the Secretary of State is satisfied that no further modifications to the draft are required, the Secretary of State must, as soon as reasonably practicable, lay before Parliament—\n(a)\nthe modified draft,\n(b)\nany document submitted by OFCOM as mentioned in subsection (9)(c), and\n(c)\nin the case of a direction under subsection (5), OFCOM’s review statement."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s44",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

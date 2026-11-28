@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-equality-act-2010:s146",
+ "label": "GB-equality-act-2010 Section 146",
+ "instrument": "GB-equality-act-2010",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "0227696063148d7cb4bbdd458eea2f810c763402788f089bce4e5eaf2ffc50d8",
+ "sha256_v1": "",
+ "sha256_v2": "0227696063148d7cb4bbdd458eea2f810c763402788f089bce4e5eaf2ffc50d8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "0227696063148d7cb4bbdd458eea2f810c763402788f089bce4e5eaf2ffc50d8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-equality-act-2010:s146/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nIf the tribunal finds that the complaint is well-founded, it must make an order declaring that the term is void or the rule is unenforceable."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-equality-act-2010:s146",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

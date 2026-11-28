@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:38",
+ "label": "EU-mdr-2017 Article 38",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "bd7b78c21eda05726667f9efc1d4354958aab653e97b6b8d14936f78e52c3178",
+ "sha256_v1": "",
+ "sha256_v2": "bd7b78c21eda05726667f9efc1d4354958aab653e97b6b8d14936f78e52c3178",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "bd7b78c21eda05726667f9efc1d4354958aab653e97b6b8d14936f78e52c3178",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:38/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Conformity assessment bodies shall submit an application for designation to the authority responsible for notified bodies."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:38/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "The application shall specify the conformity assessment activities as defined in this Regulation, and the types of devices for which the body is applying to be designated, and shall be supported by documentation demonstrating compliance with Annex VII."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:38/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In respect of the organisational and general requirements and the quality management requirements set out in Sections 1 and 2 of Annex VII, a valid accreditation certificate and the corresponding evaluation report delivered by a national accreditation body in accordance with Regulation (EC) No 765/2008 may be submitted and shall be taken into consideration during the assessment described in Article"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:38/p39/s1",
+   "paragraph": "39",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "However, the applicant shall make available all the documentation referred to in the first subparagraph to demonstrate compliance with those requirements upon request."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:38/p3/s1",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notified body shall update the documentation referred to in paragraph 2 whenever relevant changes occur, in order to enable the authority responsible for notified bodies to monitor and verify continuous compliance with all the requirements set out in Annex VII."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:38",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

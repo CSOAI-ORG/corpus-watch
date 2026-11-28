@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14144-2025:sec6",
+ "label": "US-EO14144-2025 Sec. 6",
+ "instrument": "US-EO14144-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "e172219ce58cd234454987cde4ec13767d1612dd3a6250f1c90e9a15cfc2e553",
+ "sha256_v1": "",
+ "sha256_v2": "e172219ce58cd234454987cde4ec13767d1612dd3a6250f1c90e9a15cfc2e553",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "e172219ce58cd234454987cde4ec13767d1612dd3a6250f1c90e9a15cfc2e553",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14144-2025:sec6/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Federal Government must accelerate the development and deployment of AI, explore ways to improve the cybersecurity of critical infrastructure using AI, and accelerate research at the intersection of AI and cybersecurity."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec6/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "(a) Within 180 days of the date of the completion of the Defense Advanced Research Projects Agency's 2025 Artificial Intelligence Cyber Challenge, the Secretary of Energy, in coordination with the Secretary of Defense, acting through the Director of the Defense Advanced Research Projects Agency, and the Secretary of Homeland Security, shall launch a pilot program, involving collaboration with private sector critical infrastructure entities as appropriate and consistent with applicable law, on the use of AI to enhance cyber defense of critical infrastructure in the energy sector, and conduct an assessment of the pilot program upon its completion."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec6/p6/s3",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) Within 270 days of the date of this order, the Secretary of Defense shall establish a program to use advanced AI models for cyber defense."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec6/p6/s4",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) Within 150 days of the date of this order, the Secretary of Commerce, acting through the Director of NIST; the Secretary of Energy; the Secretary of Homeland Security, acting through the Under Secretary for Science and Technology; and the Director of the National Science Foundation (NSF) shall each prioritize funding for their respective programs that encourage the development of large-scale, labeled datasets needed to make progress on cyber defense research, and ensure that existing datasets for cyber defense research have been made accessible to the broader academic research community (either securely or publicly) to the maximum extent feasible, in consideration of business confidentia"
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec6/p6/s5",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d) Within 150 days of the date of this order, the Secretary of Commerce, acting through the Director of NIST; the Secretary of Energy; the Secretary of Homeland Security, acting through the Under Secretary for Science and Technology; and the Director of the NSF shall prioritize research on the following topics:"
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec6/p6/s6",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e) Within 150 days of the date of this order, the Secretary of Defense, the Secretary of Homeland Security, and the Director of National Intelligence, in coordination with the Director of OMB, shall incorporate management of AI software vulnerabilities and compromises into their respective agencies' existing processes and interagency coordination mechanisms for vulnerability management, including through incident tracking, response, and reporting, and by sharing indicators of compromise for AI systems."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14144-2025:sec6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

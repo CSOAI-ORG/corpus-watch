@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:38",
+ "label": "EU-ehds-2025 Article 38",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "4e9c92b9615d76a064fc495bb718b672d36c3fdc17b155aa15fb5b8c5c74e4b6",
+ "sha256_v1": "",
+ "sha256_v2": "4e9c92b9615d76a064fc495bb718b672d36c3fdc17b155aa15fb5b8c5c74e4b6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "4e9c92b9615d76a064fc495bb718b672d36c3fdc17b155aa15fb5b8c5c74e4b6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:38/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "EHR systems shall be accompanied by an information sheet that includes concise, complete, correct and clear information that is relevant, accessible and comprehensible to professional users."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:38/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The information sheet referred to in paragraph 1 shall specify:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:38",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,126 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:62",
+ "label": "EU-mica-2023 Article 62",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "f88e839abeba270db46b33d561f1c8b0149c7822d193438f70faaf80bac42c7f",
+ "sha256_v1": "",
+ "sha256_v2": "f88e839abeba270db46b33d561f1c8b0149c7822d193438f70faaf80bac42c7f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f88e839abeba270db46b33d561f1c8b0149c7822d193438f70faaf80bac42c7f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:62/p1/s1",
+   "paragraph": "1",
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Legal persons or other undertakings that intend to provide crypto-asset services shall submit their application for an authorisation as a crypto-asset service provider to the competent authority of their home Member State."
+  },
+  {
+   "obligation_id": "EU-mica-2023:62/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The application referred to in paragraph 1 shall contain all of the following information:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:62/p2/s2",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(o)\nwhere the applicant crypto-asset service provider intends to exchange crypto-assets for funds or other crypto-assets, a description of the commercial policy, which shall be non-discriminatory, governing the relationship with clients as well as a description of the methodology for determining the price of the crypto-assets that the applicant crypto-asset service provider proposes to exchange for funds or other crypto-assets;"
+  },
+  {
+   "obligation_id": "EU-mica-2023:62/p3/s1",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the purposes of paragraph 2, points (g) and (h), an applicant crypto-asset service provider shall provide proof of all of the following:"
+  },
+  {
+   "obligation_id": "EU-mica-2023:62/p3/s2",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)\nthat the members of the management body of the applicant crypto-asset service provider collectively possess the appropriate knowledge, skills and experience to manage the crypto-asset service provider and that those persons are required to commit sufficient time to perform their duties;"
+  },
+  {
+   "obligation_id": "EU-mica-2023:62/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Competent authorities shall not require an applicant crypto-asset service provider to provide any information referred to in paragraphs 2 and 3 of this Article that they have already received under the respective authorisation procedures in accordance with Directive 2009/110/EC, 2014/65/EU or (EU) 2015/2366, or pursuant to national law applicable to crypto-asset services prior to 29 June 2023, provided that such previously submitted information or documents are still up-to-date."
+  },
+  {
+   "obligation_id": "EU-mica-2023:62/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ESMA, in close cooperation with EBA, shall develop draft regulatory technical standards to further specify the information referred to in paragraphs 2 and"
+  },
+  {
+   "obligation_id": "EU-mica-2023:62/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024."
+  },
+  {
+   "obligation_id": "EU-mica-2023:62/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "management-system",
+   "status": "DRAFT",
+   "text": "ESMA, in close cooperation with EBA, shall develop draft implementing technical standards to establish standard forms, templates and procedures for the information to be included in the application for authorisation as a crypto-asset service provider."
+  },
+  {
+   "obligation_id": "EU-mica-2023:62/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "ESMA shall submit the draft implementing technical standards referred to in the first subparagraph to the Commission by 30 June 2024."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:62",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

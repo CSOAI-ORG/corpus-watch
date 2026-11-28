@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s44",
+ "label": "GB-dpa-2018 Section 44",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "45b0dc36b2633e25fc39f0085bf0fc2fa46d5d2d3133aeb3da84c19ccff00e6a",
+ "sha256_v1": "",
+ "sha256_v2": "45b0dc36b2633e25fc39f0085bf0fc2fa46d5d2d3133aeb3da84c19ccff00e6a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "45b0dc36b2633e25fc39f0085bf0fc2fa46d5d2d3133aeb3da84c19ccff00e6a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s44/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "contact-point",
+   "status": "DRAFT",
+   "text": "Controller's general duties\n(1)\nThe controller must make available to data subjects the following information (whether by making the information generally available to the public or in any other way)—\n(a)\nthe identity and the contact details of the controller;"
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s44/p0/s2",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nThe controller must also, in specific cases for the purpose of enabling the exercise of a data subject's rights under this Part, give the data subject the following—\n(a)\ninformation about the legal basis for the processing;"
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s44/p0/s3",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "(5)\nWhere the provision of information to a data subject under subsection (2) is restricted under subsection (4), wholly or partly, the controller must inform the data subject in writing without undue delay—\n(a)\nthat the provision of information has been restricted,\n(b)\nof the reasons for the restriction,\n(c)\nof the data subject's right to make a request to the Commission under section 51,\n(ca)\nof the data subject’s right to make a complaint to the controller under section 164A,\n(d)\nof the data subject's right to lodge a complaint with the Commission under section 165, and\n(e)\nof the data subject's right to apply to a court under section 167."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s44/p0/s4",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(7)\nThe controller must—\n(a)\nrecord the reasons for a decision to restrict (whether wholly or partly) the provision of information to a data subject under subsection (2) in reliance on subsection (4), and\n(b)\nif requested to do so by the Commission, make the record available to the Commission."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s44",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

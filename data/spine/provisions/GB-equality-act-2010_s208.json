@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-equality-act-2010:s208",
+ "label": "GB-equality-act-2010 Section 208",
+ "instrument": "GB-equality-act-2010",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3736449d6e03f8ec041cb69218d0307c5a3e057d0fc4d3bb752934acb163b8c3",
+ "sha256_v1": "",
+ "sha256_v2": "3736449d6e03f8ec041cb69218d0307c5a3e057d0fc4d3bb752934acb163b8c3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "3736449d6e03f8ec041cb69218d0307c5a3e057d0fc4d3bb752934acb163b8c3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-equality-act-2010:s208/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(8)\nIf a statutory instrument is subject to the affirmative procedure, the order or regulations contained in it must not be made unless a draft of the instrument is laid before and approved by a resolution of each House of Parliament."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-equality-act-2010:s208",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

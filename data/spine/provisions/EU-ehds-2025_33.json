@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:33",
+ "label": "EU-ehds-2025 Article 33",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "0a2439dec84f869a0722cb616b0e408a005230a61905bea755d7c1c6c319fdd3",
+ "sha256_v1": "",
+ "sha256_v2": "0a2439dec84f869a0722cb616b0e408a005230a61905bea755d7c1c6c319fdd3",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "0a2439dec84f869a0722cb616b0e408a005230a61905bea755d7c1c6c319fdd3",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:33/p1/s1",
+   "paragraph": "1",
+   "addressee": "distributor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Before making an EHR system available on the market, distributors shall verify that:"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:33/p2/s1",
+   "paragraph": "2",
+   "addressee": "distributor",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Distributors shall ensure that, while an EHR system is under their responsibility, the EHR system is not altered in such a way that its conformity with the essential requirements laid down in Annex II and with any requirements adopted pursuant to Article 42 is jeopardised."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:33/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where a distributor considers or has reason to believe that an EHR system is not in conformity with the essential requirements laid down in Annex II and with any requirements adopted pursuant to Article 42, it shall not make that EHR system available on the market until it has been brought into conformity."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:33/p3/s2",
+   "paragraph": "3",
+   "addressee": "distributor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The distributor shall inform without undue delay the manufacturer or the importer, as well as the market surveillance authorities of the Member States where the EHR system has been or is to be made available on the market, to that effect."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:33/p3/s3",
+   "paragraph": "3",
+   "addressee": "distributor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where a distributor considers or has reason to believe that an EHR system presents a risk to the health or safety of natural persons, it shall inform the market surveillance authorities of the Member State in which the distributor is established, as well as the manufacturer and the importer."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:33/p4/s1",
+   "paragraph": "4",
+   "addressee": "distributor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Distributors shall, further to a reasoned request from a market surveillance authority, provide it with all the information and documentation necessary to demonstrate the conformity of an EHR system."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:33/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "cooperate",
+   "status": "DRAFT",
+   "text": "They shall cooperate with that authority, at its request, and with the manufacturer, the importer and, where applicable, with the manufacturer’s authorised representative on any action taken to bring an EHR system into conformity with the essential requirements laid down in Annex II and with any requirements adopted pursuant to Article 42 or to recall or withdraw it."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:33",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

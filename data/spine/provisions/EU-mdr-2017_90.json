@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:90",
+ "label": "EU-mdr-2017 Article 90",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "f7099de464afc832170ea9ff72ef9b2a7eed202b8484d92d183dd96704c36960",
+ "sha256_v1": "",
+ "sha256_v2": "f7099de464afc832170ea9ff72ef9b2a7eed202b8484d92d183dd96704c36960",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f7099de464afc832170ea9ff72ef9b2a7eed202b8484d92d183dd96704c36960",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:90/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Analysis of vigilance data\nThe Commission shall, in collaboration with the Member States, put in place systems and processes to actively monitor the data available in the electronic system referred to in Article 92, in order to identify trends, patterns or signals in the data that may reveal new risks or safety concerns."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:90/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a previously unknown risk is identified or the frequency of an anticipated risk significantly and adversely changes the benefit-risk determination, the competent authority or, where appropriate, the coordinating competent authority shall inform the manufacturer, or where applicable the authorised representative, which shall then take the necessary corrective actions."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:90",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

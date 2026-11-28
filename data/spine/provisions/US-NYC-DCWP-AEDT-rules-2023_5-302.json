@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-NYC-DCWP-AEDT-rules-2023:5-302",
+ "label": "US-NYC-DCWP-AEDT-rules-2023 6 RCNY 5-302",
+ "instrument": "US-NYC-DCWP-AEDT-rules-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "cffec10752b9b057a9e0831902343350fd690a98bc125dd737fe24062eec35c5",
+ "sha256_v1": "",
+ "sha256_v2": "cffec10752b9b057a9e0831902343350fd690a98bc125dd737fe24062eec35c5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 1,
+ "sha256_current": "cffec10752b9b057a9e0831902343350fd690a98bc125dd737fe24062eec35c5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-NYC-DCWP-AEDT-rules-2023:5-302/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A bias audit conducted pursuant to section 5-301 of this Chapter must use historical data of the AEDT."
+  },
+  {
+   "obligation_id": "US-NYC-DCWP-AEDT-rules-2023:5-302/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a bias audit uses test data, the summary of results of the bias audit must explain why historical data was not used and describe how the test data used was generated and obtained."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-NYC-DCWP-AEDT-rules-2023:5-302",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

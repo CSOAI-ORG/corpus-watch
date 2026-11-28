@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:60a",
+ "label": "EU AI Act Art. 60a",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": null,
+ "sha256_v1": "",
+ "sha256_v2": "",
+ "source_state": "INSERTED_BY_AMENDMENT",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "INSERTED",
+ "change_edits": 451,
+ "sha256_current": "fcffc842f08e21f06bde41cb1c54e41e8dad10fc992fcaf80be08f6e9262d4c8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:60a/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States that choose to allow testing as referred to in paragraph 1 shall, individually or jointly, adopt frameworks for real-world testing."
+  },
+  {
+   "obligation_id": "32024R1689:60a/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Each Member State shall notify the Commission of any real-world testing framework it adopts before implementing it."
+  },
+  {
+   "obligation_id": "32024R1689:60a/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This shall not affect the competences of the Commission under the Union harmonisation legislation listed in Section B of Annex I."
+  },
+  {
+   "obligation_id": "32024R1689:60a/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States that have adopted real-world testing frameworks shall ensure that the relevant national competent authorities, relevant authorities and public authorities responsible for the management and operation of infrastructure and products covered by Union harmonisation legislation listed in Section B of Annex I cooperate closely with each other in good faith and remove any practical obstacles, including on procedural rules providing access to physical public infrastructure, where this is necessary, to successfully implement those real-world testing frameworks and test AI-enabled products covered by Union harmonisation legislation listed in Section B of Annex I."
+  },
+  {
+   "obligation_id": "32024R1689:60a/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The frameworks for real-world testing shall lay down the requirements under which testing in real-world conditions shall occur."
+  },
+  {
+   "obligation_id": "32024R1689:60a/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those frameworks shall:"
+  },
+  {
+   "obligation_id": "32024R1689:60a/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The real-world testing shall comply with the applicable provisions laid down in the Union harmonisation legislation listed in Section B of Annex I."
+  },
+  {
+   "obligation_id": "32024R1689:60a/p6/s2",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any requirements laid down in those provisions shall not affect the application of this Article to the extent necessary to enable the testing referred to in paragraph 1."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:60a",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,79 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:29",
+ "label": "EU AI Act Art. 29",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "63182417e85e35cdb675e0765446a0555ec5042717ae9b86d3abcd5e7731cbaf",
+ "sha256_v1": "63182417e85e35cdb675e0765446a0555ec5042717ae9b86d3abcd5e7731cbaf",
+ "sha256_v2": "63182417e85e35cdb675e0765446a0555ec5042717ae9b86d3abcd5e7731cbaf",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": 54,
+ "sha256_current": "d728a1353d909f93e84c54406fb588f6d5a2f77a641d26c6962f80b6146e1275",
+ "agent_register_kinds": [
+  "NONE",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:29/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Conformity assessment bodies shall submit an application for notification to the notifying authority of the Member State in which they are established."
+  },
+  {
+   "obligation_id": "32024R1689:29/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "The application for notification shall be accompanied by a description of the conformity assessment activities, the conformity assessment module or modules and the types of AI systems for which the conformity assessment body claims to be competent, as well as by an accreditation certificate, where one exists, issued by a national accreditation body attesting that the conformity assessment body fulfils the requirements laid down in Article"
+  },
+  {
+   "obligation_id": "32024R1689:29/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Where the conformity assessment body concerned cannot provide an accreditation certificate, it shall provide the notifying authority with all the documentary evidence necessary for the verification, recognition and regular monitoring of its compliance with the requirements laid down in Article 31. ▼M1"
+  },
+  {
+   "obligation_id": "32024R1689:29/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Notified bodies, which are designated pursuant to any of the Union harmonisation legislation listed in Section A of Annex I and which undergo the unified assessment procedure referred to in Article 28(8), shall submit the single application for assessment to the notifying authority designated pursuant to that Union harmonisation legislation."
+  },
+  {
+   "obligation_id": "32024R1689:29/p4/s2",
+   "paragraph": "4",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The notified body shall update the documentation referred to in paragraphs 2 and 3 of this Article whenever relevant changes occur, in order to enable the authority responsible for notified bodies to monitor and verify continuous compliance with all the requirements laid down in Article 31. ▼B"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:29",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

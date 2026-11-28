@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s32",
+ "label": "GB-duaa-2025 Section 32",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "727ec784ffa6fda3d7668690d47c611d66f0957a24fdc79d1cec28dca4d7487e",
+ "sha256_v1": "",
+ "sha256_v2": "727ec784ffa6fda3d7668690d47c611d66f0957a24fdc79d1cec28dca4d7487e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "727ec784ffa6fda3d7668690d47c611d66f0957a24fdc79d1cec28dca4d7487e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s32/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "DVS register\n(1)\nThe Secretary of State must establish and maintain a register of persons providing digital verification services."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s32/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(3)\nThe Secretary of State must make the DVS register publicly available."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s32",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

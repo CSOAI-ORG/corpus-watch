@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-pipa-2011:39-4",
+ "label": "KR-pipa-2011 제39조의4",
+ "instrument": "KR-pipa-2011",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7e488706b0a77dd759c8e71deab02a9ce86fd99b61a17958adf151a9efdfb397",
+ "sha256_v1": "",
+ "sha256_v2": "7e488706b0a77dd759c8e71deab02a9ce86fd99b61a17958adf151a9efdfb397",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "7e488706b0a77dd759c8e71deab02a9ce86fd99b61a17958adf151a9efdfb397",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-pipa-2011:39-4/s6",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "② 제1항에 따른 명령(이하 “비밀유지명령”이라 한다)을 신청하는 자는 다음 각 호의 사유를 모두 소명하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:39-4/s9",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "③ 비밀유지명령의 신청은 다음 각 호의 사항을 적은 서면으로 하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:39-4/s13",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "④ 법원은 비밀유지명령이 결정된 경우에는 그 결정서를 비밀유지명령을 받을 자에게 송달하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-pipa-2011:39-4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-data-act-2023:17",
+ "label": "EU-data-act-2023 Article 17",
+ "instrument": "EU-data-act-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8b139ea38044857f288635d92c115d923649c3deccc09fa516c5f1bf67890517",
+ "sha256_v1": "",
+ "sha256_v2": "8b139ea38044857f288635d92c115d923649c3deccc09fa516c5f1bf67890517",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "8b139ea38044857f288635d92c115d923649c3deccc09fa516c5f1bf67890517",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-data-act-2023:17/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When requesting data pursuant to Article 14, a public sector body, the Commission, the European Central Bank or a Union body shall:"
+  },
+  {
+   "obligation_id": "EU-data-act-2023:17/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A request for data made pursuant to paragraph 1 of this Article shall:"
+  },
+  {
+   "obligation_id": "EU-data-act-2023:17/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(g)\nwhere the request is made by a public sector body, be transmitted to the data coordinator referred to in Article 37 of the Member State where the requesting public sector body is established, who shall make the request publicly available online without undue delay unless the data coordinator considers that such publication would create a risk for public security;"
+  },
+  {
+   "obligation_id": "EU-data-act-2023:17/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The European Central Bank and Union bodies shall inform the Commission of their requests."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:17/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "A public sector body, the Commission, the European Central Bank or a Union body shall not make data obtained pursuant to this Chapter available for reuse as defined in Article 2, point (2), of Regulation (EU) 2022/868 or Article 2, point (11), of Directive (EU) 2019/1024."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:17/p4/s2",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a public sector body, the Commission, the European Central Bank or a Union body transmits or makes data available under this paragraph, it shall notify the data holder from whom the data was received without undue delay."
+  },
+  {
+   "obligation_id": "EU-data-act-2023:17/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall develop a model template for requests pursuant to this Article."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-data-act-2023:17",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

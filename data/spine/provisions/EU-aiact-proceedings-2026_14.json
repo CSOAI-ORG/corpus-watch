@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-aiact-proceedings-2026:14",
+ "label": "EU-aiact-proceedings-2026 Article 14",
+ "instrument": "EU-aiact-proceedings-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "660972e5ef13f981943c16876368d0e3994134d756fbbc934972863d743d86f9",
+ "sha256_v1": "",
+ "sha256_v2": "660972e5ef13f981943c16876368d0e3994134d756fbbc934972863d743d86f9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "660972e5ef13f981943c16876368d0e3994134d756fbbc934972863d743d86f9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:14/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Transmission of documents or any other information to and from the Commission shall take place by digital means."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:14/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Documents transmitted by digital means shall be signed using at least one Qualified Electronic Signature complying with the requirements set out in Regulation (EU) 910/2014 of the European Parliament and of the Council (5)."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:14/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "For real or near real-time information shared through APIs or any other equivalent means the Commission shall define the methods and duration of such sharing of information."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:14/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall inform the sender without undue delay if one of the circumstances referred to in paragraph 5 occurs and give it the possibility to express its views and rectify the situation within a reasonable time limit."
+  },
+  {
+   "obligation_id": "EU-aiact-proceedings-2026:14/p8/s2",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The delivery shall be confirmed in an acknowledgement of receipt by the Commission."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-aiact-proceedings-2026:14",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

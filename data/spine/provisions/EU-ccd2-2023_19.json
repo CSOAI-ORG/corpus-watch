@@ -1,0 +1,116 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:19",
+ "label": "EU-ccd2-2023 Article 19",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "be214626f6401c4e6e5e381b16fc1022477feae472a122322d5fc0d52ec1ead8",
+ "sha256_v1": "",
+ "sha256_v2": "be214626f6401c4e6e5e381b16fc1022477feae472a122322d5fc0d52ec1ead8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "be214626f6401c4e6e5e381b16fc1022477feae472a122322d5fc0d52ec1ead8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:19/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Each Member State shall, in the case of cross-border credit, ensure access for creditors from other Member States to databases used in that Member State for assessing the creditworthiness of consumers."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:19/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The conditions for access to such databases shall be non-discriminatory."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:19/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that only those creditors who are under the supervision of the national competent authority and who fully comply with Regulation (EU) 2016/679 have access to the databases used for assessing the creditworthiness of consumers."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:19/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The databases referred to in paragraph 1 which contain information on credit agreements for consumers shall hold at least information on consumers’ arrears in repayment of credit, the type of credit and the identity of the creditor."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:19/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Creditors and credit intermediaries shall not process special categories of data as referred to in Article 9(1) of Regulation (EU) 2016/679 and personal data processed from social networks that may be contained in databases referred to in paragraph 1 of this Article."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:19/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the credit application is rejected on the basis of a consultation of a database referred to in paragraph 1, Member States shall require that the creditor informs the consumer without undue delay and free of charge of the result of such consultation and of the details of the database consulted as well as the categories of data taken into account."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:19/p7/s1",
+   "paragraph": "7",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the purpose of credit agreements, database providers shall have processes in place to ensure that information contained in their databases is up-to-date and accurate."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:19/p7/s2",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that consumers are informed:"
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:19/p8/s1",
+   "paragraph": "8",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "For the purpose of credit agreements, Member States shall ensure that complaint procedures are in place in order to facilitate consumers’ challenges to the content of databases, including information that can be obtained by third parties through those databases."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:19",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

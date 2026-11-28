@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-deep-synthesis-provisions-2022:6",
+ "label": "CN-deep-synthesis-provisions-2022 第六条",
+ "instrument": "CN-deep-synthesis-provisions-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "88f586e25ad1dec4eab8188aba95b44f1d86a586e06b0a91b339e28e3387e798",
+ "sha256_v1": "",
+ "sha256_v2": "88f586e25ad1dec4eab8188aba95b44f1d86a586e06b0a91b339e28e3387e798",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "88f586e25ad1dec4eab8188aba95b44f1d86a586e06b0a91b339e28e3387e798",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-deep-synthesis-provisions-2022:6/s1",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "第六条 任何组织和个人不得利用深度合成服务制作、复制、发布、传播法律、行政法规禁止的信息，不得利用深度合成服务从事危害国家安全和利益、损害国家形象、侵害社会公共利益、扰乱经济和社会秩序、侵犯他人合法权益等法律、行政法规禁止的活动。"
+  },
+  {
+   "obligation_id": "CN-deep-synthesis-provisions-2022:6/s2",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "深度合成服务提供者和使用者不得利用深度合成服务制作、复制、发布、传播虚假新闻信息。"
+  },
+  {
+   "obligation_id": "CN-deep-synthesis-provisions-2022:6/s3",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "转载基于深度合成服务制作发布的新闻信息的，应当依法转载互联网新闻信息稿源单位发布的新闻信息。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-deep-synthesis-provisions-2022:6",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

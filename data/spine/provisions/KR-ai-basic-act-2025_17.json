@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-ai-basic-act-2025:17",
+ "label": "KR-ai-basic-act-2025 제17조",
+ "instrument": "KR-ai-basic-act-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b0178bcee6cfe366f247b246aa8ce7bff3884d5484711bec6c2bd685571c00e9",
+ "sha256_v1": "",
+ "sha256_v2": "b0178bcee6cfe366f247b246aa8ce7bff3884d5484711bec6c2bd685571c00e9",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "b0178bcee6cfe366f247b246aa8ce7bff3884d5484711bec6c2bd685571c00e9",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-ai-basic-act-2025:17/s1",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "제17조(중소기업등을 위한 특별지원) ① 이 법에 따라 인공지능기술 및 인공지능산업과 관련한 각종 지원시책을 시행할 때에는 중소기업등을 우선 고려하여야 한다."
+  },
+  {
+   "obligation_id": "KR-ai-basic-act-2025:17/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "② 정부는 인공지능산업에 대한 중소기업등의 참여 활성화를 위하여 노력하여야 하며, 이와 관련한 사항을 기본계획에 반영하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-ai-basic-act-2025:17",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

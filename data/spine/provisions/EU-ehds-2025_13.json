@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:13",
+ "label": "EU-ehds-2025 Article 13",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "65cce2c6f4a7eba8592f66ac4a71d3a2f58026f7af1a1fd2df805566387e9109",
+ "sha256_v1": "",
+ "sha256_v2": "65cce2c6f4a7eba8592f66ac4a71d3a2f58026f7af1a1fd2df805566387e9109",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "65cce2c6f4a7eba8592f66ac4a71d3a2f58026f7af1a1fd2df805566387e9109",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:13/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that, where electronic health data are processed for the provision of healthcare, healthcare providers register the relevant personal electronic health data falling fully or partially under at least the priority categories of personal electronic health data referred to in Article 14 in an electronic format in an EHR system."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:13/p2/s1",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "When processing data in an electronic format, healthcare providers shall ensure that the personal electronic health data of the natural persons under their treatment are updated with information related to the healthcare."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:13/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where personal electronic health data are registered in a Member State of treatment that differs from the Member State of affiliation of the natural person concerned, the Member State of treatment shall ensure that the registration is performed under the identification data of the natural person in the Member State of affiliation."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:13/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "By 26 March 2027, the Commission shall, by means of implementing acts, determine data quality requirements, including in relation to semantics, uniformity, consistency, accuracy and completeness, for the registration of personal electronic health data in an EHR system as relevant."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:13/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 98(2)."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:13/p4/s3",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When personal electronic health data are registered or updated, the electronic health records shall identify the health professional and healthcare provider that carried out such registration or update, and the time at which such registration or update was carried out."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:13",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

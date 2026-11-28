@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:25",
+ "label": "EU-ivdr-2017 Article 25",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "847dbb4e4a462f817d0a22f2f6ac8c577dcbccd3dd48f0dd37f4b0e221e4e78f",
+ "sha256_v1": "",
+ "sha256_v2": "847dbb4e4a462f817d0a22f2f6ac8c577dcbccd3dd48f0dd37f4b0e221e4e78f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "847dbb4e4a462f817d0a22f2f6ac8c577dcbccd3dd48f0dd37f4b0e221e4e78f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:25/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "UDI database\nThe Commission, after consulting the MDCG, shall set up and manage a UDI database in accordance with the conditions and detailed arrangements provided for in Article 28 of Regulation (EU) 2017/745."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:25",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

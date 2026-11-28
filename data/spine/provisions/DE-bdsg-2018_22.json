@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "DE-bdsg-2018:22",
+ "label": "DE-bdsg-2018 § 22",
+ "instrument": "DE-bdsg-2018",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "983ce267aadf3a085512f87a18af17b6ab8e5029c8f30ff65d0d9f388fe5a722",
+ "sha256_v1": "",
+ "sha256_v2": "983ce267aadf3a085512f87a18af17b6ab8e5029c8f30ff65d0d9f388fe5a722",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "DE",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "983ce267aadf3a085512f87a18af17b6ab8e5029c8f30ff65d0d9f388fe5a722",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "DE-bdsg-2018:22/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=DE-bdsg-2018:22",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

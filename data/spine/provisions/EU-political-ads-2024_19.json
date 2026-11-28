@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-political-ads-2024:19",
+ "label": "EU-political-ads-2024 Article 19",
+ "instrument": "EU-political-ads-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "9f0eac2bb2a18c6fd5810e3c0bca5f3a0172a13a5a03723da04692d80af054d5",
+ "sha256_v1": "",
+ "sha256_v2": "9f0eac2bb2a18c6fd5810e3c0bca5f3a0172a13a5a03723da04692d80af054d5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "9f0eac2bb2a18c6fd5810e3c0bca5f3a0172a13a5a03723da04692d80af054d5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-political-ads-2024:19/p1/s1",
+   "paragraph": "1",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When using targeting techniques or ad-delivery techniques in the context of online political advertising involving the processing of personal data, controllers shall, in addition to other requirements laid down in this Regulation and to the requirements laid down in Regulations (EU) 2016/679 and (EU) 2018/1725, comply with the following requirements:"
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:19/p2/s1",
+   "paragraph": "2",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Where the controller is different from the political advertising publisher, the controller shall ensure that the information referred to in paragraph 1, points (c) and (e), is communicated to the political advertising publisher to enable the political advertising publisher to comply with its obligations under this Regulation."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:19/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The information shall be transmitted in a timely and accurate manner, in accordance with best practice and industry standards by means of a standardised automated process, where that is technically possible."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:19/p3/s1",
+   "paragraph": "3",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers of political advertising services shall, as necessary, transmit to the controllers the information necessary to comply with paragraphs 1 and 2."
+  },
+  {
+   "obligation_id": "EU-political-ads-2024:19/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "Information to be provided in accordance with paragraph 1, points (c) and (e), and paragraphs 2 and 3 shall be presented in a format that is easily accessible and, where technically feasible, that is also machine-readable, clearly visible and user-friendly, including through the use of plain language."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-political-ads-2024:19",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

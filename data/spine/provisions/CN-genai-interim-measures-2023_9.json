@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CN-genai-interim-measures-2023:9",
+ "label": "CN-genai-interim-measures-2023 第九条",
+ "instrument": "CN-genai-interim-measures-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "48fd9e47fb92a4ba66db5cb5ec0229be4a9a5aadee35b32fdaa9f52a9d40bbc7",
+ "sha256_v1": "",
+ "sha256_v2": "48fd9e47fb92a4ba66db5cb5ec0229be4a9a5aadee35b32fdaa9f52a9d40bbc7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CN",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "48fd9e47fb92a4ba66db5cb5ec0229be4a9a5aadee35b32fdaa9f52a9d40bbc7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CN-genai-interim-measures-2023:9/s1",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "第九条 提供者应当依法承担网络信息内容生产者责任，履行网络信息安全义务。"
+  },
+  {
+   "obligation_id": "CN-genai-interim-measures-2023:9/s3",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "提供者应当与注册其服务的生成式人工智能服务使用者（以下称使用者）签订服务协议，明确双方权利义务。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CN-genai-interim-measures-2023:9",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

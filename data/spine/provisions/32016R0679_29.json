@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:29",
+ "label": "GDPR Art. 29",
+ "instrument": "GDPR",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "0aae653b29ba236d5893e3c3df1fc448ef8fc2c9b173b022dcc17ef648f32212",
+ "sha256_v1": "0aae653b29ba236d5893e3c3df1fc448ef8fc2c9b173b022dcc17ef648f32212",
+ "sha256_v2": "36d1d6d1e36bc47eb767fd619ad10c6f1bbcf50140c1c05ce2ec629bdc14588d",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "36d1d6d1e36bc47eb767fd619ad10c6f1bbcf50140c1c05ce2ec629bdc14588d",
+ "agent_register_kinds": [
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:29/p0/s1",
+   "paragraph": "0",
+   "addressee": "processor",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Article 29 Processing under the authority of the controller or processor The processor and any person acting under the authority of the controller or of the processor, who has access to personal data, shall not process those data except on instructions from the controller, unless required to do so by Union or Member State law."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:29",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

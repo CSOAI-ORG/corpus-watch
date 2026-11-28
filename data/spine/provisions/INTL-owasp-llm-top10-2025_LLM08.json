@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-owasp-llm-top10-2025:LLM08",
+ "label": "INTL-owasp-llm-top10-2025 LLM08",
+ "instrument": "INTL-owasp-llm-top10-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "883e3472c582d9eefbd072079c1446e708bc96153c9bc9e39d3d3631fa4a24af",
+ "sha256_v1": "",
+ "sha256_v2": "883e3472c582d9eefbd072079c1446e708bc96153c9bc9e39d3d3631fa4a24af",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "883e3472c582d9eefbd072079c1446e708bc96153c9bc9e39d3d3631fa4a24af",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-owasp-llm-top10-2025:LLM08/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Additionally, all input documents must be validated before they are added to the RAG knowledge base.\n\n#### Scenario #2:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-owasp-llm-top10-2025:LLM08",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

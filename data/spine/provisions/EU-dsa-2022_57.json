@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:57",
+ "label": "EU-dsa-2022 Article 57",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "00ce29d94d64f618c61351dacf0d7abdb73df0dc1a4438f388550d11e4d567dc",
+ "sha256_v1": "",
+ "sha256_v2": "00ce29d94d64f618c61351dacf0d7abdb73df0dc1a4438f388550d11e4d567dc",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "00ce29d94d64f618c61351dacf0d7abdb73df0dc1a4438f388550d11e4d567dc",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:57/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Digital Services Coordinators and the Commission shall cooperate closely and provide each other with mutual assistance in order to apply this Regulation in a consistent and efficient manner."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:57/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Mutual assistance shall include, in particular, exchange of information in accordance with this Article and the duty of the Digital Services Coordinator of establishment to inform all Digital Services Coordinators of destination, the Board and the Commission about the opening of an investigation and the intention to take a final decision, including its assessment, in respect of a specific provider of intermediary services."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:57/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Digital Services Coordinator receiving the request pursuant to paragraph 2 shall comply with such request and inform the Digital Services Coordinator of establishment about the action taken, without undue delay and no later than two months after its receipt, unless:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:57/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Digital Services Coordinator receiving the request shall justify its refusal by submitting a reasoned reply, within the period set out in the first subparagraph."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:57",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "KR-pipa-2011:33",
+ "label": "KR-pipa-2011 제33조",
+ "instrument": "KR-pipa-2011",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "efa0a66929071aef7c4bf196427780187f477c46db1e3335f0c1236f694ab5b7",
+ "sha256_v1": "",
+ "sha256_v2": "efa0a66929071aef7c4bf196427780187f477c46db1e3335f0c1236f694ab5b7",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "KR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "efa0a66929071aef7c4bf196427780187f477c46db1e3335f0c1236f694ab5b7",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "KR-pipa-2011:33/s1",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "제33조(개인정보 영향평가) ① 공공기관의 장은 대통령령으로 정하는 기준에 해당하는 개인정보파일의 운용으로 인하여 정보주체의 개인정보 침해가 우려되는 경우에는 그 위험요인의 분석과 개선 사항 도출을 위한 평가(이하 “영향평가”라 한다)를 하고 그 결과를 보호위원회에 제출하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:33/s3",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "② 보호위원회는 대통령령으로 정하는 인력ㆍ설비 및 그 밖에 필요한 요건을 갖춘 자를 영향평가를 수행하는 기관(이하 “평가기관”이라 한다)으로 지정할 수 있으며, 공공기관의 장은 영향평가를 평가기관에 의뢰하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:33/s5",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ko:internal-record",
+   "status": "DRAFT",
+   "text": "③ 영향평가를 하는 경우에는 다음 각 호의 사항을 고려하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:33/s13",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ko:internal-record",
+   "status": "DRAFT",
+   "text": "⑤ 공공기관의 장은 제1항에 따라 영향평가를 한 개인정보파일을 제32조제1항에 따라 등록할 때에는 영향평가 결과를 함께 첨부하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:33/s15",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "⑥ 보호위원회는 영향평가의 활성화를 위하여 관계 전문가의 육성, 영향평가 기준의 개발ㆍ보급 등 필요한 조치를 마련하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:33/s18",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ko:internal-record",
+   "status": "DRAFT",
+   "text": "다만, 제1호 또는 제2호에 해당하는 경우에는 평가기관의 지정을 취소하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:33/s25",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "⑧ 보호위원회는 제7항에 따라 지정을 취소하는 경우에는 「행정절차법」에 따른 청문을 실시하여야 한다."
+  },
+  {
+   "obligation_id": "KR-pipa-2011:33/s31",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ko:internal-record",
+   "status": "DRAFT",
+   "text": "⑪ 공공기관 외의 개인정보처리자는 개인정보파일 운용으로 인하여 정보주체의 개인정보 침해가 우려되는 경우에는 영향평가를 하기 위하여 적극 노력하여야 한다."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=KR-pipa-2011:33",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

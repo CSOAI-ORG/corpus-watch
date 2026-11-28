@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB1381-2024:SEC-1",
+ "label": "US-CA-SB1381-2024 SECTION 1.",
+ "instrument": "US-CA-SB1381-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "cefaa4304377bfe45a715a5d1677aaebf73007a1047ce6ab46276c6ef8342373",
+ "sha256_v1": "",
+ "sha256_v2": "cefaa4304377bfe45a715a5d1677aaebf73007a1047ce6ab46276c6ef8342373",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "cefaa4304377bfe45a715a5d1677aaebf73007a1047ce6ab46276c6ef8342373",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB1381-2024:SEC-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(a)Every person who knowingly sends or causes to be sent, or brings or causes to be brought, into this state for sale or distribution, or in this state possesses, prepares, publishes, produces, develops, duplicates, or prints any representation of information, data, or image, including, but not limited to, any film, filmstrip, photograph, negative, slide, photocopy, videotape, video laser disc, computer hardware, computer software, computer floppy disc, data storage media, CD-ROM, or computer-generated equipment or any other computer-generated image that contains or incorporates in any manner, any film, filmstrip, or any digitally altered or artificial-intelligence-generated matter, with int"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB1381-2024:SEC-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

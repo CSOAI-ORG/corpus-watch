@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14434-2026:sec3",
+ "label": "US-EO14434-2026 Section 3",
+ "instrument": "US-EO14434-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b0c27d9314efb4854d29a9270cc1a586cdd58973e06af92ef2ed7f3940005449",
+ "sha256_v1": "",
+ "sha256_v2": "b0c27d9314efb4854d29a9270cc1a586cdd58973e06af92ef2ed7f3940005449",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "b0c27d9314efb4854d29a9270cc1a586cdd58973e06af92ef2ed7f3940005449",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14434-2026:sec3/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This definition shall govern the implementation of this order unless and until superseded by subsequent Presidential action consistent with applicable law or by an Act of Congress."
+  },
+  {
+   "obligation_id": "US-EO14434-2026:sec3/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) Within 60 days of the date of this order, the Assistant to the President for Science and Technology (APST), in consultation with the heads of other agencies as the APST deems appropriate, shall submit to the President proposed legislative language to establish a Federal definition of ``Super Intelligence'' and ``SI'' that reflects the capabilities described in section 1 of this order."
+  },
+  {
+   "obligation_id": "US-EO14434-2026:sec3/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The proposal shall include:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14434-2026:sec3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

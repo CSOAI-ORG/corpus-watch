@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-TX-HB149-TRAIGA-2025:Sec-554.001",
+ "label": "US-TX-HB149-TRAIGA-2025 Sec. 554.001",
+ "instrument": "US-TX-HB149-TRAIGA-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5fa4168ed9fdd66d2e0b8c52c996e09add587907d6cc5f01dccb5c30da973e02",
+ "sha256_v1": "",
+ "sha256_v2": "5fa4168ed9fdd66d2e0b8c52c996e09add587907d6cc5f01dccb5c30da973e02",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "5fa4168ed9fdd66d2e0b8c52c996e09add587907d6cc5f01dccb5c30da973e02",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-TX-HB149-TRAIGA-2025:Sec-554.001/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) The council is administratively attached to the Department of Information Resources, and the department shall provide administrative support to the council as provided by this section."
+  },
+  {
+   "obligation_id": "US-TX-HB149-TRAIGA-2025:Sec-554.001/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) The Department of Information Resources and the council shall enter into a memorandum of understanding detailing:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-TX-HB149-TRAIGA-2025:Sec-554.001",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB947-2026:SEC-1:1526.1.",
+ "label": "US-CA-SB947-2026 SECTION 1. / 1526.1.",
+ "instrument": "US-CA-SB947-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "3917ebfa74c2e0eaf421ef11369ec4d1c24bab1aeb7befd31aa4c22a5f214e29",
+ "sha256_v1": "",
+ "sha256_v2": "3917ebfa74c2e0eaf421ef11369ec4d1c24bab1aeb7befd31aa4c22a5f214e29",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "3917ebfa74c2e0eaf421ef11369ec4d1c24bab1aeb7befd31aa4c22a5f214e29",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB947-2026:SEC-1:1526.1./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a citation is issued, the procedures for issuing, contesting, and enforcing judgments for citations and civil penalties issued by the Labor Commissioner shall be the same as those set forth in Section 98.74 or 1197.1, as applicable."
+  },
+  {
+   "obligation_id": "US-CA-SB947-2026:SEC-1:1526.1./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)In any civil action or administrative proceeding brought pursuant to this part for a violation of subdivision (b) or (c) of Section 1522, once it has been demonstrated that an ADS was used to make a disciplinary or deactivation decision, the employer must demonstrate that the employer did not primarily rely upon an ADS or that the employer complied with Sections 1522 and 1524 when making the disciplinary or termination decision."
+  },
+  {
+   "obligation_id": "US-CA-SB947-2026:SEC-1:1526.1./p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e)An employer who violates this part shall be subject to a civil penalty of five hundred dollars ($500) per violation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB947-2026:SEC-1:1526.1.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

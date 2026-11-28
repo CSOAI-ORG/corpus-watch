@@ -1,0 +1,256 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:35",
+ "label": "EU-ivdr-2017 Article 35",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "f4136c59213e091436ee1b551c0371ba71db478149f4740859d5919c6fd5f65b",
+ "sha256_v1": "",
+ "sha256_v2": "f4136c59213e091436ee1b551c0371ba71db478149f4740859d5919c6fd5f65b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f4136c59213e091436ee1b551c0371ba71db478149f4740859d5919c6fd5f65b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:35/p1/s1",
+   "paragraph": "1",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The authority responsible for notified bodies shall within 30 days check that the application referred to in Article 34 is complete and shall request the applicant to provide any missing information."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:35/p1/s2",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Once the application is complete that national authority shall send it to the Commission."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:35/p1/s3",
+   "paragraph": "1",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The authority responsible for notified bodies shall review the application and supporting documentation in accordance with its own procedures and shall draw up a preliminary assessment report."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:35/p2/s1",
+   "paragraph": "2",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The authority responsible for notified bodies shall submit the preliminary assessment report to the Commission which shall immediately transmit it to the MDCG."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:35/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Within 14 days of the submission referred to in paragraph 2 of this Article, the Commission, in conjunction with the MDCG, shall appoint a joint assessment team made up of three experts, unless the specific circumstances require a different number of experts, chosen from the list referred to in Article"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:35/p36/s1",
+   "paragraph": "36",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "One of the experts shall be a representative of the Commission who shall coordinate the activities of the joint assessment team."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:35/p36/s2",
+   "paragraph": "36",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "The other two experts shall come from Member States other than the one in which the applicant conformity assessment body is established."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:35/p36/s3",
+   "paragraph": "36",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "The joint assessment team shall be comprised of competent experts who are competent to assess the conformity assessment activities and the types of devices which are the subject of the application or, in particular when the assessment procedure is initiated in accordance with Article 43(3) to ensure that the specific concern can be appropriately assessed."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:35/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Within 90 days of its appointment, the joint assessment team shall review the documentation submitted with the application in accordance with Article"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:35/p34/s1",
+   "paragraph": "34",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "The authority responsible for notified bodies together with the joint assessment team shall plan and conduct an on-site assessment of the applicant conformity assessment body and, where relevant, of any subsidiary or subcontractor, located inside or outside the Union, to be involved in the conformity assessment process."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:35/p34/s2",
+   "paragraph": "34",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The on-site assessment of the applicant body shall be led by the authority responsible for notified bodies."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:35/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Findings regarding non-compliance of an applicant conformity assessment body with the requirements set out in Annex VII shall be raised during the assessment process and discussed between the authority responsible for notified bodies and the joint assessment team with a view to reaching consensus and resolving any diverging opinions, with respect to the assessment of the application."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:35/p5/s2",
+   "paragraph": "5",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "At the end of the on-site assessment, the authority responsible for notified bodies shall list for the applicant conformity assessment body the non-compliances resulting from the assessment and summarise of the assessment by the joint assessment team."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:35/p5/s3",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Within a specified timeframe, the applicant conformity assessment body shall submit to the national authority a corrective and preventive action plan to address the non-compliances."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:35/p6/s1",
+   "paragraph": "6",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The joint assessment team shall document any remaining diverging opinions with respect to the assessment within 30 days of completion of the on-site assessment and send them to the authority responsible for notified bodies."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:35/p7/s1",
+   "paragraph": "7",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The authority responsible for notified bodies shall, following receipt of a corrective and preventive action plan from the applicant body, assess whether non-compliances identified during the assessment have been appropriately addressed."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:35/p7/s2",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "This plan shall indicate the root cause of the identified non-compliances and shall include a timeframe for implementation of the actions therein."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:35/p7/s3",
+   "paragraph": "7",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The authority responsible for notified bodies shall, having confirmed the corrective and preventive action plan, forward it and its opinion thereon to the joint assessment team."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:35/p7/s4",
+   "paragraph": "7",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The authority responsible for notified bodies shall draw up its final assessment report which shall include:\n—\nthe result of the assessment,\n—\nconfirmation that the corrective and preventive actions have been appropriately addressed and, where required, implemented,\n—\nany remaining diverging opinion with the joint assessment team, and, where applicable,\n—\nthe recommended scope of designation."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:35/p8/s1",
+   "paragraph": "8",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The authority responsible for notified bodies shall submit its final assessment report and, if applicable, the draft designation to the Commission, the MDCG and the joint assessment team."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:35/p9/s1",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The joint assessment team shall provide a final opinion regarding the assessment report prepared by the authority responsible for notified bodies and, if applicable, the draft designation within 21 days of receipt of those documents to the Commission which shall immediately submit that final opinion to the MDCG."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:35/p9/s2",
+   "paragraph": "9",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Within 42 days of receipt of the opinion of the joint assessment team, the MDCG shall issue a recommendation with regard to the draft designation, which the authority responsible for notified bodies shall duly take into consideration for its decision on the designation of the notified body."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:35/p10/s1",
+   "paragraph": "10",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(3)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:35",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

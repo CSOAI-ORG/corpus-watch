@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-pld-2024:12",
+ "label": "EU-pld-2024 Article 12",
+ "instrument": "EU-pld-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b8f428ba61b6d5216a5a5c395c7a87c14f7b19e87cd379914bf3a5f721e4823e",
+ "sha256_v1": "",
+ "sha256_v2": "b8f428ba61b6d5216a5a5c395c7a87c14f7b19e87cd379914bf3a5f721e4823e",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "b8f428ba61b6d5216a5a5c395c7a87c14f7b19e87cd379914bf3a5f721e4823e",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-pld-2024:12/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Without prejudice to national law concerning rights of contribution or recourse, Member States shall ensure that where two or more economic operators are liable for the same damage pursuant to this Directive, they can be held liable jointly and severally."
+  },
+  {
+   "obligation_id": "EU-pld-2024:12/p2/s1",
+   "paragraph": "2",
+   "addressee": "manufacturer",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A manufacturer that integrates software as a component in a product shall not have a right of recourse against the manufacturer of a defective software component that causes damage where:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-pld-2024:12",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

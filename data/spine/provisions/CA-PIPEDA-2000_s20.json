@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CA-PIPEDA-2000:s20",
+ "label": "CA-PIPEDA-2000 Section 20",
+ "instrument": "CA-PIPEDA-2000",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "7fec007fb00155030e40d7075ac8d0c02490f9b9d8f3f70b0baec29152a8a9e6",
+ "sha256_v1": "",
+ "sha256_v2": "7fec007fb00155030e40d7075ac8d0c02490f9b9d8f3f70b0baec29152a8a9e6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CA",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "7fec007fb00155030e40d7075ac8d0c02490f9b9d8f3f70b0baec29152a8a9e6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CA-PIPEDA-2000:s20/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Confidentiality 20 (1) Subject to subsections (2) to (7), 12(3), 12.2(3), 13(3), 19(1), 23(3) and 23.1(1) and section 25, the Commissioner or any person acting on behalf or under the direction of the Commissioner shall not disclose any information that comes to their knowledge as a result of the performance or exercise of any of the Commissioner’s duties or powers under this Part other than those referred to in subsection 10.1(1) or 10.3(2)."
+  },
+  {
+   "obligation_id": "CA-PIPEDA-2000:s20/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Confidentiality — reports and records (1.1) Subject to subsections (2) to (7), 12(3), 12.2(3), 13(3), 19(1), 23(3) and 23.1(1) and section 25, the Commissioner or any person acting on behalf or under the direction of the Commissioner shall not disclose any information contained in a report made under subsection 10.1(1) or in a record obtained under subsection 10.3(2)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CA-PIPEDA-2000:s20",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

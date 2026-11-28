@@ -1,0 +1,126 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:22",
+ "label": "EU-mdr-2017 Article 22",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "54d6bd82ecd873fda023436758c9d94cd63e27376cf259fb75a29d023e65c1f6",
+ "sha256_v1": "",
+ "sha256_v2": "54d6bd82ecd873fda023436758c9d94cd63e27376cf259fb75a29d023e65c1f6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "54d6bd82ecd873fda023436758c9d94cd63e27376cf259fb75a29d023e65c1f6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:22/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Natural or legal persons shall draw up a statement if they combine devices bearing a CE marking with the following other devices or products, in a manner that is compatible with the intended purpose of the devices or other products and within the limits of use specified by their manufacturers, in order to place them on the market as a system or procedure pack:"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:22/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the statement made pursuant to paragraph 1, the natural or legal person concerned shall declare that:"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:22/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any natural or legal person who sterilises systems or procedure packs referred to in paragraph 1 for the purpose of placing them on the market shall, at their choice, apply one of the procedures set out in Annex IX or the procedure set out in Part A of Annex XI."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:22/p3/s2",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The application of those procedures and the involvement of the notified body shall be limited to the aspects of the procedure relating to ensuring sterility until the sterile packaging is opened or damaged."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:22/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The natural or legal person shall draw up a statement declaring that sterilisation has been carried out in accordance with the manufacturer's instructions."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:22/p4/s1",
+   "paragraph": "4",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Where the system or procedure pack incorporates devices which do not bear the CE marking or where the chosen combination of devices is not compatible in view of their original intended purpose, or where the sterilisation has not been carried out in accordance with the manufacturer's instructions, the system or procedure pack shall be treated as a device in its own right and shall be subject to the relevant conformity assessment procedure pursuant to Article"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:22/p52/s1",
+   "paragraph": "52",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The natural or legal person shall assume the obligations incumbent on manufacturers."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:22/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The systems or procedure packs referred to in paragraph 1 of this Article shall not themselves bear an additional CE marking but they shall bear the name, registered trade name or registered trade mark of the person referred to in paragraphs 1 and 3 of this Article as well as the address at which that person can be contacted, so that the person's location can be established."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:22/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Systems or procedure packs shall be accompanied by the information referred to in Section 23 of Annex I."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:22/p5/s3",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The statement referred to in paragraph 2 of this Article shall be kept at the disposal of the competent authorities, after the system or procedure pack has been put together, for the period that is applicable under Article 10(8) to the devices that have been combined."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:22",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

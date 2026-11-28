@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-12CFR1002-RegB-1977:1002.104",
+ "label": "US-12CFR1002-RegB-1977 12 CFR 1002.104",
+ "instrument": "US-12CFR1002-RegB-1977",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "14b4e28f7628c5d0d7984470454ae973948218e73db1ee0227ba07bef7d4af37",
+ "sha256_v1": "",
+ "sha256_v2": "14b4e28f7628c5d0d7984470454ae973948218e73db1ee0227ba07bef7d4af37",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "14b4e28f7628c5d0d7984470454ae973948218e73db1ee0227ba07bef7d4af37",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.104/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(ii) Every 5 years after January 1, 2030, the transaction amount set forth in this paragraph (b)(9) shall adjust based on changes to the Consumer Price Index for All Urban Consumers (U.S. city average series for all items, not seasonally adjusted), as published by the United States Bureau of Labor Statistics."
+  },
+  {
+   "obligation_id": "US-12CFR1002-RegB-1977:1002.104/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Any adjustment that takes effect under this paragraph (b)(9)(ii) shall be rounded to the nearest multiple of $100."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-12CFR1002-RegB-1977:1002.104",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

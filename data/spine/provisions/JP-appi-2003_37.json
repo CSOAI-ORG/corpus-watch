@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:37",
+ "label": "JP-appi-2003 Article 37",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "01a2fff53f180959034d3cf816fa31da81ee125dfced2babc8d205e1e8cedb10",
+ "sha256_v1": "",
+ "sha256_v2": "01a2fff53f180959034d3cf816fa31da81ee125dfced2babc8d205e1e8cedb10",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "01a2fff53f180959034d3cf816fa31da81ee125dfced2babc8d205e1e8cedb10",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:37/s6",
+   "paragraph": null,
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "この場合において、本人は、当該方法に従って、開示等の請求等を行わなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:37/s8",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ja:internal-record",
+   "status": "DRAFT",
+   "text": "この場合において、個人情報取扱事業者は、本人が容易かつ的確に開示等の請求等をすることができるよう、当該保有個人データ又は当該第三者提供記録の特定に資する情報の提供その他本人の利便を考慮した適切な措置をとらなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:37/s10",
+   "paragraph": null,
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "４ 個人情報取扱事業者は、前三項の規定に基づき開示等の請求等に応じる手続を定めるに当たっては、本人に過重な負担を課するものとならないよう配慮しなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:37",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

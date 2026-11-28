@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-c2pa-spec-2026:appendix-F",
+ "label": "INTL-c2pa-spec-2026 Appendix F",
+ "instrument": "INTL-c2pa-spec-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d5bdae186138c206127fce5cf7116692aa44d919093c849b98ed1ae205f9a609",
+ "sha256_v1": "",
+ "sha256_v2": "d5bdae186138c206127fce5cf7116692aa44d919093c849b98ed1ae205f9a609",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "d5bdae186138c206127fce5cf7116692aa44d919093c849b98ed1ae205f9a609",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-F/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Relaxed the requirement that the soft binding alg field match an entry in the algorithm list from normative (shall) to recommended (should)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-F/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Added new supplementary specifications for the Soft Binding Resolution API\nAdded new fields to the ingredient assertion to indicate soft-binding manifest recovery\nAdded support for multi-part assets, such as Android Motion Photos\nAdded support for adding time-stamps and revocation information in an update manifest, replacing time-stamp manifests\nAdded support for a \"claimed signature creation time\"\nAdded support for new c2pa-kp-claimSigning EKU\nRestricted use of the C2PA Trust List to certificates with the c2pa-kp-claimSigning EKU\nIntroduced digitalSourceType values http://c2pa.org/digitalsourcetype/trainedAlgorithmicData (replacing c2pa.trainedAlgorithmicData) and http://c2pa.org/digitalsou"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:appendix-F/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Removes deprecated and unused fields\nSplit assertions into created_assertions & gathered_assertions\nOnly allows a single claim generator, which must be the signer\nclaim-generator-info now has a specific operating_system field\nBox-based hashing is now strongly recommended for any format that supports it\nRemoved the deprecated c2pa.hash.bmff assertion\nAdded a new c2pa.watermarked action\nc2pa.font actions are now just font actions\nalso c2pa.font.info is now just font.info\nCleaned up rendering of CDDL schemas\nUpdated some normative references & removed notes about future versions\nLots of editorial improvements including fixed links\nF.7. 1.4 - November 2023\nAdded support for embedding a C2PA Mani"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-c2pa-spec-2026:appendix-F",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

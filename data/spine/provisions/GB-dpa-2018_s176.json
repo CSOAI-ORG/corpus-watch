@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-dpa-2018:s176",
+ "label": "GB-dpa-2018 Section 176",
+ "instrument": "GB-dpa-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "795f8bab75e521533377c0c282a872add7c78d87142144cfab8718108b034514",
+ "sha256_v1": "",
+ "sha256_v2": "795f8bab75e521533377c0c282a872add7c78d87142144cfab8718108b034514",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "795f8bab75e521533377c0c282a872add7c78d87142144cfab8718108b034514",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-dpa-2018:s176/p0/s1",
+   "paragraph": "0",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Staying special purposes proceedings\n(1)\nIn any special purposes proceedings before a court, if the controller or processor claims, or it appears to the court, that any personal data to which the proceedings relate—\n(a)\nis being processed only for the special purposes,\n(b)\nis being processed with a view to the publication by any person of journalistic, academic, artistic or literary material, and\n(c)\nhas not previously been published by the controller,\nthe court must stay or, in Scotland, sist the proceedings."
+  },
+  {
+   "obligation_id": "GB-dpa-2018:s176/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nUnder subsection (1), the court must stay or sist the proceedings until either of the following conditions is met—\n(a)\na determination of the Commission under section 174 with respect to the personal data or the processing takes effect;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-dpa-2018:s176",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

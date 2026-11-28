@@ -1,0 +1,238 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32024R1689:75",
+ "label": "EU AI Act Art. 75",
+ "instrument": "EU AI Act",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "bdd85d79ab677e080a5091efd668e7fb542c38c733d1250d8832762e54cf2607",
+ "sha256_v1": "bdd85d79ab677e080a5091efd668e7fb542c38c733d1250d8832762e54cf2607",
+ "sha256_v2": "bdd85d79ab677e080a5091efd668e7fb542c38c733d1250d8832762e54cf2607",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": 979,
+ "sha256_current": "8bc77e4d8f827571917f0a428d39fa21bd540e2933345b899af4923a34572207",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32024R1689:75/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The AI Office shall be exclusively competent for the supervision and enforcement of the obligations under this Regulation in relation to the following AI systems:"
+  },
+  {
+   "obligation_id": "32024R1689:75/p1/s4",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "By way of derogation from Article 73, providers of high-risk AI systems subject to the competence of the AI Office pursuant to paragraph 1 of this Article shall report any serious incidents to the AI Office."
+  },
+  {
+   "obligation_id": "32024R1689:75/p1/s6",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The AI Office shall promptly transmit the relevant information to the market surveillance authority of the Member State in the territory of which the provider or its legal representative is situated. 1b."
+  },
+  {
+   "obligation_id": "32024R1689:75/p1/s7",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The authorities involved in the application of this Regulation shall cooperate actively with the AI Office and provide the AI Office the necessary assistance for the exercise of its powers, including, where necessary, in connection with inspections or other enforcement measures carried out in the territory of a Member State."
+  },
+  {
+   "obligation_id": "32024R1689:75/p1/s8",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "To that end, those authorities shall enjoy the powers provided for pursuant to this Regulation and Regulation (EU) 2019/1020, and where relevant and limited to what is necessary to fulfil their tasks under this paragraph, in accordance with the applicable national procedures. 1c."
+  },
+  {
+   "obligation_id": "32024R1689:75/p1/s9",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When taking investigatory or enforcement action in the territory of a Member State that involves access to a public authority’s data or AI system, the AI Office shall be assisted by the relevant market surveillance authority. 1d."
+  },
+  {
+   "obligation_id": "32024R1689:75/p1/s10",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Before taking a decision that would have the effect of prohibiting or restricting the AI system being made available or put into service on a national market, or a decision to withdraw or recall the AI system from such market, the AI Office shall, without undue delay, notify the market surveillance authority competent for that market of its intention to take such a decision."
+  },
+  {
+   "obligation_id": "32024R1689:75/p1/s11",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The AI Office shall consult the authorities involved in the application of this Regulation, where appropriate, on any matter relating to the application and enforcement of this Regulation. 1e."
+  },
+  {
+   "obligation_id": "32024R1689:75/p1/s12",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The AI Office shall be responsible for conformity assessments and tests of AI systems referred to in paragraph 1 of this Article that are classified as high-risk and subject to a third-party conformity assessment pursuant to Article 43 before such AI systems are placed on the market or put into service."
+  },
+  {
+   "obligation_id": "32024R1689:75/p1/s13",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those tests and assessments shall verify that the systems comply with the relevant requirements of this Regulation and may be placed on the market or put into service in the Union in accordance with this Regulation."
+  },
+  {
+   "obligation_id": "32024R1689:75/p1/s14",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall entrust the performance of those tests or assessments to notified bodies designated in accordance with this Regulation, in which case the notified body shall act on behalf of the Commission."
+  },
+  {
+   "obligation_id": "32024R1689:75/p1/s15",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "The fees for testing and assessment activities shall be levied on the provider of a high-risk AI system who has applied for a third-party conformity assessment to the Commission."
+  },
+  {
+   "obligation_id": "32024R1689:75/p1/s16",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The provider shall pay the costs related to the services entrusted by the Commission to the notified bodies in accordance with this Article directly to the notified body. ▼B"
+  },
+  {
+   "obligation_id": "32024R1689:75/p2/s1",
+   "paragraph": "2",
+   "addressee": "deployer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "cooperate",
+   "status": "DRAFT",
+   "text": "Where the relevant market surveillance authorities have sufficient reason to consider general-purpose AI systems that can be used directly by deployers for at least one purpose that is classified as high-risk pursuant to this Regulation to be non-compliant with the requirements laid down in this Regulation, they shall cooperate with the AI Office to carry out compliance evaluations, and shall inform the Board and other market surveillance authorities accordingly. ▼M1 2a."
+  },
+  {
+   "obligation_id": "32024R1689:75/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Such a request shall be duly reasoned and shall include at least:"
+  },
+  {
+   "obligation_id": "32024R1689:75/p2/s3",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The AI Office shall take utmost account of the request and the market surveillance authority shall cooperate actively and provide the AI Office the necessary assistance for the exercise of its powers in accordance with paragraph 1a."
+  },
+  {
+   "obligation_id": "32024R1689:75/p2/s4",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The AI Office shall, without undue delay and in any event no later than four months following receipt of the request, inform the single point of contact of its intention to exercise its powers in accordance with Article 75a or of its reasons for not exercising its powers."
+  },
+  {
+   "obligation_id": "32024R1689:75/p2/s5",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "If the AI Office decides to exercise its powers in accordance with Article 75a, it shall periodically inform that single point of contact about major developments in the proceedings and the outcome of such proceedings, without disclosing any confidential information. ▼B"
+  },
+  {
+   "obligation_id": "32024R1689:75/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a market surveillance authority is unable to conclude its investigation of the high-risk AI system because of its inability to access certain information related to the general-purpose AI model despite having made all appropriate efforts to obtain that information, it may submit a reasoned request to the AI Office, by which access to that information shall be enforced."
+  },
+  {
+   "obligation_id": "32024R1689:75/p3/s2",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "In that case, the AI Office shall supply to the applicant authority without delay, and in any event within 30 days, any information that the AI Office considers to be relevant in order to establish whether a high-risk AI system is non-compliant."
+  },
+  {
+   "obligation_id": "32024R1689:75/p3/s3",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Market surveillance authorities shall safeguard the confidentiality of the information that they obtain in accordance with Article 78 of this Regulation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32024R1689:75",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

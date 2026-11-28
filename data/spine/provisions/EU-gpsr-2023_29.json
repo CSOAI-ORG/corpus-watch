@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-gpsr-2023:29",
+ "label": "EU-gpsr-2023 Article 29",
+ "instrument": "EU-gpsr-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "36682c8c8daaf21c0eb5a196e0d3cc6e63195c6e89d668e52e06e8e47af40db4",
+ "sha256_v1": "",
+ "sha256_v2": "36682c8c8daaf21c0eb5a196e0d3cc6e63195c6e89d668e52e06e8e47af40db4",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "36682c8c8daaf21c0eb5a196e0d3cc6e63195c6e89d668e52e06e8e47af40db4",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-gpsr-2023:29/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Products that have been deemed to be dangerous on the basis of a decision of a market surveillance authority in one Member State under this Regulation shall be presumed dangerous by market surveillance authorities in other Member States."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:29/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where market surveillance authorities in different Member States reach divergent conclusions in terms of identification or level of the risk on the basis of their own investigation and risk assessment, any Member State may refer the matter to the Commission, requesting its opinion on the matter and the Commission shall, without undue delay, issue an opinion on the identification or on the level of the risk of the relevant product, as appropriate."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:29/p2/s2",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "For the purpose of issuing an opinion referred to in this paragraph, the Commission may ask for relevant information and documents and shall invite all Member States to express their views."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:29/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where the Commission issues an opinion pursuant to paragraph 2, the Member States shall take it into due account."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:29/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall draw up guidelines for the practical implementation of this Article."
+  },
+  {
+   "obligation_id": "EU-gpsr-2023:29/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall periodically draw up a report on the application of this Article and shall present it to the Consumer Safety Network."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-gpsr-2023:29",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

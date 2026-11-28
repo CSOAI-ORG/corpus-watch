@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s42",
+ "label": "GB-duaa-2025 Section 42",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e7fd320edf88612c5ebffbfabf54123f64e0b6c25582f372c03f6fcfe002c053",
+ "sha256_v1": "",
+ "sha256_v2": "e7fd320edf88612c5ebffbfabf54123f64e0b6c25582f372c03f6fcfe002c053",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "e7fd320edf88612c5ebffbfabf54123f64e0b6c25582f372c03f6fcfe002c053",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s42/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)\nThe Secretary of State must amend the register to record that the person is no longer registered in respect of (as the case may be)—\n(a)\nthe service or services mentioned in a request described in subsection (1)(a),\n(b)\nthe service or services which the person has ceased to provide, or\n(c)\nthe service or services for which there is no longer a certificate as described in subsection (1)(c)."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s42/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nFor the purposes of subsection (1)(c), a certificate is to be ignored if—\n(a)\nit has expired in accordance with its terms,\n(b)\nit has been withdrawn by the body that issued it, or\n(c)\nit is required to be ignored by reason of provision included in the DVS trust framework under section 28(8)."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s42",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

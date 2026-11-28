@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s100",
+ "label": "GB-duaa-2025 Section 100",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "852e0fd7b042b2f5e373dcd11eeeeefcc772f54100c9680098ca8b78ded3d1bd",
+ "sha256_v1": "",
+ "sha256_v2": "852e0fd7b042b2f5e373dcd11eeeeefcc772f54100c9680098ca8b78ded3d1bd",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "852e0fd7b042b2f5e373dcd11eeeeefcc772f54100c9680098ca8b78ded3d1bd",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s100/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nAn interview notice must specify the time at which the individual must attend at the specified place and answer questions (but see the restrictions in subsections (6) and (7))."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s100/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5)\nAn interview notice must—\n(a)\nindicate the nature of the suspected failure or offence that is the subject of the investigation,\n(b)\nprovide information about the consequences of failure to comply with the notice, and\n(c)\nprovide information about the rights under sections 162 and 164 (appeals etc)."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s100/p0/s3",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(8)\nIf an interview notice—\n(a)\nstates that, in the Commissioner’s opinion, it is necessary for the individual to attend at the specified place and answer questions urgently, and\n(b)\ngives the Commissioner’s reasons for reaching that opinion,\nsubsections (6) and (7) do not apply but the notice must not require the individual to attend at the specified place and answer questions before the end of the period of 24 hours beginning when the notice is given."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s100/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\nIn section 160 (guidance about regulatory action)—\n(a)\nin subsection (1), after paragraph (b) insert—\n(ba)\ninterview notices,\n, and\n(b)\nafter subsection (5) insert—\n(5A)\nIn relation to interview notices, the guidance must include—\n(a)\nprovision specifying factors to be considered in determining whether to give an interview notice to an individual;"
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s100/p0/s5",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\nIf the interview notice—\n(a)\nstates that, in the Commissioner’s opinion, it is necessary for the individual to comply with a requirement in the notice for the purposes of the relevant review, and\n(b)\ngives the Commissioner’s reasons for reaching that opinion,\nsubsections (6) and (7) of section 148A do not apply but the notice must not require the individual to comply with the requirement before the end of the period of 24 hours beginning when the notice is given."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s100",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

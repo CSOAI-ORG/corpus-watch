@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14179-2025:sec2",
+ "label": "US-EO14179-2025 Section 2",
+ "instrument": "US-EO14179-2025",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "1257a7514423dd967b51f6f8b80a2ad88bbfb85bf0fd997fb6ee7728fabbe2dc",
+ "sha256_v1": "",
+ "sha256_v2": "1257a7514423dd967b51f6f8b80a2ad88bbfb85bf0fd997fb6ee7728fabbe2dc",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "1257a7514423dd967b51f6f8b80a2ad88bbfb85bf0fd997fb6ee7728fabbe2dc",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14179-2025:sec2/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14179-2025:sec2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

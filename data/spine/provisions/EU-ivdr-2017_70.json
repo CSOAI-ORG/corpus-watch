@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:70",
+ "label": "EU-ivdr-2017 Article 70",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "749b23acd9950432aa40476ff93f066363c847abc56d4684f5678bbc0c7e0f87",
+ "sha256_v1": "",
+ "sha256_v2": "749b23acd9950432aa40476ff93f066363c847abc56d4684f5678bbc0c7e0f87",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": null,
+ "sha256_current": "749b23acd9950432aa40476ff93f066363c847abc56d4684f5678bbc0c7e0f87",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:70/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where a performance study is to be conducted to further assess, within the scope of its intended purpose, a device which already bears the CE marking in accordance with Article 18(1) (‘PMPF study’), and where the performance study would involve submitting subjects to procedures additional to those performed under the normal conditions of use of the device and those additional procedures are invasive or burdensome, the sponsor shall notify the Member States concerned at least 30 days prior to its commencement by means of the electronic system referred to in Article"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:70/p69/s1",
+   "paragraph": "69",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The sponsor shall include the documentation referred to in Section 2 of Part A of Annex XIII and in Annex XIV."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:70",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

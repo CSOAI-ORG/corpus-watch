@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:102",
+ "label": "EU-ivdr-2017 Article 102",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "aa45825c45c6111decc17f7caf92d952016cebf5499b8bb94497e61478331ceb",
+ "sha256_v1": "",
+ "sha256_v2": "aa45825c45c6111decc17f7caf92d952016cebf5499b8bb94497e61478331ceb",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "aa45825c45c6111decc17f7caf92d952016cebf5499b8bb94497e61478331ceb",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:102/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Unless otherwise provided for in this Regulation and without prejudice to existing national provisions and practices in the Member States on confidentiality, all parties involved in the application of this Regulation shall respect the confidentiality of information and data obtained in carrying out their tasks in order to protect the following:"
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:102/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Without prejudice to paragraph 1, information exchanged on a confidential basis between competent authorities and between competent authorities and the Commission shall not be disclosed without the prior agreement of the originating authority."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:102/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Paragraphs 1 and 2 shall not affect the rights and obligations of the Commission, Member States and notified bodies with regard to exchange of information and the dissemination of warnings, nor the obligations of the persons concerned to provide information under criminal law."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:102",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

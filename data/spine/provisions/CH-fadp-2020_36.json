@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "CH-fadp-2020:36",
+ "label": "CH-fadp-2020 Art. 36",
+ "instrument": "CH-fadp-2020",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "589e5ef1e1c6d3cc31dec1f0f8ed6c262eaf3d6d9c65dfa599987d8bc9e9b04a",
+ "sha256_v1": "",
+ "sha256_v2": "589e5ef1e1c6d3cc31dec1f0f8ed6c262eaf3d6d9c65dfa599987d8bc9e9b04a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "CH",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 79,
+ "sha256_current": "589e5ef1e1c6d3cc31dec1f0f8ed6c262eaf3d6d9c65dfa599987d8bc9e9b04a",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "CH-fadp-2020:36/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=CH-fadp-2020:36",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s20H",
+ "label": "AU-privacy-act-1988 Section 20H",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7cd1430d263fdee529fb3f79b68017a4431e955e8ffd37ff7f8bdae260f04318",
+ "sha256_v1": "",
+ "sha256_v2": "7cd1430d263fdee529fb3f79b68017a4431e955e8ffd37ff7f8bdae260f04318",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "7cd1430d263fdee529fb3f79b68017a4431e955e8ffd37ff7f8bdae260f04318",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s20H/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "20H  Use or disclosure of prescreening assessments\nUse or disclosure by credit reporting bodies\n(1)\tIf a credit reporting body makes a prescreening assessment in relation to direct marketing by, or on behalf of, a credit provider, the body must not use or disclose the assessment."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s20H/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\tIf the credit reporting body discloses the prescreening assessment under subsection (2), the body must make a written note of that disclosure."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s20H/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Use or disclosure by recipients\n(4)\tIf the credit reporting body discloses the prescreening assessment under subsection (2), the recipient must not use or disclose the assessment."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s20H/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\tIf the recipient uses the prescreening assessment under subsection (5), the recipient must make a written note of that use."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s20H",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

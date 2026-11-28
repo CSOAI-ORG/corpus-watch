@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:46",
+ "label": "EU-dma-2022 Article 46",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "e23abe61a2ed69754204a7edcc9e7a9961053ae3e73a56c97f691e0347e3c899",
+ "sha256_v1": "",
+ "sha256_v2": "e23abe61a2ed69754204a7edcc9e7a9961053ae3e73a56c97f691e0347e3c899",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "e23abe61a2ed69754204a7edcc9e7a9961053ae3e73a56c97f691e0347e3c899",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:46/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)\nthe form, content and other details of the technical measures that gatekeepers shall implement in order to ensure compliance with Article 5, 6 or 7;"
+  },
+  {
+   "obligation_id": "EU-dma-2022:46/p1/s2",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(g)\nthe methodology and procedure for the audited description of techniques used for profiling of consumers provided for in Article 15(1); when developing a draft implementing act for this purpose, the Commission shall consult the European Data Protection Supervisor and may consult the European Data Protection Board, civil society and other relevant experts;"
+  },
+  {
+   "obligation_id": "EU-dma-2022:46/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The implementing acts referred to in paragraph 1, points (a) to (k), and point (m) of this Article shall be adopted in accordance with the advisory procedure referred to in Article 50(2)."
+  },
+  {
+   "obligation_id": "EU-dma-2022:46/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The implementing act referred to in paragraph 1, point (l), of this Article shall be adopted in accordance with the examination procedure referred to in Article 50(3)."
+  },
+  {
+   "obligation_id": "EU-dma-2022:46/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Before the adoption of any implementing act pursuant to paragraph 1, the Commission shall publish a draft thereof and invite all interested parties to submit their comments within a time limit, which may not be less than one month."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:46",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

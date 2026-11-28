@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:137",
+ "label": "EU-mica-2023 Article 137",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "9e9cca13a393b873d63d6e2f40886e538fe9ba612c5ea46ec0954e033253ea46",
+ "sha256_v1": "",
+ "sha256_v2": "9e9cca13a393b873d63d6e2f40886e538fe9ba612c5ea46ec0954e033253ea46",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "9e9cca13a393b873d63d6e2f40886e538fe9ba612c5ea46ec0954e033253ea46",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:137/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "EBA shall charge fees to issuers of significant asset-referenced tokens and issuers of significant e-money tokens."
+  },
+  {
+   "obligation_id": "EU-mica-2023:137/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Those fees shall cover EBA’s expenditure for the execution of its supervisory tasks relating to issuers of significant asset-referenced tokens and issuers of significant e-money tokens in accordance with Articles 117 and 119, as well as the reimbursement of costs that the competent authorities might incur carrying out work under this Regulation, in particular as a result of any delegation of tasks in accordance with Article 138."
+  },
+  {
+   "obligation_id": "EU-mica-2023:137/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The amount of the fee charged to an individual issuer of a significant asset-referenced token shall be proportionate to the size of its reserve assets and shall cover all costs incurred by EBA for the performance of its supervisory tasks under this Regulation."
+  },
+  {
+   "obligation_id": "EU-mica-2023:137/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The amount of the fee charged to an individual issuer of a significant e-money token shall be proportionate to the size of issuance of the e-money token in exchange for funds and shall cover all costs derived from the execution of EBA’s supervisory tasks under this Regulation, including the reimbursement of any costs incurred as a result of the execution of those tasks."
+  },
+  {
+   "obligation_id": "EU-mica-2023:137/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall adopt a delegated act in accordance with Article 139 by 30 June 2024 to supplement this Regulation by specifying further the type of fees, the matters for which fees are due, the amount of the fees and the manner in which they are to be paid and the methodology to calculate the maximum amount per entity referred to in paragraph 2 of this Article that can be charged by EBA."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:137",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

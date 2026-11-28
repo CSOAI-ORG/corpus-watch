@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB2355-2024:SEC-1",
+ "label": "US-CA-AB2355-2024 SECTION 1.",
+ "instrument": "US-CA-AB2355-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f6d363a4cf056d78fe3547739ec411cf63ba262a82c82a0bdd71b87f7875dc93",
+ "sha256_v1": "",
+ "sha256_v2": "f6d363a4cf056d78fe3547739ec411cf63ba262a82c82a0bdd71b87f7875dc93",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "f6d363a4cf056d78fe3547739ec411cf63ba262a82c82a0bdd71b87f7875dc93",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB2355-2024:SEC-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)An advertisement paid for by a committee, other than a political party committee or a candidate controlled committee established for an elective office of the controlling candidate, that is disseminated over the radio or by telephonic means shall include the disclosures required by Sections 84502, 84503, 84506.5, and 84514 at the beginning or end of the advertisement, read in a clearly spoken manner and in a pitch and tone substantially similar to the rest of the advertisement, and shall last no less than three seconds."
+  },
+  {
+   "obligation_id": "US-CA-AB2355-2024:SEC-1/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)Notwithstanding the definition of “top contributors” in paragraph (1) of subdivision (c) of Section 84501, radio and prerecorded telephonic advertisements shall disclose only the top two contributors of fifty thousand dollars ($50,000) or more unless the advertisement lasts 15 seconds or less or the disclosure statement would last more than eight seconds, in which case only the single top contributor of fifty thousand dollars ($50,000) or more shall be disclosed."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB2355-2024:SEC-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

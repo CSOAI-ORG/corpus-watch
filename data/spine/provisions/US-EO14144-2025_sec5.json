@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-EO14144-2025:sec5",
+ "label": "US-EO14144-2025 Sec. 5",
+ "instrument": "US-EO14144-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "b40fd2fa07bf548ad037ac90625f79d8c46994aadfedd6dd7ccdffa3eaa754c8",
+ "sha256_v1": "",
+ "sha256_v2": "b40fd2fa07bf548ad037ac90625f79d8c46994aadfedd6dd7ccdffa3eaa754c8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 0,
+ "sha256_current": "b40fd2fa07bf548ad037ac90625f79d8c46994aadfedd6dd7ccdffa3eaa754c8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-EO14144-2025:sec5/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(ii) Within 270 days of the date of this order, the Secretary of Commerce, acting through the Director of NIST, shall issue practical implementation guidance, in collaboration with relevant agencies and other stakeholders through the National Cybersecurity Center of Excellence, to support remote digital identity verification using digital identity documents that will help issuers and verifiers of digital identity documents advance the policies and principles described in this section."
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec5/p5/s2",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "To support the use of such services, the Commissioner of Social Security, and the head of any other agency designated by the Director of OMB, shall, as appropriate and consistent with applicable law, consider taking steps to develop or modify services-- including through, as appropriate, the initiation of a proposed rulemaking or the publication of a notice of a new or significantly modified routine use of records-- related to Government-operated identity verification systems and public benefits programs, with consideration given to having such systems and programs submit applicant-provided identity information to the agency providing the service and receive a ``yes'' or ``no'' response as t"
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec5/p5/s3",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In doing so, the heads of these agencies shall specifically consider seeking to ensure, consistent with applicable law, that:"
+  },
+  {
+   "obligation_id": "US-EO14144-2025:sec5/p5/s4",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c) The Secretary of the Treasury, in consultation with the Administrator of General Services, shall research, develop, and conduct a pilot program for technology that notifies individuals and entities when their identity information is used to request a payment from a public benefits program, gives individuals and entities the option to stop potentially fraudulent transactions before they occur, and reports fraudulent transactions to law enforcement entities."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-EO14144-2025:sec5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

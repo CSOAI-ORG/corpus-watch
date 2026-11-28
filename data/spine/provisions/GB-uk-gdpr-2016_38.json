@@ -1,0 +1,96 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-uk-gdpr-2016:38",
+ "label": "GB-uk-gdpr-2016 Article 38",
+ "instrument": "GB-uk-gdpr-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "87cb6f39a763c351c7c3af6394672cfd9497a40360dc01aee5b7a155899841e8",
+ "sha256_v1": "",
+ "sha256_v2": "87cb6f39a763c351c7c3af6394672cfd9497a40360dc01aee5b7a155899841e8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "87cb6f39a763c351c7c3af6394672cfd9497a40360dc01aee5b7a155899841e8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-uk-gdpr-2016:38/p1/s1",
+   "paragraph": "1",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "The controller and the processor shall ensure that the data protection officer is involved, properly and in a timely manner, in all issues which relate to the protection of personal data."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:38/p2/s1",
+   "paragraph": "2",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller and processor shall support the data protection officer in performing the tasks referred to in Article 39 by providing resources necessary to carry out those tasks and access to personal data and processing operations, and to maintain his or her expert knowledge."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:38/p3/s1",
+   "paragraph": "3",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "The controller and processor shall ensure that the data protection officer does not receive any instructions regarding the exercise of those tasks."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:38/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "He or she shall not be dismissed or penalised by the controller or the processor for performing his tasks."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:38/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The data protection officer shall directly report to the highest management level of the controller or the processor."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:38/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The data protection officer shall be bound by secrecy or confidentiality concerning the performance of his or her tasks, in accordance with domestic law."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:38/p6/s1",
+   "paragraph": "6",
+   "addressee": "processor",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "The controller or processor shall ensure that any such tasks and duties do not result in a conflict of interests."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-uk-gdpr-2016:38",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

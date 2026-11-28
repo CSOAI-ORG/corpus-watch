@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-platform-work-2024:13",
+ "label": "EU-platform-work-2024 Article 13",
+ "instrument": "EU-platform-work-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a80d1c807e4c77e7dfc5fb41630d2a840b4def5dea481b6bd2eb2f6cc951b139",
+ "sha256_v1": "",
+ "sha256_v2": "a80d1c807e4c77e7dfc5fb41630d2a840b4def5dea481b6bd2eb2f6cc951b139",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a80d1c807e4c77e7dfc5fb41630d2a840b4def5dea481b6bd2eb2f6cc951b139",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-platform-work-2024:13/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that information and consultation, as defined in Article 2, points (f) and (g), of Directive 2002/14/EC, of workers’ representatives by digital labour platforms also covers decisions likely to lead to the introduction of or to substantial changes in the use of automated monitoring systems or automated decision-making systems."
+  },
+  {
+   "obligation_id": "EU-platform-work-2024:13/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the purposes of this paragraph, information and consultation of workers’ representatives shall be carried out under the same arrangements concerning the exercise of information and consultation rights as those laid down in Directive 2002/14/EC."
+  },
+  {
+   "obligation_id": "EU-platform-work-2024:13/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where a digital labour platform has more than 250 workers in the Member State concerned, the expenses of the expert shall be borne by the digital labour platform, provided that they are proportionate."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-platform-work-2024:13",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

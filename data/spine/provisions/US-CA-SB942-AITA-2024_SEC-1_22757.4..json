@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB942-AITA-2024:SEC-1:22757.4.",
+ "label": "US-CA-SB942-AITA-2024 SECTION 1. / 22757.4.",
+ "instrument": "US-CA-SB942-AITA-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "6287a5b6b672f69a510f531e5372b3688168473b7edfda1273abb1d70592abf8",
+ "sha256_v1": "",
+ "sha256_v2": "6287a5b6b672f69a510f531e5372b3688168473b7edfda1273abb1d70592abf8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "6287a5b6b672f69a510f531e5372b3688168473b7edfda1273abb1d70592abf8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB942-AITA-2024:SEC-1:22757.4./p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)(1)A covered provider that violates this chapter shall be liable for a civil penalty in the amount of five thousand dollars ($5,000) per violation to be collected in a civil action filed by the Attorney General, a city attorney, or a county counsel."
+  },
+  {
+   "obligation_id": "US-CA-SB942-AITA-2024:SEC-1:22757.4./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)A prevailing plaintiff in an action brought pursuant to this subdivision shall be entitled to all reasonable attorney’s costs and fees."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB942-AITA-2024:SEC-1:22757.4.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

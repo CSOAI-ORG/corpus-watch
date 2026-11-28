@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ccd2-2023:16",
+ "label": "EU-ccd2-2023 Article 16",
+ "instrument": "EU-ccd2-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "65357f94f6f0834e653ac3cca9bebe0f1640d054aa4351f67b6d3ae60dd15bad",
+ "sha256_v1": "",
+ "sha256_v2": "65357f94f6f0834e653ac3cca9bebe0f1640d054aa4351f67b6d3ae60dd15bad",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "AMENDED",
+ "change_edits": null,
+ "sha256_current": "65357f94f6f0834e653ac3cca9bebe0f1640d054aa4351f67b6d3ae60dd15bad",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ccd2-2023:16/p1/s1",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall require that the creditor and, where applicable, the credit intermediary explicitly inform the consumer, in the context of a given transaction, whether advisory services are being or can be provided to the consumer."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:16/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall require that the creditor and, where applicable, the credit intermediary, before the provision of advisory services or the conclusion of a contract for the provision of such services, provide the consumer with the following information on paper or another durable medium chosen by the consumer: ▼C1 (a) an indication of whether the recommendation will be based on only their own product range, in accordance with paragraph 3, point (c), or on a wide range of products from across the market; ▼B (b) where applicable, an indication of the fee payable by the consumer for the advisory services or, where the amount of such fee cannot be established at the time when the information "
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:16/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where advisory services are provided to consumers, Member States shall require that creditors and, where applicable, credit intermediaries:"
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:16/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) assess the financial situation and the needs of the consumer on the basis of the information referred to in point (a), which shall be up to date at the time of the assessment, taking into account reasonable assumptions as to the risks to the consumer’s financial situation over the term of the recommended credit agreement;"
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:16/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Where Member States do not prohibit the use of the terms ‘advice’ and ‘advisor’ or similar terms, they shall impose the following conditions on the use of the term ‘independent advice’ or ‘independent advisor’ by creditors and credit intermediaries providing advisory services:"
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:16/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a) creditors and, where applicable, credit intermediaries shall consider a sufficiently large number of credit agreements available on the market; and (b) credit intermediaries shall not be remunerated for the advisory services by one or more creditors."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:16/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall require that creditors and, where applicable, credit intermediaries warn a consumer when a credit agreement may induce a specific risk for the consumer considering the consumer’s financial situation."
+  },
+  {
+   "obligation_id": "EU-ccd2-2023:16/p6/s1",
+   "paragraph": "6",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that advisory services may only be provided by creditors and, where applicable, credit intermediaries."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ccd2-2023:16",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

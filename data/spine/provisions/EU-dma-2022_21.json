@@ -1,0 +1,106 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:21",
+ "label": "EU-dma-2022 Article 21",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "a03d0ea3b2d96f27a53f21328dba3c7dc4ab7d5354a35d8377534c1873aadf12",
+ "sha256_v1": "",
+ "sha256_v2": "a03d0ea3b2d96f27a53f21328dba3c7dc4ab7d5354a35d8377534c1873aadf12",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a03d0ea3b2d96f27a53f21328dba3c7dc4ab7d5354a35d8377534c1873aadf12",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:21/p2/s1",
+   "paragraph": "2",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "When sending a simple request for information to an undertaking or association of undertakings, the Commission shall state the legal basis and purpose of the request, specify what information is required and fix the time limit within which the information is to be provided, as well as the fines provided for in Article 30 applicable for supplying incomplete, incorrect or misleading information or explanations."
+  },
+  {
+   "obligation_id": "EU-dma-2022:21/p3/s1",
+   "paragraph": "3",
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where the Commission requires undertakings and associations of undertakings to supply information by decision, it shall state the legal basis and purpose of the request, specify what information is required and fix the time limit within which the information is to be provided."
+  },
+  {
+   "obligation_id": "EU-dma-2022:21/p3/s2",
+   "paragraph": "3",
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "cooperate",
+   "status": "DRAFT",
+   "text": "Where the Commission requires undertakings to provide access to any data, algorithms and information about testing, it shall state the purpose of the request and fix the time -limit within which it is to be provided."
+  },
+  {
+   "obligation_id": "EU-dma-2022:21/p3/s3",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It shall also indicate the fines provided for in Article 30 and indicate or impose the periodic penalty payments provided for in Article"
+  },
+  {
+   "obligation_id": "EU-dma-2022:21/p31/s1",
+   "paragraph": "31",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "It shall further indicate the right to have the decision reviewed by the Court of Justice."
+  },
+  {
+   "obligation_id": "EU-dma-2022:21/p4/s1",
+   "paragraph": "4",
+   "addressee": "undertaking",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The undertakings or associations of undertakings or their representatives shall supply the information requested on behalf of the undertaking or the association of undertakings concerned."
+  },
+  {
+   "obligation_id": "EU-dma-2022:21/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The latter shall remain fully responsible if the information supplied is incomplete, incorrect or misleading."
+  },
+  {
+   "obligation_id": "EU-dma-2022:21/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "At the request of the Commission, the competent authorities of the Member States shall provide the Commission with all necessary information in their possession to carry out the duties assigned to it by this Regulation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:21",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

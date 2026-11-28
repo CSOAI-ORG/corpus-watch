@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-UT-SB271-AIimpersonation-2025:Section-4",
+ "label": "US-UT-SB271-AIimpersonation-2025 Section 4",
+ "instrument": "US-UT-SB271-AIimpersonation-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f67c2ce8d40fb4b6dedfa747a5965683e61bd6ff6ed3e87c06d0c5ae1abd7d19",
+ "sha256_v1": "",
+ "sha256_v2": "f67c2ce8d40fb4b6dedfa747a5965683e61bd6ff6ed3e87c06d0c5ae1abd7d19",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f67c2ce8d40fb4b6dedfa747a5965683e61bd6ff6ed3e87c06d0c5ae1abd7d19",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-UT-SB271-AIimpersonation-2025:Section-4/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2) In an action under this section, the plaintiff shall be entitled to injunctive relief, damages alleged and proved, exemplary damages, and reasonable attorney's fees and costs."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-UT-SB271-AIimpersonation-2025:Section-4",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

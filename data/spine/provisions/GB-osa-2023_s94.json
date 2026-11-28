@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s94",
+ "label": "GB-osa-2023 Section 94",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "bc95283df1c2827528e6b37841cef238b95268a882be8910db22ca3df120b028",
+ "sha256_v1": "",
+ "sha256_v2": "bc95283df1c2827528e6b37841cef238b95268a882be8910db22ca3df120b028",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "bc95283df1c2827528e6b37841cef238b95268a882be8910db22ca3df120b028",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s94/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Meaning of threshold conditions etc\n(1)\nSchedule 11 contains provision about regulations specifying the threshold conditions that a Part 3 service must meet to be included in the relevant part of the register established by OFCOM under section 95, and associated provision about the publication of OFCOM’s advice."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s94",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

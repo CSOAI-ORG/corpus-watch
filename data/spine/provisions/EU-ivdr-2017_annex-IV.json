@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:annex-IV",
+ "label": "EU-ivdr-2017 Annex IV",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "83218cd0ba6121992edaaf37c5233e666a99198b0b20744df00b7aae21cb6ff5",
+ "sha256_v1": "",
+ "sha256_v2": "83218cd0ba6121992edaaf37c5233e666a99198b0b20744df00b7aae21cb6ff5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "83218cd0ba6121992edaaf37c5233e666a99198b0b20744df00b7aae21cb6ff5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:annex-IV/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ANNEX IV\nEU DECLARATION OF CONFORMITY\nThe EU declaration of conformity shall contain the following information:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:annex-IV",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

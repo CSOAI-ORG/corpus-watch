@@ -1,0 +1,406 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-c2pa-spec-2026:section-12",
+ "label": "INTL-c2pa-spec-2026 Section 12",
+ "instrument": "INTL-c2pa-spec-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "8db821ba4c061f1602ea8cf78c19e1850e9979cb52b773aa2cf046c858c35061",
+ "sha256_v1": "",
+ "sha256_v2": "8db821ba4c061f1602ea8cf78c19e1850e9979cb52b773aa2cf046c858c35061",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "8db821ba4c061f1602ea8cf78c19e1850e9979cb52b773aa2cf046c858c35061",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s1",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Hashing\nAll cryptographic hashes used in the creation and validation of C2PA Manifests (and their contents) as per the technical requirements of this specification shall be generated using one of the hash algorithms as described in this section."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s2",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A list of hash algorithms that generators should use for generating hashes of new content and that validators shall support for validating hashes of existing content (the allowed list);"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s3",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A list of hash algorithms that validators should support for validating hashes of existing content but that generators shall not produce (the deprecated list)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s4",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An algorithm shall appear in no more than one list."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s5",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "An algorithm that is instantiated over multiple output lengths (such as the various lengths of SHA2) will each be considered different algorithms, and each instantiation shall be listed separately."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s6",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If an algorithm does not appear in either list, it is forbidden and shall not be used or supported."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s7",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For this reason, implementations shall not support additional algorithms on an optional basis."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s8",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The outputs of hash functions shall be stored as their binary values encoded into CBOR as byte strings (major type 2) with a declared length."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s9",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Wherever a field contains the output of a hash function, an algorithm identifier string field shall be present within the same structure, or within an enclosing structure, or in the claim-map or claim-map-v2 structure to declare which algorithm was used."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s10",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A hash algorithm identifier field should be present in exactly one of these places, but if more than one is present within the structure and its enclosing structures, the nearest identifier shall be used."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s11",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If no identifier is present in any of these places, then the alg field from the claim-map or claim-map-v2 structure shall be used."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s12",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A single manifest shall not contain more than one assertion defining a hard binding but may contain zero or more assertions defining soft bindings.\n12.2.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s13",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For fragmented MP4 (fMP4) files, the assertion itself shall be combined with chunk-specific hashing information which is located as specified in Section A.5, “Embedding manifests into BMFF-based assets”."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s14",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Hashing unstructured text assets\nFor unstructured text assets that have a C2PA Manifest embedded using Unicode Variation Selectors as described in Section A.8, “Embedding Manifests into Unstructured Text”, a data hash assertions shall be used."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s15",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Hashing structured text assets\nFor structured text assets that have a C2PA Manifest associated using ASCII armour-style delimiters as described in Section A.9, “Embedding Manifests into Structured Text”, a data hash assertion shall be used."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s16",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Hashing append-only text assets\nFor files that are written only by appending complete lines to the end of the file, such as application logs, event logs and JSON Lines streams, as described in Section A.3.17, “Embedding manifests into append-only text files”, a segment hash assertion shall be used."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s17",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Hashing a Collection\nIn workflows where the C2PA Manifest will refer to a collection of assets, instead of a single asset, the collection data hash assertion shall be used as the method to specify the hard bindings for the assets in the collection."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s18",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Hashing assets with multiple parts\nFor file formats that aggregate multiple distinct parts, such as CIPA Multi-Picture Format (MPF) or Android Ultra HDR, where the integrity of each part must be independently verifiable, the multi-asset hash assertion shall be used alongside the hard binding assertion for the file as a whole, recording a hash for each part."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s19",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Because they serve a different purpose, a soft binding shall not be used as a hard binding.\n12.2.3.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s20",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Digital Signatures\nAll claim signatures shall be generated using one of the digital signature algorithms and key types listed as described in this section."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s21",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A list of digital signature algorithms and key types that generators should use for new claim signatures and that validators shall support for validating existing claim signatures (the allowed list);"
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s22",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A list of digital signature algorithms and key types that validators should support for validating existing claim signatures but that generators shall not use for creating new claim signatures (the deprecated list)."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s24",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Implementations shall check that keys provided for signing or verification operations are correct for the chosen algorithm, as required by RFC 9053, section 2.1 for ECDSA, RFC 9053, section 2.2 for EdDSA, RFC 8230, section 2 and section 4 for RSASSA-PSS, and RFC 9964, section 7.3 and section 7.4 for ML-DSA."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s25",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "P-256 keys shall be used with ES256 or ESP256, P-384 keys with ES384 or ESP384, and P-521 keys with ES512 or ESP512."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s26",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Implementations shall refuse to generate or verify signatures with keys that are not correct for the algorithm choice."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s27",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Regardless of whether the payload will be present in or detached from the COSE_Sign1_Tagged signature; the contents of the payload field of Sig_structure in memory, when constructed to compute or verify a digital signature, shall be populated with that external data as described by the particular use of digital signature in this specification."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s28",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The payload field of Sig_structure shall never be nil."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s29",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The value for the context element shall be Signature1 except where a particular use of digital signatures in this specification specifies using CounterSignature instead."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s30",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Signature shall not be used."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s31",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The external_aad element shall be a bstr of length zero."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s32",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "External authenticated data shall not be used."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s33",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The alg header specifying the signature algorithm shall be present in the body_protected element as defined in RFC 9052, section 3.1."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s34",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "All digital signatures in C2PA structures shall be a COSE_Sign1_Tagged structure as defined in RFC 9052, section 4.2."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s35",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The same alg header in the Sig_structure above shall be present in the protected header bucket."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s36",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When the payload is specified as detached, its value here shall be nil."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s37",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If present, it shall represent the time at which the signature was generated."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s38",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In this case, the contents of the payload field of Sig_structure shall be populated from the same external source that was used in the generation of the signature."
+  },
+  {
+   "obligation_id": "INTL-c2pa-spec-2026:section-12/p12/s39",
+   "paragraph": "12",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "To locate such a graphic, it shall look inside the embedded certificate for a logotype as defined in RFC 9399."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-c2pa-spec-2026:section-12",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

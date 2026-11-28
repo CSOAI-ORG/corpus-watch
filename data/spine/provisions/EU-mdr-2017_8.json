@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:8",
+ "label": "EU-mdr-2017 Article 8",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "78d085eccd10f29671d7acb147a90b4c91db2aaba85a8b636ef4ac2b8b0bab55",
+ "sha256_v1": "",
+ "sha256_v2": "78d085eccd10f29671d7acb147a90b4c91db2aaba85a8b636ef4ac2b8b0bab55",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "78d085eccd10f29671d7acb147a90b4c91db2aaba85a8b636ef4ac2b8b0bab55",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:8/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Devices that are in conformity with the relevant harmonised standards, or the relevant parts of those standards, the references of which have been published in the Official Journal of the European Union, shall be presumed to be in conformity with the requirements of this Regulation covered by those standards or parts thereof."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:8/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "The first subparagraph shall also apply to system or process requirements to be fulfilled in accordance with this Regulation by economic operators or sponsors, including those relating to quality management systems, risk management, post-market surveillance systems, clinical investigations, clinical evaluation or post-market clinical follow-up (‘PMCF’)."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:8/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "References in this Regulation to harmonised standards shall also include the monographs of the European Pharmacopoeia adopted in accordance with the Convention on the Elaboration of a European Pharmacopoeia, in particular on surgical sutures and on interaction between medicinal products and materials used in devices containing such medicinal products, provided that references to those monographs have been published in the Official Journal of the European Union."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:8",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

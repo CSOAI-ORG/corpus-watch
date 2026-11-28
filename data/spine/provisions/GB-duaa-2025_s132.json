@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s132",
+ "label": "GB-duaa-2025 Section 132",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a4dcaa7e84e24d977be1332c5858becb04662813b3fab76133a0aa54fef8a992",
+ "sha256_v1": "",
+ "sha256_v2": "a4dcaa7e84e24d977be1332c5858becb04662813b3fab76133a0aa54fef8a992",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a4dcaa7e84e24d977be1332c5858becb04662813b3fab76133a0aa54fef8a992",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s132/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When making regulations under this Article in relation to a description of overseas trust product, the Secretary of State must have regard to (among other things) the law in the other country or territory relevant to that description of product and related trust services."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s132/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When making regulations under this Article in relation to a description of overseas electronic signature or overseas electronic seal, the Secretary of State must have regard to (among other things) the law in the other country or territory relevant to that description of signature or seal and related trust services."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s132/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Before making regulations under Article 45A or 45B, the Secretary of State must consult the supervisory body."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s132",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s50",
+ "label": "GB-duaa-2025 Section 50",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "c94855dd53e6d0b2da92e00c47ab56d21ee7dd4b272bce1d1efc654b8055ffa8",
+ "sha256_v1": "",
+ "sha256_v2": "c94855dd53e6d0b2da92e00c47ab56d21ee7dd4b272bce1d1efc654b8055ffa8",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "c94855dd53e6d0b2da92e00c47ab56d21ee7dd4b272bce1d1efc654b8055ffa8",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s50/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(2)\nA mark designated under this section must be published by the Secretary of State."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s50",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-machinery-2023:25",
+ "label": "EU-machinery-2023 Article 25",
+ "instrument": "EU-machinery-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "fbb5c9620774cb0b911c882b18c5340883fbd2de30a856b3aeea184c1ce3dc40",
+ "sha256_v1": "",
+ "sha256_v2": "fbb5c9620774cb0b911c882b18c5340883fbd2de30a856b3aeea184c1ce3dc40",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "fbb5c9620774cb0b911c882b18c5340883fbd2de30a856b3aeea184c1ce3dc40",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-machinery-2023:25/p3/s2",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If a manufacturer applies the internal production control procedure referred to in point (a), it shall design and construct the machinery or related product in accordance with the harmonised standards or common specifications specific to that category of machinery or related product covering all the relevant essential health and safety requirements."
+  },
+  {
+   "obligation_id": "EU-machinery-2023:25/p5/s1",
+   "paragraph": "5",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Notified bodies shall take into account the specific interests and needs of small and medium sized enterprises when setting the fees for conformity assessment."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-machinery-2023:25",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

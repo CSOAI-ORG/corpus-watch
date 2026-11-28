@@ -1,0 +1,216 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:32",
+ "label": "EU-ehds-2025 Article 32",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "c8c763190b017956a8210d4b3cadfeec6bd2349b634f7ddce8b5b7c8ba1f5335",
+ "sha256_v1": "",
+ "sha256_v2": "c8c763190b017956a8210d4b3cadfeec6bd2349b634f7ddce8b5b7c8ba1f5335",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "c8c763190b017956a8210d4b3cadfeec6bd2349b634f7ddce8b5b7c8ba1f5335",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:32/p1/s1",
+   "paragraph": "1",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Importers shall place on the Union market only EHR systems which are in conformity with the essential requirements laid down in Annex II as well as the common specifications referred to in Article 36."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:32/p2/s1",
+   "paragraph": "2",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Before making an EHR system available on the market, importers shall ensure that:"
+  },
+  {
+   "obligation_id": "EU-ehds-2025:32/p3/s1",
+   "paragraph": "3",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "contact-point",
+   "status": "DRAFT",
+   "text": "Importers shall indicate their name, registered trade name or registered trade mark, the postal address, website, email address or other digital contact details through which they can be contacted in a document accompanying the EHR system."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:32/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "contact-point",
+   "status": "DRAFT",
+   "text": "The contact details shall indicate a single point at which the manufacturer can be contacted and shall be in a language which can be easily understood by users and market surveillance authorities."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:32/p3/s3",
+   "paragraph": "3",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Importers shall ensure that any additional label does not conceal or obscure any of the information provided by the manufacturer that appears on any original label which is provided for the EHR system."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:32/p4/s1",
+   "paragraph": "4",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Importers shall ensure that, while an EHR system is under their responsibility, the EHR system is not altered in such a way that its conformity with the essential requirements laid down in Annex II and with any requirements adopted pursuant to Article 42 is jeopardised."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:32/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where an importer considers or has reason to believe that an EHR system is not or is no longer in conformity with the essential requirements laid down in Annex II and with any requirements adopted pursuant to Article 42, it shall not make that EHR system available on the market, or, if that EHR system was already placed on the market, shall recall or withdraw it, until the EHR system has been brought into conformity."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:32/p5/s2",
+   "paragraph": "5",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the event of such recall or withdrawal, the importer shall inform without undue delay the manufacturer of such EHR system, the users and the market surveillance authorities of the Member State in which it made the EHR system available on the market of such recall or withdrawal, giving details, in particular, of the non-conformity and of any corrective measures taken."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:32/p5/s3",
+   "paragraph": "5",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where an importer considers or has reason to believe that an EHR system presents a risk to the health or safety of natural persons, it shall without undue delay inform the market surveillance authorities of the Member State in which it is established, as well as the manufacturer and, where applicable, the authorised representative."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:32/p6/s1",
+   "paragraph": "6",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Importers shall keep a copy of the EU declaration of conformity at the disposal of the market surveillance authorities for the period referred to in Article 30(3) and ensure that the technical documentation referred to in Article 37 can be made available to those authorities, upon request."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:32/p7/s1",
+   "paragraph": "7",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Importers shall, further to a reasoned request from market surveillance authorities of the Member States concerned, provide them with all the information and documentation necessary to demonstrate the conformity of an EHR system."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:32/p7/s2",
+   "paragraph": "7",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "cooperate",
+   "status": "DRAFT",
+   "text": "Importers shall cooperate with those authorities, at their request, and with the manufacturer and, where applicable, with the authorised representative in an official language of the Member State where the market surveillance authority is located."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:32/p7/s3",
+   "paragraph": "7",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "cooperate",
+   "status": "DRAFT",
+   "text": "Importers shall cooperate with those authorities, at their request, on any action taken to bring their EHR systems into conformity with the essential requirements in relation to the harmonised software components as laid down in Annex II or to ensure that the EHR systems which are not in conformity with those essential requirements are recalled or withdrawn."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:32/p8/s1",
+   "paragraph": "8",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "Importers shall establish reporting channels and ensure that they are accessible to allow users to submit complaints, and shall keep a register of complaints, of non-conforming EHR systems and EHR system recalls and withdrawals."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:32/p8/s2",
+   "paragraph": "8",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Importers shall verify whether the channels of complaint established pursuant to Article 30(1), point (n), are publicly available, allowing users to submit complaints and to receive any communication concerning any risk related to their health and safety or to other aspects of public interest protection and allowing users to be informed of any serious incident involving an EHR system."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:32/p8/s3",
+   "paragraph": "8",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where such channels of complaint were not established, the importers shall establish them and take into account the accessibility needs of vulnerable groups and persons with disabilities."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:32/p9/s1",
+   "paragraph": "9",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Importers shall investigate complaints and follow up on information received on incidents involving an EHR system they made available on the market."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:32/p9/s2",
+   "paragraph": "9",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Importers shall register those complaints, any recalls or withdrawals of EHR systems and any corrective measure taken to bring the EHR system into conformity, in the register referred to in Article 30(1), point (o), or in their own internal register."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:32/p9/s3",
+   "paragraph": "9",
+   "addressee": "importer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Importers shall keep the manufacturer, distributors and, where relevant, authorised representatives informed in a timely manner of the investigation and follow-up carried out and of the results of the investigation and follow-up."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:32",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

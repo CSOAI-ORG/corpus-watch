@@ -1,0 +1,236 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dsa-2022:21",
+ "label": "EU-dsa-2022 Article 21",
+ "instrument": "EU-dsa-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "ee5d685fdf27fded82e4d64656bfb808474f70daca9be112fb82ef81904f16f5",
+ "sha256_v1": "",
+ "sha256_v2": "ee5d685fdf27fded82e4d64656bfb808474f70daca9be112fb82ef81904f16f5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "ee5d685fdf27fded82e4d64656bfb808474f70daca9be112fb82ef81904f16f5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dsa-2022:21/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Recipients of the service, including individuals or entities that have submitted notices, addressed by the decisions referred to in Article 20(1) shall be entitled to select any out-of-court dispute settlement body that has been certified in accordance with paragraph 3 of this Article in order to resolve disputes relating to those decisions, including complaints that have not been resolved by means of the internal complaint-handling system referred to in that Article."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:21/p1/s2",
+   "paragraph": "1",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Providers of online platforms shall ensure that information about the possibility for recipients of the service to have access to an out-of-court dispute settlement, as referred to in the first subparagraph, is easily accessible on their online interface, clear and user-friendly."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:21/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Both parties shall engage, in good faith, with the selected certified out-of-court dispute settlement body with a view to resolving the dispute."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:21/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Digital Services Coordinator of the Member State where the out-of-court dispute settlement body is established shall, for a maximum period of five years, which may be renewed, certify the body, at its request, where the body has demonstrated that it meets all of the following conditions:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:21/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The Digital Services Coordinator shall, where applicable, specify in the certificate:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:21/p4/s1",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Certified out-of-court dispute settlement bodies shall report to the Digital Services Coordinator that certified them, on an annual basis, on their functioning, specifying at least the number of disputes they received, the information about the outcomes of those disputes, the average time taken to resolve them and any shortcomings or difficulties encountered."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:21/p4/s2",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "cooperate",
+   "status": "DRAFT",
+   "text": "They shall provide additional information at the request of that Digital Services Coordinator."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:21/p4/s3",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Digital Services Coordinators shall, every two years, draw up a report on the functioning of the out-of-court dispute settlement bodies that they certified."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:21/p4/s4",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "That report shall in particular:"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:21/p4/s5",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Certified out-of-court dispute settlement bodies shall make their decisions available to the parties within a reasonable period of time and no later than 90 calendar days after the receipt of the complaint."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:21/p4/s6",
+   "paragraph": "4",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In the case of highly complex disputes, the certified out-of-court dispute settlement body may, at its own discretion, extend the 90 calendar day period for an additional period that shall not exceed 90 days, resulting in a maximum total duration of 180 days."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:21/p5/s1",
+   "paragraph": "5",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the out-of-court dispute settlement body decides the dispute in favour of the recipient of the service, including the individual or entity that has submitted a notice, the provider of the online platform shall bear all the fees charged by the out-of-court dispute settlement body, and shall reimburse that recipient, including the individual or entity, for any other reasonable expenses that it has paid in relation to the dispute settlement."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:21/p5/s2",
+   "paragraph": "5",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "If the out-of-court dispute settlement body decides the dispute in favour of the provider of the online platform, the recipient of the service, including the individual or entity, shall not be required to reimburse any fees or other expenses that the provider of the online platform paid or is to pay in relation to the dispute settlement, unless the out-of-court dispute settlement body finds that that recipient manifestly acted in bad faith."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:21/p5/s3",
+   "paragraph": "5",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The fees charged by the out-of-court dispute settlement body to the providers of online platforms for the dispute settlement shall be reasonable and shall in any event not exceed the costs incurred by the body."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:21/p5/s4",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For recipients of the service, the dispute settlement shall be available free of charge or at a nominal fee."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:21/p5/s5",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Certified out-of-court dispute settlement bodies shall make the fees, or the mechanisms used to determine the fees, known to the recipient of the service, including to the individuals or entities that have submitted a notice, and to the provider of the online platform concerned, before engaging in the dispute settlement."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:21/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "Member States shall ensure that any of their activities undertaken under the first subparagraph do not affect the ability of their Digital Services Coordinators to certify the bodies concerned in accordance with paragraph 3."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:21/p7/s1",
+   "paragraph": "7",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "A Digital Services Coordinator that has certified an out-of-court dispute settlement body shall revoke that certification if it determines, following an investigation either on its own initiative or on the basis of the information received by third parties, that the out-of-court dispute settlement body no longer meets the conditions set out in paragraph"
+  },
+  {
+   "obligation_id": "EU-dsa-2022:21/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Before revoking that certification, the Digital Services Coordinator shall afford that body an opportunity to react to the findings of its investigation and its intention to revoke the out-of-court dispute settlement body’s certification."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:21/p8/s1",
+   "paragraph": "8",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Digital Services Coordinators shall notify to the Commission the out-of-court dispute settlement bodies that they have certified in accordance with paragraph 3, including where applicable the specifications referred to in the second subparagraph of that paragraph, as well as the out-of-court dispute settlement bodies the certification of which they have revoked."
+  },
+  {
+   "obligation_id": "EU-dsa-2022:21/p8/s2",
+   "paragraph": "8",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall publish a list of those bodies, including those specifications, on a dedicated website that is easily accessible, and keep it up to date."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dsa-2022:21",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

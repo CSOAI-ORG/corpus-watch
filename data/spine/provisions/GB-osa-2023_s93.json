@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s93",
+ "label": "GB-osa-2023 Section 93",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "944b125d3d8fec19e78c2943effa3c9391731713e2ec08adf8c40d2a9b766698",
+ "sha256_v1": "",
+ "sha256_v2": "944b125d3d8fec19e78c2943effa3c9391731713e2ec08adf8c40d2a9b766698",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "944b125d3d8fec19e78c2943effa3c9391731713e2ec08adf8c40d2a9b766698",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s93/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nAfter subsection (4) insert—\n(4A)\nAn assessment under subsection (3)(a) that relates to a proposal mentioned in subsection (2A) must include an assessment of the likely impact of implementing the proposal on small businesses and micro businesses."
+  },
+  {
+   "obligation_id": "GB-osa-2023:s93/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4B)\nAn assessment under subsection (3)(a) that relates to a proposal to do anything else for the purposes of, or in connection with, the carrying out of OFCOM’s online safety functions (within the meaning of section 235 of the Online Safety Act 2023) must, so far as the proposal relates to such functions, include an assessment of the likely impact of implementing the proposal on small businesses and micro businesses."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s93",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

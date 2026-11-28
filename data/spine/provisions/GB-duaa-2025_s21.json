@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s21",
+ "label": "GB-duaa-2025 Section 21",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "390fa0478e3ed2e3b2c47e6418af5454ba9e50d6a86bea503089b81c4239ce19",
+ "sha256_v1": "",
+ "sha256_v2": "390fa0478e3ed2e3b2c47e6418af5454ba9e50d6a86bea503089b81c4239ce19",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "390fa0478e3ed2e3b2c47e6418af5454ba9e50d6a86bea503089b81c4239ce19",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s21/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)\nmake provision about the form and manner in which things must or may be done;"
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s21/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e)\nmake provision about the time by which, or period within which, things must or may be done;"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s21",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

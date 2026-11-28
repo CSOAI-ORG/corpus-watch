@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s26R",
+ "label": "AU-privacy-act-1988 Section 26R",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "284c07faf073a95369fe1eb233323ce2aacb316cd5b94c04591c38f51cbab775",
+ "sha256_v1": "",
+ "sha256_v2": "284c07faf073a95369fe1eb233323ce2aacb316cd5b94c04591c38f51cbab775",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "284c07faf073a95369fe1eb233323ce2aacb316cd5b94c04591c38f51cbab775",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s26R/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(2)\tBefore registering the CR code under section 26S, the Commissioner must:"
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s26R/p0/s2",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "(a)\tmake a draft of the code publicly available; and\n(b)\tinvite the public to make submissions to the Commissioner about the draft within a specified period (which must run for at least 28 days); and\n(c)\tgive consideration to any submissions made within the specified period."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s26R",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

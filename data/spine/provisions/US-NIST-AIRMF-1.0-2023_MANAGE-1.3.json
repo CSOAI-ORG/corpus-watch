@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-NIST-AIRMF-1.0-2023:MANAGE-1.3",
+ "label": "US-NIST-AIRMF-1.0-2023 MANAGE 1.3",
+ "instrument": "US-NIST-AIRMF-1.0-2023",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "7901b7b06b5fd800df4efe6e1b272d722791f7d0a6460fa8168566a9628f1172",
+ "sha256_v1": "",
+ "sha256_v2": "7901b7b06b5fd800df4efe6e1b272d722791f7d0a6460fa8168566a9628f1172",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 4,
+ "sha256_current": "7901b7b06b5fd800df4efe6e1b272d722791f7d0a6460fa8168566a9628f1172",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-NIST-AIRMF-1.0-2023:MANAGE-1.3/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-NIST-AIRMF-1.0-2023:MANAGE-1.3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

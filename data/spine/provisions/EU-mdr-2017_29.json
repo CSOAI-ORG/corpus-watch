@@ -1,0 +1,86 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:29",
+ "label": "EU-mdr-2017 Article 29",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "bc4a5cb7e915af2aaeb51e63290c28fc4fd21735ae9e66b38fe5bdbcd59eb0da",
+ "sha256_v1": "",
+ "sha256_v2": "bc4a5cb7e915af2aaeb51e63290c28fc4fd21735ae9e66b38fe5bdbcd59eb0da",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "bc4a5cb7e915af2aaeb51e63290c28fc4fd21735ae9e66b38fe5bdbcd59eb0da",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:29/p1/s1",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Before placing a device, other than a custom-made device, on the market, the manufacturer shall, in accordance with the rules of the issuing entity referred to in Article 27(2), assign a Basic UDI-DI as defined in Part C of Annex VI to the device and shall provide it to the UDI database together with the other core data elements referred to in Part B of Annex VI related to that device."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:29/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Before placing on the market a system or procedure pack pursuant to Article 22(1) and (3), that is not a custom-made device, the natural or legal person responsible shall assign to the system or procedure pack, in compliance with the rules of the issuing entity, a Basic UDI-DI and shall provide it to the UDI database together with the other core data elements referred to in Part B of Annex VI related to that system or procedure pack."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:29/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "For devices that are the subject of a conformity assessment as referred to in Article 52(3) and in the second and third subparagraphs of Article 52(4), the assignment of a Basic UDI-DI referred to in paragraph 1 of this Article shall be done before the manufacturer applies to a notified body for that assessment."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:29/p3/s2",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "For the devices referred to in the first subparagraph, the notified body shall include a reference to the Basic UDI-DI on the certificate issued in accordance with point (a) of Section 4 of Chapter I of Annex XII and confirm in Eudamed that the information referred to in Section 2.2 of Part A of Annex VI is correct."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:29/p3/s3",
+   "paragraph": "3",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "After the issuing of the relevant certificate and before placing the device on the market, the manufacturer shall provide the Basic UDI-DI to the UDI database together with the other core data elements referred to in Part B of Annex VI related to that device."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:29/p4/s1",
+   "paragraph": "4",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Before placing a device on the market, other than a custom-made device, the manufacturer shall enter or if, already provided, verify in Eudamed the information referred to in Section 2 of Part A of Annex VI, with the exception of Section 2.2 thereof, and shall thereafter keep the information updated."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:29",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

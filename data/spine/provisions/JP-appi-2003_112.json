@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "JP-appi-2003:112",
+ "label": "JP-appi-2003 Article 112",
+ "instrument": "JP-appi-2003",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "a944bb3150471f9fb105eeeb6930dead06ec18469d9e2a9e4db55612df50b420",
+ "sha256_v1": "",
+ "sha256_v2": "a944bb3150471f9fb105eeeb6930dead06ec18469d9e2a9e4db55612df50b420",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "JP",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a944bb3150471f9fb105eeeb6930dead06ec18469d9e2a9e4db55612df50b420",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "JP-appi-2003:112/s3",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "２ 前項の提案は、個人情報保護委員会規則で定めるところにより、次に掲げる事項を記載した書面を行政機関の長等に提出してしなければならない。"
+  },
+  {
+   "obligation_id": "JP-appi-2003:112/s12",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "３ 前項の書面には、次に掲げる書面その他個人情報保護委員会規則で定める書類を添付しなければならない。"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=JP-appi-2003:112",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

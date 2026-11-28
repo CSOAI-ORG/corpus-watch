@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-duaa-2025:s14",
+ "label": "GB-duaa-2025 Section 14",
+ "instrument": "GB-duaa-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "2ec6ae80175c06a4d7d4d3a52773f372fa51a4bd33c285f7c4daf4d8afc2dac0",
+ "sha256_v1": "",
+ "sha256_v2": "2ec6ae80175c06a4d7d4d3a52773f372fa51a4bd33c285f7c4daf4d8afc2dac0",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "2ec6ae80175c06a4d7d4d3a52773f372fa51a4bd33c285f7c4daf4d8afc2dac0",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-duaa-2025:s14/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The FCA and financial services interfaces\n(1)\nThe Treasury may by regulations make provision enabling or requiring the Financial Conduct Authority (referred to in this Part as “the FCA”) to make rules—\n(a)\nrequiring financial services providers described in the regulations to use a prescribed interface, comply with prescribed interface standards or participate in prescribed interface arrangements, when providing or receiving customer data or business data which is required to be provided by or to the financial services provider by data regulations;"
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s14/p0/s2",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)\nrequiring persons described in the regulations to use a prescribed interface, comply with prescribed interface standards or participate in prescribed interface arrangements, when the person, in the course of a business, receives, from a financial services provider, customer data or business data which is required to be provided to the person by data regulations;"
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s14/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)\na person who uses an interface, complies with interface standards or participates in interface arrangements linked to the financial services sector or who is required to do so by data regulations or rules made by virtue of regulations under subsection (1)(a), (b) or (c)."
+  },
+  {
+   "obligation_id": "GB-duaa-2025:s14/p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(6)\nThe Treasury may by regulations make provision enabling or requiring the FCA to impose requirements on a person to whom FCA interface rules apply (referred to in this Part as “FCA additional requirements”) where the FCA considers it appropriate to impose the requirement—\n(a)\nin response to a failure, or likely failure, by the person to comply with an FCA interface rule or FCA additional requirement, or\n(b)\nin order to advance a purpose which the FCA is required to advance when exercising functions conferred by regulations under this section (see section 15(3)(a))."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-duaa-2025:s14",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

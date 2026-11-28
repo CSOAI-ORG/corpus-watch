@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB1831-2024:SEC-5",
+ "label": "US-CA-AB1831-2024 SEC. 5.",
+ "instrument": "US-CA-AB1831-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a9961de371f2a84994eff54f8051fea006abf6d6b5160124052c424da4b302d5",
+ "sha256_v1": "",
+ "sha256_v2": "a9961de371f2a84994eff54f8051fea006abf6d6b5160124052c424da4b302d5",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "a9961de371f2a84994eff54f8051fea006abf6d6b5160124052c424da4b302d5",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB1831-2024:SEC-5/p5/s1",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)(1)Every person who is convicted of a violation of Section 311.1, 311.2, 311.3, 311.10, or 311.11 in which the violation is committed on, or via, a government-owned computer or via a government-owned computer network, shall, in addition to any imprisonment or fine imposed for the commission of the underlying offense, be punished by a fine not exceeding two thousand dollars ($2,000), unless the court determines that the defendant does not have the ability to pay."
+  },
+  {
+   "obligation_id": "US-CA-AB1831-2024:SEC-5/p5/s2",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)Every person who is convicted of a violation of Section 311.1, 311.2, 311.3, 311.10, or 311.11 in which the production, transportation, or distribution of which involves the use, possession, or control of government-owned property shall, in addition to any imprisonment or fine imposed for the commission of the underlying offense, be punished by a fine not exceeding two thousand dollars ($2,000), unless the court determines that the defendant does not have the ability to pay."
+  },
+  {
+   "obligation_id": "US-CA-AB1831-2024:SEC-5/p5/s3",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)The fines in subdivision (a) shall not be subject to the provisions of Sections 70372, 76000, 76000.5, and 76104.6 of the Government Code, or Sections 1464 and 1465.7 of this code."
+  },
+  {
+   "obligation_id": "US-CA-AB1831-2024:SEC-5/p5/s4",
+   "paragraph": "5",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(c)Revenue from any fines collected pursuant to this section shall be deposited into a county fund established for that purpose and allocated as follows, and a county may transfer all or part of any of those allocations to another county for the allocated use:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB1831-2024:SEC-5",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

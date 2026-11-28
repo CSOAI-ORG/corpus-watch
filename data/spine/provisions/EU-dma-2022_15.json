@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:15",
+ "label": "EU-dma-2022 Article 15",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "86184b6479aaf5416787605bde96f66b8f6c122b707a6537aa7d8a7bc0809c84",
+ "sha256_v1": "",
+ "sha256_v2": "86184b6479aaf5416787605bde96f66b8f6c122b707a6537aa7d8a7bc0809c84",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "86184b6479aaf5416787605bde96f66b8f6c122b707a6537aa7d8a7bc0809c84",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:15/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "Within 6 months after its designation pursuant to Article 3, a gatekeeper shall submit to the Commission an independently audited description of any techniques for profiling of consumers that the gatekeeper applies to or across its core platform services listed in the designation decision pursuant to Article 3(9)."
+  },
+  {
+   "obligation_id": "EU-dma-2022:15/p1/s2",
+   "paragraph": "1",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall transmit that audited description to the European Data Protection Board."
+  },
+  {
+   "obligation_id": "EU-dma-2022:15/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "The gatekeeper shall make publicly available an overview of the audited description referred to in paragraph"
+  },
+  {
+   "obligation_id": "EU-dma-2022:15/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In doing so, the gatekeeper shall be entitled to take account of the need to respect its business secrets."
+  },
+  {
+   "obligation_id": "EU-dma-2022:15/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The gatekeeper shall update that description and that overview at least annually."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:15",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

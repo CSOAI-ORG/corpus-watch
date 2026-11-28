@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-crime-policing-2026:s99",
+ "label": "GB-crime-policing-2026 Section 99",
+ "instrument": "GB-crime-policing-2026",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "0492a5d0f673103dcf915030652cfc0a4e75db4c5b8646a269f41a5f79b38523",
+ "sha256_v1": "",
+ "sha256_v2": "0492a5d0f673103dcf915030652cfc0a4e75db4c5b8646a269f41a5f79b38523",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "0492a5d0f673103dcf915030652cfc0a4e75db4c5b8646a269f41a5f79b38523",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-crime-policing-2026:s99/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-crime-policing-2026:s99",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

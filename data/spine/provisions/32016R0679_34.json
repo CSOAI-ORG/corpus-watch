@@ -1,0 +1,70 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32016R0679:34",
+ "label": "GDPR Art. 34",
+ "instrument": "GDPR",
+ "ladder": "CROSSWALK_ONLY",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "7acf21e56421fd8937d250bc9ea560edf22f3cfb03730b91697e10e1778a429e",
+ "sha256_v1": "7acf21e56421fd8937d250bc9ea560edf22f3cfb03730b91697e10e1778a429e",
+ "sha256_v2": "affd2f4f062c730689de51b8aa79f689bcc88cf51beb2b4197e4d243a2f0e988",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "affd2f4f062c730689de51b8aa79f689bcc88cf51beb2b4197e4d243a2f0e988",
+ "agent_register_kinds": [
+  "NONE",
+  "OBSERVED",
+  "SUBMITTED"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32016R0679:34/p1/s1",
+   "paragraph": "1",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "When the personal data breach is likely to result in a high risk to the rights and freedoms of natural persons, the controller shall communicate the personal data breach to the data subject without undue delay."
+  },
+  {
+   "obligation_id": "32016R0679:34/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The communication to the data subject referred to in paragraph 1 of this Article shall describe in clear and plain language the nature of the personal data breach and contain at least the information and measures referred to in points (b), (c) and (d) of Article 33(3)."
+  },
+  {
+   "obligation_id": "32016R0679:34/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The communication to the data subject referred to in paragraph 1 shall not be required if any of the following conditions are met:"
+  },
+  {
+   "obligation_id": "32016R0679:34/p3/s2",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In such a case, there shall instead be a public communication or similar measure whereby the data subjects are informed in an equally effective manner."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32016R0679:34",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

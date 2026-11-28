@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:21",
+ "label": "EU-mdr-2017 Article 21",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "d10bd868a14df63f6b297bfff3b58e6d6e0fc8048e3eb9d29feef9f0abd15d84",
+ "sha256_v1": "",
+ "sha256_v2": "d10bd868a14df63f6b297bfff3b58e6d6e0fc8048e3eb9d29feef9f0abd15d84",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "d10bd868a14df63f6b297bfff3b58e6d6e0fc8048e3eb9d29feef9f0abd15d84",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:21/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Member States shall not create obstacles to:"
+  },
+  {
+   "obligation_id": "EU-mdr-2017:21/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The devices referred to in the first subparagraph shall not bear the CE marking, with the exception of the devices referred to in Article 74."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:21/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Custom-made devices shall be accompanied by the statement referred to in Section 1 of Annex XIII, which shall be made available to the particular patient or user identified by name, an acronym or a numerical code."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:21/p3/s1",
+   "paragraph": "3",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "At trade fairs, exhibitions, demonstrations or similar events, Member States shall not create obstacles to the showing of devices which do not comply with this Regulation, provided a visible sign clearly indicates that such devices are intended for presentation or demonstration purposes only and cannot be made available until they have been brought into compliance with this Regulation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:21",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

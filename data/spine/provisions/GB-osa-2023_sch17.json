@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:sch17",
+ "label": "GB-osa-2023 Schedule 17",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "3f3bb5c8413b1361015b3daf6164c5615548722533c0e4305c29b56ff845bb3b",
+ "sha256_v1": "",
+ "sha256_v2": "3f3bb5c8413b1361015b3daf6164c5615548722533c0e4305c29b56ff845bb3b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "3f3bb5c8413b1361015b3daf6164c5615548722533c0e4305c29b56ff845bb3b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:sch17/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)\nThe provider’s notification under section 83 about qualifying worldwide revenue must include a breakdown indicating the amounts which are wholly referable to a relevant Part 4B service (if any)."
+  },
+  {
+   "obligation_id": "GB-osa-2023:sch17/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(2)\nIf OFCOM produce such a statement, they must publish it (and any revised or replacement statement)."
+  },
+  {
+   "obligation_id": "GB-osa-2023:sch17/p0/s3",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Interpretation of this Part\n22\nIn this Part—\n“non-transitional charging year” means a charging year which is not a transitional charging year;\n“notification date”, in relation to a charging year, means the latest date by which a notification under section 83 relating to that charging year is required to be given (see section 83(5));\n“relevant Part 4B service” means—\na regulated user-to-user service described in paragraph 15(a), or\na pre-existing Part 4B service included in a regulated user-to-user service described in paragraph 15(b).\n23\nFor the purposes of this Part a charging year is a “transitional charging year” if—\n(a)\nthe notification date in relation to that charging year fell within "
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:sch17",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

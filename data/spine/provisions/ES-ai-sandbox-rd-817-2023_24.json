@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "ES-ai-sandbox-rd-817-2023:24",
+ "label": "ES-ai-sandbox-rd-817-2023 Artículo 24",
+ "instrument": "ES-ai-sandbox-rd-817-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "679806ba832479f38b679352ca0905fe5fd998faaa2db97517e04e6f83724c55",
+ "sha256_v1": "",
+ "sha256_v2": "679806ba832479f38b679352ca0905fe5fd998faaa2db97517e04e6f83724c55",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "ES",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "679806ba832479f38b679352ca0905fe5fd998faaa2db97517e04e6f83724c55",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "ES-ai-sandbox-rd-817-2023:24/s5",
+   "paragraph": null,
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "En el caso de que el proveedor IA participante o, en su caso, el usuario participante se retire del entorno controlado de pruebas, deberá mantener el deber de confidencialidad en los términos previstos en la resolución de admisión.\n4."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=ES-ai-sandbox-rd-817-2023:24",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "INTL-owasp-llm-top10-2026:appendix-A",
+ "label": "INTL-owasp-llm-top10-2026 appendix-A",
+ "instrument": "INTL-owasp-llm-top10-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "c6111a8138e504aa8f938f1e6593f01c0920da438e49078682f7872e69a8638f",
+ "sha256_v1": "",
+ "sha256_v2": "c6111a8138e504aa8f938f1e6593f01c0920da438e49078682f7872e69a8638f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "INTL",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "c6111a8138e504aa8f938f1e6593f01c0920da438e49078682f7872e69a8638f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "INTL-owasp-llm-top10-2026:appendix-A/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Each cell shows the primary mappings plus the most relevant supporting ones.\n\n**Legend:** ● primary (a central line of defense or description of the risk) · ○ supporting (contributes but is not the center of gravity) · — no applicable mapping.\n\n## Coverage matrix\n\n| Risk | ASI | DSGAI | ATLAS | ATT&CK | CWE | 600-1 | RMF | AICM | AIVSS |\n|---|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|\n| **LLM01** Prompt Injection | ● | ● | ● | ● | ● | ● | ○ | ● | ● |\n| **LLM02** Sensitive Information Disclosure | ● | ● | ● | ● | ● | ● | ○ | ● | — |\n| **LLM03** Excessive Agency | ● | ● | ● | ● | ● | ● | ○ | ● | ● |\n| **LLM04** Supply Chain | ● | ● | ● | ● | ● | ● | ● | ● | ○ |\n| **LLM05** Data and Model Po"
+  },
+  {
+   "obligation_id": "INTL-owasp-llm-top10-2026:appendix-A/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "ASI07 is the pointer for hidden-context material propagating across agent-to-agent messaging, not an equivalent risk. |\n| **LLM09** Vector and Embedding Weaknesses | ● ASI04 — Agentic Supply Chain Vulnerabilities | Embedding-model supply chain: the embedding model itself must be vetted, since \"a backdoored embedding model corrupts the geometry of everything ingested\" |\n|  | ● ASI06 — Memory & Context Poisoning | Agent-memory poisoning that does not rely on embedding geometry is out of scope here and referred to ASI06 |\n| **LLM10** Improper Output Handling | ● ASI02 — Tool Misuse & Exploitation | 2026 addition, justified against this entry's own content: a general-purpose LLM passes its respo"
+  },
+  {
+   "obligation_id": "INTL-owasp-llm-top10-2026:appendix-A/p0/s3",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "The content match is loose: this entry's scenarios are machine-to-machine (unvalidated output reaching a shell, browser, or database), while ASI09 concerns deceiving a human operator; the shared thread is unvalidated model output reaching a downstream trust decision. |\n\n## OWASP GenAI Data Security 2026 (DSGAI) — v1.0 (2026-03-17)\n\n*Each row maps an LLM Top 10 risk to OWASP GenAI Data Security 2026 (DSGAI) risk categories, where primary elements name the closest data-security peer and supporting elements name the most relevant adjacent data risks.*\n\n| Risk | Element | Relevance |\n|---|---|---|\n| **LLM01** Prompt Injection | ● DSGAI01 — Sensitive Data Leakage | A successful injection makes di"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=INTL-owasp-llm-top10-2026:appendix-A",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-pld-2024:3",
+ "label": "EU-pld-2024 Article 3",
+ "instrument": "EU-pld-2024",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "a9560e8c5461e6565f69c18ae4d77e59785652cc2b3e45b0740c5fe55d80a3b6",
+ "sha256_v1": "",
+ "sha256_v2": "a9560e8c5461e6565f69c18ae4d77e59785652cc2b3e45b0740c5fe55d80a3b6",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a9560e8c5461e6565f69c18ae4d77e59785652cc2b3e45b0740c5fe55d80a3b6",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-pld-2024:3/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "prohibition",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Level of harmonisation\nMember States shall not maintain or introduce, in their national law, provisions diverging from those laid down in this Directive, including more stringent or less stringent provisions, to achieve a different level of protection for consumers and other natural persons, unless otherwise provided for in this Directive."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-pld-2024:3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

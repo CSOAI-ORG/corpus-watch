@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s181",
+ "label": "GB-osa-2023 Section 181",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "86824f78324fabbbf11d632ad0f58b5e7d0251081fe4ee41d5c9582eee30a540",
+ "sha256_v1": "",
+ "sha256_v2": "86824f78324fabbbf11d632ad0f58b5e7d0251081fe4ee41d5c9582eee30a540",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "86824f78324fabbbf11d632ad0f58b5e7d0251081fe4ee41d5c9582eee30a540",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s181/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nIf evidence is adduced which is sufficient to raise an issue with respect to the defence under subsection (3), the court must assume that the defence is satisfied unless the prosecution proves beyond reasonable doubt that it is not."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s181",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

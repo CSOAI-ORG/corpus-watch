@@ -1,0 +1,116 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-aiact-art50-guidelines-2026:section-2",
+ "label": "EU-aiact-art50-guidelines-2026 Section 2",
+ "instrument": "EU-aiact-art50-guidelines-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "1d9faf51a92915a6c86b89ab88bda768cc252410c55e3e25444eff89cf35944b",
+ "sha256_v1": "",
+ "sha256_v2": "1d9faf51a92915a6c86b89ab88bda768cc252410c55e3e25444eff89cf35944b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "1d9faf51a92915a6c86b89ab88bda768cc252410c55e3e25444eff89cf35944b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-2/p2/s1",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "disclose-ai",
+   "status": "DRAFT",
+   "text": "Provision\nType of AI system/output\nTransparency obligation\nExceptions or special regimes\nArt. 50(1)\nAI systems directly interacting with natural persons\nProviders must develop and design the AI system in such a way that the natural persons concerned are informed they are interacting with an AI system."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-2/p2/s2",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "disclose-ai",
+   "status": "DRAFT",
+   "text": "Art. 50(2)\nAI systems generating or manipulating synthetic image, video, audio or text content\nProviders must ensure the AI system’s outputs are marked in a machine-readable format and detectable as artificially generated or manipulated with technical solutions that are effective, interoperable, robust and reliable."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-2/p2/s3",
+   "paragraph": "2",
+   "addressee": "deployer",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "Art. 50(3)\nEmotion recognition or biometric categorisation AI systems\nDeployers must inform the natural persons exposed to the system of AI system’s operation."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-2/p2/s4",
+   "paragraph": "2",
+   "addressee": "deployer",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Art. 50(4)\nAI systems generating or manipulating deep fake or text published to inform the public on matters of public interest\nDeployers must disclose that the content has been artificially generated or manipulated."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-2/p2/s5",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In addition, Article 50(5) AI Act mandates that the information referred to in its paragraphs 1 to 4 shall be provided to the natural persons concerned in a clear and distinguishable manner at the latest at the time of the first interaction or exposure and conform to the applicable accessibility requirements."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-2/p2/s6",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Providers must comply with the relevant transparency obligations in Article 50(1) and (2) AI Act applicable to them, irrespective of whether they are established or located within the Union or in a third country (3)."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-2/p2/s7",
+   "paragraph": "2",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(11)\nProviders must ensure their interactive or generative AI systems have transparency embedded into the system’s design and operation and ensure all relevant transparency obligations in Articles 50(1), (2) and (5) AI Act are met at the latest when those systems are placed on the market or put into service."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-2/p2/s8",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "All natural persons interacting with the AI system or exposed to its outputs in scope must be effectively and consistently informed throughout the lifecycle of the AI system, as placed on the market or put into service by that provider (irrespective of who the deployers or other users of the system are)."
+  },
+  {
+   "obligation_id": "EU-aiact-art50-guidelines-2026:section-2/p2/s9",
+   "paragraph": "2",
+   "addressee": "deployer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In such a case, it will qualify as both a provider and a deployer that must ensure compliance with the machine-readable marking obligations under Article 50(2) and the requirements for a clear and perceivable labelling of the deep fakes under Article 50(4) AI Act."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-aiact-art50-guidelines-2026:section-2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

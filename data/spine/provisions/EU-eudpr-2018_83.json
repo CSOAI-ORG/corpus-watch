@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:83",
+ "label": "EU-eudpr-2018 Article 83",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "182f8176c0da017853c0ffcbae038a0949c5286fbf4de6187918796591df81a1",
+ "sha256_v1": "",
+ "sha256_v2": "182f8176c0da017853c0ffcbae038a0949c5286fbf4de6187918796591df81a1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "182f8176c0da017853c0ffcbae038a0949c5286fbf4de6187918796591df81a1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:83/p0/s1",
+   "paragraph": "0",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Right of access in criminal investigations and proceedings\nWhere operational personal data originates from a competent authority, Union bodies, offices and agencies shall, prior to deciding on a data subject’s right of access, verify with the competent authority concerned whether such personal data are contained in a judicial decision or record or a case file processed in the course of criminal investigations and proceedings in the Member State of that competent authority."
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:83/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Where this is the case, a decision on the right of access shall be taken in consultation and in close cooperation with the competent authority concerned."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:83",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

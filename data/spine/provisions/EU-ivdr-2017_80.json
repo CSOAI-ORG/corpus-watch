@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ivdr-2017:80",
+ "label": "EU-ivdr-2017 Article 80",
+ "instrument": "EU-ivdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "1185a6f2d80cc82d9684beb996ec457ab0ee7b2b7637707c3a260fc141e62715",
+ "sha256_v1": "",
+ "sha256_v2": "1185a6f2d80cc82d9684beb996ec457ab0ee7b2b7637707c3a260fc141e62715",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "1185a6f2d80cc82d9684beb996ec457ab0ee7b2b7637707c3a260fc141e62715",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ivdr-2017:80/p0/s1",
+   "paragraph": "0",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Post-market surveillance report\nManufacturers of class A and B devices shall prepare a post-market surveillance report summarising the results and conclusions of the analyses of the post-market surveillance data gathered as a result of the post-market surveillance plan referred to in Article 79 together with a rationale and description of any preventive and corrective actions taken."
+  },
+  {
+   "obligation_id": "EU-ivdr-2017:80/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "notify-authority",
+   "status": "DRAFT",
+   "text": "The report shall be updated when necessary and made available to the notified body and the competent authority upon request."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ivdr-2017:80",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

@@ -1,0 +1,76 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-AB1651-2026:SEC-1",
+ "label": "US-CA-AB1651-2026 SECTION 1.",
+ "instrument": "US-CA-AB1651-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "ee1ad6663c69a1af9bf8685398c5a7cba508e84097d329f2cd5470edd6fd6307",
+ "sha256_v1": "",
+ "sha256_v2": "ee1ad6663c69a1af9bf8685398c5a7cba508e84097d329f2cd5470edd6fd6307",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "ee1ad6663c69a1af9bf8685398c5a7cba508e84097d329f2cd5470edd6fd6307",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-AB1651-2026:SEC-1/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)For any content developed by or at the explicit direction of the State Bar, the State Bar shall disclose the use of artificial intelligence-generated content in developing or administering the State Bar examinations, including any related question, performance test, answer key, or scoring rubric."
+  },
+  {
+   "obligation_id": "US-CA-AB1651-2026:SEC-1/p1/s2",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "(c)For any content developed by or at the explicit direction of the State Bar, the State Bar shall disclose the use of any artificial intelligence-generated content in study material, including sample or practice questions, model answers, selected answers, outlines, explanations, or other instructional materials prepared, published, endorsed, or distributed by the State Bar for use by applicants for the State Bar examinations."
+  },
+  {
+   "obligation_id": "US-CA-AB1651-2026:SEC-1/p1/s3",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(e)(1)A disclosure made pursuant to subdivision (b) shall be posted on the State Bar’s internet website 60 days before the examination in which the artificial intelligence-generated content is used."
+  },
+  {
+   "obligation_id": "US-CA-AB1651-2026:SEC-1/p1/s4",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(2)A disclosure made pursuant to subdivision (c) shall be made on the cover page of the study material."
+  },
+  {
+   "obligation_id": "US-CA-AB1651-2026:SEC-1/p1/s5",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(f)This section shall become operative on January 1, 2028."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-AB1651-2026:SEC-1",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

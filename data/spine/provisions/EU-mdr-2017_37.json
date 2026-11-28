@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:37",
+ "label": "EU-mdr-2017 Article 37",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "58f5833016aba99465ec91288674f93d0fd44fe414722d01af20661a40a3c105",
+ "sha256_v1": "",
+ "sha256_v2": "58f5833016aba99465ec91288674f93d0fd44fe414722d01af20661a40a3c105",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "58f5833016aba99465ec91288674f93d0fd44fe414722d01af20661a40a3c105",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:37/p1/s1",
+   "paragraph": "1",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "Where a notified body subcontracts specific tasks connected with conformity assessment or has recourse to a subsidiary for specific tasks connected with conformity assessment, it shall verify that the subcontractor or the subsidiary meets the applicable requirements set out in Annex VII and shall inform the authority responsible for notified bodies accordingly."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:37/p2/s1",
+   "paragraph": "2",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Notified bodies shall take full responsibility for the tasks performed on their behalf by subcontractors or subsidiaries."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:37/p3/s1",
+   "paragraph": "3",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "publish",
+   "status": "DRAFT",
+   "text": "Notified bodies shall make publicly available a list of their subsidiaries."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:37/p5/s1",
+   "paragraph": "5",
+   "addressee": "notified_body",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Notified bodies shall keep at the disposal of the authority responsible for notified bodies all relevant documents concerning the verification of the qualifications of the subcontractor or the subsidiary and the work carried out by them under this Regulation."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:37",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

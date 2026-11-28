@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "BR-PL2338-2023:art36",
+ "label": "BR-PL2338-2023 Art. 36.",
+ "instrument": "BR-PL2338-2023",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "aea025736d0e1b38ed8b9692837f6d6e4651aa2df887beafd0c800abf2206983",
+ "sha256_v1": "",
+ "sha256_v2": "aea025736d0e1b38ed8b9692837f6d6e4651aa2df887beafd0c800abf2206983",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "BR",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "aea025736d0e1b38ed8b9692837f6d6e4651aa2df887beafd0c800abf2206983",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "BR-PL2338-2023:art36/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "no-duty-sentence",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=BR-PL2338-2023:art36",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

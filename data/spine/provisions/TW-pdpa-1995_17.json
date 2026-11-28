@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "TW-pdpa-1995:17",
+ "label": "TW-pdpa-1995 Article 17",
+ "instrument": "TW-pdpa-1995",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "03a67345107565e7818a98436108d29c1eb822e15e42fb3640f9c79b2093a137",
+ "sha256_v1": "",
+ "sha256_v2": "03a67345107565e7818a98436108d29c1eb822e15e42fb3640f9c79b2093a137",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "TW",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "03a67345107565e7818a98436108d29c1eb822e15e42fb3640f9c79b2093a137",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "TW-pdpa-1995:17/s2",
+   "paragraph": null,
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "公務機關應將下列事項公開於電腦網站，或以其他適當方式供公眾查閱；"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=TW-pdpa-1995:17",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

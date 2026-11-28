@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:84",
+ "label": "EU-mdr-2017 Article 84",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "80c9b389eb19fc2c8dc68c68e33ce0d9e776674f08df6a5ecba4909913afa4e2",
+ "sha256_v1": "",
+ "sha256_v2": "80c9b389eb19fc2c8dc68c68e33ce0d9e776674f08df6a5ecba4909913afa4e2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "NOISE",
+ "change_edits": null,
+ "sha256_current": "80c9b389eb19fc2c8dc68c68e33ce0d9e776674f08df6a5ecba4909913afa4e2",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:84/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Post-market surveillance plan\nThe post-market surveillance system referred to in Article 83 shall be based on a post-market surveillance plan, the requirements for which are set out in Section 1.1 of Annex III."
+  },
+  {
+   "obligation_id": "EU-mdr-2017:84/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "documentation",
+   "status": "DRAFT",
+   "text": "For devices other than custom-made devices, the post-market surveillance plan shall be part of the technical documentation specified in Annex II."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:84",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

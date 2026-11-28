@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-uk-gdpr-2016:9",
+ "label": "GB-uk-gdpr-2016 Article 9",
+ "instrument": "GB-uk-gdpr-2016",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "f9cf3c58428047d8eabbeafabf9c0a90b6398f9408b56c3fdd3fa1a8458ecc95",
+ "sha256_v1": "",
+ "sha256_v2": "f9cf3c58428047d8eabbeafabf9c0a90b6398f9408b56c3fdd3fa1a8458ecc95",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "f9cf3c58428047d8eabbeafabf9c0a90b6398f9408b56c3fdd3fa1a8458ecc95",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-uk-gdpr-2016:9/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Processing of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation shall be prohibited."
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:9/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(g)\nprocessing is necessary for reasons of substantial public interest, on the basis of domestic law, or relevant international law, which shall be proportionate to the aim pursued ... and provide for suitable and specific measures to safeguard the fundamental rights and the interests of the data subject;"
+  },
+  {
+   "obligation_id": "GB-uk-gdpr-2016:9/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(j)\nprocessing is necessary for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes , is carried out in accordance with Article 84B and is based on domestic law which shall be proportionate to the aim pursued ... and provide for suitable and specific measures to safeguard the fundamental rights and the interests of the data subject."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-uk-gdpr-2016:9",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

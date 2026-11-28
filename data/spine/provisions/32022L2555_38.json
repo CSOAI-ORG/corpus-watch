@@ -1,0 +1,38 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "32022L2555:38",
+ "label": "NIS2 Directive Art. 38",
+ "instrument": "NIS2 Directive",
+ "ladder": "SOURCE_RECOVERED",
+ "evidence_kind": "NONE",
+ "frozen_sha256": "aa8f002b3f5e52956a57b4746b293b5d5c98c432d63286d88e3fb8c3f55b938b",
+ "sha256_v1": "aa8f002b3f5e52956a57b4746b293b5d5c98c432d63286d88e3fb8c3f55b938b",
+ "sha256_v2": "b722dae62419757b3e6c6c47171088e34d3a50bfac0a3b020928976ffb08776a",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": 0,
+ "sha256_current": "b722dae62419757b3e6c6c47171088e34d3a50bfac0a3b020928976ffb08776a",
+ "agent_register_kinds": [
+  "NONE"
+ ],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "32022L2555:38/none",
+   "paragraph": null,
+   "addressee": null,
+   "modality": null,
+   "evidence_kind": "NONE",
+   "rule": "title:article 38 exercise of the delegation",
+   "status": "DRAFT",
+   "text": null
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=32022L2555:38",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

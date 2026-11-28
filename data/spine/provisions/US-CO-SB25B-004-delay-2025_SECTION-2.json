@@ -1,0 +1,146 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CO-SB25B-004-delay-2025:SECTION-2",
+ "label": "US-CO-SB25B-004-delay-2025 SECTION 2",
+ "instrument": "US-CO-SB25B-004-delay-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "SUBMITTED",
+ "frozen_sha256": "3e1fecdee6fa467bcf788262c7e192885ddb8a80d6d619518e19114140053f64",
+ "sha256_v1": "",
+ "sha256_v2": "3e1fecdee6fa467bcf788262c7e192885ddb8a80d6d619518e19114140053f64",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": 49,
+ "sha256_current": "3e1fecdee6fa467bcf788262c7e192885ddb8a80d6d619518e19114140053f64",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CO-SB25B-004-delay-2025:SECTION-2/p2/s1",
+   "paragraph": "2",
+   "addressee": "deployer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(1) On and after JUNE 30, 2026, a deployer of a high-risk artificial intelligence system shall use reasonable care to protect consumers from any known or reasonably foreseeable risks of algorithmic discrimination."
+  },
+  {
+   "obligation_id": "US-CO-SB25B-004-delay-2025:SECTION-2/p2/s2",
+   "paragraph": "2",
+   "addressee": "deployer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "(2) (a) On and after JUNE 30, 2026, and except as provided in subsection (6) of this section, a deployer of a high-risk artificial intelligence system shall implement a risk management policy and program to govern the deployer's deployment of the high-risk artificial intelligence system."
+  },
+  {
+   "obligation_id": "US-CO-SB25B-004-delay-2025:SECTION-2/p2/s3",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "The risk management policy and program must specify and incorporate the principles, processes, and personnel that the deployer uses to identify, document, and mitigate known or reasonably foreseeable risks of algorithmic discrimination."
+  },
+  {
+   "obligation_id": "US-CO-SB25B-004-delay-2025:SECTION-2/p2/s4",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "The risk management policy and program must be an iterative process planned, implemented, and regularly and systematically reviewed and updated over the life cycle of a high-risk artificial intelligence system, requiring regular, systematic review and updates."
+  },
+  {
+   "obligation_id": "US-CO-SB25B-004-delay-2025:SECTION-2/p2/s5",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "risk-management",
+   "status": "DRAFT",
+   "text": "A risk management policy and program implemented and maintained pursuant to this subsection (2) must be reasonable considering:"
+  },
+  {
+   "obligation_id": "US-CO-SB25B-004-delay-2025:SECTION-2/p2/s6",
+   "paragraph": "2",
+   "addressee": "deployer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "(I) A deployer, or a third party contracted by the deployer, that deploys a high-risk artificial intelligence system on or after JUNE 30, 2026, shall complete an impact assessment for the high-risk artificial intelligence system; and (II) On and after JUNE 30, 2026, a deployer, or a third party contracted by the deployer, shall complete an impact assessment for a deployed high-risk artificial intelligence system at least annually and within ninety days after any intentional and substantial modification to the high-risk artificial intelligence system is made available."
+  },
+  {
+   "obligation_id": "US-CO-SB25B-004-delay-2025:SECTION-2/p2/s7",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "assessment",
+   "status": "DRAFT",
+   "text": "(c) In addition to the information required under subsection (3)(b) of this section, an impact assessment completed pursuant to this subsection (3) following an intentional and substantial modification to a high-risk artificial intelligence system on or after JUNE 30, 2026, must include a statement disclosing the extent to which the high-risk artificial intelligence system was used in a manner that was consistent with, or varied from, the developer's intended uses of the high-risk artificial intelligence system."
+  },
+  {
+   "obligation_id": "US-CO-SB25B-004-delay-2025:SECTION-2/p2/s8",
+   "paragraph": "2",
+   "addressee": "deployer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(g) On or before JUNE 30, 2026, and at least annually thereafter, a deployer, or a third party contracted by the deployer, must review the deployment of each high-risk artificial intelligence system deployed by the deployer to ensure that the high-risk artificial intelligence system is not causing algorithmic discrimination."
+  },
+  {
+   "obligation_id": "US-CO-SB25B-004-delay-2025:SECTION-2/p2/s9",
+   "paragraph": "2",
+   "addressee": "deployer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4) (a) On and after JUNE 30, 2026, and no later than the time that a deployer deploys a high-risk artificial intelligence system to make, or be a substantial factor in making, a consequential decision concerning a consumer, the deployer shall:"
+  },
+  {
+   "obligation_id": "US-CO-SB25B-004-delay-2025:SECTION-2/p2/s10",
+   "paragraph": "2",
+   "addressee": "deployer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b) On and after JUNE 30, 2026, a deployer that has deployed a high-risk artificial intelligence system to make, or be a substantial factor in making, a consequential decision concerning a consumer shall, if the consequential decision is adverse to the consumer, provide to the consumer:"
+  },
+  {
+   "obligation_id": "US-CO-SB25B-004-delay-2025:SECTION-2/p2/s11",
+   "paragraph": "2",
+   "addressee": "deployer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(5) (a) On and after JUNE 30, 2026, and except as provided in subsection (6) of this section, a deployer shall make available, in a manner that is clear and readily available on the deployer's website, a statement summarizing:"
+  },
+  {
+   "obligation_id": "US-CO-SB25B-004-delay-2025:SECTION-2/p2/s12",
+   "paragraph": "2",
+   "addressee": "deployer",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(7) If a deployer deploys a high-risk artificial intelligence system on or after JUNE 30, 2026, and subsequently discovers that the high-risk artificial intelligence system has caused algorithmic discrimination, the deployer, without unreasonable delay, but no later than ninety days after the date of the discovery, shall send to the attorney general, in a form and manner prescribed by the attorney general, a notice disclosing the discovery."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CO-SB25B-004-delay-2025:SECTION-2",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

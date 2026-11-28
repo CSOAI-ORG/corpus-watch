@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-CA-SB1119-2026:SEC-2:21812.5.",
+ "label": "US-CA-SB1119-2026 SEC. 2. / 21812.5.",
+ "instrument": "US-CA-SB1119-2026",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "c2bac274dbb13f5384f18263f1d6ec80c58eb3f64a245b8914b3677eca7916e1",
+ "sha256_v1": "",
+ "sha256_v2": "c2bac274dbb13f5384f18263f1d6ec80c58eb3f64a245b8914b3677eca7916e1",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "c2bac274dbb13f5384f18263f1d6ec80c58eb3f64a245b8914b3677eca7916e1",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21812.5./p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(a)If an operator has provided notice pursuant to subparagraph (B) of paragraph (1) of subdivision (d) of Section 21812 or knows that a child user has died or engaged in serious self-harm based on the child user’s conversations with the companion chatbot, the operator shall, as soon as practicable, do both of the following:"
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21812.5./p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)An operator shall not delete a child user’s account during the time period in which that account is associated with any record preserved pursuant to this section or the rules of state or federal civil procedure."
+  },
+  {
+   "obligation_id": "US-CA-SB1119-2026:SEC-2:21812.5./p0/s4",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(d)This section shall become operative July 1, 2027."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-CA-SB1119-2026:SEC-2:21812.5.",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

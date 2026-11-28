@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-eudpr-2018:79",
+ "label": "EU-eudpr-2018 Article 79",
+ "instrument": "EU-eudpr-2018",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a45f5040b3f341d1c52e34e0b9445bb1c107946f5e1fd788836e15f8106aa54f",
+ "sha256_v1": "",
+ "sha256_v2": "a45f5040b3f341d1c52e34e0b9445bb1c107946f5e1fd788836e15f8106aa54f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "a45f5040b3f341d1c52e34e0b9445bb1c107946f5e1fd788836e15f8106aa54f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-eudpr-2018:79/p1/s1",
+   "paragraph": "1",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The controller shall make available to the data subject at least the following information:"
+  },
+  {
+   "obligation_id": "EU-eudpr-2018:79/p2/s1",
+   "paragraph": "2",
+   "addressee": "controller",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "In addition to the information referred to in paragraph 1, the controller shall give to the data subject, in the specific cases foreseen by Union law, the following further information to enable the exercise of his or her rights:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-eudpr-2018:79",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

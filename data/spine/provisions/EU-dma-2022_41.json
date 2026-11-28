@@ -1,0 +1,56 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-dma-2022:41",
+ "label": "EU-dma-2022 Article 41",
+ "instrument": "EU-dma-2022",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "AUTHORITY",
+ "frozen_sha256": "a28228ff0b8b28403384ef10f9b7ee1a2333e4915cbb3f31927e67575b6b6ab2",
+ "sha256_v1": "",
+ "sha256_v2": "a28228ff0b8b28403384ef10f9b7ee1a2333e4915cbb3f31927e67575b6b6ab2",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a28228ff0b8b28403384ef10f9b7ee1a2333e4915cbb3f31927e67575b6b6ab2",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-dma-2022:41/p4/s1",
+   "paragraph": "4",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Member States shall submit evidence in support of their requests pursuant to paragraphs 1, 2 and"
+  },
+  {
+   "obligation_id": "EU-dma-2022:41/p5/s1",
+   "paragraph": "5",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "Within 4 months of receiving a request pursuant to this Article, the Commission shall examine whether there are reasonable grounds to open a market investigation pursuant to paragraph 1, 2 or"
+  },
+  {
+   "obligation_id": "EU-dma-2022:41/p3/s1",
+   "paragraph": "3",
+   "addressee": "AUTHORITY",
+   "modality": "duty",
+   "evidence_kind": "AUTHORITY",
+   "rule": "addressee-is-public-body",
+   "status": "DRAFT",
+   "text": "The Commission shall publish the results of its assessment."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-dma-2022:41",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

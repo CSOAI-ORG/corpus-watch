@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-equality-act-2010:s183",
+ "label": "GB-equality-act-2010 Section 183",
+ "instrument": "GB-equality-act-2010",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "a022a4c080b9fb2704e6bc57ff30cccb23a767062beb43baf879a1f065d8f880",
+ "sha256_v1": "",
+ "sha256_v2": "a022a4c080b9fb2704e6bc57ff30cccb23a767062beb43baf879a1f065d8f880",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "a022a4c080b9fb2704e6bc57ff30cccb23a767062beb43baf879a1f065d8f880",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-equality-act-2010:s183/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Exemptions from rail vehicle accessibility regulations\n(1)\nThe Secretary of State may by order (an “exemption order”)—\n(a)\nauthorise the use for carriage of a regulated rail vehicle even though the vehicle does not conform with the provisions of rail vehicle accessibility regulations with which it is required to conform;"
+  },
+  {
+   "obligation_id": "GB-equality-act-2010:s183/p0/s2",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(b)\nauthorise a regulated rail vehicle to be used for carriage otherwise than in conformity with the provisions of rail vehicle accessibility regulations with which use of the vehicle is required to conform."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-equality-act-2010:s183",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

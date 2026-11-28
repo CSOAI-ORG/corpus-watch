@@ -1,0 +1,66 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-ehds-2025:48",
+ "label": "EU-ehds-2025 Article 48",
+ "instrument": "EU-ehds-2025",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "OBSERVED",
+ "frozen_sha256": "c5c12c27c7e9b4aa84e92610826ef23254ad14aa356b7fda9cbc9ae75ff3284b",
+ "sha256_v1": "",
+ "sha256_v2": "c5c12c27c7e9b4aa84e92610826ef23254ad14aa356b7fda9cbc9ae75ff3284b",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNKNOWN",
+ "change_edits": null,
+ "sha256_current": "c5c12c27c7e9b4aa84e92610826ef23254ad14aa356b7fda9cbc9ae75ff3284b",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-ehds-2025:48/p1/s1",
+   "paragraph": "1",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "OBSERVED",
+   "rule": "inform-persons",
+   "status": "DRAFT",
+   "text": "In the event of such claim, those manufacturers shall duly inform users of the interoperability of such wellness applications and the effects of such interoperability."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:48/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The interoperability of wellness applications with EHR systems shall not entail the automatic sharing of all or part of the health data from the wellness application with, or automatic transmission of all or part of such data to, the EHR system."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:48/p2/s2",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "The sharing or transmission of such data shall only be possible if it is in accordance with Article 5 and after consent is given by the natural person concerned and interoperability shall be limited exclusively to those purposes."
+  },
+  {
+   "obligation_id": "EU-ehds-2025:48/p2/s3",
+   "paragraph": "2",
+   "addressee": "manufacturer",
+   "modality": "duty",
+   "evidence_kind": "SUBMITTED",
+   "rule": "ensure",
+   "status": "DRAFT",
+   "text": "The manufacturers of wellness applications claiming interoperability with an EHR system shall ensure that the natural person concerned is able to choose which categories of health data from the wellness application are to be inserted in the EHR system and the circumstances for the sharing or transmission of those categories of data."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-ehds-2025:48",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

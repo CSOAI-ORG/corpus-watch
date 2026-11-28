@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "US-WA-SB5152-synthmedia-elections-2023:Sec-3",
+ "label": "US-WA-SB5152-synthmedia-elections-2023 Sec. 3",
+ "instrument": "US-WA-SB5152-synthmedia-elections-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "be8a7bb20533d2c62cb1db06188a321477cd3e1f69ea6280d8a257f403a1c628",
+ "sha256_v1": "",
+ "sha256_v2": "be8a7bb20533d2c62cb1db06188a321477cd3e1f69ea6280d8a257f403a1c628",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "US",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "be8a7bb20533d2c62cb1db06188a321477cd3e1f69ea6280d8a257f403a1c628",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "US-WA-SB5152-synthmedia-elections-2023:Sec-3/p0/s1",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(3)(a) No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=US-WA-SB5152-synthmedia-elections-2023:Sec-3",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

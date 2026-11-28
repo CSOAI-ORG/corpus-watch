@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mica-2023:27",
+ "label": "EU-mica-2023 Article 27",
+ "instrument": "EU-mica-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "367ee50ea1212b009247b4e94d07add46f761957cb4758048e5f398c68e3df01",
+ "sha256_v1": "",
+ "sha256_v2": "367ee50ea1212b009247b4e94d07add46f761957cb4758048e5f398c68e3df01",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "367ee50ea1212b009247b4e94d07add46f761957cb4758048e5f398c68e3df01",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mica-2023:27/p1/s1",
+   "paragraph": "1",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Issuers of asset-referenced tokens shall act honestly, fairly and professionally and shall communicate with the holders and prospective holders of asset-referenced tokens in a fair, clear and not misleading manner."
+  },
+  {
+   "obligation_id": "EU-mica-2023:27/p2/s1",
+   "paragraph": "2",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Issuers of asset-referenced tokens shall act in the best interests of the holders of such tokens and shall treat them equally, unless any preferential treatment is disclosed in the crypto-asset white paper and, where applicable, the marketing communications."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mica-2023:27",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

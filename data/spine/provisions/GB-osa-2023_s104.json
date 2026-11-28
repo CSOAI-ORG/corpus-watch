@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "GB-osa-2023:s104",
+ "label": "GB-osa-2023 Section 104",
+ "instrument": "GB-osa-2023",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "5aa84a066964ec7331a435446701ef59d53b44dc4225ced329a7a6f69ba01132",
+ "sha256_v1": "",
+ "sha256_v2": "5aa84a066964ec7331a435446701ef59d53b44dc4225ced329a7a6f69ba01132",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "GB",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "5aa84a066964ec7331a435446701ef59d53b44dc4225ced329a7a6f69ba01132",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "GB-osa-2023:s104/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "(4)\nOFCOM may appoint a skilled person to provide them with a report about matters relevant to the purpose for which the powers under this section are exercised (“the relevant matters”), and, where OFCOM make such an appointment, they must notify the provider about the appointment and the relevant matters to be explored in the report."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=GB-osa-2023:s104",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

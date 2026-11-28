@@ -1,0 +1,46 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "AU-privacy-act-1988:s23A",
+ "label": "AU-privacy-act-1988 Section 23A",
+ "instrument": "AU-privacy-act-1988",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "ea395a6c759131b6752501a2160627d7eeec3c5ae77c7acfd264291866ea4a60",
+ "sha256_v1": "",
+ "sha256_v2": "ea395a6c759131b6752501a2160627d7eeec3c5ae77c7acfd264291866ea4a60",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "AU",
+ "change_since_oj": "PINNED_NOT_CHECKED",
+ "change_edits": null,
+ "sha256_current": "ea395a6c759131b6752501a2160627d7eeec3c5ae77c7acfd264291866ea4a60",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "AU-privacy-act-1988:s23A/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Nature of complaint\n(3)\tIf an individual makes a complaint, the individual must specify the nature of the complaint."
+  },
+  {
+   "obligation_id": "AU-privacy-act-1988:s23A/p0/s2",
+   "paragraph": "0",
+   "addressee": "provider",
+   "modality": "prohibition",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "No charge\n(5)\tThe credit reporting body or credit provider must not charge the individual for the making of the complaint or for dealing with the complaint."
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=AU-privacy-act-1988:s23A",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}

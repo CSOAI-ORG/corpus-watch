@@ -1,0 +1,36 @@
+{
+ "schema": "csoai.provision/0.1",
+ "provision_id": "EU-mdr-2017:105",
+ "label": "EU-mdr-2017 Article 105",
+ "instrument": "EU-mdr-2017",
+ "ladder": "OBLIGATIONS_DRAFTED",
+ "evidence_kind": "UNTRIAGED",
+ "frozen_sha256": "0e5dcc2b48c661aa4379858878415629d4dd8e34fc2381ca6e8c4a3b675e1c9f",
+ "sha256_v1": "",
+ "sha256_v2": "0e5dcc2b48c661aa4379858878415629d4dd8e34fc2381ca6e8c4a3b675e1c9f",
+ "source_state": "REPRODUCED",
+ "truncated_in_v1": false,
+ "jurisdiction": "EU",
+ "change_since_oj": "UNCHANGED",
+ "change_edits": null,
+ "sha256_current": "0e5dcc2b48c661aa4379858878415629d4dd8e34fc2381ca6e8c4a3b675e1c9f",
+ "agent_register_kinds": [],
+ "predicate_shortlist": false,
+ "related_axes": [],
+ "predicates": [],
+ "capsules_bound": 0,
+ "obligations": [
+  {
+   "obligation_id": "EU-mdr-2017:105/p0/s1",
+   "paragraph": "0",
+   "addressee": "UNRESOLVED",
+   "modality": "duty",
+   "evidence_kind": "UNTRIAGED",
+   "rule": "no-rule-matched",
+   "status": "DRAFT",
+   "text": "Tasks of the MDCG\nUnder this Regulation, the MDCG shall have the following tasks:"
+  }
+ ],
+ "door": "/api/evidence-bundle?provision=EU-mdr-2017:105",
+ "disclaimer": "Obligation rows are DRAFT machine cuts (counsel_confirmed=false). Measurement, not certification."
+}
